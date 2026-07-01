@@ -1,6 +1,6 @@
 ## 2026 Capuchin HC foraging efficiency and selectivity -- Cleaning Script
 ## MPI-AB; Teressa Wesley 
-#
+
 ## Script for cleaning BORIS output data
 
 ## packages needed
