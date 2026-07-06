@@ -586,6 +586,19 @@ count(modifiers_still_none) #If count is not zero, this means event(s) still hav
 
 
 ####Adjusting comments####
+
+#Making a data frame to look over recheck/comment/point of interest/other events 
+checks_comments <- arenas %>%
+  filter(
+    event %in% c(
+      "needs rechecked",
+      "point of interest/general comment",
+      "other behavior/modifier"
+    )
+  )
+View(checks_comments)
+
+
 #Replacing BORIS auto comment "Event automatically added by the fix unpaired state events function" with synonymous "etna"
 arenas <- arenas %>%
   mutate(
@@ -603,6 +616,17 @@ arenas <- arenas %>%
     )
   )
 
+#Checking rows where comment_1 or comment_2 is stna (start time not actual) or etna (end time not actual) or limited visiblity
+stna_etna_limvis <- arenas %>%
+  filter(
+    comment_1 %in% c("stna", "etna", "limited visibility") |
+      comment_2 %in% c("stna", "etna", "limited visibility")
+  )
+
+count(stna_etna_limvis) #Returns the number of rows where comment_1 or comment_2 is stna or etna or limited visiblity
+View(stna_etna_limvis) #Display the row(s) where comment_1 or comment_2 is stna or etna or limited visiblity
+# The observations indicated should be treated with caution since the sequence did not have a clear beginning/end or was limited in visibility 
+
 
 #Removing all observations that had an "nca" (no codable activity) comment associated
 #These videos do not contain any relevant information for this project
@@ -619,16 +643,6 @@ arenas <- arenas %>% #Removing all rows from observation_id values that contain 
     by = "observation_id"
   )
 
-#Making a data frame to look over recheck/comment/point of interest/other events 
-checks_comments <- arenas %>%
-  filter(
-    event %in% c(
-      "needs rechecked",
-      "point of interest/general comment",
-      "other behavior/modifier"
-    )
-  )
-View(checks_comments)
 
 #Changing "bite shell" from a comment into an event when it was coded as an other behavior/modifier event
 arenas <- arenas %>%
@@ -689,23 +703,17 @@ arenas <- arenas %>%
   ) %>%
   select(-bite_shell_batch_processing)
 
-#
-#
-#
-#
-#
-#
-#
-#
-# comments cleaning unfinished 
-#
-#
-#
-#
-#
-#
-#
-#
+
+#Checking rows where comment_1 or comment_2 is potential single event
+all_batch_got_all_processing_comments <- arenas %>%
+  filter(
+    comment_1 == "potential single event" |
+      comment_2 == "potential single event"
+  )
+
+count(all_batch_got_all_processing_comments) #Returns the number of rows where comment_1 or comment_2 is potential single event
+View(all_batch_got_all_processing_comments) #Display the row(s) where comment_1 or comment_2 is potential single event
+# These events should be manually checked to potentially be transformed into handling HC events
 
 
 
@@ -733,7 +741,6 @@ View(handling_hc_missing_release) #Displays the handling HC row(s) that do not h
 
 
 
-
 #Removing manipulate with hand(s) events with duration less than 0.5 seconds
 #These short events are likely coded inconsistently; extremely short hand manipulations may not always be coded
 arenas <- arenas %>%
@@ -744,12 +751,9 @@ arenas <- arenas %>%
 
 
 
-
-
-
-
 #Making a more descriptive dataframe that shows the prompt for each modifier according to the event 
-arenas_mods_prompts <- arenas %>%
+#arenas_mods_prompts <- arenas %>%
+arenas <- arenas %>%  
   mutate(
     modifier_1_prompt = case_when(
       event == "bucket rummaging" ~ "which bucket",
@@ -805,6 +809,219 @@ View(arenas_mods_prompts)
 
 
 
+## Creating sequence IDs for each handling HC event,
+## then attaching that ID to same-subject events that occur during the batch processing duration
+handling_hc_ids <- arenas %>%
+  filter(event == "handling HC") %>%
+  mutate(
+    arena_site_letter = case_when(
+      arena_site == "2PP" ~ "T",
+      arena_site == "COCO" ~ "C",
+      arena_site == "BBC" ~ "B",
+      arena_site == "PU" ~ "P",
+      TRUE ~ NA_character_
+    )
+  ) %>%
+  arrange(arena_site, event_real_time_start) %>%
+  group_by(arena_site) %>%
+  mutate(
+    handling_sequence_id = paste0("H", arena_site_letter, row_number())
+  ) %>%
+  ungroup() %>%
+  select(
+    subject,
+    arena_site,
+    handling_sequence_id,
+    handling_start = event_real_time_start,
+    handling_stop = event_real_time_stop
+  )
+
+arenas <- arenas %>%
+  left_join(
+    handling_hc_ids,
+    by = join_by(
+      subject,
+      arena_site,
+      event_real_time_start >= handling_start,
+      event_real_time_stop <= handling_stop
+    )
+  ) %>%
+  mutate(
+    sequence_id = coalesce(sequence_id, handling_sequence_id)
+  ) %>%
+  select(-handling_start, -handling_stop, -handling_sequence_id) %>%
+  relocate(sequence_id, .after = subject)
+
+#Creating a data frame of only handling HC sequences and their included events, ordered by the number in the handling HC ID
+handling_HC_events <- arenas %>%
+  filter(
+    !is.na(sequence_id),
+    str_starts(sequence_id, "H")
+  ) %>%
+  mutate(
+    sequence_id_number = as.numeric(str_extract(sequence_id, "\\d+"))
+  ) %>%
+  arrange(
+    arena_site,
+    sequence_id_number,
+    event_real_time_start
+  ) %>%
+  select(-sequence_id_number)
+
+View(handling_HC_events)
+
+
+
+## Creating sequence IDs for each unique batch processing event, 
+## then attaching that ID to same-subject events that occur during the batch processing duration
+batch_processing_ids <- arenas %>%
+  filter(event == "batch processing") %>%
+  mutate(
+    arena_site_letter = case_when(
+      arena_site == "2PP" ~ "T",
+      arena_site == "COCO" ~ "C",
+      arena_site == "BBC" ~ "B",
+      arena_site == "PU" ~ "P",
+      TRUE ~ NA_character_
+    )
+  ) %>%
+  arrange(arena_site, event_real_time_start) %>%
+  group_by(arena_site) %>%
+  mutate(
+    sequence_id = paste0("B", arena_site_letter, row_number())
+  ) %>%
+  ungroup() %>%
+  select(
+    subject,
+    arena_site,
+    sequence_id,
+    batch_start = event_real_time_start,
+    batch_stop = event_real_time_stop
+  )
+
+arenas <- arenas %>%
+  left_join(
+    batch_processing_ids,
+    by = join_by(
+      subject,
+      arena_site,
+      event_real_time_start >= batch_start,
+      event_real_time_stop <= batch_stop
+    )
+  ) %>%
+  select(-batch_start, -batch_stop) %>%
+  relocate(sequence_id, .after = subject)
+
+#Creating a data frame of only batch processing sequences and their included events, ordered by the number in the batch processing ID
+batch_processing_events <- arenas %>%
+  filter(
+    !is.na(sequence_id),
+    str_starts(sequence_id, "B")
+  ) %>%
+  mutate(
+    sequence_id_number = as.numeric(str_extract(sequence_id, "\\d+"))
+  ) %>%
+  arrange(
+    arena_site,
+    sequence_id_number,
+    event_real_time_start
+  ) %>%
+  select(-sequence_id_number)
+
+View(batch_processing_events) 
+
+
+
+# Checking that Main events (handling HC, batch processing) never overlap for the same subject 
+# Returns a count of overlapping rows, which should be 0
+handling_batch_overlaps <- arenas %>%
+  filter(event == "handling HC") %>%
+  select(
+    subject,
+    arena_site,
+    handling_start = event_real_time_start,
+    handling_stop = event_real_time_stop,
+    handling_sequence_id = sequence_id
+  ) %>%
+  inner_join(
+    arenas %>%
+      filter(event == "batch processing") %>%
+      select(
+        subject,
+        arena_site,
+        batch_start = event_real_time_start,
+        batch_stop = event_real_time_stop,
+        batch_sequence_id = sequence_id
+      ),
+    by = c("subject", "arena_site")
+  ) %>%
+  filter(
+    handling_start <= batch_stop,
+    handling_stop >= batch_start
+  )
+
+count(handling_batch_overlaps) #If count is not zero, this means handling HC event(s) overlap with batch processing event(s) for the same subject
+
+
+# Checking for wrong events during batch processing sequences
+# Returns a count of incompatible event rows, which should be 0
+batch_processing_unexpected_events <- arenas %>%
+  filter(
+    !is.na(sequence_id),
+    str_starts(sequence_id, "B"),
+    !event %in% c(
+      "batch processing",
+      "bucket rummaging",
+      "bucket inspection",
+      "smells held HC",
+      "2HC in batch processing",
+      "3HC in batch processing",
+      "4HC in batch processing",
+      "point of interest/general comment",
+      "other behavior/modifier",
+      "needs rechecked"
+    )
+  )
+
+count(batch_processing_unexpected_events) #If count is not zero, this means batch processing sequence(s) contain unexpected event(s)
+
+# Checking for wrong events during handling HC sequences
+# Returns a count of incompatible event rows, which should be 0
+handling_hc_unexpected_events <- arenas %>%
+  filter(
+    !is.na(sequence_id),
+    str_starts(sequence_id, "H"),
+    !event %in% c(
+      "handling HC",
+      "bucket inspection",
+      "smells held HC",
+      "bite and pull with teeth",
+      "bite shell", 
+      "manipulate with hand(s)",
+      "roll/scrub on surface",
+      "hit/pound on surface",
+      "hammerstone grab",
+      "pound with hammerstone",
+      "releases HC",
+      "eats HC",
+      "point of interest/general comment",
+      "other behavior/modifier",
+      "needs rechecked"
+    )
+  )
+
+count(handling_hc_unexpected_events) #If count is not zero, this means handling HC sequence(s) contain unexpected event(s)
+View(handling_hc_unexpected_events) #Display the row(s) with a handling HC sequence ID and an unexpected event
+
+
+    
+
+
+
+
+
+
+# Creating summary for each batch processing sequence 
 
 
 
@@ -815,15 +1032,24 @@ View(arenas_mods_prompts)
 
 
 
-# Check for wrong events during batch processing sequences
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 # Check for wrong events during handling
-# Removing ?, !, & from main data frame 
-
-
-
-
-
-
 
 
 
