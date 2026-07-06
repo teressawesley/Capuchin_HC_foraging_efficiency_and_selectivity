@@ -8,6 +8,7 @@ library(dplyr)
 library(stringr)
 library(lubridate)
 library(tidyr)
+library(readr)
 library(janitor)
 
 ### Loading dataset ####
@@ -557,34 +558,6 @@ count(modifiers_still_none) #If count is not zero, this means event(s) still hav
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 ####Adjusting comments####
 
 #Making a data frame to look over recheck/comment/point of interest/other events 
@@ -717,8 +690,6 @@ View(all_batch_got_all_processing_comments) #Display the row(s) where comment_1 
 
 
 
-
-
 #A common user error with this BORIS project is forgetting to code the end of a "handling HC" event. 
 #Below, we check for handling HC events that have a matching releases HC event at the same event_real_time_stop for the same subject
 #A list is returned of the handling HC events that are NOT paired with a release or explained by an "etna" (end time not actual) comment
@@ -749,10 +720,7 @@ arenas <- arenas %>%
   )
 
 
-
-
-#Making a more descriptive dataframe that shows the prompt for each modifier according to the event 
-#arenas_mods_prompts <- arenas %>%
+#Adding columns to show the prompt for each modifier according to the event 
 arenas <- arenas %>%  
   mutate(
     modifier_1_prompt = case_when(
@@ -804,9 +772,53 @@ arenas <- arenas %>%
   relocate(modifier_3_prompt, .before = modifier_3) %>%
   relocate(modifier_4_prompt, .before = modifier_4) %>%
   relocate(modifier_5_prompt, .before = modifier_5)
-View(arenas_mods_prompts)
+
+#Saving arenas as a CSV
+write_csv(
+  arenas,
+  "all_arenas.csv"
+)
 
 
+
+
+# Checking that Main events (handling HC, batch processing) never overlap for the same subject 
+# Returns a count of overlapping rows, which should be 0
+handling_batch_overlaps <- arenas %>%
+  filter(event == "handling HC") %>%
+  select(
+    subject,
+    arena_site,
+    handling_start = event_real_time_start,
+    handling_stop = event_real_time_stop
+  ) %>%
+  inner_join(
+    arenas %>%
+      filter(event == "batch processing") %>%
+      select(
+        subject,
+        arena_site,
+        batch_start = event_real_time_start,
+        batch_stop = event_real_time_stop
+      ),
+    by = c("subject", "arena_site")
+  ) %>%
+  filter(
+    handling_start <= batch_stop,
+    handling_stop >= batch_start
+  )
+
+count(handling_batch_overlaps) #If count is not zero, this means handling HC event(s) overlap with batch processing event(s) for the same subject
+
+
+
+
+# Preparing a column to add sequence IDs for Main events
+arenas <- arenas %>%
+  mutate(
+    sequence_id = NA_character_
+  ) %>%
+  relocate(sequence_id, .after = subject)
 
 
 ## Creating sequence IDs for each handling HC event,
@@ -847,10 +859,9 @@ arenas <- arenas %>%
     )
   ) %>%
   mutate(
-    sequence_id = coalesce(sequence_id, handling_sequence_id)
+    sequence_id = handling_sequence_id
   ) %>%
-  select(-handling_start, -handling_stop, -handling_sequence_id) %>%
-  relocate(sequence_id, .after = subject)
+  select(-handling_start, -handling_stop, -handling_sequence_id)
 
 #Creating a data frame of only handling HC sequences and their included events, ordered by the number in the handling HC ID
 handling_HC_events <- arenas %>%
@@ -870,7 +881,11 @@ handling_HC_events <- arenas %>%
 
 View(handling_HC_events)
 
-
+#Saving handling HC sequence events as a CSV
+write_csv(
+  handling_HC_events,
+  "handling_HC_events.csv"
+)
 
 ## Creating sequence IDs for each unique batch processing event, 
 ## then attaching that ID to same-subject events that occur during the batch processing duration
@@ -888,13 +903,13 @@ batch_processing_ids <- arenas %>%
   arrange(arena_site, event_real_time_start) %>%
   group_by(arena_site) %>%
   mutate(
-    sequence_id = paste0("B", arena_site_letter, row_number())
+    batch_sequence_id = paste0("B", arena_site_letter, row_number())
   ) %>%
   ungroup() %>%
   select(
     subject,
     arena_site,
-    sequence_id,
+    batch_sequence_id,
     batch_start = event_real_time_start,
     batch_stop = event_real_time_stop
   )
@@ -909,8 +924,11 @@ arenas <- arenas %>%
       event_real_time_stop <= batch_stop
     )
   ) %>%
-  select(-batch_start, -batch_stop) %>%
-  relocate(sequence_id, .after = subject)
+  mutate(
+    sequence_id = coalesce(sequence_id, batch_sequence_id)
+  ) %>%
+  select(-batch_start, -batch_stop, -batch_sequence_id)
+
 
 #Creating a data frame of only batch processing sequences and their included events, ordered by the number in the batch processing ID
 batch_processing_events <- arenas %>%
@@ -929,38 +947,6 @@ batch_processing_events <- arenas %>%
   select(-sequence_id_number)
 
 View(batch_processing_events) 
-
-
-
-# Checking that Main events (handling HC, batch processing) never overlap for the same subject 
-# Returns a count of overlapping rows, which should be 0
-handling_batch_overlaps <- arenas %>%
-  filter(event == "handling HC") %>%
-  select(
-    subject,
-    arena_site,
-    handling_start = event_real_time_start,
-    handling_stop = event_real_time_stop,
-    handling_sequence_id = sequence_id
-  ) %>%
-  inner_join(
-    arenas %>%
-      filter(event == "batch processing") %>%
-      select(
-        subject,
-        arena_site,
-        batch_start = event_real_time_start,
-        batch_stop = event_real_time_stop,
-        batch_sequence_id = sequence_id
-      ),
-    by = c("subject", "arena_site")
-  ) %>%
-  filter(
-    handling_start <= batch_stop,
-    handling_stop >= batch_start
-  )
-
-count(handling_batch_overlaps) #If count is not zero, this means handling HC event(s) overlap with batch processing event(s) for the same subject
 
 
 # Checking for wrong events during batch processing sequences
@@ -1011,11 +997,13 @@ handling_hc_unexpected_events <- arenas %>%
   )
 
 count(handling_hc_unexpected_events) #If count is not zero, this means handling HC sequence(s) contain unexpected event(s)
-View(handling_hc_unexpected_events) #Display the row(s) with a handling HC sequence ID and an unexpected event
+#View(handling_hc_unexpected_events) #Display the row(s) with a handling HC sequence ID and an unexpected event
 
-
-    
-
+#Saving batch processing sequence events as a CSV
+write_csv(
+  batch_processing_events,
+  "batch_processing_events.csv"
+)
 
 
 
@@ -1048,8 +1036,6 @@ View(handling_hc_unexpected_events) #Display the row(s) with a handling HC seque
 
 
 
-
-# Check for wrong events during handling
 
 
 
