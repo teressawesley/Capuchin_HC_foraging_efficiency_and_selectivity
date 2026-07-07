@@ -10,6 +10,7 @@ library(lubridate)
 library(tidyr)
 library(readr)
 library(janitor)
+library(readxl)
 
 ### Loading dataset ####
 # load csv files with aggregated BORIS output
@@ -123,7 +124,7 @@ arenas <- arenas %>%
   )
 
 
-###BORIS Ethogram validations###
+#####BORIS Ethogram validations#####
 
 #Checking that bucket rummaging received modifier input. Returns a count of events missing a modifier input, which should be 0
 bucket_rummaging_missing_mod <- arenas %>%
@@ -302,6 +303,19 @@ count(all_missing_modifiers) #If count is not zero, this means event(s) need rec
 View(all_missing_modifiers) #Display all rows for observations and events that need to be fixed
 
 #!!Fix any missing modifiers from above before you continue, as the next steps will further manipulate the modifiers!!
+
+
+
+#Checking for handling HC events where the HC was known to be previously processed 
+previously_processed <- arenas %>%
+  filter(
+    event == "handling HC",
+    !is.na(modifier_4)
+  )
+
+count(previously_processed) 
+View(previously_processed) #Display the handling HC event(s) where modifier_4 is not NA
+# The observations indicated should be manually checked for possible removal
 
 
 
@@ -558,7 +572,9 @@ count(modifiers_still_none) #If count is not zero, this means event(s) still hav
 
 
 
-####Adjusting comments####
+
+
+#####Adjusting comments######
 
 #Making a data frame to look over recheck/comment/point of interest/other events 
 checks_comments <- arenas %>%
@@ -678,14 +694,14 @@ arenas <- arenas %>%
 
 
 #Checking rows where comment_1 or comment_2 is potential single event
-all_batch_got_all_processing_comments <- arenas %>%
+potential_single_events <- arenas %>%
   filter(
     comment_1 == "potential single event" |
       comment_2 == "potential single event"
   )
 
-count(all_batch_got_all_processing_comments) #Returns the number of rows where comment_1 or comment_2 is potential single event
-View(all_batch_got_all_processing_comments) #Display the row(s) where comment_1 or comment_2 is potential single event
+count(potential_single_events) #Returns the number of rows where comment_1 or comment_2 is potential single event
+View(potential_single_events) #Display the row(s) where comment_1 or comment_2 is potential single event
 # These events should be manually checked to potentially be transformed into handling HC events
 
 
@@ -708,7 +724,8 @@ handling_hc_missing_release <- arenas %>%
     by = c("subject", "event_real_time_stop")
   )
 
-View(handling_hc_missing_release) #Displays the handling HC row(s) that do not have a matching releases HC event at the same stop time for the same subject
+count(handling_hc_missing_release) #If count is not zero, this means event(s) need rechecked 
+#View(handling_hc_missing_release) #Displays the handling HC row(s) that do not have a matching releases HC event at the same stop time for the same subject
 
 
 
@@ -970,6 +987,8 @@ batch_processing_unexpected_events <- arenas %>%
   )
 
 count(batch_processing_unexpected_events) #If count is not zero, this means batch processing sequence(s) contain unexpected event(s)
+#View(batch_processing_unexpected_events) #Display the row(s) with a batch processing sequence ID and an unexpected event
+
 
 # Checking for wrong events during handling HC sequences
 # Returns a count of incompatible event rows, which should be 0
@@ -1004,6 +1023,43 @@ write_csv(
   batch_processing_events,
   "batch_processing_events.csv"
 )
+
+
+
+#####Adding additional data from field notes#######
+
+# load csv files with aggregated BORIS output
+field_info <- read_excel("hermit_crab_arena_field_data.xlsx") # Teressa's excel with field note information on hermit crab arena sites 
+
+# tidy names using the janitor package
+field_info <- clean_names(field_info)
+
+
+
+# filter field info to current sites of interest
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
