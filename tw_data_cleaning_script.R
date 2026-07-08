@@ -124,6 +124,8 @@ arenas <- arenas %>%
   )
 
 
+
+
 #####BORIS Ethogram validations#####
 
 #Checking that bucket rummaging received modifier input. Returns a count of events missing a modifier input, which should be 0
@@ -306,16 +308,6 @@ View(all_missing_modifiers) #Display all rows for observations and events that n
 
 
 
-#Checking for handling HC events where the HC was known to be previously processed 
-previously_processed <- arenas %>%
-  filter(
-    event == "handling HC",
-    !is.na(modifier_4)
-  )
-
-count(previously_processed) 
-View(previously_processed) #Display the handling HC event(s) where modifier_4 is not NA
-# The observations indicated should be manually checked for possible removal
 
 
 
@@ -443,7 +435,7 @@ arenas <- arenas %>%
     )
   )
 
-#Replacing default None values for hammerstone grab modifiers
+#Replacing None values for hammerstone grab modifiers
 arenas <- arenas %>%
   mutate(
     modifier_3 = if_else(
@@ -453,7 +445,7 @@ arenas <- arenas %>%
     )
   )
 
-#Replacing default None values for pound with hammerstone modifiers
+#Replacing None values for pound with hammerstone modifiers
 arenas <- arenas %>%
   mutate(
     modifier_2 = if_else(
@@ -572,6 +564,17 @@ count(modifiers_still_none) #If count is not zero, this means event(s) still hav
 
 
 
+#Checking for handling HC events where the HC was known to be previously processed 
+previously_processed <- arenas %>%
+  filter(
+    event == "handling HC",
+    !is.na(modifier_4)
+  )
+
+count(previously_processed) 
+View(previously_processed) #Display the handling HC event(s) where modifier_4 is not NA
+# The observations indicated should be manually checked for possible removal
+
 
 
 #####Adjusting comments######
@@ -585,7 +588,7 @@ checks_comments <- arenas %>%
       "other behavior/modifier"
     )
   )
-View(checks_comments)
+#View(checks_comments)
 
 
 #Replacing BORIS auto comment "Event automatically added by the fix unpaired state events function" with synonymous "etna"
@@ -790,13 +793,98 @@ arenas <- arenas %>%
   relocate(modifier_4_prompt, .before = modifier_4) %>%
   relocate(modifier_5_prompt, .before = modifier_5)
 
-#Saving arenas as a CSV
+
+
+
+#####Adding additional data from field notes#######
+
+# load csv files with aggregated BORIS output
+field_info <- read_excel("hermit_crab_arena_field_data.xlsx") # Teressa's excel with field note information on hermit crab arena sites 
+
+# tidy names using the janitor package
+field_info <- clean_names(field_info)
+
+# Removing the mm after the size number in HC size columns
+field_info <- field_info %>%
+  mutate(
+    size_of_small_mm = if_else(
+      !is.na(size_of_small_mm),
+      str_remove(size_of_small_mm, "mm"),
+      size_of_small_mm
+    ),
+    size_of_large_mm = if_else(
+      !is.na(size_of_large_mm),
+      str_remove(size_of_large_mm, "mm"),
+      size_of_large_mm
+    )
+  )
+
+# Adding columns that translate descriptive bucket size per period into the actual measurement size
+field_info <- field_info %>%
+  mutate(
+    bucket_1_size_mm = case_when(
+      category_bucket_1 == "Small" ~ as.integer(size_of_small_mm),
+      category_bucket_1 == "Large" ~ as.integer(size_of_large_mm),
+      TRUE ~ NA_integer_
+    ),
+    bucket_2_size_mm = case_when(
+      category_bucket_2 == "Small" ~ as.integer(size_of_small_mm),
+      category_bucket_2 == "Large" ~ as.integer(size_of_large_mm),
+      TRUE ~ NA_integer_
+    )
+  ) %>%
+  relocate(bucket_1_size_mm, .after = category_bucket_1) %>%
+  relocate(bucket_2_size_mm, .after = category_bucket_2)
+
+# remove unnecessary columns 
+field_info <- field_info %>%
+  select(-any_of(c("category_bucket_1", "category_bucket_2", "size_of_small_mm", "size_of_large_mm")))
+
+
+#Saving field_info as a CSV
 write_csv(
-  arenas,
-  "all_arenas.csv"
+  field_info,
+  "cleaned_all_field_info.csv"
 )
 
 
+# Filter field info to current sites of interest
+arenas_field_info <- field_info %>%
+  filter(
+    arena_site %in% arenas$arena_site
+  )
+#View(arenas_field_info)
+
+
+# Replacing bucket 1 and bucket 2 modifiers in arenas with the actual mm size of the HC in the bucket 
+arenas <- arenas %>%
+  left_join(
+    arenas_field_info %>%
+      select(
+        deployement_period,
+        arena_site,
+        bucket_1_size_mm,
+        bucket_2_size_mm
+      ) %>%
+      distinct(),
+    by = c("deployement_period", "arena_site")
+  ) %>%
+  mutate(
+    across(
+      c(modifier_1, modifier_2, modifier_3, modifier_4, modifier_5),
+      ~ case_when(
+        .x == "bucket 1" ~ as.character(bucket_1_size_mm),
+        .x == "bucket 2" ~ as.character(bucket_2_size_mm),
+        TRUE ~ .x
+      )
+    )
+  ) %>%
+  select(-bucket_1_size_mm, -bucket_2_size_mm)
+
+
+
+
+######Making main sequence dataframes#############
 
 
 # Checking that Main events (handling HC, batch processing) never overlap for the same subject 
@@ -826,8 +914,6 @@ handling_batch_overlaps <- arenas %>%
   )
 
 count(handling_batch_overlaps) #If count is not zero, this means handling HC event(s) overlap with batch processing event(s) for the same subject
-
-
 
 
 # Preparing a column to add sequence IDs for Main events
@@ -898,11 +984,6 @@ handling_HC_events <- arenas %>%
 
 View(handling_HC_events)
 
-#Saving handling HC sequence events as a CSV
-write_csv(
-  handling_HC_events,
-  "handling_HC_events.csv"
-)
 
 ## Creating sequence IDs for each unique batch processing event, 
 ## then attaching that ID to same-subject events that occur during the batch processing duration
@@ -1018,29 +1099,24 @@ handling_hc_unexpected_events <- arenas %>%
 count(handling_hc_unexpected_events) #If count is not zero, this means handling HC sequence(s) contain unexpected event(s)
 #View(handling_hc_unexpected_events) #Display the row(s) with a handling HC sequence ID and an unexpected event
 
+
+#Saving arenas as a CSV
+write_csv(
+  arenas,
+  "all_arenas.csv"
+)
+
+#Saving handling HC sequence events as a CSV
+write_csv(
+  handling_HC_events,
+  "handling_HC_events.csv"
+)
+
 #Saving batch processing sequence events as a CSV
 write_csv(
   batch_processing_events,
   "batch_processing_events.csv"
 )
-
-
-
-#####Adding additional data from field notes#######
-
-# load csv files with aggregated BORIS output
-field_info <- read_excel("hermit_crab_arena_field_data.xlsx") # Teressa's excel with field note information on hermit crab arena sites 
-
-# tidy names using the janitor package
-field_info <- clean_names(field_info)
-
-
-
-# filter field info to current sites of interest
-
-
-
-
 
 
 
