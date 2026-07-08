@@ -60,7 +60,8 @@ arenas <- arenas %>%
     event_type = behavior_type
   )
 
-View(arenas)
+
+#View(arenas)
 
 # add unique event date/time by adding event time to observation_date 
 arenas <- arenas %>%
@@ -921,11 +922,11 @@ arenas <- arenas %>%
   )
 
 # To look at rows where event is hammerstone grab and therefore should have the modifer_1 size info inputted from above
-# hammerstone_grab_eventss <- arenas %>%
+# hammerstone_grab_events <- arenas %>%
 #   filter(
 #     event == "hammerstone grab"
 #   )
-#View(hammerstone_grab_eventss) #Display the hammerstone grab event(s)
+# View(hammerstone_grab_events) #Display the hammerstone grab event(s)
 
 
 
