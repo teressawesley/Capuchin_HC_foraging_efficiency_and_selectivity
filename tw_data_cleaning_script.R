@@ -842,11 +842,10 @@ field_info <- field_info %>%
 
 
 #Saving field_info as a CSV
-write_csv(
-  field_info,
-  "cleaned_all_field_info.csv"
-)
-
+# write_csv(
+#   field_info,
+#   "cleaned_all_field_info.csv"
+# )
 
 # Filter field info to current sites of interest
 arenas_field_info <- field_info %>%
@@ -855,8 +854,13 @@ arenas_field_info <- field_info %>%
   )
 #View(arenas_field_info)
 
+#Saving arenas_field_info as a CSV
+# write_csv(
+#   field_info,
+#   "cleaned_focus_field_info.csv"
+# )
 
-# Replacing bucket 1 and bucket 2 modifiers in arenas with the actual mm size of the HC in the bucket 
+# Adding to bucket 1 and bucket 2 modifiers in arenas with the actual mm size of the HC in the bucket 
 arenas <- arenas %>%
   left_join(
     arenas_field_info %>%
@@ -873,13 +877,58 @@ arenas <- arenas %>%
     across(
       c(modifier_1, modifier_2, modifier_3, modifier_4, modifier_5),
       ~ case_when(
-        .x == "bucket 1" ~ as.character(bucket_1_size_mm),
-        .x == "bucket 2" ~ as.character(bucket_2_size_mm),
+        .x == "bucket 1" ~ paste0("bucket 1, ", bucket_1_size_mm),
+        .x == "bucket 2" ~ paste0("bucket 2, ", bucket_2_size_mm),
         TRUE ~ .x
       )
     )
   ) %>%
   select(-bucket_1_size_mm, -bucket_2_size_mm)
+
+
+# Replacing small, medium, large hammerstone modifiers in arenas with the actual size of the hammerstone
+arenas <- arenas %>%
+  left_join(
+    arenas_field_info %>%
+      select(
+        deployement_period,
+        arena_site,
+        small_stone_lx_wx_d_mm,
+        small_stone_weight_g,
+        medium_stone_lx_wx_d_mm,
+        medium_stone_weight_g,
+        large_stone_lx_wx_d_mm,
+        large_stone_weight_g
+      ) %>%
+      distinct(),
+    by = c("deployement_period", "arena_site")
+  ) %>%
+  mutate(
+    modifier_1 = case_when(
+      modifier_1 == "small" ~ paste(small_stone_lx_wx_d_mm, small_stone_weight_g, sep = ", "),
+      modifier_1 == "medium" ~ paste(medium_stone_lx_wx_d_mm, medium_stone_weight_g, sep = ", "),
+      modifier_1 == "large" ~ paste(large_stone_lx_wx_d_mm, large_stone_weight_g, sep = ", "),
+      TRUE ~ modifier_1
+    )
+  ) %>%
+  select(
+    -small_stone_lx_wx_d_mm,
+    -small_stone_weight_g,
+    -medium_stone_lx_wx_d_mm,
+    -medium_stone_weight_g,
+    -large_stone_lx_wx_d_mm,
+    -large_stone_weight_g
+  )
+
+# To look at rows where event is hammerstone grab and therefore should have the modifer_1 size info inputted from above
+# hammerstone_grab_eventss <- arenas %>%
+#   filter(
+#     event == "hammerstone grab"
+#   )
+#View(hammerstone_grab_eventss) #Display the hammerstone grab event(s)
+
+
+
 
 
 
