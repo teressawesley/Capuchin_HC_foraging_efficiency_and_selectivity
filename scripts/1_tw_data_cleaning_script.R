@@ -3,7 +3,8 @@
 
 ## Script for cleaning BORIS output data and adding additional information
 
-## packages needed
+# Packages -------------------------------------------------------------
+
 library(dplyr)
 library(stringr)
 library(lubridate)
@@ -12,7 +13,8 @@ library(readr)
 library(janitor)
 library(readxl)
 
-### Loading dataset ####
+# Loading dataset -------------------------------------------------------------
+
 # load csv files with aggregated BORIS output
 TPP <- read.csv("raw_data/2PP/2026-HC-2PPSTREAM-A-B__ALL.csv") # Teressa's csv with all 2PP site coded by TW
 COCO <- read.csv("raw_data/COCO/2026-HC-COCO-A-B__ALL.csv") # Teressa's csv with all COCO site coded UP TO JULY 3 coded by TW
@@ -30,6 +32,8 @@ COCO <- clean_names(COCO)
 arenas <- rbind(TPP, COCO)
 # sort so that observations from the same video are clustered together and it's chronological
 arenas <- arenas[order(arenas$observation_id),]
+
+# Adjusting dataset -------------------------------------------------------------
 
 # Updating the observation_date to match the accurate date and time from the observation_id 
 arenas <- arenas %>%
@@ -126,8 +130,7 @@ arenas <- arenas %>%
 
 
 
-
-#####BORIS Ethogram validations#####
+# BORIS modifiers validations -------------------------------------------------------------
 
 #Checking that bucket rummaging received modifier input. Returns a count of events missing a modifier input, which should be 0
 bucket_rummaging_missing_mod <- arenas %>%
@@ -310,9 +313,8 @@ View(all_missing_modifiers) #Display all rows for observations and events that n
 
 
 
+# BORIS Event default/NA insertion -------------------------------------------------------------
 
-
-###BORIS Event default/NA insertion###
 #Many events show modifiers as None, but these need to be replaced by the default option or NA if None is not associated with a meaning
 
 #Replacing None values for batch processing modifiers
@@ -564,6 +566,7 @@ count(modifiers_still_none) #If count is not zero, this means event(s) still hav
 #View(modifiers_still_none) #Display the row for the observation(s) and event(s) that still contain None values
 
 
+# Events with previously processed -------------------------------------------------------------
 
 #Checking for handling HC events where the HC was known to be previously processed 
 previously_processed <- arenas %>%
@@ -576,9 +579,7 @@ count(previously_processed)
 View(previously_processed) #Display the handling HC event(s) where modifier_4 is not NA
 # The observations indicated should be manually checked for possible removal
 
-
-
-#####Adjusting comments######
+# Adjusting comments -------------------------------------------------------------
 
 #Making a data frame to look over recheck/comment/point of interest/other events 
 checks_comments <- arenas %>%
@@ -708,7 +709,7 @@ count(potential_single_events) #Returns the number of rows where comment_1 or co
 View(potential_single_events) #Display the row(s) where comment_1 or comment_2 is potential single event
 # These events should be manually checked to potentially be transformed into handling HC events
 
-
+# Check for end of a "handling HC" event -------------------------------------------------------------
 
 #A common user error with this BORIS project is forgetting to code the end of a "handling HC" event. 
 #Below, we check for handling HC events that have a matching releases HC event at the same event_real_time_stop for the same subject
@@ -731,7 +732,7 @@ handling_hc_missing_release <- arenas %>%
 count(handling_hc_missing_release) #If count is not zero, this means event(s) need rechecked 
 #View(handling_hc_missing_release) #Displays the handling HC row(s) that do not have a matching releases HC event at the same stop time for the same subject
 
-
+# Short event removal -------------------------------------------------------------
 
 #Removing manipulate with hand(s) events with duration less than 0.5 seconds
 #These short events are likely coded inconsistently; extremely short hand manipulations may not always be coded
@@ -740,6 +741,15 @@ arenas <- arenas %>%
     !(event == "manipulate with hand(s)" & duration_s < 0.5)
   )
 
+#Removing bucket inspection events with duration less than 1 second, 
+#The ethogram defines this event as having a minimum duration of 1 second, so any cases less than 1 second were miscoded
+arenas <- arenas %>%
+  filter(
+    !(event == "bucket inspection" & duration_s < 1)
+  )
+
+
+# Adding modifier prompts -------------------------------------------------------------
 
 #Adding columns to show the prompt for each modifier according to the event 
 arenas <- arenas %>%  
@@ -796,8 +806,7 @@ arenas <- arenas %>%
 
 
 
-
-#####Adding additional data from field notes#######
+# Adding additional data from field notes -------------------------------------------------------------
 
 # load csv files with aggregated BORIS output
 field_info <- read_excel("raw_data/hermit_crab_arena_field_data.xlsx") # Teressa's excel with field note information on hermit crab arena sites 
@@ -933,9 +942,7 @@ arenas <- arenas %>%
 
 
 
-
-######Making main sequence dataframes#############
-
+# Making main sequence dataframes -------------------------------------------------------------
 
 # Checking that Main events (handling HC, batch processing) never overlap for the same subject 
 # Returns a count of overlapping rows, which should be 0
@@ -1149,6 +1156,7 @@ handling_hc_unexpected_events <- arenas %>%
 count(handling_hc_unexpected_events) #If count is not zero, this means handling HC sequence(s) contain unexpected event(s)
 #View(handling_hc_unexpected_events) #Display the row(s) with a handling HC sequence ID and an unexpected event
 
+# Saving output -------------------------------------------------------------
 
 #Saving arenas as a CSV
 write_csv(
@@ -1175,23 +1183,6 @@ write_csv(
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Creating summary for each batch processing sequence 
 
 
 
