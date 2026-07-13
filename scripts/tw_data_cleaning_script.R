@@ -14,8 +14,8 @@ library(readxl)
 
 ### Loading dataset ####
 # load csv files with aggregated BORIS output
-TPP <- read.csv("2PP/2026-HC-2PPSTREAM-A-B__ALL.csv") # Teressa's csv with all 2PP site coded by TW
-COCO <- read.csv("COCO/2026-HC-COCO-A-B__ALL.csv") # Teressa's csv with all COCO site coded UP TO JULY 3 coded by TW
+TPP <- read.csv("raw_data/2PP/2026-HC-2PPSTREAM-A-B__ALL.csv") # Teressa's csv with all 2PP site coded by TW
+COCO <- read.csv("raw_data/COCO/2026-HC-COCO-A-B__ALL.csv") # Teressa's csv with all COCO site coded UP TO JULY 3 coded by TW
 
 # tidy names using the janitor package
 TPP <- clean_names(TPP)
@@ -800,7 +800,7 @@ arenas <- arenas %>%
 #####Adding additional data from field notes#######
 
 # load csv files with aggregated BORIS output
-field_info <- read_excel("hermit_crab_arena_field_data.xlsx") # Teressa's excel with field note information on hermit crab arena sites 
+field_info <- read_excel("raw_data/hermit_crab_arena_field_data.xlsx") # Teressa's excel with field note information on hermit crab arena sites 
 
 # tidy names using the janitor package
 field_info <- clean_names(field_info)
@@ -858,7 +858,7 @@ arenas_field_info <- field_info %>%
 #Saving arenas_field_info as a CSV
 # write_csv(
 #   field_info,
-#   "cleaned_focus_field_info.csv"
+#   "generated_data/cleaned_focus_field_info.csv"
 # )
 
 # Adding to bucket 1 and bucket 2 modifiers in arenas with the actual mm size of the HC in the bucket 
@@ -1153,19 +1153,19 @@ count(handling_hc_unexpected_events) #If count is not zero, this means handling 
 #Saving arenas as a CSV
 write_csv(
   arenas,
-  "all_arenas.csv"
+  "generated_data/all_arenas.csv"
 )
 
 #Saving handling HC sequence events as a CSV
 write_csv(
   handling_HC_events,
-  "handling_HC_events.csv"
+  "generated_data/handling_HC_events.csv"
 )
 
 #Saving batch processing sequence events as a CSV
 write_csv(
   batch_processing_events,
-  "batch_processing_events.csv"
+  "generated_data/batch_processing_events.csv"
 )
 
 
