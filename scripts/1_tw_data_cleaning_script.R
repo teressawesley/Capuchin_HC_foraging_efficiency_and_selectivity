@@ -13,6 +13,9 @@ library(readr)
 library(janitor)
 library(readxl)
 
+
+
+
 # Loading dataset -------------------------------------------------------------
 
 # load csv files with aggregated BORIS output
@@ -32,6 +35,9 @@ COCO <- clean_names(COCO)
 arenas <- rbind(TPP, COCO)
 # sort so that observations from the same video are clustered together and it's chronological
 arenas <- arenas[order(arenas$observation_id),]
+
+
+
 
 # Adjusting dataset -------------------------------------------------------------
 
@@ -127,6 +133,9 @@ arenas <- arenas %>%
       ~ na_if(str_squish(.x), "")
     )
   )
+
+
+
 
 
 
@@ -313,6 +322,8 @@ View(all_missing_modifiers) #Display all rows for observations and events that n
 
 
 
+
+
 # BORIS Event default/NA insertion -------------------------------------------------------------
 
 #Many events show modifiers as None, but these need to be replaced by the default option or NA if None is not associated with a meaning
@@ -401,6 +412,22 @@ arenas <- arenas %>%
       modifier_5
     )
   )
+
+#HC state is assumed to be not broken, unless otherwise indicated, when picked up from bucket
+#When picked up from ground, HC state cannot be assumed to be not broken
+#Replacing HC state with "unknown" for handling HC events when HC was picked up from ground
+arenas <- arenas %>%
+  mutate(
+    modifier_3 = if_else(
+      event == "handling HC" &
+        modifier_2 == "ground" &
+        modifier_3 == "not broken",
+      "unknown",
+      modifier_3,
+      missing = modifier_3
+    )
+  )
+
 
 #Replacing None values for smells held HC modifiers
 arenas <- arenas %>%
@@ -566,6 +593,9 @@ count(modifiers_still_none) #If count is not zero, this means event(s) still hav
 #View(modifiers_still_none) #Display the row for the observation(s) and event(s) that still contain None values
 
 
+
+
+
 # Events with previously processed -------------------------------------------------------------
 
 #Checking for handling HC events where the HC was known to be previously processed 
@@ -576,8 +606,11 @@ previously_processed <- arenas %>%
   )
 
 count(previously_processed) 
-View(previously_processed) #Display the handling HC event(s) where modifier_4 is not NA
+#View(previously_processed) #Display the handling HC event(s) where modifier_4 is not NA
 # The observations indicated should be manually checked for possible removal
+
+
+
 
 # Adjusting comments -------------------------------------------------------------
 
@@ -590,7 +623,7 @@ checks_comments <- arenas %>%
       "other behavior/modifier"
     )
   )
-#View(checks_comments)
+# View(checks_comments)
 
 
 #Replacing BORIS auto comment "Event automatically added by the fix unpaired state events function" with synonymous "etna"
@@ -610,16 +643,28 @@ arenas <- arenas %>%
     )
   )
 
-#Checking rows where comment_1 or comment_2 is stna (start time not actual) or etna (end time not actual) or limited visiblity
-stna_etna_limvis <- arenas %>%
-  filter(
-    comment_1 %in% c("stna", "etna", "limited visibility") |
-      comment_2 %in% c("stna", "etna", "limited visibility")
+# Checking rows where comment_1 or comment_2 is stna (start time not actual) or etna (end time not actual) 
+# and for limited visiblity or previously processed
+# Adding flag column for these cases
+arenas <- arenas %>%
+  mutate(
+    flag = case_when(
+      modifier_3 == "previously processed" ~ "flag - previously processed",
+      comment_1 == "limited visibility" | comment_2 == "limited visibility" ~ "flag - limited visibility",
+      comment_1 == "etna" | comment_2 == "etna" ~ "flag - etna",
+      comment_1 == "stna" | comment_2 == "stna" ~ "flag - stna",
+      TRUE ~ NA_character_
+    )
   )
 
-count(stna_etna_limvis) #Returns the number of rows where comment_1 or comment_2 is stna or etna or limited visiblity
-View(stna_etna_limvis) #Display the row(s) where comment_1 or comment_2 is stna or etna or limited visiblity
-# The observations indicated should be treated with caution since the sequence did not have a clear beginning/end or was limited in visibility 
+#Creating a data frame of rows that have been flagged
+flags <- arenas %>%
+  filter(
+    !is.na(flag)
+  )
+
+count(flags) #Returns the number of flagged rows
+View(flags) #Display the row(s) that have been flagged
 
 
 #Removing all observations that had an "nca" (no codable activity) comment associated
@@ -706,8 +751,12 @@ potential_single_events <- arenas %>%
   )
 
 count(potential_single_events) #Returns the number of rows where comment_1 or comment_2 is potential single event
-View(potential_single_events) #Display the row(s) where comment_1 or comment_2 is potential single event
+#View(potential_single_events) #Display the row(s) where comment_1 or comment_2 is potential single event
 # These events should be manually checked to potentially be transformed into handling HC events
+
+
+
+
 
 # Check for end of a "handling HC" event -------------------------------------------------------------
 
@@ -732,6 +781,9 @@ handling_hc_missing_release <- arenas %>%
 count(handling_hc_missing_release) #If count is not zero, this means event(s) need rechecked 
 #View(handling_hc_missing_release) #Displays the handling HC row(s) that do not have a matching releases HC event at the same stop time for the same subject
 
+
+
+
 # Short event removal -------------------------------------------------------------
 
 #Removing manipulate with hand(s) events with duration less than 0.5 seconds
@@ -747,6 +799,9 @@ arenas <- arenas %>%
   filter(
     !(event == "bucket inspection" & duration_s < 1)
   )
+
+
+
 
 
 # Adding modifier prompts -------------------------------------------------------------
@@ -806,6 +861,8 @@ arenas <- arenas %>%
 
 
 
+
+
 # Adding additional data from field notes -------------------------------------------------------------
 
 # load csv files with aggregated BORIS output
@@ -850,25 +907,12 @@ field_info <- field_info %>%
 field_info <- field_info %>%
   select(-any_of(c("category_bucket_1", "category_bucket_2", "size_of_small_mm", "size_of_large_mm")))
 
-
-#Saving field_info as a CSV
-# write_csv(
-#   field_info,
-#   "cleaned_all_field_info.csv"
-# )
-
 # Filter field info to current sites of interest
 arenas_field_info <- field_info %>%
   filter(
     arena_site %in% arenas$arena_site
   )
 #View(arenas_field_info)
-
-#Saving arenas_field_info as a CSV
-# write_csv(
-#   field_info,
-#   "generated_data/cleaned_focus_field_info.csv"
-# )
 
 # Adding to bucket 1 and bucket 2 modifiers in arenas with the actual mm size of the HC in the bucket 
 arenas <- arenas %>%
@@ -1156,6 +1200,9 @@ handling_hc_unexpected_events <- arenas %>%
 count(handling_hc_unexpected_events) #If count is not zero, this means handling HC sequence(s) contain unexpected event(s)
 #View(handling_hc_unexpected_events) #Display the row(s) with a handling HC sequence ID and an unexpected event
 
+
+
+
 # Saving output -------------------------------------------------------------
 
 #Saving arenas as a CSV
@@ -1164,21 +1211,53 @@ write_csv(
   "generated_data/all_arenas.csv"
 )
 
+#Saving checks_comments as a CSV
+write_csv(
+  checks_comments,
+  "generated_data/checks_comments.csv"
+)
+
+#Saving flags as a CSV
+write_csv(
+  flags,
+  "generated_data/flags.csv"
+)
+
 #Saving handling HC sequence events as a CSV
 write_csv(
   handling_HC_events,
   "generated_data/handling_HC_events.csv"
 )
+#Saving handling HC MAIN sequence event as a CSV
+write_csv(
+  handling_hc_ids,
+  "generated_data/handling_HC_ids.csv"
+)
+
 
 #Saving batch processing sequence events as a CSV
 write_csv(
   batch_processing_events,
   "generated_data/batch_processing_events.csv"
 )
+#Saving batch processing MAIN sequence event as a CSV
+write_csv(
+  batch_processing_ids,
+  "generated_data/batch_processing_ids.csv"
+)
 
 
+#Saving field_info as a CSV
+write_csv(
+  field_info,
+  "cleaned_all_field_info.csv"
+)
 
-
+#Saving arenas_field_info as a CSV
+write_csv(
+  arenas_field_info,
+  "generated_data/cleaned_focus_field_info.csv"
+)
 
 
 
