@@ -1045,6 +1045,7 @@ handling_hc_ids <- arenas %>%
   ) %>%
   ungroup() %>%
   select(
+    observation_id,
     subject,
     arena_site,
     handling_sequence_id,
@@ -1056,6 +1057,7 @@ arenas <- arenas %>%
   left_join(
     handling_hc_ids,
     by = join_by(
+      observation_id,
       subject,
       arena_site,
       event_real_time_start >= handling_start,
@@ -1106,6 +1108,7 @@ batch_processing_ids <- arenas %>%
   ) %>%
   ungroup() %>%
   select(
+    observation_id,
     subject,
     arena_site,
     batch_sequence_id,
@@ -1117,6 +1120,7 @@ arenas <- arenas %>%
   left_join(
     batch_processing_ids,
     by = join_by(
+      observation_id,
       subject,
       arena_site,
       event_real_time_start >= batch_start,
