@@ -56,13 +56,13 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
     event_real_time_stop = ymd_hms(event_real_time_stop)
   )
 
-batch_processing_ids <- read_csv("generated_data/batch_processing_ids.csv") 
-handling_HC_ids <- read_csv("generated_data/handling_HC_ids.csv") 
+# batch_processing_ids <- read_csv("generated_data/batch_processing_ids.csv") 
+# handling_HC_ids <- read_csv("generated_data/handling_HC_ids.csv") 
 
 # Grouping point processing events to have a pseudo-duration -------------------------------------------------------------
 
 # Creating a dataframe containing only handling sequence point-processing events
-point_processing_events <- all_arenas %>%
+point_processing_events <- handling_HC_events %>%
   filter(
     event %in% c(
       "hit/pound on surface",
@@ -107,7 +107,6 @@ ggplot(
     size = 5,
     alpha = 0.4
   ) +
-  scale_x_discrete(drop = FALSE) +
   scale_y_continuous(
     breaks = seq(0, 135, by = 5),
     expand = expansion(mult = c(0, 0.02))
@@ -138,23 +137,22 @@ ggplot(
 
 # As seen in the produced visual, it is common for these point events to occur in a series over a relatively short period of time 
 
-# Using information from the above visual and the existing time guidelines from the ethogram to create rules for pseudo-durations:
+# Using information from the above visual and the existing time guidelines from the ethogram to create rules for pseudo-durations:  -------------------------------------------------------------
 
-# For both point events, hits/pounds will be grouped if they occur within 2 seconds of eachother
-# We create a function so this can be done once for hit/pound on surface and pound with hammerstone
-# This creates groups of multiple hits occuring closely in time; a duration can be calculated for these groups
+maximum_gap_s <- 2 # For both point events, hits/pounds will be grouped if they occur within 2 seconds of eachother
+# We create a function so this can be done once for hit/pound on surface and once for pound with hammerstone
+# This function takes one type of point event, creates groups of multiple hits occuring closely in time, and 
+# returns one summary row for each group with a duration
 # At this stage, single-hit groups have an observed duration of 0 seconds
 group_point_events <- function(
     data,
     event_name,
-    event_label,
-    maximum_gap_s = 2
+    maximum_gap_s
 ) {
   
   data %>%
     filter(
       event == event_name,
-      !is.na(sequence_id),
       !is.na(start_s)
     ) %>%
     arrange(sequence_id, start_s) %>%
@@ -163,46 +161,36 @@ group_point_events <- function(
       time_since_previous_event_s =
         start_s - lag(start_s),
       
-      event_group = cumsum(
+      seq_group = cumsum(
         is.na(time_since_previous_event_s) |
           time_since_previous_event_s >
           maximum_gap_s
       )
     ) %>%
-    group_by(sequence_id, event_group) %>%
+    group_by(sequence_id, seq_group) %>%
     summarise(
       event = first(event),
       
-      first_event_start_s = first(start_s),
-      last_event_start_s = last(start_s),
+      group_start_s = first(start_s),
+      group_end_s = last(start_s),
       
-      number_of_events = n(),
+      points_contained = n(),
       
       # Single-event groups have an observed duration of 0 seconds
-      observed_duration_s =
-        last_event_start_s -
-        first_event_start_s,
+      duration_s =
+        group_end_s -
+        group_start_s,
       
       .groups = "drop"
     ) %>%
-    mutate(
-      point_group_id = paste0(
-        sequence_id,
-        "_",
-        event_label,
-        "_group_",
-        event_group
-      )
-    ) %>%
     select(
       sequence_id,
-      point_group_id,
-      event_group,
+      seq_group,
       event,
-      number_of_events,
-      first_event_start_s,
-      last_event_start_s,
-      observed_duration_s
+      points_contained,
+      group_start_s,
+      group_end_s,
+      duration_s
     )
 }
 
@@ -210,39 +198,38 @@ group_point_events <- function(
 grouped_hit_events <- group_point_events(
   data = point_processing_events,
   event_name = "hit/pound on surface",
-  event_label = "hit",
-  maximum_gap_s = 2
+  maximum_gap_s = maximum_gap_s
 )
 
 # Finding the average "duration" per hit using groups with >1 hit
 # The result is the pseudo-duration assigned to groups with only 1 hit 
-average_duration_per_hit <- grouped_hit_events %>%
-  filter(number_of_events > 1) %>%
+mean_duration_per_hit <- grouped_hit_events %>%
+  filter(points_contained > 1) %>%
   summarise(
     average_duration_per_hit_s =
-      sum(observed_duration_s) /
-      sum(number_of_events)
+      sum(duration_s) /
+      sum(points_contained)
   ) %>%
   pull(average_duration_per_hit_s)
 
-average_duration_per_hit
+mean_duration_per_hit
 
-# If a group contains only 1 hit because it occured alone in time, it is assigned a duration of average_duration_per_hit
+# If a group contains only 1 hit because it occured alone in time, it is assigned a duration of mean_duration_per_hit
 grouped_hit_events <- grouped_hit_events %>%
   mutate(
     duration_s = if_else(
-      number_of_events == 1L,
-      average_duration_per_hit,
-      observed_duration_s
+      points_contained == 1L,
+      mean_duration_per_hit,
+      duration_s
     )
   )
 
 # Recreating the visual of each sequence's point processing events in time 
 # Colors now demonstrate events that were grouped together 
-point_processing_events_grouped <- point_processing_events %>%
+# The plot only contains hit events in this case
+plot_hit_groups <- point_processing_events %>%
   filter(
     event == "hit/pound on surface",
-    !is.na(sequence_id),
     !is.na(start_s)
   ) %>%
   group_by(sequence_id) %>%
@@ -252,7 +239,7 @@ point_processing_events_grouped <- point_processing_events %>%
     
     hit_group = cumsum(
       is.na(time_since_previous_hit_s) |
-        time_since_previous_hit_s > 2
+        time_since_previous_hit_s > maximum_gap_s
     ),
     
     hit_group = factor(hit_group)
@@ -260,7 +247,7 @@ point_processing_events_grouped <- point_processing_events %>%
   ungroup()
 
 ggplot(
-  point_processing_events_grouped,
+  plot_hit_groups,
   aes(
     x = sequence_id,
     y = start_s,
@@ -272,14 +259,13 @@ ggplot(
     size = 9,
     alpha = 0.7
   ) +
-  scale_x_discrete(drop = FALSE) +
   scale_y_continuous(
     breaks = seq(0, 135, by = 5),
     expand = expansion(mult = c(0, 0.02))
   ) +
   coord_cartesian(ylim = c(0, 135)) +
-  scale_color_viridis_d(
-    option = "turbo"
+  scale_color_brewer(
+    palette = "Dark2"
   ) +
   labs(
     x = "Handling sequence",
@@ -303,8 +289,7 @@ ggplot(
 grouped_hammerstone_events <- group_point_events(
   data = point_processing_events,
   event_name = "pound with hammerstone",
-  event_label = "hammerstone",
-  maximum_gap_s = 2
+  maximum_gap_s = maximum_gap_s
 )
 
 
@@ -320,44 +305,29 @@ grouped_hammerstone_events <- group_point_events(
 
 # Finding the average "duration" per pound using groups with >1 pound
 # The result is the pseudo-duration assigned to groups with only 1 pound 
-average_duration_per_pound <-
+mean_duration_per_pound <-
   grouped_hammerstone_events %>%
-  filter(number_of_events > 1) %>%
+  filter(points_contained > 1) %>%
   summarise(
     average_duration_per_pound_s =
-      sum(observed_duration_s) /
-      sum(number_of_events)
+      sum(duration_s) /
+      sum(points_contained)
   ) %>%
   pull(average_duration_per_pound_s)
 
-average_duration_per_pound
+mean_duration_per_pound
 
 
-# If a group contains only 1 pound because it occured alone in time, it is assigned a duration of average_duration_per_pound
+# If a group contains only 1 pound because it occured alone in time, it is assigned a duration of mean_duration_per_pound
 grouped_hammerstone_events <-
   grouped_hammerstone_events %>%
   mutate(
     duration_s = if_else(
-      number_of_events == 1L,
-      average_duration_per_pound,
-      observed_duration_s
+      points_contained == 1L,
+      mean_duration_per_pound,
+      duration_s
     )
   )
-
-# grouped_point_events is now created here by combining the completed hit/pound on surface and pound with hammerstone dataframes
-grouped_point_events <- bind_rows(
-  grouped_hit_events,
-  grouped_hammerstone_events
-) %>%
-  arrange(
-    sequence_id,
-    first_event_start_s
-  )
-
-
-
-
-
 
 
 # Creating summaries for each unique handling HC sequence -------------------------------------------------------------
