@@ -573,13 +573,31 @@ seq_sum_batch <- seq_sum_batch %>%
 
 # Exposure time (t) can be indicated in two different ways
   ## t = handling time; seq_duration_s value from seq_sum_single 
-  ## t = handling time; seq_duration_s value from BATCH PROCESSING -- seq summary df not complete yet !!!!
+  ## t = handling time; seq_duration_s value from seq_sum_batch -- seq summary df not complete yet !!!!
   ## t = processing time; total_process_duration_s from seq_sum_single
 # Successful sequences (containing eats HC) are indicated by a value of 1 in success column of seq_sum_single
 
 
+#Saving as a CSV
+write_csv(
+  seq_sum_single,
+  "generated_data/seq_sum_single.csv"
+)
+
+#Saving as a CSV
+write_csv(
+  seq_sum_batch,
+  "generated_data/seq_sum_batch.csv"
+)
+
+
 # What processing technique(s) are most efficient? -------------------------------------------------------------
 ## Sequences with stone tool use = higher efficiency? 
+
+
+
+
+
 
 
 
