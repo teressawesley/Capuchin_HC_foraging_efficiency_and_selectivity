@@ -546,6 +546,22 @@ seq_sum_batch <- batch_processing_events %>%
     comments = NA_character_,
     flags = NA_character_
   )
+
+# Removing "HC" from qualitative results columns
+seq_sum_batch <- seq_sum_batch %>%
+  mutate(
+    across(
+      c(total_HC_handled, total_HC_processed, total_HC_eaten),
+      ~ if_else(
+        .x == "multiple",
+        .x,
+        str_trim(str_remove_all(.x, regex("HC", ignore_case = TRUE)))
+      )
+    )
+  )
+
+
+
 #
 #
 # !!!!! Not completed yet 
