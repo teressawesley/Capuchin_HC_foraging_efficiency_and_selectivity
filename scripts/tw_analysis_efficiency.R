@@ -347,8 +347,7 @@ seq_sum_single <- handling_HC_events %>%
     sequence_id,
     event_real_time_start,
     event_real_time_stop,
-    seq_duration_s = NA_real_,
-    bucket_rumm_duration_s = NA_real_,
+    seq_duration_s = duration_s,
     bucket_inspect_duration_s = NA_real_,
     smells_hc_duration_s = NA_real_,
     man_hands_duration_s = NA_real_,
@@ -359,21 +358,208 @@ seq_sum_single <- handling_HC_events %>%
     pound_stone_duration_s = NA_real_,
     total_process_duration_s = NA_real_,
     occurence_eat = NA_integer_,
+    success = NA_real_,
     comments = NA_character_,
     flags = NA_character_
   )
 
-# Filling in sequence summary column seq_duration_s 
+# Creating a function to fill the placeholders with the sequence's total duration of specific events
+fill_event_duration <- function(
+    seq_data,
+    event_data,
+    event_name,
+    output_column,
+    id_columns = "sequence_id"
+) {
+  
+  event_totals <- event_data %>%
+    filter(event == event_name) %>%
+    group_by(across(all_of(id_columns))) %>%
+    summarise(
+      .event_duration = if (all(is.na(duration_s))) {
+        NA_real_
+      } else {
+        sum(duration_s, na.rm = TRUE)
+      },
+      .groups = "drop"
+    )
+  
+  seq_data %>%
+    left_join(event_totals, by = id_columns) %>%
+    mutate("{output_column}" := .event_duration) %>%
+    select(-.event_duration)
+}
+
+# Filling in sequence summary column bucket_inspect_duration_s with per sequence total duration of bucket inspection 
+seq_sum_single <- fill_event_duration(
+  seq_data = seq_sum_single,
+  event_data = handling_HC_events,
+  event_name = "bucket inspection",
+  output_column = "bucket_inspect_duration_s"
+)
+
+# Filling in sequence summary column smells_hc_duration_s with per sequence total duration of smells HC 
+seq_sum_single <- fill_event_duration(
+  seq_data = seq_sum_single,
+  event_data = handling_HC_events,
+  event_name = "smells held HC",
+  output_column = "smells_hc_duration_s"
+)
+
+# Filling in sequence summary column man_hands_duration_s with per sequence total duration of manipulate with hands
+seq_sum_single <- fill_event_duration(
+  seq_data = seq_sum_single,
+  event_data = handling_HC_events,
+  event_name = "manipulate with hand(s)",
+  output_column = "man_hands_duration_s"
+)
+
+# Filling in sequence summary column bite_shell_duration_s with per sequence total duration of bite shell
+seq_sum_single <- fill_event_duration(
+  seq_data = seq_sum_single,
+  event_data = handling_HC_events,
+  event_name = "bite shell",
+  output_column = "bite_shell_duration_s"
+)
+#
+#
+# !!!!!!!!! Did not assign a duration to this point event yet
+#
+#
+
+# Filling in sequence summary column bite_pull_duration_s with per sequence total duration of bite and pull with teeth
+seq_sum_single <- fill_event_duration(
+  seq_data = seq_sum_single,
+  event_data = handling_HC_events,
+  event_name = "bite and pull with teeth",
+  output_column = "bite_pull_duration_s"
+)
+
+# Filling in sequence summary column roll_scrub_duration_s with per sequence total duration of roll/scrub on surface
+seq_sum_single <- fill_event_duration(
+  seq_data = seq_sum_single,
+  event_data = handling_HC_events,
+  event_name = "roll/scrub on surface",
+  output_column = "roll_scrub_duration_s"
+)
+
+# Filling in sequence summary column hit_surface_duration_s with per sequence total pseudo-duration of hits on surface
+seq_sum_single <- fill_event_duration(
+  seq_data = seq_sum_single,
+  event_data = grouped_hit_events,
+  event_name = "hit/pound on surface",
+  output_column = "hit_surface_duration_s"
+)
+
+# Filling in sequence summary column pound_stone_duration_s with per sequence total pseudo-duration of hammerstone pounds
+seq_sum_single <- fill_event_duration(
+  seq_data = seq_sum_single,
+  event_data = grouped_hammerstone_events,
+  event_name = "pound with hammerstone",
+  output_column = "pound_stone_duration_s"
+)
 
 
+# Now, all individuals events have been assigned a total duration per sequence, or NA if they did not occur
+
+# Totaling the duration of all processing events per sequence 
+seq_sum_single <- seq_sum_single %>%
+  mutate(
+    total_process_duration_s = rowSums(
+      across(
+        c(
+          man_hands_duration_s,
+          bite_shell_duration_s,
+          bite_pull_duration_s,
+          roll_scrub_duration_s,
+          hit_surface_duration_s,
+          pound_stone_duration_s
+        )
+      ),
+      na.rm = TRUE
+    )
+  )
+
+# Filling in occurence_eat with the number of times the "eat HC" event was coded for each sequence 
+# Count "eats HC" events within each sequence
+eat_counts <- handling_HC_events %>%
+  filter(event == "eats HC") %>%
+  count(sequence_id, name = ".eat_count")
+
+# Add the counts to seq_sum_single
+seq_sum_single <- seq_sum_single %>%
+  left_join(eat_counts, by = "sequence_id") %>%
+  mutate(
+    occurence_eat = coalesce(.eat_count, 0L)
+  ) %>%
+  select(-.eat_count)
+
+# Filling in the success column
+# Success is defined as at least 1 occurance of "eats HC" within the sequence
+seq_sum_single <- seq_sum_single %>%
+  mutate(
+    success = if_else(occurence_eat >= 1, 1L, 0L)
+  )
+
+# Adding in all comments pertaining to a sequence
+#
+#
+# !!!!!!!! still needs done
+#
+#
+
+# Adding in all flags pertaining to a sequence
+#
+#
+# !!!!!!!! still needs done
+#
+#
+
+# Creating summaries for each unique batch processing sequence -------------------------------------------------------------
+
+# Start with one row per sequence by retaining each "bacth processing" event. 
+# The remaining columns are placeholders for the next cleaning steps
+seq_sum_batch <- batch_processing_events %>%
+  filter(event == "batch processing") %>%
+  transmute(
+    observation_id,
+    observation_date,
+    media_duration_s,
+    coder_id_initials,
+    arena_site,
+    deployement_period,
+    subject,
+    sequence_id,
+    event_real_time_start,
+    event_real_time_stop,
+    seq_duration_s = duration_s,
+    two_HC_duration_s = NA_real_,
+    three_HC_duration_s = NA_real_,
+    four_HC_duration_s = NA_real_,
+    smells_hc_duration_s = NA_real_,
+    bucket_inspect_duration_s = NA_real_,
+    bucket_rummage_duration_s = NA_real_,
+    total_HC_handled = modifier_1,
+    total_HC_processed = modifier_3,
+    total_HC_eaten = modifier_2,
+    techniques = modifier_4,
+    comments = NA_character_,
+    flags = NA_character_
+  )
+#
+#
+# !!!!! Not completed yet 
+#
+#
 
 
+# Ready for analysis -------------------------------------------------------------
 
-# Filling in sequence summary column bucket_rumm_duration_s with per sequence total duration of bucket rummaging 
-
-
-
-
+# Exposure time (t) can be indicated in two different ways
+  ## t = handling time; seq_duration_s value from seq_sum_single 
+  ## t = handling time; seq_duration_s value from BATCH PROCESSING -- seq summary df not complete yet !!!!
+  ## t = processing time; total_process_duration_s from seq_sum_single
+# Successful sequences (containing eats HC) are indicated by a value of 1 in success column of seq_sum_single
 
 
 # What processing technique(s) are most efficient? -------------------------------------------------------------
