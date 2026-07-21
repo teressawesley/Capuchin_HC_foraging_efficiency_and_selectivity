@@ -986,6 +986,125 @@ arenas <- arenas %>%
 
 
 
+# Assigning age/sex class and creating unique IDs -------------------------------------------------------------
+
+#Adding age_sex column to the right of subject
+arenas <- arenas %>%
+  mutate(
+    age_sex = NA_character_
+  ) %>%
+  relocate(age_sex, .after = subject)
+
+#Filling age_sex for placeholder category subjects
+arenas <- arenas %>%
+  mutate(
+    age_sex = case_when(
+      str_detect(subject, "#\\d+$") ~ str_remove(subject, " #\\d+$"),
+      TRUE ~ age_sex
+    )
+  )
+
+# load csv files with age/sex of named individuals
+age_sex_named_subjects <- read_excel("raw_data/age_sex_named_subjects.xlsx")  
+
+#Adding age/sex info for named subjects into arenas
+arenas <- arenas %>%
+  left_join(
+    age_sex_named_subjects %>%
+      select(subject_name, age_sex_named = age_sex),
+    by = c("subject" = "subject_name")
+  ) %>%
+  mutate(
+    age_sex = coalesce(age_sex, age_sex_named)
+  ) %>%
+  select(-age_sex_named)
+
+
+#Creating video_unique_subject so age/sex subjects become unique across videos
+placeholder_subject_ids <- arenas %>%
+  filter(
+    str_detect(subject, "#\\d+$")
+  ) %>%
+  distinct(
+    observation_id,
+    subject
+  ) %>%
+  arrange(
+    observation_id,
+    subject
+  ) %>%
+  mutate(
+    placeholder_subject_clean = str_remove(subject, " #\\d+$"),
+    abb_age_sex = case_when(
+      placeholder_subject_clean == "adult male" ~ "AM",
+      placeholder_subject_clean == "adult female" ~ "AF",
+      placeholder_subject_clean == "non-adult" ~ "NA",
+      placeholder_subject_clean == "subadult male" ~ "SAM",
+      placeholder_subject_clean == "subadult female" ~ "SAF",
+      placeholder_subject_clean == "juvenile" ~ "JUV",
+      placeholder_subject_clean == "unknown male" ~ "UKM",
+      placeholder_subject_clean == "unknown female" ~ "UKF",
+      placeholder_subject_clean == "unknown" ~ "UK",
+      TRUE ~ NA_character_
+    ),
+    placeholder_unique_number = row_number(),
+    video_unique_subject = paste(abb_age_sex, placeholder_unique_number)
+  )
+
+arenas <- arenas %>%
+  left_join(
+    placeholder_subject_ids %>%
+      select(observation_id, subject, video_unique_subject),
+    by = c("observation_id", "subject")
+  ) %>%
+  mutate(
+    video_unique_subject = coalesce(video_unique_subject, subject)
+  ) %>%
+  relocate(video_unique_subject, .after = deployement_period)
+
+
+#Creating unique ID numbers for each subject within each observation_id
+#Results in anonymity across subjects, even those with names 
+subject_observation_ids <- arenas %>%
+  distinct(
+    observation_id,
+    subject
+  ) %>%
+  arrange(
+    observation_id,
+    subject
+  ) %>%
+  mutate(
+    anon_subject = row_number()
+  )
+
+arenas <- arenas %>%
+  left_join(
+    subject_observation_ids,
+    by = c("observation_id", "subject")
+  ) %>%
+  relocate(anon_subject, .after = deployement_period)
+
+#Replacing age/sex subject values with true NA so only named individuals remain in subject
+arenas <- arenas %>%
+  mutate(
+    subject = if_else(
+      str_detect(subject, "#\\d+$"),
+      NA_character_,
+      subject,
+      missing = subject
+    )
+  )
+
+
+# To summarize:
+  # anon_subject -- ALL subjects are made anonymous and unique to each video but consistent within a video
+  # video_unique_subject -- keeps Named individuals constant, but give a unique identifier per video to subjects with only an age/sex class
+  # subject -- displays only NAMED subjects; individuals with only an age/sex class appear as NA
+  # age_sex -- give the corresponding age/sex class for the rows focal individual 
+
+
+
 # Making main sequence dataframes -------------------------------------------------------------
 
 # Checking that Main events (handling HC, batch processing) never overlap for the same subject 
@@ -993,7 +1112,7 @@ arenas <- arenas %>%
 handling_batch_overlaps <- arenas %>%
   filter(event == "handling HC") %>%
   select(
-    subject,
+    anon_subject,
     arena_site,
     handling_start = event_real_time_start,
     handling_stop = event_real_time_stop
@@ -1002,12 +1121,12 @@ handling_batch_overlaps <- arenas %>%
     arenas %>%
       filter(event == "batch processing") %>%
       select(
-        subject,
+        anon_subject,
         arena_site,
         batch_start = event_real_time_start,
         batch_stop = event_real_time_stop
       ),
-    by = c("subject", "arena_site")
+    by = c("anon_subject", "arena_site")
   ) %>%
   filter(
     handling_start <= batch_stop,
@@ -1022,11 +1141,11 @@ arenas <- arenas %>%
   mutate(
     sequence_id = NA_character_
   ) %>%
-  relocate(sequence_id, .after = subject)
+  relocate(sequence_id, .after = age_sex)
 
 
 ## Creating sequence IDs for each handling HC event,
-## then attaching that ID to same-subject events that occur during the batch processing duration
+## then attaching that ID to same-subject events that occur during the handling HC duration
 handling_hc_ids <- arenas %>%
   filter(event == "handling HC") %>%
   mutate(
@@ -1046,7 +1165,7 @@ handling_hc_ids <- arenas %>%
   ungroup() %>%
   select(
     observation_id,
-    subject,
+    anon_subject,
     arena_site,
     handling_sequence_id,
     handling_start = event_real_time_start,
@@ -1058,7 +1177,7 @@ arenas <- arenas %>%
     handling_hc_ids,
     by = join_by(
       observation_id,
-      subject,
+      anon_subject,
       arena_site,
       event_real_time_start >= handling_start,
       event_real_time_stop <= handling_stop
@@ -1109,7 +1228,7 @@ batch_processing_ids <- arenas %>%
   ungroup() %>%
   select(
     observation_id,
-    subject,
+    anon_subject,
     arena_site,
     batch_sequence_id,
     batch_start = event_real_time_start,
@@ -1121,7 +1240,7 @@ arenas <- arenas %>%
     batch_processing_ids,
     by = join_by(
       observation_id,
-      subject,
+      anon_subject,
       arena_site,
       event_real_time_start >= batch_start,
       event_real_time_stop <= batch_stop

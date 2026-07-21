@@ -6,7 +6,7 @@
 ## Handling HC is the main event; It will contain variable amounts of time without processing or HC-directed behavior 
 ## A variety of processing events can occur during a handling HC sequence
 ## State processing events(duration): bite and pull with teeth, manipulate with hands, roll/scrub on surface
-## Point processing events(no duration): hit/pound on surface, pound with hammerstone 
+## Point processing events(no duration): hit/pound on surface, pound with hammerstone, (hammerstone grab)
 ## Batch processing is also a main event; It will also contain variable amounts of time without processing or HC-directed behavior
 ## Batch processing events have a duration, # HC eaten, and qualitative presence of processing; there are no durations for processing  
 
@@ -66,7 +66,8 @@ point_processing_events <- handling_HC_events %>%
   filter(
     event %in% c(
       "hit/pound on surface",
-      "pound with hammerstone"
+      "pound with hammerstone",
+      "hammerstone grab"
     ),
     !is.na(sequence_id),
     str_starts(sequence_id, "H")
@@ -104,8 +105,8 @@ ggplot(
 ) +
   geom_point(
     shape = 95,
-    size = 5,
-    alpha = 0.4
+    size = 9,
+    alpha = 0.7
   ) +
   scale_y_continuous(
     breaks = seq(0, 135, by = 5),
@@ -115,7 +116,8 @@ ggplot(
   scale_color_manual(
     values = c(
       "hit/pound on surface" = "#2878B5",
-      "pound with hammerstone" = "#D95319"
+      "pound with hammerstone" = "#D95319",
+      "hammerstone grab" = "#d9193f"
     )
   ) +
   labs(
@@ -285,6 +287,9 @@ ggplot(
   )
 
 
+
+# Using the function to create event grouping for hammerstone grab and pound with hammerstone -------------------------------------------------------------
+
 # Using the function to create event grouping for pound with hammerstone
 grouped_hammerstone_events <- group_point_events(
   data = point_processing_events,
@@ -292,19 +297,8 @@ grouped_hammerstone_events <- group_point_events(
   maximum_gap_s = maximum_gap_s
 )
 
-
-#
-# 
-# !!! Note, at the time this was written, only 2 groups contained >1 pounds; in effect, the average_duration_per_pound is significantly 
-# !!! less informed compared to the average_duration_per_hit
-# !!! If the addition of more coded videos does NOT result in many more >1 pound groups, then consider a different method for 
-# !!! choosing a single pound duration value 
-#
-#
-
-
 # Finding the average "duration" per pound using groups with >1 pound
-# The result is the pseudo-duration assigned to groups with only 1 pound 
+# The result is the pseudo-duration assigned to groups with only 1 pound and no grab
 mean_duration_per_pound <-
   grouped_hammerstone_events %>%
   filter(points_contained > 1) %>%
@@ -317,15 +311,179 @@ mean_duration_per_pound <-
 
 mean_duration_per_pound
 
+# Finding a later pound group for each hammerstone grab
+# A grab is added to a group only when that group's first pound occurs after the grab and within maximum_gap_s
+grab_assignments <- point_processing_events %>%
+  filter(
+    event == "hammerstone grab",
+    !is.na(start_s)
+  ) %>%
+  transmute(
+    sequence_id = as.character(sequence_id),
+    grab_id = row_number(),
+    event,
+    grab_start_s = start_s
+  ) %>%
+  inner_join(
+    grouped_hammerstone_events %>%
+      select(
+        sequence_id,
+        seq_group,
+        next_pound_start_s = group_start_s
+      ),
+    by = "sequence_id",
+    relationship = "many-to-many"
+  ) %>%
+  mutate(
+    time_to_next_pound_s =
+      next_pound_start_s -
+      grab_start_s
+  ) %>%
+  filter(
+    # The pound must occur later than the grab
+    time_to_next_pound_s > 0,
+    
+    # The later pound must occur within the allowed time
+    time_to_next_pound_s <= maximum_gap_s
+  ) %>%
+  group_by(grab_id) %>%
+  
+  # If more than one later group qualifies, use the closest group
+  slice_min(
+    order_by = time_to_next_pound_s,
+    n = 1,
+    with_ties = FALSE
+  ) %>%
+  ungroup()
 
-# If a group contains only 1 pound because it occured alone in time, it is assigned a duration of mean_duration_per_pound
+
+# Summarizing the grabs assigned to each pound group
+grab_group_totals <- grab_assignments %>%
+  group_by(sequence_id, seq_group) %>%
+  summarise(
+    grabs_contained = n(),
+    first_grab_start_s = min(grab_start_s),
+    .groups = "drop"
+  )
+
+
+# Adding the matched grabs to grouped_hammerstone_events
+# A grab may move the beginning of a group earlier
+# The end of the group remains the time of the final pound
 grouped_hammerstone_events <-
   grouped_hammerstone_events %>%
   mutate(
-    duration_s = if_else(
-      points_contained == 1L,
-      mean_duration_per_pound,
-      duration_s
+    pounds_contained = points_contained
+  ) %>%
+  left_join(
+    grab_group_totals,
+    by = c(
+      "sequence_id",
+      "seq_group"
+    )
+  ) %>%
+  mutate(
+    grabs_contained = coalesce(
+      grabs_contained,
+      0L
+    ),
+    
+    points_contained =
+      pounds_contained +
+      grabs_contained,
+    
+    group_start_s = if_else(
+      grabs_contained > 0L,
+      pmin(
+        group_start_s,
+        first_grab_start_s
+      ),
+      group_start_s
+    ),
+    
+    # A grab can change the group start but never the group end
+    duration_s =
+      group_end_s -
+      group_start_s
+  ) %>%
+  select(
+    sequence_id,
+    seq_group,
+    event,
+    points_contained,
+    pounds_contained,
+    grabs_contained,
+    group_start_s,
+    group_end_s,
+    duration_s
+  )
+
+
+# Hammerstone grabs without a later pound within maximum_gap_s are added as separate rows with an NA duration
+grouped_hammerstone_events <- bind_rows(
+  grouped_hammerstone_events,
+  
+  point_processing_events %>%
+    filter(
+      event == "hammerstone grab",
+      !is.na(start_s)
+    ) %>%
+    transmute(
+      sequence_id = as.character(sequence_id),
+      grab_id = row_number(),
+      event,
+      grab_start_s = start_s
+    ) %>%
+    anti_join(
+      grab_assignments %>%
+        distinct(grab_id),
+      by = "grab_id"
+    ) %>%
+    transmute(
+      sequence_id,
+      seq_group = NA_integer_,
+      event,
+      points_contained = 1L,
+      pounds_contained = 0L,
+      grabs_contained = 1L,
+      group_start_s = grab_start_s,
+      group_end_s = grab_start_s,
+      duration_s = NA_real_
+    )
+) %>%
+  arrange(
+    sequence_id,
+    group_start_s
+  )
+
+
+#
+#
+# !!! Note, at the time this was written, only 2 groups contained >1 pounds; in effect, mean_duration_per_pound is significantly
+# !!! less informed compared to mean_duration_per_hit
+# !!! If the addition of more coded videos does NOT result in many more >1 pound groups, then consider a different method for
+# !!! choosing a single pound duration value
+#
+#
+
+
+# If a group contains only 1 pound and no grab, it is assigned a duration of mean_duration_per_pound
+# Groups beginning with a grab retain their observed duration
+# Ungrouped grabs retain an NA duration
+grouped_hammerstone_events <-
+  grouped_hammerstone_events %>%
+  mutate(
+    duration_s = case_when(
+      # An ungrouped grab retains NA
+      pounds_contained == 0L ~ NA_real_,
+      
+      # An isolated pound receives the average pseudo-duration
+      pounds_contained == 1L &
+        grabs_contained == 0L ~
+        mean_duration_per_pound,
+      
+      # Groups beginning with a grab retain their calculated duration
+      TRUE ~ duration_s
     )
   )
 
@@ -343,7 +501,10 @@ seq_sum_single <- handling_HC_events %>%
     coder_id_initials,
     arena_site,
     deployement_period,
+    anon_subject,
+    video_unique_subject,
     subject,
+    age_sex,
     sequence_id,
     event_real_time_start,
     event_real_time_stop,
@@ -414,18 +575,19 @@ seq_sum_single <- fill_event_duration(
   output_column = "man_hands_duration_s"
 )
 
+# Bite shell is also a point event; assigning a pseudoduration of 1 second for each bite shell event
+bite_shell_events <- handling_HC_events %>%
+  filter(event == "bite shell") %>%
+  mutate(
+    duration_s = 1
+  )
 # Filling in sequence summary column bite_shell_duration_s with per sequence total duration of bite shell
 seq_sum_single <- fill_event_duration(
   seq_data = seq_sum_single,
-  event_data = handling_HC_events,
+  event_data = bite_shell_events,
   event_name = "bite shell",
   output_column = "bite_shell_duration_s"
 )
-#
-#
-# !!!!!!!!! Did not assign a duration to this point event yet
-#
-#
 
 # Filling in sequence summary column bite_pull_duration_s with per sequence total duration of bite and pull with teeth
 seq_sum_single <- fill_event_duration(
@@ -502,18 +664,74 @@ seq_sum_single <- seq_sum_single %>%
   )
 
 # Adding in all comments pertaining to a sequence
-#
-#
-# !!!!!!!! still needs done
-#
-#
+# First combining all comment_1 and comment_2 entries within each handling sequence
+sequence_comments <- handling_HC_events %>%
+  select(
+    sequence_id,
+    comment_1,
+    comment_2
+  ) %>%
+  pivot_longer(
+    cols = c(comment_1, comment_2),
+    names_to = "comment_column",
+    values_to = "comment"
+  ) %>%
+  mutate(
+    comment = str_trim(comment)
+  ) %>%
+  filter(
+    !is.na(comment),
+    comment != ""
+  ) %>%
+  group_by(sequence_id) %>%
+  summarise(
+    comments = paste(
+      comment,
+      collapse = "; "
+    ),
+    .groups = "drop"
+  )
+
+# Adding the combined comments to seq_sum_single
+seq_sum_single <- seq_sum_single %>%
+  select(-comments) %>%
+  left_join(
+    sequence_comments,
+    by = "sequence_id"
+  )
 
 # Adding in all flags pertaining to a sequence
-#
-#
-# !!!!!!!! still needs done
-#
-#
+# First combining all flag entries within each handling sequence
+sequence_flags <- handling_HC_events %>%
+  select(
+    sequence_id,
+    flag
+  ) %>%
+  mutate(
+    flag = str_trim(flag)
+  ) %>%
+  filter(
+    !is.na(flag),
+    flag != ""
+  ) %>%
+  group_by(sequence_id) %>%
+  summarise(
+    flags = paste(
+      flag,
+      collapse = "; "
+    ),
+    .groups = "drop"
+  )
+
+# Adding the combined flags to seq_sum_single
+seq_sum_single <- seq_sum_single %>%
+  select(-flags) %>%
+  left_join(
+    sequence_flags,
+    by = "sequence_id"
+  )
+
+
 
 # Creating summaries for each unique batch processing sequence -------------------------------------------------------------
 
@@ -528,7 +746,10 @@ seq_sum_batch <- batch_processing_events %>%
     coder_id_initials,
     arena_site,
     deployement_period,
+    anon_subject,
+    video_unique_subject,
     subject,
+    age_sex,
     sequence_id,
     event_real_time_start,
     event_real_time_stop,
@@ -560,14 +781,127 @@ seq_sum_batch <- seq_sum_batch %>%
     )
   )
 
+# Filling in sequence summary column two_HC_duration_s with per sequence total duration of 2 HCs held
+seq_sum_batch <- fill_event_duration(
+  seq_data = seq_sum_batch,
+  event_data = batch_processing_events,
+  event_name = "2HC in batch processing",
+  output_column = "two_HC_duration_s"
+)
+
+# Filling in sequence summary column three_HC_duration_s with per sequence total duration of 3 HCs held
+seq_sum_batch <- fill_event_duration(
+  seq_data = seq_sum_batch,
+  event_data = batch_processing_events,
+  event_name = "3HC in batch processing",
+  output_column = "three_HC_duration_s"
+)
+
+# Filling in sequence summary column four_HC_duration_s with per sequence total duration of 4 HCs held
+seq_sum_batch <- fill_event_duration(
+  seq_data = seq_sum_batch,
+  event_data = batch_processing_events,
+  event_name = "4HC in batch processing",
+  output_column = "four_HC_duration_s"
+)
+
+# Filling in sequence summary column smells_hc_duration_s with per sequence total duration of smells HC
+seq_sum_batch <- fill_event_duration(
+  seq_data = seq_sum_batch,
+  event_data = batch_processing_events,
+  event_name = "smells held HC",
+  output_column = "smells_hc_duration_s"
+)
+
+# Filling in sequence summary column bucket_inspect_duration_s with per sequence total duration of bucket inspection
+seq_sum_batch <- fill_event_duration(
+  seq_data = seq_sum_batch,
+  event_data = batch_processing_events,
+  event_name = "bucket inspection",
+  output_column = "bucket_inspect_duration_s"
+)
+
+# Filling in sequence summary column bucket_rummage_duration_s with per sequence total duration of bucket rummaging
+seq_sum_batch <- fill_event_duration(
+  seq_data = seq_sum_batch,
+  event_data = batch_processing_events,
+  event_name = "bucket rummaging",
+  output_column = "bucket_rummage_duration_s"
+)
 
 
-#
-#
-# !!!!! Not completed yet 
-#
-#
 
+
+
+
+
+# Adding in all comments pertaining to a sequence
+# First combining all comment_1 and comment_2 entries within each batch processing sequence
+batch_sequence_comments <- batch_processing_events %>%
+  select(
+    sequence_id,
+    comment_1,
+    comment_2
+  ) %>%
+  pivot_longer(
+    cols = c(comment_1, comment_2),
+    names_to = "comment_column",
+    values_to = "comment"
+  ) %>%
+  mutate(
+    comment = str_trim(comment)
+  ) %>%
+  filter(
+    !is.na(comment),
+    comment != ""
+  ) %>%
+  group_by(sequence_id) %>%
+  summarise(
+    comments = paste(
+      comment,
+      collapse = "; "
+    ),
+    .groups = "drop"
+  )
+
+# Adding the combined comments to seq_sum_single
+seq_sum_batch <- seq_sum_batch %>%
+  select(-comments) %>%
+  left_join(
+    batch_sequence_comments,
+    by = "sequence_id"
+  )
+
+# Adding in all flags pertaining to a sequence
+# First combining all flag entries within each batch processing sequence
+batch_sequence_flags <- batch_processing_events %>%
+  select(
+    sequence_id,
+    flag
+  ) %>%
+  mutate(
+    flag = str_trim(flag)
+  ) %>%
+  filter(
+    !is.na(flag),
+    flag != ""
+  ) %>%
+  group_by(sequence_id) %>%
+  summarise(
+    flags = paste(
+      flag,
+      collapse = "; "
+    ),
+    .groups = "drop"
+  )
+
+# Adding the combined flags to seq_sum_single
+seq_sum_batch <- seq_sum_batch %>%
+  select(-flags) %>%
+  left_join(
+    batch_sequence_flags,
+    by = "sequence_id"
+  )
 
 # Ready for analysis -------------------------------------------------------------
 
