@@ -23,7 +23,7 @@
          #### thus, point processing events will be systematically connected in time to have a pseudo-duration
 
 
-# Analysis-specific data cleaning -------------------------------------------------------------
+# Analysis-specific data cleaning: -------------------------------------------------------------
 
 # Packages
 library(dplyr)
@@ -32,6 +32,8 @@ library(lubridate)
 library(tidyr)
 library(readr)
 library(ggplot2)
+library(lme4)
+library(brms)
 
 # Loading cleaned csv files while parsing date/time columns from text back into real date-time format 
 
@@ -903,6 +905,82 @@ seq_sum_batch <- seq_sum_batch %>%
     by = "sequence_id"
   )
 
+
+
+#! Adjusting dataframe relevancy for analysis -------------------------------------------------------------
+
+# Removing rows where the total processing duration is 0, 
+# Under the assumptions of the ethogram, this implies there was no attempt to extract the food 
+seq_single <- seq_sum_single %>%
+  filter(total_process_duration_s > 0)
+
+### Alternative -- allowing sequences with total processing duration of 0 BUT a successful eat to remain in dataframe
+# seq_sum_single <- seq_sum_single %>%
+#   filter(!(total_process_duration_s == 0 & success == 0))
+
+# Converting all duration columns from seconds into minutes 
+seq_single_min <- seq_single %>%
+  mutate(across(ends_with("_s"), ~ .x / 60)) %>%
+  rename_with(
+    ~ sub("_s$", "_m", .x),
+    ends_with("_s")
+  )
+
+# Adding a column to signify the presence of tool use in a sequence
+seq_single_min <- seq_single_min %>%
+  mutate(tool_use = if_else(!is.na(pound_stone_duration_m), 1, 0)) %>%
+  relocate(tool_use,.after = success)
+
+# Now for batch processing 
+# Removing rows where there is no processing technique indicated 
+# Under the assumptions of the ethogram, this implies there was no attempt to extract the food 
+seq_batch <- seq_sum_batch %>%
+  filter(!is.na(techniques))
+
+# Alternative -- allowing sequences with no indicated processing techniques BUT a successful eat to remain in dataframe
+# seq_sum_batch <- seq_sum_batch %>%
+#   filter(!(is.na(techniques) & success == 0))
+
+# Converting all duration columns from seconds into minutes 
+seq_batch_min <- seq_batch %>%
+  mutate(across(ends_with("_s"), ~ .x / 60)) %>%
+  rename_with(
+    ~ sub("_s$", "_m", .x),
+    ends_with("_s")
+  )
+
+# Adding a column to signify the presence of tool use in a sequence
+seq_batch_min <- seq_batch_min %>%
+    mutate( tool_use = if_else(str_detect(coalesce(techniques, ""), fixed("hit/pound on surface")), 1, 0)) %>%
+    relocate(tool_use, .after = total_HC_eaten)
+
+
+# Saving output/cleaning environment -------------------------------------------------------------
+
+#Saving as a CSV
+write_csv(
+  seq_single_min,
+  "generated_data/eff_seq_single_min.csv"
+)
+
+#Saving as a CSV
+write_csv(
+  seq_batch_min,
+  "generated_data/eff_seq_batch_min.csv"
+)
+
+# Cleaning up environment 
+rm(
+  list = setdiff(
+    ls(),
+    c(
+      "seq_single_min",
+      "seq_batch_min"
+    )
+  )
+)
+
+
 # Ready for analysis -------------------------------------------------------------
 
 # Exposure time (t) can be indicated in two different ways
@@ -911,29 +989,267 @@ seq_sum_batch <- seq_sum_batch %>%
   ## t = processing time; total_process_duration_s from seq_sum_single
 # Successful sequences (containing eats HC) are indicated by a value of 1 in success column of seq_sum_single
 
-
-#Saving as a CSV
-write_csv(
-  seq_sum_single,
-  "generated_data/seq_sum_single.csv"
-)
-
-#Saving as a CSV
-write_csv(
-  seq_sum_batch,
-  "generated_data/seq_sum_batch.csv"
-)
+# Load in csv directly if cleaning script already completed 
+# seq_single_min <- read_csv("generated_data/eff_seq_single_min.csv") %>%
+#   mutate(
+#     observation_date = ymd_hms(observation_date),
+#     event_real_time_start = ymd_hms(event_real_time_start),
+#     event_real_time_stop = ymd_hms(event_real_time_stop)
+#   )
+#
+# seq_batch_min <- read_csv("generated_data/eff_seq_batch_min.csv") %>%
+#   mutate(
+#     observation_date = ymd_hms(observation_date),
+#     event_real_time_start = ymd_hms(event_real_time_start),
+#     event_real_time_stop = ymd_hms(event_real_time_stop)
+#   )
 
 
 # What processing technique(s) are most efficient? -------------------------------------------------------------
 ## Sequences with stone tool use = higher efficiency? 
 
+db <- seq_batch_min
+ds2 <- seq_single_min
+
+### Using single sequences and t = processing time -------------------------------------------------------------
+
+# Fitting a Poisson model to estimate the overall rate of successful crab consumption per minute of processing time 
+m1 <- glm(success #1 or 0 for success or no success
+          ~ offset(log(total_process_duration_m)) , #accounting for differing processing duration across sequences; link with log
+          data=ds2  , family="poisson")
+# Currently, there are no predictors besides the offset, so the model will predict one overall average rate 
+summary(m1)
+# To convert result off of log scale and into successful crabs per minute overall
+exp(coef(m1)[["(Intercept)"]])
 
 
 
+# Building up the model...
+
+# Adding varying effects to account for unequal sampling across individuals 
+# Model will estimate an overall success rate/minute AND allows each individual to have their own rate 
+# Allows for partial pooling: Rates for individuals with less data will be pulled more strongly towards the population estimate, 
+      # while rates for individuals with much data can have estimates driven more strongly by their own observations 
+m1h <- glmer(success ~ 
+               (1|video_unique_subject) #adds a random intercept for every subject
+             + offset(log(total_process_duration_m)) ,
+             data=ds2  , family="poisson")
+# Reporting the population level log rate, subject log rate variance, etc
+summary(m1h) 
+# To convert result off of log scale and into successful crabs per minute overall
+exp(fixef(m1h)[["(Intercept)"]])
+# Reporting each subject's estimated random-intercept deviation on the log scale
+# Values near zero have rates close to the population rate; positive values have above average rates, negative values are below average
+ranef(m1h) #varying effects across individuals
+# Getting subject-specific rates
+subject_rates <- coef(m1h)$video_unique_subject %>%
+  tibble::rownames_to_column("video_unique_subject") %>%
+  rename(log_rate = `(Intercept)`) %>%
+  mutate(rate_per_minute = exp(log_rate))
 
 
 
+# Adding a predictor for tool use 
+m1t <- glm(success ~ 
+             tool_use #adds tool use presence as a predictor
+           + offset(log(total_process_duration_m)) ,
+           data=ds2  , family="poisson")
+summary(m1t)
+# Intercept estimate is the log rate for non-tool use sequences; converting result off of log scale
+exp(coef(m1t)[1])
+# tool_use estimate plus the intercept is the log rate for tool use sequences; converting result off of log scale
+exp(coef(m1t)[1] + coef(m1t)[2] )
+# same as exp(sum(coef(m1t)))
+# the success rate is
+exp(coef(m1t)[2]) #times higher for tool use sequences compared to non-tool
+
+
+
+# Bringing the tool use predictor into the vary effects model to account for unequal sampling across individuals 
+m1th <- glmer(success ~ 
+               tool_use 
+             + (1|video_unique_subject) 
+             + offset(log(total_process_duration_m)) ,
+             data=ds2  , family="poisson")
+# fixed-effect estimates, subject-level random-effect variance, model-fit statistics, and diagnostic information:
+summary(m1th)
+# only the population-level coefficients:
+fixef(m1th)
+# subject specific deviations
+ranef(m1th)
+# Referance rate from non-tool use sequences for an average subject
+exp(fixef(m1th)[1])
+# Estimated rate for tool-use sequence for an average subject
+exp(sum(fixef(m1th)))
+# the success rate is
+exp(fixef(m1th)[[2]]) #times higher for tool use sequences compared to non-tool when considering unequal sampling of subjects 
+
+
+#### Switching to a Bayesian framework
+# Above, the model produces maximum-likelihood estimates and standard error
+# Below, the model uses Bayesian sampling and produces posterior distributions for the parameters.
+
+
+# Note we did not yet select a biologically plausible prior
+
+
+model <- brm(
+  success ~ tool_use 
+  + (1|video_unique_subject) 
+  + offset(log(total_process_duration_m)),
+  data = ds2,
+  family = poisson(link = "log"),
+  chains = 4, #runs 4 independent Markov chains 
+  iter = 2000, #runs 2000 iterations per chain
+  backend = "cmdstan"
+)
+# The agreement among the 4 Markov chains assess whether sampling converged
+
+summary(model)
+# Estimate displays the posterior mean of each parameter 
+# Est.Error shows the posterior standard deviation
+# Rhat shows convergence diagnostic; values close to 1 are desirable
+# Bulk_ESS and Tail_ESS show effective sample sizes
+
+# Summary retaining the full posterior uncertainty
+posterior_summary(
+  model,
+  variable = "^b_",
+  regex = TRUE,
+  robust = TRUE
+)
+
+# Producing diagnostic plots for the model parameters, generally including posterior density and trace plots
+plot(model)
+# looking for...
+    # chains that overlap and mix freely
+    # no chains that remain in separate regions
+    # stable “fuzzy caterpillar” trace plots without trends
+    # similar posterior distributions across chains
+
+
+# Making a basic conditional effects plot
+conditional_effects(model)
+# shows effect of tool use on success
+
+
+# Plotting a specific interaction with raw data points overlayed
+
+library(posterior)
+# brms produces thousands of plausible parameter values sampled from the posterior distribution
+draws <- as_draws_df(model)
+# draws contains one row per posterior draw
+
+# View the first few rows and columns
+summary(draws)
+# shows mean of the intercept, median, mean of posterior of tool use, median, etc
+
+plot(density(exp(draws$b_Intercept))) 
+# For every posterior draw, this takes the intercept on the log scale, exponentiates it and
+# plots the distribution of the resulting rates -- This is the posterior distribution of the estimated success rate 
+# per minute without tools for a subject whose random intercept is zero
+
+plot(density(exp(draws$b_Intercept + draws$b_tool_use)) , add=TRUE, col="green4")
+# distrubtion of rate with tool use 
+
+
+
+library(rethinking)
+dens(exp(draws$b_Intercept) , xlim=c(0,20) , ylim = c(-.1,.8))
+dens(exp(draws$b_Intercept + draws$b_tool_use) , add=TRUE , col="salmon2")
+
+##lets plot predictions, need to get on scale of preds
+flop <-ds2$total_process_duration_m[ds2$tool_use==0] 
+flip <-ds2$total_process_duration_m[ds2$tool_use==1]
+points(flop, rep(0 , length(flop)))
+points(flip, rep(-.1 , length(flip)) , col="salmon2")
+
+plot(density(exp(draws$b_Intercept + draws$b_tool_use)) , add=TRUE, col="green4")
+
+
+
+# Below is the results of asking Codex to rewrite the rethinking plot from above
+# to work without the rethinking package 
+library(ggplot2)
+
+# Posterior success rates per minute
+posterior_rates <- data.frame(
+  rate = c(
+    exp(draws$b_Intercept),
+    exp(draws$b_Intercept + draws$b_tool_use)
+  ),
+  tool_use = rep(
+    c("No tool use", "Tool use"),
+    each = nrow(draws)
+  )
+)
+
+rate_plot <- ggplot(
+  posterior_rates,
+  aes(x = rate, fill = tool_use, colour = tool_use)
+) +
+  geom_density(alpha = 0.25, linewidth = 1) +
+  scale_fill_manual(
+    values = c(
+      "No tool use" = "grey50",
+      "Tool use" = "salmon2"
+    )
+  ) +
+  scale_colour_manual(
+    values = c(
+      "No tool use" = "grey30",
+      "Tool use" = "salmon4"
+    )
+  ) +
+  coord_cartesian(xlim = c(0, 20)) +
+  labs(
+    x = "Estimated success rate per minute",
+    y = "Posterior density",
+    fill = NULL,
+    colour = NULL
+  ) +
+  theme_classic()
+
+rate_plot
+
+
+duration_plot <- ds2 %>%
+  mutate(
+    tool_use_label = factor(
+      tool_use,
+      levels = c(0, 1),
+      labels = c("No tool use", "Tool use")
+    )
+  ) %>%
+  ggplot(
+    aes(
+      x = total_process_duration_m,
+      fill = tool_use_label,
+      colour = tool_use_label
+    )
+  ) +
+  geom_density(alpha = 0.25, linewidth = 1, na.rm = TRUE) +
+  scale_fill_manual(
+    values = c(
+      "No tool use" = "grey50",
+      "Tool use" = "salmon2"
+    )
+  ) +
+  scale_colour_manual(
+    values = c(
+      "No tool use" = "grey30",
+      "Tool use" = "salmon4"
+    )
+  ) +
+  labs(
+    x = "Observed processing duration (minutes)",
+    y = "Density",
+    fill = NULL,
+    colour = NULL
+  ) +
+  theme_classic()
+
+duration_plot
 
 
 
