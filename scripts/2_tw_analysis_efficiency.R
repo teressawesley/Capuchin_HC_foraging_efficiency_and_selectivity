@@ -1196,6 +1196,7 @@ write_csv(
   
   # Note we did not yet select a biologically plausible prior
   
+  library(cmdstanr)
   
   model <- brm(
     success ~ tool_use 
@@ -1205,7 +1206,7 @@ write_csv(
     family = poisson(link = "log"),
     chains = 4, #runs 4 independent Markov chains 
     iter = 2000, #runs 2000 iterations per chain
-    backend = "cmdstan"
+    backend = "cmdstanr"
   )
   # The agreement among the 4 Markov chains assess whether sampling converged
   
