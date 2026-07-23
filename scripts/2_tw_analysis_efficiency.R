@@ -908,17 +908,8 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
   
 #! Adjusting dataframe relevancy for analysis -------------------------------------------------------------
 
-# Removing rows where the total processing duration is 0, 
-# Under the assumptions of the ethogram, this implies there was no attempt to extract the food 
-seq_single <- seq_sum_single %>%
-  filter(total_process_duration_s > 0)
-
-### Alternative -- allowing sequences with total processing duration of 0 BUT a successful eat to remain in dataframe
-# seq_sum_single <- seq_sum_single %>%
-#   filter(!(total_process_duration_s == 0 & success == 0))
-
 # Converting all duration columns from seconds into minutes 
-seq_single_min <- seq_single %>%
+seq_single_min <- seq_sum_single %>%
   mutate(across(ends_with("_s"), ~ .x / 60)) %>%
   rename_with(
     ~ sub("_s$", "_m", .x),
@@ -928,20 +919,20 @@ seq_single_min <- seq_single %>%
 # Adding a column to signify the presence of tool use in a sequence
 seq_single_min <- seq_single_min %>%
   mutate(tool_use = if_else(!is.na(pound_stone_duration_m), 1, 0)) %>%
-  relocate(tool_use,.after = success)
+  relocate(tool_use,.after = success)  
+  
+# Renaming to indicate which exposure-based analysis the dataframe is used for   
+seq_single_hand <- seq_single_min
+
+# Removing rows where the total processing duration is 0, 
+# Under the assumptions of the ethogram, this implies there was no attempt to extract the food 
+seq_single_proc <- seq_single_min %>%
+  filter(total_process_duration_m > 0)
 
 # Now for batch processing 
-# Removing rows where there is no processing technique indicated 
-# Under the assumptions of the ethogram, this implies there was no attempt to extract the food 
-seq_batch <- seq_sum_batch %>%
-  filter(!is.na(techniques))
-
-# Alternative -- allowing sequences with no indicated processing techniques BUT a successful eat to remain in dataframe
-# seq_sum_batch <- seq_sum_batch %>%
-#   filter(!(is.na(techniques) & success == 0))
 
 # Converting all duration columns from seconds into minutes 
-seq_batch_min <- seq_batch %>%
+seq_batch_min <- seq_sum_batch %>%
   mutate(across(ends_with("_s"), ~ .x / 60)) %>%
   rename_with(
     ~ sub("_s$", "_m", .x),
@@ -952,6 +943,16 @@ seq_batch_min <- seq_batch %>%
 seq_batch_min <- seq_batch_min %>%
     mutate( tool_use = if_else(str_detect(coalesce(techniques, ""), fixed("hit/pound on surface")), 1, 0)) %>%
     relocate(tool_use, .after = total_HC_eaten)
+
+# Renaming to indicate which exposure-based analysis the dataframe is used for   
+seq_batch_hand <- seq_batch_min
+
+# # Removing rows where there is no processing technique indicated 
+# # Under the assumptions of the ethogram, this implies there was no attempt to extract the food 
+# seq_batch <- seq_batch_min %>%
+#   filter(!is.na(techniques))
+
+
 
 # Creating a dataframe with both the single and batch processing events
 
@@ -991,7 +992,7 @@ seq_all$anon_subject <- integer(0)
 # Filling in values from single sequences
 seq_all <- bind_rows(
   seq_all,
-  seq_single_min %>%
+  seq_single_hand %>%
     select(
       any_of(names(seq_all))
     )
@@ -1000,7 +1001,7 @@ seq_all <- bind_rows(
 # Filling in values from batch sequences
 seq_all <- bind_rows(
   seq_all,
-  seq_batch_min %>%
+  seq_batch_hand %>%
     select(
       any_of(names(seq_all))
     )
@@ -1053,14 +1054,20 @@ seq_all <- seq_all %>%
 
 #Saving as a CSV
 write_csv(
-  seq_single_min,
-  "generated_data/eff_seq_single_min.csv"
+  seq_single_proc,
+  "generated_data/eff_seq_single_proc.csv"
 )
 
 #Saving as a CSV
 write_csv(
-  seq_batch_min,
-  "generated_data/eff_seq_batch_min.csv"
+  seq_single_hand,
+  "generated_data/eff_seq_single_hand.csv"
+)
+
+#Saving as a CSV
+write_csv(
+  seq_batch_hand,
+  "generated_data/eff_seq_batch_hand.csv"
 )
 
 #Saving as a CSV
@@ -1074,8 +1081,9 @@ write_csv(
 #   list = setdiff(
 #     ls(),
 #     c(
-#       "seq_single_min",
-#       "seq_batch_min",
+#       "seq_single_proc",
+#       "seq_single_hand",
+#       "seq_batch_hand",
 #       "seq_all"
 #     )
 #   )
@@ -1089,7 +1097,7 @@ write_csv(
   ## t = handling time; seq_duration_s value from seq_all
 # Successful sequences (containing eats HC) are indicated by a value of 1 in success column of seq_sum_single
 
-# Variables for single sequence, t = processing time analysis --- variables for singe+batch, t = handling time analysis
+# Variables for single sequence, t = processing time analysis --- variables for single+batch, t = handling time analysis
     # success = ??? total_HC_eaten
     # total_process_duration_m = seq_duration_m
     # tool_use = tool_use
@@ -1102,7 +1110,7 @@ write_csv(
   ### Using single sequences and t = processing time -------------------------------------------------------------
 
   # Load in csv 
-  seq_single <- read_csv("generated_data/eff_seq_single_min.csv") %>%
+  seq_single <- read_csv("generated_data/eff_seq_single_proc.csv") %>%
     mutate(
       observation_date = ymd_hms(observation_date),
       event_real_time_start = ymd_hms(event_real_time_start),
@@ -1138,7 +1146,7 @@ write_csv(
   # Values near zero have rates close to the population rate; positive values have above average rates, negative values are below average
   ranef(proc_m_subj) #varying effects across individuals
   # Getting subject-specific rates
-  subject_rates <- coef(proc_m_subj)$video_unique_subject %>%
+  proc_subject_rates <- coef(proc_m_subj)$video_unique_subject %>%
     tibble::rownames_to_column("video_unique_subject") %>%
     rename(log_rate = `(Intercept)`) %>%
     mutate(rate_per_minute = exp(log_rate))
