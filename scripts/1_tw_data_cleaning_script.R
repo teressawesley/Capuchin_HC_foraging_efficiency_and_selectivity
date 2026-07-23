@@ -20,11 +20,13 @@ library(readxl)
 
 # load csv files with aggregated BORIS output
 TPP <- read.csv("raw_data/2PP/2026-HC-2PPSTREAM-A-B__ALL.csv") # Teressa's csv with all 2PP site coded by TW
-COCO <- read.csv("raw_data/COCO/2026-HC-COCO-A-B__ALL.csv") # Teressa's csv with all COCO site coded UP TO JULY 3 coded by TW
+COCO <- read.csv("raw_data/COCO/2026-HC-COCO-A-B__ALL.csv") # Teressa's csv with all COCO site coded by TW
+BBC <- read.csv("raw_data/BBC/2026-HC-BBC-A-B__ALL.csv") # Teressa's csv with all COCO site coded UP TO JULY 23 coded by TW
 
 # tidy names using the janitor package
 TPP <- clean_names(TPP)
 COCO <- clean_names(COCO)
+BBC <- clean_names(BBC)
 
 # bind all datasets together (after making sure they have the same number and order of columns)
 # All were exported from same BORIS version, so they should match up; use code below to check
@@ -32,7 +34,7 @@ COCO <- clean_names(COCO)
 # old_cols <- names(COCO)[!names(COCO) %in% names(TPP)]
 
 # bind them all together
-arenas <- rbind(TPP, COCO)
+arenas <- rbind(TPP, COCO, BBC)
 # sort so that observations from the same video are clustered together and it's chronological
 arenas <- arenas[order(arenas$observation_id),]
 
@@ -664,7 +666,7 @@ flags <- arenas %>%
   )
 
 count(flags) #Returns the number of flagged rows
-View(flags) #Display the row(s) that have been flagged
+#View(flags) #Display the row(s) that have been flagged
 
 
 #Removing all observations that had an "nca" (no codable activity) comment associated
@@ -1204,7 +1206,7 @@ handling_HC_events <- arenas %>%
   ) %>%
   select(-sequence_id_number)
 
-View(handling_HC_events)
+#View(handling_HC_events)
 
 
 ## Creating sequence IDs for each unique batch processing event, 
@@ -1268,7 +1270,7 @@ batch_processing_events <- arenas %>%
   ) %>%
   select(-sequence_id_number)
 
-View(batch_processing_events) 
+#View(batch_processing_events) 
 
 
 # Checking for wrong events during batch processing sequences
