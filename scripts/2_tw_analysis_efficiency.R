@@ -31,6 +31,11 @@ library(readr)
 library(ggplot2)
 library(lme4)
 library(brms)
+library(brms)
+library(tidybayes)
+library(ggplot2)
+library(dplyr)
+library(marginaleffects)
 
 # Analysis-specific data cleaning: -------------------------------------------------------------
 
@@ -1188,33 +1193,178 @@ write_csv(
   # the success rate is
   exp(fixef(proc_m_subj_tool)[[2]]) #times higher for tool use sequences compared to non-tool when considering unequal sampling of subjects 
   
+  ###lets do a gamma assuming there is one fruit
+m4 <- glm(total_process_duration_m ~ 
+              tool_use,
+            data=seq_single  , family="Gamma"(link='log') )
   
-  #### Switching to a Bayesian framework
+m5 <- glm(total_process_duration_m ~ 
+                              tool_use*success,
+                            data=seq_single  , family="Gamma"(link='log') )
+
+summary(m4)
+exp(coef(m4)[1]) # ignoring success, time without tools in m
+exp(coef(m4)[1] + coef(m4)[2] ) # ignoring success, time with tools in m
+
+
+summary(m5)
+exp(coef(m5)[1]) # no success, no tools
+exp(coef(m5)[1] + coef(m5)[2]) # no success, yes tools
+exp(coef(m5)[1] + coef(m5)[3]) # yes success, no tools
+exp(coef(m5)[1] + coef(m5)[2] + coef(m5)[3] + coef(m5)[4]) # yes success, yes tools
+
+
+seq_single$total_process_duration_s <- seq_single$total_process_duration_m*60
+seq_single$subject
+
+##m4 bad model
+m4 <- glmer(total_process_duration_s ~ 
+            tool_use + (1|subject) ,
+          data=seq_single  , family="Gamma"(link='log') )
+
+##caveat with watnings
+m5 <- glmer(total_process_duration_s ~ 
+            tool_use*success + (1|subject),
+          data=seq_single  , family="Gamma"(link='log') )
+
+exp(fixef(m5)[1]) # no success, no tools
+exp(fixef(m5)[1] + fixef(m5)[2]) # no success, yes tools
+exp(fixef(m5)[1] + fixef(m5)[3]) # yes success, no tools
+exp(fixef(m5)[1] + fixef(m5)[2] + fixef(m5)[3] + fixef(m5)[4]) # yes success, yes tools
+
+m6 <- lmer(log(total_process_duration_s) ~ 
+              tool_use*success + (1|subject),
+            data=seq_single  )
+summary(m6)
+ranef(m6)
+
+#### Switching to a Bayesian framework
   # Above, the model produces maximum-likelihood estimates and standard error
   # Below, the model uses Bayesian sampling and produces posterior distributions for the parameters.
   
   
   # Note we did not yet select a biologically plausible prior
   
-  library(cmdstanr)
-  
+library(cmdstanr)
+
+##whats the probability of success given tool use
   model <- brm(
-    success ~ tool_use 
-    + (1|video_unique_subject) 
-    + offset(log(total_process_duration_m)),
+    success ~ tool_use + (1|subject) ,
     data = seq_single,
-    family = poisson(link = "log"),
+    family = bernoulli(link = "logit"),
     chains = 4, #runs 4 independent Markov chains 
     iter = 2000, #runs 2000 iterations per chain
     backend = "cmdstanr"
   )
+  
   # The agreement among the 4 Markov chains assess whether sampling converged
   
   summary(model)
+  plot(model)
+  #plot estimaged proabailites
+  
+  # 1. Define the grid of groups to predict for
+  newdata <- datagrid(model = model, tool_use = c(0, 1)) 
+  # Note: replace c(0, 1) with c(FALSE, TRUE) or c("no", "yes") depending on your factor levels
+  
+  # 2. Extract expected posterior probability draws
+  preds <- model %>%
+    epred_draws(newdata = newdata, re_formula = NA)
+  
+  ggplot(preds, aes(x = .epred, y = factor(tool_use), fill = factor(tool_use))) +
+    stat_halfeye(
+      .width = c(0.66, 0.95), 
+      point_interval = median_qi,
+      alpha = 0.8
+    ) +
+    scale_x_continuous(labels = scales::percent, limits = c(0, 1)) +
+    scale_fill_brewer(palette = "Set1") +
+    labs(
+      title = "Posterior Predicted Probability of Success",
+      subtitle = "Population-level estimates (marginalized over subjects)",
+      x = "Probability of Success",
+      y = "Tool Use",
+      fill = "Tool Use"
+    ) +
+    theme_minimal(base_size = 14) +
+    theme(legend.position = "none")
+  
+  
+  ###below is vaying slopes its a bit off with fit
+  model2 <- brm(
+    success ~ tool_use + (1 + tool_use |subject) ,
+    data = seq_single,
+    family = bernoulli(link = "logit"),
+    chains = 4, #runs 4 independent Markov chains 
+    iter = 2000, #runs 2000 iterations per chain
+    backend = "cmdstanr"
+  )
+  summary(model2)
+  plot(model2)
+  # Quick 1-liner built into brms
+  conditional_effects(model1, effects = "tool_use") %>% 
+    plot(points = TRUE)
+
+  # 1. Define the grid of groups to predict for
+  newdata <- datagrid(model = model2, tool_use = c(0, 1)) 
+  # Note: replace c(0, 1) with c(FALSE, TRUE) or c("no", "yes") depending on your factor levels
+  
+  # 2. Extract expected posterior probability draws
+  preds <- model2 %>%
+    epred_draws(newdata = newdata, re_formula = NA)
+  
+  ggplot(preds, aes(x = .epred, y = factor(tool_use), fill = factor(tool_use))) +
+    stat_halfeye(
+      .width = c(0.66, 0.95), 
+      point_interval = median_qi,
+      alpha = 0.8
+    ) +
+    scale_x_continuous(labels = scales::percent, limits = c(0, 1)) +
+    scale_fill_brewer(palette = "Set1") +
+    labs(
+      title = "Posterior Predicted Probability of Success",
+      subtitle = "Population-level estimates (marginalized over subjects)",
+      x = "Probability of Success",
+      y = "Tool Use",
+      fill = "Tool Use"
+    ) +
+    theme_minimal(base_size = 14) +
+    theme(legend.position = "none")
+  
   # Estimate displays the posterior mean of each parameter 
   # Est.Error shows the posterior standard deviation
   # Rhat shows convergence diagnostic; values close to 1 are desirable
   # Bulk_ESS and Tail_ESS show effective sample sizes
+  library(brms)
+  library(tidybayes)
+  library(ggplot2)
+  library(dplyr)
+  library(marginaleffects)
+  # 1. Define the grid of groups to predict for
+  newdata <- datagrid(model = model2, tool_use = c(0, 1)) 
+  # Note: replace c(0, 1) with c(FALSE, TRUE) or c("no", "yes") depending on your factor levels
+  
+  # 2. Extract expected posterior probability draws
+  preds <- model2 %>%
+    epred_draws(newdata = newdata, re_formula = NA)
+  
+  ggplot(preds, aes(x = .epred, y = factor(tool_use), fill = factor(tool_use))) +
+    stat_halfeye(
+      .width = c(0.66, 0.95), 
+      point_interval = median_qi,
+      alpha = 0.8
+    ) +
+    scale_x_continuous(labels = scales::percent, limits = c(0, 1)) +
+    scale_fill_brewer(palette = "Set1") +
+    labs(
+      title = "Posterior Predicted Probability of Success",
+      subtitle = "Population-level estimates (marginalized over subjects)",
+      x = "Probability of Success",
+      y = "Tool Use",
+      fill = "Tool Use"
+    ) +
+    theme_minimal(base_size = 14) +
+    theme(legend.position = "none")
   
   # Summary retaining the full posterior uncertainty
   posterior_summary(
@@ -1531,7 +1681,16 @@ write_csv(
   
   # What processing technique(s) are most common? -------------------------------------------------------------
   
-  
-  
-  
-  
+  str(all_arenas)
+ unique(all_arenas$event)
+ subby <- c( "manipulate with hand(s)",
+             "bite shell" ,           
+             "bite and pull with teeth"  ,       
+             "hit/pound on surface" ,
+             "hammerstone grab" , "pound with hammerstone" , 
+             "roll/scrub on surface" 
+ )
+ 
+aas <- all_arenas[which(all_arenas$event %in% subby),]
+str(all_arenas)
+
