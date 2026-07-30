@@ -44,7 +44,7 @@ library(ggplot2)
 library(dplyr)
 library(marginaleffects)
 
-
+techs <- read_csv("raw_data/processing_techniques.csv")
 
 # Using single sequences and t = processing time and poisson -------------------------------------------------------------
 
