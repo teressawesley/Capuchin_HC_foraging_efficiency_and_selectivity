@@ -713,7 +713,374 @@ ggplot(preds_model2, aes(
 
 
 
-# What processing technique(s) are most common? -------------------------------------------------------------
+# What is the percent occurrence of each technique in successful sequences? -------------------------------------------------------------
 
+# Load in csvs 
+seq_single_min <- read_csv("generated_data/eff_seq_single_proc_min.csv") %>%
+  mutate(
+    observation_date = ymd_hms(observation_date),
+    event_real_time_start = ymd_hms(event_real_time_start),
+    event_real_time_stop = ymd_hms(event_real_time_stop)
+  )  
+techs <- read_csv("raw_data/processing_techniques.csv")
+
+
+# Extract the technique-duration column names listed in techs
+technique_duration_columns <- techs %>%
+  pull(duration_technique_m) %>%
+  na.omit() %>%
+  unique()
+
+# Count how many successful single sequences contain each technique
+successful_technique_summary <- seq_single_min %>%
+  # Retain successful sequences only
+  filter(success == 1) %>%
+  
+  # Convert the separate technique-duration columns into a long format
+  pivot_longer(
+    cols = all_of(technique_duration_columns),
+    names_to = "duration_technique_m",
+    values_to = "technique_duration"
+  ) %>%
+  
+  # Calculate the occurrence and percentage of each technique
+  group_by(duration_technique_m) %>%
+  summarise(
+    # Count sequences where the technique duration is greater than zero
+    successful_sequences_with_technique =
+      sum(!is.na(technique_duration) & technique_duration > 0),
+    
+    # Total number of successful sequences
+    total_successful_sequences = n_distinct(sequence_id),
+    
+    # Percentage of successful sequences containing the technique
+    percentage_successful_sequences =
+      100 * successful_sequences_with_technique /
+      total_successful_sequences,
+    
+    .groups = "drop"
+  ) %>%
+  
+  # Match the duration-column names to the readable technique information
+  left_join(
+    techs %>%
+      select(
+        technique,
+        abb_technique,
+        duration_technique_m
+      ),
+    by = "duration_technique_m"
+  ) %>%
+  
+  # Arrange and order the output
+  select(
+    technique,
+    abb_technique,
+    duration_technique_m,
+    successful_sequences_with_technique,
+    total_successful_sequences,
+    percentage_successful_sequences
+  ) %>%
+  arrange(desc(percentage_successful_sequences))
+
+successful_technique_summary
+
+# Plot the percentage of successful sequences containing each technique
+ggplot(
+  successful_technique_summary,
+  aes(
+    x = reorder(technique, percentage_successful_sequences),
+    y = percentage_successful_sequences
+  )
+) +
+  geom_col(
+    fill = "green4",
+    width = 0.7
+  ) +
+  geom_text(
+    aes(
+      label = paste0(
+        round(percentage_successful_sequences, 1),
+        "%"
+      )
+    ),
+    hjust = -0.15,
+    size = 4
+  ) +
+  coord_flip() +
+  scale_y_continuous(
+    limits = c(
+      0,
+      max(
+        successful_technique_summary$percentage_successful_sequences,
+        na.rm = TRUE
+      ) * 1.15
+    ),
+    labels = function(x) paste0(x, "%"),
+    expand = expansion(mult = c(0, 0.05))
+  ) +
+  labs(
+    title = "Processing Techniques in Successful Sequences",
+    subtitle = "Percentage of successful single sequences containing each technique",
+    x = "Processing technique",
+    y = "Successful sequences containing technique"
+  ) +
+  theme_minimal(base_size = 14)
+
+
+
+# What processing technique(s) are most common, regardless of success? -------------------------------------------------------------
+# Extract the technique-duration column names listed in techs
+technique_duration_columns <- techs %>%
+  pull(duration_technique_m) %>%
+  na.omit() %>%
+  unique()
+
+# Count how many single sequences contain each processing technique,
+# regardless of whether the sequence was successful
+all_technique_summary <- seq_single_min %>%
+  pivot_longer(
+    cols = all_of(technique_duration_columns),
+    names_to = "duration_technique_m",
+    values_to = "technique_duration"
+  ) %>%
+  group_by(duration_technique_m) %>%
+  summarise(
+    # Count sequences in which the technique occurred
+    sequences_with_technique =
+      sum(!is.na(technique_duration) & technique_duration > 0),
+    
+    # Total number of sequences, successful and unsuccessful
+    total_sequences = n_distinct(sequence_id),
+    
+    # Percentage of all sequences containing the technique
+    percentage_sequences =
+      100 * sequences_with_technique / total_sequences,
+    
+    .groups = "drop"
+  ) %>%
+  
+  # Add readable technique names
+  left_join(
+    techs %>%
+      select(
+        technique,
+        abb_technique,
+        duration_technique_m
+      ),
+    by = "duration_technique_m"
+  ) %>%
+  
+  select(
+    technique,
+    abb_technique,
+    duration_technique_m,
+    sequences_with_technique,
+    total_sequences,
+    percentage_sequences
+  ) %>%
+  
+  arrange(desc(percentage_sequences))
+
+all_technique_summary
+
+ggplot(
+  all_technique_summary,
+  aes(
+    x = reorder(technique, percentage_sequences),
+    y = percentage_sequences
+  )
+) +
+  geom_col(
+    fill = "red4",
+    width = 0.7
+  ) +
+  geom_text(
+    aes(
+      label = paste0(
+        round(percentage_sequences, 1),
+        "%"
+      )
+    ),
+    hjust = -0.15,
+    size = 4
+  ) +
+  coord_flip() +
+  scale_y_continuous(
+    limits = c(
+      0,
+      max(
+        all_technique_summary$percentage_sequences,
+        na.rm = TRUE
+      ) * 1.15
+    ),
+    labels = function(x) paste0(x, "%")
+  ) +
+  labs(
+    title = "Processing Techniques Across All Sequences",
+    subtitle = "Percentage of single sequences containing each technique",
+    x = "Processing technique",
+    y = "Percentage of all sequences"
+  ) +
+  theme_minimal(base_size = 14)
+
+
+# What portion of successful sequences can be attributed to each main technique? -------------------------------------------------------------
+successful_main_technique_summary <- seq_single_min %>%
+  # Retain successful sequences only
+  filter(success == 1) %>%
+  
+  # Retain missing values as an explicit category
+  mutate(
+    main_technique = coalesce(main_technique, "Missing")
+  ) %>%
+  
+  # Count successful sequences by their main technique
+  count(
+    main_technique,
+    name = "successful_sequences"
+  ) %>%
+  
+  # Calculate the percentage of successful sequences
+  mutate(
+    total_successful_sequences = sum(successful_sequences),
+    percentage_successful_sequences =
+      100 * successful_sequences / total_successful_sequences
+  ) %>%
+  
+  arrange(desc(percentage_successful_sequences))
+
+successful_main_technique_summary
+
+ggplot(
+  successful_main_technique_summary,
+  aes(
+    x = reorder(
+      main_technique,
+      percentage_successful_sequences
+    ),
+    y = percentage_successful_sequences
+  )
+) +
+  geom_col(
+    fill = "steelblue",
+    width = 0.7
+  ) +
+  geom_text(
+    aes(
+      label = paste0(
+        round(percentage_successful_sequences, 1),
+        "%"
+      )
+    ),
+    hjust = -0.15,
+    size = 4
+  ) +
+  coord_flip() +
+  scale_y_continuous(
+    limits = c(
+      0,
+      max(
+        successful_main_technique_summary$
+          percentage_successful_sequences,
+        na.rm = TRUE
+      ) * 1.15
+    ),
+    labels = function(x) paste0(x, "%")
+  ) +
+  labs(
+    title = "Main Processing Techniques in Successful Sequences",
+    subtitle = "Each successful sequence is assigned to one main technique",
+    x = "Main processing technique",
+    y = "Percentage of successful sequences"
+  ) +
+  theme_minimal(base_size = 14)
+
+# Comparing all occurrences of techniques to main techniques  -------------------------------------------------------------
+
+# Prepare the percentage of successful sequences in which each technique occurred
+technique_occurrence_plot_data <- successful_technique_summary %>%
+  transmute(
+    technique_code = abb_technique,
+    percentage = percentage_successful_sequences,
+    measure = "Technique occurred"
+  )
+
+# Prepare the percentage of successful sequences assigned to each main technique
+main_technique_plot_data <- successful_main_technique_summary %>%
+  transmute(
+    technique_code = main_technique,
+    percentage = percentage_successful_sequences,
+    measure = "Assigned as main technique"
+  )
+
+# Combine both summaries
+technique_comparison <- bind_rows(
+  technique_occurrence_plot_data,
+  main_technique_plot_data
+) %>%
+  
+  # Add readable technique names
+  left_join(
+    techs %>%
+      select(
+        technique_code = abb_technique,
+        technique
+      ),
+    by = "technique_code"
+  ) %>%
+  
+  # Retain codes for categories without a readable name, such as "none"
+  mutate(
+    technique_label = coalesce(technique, technique_code)
+  )
+
+ggplot(
+  technique_comparison,
+  aes(
+    x = reorder(technique_label, percentage),
+    y = percentage,
+    fill = measure
+  )
+) +
+  geom_col(
+    position = position_dodge(width = 0.8),
+    width = 0.7
+  ) +
+  geom_text(
+    aes(
+      label = paste0(round(percentage, 1), "%")
+    ),
+    position = position_dodge(width = 0.8),
+    hjust = -0.1,
+    size = 3.5
+  ) +
+  coord_flip() +
+  scale_y_continuous(
+    limits = c(0, 100),
+    breaks = seq(0, 100, 20),
+    labels = function(x) paste0(x, "%"),
+    expand = expansion(mult = c(0, 0.02))
+  ) +
+  scale_fill_manual(
+    values = c(
+      "Technique occurred" = "steelblue",
+      "Assigned as main technique" = "darkorange"
+    )
+  ) +
+  labs(
+    title = "Processing Techniques in Successful Sequences",
+    subtitle = paste(
+      "Occurrence indicates that a technique was used anywhere in a sequence;",
+      "main technique assigns each sequence to one category"
+    ),
+    x = "Processing technique",
+    y = "Percentage of successful sequences",
+    fill = NULL
+  ) +
+  theme_minimal(base_size = 14) +
+  theme(
+    legend.position = "top"
+  )
 
 

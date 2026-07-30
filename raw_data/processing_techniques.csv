@@ -1,0 +1,8 @@
+technique,abb_technique,duration_technique_s,duration_technique_m
+pound with hammerstone,stone_pound,pound_stone_duration_s,pound_stone_duration_m
+hit/pound on surface,hit_surface,hit_surface_duration_s,hit_surface_duration_m
+roll/scrub on surface,roll_scrub,roll_scrub_duration_s,roll_scrub_duration_m
+bite shell,bite_shell,bite_shell_duration_s,bite_shell_duration_m
+bite and pull with teeth,bite_pull,bite_pull_duration_s,bite_pull_duration_m
+manipulate with hands,man_hands,man_hands_duration_s,man_hands_duration_m
+,none,,
