@@ -49,7 +49,7 @@ library(marginaleffects)
 # Using single sequences and t = processing time and poisson -------------------------------------------------------------
 
 # Load in csv 
-seq_single <- read_csv("generated_data/eff_seq_single_proc.csv") %>%
+seq_single_min <- read_csv("generated_data/eff_seq_single_proc_min.csv") %>%
   mutate(
     observation_date = ymd_hms(observation_date),
     event_real_time_start = ymd_hms(event_real_time_start),
@@ -59,7 +59,7 @@ seq_single <- read_csv("generated_data/eff_seq_single_proc.csv") %>%
 # Fitting a Poisson model to estimate the overall rate of successful crab consumption per minute of processing time 
 proc_m_1 <- glm(success #1 or 0 for success or no success
                 ~ offset(log(total_process_duration_m)) , #accounting for differing processing duration across sequences; link with log
-                data=seq_single  , family="poisson")
+                data=seq_single_min  , family="poisson")
 # Currently, there are no predictors besides the offset, so the model will predict one overall average rate 
 summary(proc_m_1)
 # To convert result off of log scale and into successful crabs per minute overall
@@ -76,7 +76,7 @@ exp(coef(proc_m_1)[["(Intercept)"]])
 proc_m_subj <- glmer(success ~ 
                        (1|video_unique_subject) #adds a random intercept for every subject
                      + offset(log(total_process_duration_m)) ,
-                     data=seq_single  , family="poisson")
+                     data=seq_single_min  , family="poisson")
 # Reporting the population level log rate, subject log rate variance, etc
 summary(proc_m_subj) 
 # To convert result off of log scale and into successful crabs per minute overall
@@ -96,7 +96,7 @@ proc_subject_rates <- coef(proc_m_subj)$video_unique_subject %>%
 proc_m_tool <- glm(success ~ 
                      tool_use #adds tool use presence as a predictor
                    + offset(log(total_process_duration_m)) ,
-                   data=seq_single  , family="poisson")
+                   data=seq_single_min  , family="poisson")
 summary(proc_m_tool)
 # Intercept estimate is the log rate for non-tool use sequences; converting result off of log scale
 exp(coef(proc_m_tool)[1])
@@ -113,7 +113,7 @@ proc_m_subj_tool <- glmer(success ~
                             tool_use 
                           + (1|video_unique_subject) 
                           + offset(log(total_process_duration_m)) ,
-                          data=seq_single  , family="poisson")
+                          data=seq_single_min  , family="poisson")
 # fixed-effect estimates, subject-level random-effect variance, model-fit statistics, and diagnostic information:
 summary(proc_m_subj_tool)
 # only the population-level coefficients:
@@ -141,7 +141,7 @@ model <- brm(
   success ~ tool_use 
   + (1|video_unique_subject) 
   + offset(log(total_process_duration_m)),
-  data = seq_single,
+  data = seq_single_min,
   family = poisson(link = "log"),
   chains = 4, #runs 4 independent Markov chains 
   iter = 2000, #runs 2000 iterations per chain
@@ -206,8 +206,8 @@ plot(density(exp(draws$b_Intercept)) , xlim=c(0,20) , ylim = c(-.1,.8))
 dens(exp(draws$b_Intercept + draws$b_tool_use) , add=TRUE , col="salmon2")
 
 ##lets plot predictions, need to get on scale of preds
-flop <-seq_single$total_process_duration_m[seq_single$tool_use==0] 
-flip <-seq_single$total_process_duration_m[seq_single$tool_use==1]
+flop <-seq_single_min$total_process_duration_m[seq_single_min$tool_use==0] 
+flip <-seq_single_min$total_process_duration_m[seq_single_min$tool_use==1]
 points(flop, rep(0 , length(flop)))
 points(flip, rep(-.1 , length(flip)) , col="salmon2")
 
@@ -260,7 +260,7 @@ rate_plot <- ggplot(
 rate_plot
 
 
-duration_plot <- seq_single %>%
+duration_plot <- seq_single_min %>%
   mutate(
     tool_use_label = factor(
       tool_use,
@@ -303,7 +303,7 @@ duration_plot
 # Using single AND batch sequences and t = handling time and poisson -------------------------------------------------------------
 
 # Load in csv 
-seq_all <- read_csv("generated_data/eff_seq_.csv") %>%
+seq_all_min <- read_csv("generated_data/eff_seq_all_min.csv") %>%
   mutate(
     observation_date = ymd_hms(observation_date),
     event_real_time_start = ymd_hms(event_real_time_start),
@@ -312,7 +312,7 @@ seq_all <- read_csv("generated_data/eff_seq_.csv") %>%
 
 # Removing batch rows with text and making the remaining columns numeric
 count_columns <- c("total_HC_handled", "total_HC_processed", "total_HC_eaten")
-seq_all <- seq_all %>%
+seq_all_min <- seq_all_min %>%
   filter(if_all(all_of(count_columns),
                 ~ !is.na(.x) & stringr::str_detect(
                   stringr::str_trim(as.character(.x)),
@@ -326,7 +326,7 @@ seq_all <- seq_all %>%
 # Fitting a Poisson model to estimate the overall rate of successful crab consumption per minute of handling time 
 hand_m_1 <- glm(total_HC_eaten 
                 ~ offset(log(seq_duration_m)) , #accounting for differing handling duration across sequences; link with log
-                data=seq_all  , family="poisson")
+                data=seq_all_min  , family="poisson")
 # Currently, there are no predictors besides the offset, so the model will predict one overall average rate 
 summary(hand_m_1)
 # To convert result off of log scale and into successful crabs per minute overall
@@ -343,7 +343,7 @@ exp(coef(hand_m_1)[["(Intercept)"]])
 hand_m_subj <- glmer(total_HC_eaten ~ 
                        (1|video_unique_subject) #adds a random intercept for every subject
                      + offset(log(seq_duration_m)) ,
-                     data=seq_all  , family="poisson")
+                     data=seq_all_min  , family="poisson")
 # Reporting the population level log rate, subject log rate variance, etc
 summary(hand_m_subj) 
 # To convert result off of log scale and into successful crabs per minute overall
@@ -363,7 +363,7 @@ subject_rates <- coef(hand_m_subj)$video_unique_subject %>%
 hand_m_tool <- glm(total_HC_eaten ~ 
                      tool_use #adds tool use presence as a predictor
                    + offset(log(seq_duration_m)) ,
-                   data=seq_all  , family="poisson")
+                   data=seq_all_min  , family="poisson")
 summary(hand_m_tool)
 # Intercept estimate is the log rate for non-tool use sequences; converting result off of log scale
 exp(coef(hand_m_tool)[1])
@@ -380,7 +380,7 @@ hand_m_subj_tool <- glmer(total_HC_eaten ~
                             tool_use 
                           + (1|video_unique_subject) 
                           + offset(log(seq_duration_m)) ,
-                          data=seq_all  , family="poisson")
+                          data=seq_all_min  , family="poisson")
 # fixed-effect estimates, subject-level random-effect variance, model-fit statistics, and diagnostic information:
 summary(hand_m_subj_tool)
 # only the population-level coefficients:
@@ -407,7 +407,7 @@ model <- brm(
   total_HC_eaten ~ tool_use 
   + (1|video_unique_subject) 
   + offset(log(seq_duration_m)),
-  data = seq_all,
+  data = seq_all_min,
   family = poisson(link = "log"),
   chains = 4, #runs 4 independent Markov chains 
   iter = 2000, #runs 2000 iterations per chain
@@ -478,7 +478,7 @@ exposure_comparison
 # Using single sequences and GAMMA -------------------------------------------------------------
 
 # Load in csv 
-seq_single <- read_csv("generated_data/eff_seq_single_proc.csv") %>%
+seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>%
   mutate(
     observation_date = ymd_hms(observation_date),
     event_real_time_start = ymd_hms(event_real_time_start),
@@ -489,7 +489,7 @@ seq_single <- read_csv("generated_data/eff_seq_single_proc.csv") %>%
 # Fitting a Gamma GLM to estimate mean processing duration per HC according to tool use (ignoring success)
 proc_gam_1 <- glm(total_process_duration_m # positive, continuous processing duration in minutes
   ~ tool_use,  # compares sequences with and without ANY tool use
-  data = seq_single,
+  data = seq_single_s,
   family = Gamma(link = "log"))
 summary(proc_gam_1)
 # Estimated mean processing duration per HC for non-tool-use sequences (ignoring success)
@@ -501,7 +501,7 @@ exp(coef(proc_gam_1)[1] + coef(proc_gam_1)[2])
 # Fitting a Gamma GLM to estimate mean processing duration per HC according to tool use, success, and their interaction
 proc_gam_2 <- glm(total_process_duration_m ~ 
             tool_use*success, # compares combinations of tool use and success
-          data=seq_single  , family="Gamma"(link='log'))
+          data=seq_single_s  , family="Gamma"(link='log'))
 summary(proc_gam_2)
 # Estimated mean processing duration per HC for unsuccessful non-tool-use sequences
 exp(coef(proc_gam_2)[1])
@@ -513,10 +513,6 @@ exp(coef(proc_gam_2)[1] + coef(proc_gam_2)[3])
 exp(coef(proc_gam_2)[1] + coef(proc_gam_2)[2] + coef(proc_gam_2)[3] + coef(proc_gam_2)[4])
 
 
-# Adjusting time back into seconds
-seq_single$total_process_duration_s <- seq_single$total_process_duration_m*60
-seq_single$subject
-
 # Fitting a mixed effects Gamma GLMM to estimate mean processing duration per HC according to tool use,
 # while accounting for repeated observations from the same subject
 #!!! Brendan wrote this is a bad model
@@ -525,7 +521,7 @@ seq_single$subject
 proc_gam_3 <- glmer(total_process_duration_s 
   ~ tool_use # compares sequences with and without ANY tool use
   + (1 | subject), # allows each subject to have a different baseline duration
-  data = seq_single,
+  data = seq_single_s,
   family = Gamma(link = "log")
 )
 summary(proc_gam_3)
@@ -542,7 +538,7 @@ exp(fixef(proc_gam_3)[1] + fixef(proc_gam_3)[2])
 proc_gam_4 <- glmer(total_process_duration_s ~ 
               tool_use*success  # compares combinations of tool use and success
             + (1|subject),  # allows each subject to have a different baseline duration
-            data=seq_single  , family="Gamma"(link='log') )
+            data=seq_single_s  , family="Gamma"(link='log') )
 summary(proc_gam_4)
 # Estimated mean processing duration for no success, no tool use sequences for a subject with an average random effect
 exp(fixef(proc_gam_4)[1])
@@ -562,7 +558,7 @@ exp(fixef(proc_gam_4)[1] + fixef(proc_gam_4)[2] + fixef(proc_gam_4)[3] + fixef(p
 proc_gam_5 <- lmer(log(total_process_duration_s) ~ # log-transformed processing duration in seconds
              tool_use*success # compares combinations of tool use and success
            + (1|subject),   # allows each subject to have a different baseline duration
-           data=seq_single  )
+           data=seq_single_s  )
 summary(proc_gam_5)
 # Display each subject's estimated deviation from the average intercept
 ranef(proc_gam_5)
@@ -593,7 +589,7 @@ model <- brm(
   success # binary outcome: 1 = success, 0 = no success
   ~ tool_use  # compares tool-use and non-tool-use sequences
   + (1|subject) , # allows each subject to have a different baseline probability
-  data = seq_single,
+  data = seq_single_s,
   family = bernoulli(link = "logit"),
   chains = 4, #runs 4 independent Markov chains 
   iter = 2000, #runs 2000 iterations per chain
@@ -660,7 +656,7 @@ model2 <- brm(
   success  # binary outcome: 1 = success; 0 = no success
   ~ tool_use # population-level association with tool use
   + (1 + tool_use |subject), # subject-specific intercepts and tool-use slopes
-  data = seq_single,
+  data = seq_single_s,
   family = bernoulli(link = "logit"),
   chains = 4, #runs 4 independent Markov chains 
   iter = 2000, #runs 2000 iterations per chain
@@ -719,16 +715,5 @@ ggplot(preds_model2, aes(
 
 # What processing technique(s) are most common? -------------------------------------------------------------
 
-str(all_arenas)
-unique(all_arenas$event)
-subby <- c( "manipulate with hand(s)",
-            "bite shell" ,           
-            "bite and pull with teeth"  ,       
-            "hit/pound on surface" ,
-            "hammerstone grab" , "pound with hammerstone" , 
-            "roll/scrub on surface" 
-)
 
-aas <- all_arenas[which(all_arenas$event %in% subby),]
-str(all_arenas)
 

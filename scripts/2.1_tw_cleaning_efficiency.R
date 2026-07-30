@@ -28,7 +28,7 @@ library(stringr)
 library(lubridate)
 library(tidyr)
 library(readr)
-
+library(ggplot2)
 
 # Analysis-specific data cleaning: -------------------------------------------------------------
 
@@ -904,58 +904,74 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
   
   
   
-#! Adjusting dataframe relevancy for analysis -------------------------------------------------------------
-
-# Converting all duration columns from seconds into minutes 
-seq_single_min <- seq_sum_single %>%
-  mutate(across(ends_with("_s"), ~ .x / 60)) %>%
-  rename_with(
-    ~ sub("_s$", "_m", .x),
-    ends_with("_s")
-  )
+# Adjusting dataframe relevancy for analysis -------------------------------------------------------------
 
 # Adding a column to signify the presence of tool use in a sequence
-seq_single_min <- seq_single_min %>%
-  mutate(tool_use = if_else(!is.na(pound_stone_duration_m), 1, 0)) %>%
-  relocate(tool_use,.after = success)  
+seq_sum_single <- seq_sum_single %>%
+mutate(tool_use = if_else(!is.na(pound_stone_duration_s), 1, 0)) %>%
+relocate(tool_use,.after = success)  
   
+  
+# Adding a column to signify the overall main technique used in a sequence
+# Priority was determined as follows:
+  # pound with hammerstone > hit/pound with on surface > roll/scrub on surface > bite shell > bite and pull with teeth > manipulate with hands 
+    seq_sum_single <- seq_sum_single %>%
+    mutate(main_technique = case_when(
+        coalesce(pound_stone_duration_s, 0) > 0 ~ "stone_pound",
+        coalesce(hit_surface_duration_s, 0) > 0 ~ "hit_surface",
+        coalesce(roll_scrub_duration_s, 0) > 0 ~ "roll_scrub",
+        coalesce(bite_shell_duration_s, 0) > 0 ~ "bite_shell",
+        coalesce(bite_pull_duration_s, 0) > 0 ~ "bite_pull",
+        coalesce(man_hands_duration_s, 0) > 0 ~  "man_hands",
+        TRUE ~ "none"))  %>%
+      relocate(
+        main_technique,
+        .after = success)
+
 # Renaming to indicate which exposure-based analysis the dataframe is used for   
-seq_single_hand <- seq_single_min
+seq_single_hand_s <- seq_sum_single
 
 # Removing rows where the total processing duration is 0, 
 # Under the assumptions of the ethogram, this implies there was no attempt to extract the food 
-seq_single_proc <- seq_single_min %>%
-  filter(total_process_duration_m > 0)
+seq_single_proc_s <- seq_sum_single %>%
+  filter(total_process_duration_s > 0)
 
 # Now for batch processing 
 
-# Converting all duration columns from seconds into minutes 
-seq_batch_min <- seq_sum_batch %>%
-  mutate(across(ends_with("_s"), ~ .x / 60)) %>%
-  rename_with(
-    ~ sub("_s$", "_m", .x),
-    ends_with("_s")
-  )
-
 # Adding a column to signify the presence of tool use in a sequence
-seq_batch_min <- seq_batch_min %>%
-    mutate( tool_use = if_else(str_detect(coalesce(techniques, ""), fixed("hit/pound on surface")), 1, 0)) %>%
+seq_sum_batch <- seq_sum_batch %>%
+    mutate( tool_use = if_else(str_detect(coalesce(techniques, ""), fixed("pound with hammerstone")), 1, 0)) %>%
     relocate(tool_use, .after = total_HC_eaten)
 
+
+# Adding a column to signify the overall main technique used in a sequence
+# Priority was determined as follows:
+  # pound with hammerstone > hit/pound with on surface > roll/scrub on surface > bite shell > bite and pull with teeth > manipulate with hands 
+seq_sum_batch <- seq_sum_batch %>%
+  mutate(main_technique = case_when(
+      str_detect(coalesce(techniques, ""), fixed("pound with hammerstone")) ~ "stone_pound",
+      str_detect(coalesce(techniques, ""), fixed("hit/pound on surface")) ~ "hit_surface",
+      str_detect(coalesce(techniques, ""), fixed("roll/scrub on surface")) ~ "roll_scrub",
+      str_detect(coalesce(techniques, ""), fixed("bite shell")) ~ "bite_shell",
+      str_detect(coalesce(techniques, ""), fixed("bite and pull with teeth")) ~ "bite_pull",
+      str_detect(coalesce(techniques, ""), fixed("manipulate with hands")) ~ "man_hands",
+      TRUE ~ "none")) %>%
+  relocate(
+    main_technique,
+    .after = techniques)
+
 # Renaming to indicate which exposure-based analysis the dataframe is used for   
-seq_batch_hand <- seq_batch_min
+seq_batch_hand_s <- seq_sum_batch
 
 # # Removing rows where there is no processing technique indicated 
 # # Under the assumptions of the ethogram, this implies there was no attempt to extract the food 
 # seq_batch <- seq_batch_min %>%
 #   filter(!is.na(techniques))
 
-
-
 # Creating a dataframe with both the single and batch processing events
 
 # First creating a shell with relevant variables
-seq_all <- tibble(
+seq_all_s <- tibble(
   observation_id = character(),
   observation_date = as.POSIXct(
     character(),
@@ -976,53 +992,54 @@ seq_all <- tibble(
     character(),
     tz = "UTC"
   ),
-  seq_duration_m = numeric(),
+  seq_duration_s = numeric(),
   total_HC_handled = character(),
   total_HC_processed = character(),
   total_HC_eaten = character(),
   success = integer(),
+  main_technique = character(),
   tool_use = integer(),
   comments = character(),
   flags = character()
 )
-seq_all$anon_subject <- integer(0)
+seq_all_s$anon_subject <- integer(0)
 
 # Filling in values from single sequences
-seq_all <- bind_rows(
-  seq_all,
-  seq_single_hand %>%
+seq_all_s <- bind_rows(
+  seq_all_s,
+  seq_single_hand_s %>%
     select(
-      any_of(names(seq_all))
+      any_of(names(seq_all_s))
     )
 )
 
 # Filling in values from batch sequences
-seq_all <- bind_rows(
-  seq_all,
-  seq_batch_hand %>%
+seq_all_s <- bind_rows(
+  seq_all_s,
+  seq_batch_hand_s %>%
     select(
-      any_of(names(seq_all))
+      any_of(names(seq_all_s))
     )
 )
 
 # Filling in 1 for all single sequence's total_HC_handled variable 
-seq_all <- seq_all %>%
+seq_all_s <- seq_all_s %>%
   mutate( total_HC_handled = if_else(
       str_starts(sequence_id, "H"), "1", total_HC_handled))
 
 
 # Filling in 1 for all single sequences' total_HC_processed variable 
-seq_all <- seq_all %>%
+seq_all_s <- seq_all_s %>%
   mutate( total_HC_processed = if_else(
     str_starts(sequence_id, "H"), "1", total_HC_processed))
 
 # Filling in single sequences' total_HC_eaten variable 
-seq_all <- seq_all %>%
+seq_all_s <- seq_all_s %>%
   mutate(
     total_HC_eaten = if_else(str_starts(sequence_id, "H"), as.character(success), total_HC_eaten))
 
 # Filling in batch sequences' success variable 
-seq_all <- seq_all %>%
+seq_all_s <- seq_all_s %>%
   mutate(
     success = case_when(
       str_starts(sequence_id, "B") &
@@ -1047,44 +1064,45 @@ seq_all <- seq_all %>%
   )
 
 
+# Converting all duration columns from seconds into minutes  -------------------------------------------------------------
+
+# Writing a function to convert all duration columns from seconds into minutes 
+all_sec_to_min <- function(data) {data %>%
+    mutate(across(ends_with("_s"), ~ .x / 60)) %>%
+    rename_with(  ~ sub("_s$", "_m", .x), ends_with("_s"))}  
+
+seq_single_hand_min <- all_sec_to_min(seq_single_hand_s)
+seq_single_proc_min <- all_sec_to_min(seq_single_proc_s)
+
+seq_batch_hand_min <- all_sec_to_min(seq_batch_hand_s)
+
+seq_all_min <- all_sec_to_min(seq_all_s)
 
 # Saving output/cleaning environment -------------------------------------------------------------
 
-#Saving as a CSV
-write_csv(
-  seq_single_proc,
-  "generated_data/eff_seq_single_proc.csv"
-)
+#Saving as CSVs
+write_csv(seq_single_proc_s,
+  "generated_data/eff_seq_single_proc_s.csv")
 
-#Saving as a CSV
-write_csv(
-  seq_single_hand,
-  "generated_data/eff_seq_single_hand.csv"
-)
+write_csv(seq_single_proc_min,
+  "generated_data/eff_seq_single_proc_min.csv")
 
-#Saving as a CSV
-write_csv(
-  seq_batch_hand,
-  "generated_data/eff_seq_batch_hand.csv"
-)
+write_csv(seq_single_hand_s,
+  "generated_data/eff_seq_single_hand_s.csv")
 
-#Saving as a CSV
-write_csv(
-  seq_all,
-  "generated_data/eff_seq_all.csv"
-)
+write_csv(seq_single_hand_min,
+  "generated_data/eff_seq_single_hand_min.csv")
 
-# Cleaning up environment 
-# rm(
-#   list = setdiff(
-#     ls(),
-#     c(
-#       "seq_single_proc",
-#       "seq_single_hand",
-#       "seq_batch_hand",
-#       "seq_all"
-#     )
-#   )
-# )
+write_csv(seq_batch_hand_s,
+  "generated_data/eff_seq_batch_hand_s.csv")
+
+write_csv(seq_batch_hand_min,
+  "generated_data/eff_seq_batch_hand_min.csv")
+
+write_csv(seq_all_s,
+  "generated_data/eff_seq_all_s.csv")
+
+write_csv(seq_all_min,
+  "generated_data/eff_seq_all_min.csv")
 
 
