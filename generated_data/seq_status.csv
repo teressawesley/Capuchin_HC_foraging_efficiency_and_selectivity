@@ -1,0 +1,6 @@
+arena_site,videos_coded,videos_uncoded,single_sequences,batch_sequences,single_sequences_w_tool_use,single_sequences_w_o_tool_use,batch_sequences_w_tool_use,batch_sequences_w_o_tool_use,total_sequences_w_tool_use,total_sequences_w_o_tool_use
+all sites,NA,NA,319,76,28,291,17,59,45,350
+COCO,41,28,70,NA,2,68,0,0,2,68
+2PP,110,0,172,37,1,171,1,36,2,207
+BBC,77,53,77,39,25,52,16,23,41,75
+PU,0,92,NA,NA,0,0,0,0,0,0
