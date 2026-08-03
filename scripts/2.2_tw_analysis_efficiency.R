@@ -38,7 +38,6 @@ library(readr)
 library(ggplot2)
 library(lme4)
 library(brms)
-library(brms)
 library(tidybayes)
 library(ggplot2)
 library(dplyr)
@@ -663,12 +662,28 @@ model2 <- brm(
   backend = "cmdstanr"
 )
 summary(model2)
-plot(model2)
+plot(model2) #core_subject_Intercept_tool_use is not converging; 
+# core_subject_Intercept_tool_u -- correlation between varying intercepts and varying slopes per individual
+# Ex. if an individual has a low success rate w/o tool use, how is that correlated with their success rate when they use tools
+# Ex. when an indv doesn't use tools, what is the probability of their success 
+#       & how does that correlate to the probability of their success when they do use tools 
+# But currently, we probably do not have many individuals showing these variations 
+# Likely, the prior is coming back (and is a bad prior)
+# This model is inefficient and hard to fit 
 coef(model2)$subject
 # Plot the population-level conditional effect of tool use
 conditional_effects(model2, effects = "tool_use") %>% 
   plot(points = TRUE)
 
+# To understand why the above model is hard to fit, we can look at the number of tool and non-tool sequences we have for each subject
+subject_tool_sequences <- seq_single_s %>%
+  filter(!is.na(subject)) %>%  group_by(subject) %>%
+  summarise(tool_seqs = sum(tool_use == 1, na.rm = TRUE),
+    nontool_seqs = sum(tool_use == 0, na.rm = TRUE),
+    .groups = "drop") %>% arrange(subject)
+subject_tool_sequences
+# Number of subject that have both sequence types: 
+sum(subject_tool_sequences$tool_seqs > 0 &  subject_tool_sequences$nontool_seqs > 0)
 
 
 
@@ -709,6 +724,109 @@ ggplot(preds_model2, aes(
        fill = "Tool use") +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
+
+
+
+# Using single sequences, main techniques, and hurdle GAMMA -------------------------------------------------------------
+
+# Load in csv 
+seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>%
+  mutate(
+    observation_date = ymd_hms(observation_date),
+    event_real_time_start = ymd_hms(event_real_time_start),
+    event_real_time_stop = ymd_hms(event_real_time_stop)
+  )  
+
+# model success as a function of technique with varying intercepts for probability of individuals in being successful.
+# technique is a fixed effect relative to a reference category (bite and pull)
+# What is probability of success? How does that vary by the main technique? Whats the varying effect per subject? 
+# Estimates a mean success per subject, but not a slope per subject (does not ask how indvs vary in their techinques)
+proc_techs <- brm(
+  success # binary outcome: 1 = success, 0 = no success
+  ~ main_technique  # compares main technique across sequences
+  + (1|subject) + (1|arena_site), # allows each subject AND site to have a different baseline probability
+  data = seq_single_s,
+  family = bernoulli(link = "logit"),
+  chains = 4, 
+  iter = 2000, 
+  backend = "cmdstanr"
+)
+
+ranef(proc_techs)
+summary(proc_techs)
+# Plot posterior parameter distributions and chain trace plots
+plot(proc_techs)
+
+
+# lets add varying slopes per technique per individual
+# here we see what techniques work the best, but we are not accounting for time
+# so the best technique here might not be the most efficient if it takes a lot of time 
+proc_techs_2 <- brm(
+  success # binary outcome: 1 = success, 0 = no success
+  ~ main_technique  # compares tool-use and non-tool-use sequences
+  + (1 + main_technique|subject), # allows each subject to have a different baseline probability
+  data = seq_single_s,
+  family = bernoulli(link = "logit"),
+  chains = 4, #runs 4 independent Markov chains 
+  iter = 2000, #runs 2000 iterations per chain
+  backend = "cmdstanr"
+)
+
+summary(proc_techs_2)
+# Plot posterior parameter distributions and chain trace plots
+plot(proc_techs_2)
+
+
+
+
+#####hurdlegamma with one column outcome
+
+seq_single_s$why = ifelse(seq_single_s$success == 0, 0, seq_single_s$total_process_duration_s)
+
+
+hg_formula <- bf(
+  y ~ 1 + (1 | group),     # Model for non-zero continuous mean (log link)
+  hu ~ 1 + (1 | group),    # Model for hurdle probability (logit link)
+  why ~ 1 + tool_use + (1|subject),
+  hu ~ 1 + tool_use + (1|subject) 
+)
+
+erie <- brm(
+  formula = hg_formula,
+  data = seq_single_s,
+  family = hurdle_gamma(link = "log", link_hu = "logit"),
+  chains = 4, #runs 4 independent Markov chains 
+  iter = 2000, #runs 2000 iterations per chain
+  backend = "cmdstanr"
+) 
+# not working for me.....
+
+summary(erie)
+# said more variation in success than in efficiency across individuals
+# tool v nontool does not matter so much for their processing time, but matters a lot for success
+plot(erie)
+
+
+##hurdle gamma looking at variation in main techniques
+
+hg_formula <- bf(
+  
+  why ~ 1 + main_technique  + (1+ main_technique |subject),
+  hu ~ 1 +(1+ main_technique |subject) 
+)
+
+erie2 <- brm(
+  formula = hg_formula,
+  data = seq_single_s,
+  family = hurdle_gamma(link = "log", link_hu = "logit"),
+  chains = 4, #runs 4 independent Markov chains 
+  iter = 2000, #runs 2000 iterations per chain
+  backend = "cmdstanr"
+)
+
+summary(erie2)
+plot(erie2)
+
 
 
 
