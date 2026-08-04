@@ -33,6 +33,8 @@ library(dplyr)
 library(marginaleffects)
 library(cmdstanr)
 library(emmeans)
+library(patchwork)
+library(tidyverse)
 
 techs <- read_csv("raw_data/processing_techniques.csv")
 
@@ -638,7 +640,7 @@ technique_preds_summary <- technique_preds %>%
 technique_preds_summary
 
 # Plotting posterior distributions 
-ggplot(technique_preds, aes(
+plot_mbern_suc_tech_indv_site <- ggplot(technique_preds, aes(
   x = .epred,
   y = reorder(main_technique, .epred, FUN = median),
   fill = main_technique)) +
@@ -665,7 +667,7 @@ ggplot(technique_preds, aes(
     fill = "Main technique") +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
-
+plot_mbern_suc_tech_indv_site
 
 ## mbern_suc_tech_indv_int_SLOPE (don't use) -- Bernoulli; prob. success per seq (no dur.); tool v nontool; main techniques; Indv vary intercepts AND slope; site vary intercepts -------------------------------------------------------------
 
@@ -790,47 +792,237 @@ ggplot(technique_preds2, aes(
   theme(legend.position = "none")
 
 
-# Models -- Hurdle Gamma; single sequences; main techniques -------------------------------------------------------------
+# 3 Models -- Hurdle Gamma; prob. of success + duration if success; single sequences; tool v nontool; main techniques; inv variation -------------------------------------------------------------
+## mhg_suc_dur_tool_indv -- Hurdle Gamma; prob. success per seq + dur. if success; tool v nontool; Indv vary intercepts -------------------------------------------------------------
 
+# Hurdle model firsts asks: does a sequence succeed?
+#   Then asks: If successful, how long does processing take?
 
-# hurdlegamma with one column outcome -------------------------------------------------------------
+# Note: the duration of unsuccessful sequences is being discarded
 
-seq_single_s$why = ifelse(seq_single_s$success == 0, 0, seq_single_s$total_process_duration_s)
+# Does tool use predict:
+#   1. The probability that a sequence fails?
+#   2. Processing duration among successful sequences?
 
+# The Gamma component models positive processing durations among successful sequences
+# The hurdle component models the probability that success_duration_s equals zero,
+#   which represents failure
+# Subject varying intercepts allow individuals to differ in both their baseline
+#   failure probability and their processing duration among successful sequences
+# Tool-use effects are assumed to be identical across individuals
 
-hg_formula <- bf(
-  y ~ 1 + (1 | group),     # Model for non-zero continuous mean (log link)
-  hu ~ 1 + (1 | group),    # Model for hurdle probability (logit link)
-  why ~ 1 + tool_use + (1|subject),
-  hu ~ 1 + tool_use + (1|subject) 
-)
+# Note dataframe used:
+# seq_single_s
+#   has all SINGLE handling sequences with a NON-ZERO processing time 
+#   success is binary: 1 = success and 0 = no success
 
-erie <- brm(
-  formula = hg_formula,
+seq_single_s <- seq_single_s %>% mutate(success_duration_s = if_else(success == 0, 0, total_process_duration_s))
+
+mhg_suc_dur_tool_indv_formula <- bf(
+  success_duration_s ~ tool_use
+  + (1 | subject),
+  hu ~ tool_use
+  + (1 | subject))
+
+mhg_suc_dur_tool_indv <- brm(
+  formula = mhg_suc_dur_tool_indv_formula,
   data = seq_single_s,
   family = hurdle_gamma(link = "log", link_hu = "logit"),
-  chains = 4, #runs 4 independent Markov chains 
-  iter = 2000, #runs 2000 iterations per chain
-  backend = "cmdstanr"
-) 
-# not working for me.....
+  chains = 4,
+  iter = 2000,
+  backend = "cmdstanr")
 
-summary(erie)
-# said more variation in success than in efficiency across individuals
-# tool v nontool does not matter so much for their processing time, but matters a lot for success
-plot(erie)
+summary(mhg_suc_dur_tool_indv)
+# Intercept; Processing duration for a successful non-tool sequence from an average subject:
+exp(fixef(mhg_suc_dur_tool_indv)["Intercept", "Estimate"])
+# Processing duration for a successful tool sequence from an average subject:
+exp(fixef(mhg_suc_dur_tool_indv)["Intercept", "Estimate"] + fixef(mhg_suc_dur_tool_indv)["tool_use", "Estimate"])
+# Non-tool probability of success
+1 - plogis(fixef(mhg_suc_dur_tool_indv)["hu_Intercept", "Estimate"])
+# Tool use probability of success
+1 - plogis(fixef(mhg_suc_dur_tool_indv)["hu_Intercept", "Estimate"] + fixef(mhg_suc_dur_tool_indv)["hu_tool_use", "Estimate"])
+
+plot(mhg_suc_dur_tool_indv)
+
+# Plotting the results
+mhg_draws <- as_draws_df(mhg_suc_dur_tool_indv)
+
+# Convert posterior coefficients into success probabilities and durations
+mhg_plot_data <- bind_rows(
+  mhg_draws %>% transmute(tool_use = "No tool use",
+      success_probability = plogis(-b_hu_Intercept),
+      successful_duration_s = exp(b_Intercept)),
+  mhg_draws %>% transmute(tool_use = "Tool use",
+      success_probability = plogis(
+        -(b_hu_Intercept + b_hu_tool_use)),
+      successful_duration_s = exp(
+        b_Intercept + b_tool_use))) %>%
+  mutate(tool_use = factor(tool_use, levels = c("No tool use", "Tool use")))
+
+success_plot <- ggplot(mhg_plot_data, aes(x = success_probability, y = tool_use, fill = tool_use)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+               point_interval = median_qi,
+               alpha = 0.8) +
+  scale_x_continuous(labels = scales::percent,
+                     limits = c(0, 1)) +
+  scale_fill_manual(values = c("No tool use" = "grey50",
+    "Tool use" = "salmon2")) +
+  labs(title = "Probability of Success",
+       subtitle = "Population-level estimates with subject effects set to zero",
+       x = "Probability of success",
+       y = NULL,
+       fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+duration_plot <- ggplot(mhg_plot_data, aes(x = successful_duration_s, y = tool_use, fill = tool_use)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+               point_interval = median_qi,
+               alpha = 0.8) +
+  scale_fill_manual(values = c("No tool use" = "grey50",
+    "Tool use" = "salmon2")) +
+  labs(title = "Processing Duration When Successful",
+       subtitle = "Population-level estimates with subject effects set to zero",
+       x = "Mean processing duration (seconds)",
+       y = NULL,
+       fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+success_plot / duration_plot +
+  plot_annotation(
+    title = "Success and Processing Duration by Tool Use",
+    subtitle = "Hurdle-Gamma model results")
+
+## mhg_suc_dur_tech_indv -- Hurdle Gamma; prob. success per seq + dur. if success; main techniquesl; Indv vary intercepts -------------------------------------------------------------
+
+# Do main techniques differ (from stone_pound) in:
+#   1. Their probability of failure?
+#   2. Their processing duration among successful sequences?
+
+# The population-level main-technique effects are relative to stone_pound
+# Subjects and sites can differ in their baseline failure probabilities
+#   and baseline successful processing durations
+# Technique effects are initially assumed to be the same across subjects and sites
+
+# Reordering so intercept is stone_pound
+seq_single_s <- seq_single_s %>%  mutate(main_technique = relevel(
+  factor(main_technique), ref = "stone_pound"))
+# Check it is the first level
+levels(seq_single_s$main_technique)
+
+mhg_suc_dur_tech_indv_formula <- bf(
+  success_duration_s ~ main_technique
+  + (1 | subject)
+  + (1 | arena_site),
+  hu ~ main_technique
+  + (1 | subject)
+  + (1 | arena_site))
+
+mhg_suc_dur_tech_indv <- brm(
+  formula = mhg_suc_dur_tech_indv_formula,
+  data = seq_single_s,
+  family = hurdle_gamma(link = "log", link_hu = "logit"),
+  chains = 4,
+  iter = 2000,
+  backend = "cmdstanr")
+
+summary(mhg_suc_dur_tech_indv)
+# main_technique...: duration difference relative to stone_pound among successful sequences
+# hu_main_technique...: failure-probability difference relative to stone_pound
+# Negative hu coefficient: higher success odds than stone_pound
+# Positive hu coefficient: lower success odds than stone_pound
+
+plot(mhg_suc_dur_tech_indv)
+
+# Plotting the results
+# Define the technique conditions
+techniques <- levels(droplevels(seq_single_s$main_technique))
+technique_newdata <- tibble(main_technique = factor(techniques, levels = techniques))
+
+# Posterior probability that success_duration_s equals zero - Zero represents failure
+failure_draws <- posterior_linpred(mhg_suc_dur_tech_indv, newdata = technique_newdata,
+  re_formula = NA, dpar = "hu", transform = TRUE)
+
+# Posterior mean duration among successful sequences
+duration_draws <- posterior_linpred(mhg_suc_dur_tech_indv, newdata = technique_newdata,
+  re_formula = NA, dpar = "mu", transform = TRUE)
+
+# Label the matrix columns with their techniques
+colnames(failure_draws) <- techniques
+colnames(duration_draws) <- techniques
+
+success_plot_data <- as_tibble(1 - failure_draws) %>%
+  mutate(.draw = row_number()) %>%
+  pivot_longer(-.draw, names_to = "main_technique", values_to = "success_probability")
+
+duration_plot_data <- as_tibble(duration_draws) %>%
+  mutate(.draw = row_number()) %>%
+  pivot_longer(-.draw, names_to = "main_technique", values_to = "successful_duration_s")
+
+technique_plot_data <- left_join(success_plot_data, duration_plot_data, by = c(".draw", "main_technique")) %>%
+  mutate(main_technique = factor(main_technique, levels = rev(techniques)))
+
+technique_labels <- c("stone_pound" = "Pound with hammerstone", "bite_pull" = "Bite and pull with teeth",
+  "bite_shell" = "Bite shell", "hit_surface" = "Hit/pound on surface", "man_hands" = "Manipulate with hands",
+  "roll_scrub" = "Roll/scrub on surface")
+
+success_plot <- ggplot(technique_plot_data, aes(x = success_probability, y = main_technique, fill = main_technique)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+               point_interval = median_qi,
+               alpha = 0.8) +
+  scale_x_continuous(labels = scales::percent,
+                     limits = c(0, 1)) +
+  scale_y_discrete(labels = technique_labels) +
+  scale_fill_brewer(palette = "Set1") +
+  labs(title = "Probability of Success",
+       subtitle = "Subject and site effects set to zero",
+       x = "Probability of success",
+       y = NULL,
+       fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+duration_plot <- ggplot(technique_plot_data, aes(x = successful_duration_s, y = main_technique, fill = main_technique)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+               point_interval = median_qi,
+               alpha = 0.8) +
+  scale_y_discrete(labels = technique_labels) +
+  scale_fill_brewer(palette = "Set1") +
+  coord_cartesian(xlim = c(0, 40)) +
+  labs(title = "Processing Duration When Successful",
+       subtitle = "Subject and site effects set to zero",
+       x = "Mean processing duration (seconds)",
+       y = NULL,
+       fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+success_plot | duration_plot +
+  plot_annotation(
+    title = "Success and Processing Duration by Main Technique",
+    subtitle = "Population-level hurdle-Gamma model estimates")
 
 
-##hurdle gamma looking at variation in main techniques
 
-hg_formula <- bf(
+## mhg_suc_dur_tech_slope -- Hurdle Gamma; prob. success per seq + dur. if success; main techniquesl; Indv vary intercepts AND slops -------------------------------------------------------------
+
+# Adding varying slops for individuals
+# Subjects can differ in both:
+#   1. Their baseline success and duration
+#   2. The relationship between technique and success or duration
+# Sites retain varying intercepts
+
+# Note: this model is not best to use unless more data adds more multi-technique representation across subjects 
+
+mhg_suc_dur_tech_slope_formula <- bf(
+    success_duration_s ~ main_technique
+    + (1 + main_technique | subject),
+    hu ~ main_technique
+    + (1 + main_technique | subject))
   
-  why ~ 1 + main_technique  + (1+ main_technique |subject),
-  hu ~ 1 +(1+ main_technique |subject) 
-)
-
-erie2 <- brm(
-  formula = hg_formula,
+mhg_suc_dur_tech_slope <- brm(
+  formula = mhg_suc_dur_tech_slope_formula,
   data = seq_single_s,
   family = hurdle_gamma(link = "log", link_hu = "logit"),
   chains = 4, #runs 4 independent Markov chains 
@@ -838,24 +1030,185 @@ erie2 <- brm(
   backend = "cmdstanr"
 )
 
-summary(erie2)
-plot(erie2)
+summary(mhg_suc_dur_tech_slope)
+plot(mhg_suc_dur_tech_slope)
 
 
 
 
 
-# What is the percent occurrence of each technique in successful sequences? -------------------------------------------------------------
+# Options - success + duration; no removal of duration for unsuccessful seqs -------------------------------------------------------------
+## Option 1 - Keep the models separate -------------------------------------------------------------
 
-# Load in csvs 
-seq_single_min <- read_csv("generated_data/eff_seq_single_proc_min.csv") %>%
-  mutate(
-    observation_date = ymd_hms(observation_date),
-    event_real_time_start = ymd_hms(event_real_time_start),
-    event_real_time_stop = ymd_hms(event_real_time_stop)
-  )  
-techs <- read_csv("raw_data/processing_techniques.csv")
+# 1: Use the mbern_suc_tech_indv_site (Bernoulli; prob. success per seq (no dur.); main techniques; Indv vary intercepts; site vary intercepts)
+# How does the probability of success differ among techniques?
+summary(mbern_suc_tech_indv_site)
+# The intercept is the log-odds of success for an average indv using (stone_pound) at an average site 
+technique_preds_summary
+plot_mbern_suc_tech_indv_site
 
+# 2: Run another model mgam_dur_tech_suc_indv_site (Gamma; process duration; main techniques)
+# How does processing duration differ among techniques, and does that difference depend on whether the attempt succeeds?
+mgam_dur_tech_suc_indv_site <- brm(
+  total_process_duration_s ~ main_technique * success
+  + (1 | subject)
+  + (1 | arena_site),
+  data = seq_single_s,
+  family = Gamma(link = "log"),
+  chains = 4,
+  iter = 2000,
+  backend = "cmdstanr")
+summary(mgam_dur_tech_suc_indv_site)
+
+
+## Option 2 - Joint Bernoulli-Gamma model -------------------------------------------------------------
+# Using a multivariate model
+# How does technique predict success probability?
+# How does technique predict processing duration?
+# Do individuals with higher success probabilities also tend to process faster or slower?
+# Do sites with higher success probabilities also have different durations?
+
+# Create a simple response name for the multivariate model
+seq_single_s <- seq_single_s %>%
+  mutate(main_technique = relevel(
+      factor(main_technique),
+      ref = "stone_pound"),
+    duration = total_process_duration_s)
+# Check that stone_pound is the reference
+levels(seq_single_s$main_technique)
+
+# Bernoulli component: probability of success
+success_formula <- bf(
+  success ~ main_technique
+  + (1 | p | subject)
+  + (1 | q | arena_site),
+  family = bernoulli(link = "logit"))
+
+# Gamma component: duration of all attempts
+# The interaction permits different duration patterns for successful and unsuccessful sequences within each technique
+duration_formula <- bf(
+  duration ~ main_technique * success
+  + (1 | p | subject)
+  + (1 | q | arena_site),
+  family = Gamma(link = "log"))
+
+# Fit both outcomes jointly
+mjoint_suc_dur_tech <- brm(
+  success_formula + duration_formula + set_rescor(FALSE),
+  data = seq_single_s,
+  chains = 4,
+  iter = 2000,
+  backend = "cmdstanr")
+
+summary(mjoint_suc_dur_tech)
+plot(mjoint_suc_dur_tech)
+
+# Ex. a technique may have high success prob, but be inefficient if both successful + unsuccessful attempts take a long time
+# Ex. a technique may have lower success prob, but still be efficient because attempts are fast
+
+# Main-technique levels included in the fitted models
+techniques <- levels(droplevels(seq_single_s$main_technique))
+
+# Conditions for predicting success probability
+success_newdata <- tibble(main_technique = factor(techniques, levels = techniques))
+
+# Conditions for predicting failed-attempt duration
+failed_duration_newdata <- tibble(main_technique = factor(techniques, levels = techniques), success = 0)
+
+# Conditions for predicting successful-attempt duration
+successful_duration_newdata <- tibble(main_technique = factor(techniques, levels = techniques), success = 1)
+
+# Posterior probability of success for each technique
+success_draws <- posterior_epred(
+  mjoint_suc_dur_tech,
+  newdata = success_newdata,
+  resp = "success",
+  re_formula = NA)
+
+# Posterior mean duration when unsuccessful
+failed_duration_draws <- posterior_epred(
+  mjoint_suc_dur_tech,
+  newdata = failed_duration_newdata,
+  resp = "duration",
+  re_formula = NA)
+
+# Posterior mean duration when successful
+successful_duration_draws <- posterior_epred(
+  mjoint_suc_dur_tech,
+  newdata = successful_duration_newdata,
+  resp = "duration",
+  re_formula = NA)
+
+
+dim(success_draws)
+dim(failed_duration_draws)
+dim(successful_duration_draws)
+
+length(techniques)
+
+
+n_draws <- nrow(success_draws)
+
+stopifnot(nrow(failed_duration_draws) == n_draws,
+  nrow(successful_duration_draws) == n_draws,
+  ncol(success_draws) == length(techniques),
+  ncol(failed_duration_draws) == length(techniques),
+  ncol(successful_duration_draws) == length(techniques))
+
+efficiency_draws <- map_dfr(
+  seq_along(techniques),
+  function(technique_column) {
+    success_probability <- success_draws[, technique_column]
+    failed_duration <- failed_duration_draws[, technique_column]
+    successful_duration <- successful_duration_draws[, technique_column]
+    # Expected time spent on one attempt
+    expected_seconds_per_attempt <- success_probability * successful_duration + (1 - success_probability) * failed_duration
+    # Expected time spent before obtaining one success
+    seconds_per_success <- expected_seconds_per_attempt / success_probability
+    tibble(.draw = seq_len(n_draws),
+      main_technique = techniques[technique_column],
+      success_probability = success_probability,
+      successful_duration_s = successful_duration,
+      failed_duration_s = failed_duration,
+      expected_seconds_per_attempt =
+        expected_seconds_per_attempt,
+      seconds_per_success = seconds_per_success)})
+
+efficiency_summary <- efficiency_draws %>% group_by(main_technique) %>%
+  summarise(median_seconds_per_success = median(seconds_per_success),
+    lower_95_CI = quantile(seconds_per_success, 0.025),
+    upper_95_CI = quantile(seconds_per_success, 0.975),
+    .groups = "drop") %>% arrange(median_seconds_per_success)
+
+efficiency_summary
+
+technique_labels <- c("stone_pound" = "Pound with hammerstone",
+  "bite_pull" = "Bite and pull with teeth",
+  "bite_shell" = "Bite shell",
+  "hit_surface" = "Hit/pound on surface",
+  "man_hands" = "Manipulate with hands",
+  "roll_scrub" = "Roll/scrub on surface")
+
+ggplot(efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
+  fill = main_technique)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+               point_interval = median_qi,
+               alpha = 0.8) +
+  scale_x_log10(labels = scales::label_number()) +
+  scale_y_discrete(labels = technique_labels) +
+  scale_fill_brewer(palette = "Set1") +
+  labs(title = "Expected Processing Time per Success",
+       subtitle = "Includes time spent on successful and failed attempts",
+       x = "Expected seconds per success (log scale)",
+       y = "Main processing technique",
+       fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
+
+# Etc -------------------------------------------------------------
+## What is the percent occurrence of each technique in successful sequences? -------------------------------------------------------------
 
 # Extract the technique-duration column names listed in techs
 technique_duration_columns <- techs %>%
@@ -961,7 +1314,7 @@ ggplot(
 
 
 
-# What processing technique(s) are most common, regardless of success? -------------------------------------------------------------
+## What processing technique(s) are most common, regardless of success? -------------------------------------------------------------
 # Extract the technique-duration column names listed in techs
 technique_duration_columns <- techs %>%
   pull(duration_technique_m) %>%
@@ -1057,7 +1410,7 @@ ggplot(
   theme_minimal(base_size = 14)
 
 
-# What portion of successful sequences can be attributed to each main technique? -------------------------------------------------------------
+## What portion of successful sequences can be attributed to each main technique? -------------------------------------------------------------
 successful_main_technique_summary <- seq_single_min %>%
   # Retain successful sequences only
   filter(success == 1) %>%
@@ -1128,7 +1481,7 @@ ggplot(
   ) +
   theme_minimal(base_size = 14)
 
-# Comparing all occurrences of techniques to main techniques  -------------------------------------------------------------
+## Comparing all occurrences of techniques to main techniques  -------------------------------------------------------------
 
 # Prepare the percentage of successful sequences in which each technique occurred
 technique_occurrence_plot_data <- successful_technique_summary %>%
