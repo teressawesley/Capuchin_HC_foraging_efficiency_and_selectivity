@@ -32,6 +32,7 @@ library(ggplot2)
 library(dplyr)
 library(marginaleffects)
 library(cmdstanr)
+library(emmeans)
 
 techs <- read_csv("raw_data/processing_techniques.csv")
 
@@ -55,7 +56,7 @@ seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>%
     event_real_time_start = ymd_hms(event_real_time_start),
     event_real_time_stop = ymd_hms(event_real_time_stop))  
 
-# 3 Models -- Poisson; log processing time offset; Success per minute, tool v nontool; Individual varying intercepts AND slope -------------------------------------------------------------
+# 3 Models -- Poisson; log processing/handling time offset; Success per minute, tool v nontool; individual variation -------------------------------------------------------------
 ## mpoi_suc_rate_tool_indv_int -- Poisson; log processing time offset; Success per minute, tool v nontool; Individual varying intercepts -------------------------------------------------------------
 
 # Is the rate of success per minute of processing different between tool-use and non-tool-use sequences, 
@@ -375,9 +376,8 @@ exposure_comparison
 
 
 
-# Models -- Gamma; single single sequences -------------------------------------------------------------
-
-## mbern_suc_tool_indv_int -- Bernoulli; estimating prob. success; tool v nontool; Indv varying intercepts -------------------------------------------------------------
+# 2 Models -- Bernoulli; prob. of success (no duration); single sequences; tool v nontool; individual variation -------------------------------------------------------------
+## mbern_suc_tool_indv_int -- Bernoulli; estimating prob. success per seq (no dur.); tool v nontool; Indv varying intercepts -------------------------------------------------------------
 
 # Is the probability of success different between tool-use and non-tool-use sequences,
 #   while accounting for repeated observations from the same individual?
@@ -400,30 +400,43 @@ exposure_comparison
 mbern_suc_tool_indv_int <- brm(
   success # binary outcome: 1 = success, 0 = no success
   ~ tool_use  # compares tool-use and non-tool-use sequences
-  + (1|subject) , # allows each subject to have a different baseline probability
+  + (1|subject), # allows each subject to have a different baseline probability
   data = seq_single_s,
   family = bernoulli(link = "logit"),
   chains = 4, #runs 4 independent Markov chains 
   iter = 2000, #runs 2000 iterations per chain
-  backend = "cmdstanr"
-)
+  backend = "rstan")
 # Subjects can have different baseline success probabilities, 
 # but assumes that tool use has the same association with success for every subject
 
 summary(mbern_suc_tool_indv_int)
+# The prob. of success for a non-tool seq from average indv:
+plogis(fixef(mbern_suc_tool_indv_int)["Intercept", "Estimate"])
+# The prob. of success for a tool seq:
+plogis(fixef(mbern_suc_tool_indv_int)["Intercept", "Estimate"] + fixef(mbern_suc_tool_indv_int)["tool_use", "Estimate"])
 # Plot posterior parameter distributions and chain trace plots
 plot(mbern_suc_tool_indv_int)
 
 # Converting the model’s log-odds estimates into predicted probabilities of success for non-tool-use 
 # and tool-use sequences, then displaying the full posterior uncertainty for each group.
 # Define the two tool-use conditions for which probabilities will be estimated:
-newdata <- datagrid(mbern_suc_tool_indv_int = mbern_suc_tool_indv_int,  tool_use = c(0, 1) # 0 = no tool use; 1 = tool use
+newdata <- datagrid(model = mbern_suc_tool_indv_int,  tool_use = c(0, 1) # 0 = no tool use; 1 = tool use
 )
 
 # Obtain posterior draws of the expected probability of success for each tool-use condition
-preds <- mbern_suc_tool_indv_int %>%
-  epred_draws(newdata = newdata, 
+preds <- mbern_suc_tool_indv_int %>% epred_draws(newdata = newdata, 
               re_formula = NA) # excludes subject-specific random effects
+
+preds_summary <- preds %>% group_by(tool_use) %>% summarise(
+  median_prob = median(.epred),
+  lower_95_CI = quantile(.epred, 0.025),
+  upper_95_CI = quantile(.epred, 0.975),
+  .groups = "drop") %>%
+  mutate(tool_use = recode(
+    as.character(tool_use),
+    "0" = "No tool use",
+    "1" = "Tool use"))
+preds_summary
 
 # Plot posterior distributions of the population-level success probabilities
 ggplot(preds, aes(
@@ -451,17 +464,26 @@ ggplot(preds, aes(
 
 
 
+## mbern_suc_tool_indv_int_SLOPE (don't use) -- Bernoulli; estimating prob. success per seq (no dur.); tool v nontool; Indv varying intercepts AND slope -------------------------------------------------------------
 
+# SAME as mbern_suc_tool_indv_int EXCEPT now also allows for different effects of tool use for indvs (varying slope)
 
+# Is the probability of success different between tool-use and non-tool-use sequences,
+#   while accounting for repeated observations from the same individual?
 
+# The population-level intercept represents the expected log-odds of success
+#   for a non-tool-use sequence from an average individual
+# The varying intercept allows each individual to have a higher or lower baseline
+#   probability of success than the population average
+# The varying slopes allows each individuals relationship between tool use and success prob. to differ
+# Thus indvs can differ in both baseline success prob and how strongly tool use is associated with their success prob
+# (Allowing both baseline success probability and the association between tool use and success to vary among subject)
 
-
-
-# Allowing both baseline success probability and the association between tool use and success to vary among subject:
 ###below is varying slopes its a bit off with fit -- not all subjects have seqs w/ AND w/o tool use
+
 # logistic mixed-effects model in which subjects can differ in both their baseline success probability and their tool-use effect
 ## Removes assumption that tool use has the same association with success for every subject
-model2 <- brm(
+mbern_suc_tool_indv_int_slope <- brm(
   success  # binary outcome: 1 = success; 0 = no success
   ~ tool_use # population-level association with tool use
   + (1 + tool_use |subject), # subject-specific intercepts and tool-use slopes
@@ -471,8 +493,9 @@ model2 <- brm(
   iter = 2000, #runs 2000 iterations per chain
   backend = "cmdstanr"
 )
-summary(model2)
-plot(model2) #core_subject_Intercept_tool_use is not converging; 
+summary(mbern_suc_tool_indv_int_slope)
+
+plot(mbern_suc_tool_indv_int_slope) #core_subject_Intercept_tool_use is not converging; 
 # core_subject_Intercept_tool_u -- correlation between varying intercepts and varying slopes per individual
 # Ex. if an individual has a low success rate w/o tool use, how is that correlated with their success rate when they use tools
 # Ex. when an indv doesn't use tools, what is the probability of their success 
@@ -480,37 +503,29 @@ plot(model2) #core_subject_Intercept_tool_use is not converging;
 # But currently, we probably do not have many individuals showing these variations 
 # Likely, the prior is coming back (and is a bad prior)
 # This model is inefficient and hard to fit 
-coef(model2)$subject
+coef(mbern_suc_tool_indv_int_slope)$subject
 # Plot the population-level conditional effect of tool use
-conditional_effects(model2, effects = "tool_use") %>% 
+conditional_effects(mbern_suc_tool_indv_int_slope, effects = "tool_use") %>% 
   plot(points = TRUE)
 
 # To understand why the above model is hard to fit, we can look at the number of tool and non-tool sequences we have for each subject
 subject_tool_sequences <- seq_single_s %>%
-  filter(!is.na(subject)) %>%  group_by(subject) %>%
-  summarise(tool_seqs = sum(tool_use == 1, na.rm = TRUE),
-    nontool_seqs = sum(tool_use == 0, na.rm = TRUE),
-    .groups = "drop") %>% arrange(subject)
+  filter(!is.na(subject)) %>%  group_by(subject) %>% summarise(tool_seqs = sum(tool_use == 1, na.rm = TRUE),
+    nontool_seqs = sum(tool_use == 0, na.rm = TRUE), .groups = "drop") %>% arrange(subject)
 subject_tool_sequences
 # Number of subject that have both sequence types: 
 sum(subject_tool_sequences$tool_seqs > 0 &  subject_tool_sequences$nontool_seqs > 0)
 
-
-
-# Converting model2's log-odds estimates into predicted probabilities of success for non-tool-use 
+# Converting mbern_suc_tool_indv_int_slope's log-odds estimates into predicted probabilities of success for non-tool-use 
 # and tool-use sequences, then displaying the full posterior uncertainty for each group
 # Define the two tool-use conditions for which probabilities will be estimated
-newdata_model2 <- datagrid(
-  model = model2,
+newdata_model2 <- datagrid(model = mbern_suc_tool_indv_int_slope,
   tool_use = c(0, 1) # 0 = no tool use; 1 = tool use
 )
 
 # Obtain posterior draws of the expected population-level probability of success for each tool-use condition
-preds_model2 <- model2 %>%
-  epred_draws(
-    newdata = newdata_model2,
-    re_formula = NA # excludes subject-specific intercepts and slopes
-  )
+preds_model2 <- mbern_suc_tool_indv_int_slope %>% epred_draws(newdata = newdata_model2,
+    re_formula = NA) # excludes subject-specific intercepts and slopes
 
 # Plot posterior distributions of the population-level success probabilities
 ggplot(preds_model2, aes(
@@ -537,21 +552,44 @@ ggplot(preds_model2, aes(
 
 
 
-# Using single sequences, main techniques, and hurdle GAMMA -------------------------------------------------------------
+# 2 Models -- Bernoulli; prob. of success (no duration); single sequences; MAIN TECHNIQUES; indv variation -------------------------------------------------------------
 
-# Load in csv 
-seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>%
-  mutate(
-    observation_date = ymd_hms(observation_date),
-    event_real_time_start = ymd_hms(event_real_time_start),
-    event_real_time_stop = ymd_hms(event_real_time_stop)
-  )  
+# Here we see what techniques work the best, but we are not accounting for time
+# so the most likely successful technique here might not be the most efficient if it takes a lot of time 
 
-# model success as a function of technique with varying intercepts for probability of individuals in being successful.
-# technique is a fixed effect relative to a reference category (bite and pull)
+## mbern_suc_tech_indv_site -- Bernoulli; prob. success per seq (no dur.); main techniques; Indv vary intercepts; site vary intercepts -------------------------------------------------------------
+
+# Is the probability of success different between main techniques,
+#   while accounting for repeated observations from the same individual and sites?
+
+# The population-level intercept represents the expected log-odds of success
+#   for the reference main technique, for an average individual at an average site
+# The main_technique coefficients represent differences in log-odds of success
+#   between each technique and the reference technique
+# The subject varying intercept allows each individual to have a higher or lower
+#   baseline probability of success than the population average
+# The site varying intercept allows each arena site to have a higher or lower
+#   baseline probability of success than the population average
+# The effect of main technique is assumed to be the same across individuals and sites
+
+# Note dataframe used:
+# seq_single_s
+#   has all SINGLE handling sequences with a NON-ZERO processing time 
+#   success is binary: 1 = success and 0 = no success
+
+# Note we did not yet select a biologically plausible prior
+
+# Reordering to intercept is stone_pound
+seq_single_s <- seq_single_s %>%  mutate(main_technique = relevel(
+    factor(main_technique), ref = "stone_pound"))
+# Check it is the first level
+levels(seq_single_s$main_technique)
+
+# modeling success as a function of technique with varying intercepts for probability of individuals in being successful.
+# technique is a fixed effect relative to a reference category (stone_pound)
 # What is probability of success? How does that vary by the main technique? Whats the varying effect per subject? 
 # Estimates a mean success per subject, but not a slope per subject (does not ask how indvs vary in their techinques)
-proc_techs <- brm(
+mbern_suc_tech_indv_site <- brm(
   success # binary outcome: 1 = success, 0 = no success
   ~ main_technique  # compares main technique across sequences
   + (1|subject) + (1|arena_site), # allows each subject AND site to have a different baseline probability
@@ -559,22 +597,113 @@ proc_techs <- brm(
   family = bernoulli(link = "logit"),
   chains = 4, 
   iter = 2000, 
-  backend = "cmdstanr"
-)
+  backend = "cmdstanr")
+summary(mbern_suc_tech_indv_site)
+# The intercept is the log-odds of success for an average indv using (stone_pound) at an average site 
 
-ranef(proc_techs)
-summary(proc_techs)
 # Plot posterior parameter distributions and chain trace plots
-plot(proc_techs)
+plot(mbern_suc_tech_indv_site)
+ranef(mbern_suc_tech_indv_site)
+
+# Checking comparisons between every pair of techinques
+emmeans(mbern_suc_tech_indv_site, pairwise ~ main_technique,
+        type = "response")
+
+technique_emmeans <- emmeans(mbern_suc_tech_indv_site, ~ main_technique)
+technique_probabilities <- regrid(technique_emmeans, transform = "response")
+# Returns each technique's population-level predicted prob of success (with subject and site deviations set to avg of zero)
+#   Note the range of the lower and upper credible intervals 
+technique_probabilities
+# Next returns the compared odds of success between pairs of techniques
+#   first - second   estimate = probability difference
+#   ex. first - second estimate = 0.2 means first's prob. of success is 20% points higher than the second's prob of success
+pairs(technique_probabilities)
 
 
-# lets add varying slopes per technique per individual
-# here we see what techniques work the best, but we are not accounting for time
-# so the best technique here might not be the most efficient if it takes a lot of time 
-proc_techs_2 <- brm(
+# Define each main-technique condition
+technique_newdata <- tibble(main_technique = levels(seq_single_s$main_technique))
+
+# Obtain posterior draws of the expected probability of success
+technique_preds <- mbern_suc_tech_indv_site %>% epred_draws(newdata = technique_newdata,
+    re_formula = NA) # excludes subject- and site-specific effects
+
+# Summarize predicted probabilities for each technique
+technique_preds_summary <- technique_preds %>%
+  group_by(main_technique) %>%
+  summarise(
+    median_prob = median(.epred),
+    lower_95_CI = quantile(.epred, 0.025),
+    upper_95_CI = quantile(.epred, 0.975),
+    .groups = "drop")
+technique_preds_summary
+
+# Plotting posterior distributions 
+ggplot(technique_preds, aes(
+  x = .epred,
+  y = reorder(main_technique, .epred, FUN = median),
+  fill = main_technique)) +
+  stat_halfeye(
+    .width = c(0.66, 0.95),
+    point_interval = median_qi,
+    alpha = 0.8) +
+  scale_x_continuous(
+    labels = scales::percent,
+    limits = c(0, 1)) +
+  scale_y_discrete(labels = c(
+    "stone_pound" = "Pound with hammerstone",
+    "bite_pull" = "Bite and pull with teeth",
+    "bite_shell" = "Bite shell",
+    "hit_surface" = "Hit/pound on surface",
+    "man_hands" = "Manipulate with hands",
+    "roll_scrub" = "Roll/scrub on surface")) +
+  scale_fill_brewer(palette = "Set1") +
+  labs(
+    title = "Posterior Predicted Probability of Success",
+    subtitle = "Population-level estimates with subject and site effects set to zero",
+    x = "Probability of success",
+    y = "Main processing technique",
+    fill = "Main technique") +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
+## mbern_suc_tech_indv_int_SLOPE (don't use) -- Bernoulli; prob. success per seq (no dur.); tool v nontool; main techniques; Indv vary intercepts AND slope; site vary intercepts -------------------------------------------------------------
+
+# SAME as mbern_suc_tech_indv_site EXCEPT now also allows for different effects of main techinque for indvs (varying slope)
+
+# Is the probability of success different between main techniques,
+#   while accounting for repeated observations from the same individual and sites?
+
+# The population-level intercept represents the expected log-odds of success
+#   for the reference main technique, for an average individual at an average site
+# The main_technique coefficients represent differences in log-odds of success
+#   between each technique and the reference technique
+# The subject varying intercept allows each individual to have a higher or lower
+#   baseline probability of success than the population average
+# The site varying intercept allows each arena site to have a higher or lower
+#   baseline probability of success than the population average
+# The varying slopes allows each individuals relationship between main technique and success prob. to differ
+
+# Note dataframe used:
+# seq_single_s
+#   has all SINGLE handling sequences with a NON-ZERO processing time 
+#   success is binary: 1 = success and 0 = no success
+
+# Note we did not yet select a biologically plausible prior
+
+# Reordering so intercept is stone_pound
+seq_single_s <- seq_single_s %>%  mutate(main_technique = relevel(
+  factor(main_technique), ref = "stone_pound"))
+# Check it is the first level
+levels(seq_single_s$main_technique)
+
+# modeling success as a function of technique with varying intercepts for probability of individuals in being successful
+# and varying slopes for effect of main technique for indvs
+# technique is a fixed effect relative to a reference category (stone_pound)
+mbern_suc_tech_indv_int_slope <- brm(
   success # binary outcome: 1 = success, 0 = no success
   ~ main_technique  # compares tool-use and non-tool-use sequences
-  + (1 + main_technique|subject), # allows each subject to have a different baseline probability
+  + (1|subject) + (1|arena_site), # allows each subject AND site to have a different baseline probability
   data = seq_single_s,
   family = bernoulli(link = "logit"),
   chains = 4, #runs 4 independent Markov chains 
@@ -582,14 +711,89 @@ proc_techs_2 <- brm(
   backend = "cmdstanr"
 )
 
-summary(proc_techs_2)
+summary(mbern_suc_tech_indv_int_slope)
+# The intercept is the log-odds of success for an average indv using (stone_pound) at an average site 
 # Plot posterior parameter distributions and chain trace plots
-plot(proc_techs_2)
+plot(mbern_suc_tech_indv_int_slope)
 
 
+# # Checking comparisons between every pair of techinques
+# technique_emmeans2 <- emmeans(mbern_suc_tech_indv_int_slope, ~ main_technique)
+# technique_probabilities2 <- regrid(technique_emmeans2, transform = "response")
+# # Returns each technique's population-level predicted prob of success (with subject and site deviations set to avg of zero)
+# #   Note the range of the lower and upper credible intervals 
+# technique_probabilities2
+# # Next returns the compared odds of success between pairs of techniques
+# #   first - second   estimate = probability difference
+# #   ex. first - second estimate = 0.2 means first's prob. of success is 20% points higher than the second's prob of success
+# pairs(technique_probabilities2)
+
+# Making dataframe to view how many sequences each subject has with each main technique
+sub_tech <- seq_single_s %>%
+  count(subject, main_technique) %>%
+  pivot_wider(names_from = main_technique, values_from = n, values_fill = 0)
+
+# Making a table to display how many subjects display how many of the techniques
+subjects_by_n_techniques <- sub_tech %>%
+  mutate(n_techniques = rowSums(across(-subject, ~ .x > 0))) %>%
+  count(n_techniques, name = "n_subjects") %>%
+  complete(n_techniques = 1:5, fill = list(n_subjects = 0)) %>%
+  arrange(n_techniques)
+subjects_by_n_techniques
+#!!!!If not many subjects display several or all techniques, then we should not use this varying slopes model 
 
 
-#####hurdlegamma with one column outcome
+# Define each main-technique condition
+technique_newdata <- tibble(main_technique = levels(seq_single_s$main_technique))
+
+# Obtain posterior draws of the expected probability of success
+technique_preds2 <- mbern_suc_tech_indv_int_slope %>% epred_draws(newdata = technique_newdata,
+                                                            re_formula = NA) # excludes subject- and site-specific effects
+
+# Summarize predicted probabilities for each technique
+technique_preds_summary2 <- technique_preds2 %>%
+  group_by(main_technique) %>%
+  summarise(
+    median_prob = median(.epred),
+    lower_95_CI = quantile(.epred, 0.025),
+    upper_95_CI = quantile(.epred, 0.975),
+    .groups = "drop")
+technique_preds_summary2
+
+# Plotting posterior distributions 
+ggplot(technique_preds2, aes(
+  x = .epred,
+  y = reorder(main_technique, .epred, FUN = median),
+  fill = main_technique)) +
+  stat_halfeye(
+    .width = c(0.66, 0.95),
+    point_interval = median_qi,
+    alpha = 0.8) +
+  scale_x_continuous(
+    labels = scales::percent,
+    limits = c(0, 1)) +
+  scale_y_discrete(labels = c(
+    "stone_pound" = "Pound with hammerstone",
+    "bite_pull" = "Bite and pull with teeth",
+    "bite_shell" = "Bite shell",
+    "hit_surface" = "Hit/pound on surface",
+    "man_hands" = "Manipulate with hands",
+    "roll_scrub" = "Roll/scrub on surface")) +
+  scale_fill_brewer(palette = "Set1") +
+  labs(
+    title = "Posterior Predicted Probability of Success",
+    subtitle = "Population-level estimates with subject and site effects set to zero",
+    x = "Probability of success",
+    y = "Main processing technique",
+    fill = "Main technique") +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
+# Models -- Hurdle Gamma; single sequences; main techniques -------------------------------------------------------------
+
+
+# hurdlegamma with one column outcome -------------------------------------------------------------
 
 seq_single_s$why = ifelse(seq_single_s$success == 0, 0, seq_single_s$total_process_duration_s)
 
