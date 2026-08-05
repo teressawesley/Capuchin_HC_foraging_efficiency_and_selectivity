@@ -906,7 +906,7 @@ ggplot(technique_preds2, aes(
   theme(legend.position = "none")
 
 
-# 3 Models -- Hurdle Gamma; prob. of success + duration if success; single sequences; tool v nontool; main techniques; inv variation -------------------------------------------------------------
+# 3 Models -- Hurdle Gamma; prob. of success + duration if success; single seqs; tool v nontool; main techniques; inv variation -------------------------------------------------------------
 ## mhg_suc_dur_tool_indv -- Hurdle Gamma; prob. success per seq + dur. if success; tool v nontool; Indv vary intercepts -------------------------------------------------------------
 
 # Hurdle model firsts asks: does a sequence succeed?
