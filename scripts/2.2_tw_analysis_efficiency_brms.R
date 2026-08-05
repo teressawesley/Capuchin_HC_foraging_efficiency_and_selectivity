@@ -602,10 +602,22 @@ mbern_suc_tech_indv_site <- brm(
   backend = "cmdstanr")
 summary(mbern_suc_tech_indv_site)
 # The intercept is the log-odds of success for an average indv using (stone_pound) at an average site 
+# Extract individual- and site-level deviations:
+ranef(mbern_suc_tech_indv_site)
 
+# Convenience Plots:
 # Plot posterior parameter distributions and chain trace plots
 plot(mbern_suc_tech_indv_site)
-ranef(mbern_suc_tech_indv_site)
+# Can the model reproduce success frequencies within each technique?
+pp_check(mbern_suc_tech_indv_site, type = "bars_grouped", group = "main_technique", ndraws = 100)
+# Convenient plot of the model's estimated technique effect (half-eye plot below shows same but with fuller posterior uncertainty)
+conditional_effects(mbern_suc_tech_indv_site, effects = "main_technique") %>% plot(points = TRUE)
+# Subject-level deviations from the population intercept
+mcmc_plot(mbern_suc_tech_indv_site, type = "intervals", variable = "^r_subject", regex = TRUE)
+# Site-level deviations from the population intercept
+mcmc_plot(mbern_suc_tech_indv_site, type = "intervals", variable = "^r_arena_site", regex = TRUE)
+
+
 
 # Checking comparisons between every pair of techinques
 emmeans(mbern_suc_tech_indv_site, pairwise ~ main_technique,
@@ -668,6 +680,108 @@ plot_mbern_suc_tech_indv_site <- ggplot(technique_preds, aes(
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 plot_mbern_suc_tech_indv_site
+
+
+# Plotting the predictions against the data
+
+mbern_data <- seq_single_s %>% filter(if_all(c(success, main_technique, subject, arena_site),  ~ !is.na(.x)))
+mbern_epred <- mbern_suc_tech_indv_site %>% epred_draws(newdata = mbern_data, re_formula = NULL)
+
+# Observed and fitted probabilities by technique
+mbern_tech_summary <- mbern_epred %>% group_by(.draw, main_technique) %>%
+  summarise(predicted = mean(.epred),
+    observed = mean(success),
+    n = n_distinct(.row),
+    .groups = "drop") %>%
+  group_by(main_technique) %>%
+  summarise(observed = first(observed),
+    predicted = median(predicted),
+    lower = quantile(predicted, 0.025),
+    upper = quantile(predicted, 0.975),
+    n = first(n),
+    .groups = "drop")
+
+
+# After accounting for individual and site differences, do the model-estimated success probabilities resemble 
+# the observed success proportions?
+plot_data_1 <- mbern_tech_summary %>% select(main_technique, observed, predicted) %>%
+  pivot_longer(cols = c(observed, predicted), names_to = "estimate", values_to = "probability")
+
+ggplot(plot_data_1, aes(x = main_technique, y = probability, colour = estimate, shape = estimate)) +
+  geom_point(position = position_dodge(width = 0.35),
+    size = 3) +
+  geom_errorbar(data = mbern_tech_summary,
+    aes(x = main_technique,       
+      ymin = lower,
+      ymax = upper),
+    inherit.aes = FALSE,
+    position = position_nudge(x = 0.175),
+    width = 0.1,
+    colour = "#D55E00") +
+  scale_y_continuous(labels = scales::percent,
+    limits = c(0, 1)) +
+  labs(x = "Main technique",
+    y = "Probability of success",
+    colour = NULL,
+    shape = NULL) +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 35, hjust = 1))
+
+
+# How are the actual successes and failures distributed, and where does the model place the expected probability?
+ggplot(mbern_data, aes(x = main_technique, y = success)) +
+  geom_jitter(width = 0.15,
+    height = 0.025,
+    alpha = 0.25) +
+  geom_pointrange(data = mbern_tech_summary,
+    aes(x = main_technique,       
+      y = predicted,
+      ymin = lower,
+      ymax = upper),
+    inherit.aes = FALSE,
+    colour = "#D55E00",
+    linewidth = 0.7) +
+  scale_y_continuous(labels = scales::percent,
+    limits = c(0, 1)) +
+  labs(x = "Main technique",
+    y = "Observed outcome and predicted probability") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 35, hjust = 1))
+
+# Observed versus predicted by subject and technique
+mbern_subject_observed <- mbern_data %>%  group_by(subject, main_technique) %>%
+  summarise(observed = mean(success), n = n(), .groups = "drop")
+
+mbern_subject_predicted <- mbern_epred %>% group_by(.draw, subject, main_technique) %>%
+  summarise(predicted = mean(.epred),
+    .groups = "drop") %>%
+  group_by(subject, main_technique) %>%
+  summarise(predicted = median(predicted),
+    .groups = "drop")
+# Combine observed and predicted values
+mbern_subject_summary <- mbern_subject_observed %>%
+  left_join(mbern_subject_predicted, by = c("subject", "main_technique")) %>%
+  filter(n >= 3)
+
+ggplot(mbern_subject_summary, aes(x = predicted, y = observed, colour = main_technique, size = n)) +
+  geom_abline(slope = 1,
+    intercept = 0,
+    linetype = "dashed",
+    colour = "grey50") +
+  geom_point(alpha = 0.8) +
+  coord_equal(xlim = c(0, 1),
+    ylim = c(0, 1)) +
+  scale_x_continuous(labels = scales::percent) +
+  scale_y_continuous(labels = scales::percent) +
+  labs(x = "Model-predicted probability",
+    y = "Observed success proportion",
+    colour = "Main technique",
+    size = "Sequences") +
+  theme_minimal()
+
+
+
+
 
 ## mbern_suc_tech_indv_int_SLOPE (don't use) -- Bernoulli; prob. success per seq (no dur.); tool v nontool; main techniques; Indv vary intercepts AND slope; site vary intercepts -------------------------------------------------------------
 
@@ -905,6 +1019,8 @@ success_plot / duration_plot +
 #   and baseline successful processing durations
 # Technique effects are initially assumed to be the same across subjects and sites
 
+seq_single_s <- seq_single_s %>% mutate(success_duration_s = if_else(success == 0, 0, total_process_duration_s))
+
 # Reordering so intercept is stone_pound
 seq_single_s <- seq_single_s %>%  mutate(main_technique = relevel(
   factor(main_technique), ref = "stone_pound"))
@@ -933,7 +1049,26 @@ summary(mhg_suc_dur_tech_indv)
 # Negative hu coefficient: higher success odds than stone_pound
 # Positive hu coefficient: lower success odds than stone_pound
 
+# Convenience plots:
+
+# Posterior parameter distributions and chain trace plots
 plot(mhg_suc_dur_tech_indv)
+# Can the model reproduce the observed proportion of failures?
+pp_check(mhg_suc_dur_tech_indv, type = "stat", stat = function(x) mean(x == 0), ndraws = 100)
+# Can the model reproduce the mean positive duration?
+pp_check(mhg_suc_dur_tech_indv, type = "stat", stat = function(x) mean(x[x > 0]), ndraws = 100)
+# Can the model reproduce the overall zero-and-duration distribution?
+pp_check(mhg_suc_dur_tech_indv, type = "ecdf_overlay", ndraws = 100)
+# Subject effects for positive duration
+mcmc_plot(mhg_suc_dur_tech_indv, type = "intervals", variable = "^r_subject\\[", regex = TRUE)
+# Subject effects for failure probability
+mcmc_plot(mhg_suc_dur_tech_indv, type = "intervals", variable = "^r_subject__hu\\[", regex = TRUE)
+# Site effects for positive duration
+mcmc_plot(mhg_suc_dur_tech_indv, type = "intervals", variable = "^r_arena_site\\[", regex = TRUE)
+# Site effects for failure probability
+mcmc_plot(mhg_suc_dur_tech_indv, type = "intervals", variable = "^r_arena_site__hu\\[", regex = TRUE)
+
+
 
 # Plotting the results
 # Define the technique conditions
@@ -952,14 +1087,10 @@ duration_draws <- posterior_linpred(mhg_suc_dur_tech_indv, newdata = technique_n
 colnames(failure_draws) <- techniques
 colnames(duration_draws) <- techniques
 
-success_plot_data <- as_tibble(1 - failure_draws) %>%
-  mutate(.draw = row_number()) %>%
+success_plot_data <- as_tibble(1 - failure_draws) %>% mutate(.draw = row_number()) %>%
   pivot_longer(-.draw, names_to = "main_technique", values_to = "success_probability")
-
-duration_plot_data <- as_tibble(duration_draws) %>%
-  mutate(.draw = row_number()) %>%
+duration_plot_data <- as_tibble(duration_draws) %>% mutate(.draw = row_number()) %>%
   pivot_longer(-.draw, names_to = "main_technique", values_to = "successful_duration_s")
-
 technique_plot_data <- left_join(success_plot_data, duration_plot_data, by = c(".draw", "main_technique")) %>%
   mutate(main_technique = factor(main_technique, levels = rev(techniques)))
 
@@ -1004,8 +1135,42 @@ success_plot | duration_plot +
     subtitle = "Population-level hurdle-Gamma model estimates")
 
 
+# Plotting predictions against the data
 
-## mhg_suc_dur_tech_slope -- Hurdle Gamma; prob. success per seq + dur. if success; main techniquesl; Indv vary intercepts AND slops -------------------------------------------------------------
+mhg_data <- seq_single_s %>% filter(if_all(c(success_duration_s, main_technique, subject, arena_site), ~ !is.na(.x)))
+
+# Successful observations used by the Gamma component
+mhg_success_data <- mhg_data %>%  filter(success_duration_s > 0)
+# Observation-specific posterior mean positive durations
+mhg_duration_epred <- mhg_success_data %>%
+  add_linpred_draws(mhg_suc_dur_tech_indv, dpar = "mu", transform = TRUE, re_formula = NULL)
+# Predicted positive durations by technique
+mhg_duration_summary <- mhg_duration_epred %>% group_by(.draw, main_technique) %>%
+  summarise(predicted = mean(.linpred), .groups = "drop") %>%
+  group_by(main_technique) %>%  summarise(predicted = median(predicted),
+            lower = quantile(predicted, 0.025),
+            upper = quantile(predicted, 0.975),
+            .groups = "drop")
+# Observed durations and model-predicted mean duration
+ggplot(mhg_success_data, aes(x = main_technique, y = success_duration_s)) +
+  geom_jitter(width = 0.15,
+              alpha = 0.3) +
+  geom_pointrange(data = mhg_duration_summary,
+                  aes(x = main_technique,
+                      y = predicted,
+                      ymin = lower,
+                      ymax = upper),
+                  inherit.aes = FALSE,
+                  colour = "#D55E00",
+                  linewidth = 0.7) +
+  labs(x = "Main technique",
+       y = "Processing duration when successful (seconds)") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 35, hjust = 1))
+
+
+
+## mhg_suc_dur_tech_slope -- Hurdle Gamma; prob. success per seq + dur. if success; main techniquesl; Indv vary intercepts AND slopes -------------------------------------------------------------
 
 # Adding varying slops for individuals
 # Subjects can differ in both:
@@ -1204,7 +1369,6 @@ ggplot(efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique
        fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
-
 
 
 # Etc -------------------------------------------------------------
