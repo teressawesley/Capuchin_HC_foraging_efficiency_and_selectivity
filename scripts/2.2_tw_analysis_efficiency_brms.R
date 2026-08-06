@@ -97,49 +97,75 @@ technique_data <- seq_single_s %>% filter(!is.na(main_technique),
 # The subject random intercept is estimated separately for each non-reference technique, 
 #   allowing technique probabilities to vary among individuals.
 # Site is treated as fixed because only three arena sites were sampled
-mcat_prob_tech_site_indv
-mcat_technique_site_indv <- brm(
+
+# mcat_prob_tech_site_indv <- brm(
+#   main_technique ~ arena_site +
+#     (1 | video_unique_subject),
+#   data = technique_data,
+#   family = categorical(link = "logit"),
+#   chains = 4,
+#   iter = 4000,
+#   cores = 4,
+#   backend = "rstan")
+
+# With prior (have Brendan check)
+mcat_prob_tech_site_indv <- brm(
   main_technique ~ arena_site +
     (1 | video_unique_subject),
-  data = technique_data,
+    data = technique_data,
   family = categorical(link = "logit"),
+  prior = c(set_prior("normal(0, 1.2)",
+      class = "Intercept",
+      dpar = c("mubitepull", "mubiteshell", "muhitsurface", "mumanhands")),
+    set_prior("normal(0, 1.2)",
+      class = "b",
+      dpar = c("mubitepull",  "mubiteshell", "muhitsurface",  "mumanhands"))),
   chains = 4,
   iter = 4000,
+  warmup = 2000,
   cores = 4,
-  backend = "rstan")
+  seed = 20260805,
+  backend = "rstan",
+  control = list(adapt_delta = 0.95))
+
 
 # Diagnostics
-summary(mcat_technique_site_indv)
-plot(mcat_technique_site_indv)
-pp_check(mcat_technique_site_indv, type = "bars", ndraws = 100)
+summary(mcat_prob_tech_site_indv)
+plot(mcat_prob_tech_site_indv)
+pp_check(mcat_prob_tech_site_indv, type = "bars", ndraws = 100)
 
 # Technique probabilities by site
 # These estimates describe an average individual at each site. Subject-level deviations are excluded.
 site_newdata <- technique_data %>% distinct(arena_site) %>% arrange(arena_site)
-technique_site_draws <- site_newdata %>% add_epred_draws(mcat_technique_site_indv, re_formula = NA)
+technique_site_draws <- site_newdata %>% add_epred_draws(mcat_prob_tech_site_indv, re_formula = NA)
 technique_site_summary <- technique_site_draws %>% group_by(arena_site, .category) %>% median_qi(.epred, .width = 0.95) %>% ungroup()
 technique_site_summary
 
-plot_technique_site <- ggplot(technique_site_summary, aes(x = arena_site, y = .epred, ymin = .lower, ymax = .upper, fill = arena_site)) +
+plot_technique_site <- ggplot(technique_site_summary, aes(x = .category, y = .epred, ymin = .lower, ymax = .upper, fill = arena_site)) +
   geom_col(width = 0.7,
     alpha = 0.85) +
   geom_errorbar(width = 0.2,
-    linewidth = 0.7 ) +
-  facet_wrap(~ .category) +
+    linewidth = 0.7) +
+  facet_wrap(~ arena_site,
+    ncol = 1) +
   scale_y_continuous(labels = scales::percent,
     expand = expansion(mult = c(0, 0.05))) +
   coord_cartesian(ylim = c(0, 1)) +
   scale_fill_brewer(palette = "Set2") +
-  labs(x = "Arena site",
+  labs(x = "Main technique",
     y = "Estimated probability",
     fill = "Arena site",
     title = "Probability of each main technique by arena site",
     subtitle = "Bars are posterior medians; intervals are 95% credible intervals") +
   theme_minimal(base_size = 13) +
   theme(strip.text = element_text(face = "bold"),
-    panel.grid.major.x = element_blank())
+    panel.grid.major.x = element_blank(),
+    axis.text.x = element_text(
+      angle = 35,
+      hjust = 1))
 
 plot_technique_site
+
 
 # Technique probabilities by individual
 # These predictions include both the site effect and the individual’s partially pooled deviation.
@@ -147,7 +173,7 @@ plot_technique_site
 individual_newdata <- technique_data %>% distinct(video_unique_subject, arena_site) %>%
   arrange(arena_site, video_unique_subject)
 
-technique_individual_draws <- individual_newdata %>% add_epred_draws(mcat_technique_site_indv, re_formula = NULL)
+technique_individual_draws <- individual_newdata %>% add_epred_draws(mcat_prob_tech_site_indv, re_formula = NULL)
 
 technique_individual_summary <- technique_individual_draws %>%
   group_by(video_unique_subject, arena_site, .category) %>%
@@ -177,6 +203,41 @@ plot_technique_individual <- ggplot(technique_individual_summary, aes(x = .epred
 
 plot_technique_individual
 
+
+
+make_individual_site_plot <- function(site_name) {site_data <- technique_individual_summary %>% filter(arena_site == site_name)
+  ggplot(site_data,
+    aes(x = .category,  y = .epred, ymin = .lower, ymax = .upper, fill = .category)) +
+    geom_col(width = 0.7,
+      alpha = 0.85) +
+    geom_errorbar(width = 0.2,
+      linewidth = 0.5) +
+    facet_wrap(~ video_unique_subject,
+      ncol = 4) +
+    scale_y_continuous(labels = scales::percent,
+      expand = expansion(mult = c(0, 0.05))) +
+    coord_cartesian(ylim = c(0, 1)) +
+    scale_fill_brewer(palette = "Set2") +
+    labs(x = "Main technique",
+      y = "Estimated probability",
+      fill = "Main technique",
+      title = paste("Individual probabilities of using each main technique:", site_name),
+      subtitle = "Bars are posterior medians; intervals are 95% credible intervals") +
+    theme_minimal(base_size = 11) +
+    theme(strip.text = element_text(face = "bold"),
+      panel.grid.major.x = element_blank(),
+      axis.text.x = element_text(
+        angle = 45,
+        hjust = 1,
+        size = 7))}
+
+plot_individual_2PP <- make_individual_site_plot("2PP")
+plot_individual_BBC <- make_individual_site_plot("BBC")
+plot_individual_COCO <- make_individual_site_plot("COCO")
+
+plot_individual_2PP
+plot_individual_BBC
+plot_individual_COCO
 
 # Model 1 -- Poisson; sing + batch; log handling time offset; #HC eaten per minute, tool v nontool; indv varying intercepts -------------------------------------------------------------
 
