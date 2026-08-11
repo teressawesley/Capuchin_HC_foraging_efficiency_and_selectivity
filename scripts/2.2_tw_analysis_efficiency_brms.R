@@ -649,17 +649,13 @@ duration_plot_data <- as_tibble(duration_draws) %>% mutate(.draw = row_number())
 technique_plot_data <- left_join(success_plot_data, duration_plot_data, by = c(".draw", "main_technique")) %>%
   mutate(main_technique = factor(main_technique, levels = rev(techniques)))
 
-technique_labels <- c("stone_pound" = "Pound with hammerstone", "bite_pull" = "Bite and pull with teeth",
-  "bite_shell" = "Bite shell", "hit_surface" = "Hit/pound on surface", "man_hands" = "Manipulate with hands",
-  "roll_scrub" = "Roll/scrub on surface")
-
 success_plot <- ggplot(technique_plot_data, aes(x = success_probability, y = main_technique, fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
                point_interval = median_qi,
                alpha = 0.8) +
   scale_x_continuous(labels = scales::percent,
                      limits = c(0, 1)) +
-  scale_y_discrete(labels = technique_labels) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_brewer(palette = "Set1") +
   labs(title = "Probability of Success",
        subtitle = "Subject and site effects set to zero",
@@ -673,7 +669,7 @@ duration_plot <- ggplot(technique_plot_data, aes(x = successful_duration_s, y = 
   stat_halfeye(.width = c(0.66, 0.95),
                point_interval = median_qi,
                alpha = 0.8) +
-  scale_y_discrete(labels = technique_labels) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_brewer(palette = "Set1") +
   coord_cartesian(xlim = c(0, 40)) +
   labs(title = "Processing Duration When Successful",
@@ -750,7 +746,8 @@ summary(mgam_dur_tech_suc_indv_site)
 
 
 ## Option 2 - Joint Bernoulli-Gamma model -------------------------------------------------------------
-# Using a multivariate model
+
+### Info and setup -------------------------------------------------------------
 
 # How does technique predict success probability?
 # How does technique predict processing duration?
@@ -806,7 +803,7 @@ plot(mjoint_suc_dur_tech)
 
 
 ### Extracting posterior predictions  -------------------------------------------------------------
-
+#### Success probability  -------------------------------------------------------------
 # Creating a vector with the main-technique levels included in the fitted models
 techniques <- levels(droplevels(seq_single_s$main_technique))
 
@@ -819,6 +816,18 @@ success_draws <- posterior_epred(mjoint_suc_dur_tech,
   re_formula = NA) #excludes individual and site deviations
 # Result is a matrix; each row is one posterior draw, each column is one technique
 
+# Summarizing the 4000 posterior success-probability draws into one result row per technique
+success_summary <- map_dfr(seq_along(techniques), function(k) {
+  tibble(
+    main_technique = techniques[k],
+    probability_success = (median(success_draws[, k])),
+    lower_95_CrI = quantile(success_draws[, k], 0.025),
+    upper_95_CrI = quantile(success_draws[, k], 0.975))})
+
+success_summary
+
+
+#### Duration prediction - success and failure  -------------------------------------------------------------
 # Creating a small prediction dataset with one row per technique and duration estimated for an unsuccessful attempt
 failed_duration_newdata <- tibble(main_technique = factor(techniques, levels = techniques), success = 0)
 # Draws for posterior mean duration when unsuccessful
@@ -839,7 +848,23 @@ successful_duration_draws <- posterior_epred(mjoint_suc_dur_tech,
 # Result is a matrix; each row is one posterior draw, each column is one technique; 
 # values are mean processing duration in seconds for successful attempts
 
-## Checks
+
+# Summarizing the 4000 posterior duration prediction draws into one row per technique
+# Includes duration prediction for failed AND successful seqs
+duration_summary <- map_dfr(seq_along(techniques), function(k) {
+  tibble(
+    main_technique = techniques[k],
+    failed_duration = median(failed_duration_draws[, k]),
+    failed_lower = quantile(failed_duration_draws[, k], 0.025),
+    failed_upper = quantile(failed_duration_draws[, k], 0.975),
+    successful_duration = median(successful_duration_draws[, k]),
+    successful_lower = quantile(successful_duration_draws[, k], 0.025),
+    successful_upper = quantile(successful_duration_draws[, k], 0.975))})
+
+duration_summary
+
+
+#### Checks on posterior draws  -------------------------------------------------------------
 # All 3 matrices should have the same dimensions 
 dim(success_draws)
 dim(failed_duration_draws)
@@ -856,129 +881,149 @@ stopifnot(nrow(failed_duration_draws) == n_draws, #check for same # of draws
   ncol(successful_duration_draws) == length(techniques)) #check for one column per technique
 
 
+#### Calculating efficiency composite  -------------------------------------------------------------
 
-#
-#
-#
-#
-#
-#
-#
+# Combining probability of success, duration of success, and duration of failure into a composite score of efficiency 
+# Uses posterior draws to preserve uncertainty and correlations 
+# For one technique, sec per success = success duration + (1-p of success/p of success)failed duration
 
-
-efficiency_draws <- map_dfr(
-  seq_along(techniques),
+efficiency_draws <- map_dfr(seq_along(techniques),
   function(technique_column) {
+    # First, extracting all 4000 posteriors for each metric, matched by row:
     success_probability <- success_draws[, technique_column]
     failed_duration <- failed_duration_draws[, technique_column]
     successful_duration <- successful_duration_draws[, technique_column]
-    # Expected time spent on one attempt
+    # Calculating success probability-weighted expected mean duration spent on one attempt:
     expected_seconds_per_attempt <- success_probability * successful_duration + (1 - success_probability) * failed_duration
-    # Expected time spent before obtaining one success
+    # Calculating expected time spent before obtaining one success:
     seconds_per_success <- expected_seconds_per_attempt / success_probability
+    # Storing the 4000*5 draw-level results:
     tibble(.draw = seq_len(n_draws),
       main_technique = techniques[technique_column],
       success_probability = success_probability,
       successful_duration_s = successful_duration,
       failed_duration_s = failed_duration,
-      expected_seconds_per_attempt =
-        expected_seconds_per_attempt,
+      expected_seconds_per_attempt = expected_seconds_per_attempt,
       seconds_per_success = seconds_per_success)})
 
+# Summarizing the posterior efficiency distribution separately for each technique and
+# calculating central estimates and interval 
+# Note these results are at the population-level
 efficiency_summary <- efficiency_draws %>% group_by(main_technique) %>%
-  summarise(median_seconds_per_success = median(seconds_per_success),
-    lower_95_CI = quantile(seconds_per_success, 0.025),
-    upper_95_CI = quantile(seconds_per_success, 0.975),
-    .groups = "drop") %>% arrange(median_seconds_per_success)
+  summarise(median_efficiency = median(seconds_per_success),
+    lower_95_CrI = quantile(seconds_per_success, 0.025),
+    upper_95_CrI = quantile(seconds_per_success, 0.975),
+    .groups = "drop") %>% 
+  arrange(median_efficiency) #sorts the table from the lowest to the highest median seconds per success
 
 efficiency_summary
 
-success_summary <- map_dfr(seq_along(techniques), function(k) {
-  tibble(
-    main_technique = techniques[k],
-    probability_success = (median(success_draws[, k]))*100,
-    lower_95_CrI = quantile(success_draws[, k], 0.025),
-    upper_95_CrI = quantile(success_draws[, k], 0.975)
-  )
-})
+### Combined table and plot - use to consider relevancy of efficiency composite  -------------------------------------------------------------
 
-success_summary
+# Combine success, duration, and efficiency summaries
+all_summary <- success_summary %>% select(main_technique, probability_success) %>%
+  left_join(duration_summary %>% select(main_technique, failed_duration, successful_duration), by = "main_technique") %>%
+  left_join(efficiency_summary %>% select(main_technique, median_efficiency), by = "main_technique") %>%
+  arrange(median_efficiency)
 
-duration_summary <- map_dfr(seq_along(techniques), function(k) {
-  tibble(
-    main_technique = techniques[k],
-    failed_duration = median(failed_duration_draws[, k]),
-    failed_lower = quantile(failed_duration_draws[, k], 0.025),
-    failed_upper = quantile(failed_duration_draws[, k], 0.975),
-    successful_duration = median(successful_duration_draws[, k]),
-    successful_lower = quantile(successful_duration_draws[, k], 0.025),
-    successful_upper = quantile(successful_duration_draws[, k], 0.975)
-  )
-})
+all_summary
 
-duration_summary
+# Plotting as a visual aid to understand relevancy of efficiency composite 
+
+# Set the same technique order for all four plots
+technique_order <- all_summary %>% arrange(median_efficiency) %>% pull(main_technique)
+all_summary_plot <- all_summary %>% mutate(main_technique = factor(main_technique, levels = technique_order))
+
+plot_failed_duration <- ggplot(all_summary_plot, aes(x = main_technique, y = failed_duration, fill = main_technique)) +
+  geom_col() +
+  scale_y_continuous(limits = c(0, 35), breaks = seq(0, 35, by = 5)) +
+  scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
+  scale_fill_brewer(palette = "Set1", drop = FALSE) +
+  labs(title = "Failure Duration",
+       x = NULL,
+       y = "Process. duration (s)") +
+  theme_minimal(base_size = 12) +
+  theme(legend.position = "none",
+        axis.text.x = element_text(angle = 35, hjust = 1))
+
+plot_successful_duration <- ggplot(all_summary_plot, aes(x = main_technique, y = successful_duration, fill = main_technique)) +
+  geom_col() +
+  scale_y_continuous(limits = c(0, 35), breaks = seq(0, 35, by = 5)) +
+  scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
+  scale_fill_brewer(palette = "Set1", drop = FALSE) +
+  labs(title = "Success Duration",
+       x = NULL,
+       y = "Process. duration (s)") +
+  theme_minimal(base_size = 12) +
+  theme(legend.position = "none",
+        axis.text.x = element_text(angle = 35, hjust = 1))
+
+plot_success <- ggplot(all_summary_plot, aes(x = main_technique, y = probability_success, fill = main_technique)) +
+  geom_col() +
+  scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
+  scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
+  scale_fill_brewer(palette = "Set1", drop = FALSE) +
+  labs(title = "Probability of success",
+       x = NULL,
+       y = "Probability") +
+  theme_minimal(base_size = 12) +
+  theme(legend.position = "none",
+        axis.text.x = element_text(angle = 35, hjust = 1))
+
+plot_efficiency <- ggplot(all_summary_plot, aes(x = main_technique, y = median_efficiency, fill = main_technique)) +
+  geom_col() +
+  scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
+  scale_fill_brewer(palette = "Set1", drop = FALSE) +
+  labs(title = "Efficiency Composite",
+       x = NULL,
+       y = "Composite sec per success") +
+  theme_minimal(base_size = 12) +
+  theme(legend.position = "none",
+        axis.text.x = element_text(angle = 35, hjust = 1))
+
+plot_all_summary <- (plot_failed_duration | plot_successful_duration) / (plot_success | plot_efficiency) +
+  plot_annotation(title = "Success, Duration, and Efficiency by Processing Technique",
+    subtitle = "Population-level posterior median estimates")
+
+plot_all_summary
 
 
 
 
-
-technique_labels <- c("stone_pound" = "Pound with hammerstone",
-  "bite_pull" = "Bite and pull with teeth",
-  "bite_shell" = "Bite shell",
-  "hit_surface" = "Hit/pound on surface",
-  "man_hands" = "Manipulate with hands",
-  "roll_scrub" = "Roll/scrub on surface")
-
+### Plotting  -------------------------------------------------------------
+#### Halfeye plot - one halfeye per technique; composite efficiency   -------------------------------------------------------------
 ggplot(efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
   fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
                point_interval = median_qi,
                alpha = 0.8) +
   scale_x_log10(labels = scales::label_number()) +
-  scale_y_discrete(labels = technique_labels) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_brewer(palette = "Set1") +
-  labs(title = "Expected Processing Time per Success",
+  labs(title = "Efficiency Composite",
        subtitle = "Includes time spent on successful and failed attempts",
-       x = "Expected seconds per success (log scale)",
+       x = "Composite expected sec per success (log scale)",
        y = "Main processing technique",
        fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 
 
-
-
-
-
+#### Overlapping technique composite efficiency posterior-density with rug -------------------------------------------------------------
 # Sample posterior draws and give each technique its own rug row
-efficiency_rug <- efficiency_draws %>%
-  group_by(main_technique) %>%
-  slice_sample(n = 300) %>%
-  ungroup() %>%
-  mutate(rug_row = -0.02 * as.numeric(factor(
-    main_technique,
-    levels = techniques)))
+efficiency_rug <- efficiency_draws %>%  group_by(main_technique) %>%
+  slice_sample(n = 300) %>%  ungroup() %>%
+  mutate(rug_row = -0.02 * as.numeric(factor(main_technique, levels = techniques)))
 
-# Overlapping posterior-density plot
-ggplot(efficiency_draws,
-       aes(x = seconds_per_success,
-           colour = main_technique)) +
-  geom_density(linewidth = 1.2,
-               adjust = 1.1) +
+ggplot(efficiency_draws, aes(x = seconds_per_success, colour = main_technique)) + geom_density(linewidth = 1.2, adjust = 1.1) +
   # Separate row of posterior draws for each technique
-  geom_point(data = efficiency_rug,
-             aes(y = rug_row),
-             shape = "|",
-             size = 2.5,
-             alpha = 0.3) +
+  geom_point(data = efficiency_rug, aes(y = rug_row), shape = "|", size = 2.5, alpha = 0.3) +
   scale_x_log10(labels = scales::label_number()) +
-  scale_colour_brewer(palette = "Set1",
-                      labels = technique_labels) +
-  coord_cartesian(ylim = c(-0.12, NA),
-                  clip = "off") +
-  labs(title = "Expected Processing Time per Success",
+  scale_colour_brewer(palette = "Set1", labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  coord_cartesian(ylim = c(-0.12, NA),  clip = "off") +
+  labs(title = "Efficiency Composite",
        subtitle = "Posterior distributions by main processing technique",
-       x = "Expected seconds per success (log scale)",
+       x = "Composite expected sec per success (log scale)",
        y = "Posterior density",
        colour = NULL) +
   theme_classic(base_size = 14) +
@@ -989,30 +1034,154 @@ ggplot(efficiency_draws,
         axis.ticks.y = element_blank())
 
 
-
-
-
-
-
-
-
-
-# Ellipse plot
+#### Ellipse plots -------------------------------------------------------------
+##### Stone pound only -------------------------------------------------------------
 
 # Plot individual-level prediction from model
-# Prob. success vs success duration
+# Prob. success vs success duration for stone pound
+
+# Individuals included in the fitted model
+individuals <- unique(seq_single_s$video_unique_subject)
+individuals <- individuals[!is.na(individuals)]
+
+# Predict every individual's probability of success when stone pounding
+indv_success_newdata <- tibble(
+  video_unique_subject = individuals,
+  main_technique = factor("stone_pound", levels = levels(seq_single_s$main_technique)))
+
+# Predict every individual's duration for successful stone pounding
+indv_duration_newdata <- tibble(
+  video_unique_subject = individuals,
+  main_technique = factor("stone_pound", levels = levels(seq_single_s$main_technique)),
+  success = 1)
+
+# Individual-level success-probability draws
+# selects the Bernoulli component and includes the individual varying intercept
+indv_success_draws <- posterior_epred(mjoint_suc_dur_tech,  newdata = indv_success_newdata, resp = "success",
+  re_formula = ~(1 | video_unique_subject)) #The site varying effect is omitted, so predictions refer to an average site
+# Results in a matrix with 4,000 posterior draws × number of individuals
+
+# Individual-level successful-duration draws
+# selects the Gamma component and includes the individual varying intercept
+indv_duration_draws <- posterior_epred(mjoint_suc_dur_tech, newdata = indv_duration_newdata, resp = "duration",
+  re_formula = ~(1 | video_unique_subject)) #The site varying effect is omitted, so predictions refer to an average site
+# Results in a matrix with 4,000 posterior draws × number of individuals, matched to the above matrix
+
+# Both matrices should have the same dimensions 
+dim(indv_success_draws)
+dim(indv_duration_draws)
+# Check that all matrices align in format
+stopifnot(
+  ncol(indv_success_draws) == length(individuals),
+  ncol(indv_duration_draws) == length(individuals),
+  nrow(indv_success_draws) == nrow(indv_duration_draws))
+
+# Summarize posterior predictions for each individual
+indv_prediction_summary <- map_dfr(
+  seq_along(individuals),
+  function(k) {tibble(
+      individual = individuals[k],
+      probability_success = median(indv_success_draws[, k]),
+      success_lower = quantile(indv_success_draws[, k], 0.025),
+      success_upper = quantile(indv_success_draws[, k], 0.975),
+      successful_duration = median(indv_duration_draws[, k]),
+      duration_lower = quantile(indv_duration_draws[, k], 0.025),
+      duration_upper = quantile(indv_duration_draws[, k], 0.975))})
+
+indv_prediction_summary
+
+ggplot(indv_prediction_summary, aes(x = successful_duration, y = probability_success)) +
+  # Ellipses containing the individual point estimates
+  stat_ellipse(level = 0.95, type = "norm", colour = "grey55", linetype = "dotted", linewidth = 0.8) +
+  stat_ellipse(level = 0.80, type = "norm", colour = "grey45", linetype = "dashed", linewidth = 0.8) +
+  stat_ellipse(level = 0.50, type = "norm", colour = "grey35", linewidth = 0.9) +
+  # Individual posterior median predictions
+  geom_point(size = 2.5, colour = "#3B6FB6", alpha = 0.8) +
+  # Individual labels
+  geom_text(aes(label = individual), nudge_y = 0.015, size = 3, check_overlap = TRUE) +
+  scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
+  labs(title = "Individual Predictions of Success and Processing Duration",
+       subtitle = "Predictions for successful stone pounding at an average site",
+       x = "Predicted successful-attempt duration (seconds)",
+       y = "Predicted probability of success") +
+  theme_classic(base_size = 14)
 
 
 
+##### All techniques overlaid -------------------------------------------------------------
+
+# Plot individual-level prediction from model
+# Prob. success vs success duration for all techniques
+
+# Predict every individual's probability of success and duration for success for each technique
+indv_tech_newdata <- expand_grid(
+  video_unique_subject = individuals,
+  main_technique = factor(techniques, levels = techniques)) %>%
+  mutate(success = 1)
+
+# Individual-level success-probability draws
+# selects the Bernoulli component and includes the individual varying intercept
+indv_tech_success <- posterior_epred(mjoint_suc_dur_tech,  newdata = indv_tech_newdata, resp = "success",
+                                      re_formula = ~(1 | video_unique_subject)) #The site varying effect is omitted, so predictions refer to an average site
+# Results in a matrix with 4,000 posterior draws × number of individuals
+
+# Individual-level successful-duration draws
+# selects the Gamma component and includes the individual varying intercept
+indv_tech_duration <- posterior_epred(mjoint_suc_dur_tech, newdata = indv_tech_newdata, resp = "duration",
+                                       re_formula = ~(1 | video_unique_subject)) #The site varying effect is omitted, so predictions refer to an average site
+# Results in a matrix with 4,000 posterior draws × number of individuals, matched to the above matrix
+
+# Both matrices should have the same dimensions 
+dim(indv_tech_success)
+dim(indv_tech_duration)
+
+
+# Posterior median and 95% CrI for each individual and technique
+indv_tech_plot_data <- indv_tech_newdata %>%
+  mutate(probability_success = apply(indv_tech_success, 2, median),
+    success_lower = apply(indv_tech_success, 2, quantile, probs = 0.025),
+    success_upper = apply(indv_tech_success, 2, quantile, probs = 0.975),
+    successful_duration = apply(indv_tech_duration, 2, median),
+    duration_lower = apply(indv_tech_duration, 2, quantile, probs = 0.025),
+    duration_upper = apply(indv_tech_duration, 2, quantile, probs = 0.975))
+
+indv_tech_plot_data
+
+
+ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success, colour = main_technique)) +
+  # 95% ellipse for each technique
+  # stat_ellipse(aes(group = main_technique, linetype = "95%"), type = "norm", level = 0.95, linewidth = 0.8) +
+  # 80% ellipse for each technique
+  stat_ellipse(aes(group = main_technique, linetype = "80%"), type = "norm", level = 0.80, linewidth = 0.8) +
+  # 50% ellipse for each technique
+  stat_ellipse(aes(group = main_technique, linetype = "50%"), type = "norm", level = 0.50, linewidth = 0.9) +
+  # One posterior median point per individual and technique
+  geom_point(size = 1.8, alpha = 0.5) +
+  scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
+  scale_colour_brewer(palette = "Set1",
+                      labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  scale_linetype_manual(values = c(
+    "50%" = "solid",
+    "80%" = "dashed"),
+    #"95%" = "dotted"),
+    breaks = c("50%", "80%"), 
+               #"95%"),
+    name = "Ellipse level") +
+  labs(title = "Individual Success and Duration Predictions by Technique",
+       subtitle = "Ellipses summarize individual posterior median predictions",
+       x = "Predicted successful-attempt duration (seconds)",
+       y = "Predicted probability of success",
+       colour = "Main technique") +
+  theme_classic(base_size = 14) +
+  theme(legend.position = "bottom")
 
 
 
-
-
-
-
-# Calculating contrasts
-
+#### Plotting contrasts -------------------------------------------------------------
+#
+#
+#
+#
 # Posterior efficiency draws for the stone-pounding reference
 stone_efficiency <- efficiency_draws %>%
   filter(as.character(main_technique) == "stone_pound") %>%
@@ -1048,7 +1217,7 @@ ggplot(efficiency_contrasts,
                point_interval = median_qi,
                alpha = 0.8) +
   coord_cartesian(xlim = c(-100, 100)) +
-  scale_y_discrete(labels = technique_labels) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_brewer(palette = "Set1") +
   labs(title = "Efficiency Contrasts with Stone Pounding",
        subtitle = "Positive values indicate that stone pounding requires fewer seconds per success",
