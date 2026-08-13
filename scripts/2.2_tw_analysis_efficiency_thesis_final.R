@@ -35,6 +35,7 @@ library(cmdstanr)
 library(emmeans)
 library(patchwork)
 library(tidyverse)
+library(ggnewscale)
 
 techs <- read_csv("raw_data/processing_techniques.csv")
 
@@ -485,6 +486,90 @@ ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success
        x = "Predicted successful-attempt duration (seconds)",
        y = "Predicted probability of success",
        colour = "Main technique") +
+  theme_classic(base_size = 14) +
+  theme(legend.position = "bottom")
+
+#### All techniques overlaid WITH age-sex -------------------------------------------------------------
+
+# Predict every individual's probability of success and duration for success for each technique; include age_sex class
+indv_tech_newdata <- seq_single_s %>% distinct(video_unique_subject, age_sex) %>%
+  filter(!is.na(video_unique_subject)) %>%
+  crossing(main_technique = factor(techniques, levels = techniques)) %>%
+  mutate(success = 1)
+
+# Individual-level success-probability draws
+# selects the Bernoulli component and includes the individual varying intercept
+indv_tech_success <- posterior_epred(mjoint_suc_dur_tech,  newdata = indv_tech_newdata, resp = "success",
+                                     re_formula = ~(1 | video_unique_subject)) #The site varying effect is omitted, so predictions refer to an average site
+# Results in a matrix with 4,000 posterior draws × number of individuals
+
+# Individual-level successful-duration draws
+# selects the Gamma component and includes the individual varying intercept
+indv_tech_duration <- posterior_epred(mjoint_suc_dur_tech, newdata = indv_tech_newdata, resp = "duration",
+                                      re_formula = ~(1 | video_unique_subject)) #The site varying effect is omitted, so predictions refer to an average site
+# Results in a matrix with 4,000 posterior draws × number of individuals, matched to the above matrix
+
+# Both matrices should have the same dimensions 
+dim(indv_tech_success)
+dim(indv_tech_duration)
+
+
+# Posterior median and 95% CrI for each individual and technique
+indv_tech_plot_data <- indv_tech_newdata %>%
+  mutate(probability_success = apply(indv_tech_success, 2, median),
+         success_lower = apply(indv_tech_success, 2, quantile, probs = 0.025),
+         success_upper = apply(indv_tech_success, 2, quantile, probs = 0.975),
+         successful_duration = apply(indv_tech_duration, 2, median),
+         duration_lower = apply(indv_tech_duration, 2, quantile, probs = 0.025),
+         duration_upper = apply(indv_tech_duration, 2, quantile, probs = 0.975))
+
+indv_tech_plot_data
+
+age_sex_colours <- c(
+  "adult female" = "#D93942",
+  "adult male" = "#306BA9",
+  "subadult female" = "#FF959A",
+  "subadult male" = "#90B6E0",
+  "asubadult male" = "#90B6E0", # remove later after fixing
+  "juvenile male" = "#B3CDD0",
+  "juvenile" = "#F1BB87",
+  "non-adult" = "#ECA15B")
+
+# Specific shapes for age-sex classes
+age_sex_shapes <- c(
+  "adult female" = 16,
+  "adult male" = 17,
+  "subadult female" = 16,
+  "subadult male" = 17,
+  "asubadult male" = 17,
+  "juvenile male" = 15,
+  "juvenile" = 18,
+  "non-adult" = 20)
+
+
+ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success)) +
+  # Ellipse colour represents technique
+  stat_ellipse(aes(group = main_technique, colour = main_technique, linetype = "80%"),
+    type = "norm", level = 0.80, linewidth = 0.8) +
+  stat_ellipse(aes(group = main_technique, colour = main_technique, linetype = "50%"),
+    type = "norm", level = 0.50, linewidth = 0.9) +
+  scale_colour_brewer(palette = "Set1", labels = setNames(str_to_sentence(techs$technique),
+                        techs$abb_technique), name = "Main technique") +
+  scale_linetype_manual(values = c("50%" = "solid",
+    "80%" = "dashed"),
+    breaks = c("50%", "80%"),
+    name = "Ellipse level") +
+  # Start a separate colour scale for individual points
+  ggnewscale::new_scale_colour() +
+  # Point colour and shape represent age-sex class
+  geom_point(aes(colour = age_sex, shape = age_sex), size = 2.3, alpha = 0.75) +
+  scale_colour_manual(values = age_sex_colours, na.value = "grey80", name = "Age-sex class") +
+  scale_shape_manual(values = age_sex_shapes, na.value = 1, name = "Age-sex class") +
+  scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
+  labs(title = "Individual Success and Duration Predictions by Technique",
+       subtitle = "Ellipses summarize individual posterior median predictions",
+       x = "Predicted successful-attempt duration (seconds)",
+       y = "Predicted probability of success") +
   theme_classic(base_size = 14) +
   theme(legend.position = "bottom")
 
