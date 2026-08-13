@@ -939,7 +939,7 @@ plot_failed_duration <- ggplot(all_summary_plot, aes(x = main_technique, y = fai
   scale_y_continuous(limits = c(0, 35), breaks = seq(0, 35, by = 5)) +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
   scale_fill_brewer(palette = "Set1", drop = FALSE) +
-  labs(title = "Failure Duration",
+  labs(title = "Inefficiency (Failure Duration)",
        x = NULL,
        y = "Process. duration (s)") +
   theme_minimal(base_size = 12) +
@@ -951,7 +951,7 @@ plot_successful_duration <- ggplot(all_summary_plot, aes(x = main_technique, y =
   scale_y_continuous(limits = c(0, 35), breaks = seq(0, 35, by = 5)) +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
   scale_fill_brewer(palette = "Set1", drop = FALSE) +
-  labs(title = "Success Duration",
+  labs(title = "Efficiency (Success Duration)",
        x = NULL,
        y = "Process. duration (s)") +
   theme_minimal(base_size = 12) +
@@ -963,7 +963,7 @@ plot_success <- ggplot(all_summary_plot, aes(x = main_technique, y = probability
   scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
   scale_fill_brewer(palette = "Set1", drop = FALSE) +
-  labs(title = "Probability of success",
+  labs(title = "Efficacy (Probability of success)",
        x = NULL,
        y = "Probability") +
   theme_minimal(base_size = 12) +
@@ -974,7 +974,7 @@ plot_efficiency <- ggplot(all_summary_plot, aes(x = main_technique, y = median_e
   geom_col() +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
   scale_fill_brewer(palette = "Set1", drop = FALSE) +
-  labs(title = "Efficiency Composite",
+  labs(title = "Utility (Efficiency/Efficacy Composite)",
        x = NULL,
        y = "Composite sec per success") +
   theme_minimal(base_size = 12) +
@@ -1000,7 +1000,7 @@ ggplot(efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique
   scale_x_log10(labels = scales::label_number()) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_brewer(palette = "Set1") +
-  labs(title = "Efficiency Composite",
+  labs(title = "Utility (Efficiency/Efficacy Composite)",
        subtitle = "Includes time spent on successful and failed attempts",
        x = "Composite expected sec per success (log scale)",
        y = "Main processing technique",
@@ -1021,7 +1021,7 @@ ggplot(efficiency_draws, aes(x = seconds_per_success, colour = main_technique)) 
   scale_x_log10(labels = scales::label_number()) +
   scale_colour_brewer(palette = "Set1", labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   coord_cartesian(ylim = c(-0.12, NA),  clip = "off") +
-  labs(title = "Efficiency Composite",
+  labs(title = "Utility (Efficiency/Efficacy Composite)",
        subtitle = "Posterior distributions by main processing technique",
        x = "Composite expected sec per success (log scale)",
        y = "Posterior density",
