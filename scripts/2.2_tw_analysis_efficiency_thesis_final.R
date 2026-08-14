@@ -59,6 +59,10 @@ seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>%
     event_real_time_start = ymd_hms(event_real_time_start),
     event_real_time_stop = ymd_hms(event_real_time_stop))  
 
+## Load in previously fitted model if not adjusting model data -------------------------------------------------------------
+
+# mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
+
 # Joint Bernoulli-Gamma model -------------------------------------------------------------
 
 ## Info and setup -------------------------------------------------------------
@@ -83,7 +87,7 @@ success_formula <- bf(
   success # binary outcome: 1 = success, 0 = no success
   ~ main_technique # compares main technique across sequences
   + (1 | indv | video_unique_subject) # allows each subject to have a different baseline probability
-  + (1 | site | arena_site), # allows each site to have a different baseline probability
+  + (1 | arena_site), # allows each site to have a different baseline probability
   family = bernoulli(link = "logit"))
 
 ## Gamma component: duration of all attempts -------------------------------------------------------------
@@ -92,12 +96,13 @@ duration_formula <- bf(
   duration
   ~ main_technique * success # interaction permits diff. duration patterns for successful and unsuccessful seqs within each technique
   + (1 | indv | video_unique_subject) # allows each subject to have a different baseline duration
-  + (1 | site | arena_site), # allows each site to have a different baseline duration
+  + (1 | arena_site), # allows each site to have a different baseline duration
   family = Gamma(link = "log"))
 
 # Note:
 # |indv| used for joint model; allows estimating if an indv's success probability relates to the same indv's processing duration
 # |site| used for joint model; allows estimating if a site's success probability relates to the same site's processing duration
+##  removed for now because of only 3 sites in sample
 # (the internal text does not matter - it just has to match in both models)
 # Without these, the model does not estimate correlation between indv/site success and duration effects
 
@@ -108,13 +113,32 @@ mjoint_suc_dur_tech <- brm(
   + set_rescor(FALSE), #says not to estimate an additional correlation between remaining obs-level errors of the two outcomes
   data = seq_single_s,
   chains = 4,
+  cores = 4,
   iter = 2000,
-  backend = "cmdstanr")
+  backend = "cmdstanr",
+  seed = 123)
+
+# Model with increased iterations, smaller sampling steps, and increased trajectory limits 
+# to improve convergence and reduce divergent transitions
+# mjoint_suc_dur_tech_2 <- brm(
+#   success_formula + duration_formula +
+#     set_rescor(FALSE),
+#   data = seq_single_s,
+#   chains = 4,
+#   cores = 4,
+#   iter = 8000,
+#   warmup = 4000,
+#   backend = "cmdstanr",
+#   # seed = 1234,
+#   control = list(
+#     adapt_delta = 0.99,
+#     max_treedepth = 15))
+
+saveRDS(mjoint_suc_dur_tech, file = "fitted_models/mjoint_suc_dur_tech.rds")
 
 summary(mjoint_suc_dur_tech)
 
-plot(mjoint_suc_dur_tech)
-
+#plot(mjoint_suc_dur_tech)
 
 ## Extracting posterior predictions  -------------------------------------------------------------
 ### Success probability  -------------------------------------------------------------
@@ -201,7 +225,7 @@ stopifnot(nrow(failed_duration_draws) == n_draws, #check for same # of draws
 # Uses posterior draws to preserve uncertainty and correlations 
 # For one technique, sec per success = success duration + (1-p of success/p of success)failed duration
 
-efficiency_draws <- map_dfr(seq_along(techniques),
+utility_draws <- map_dfr(seq_along(techniques),
                             function(technique_column) {
                               # First, extracting all 4000 posteriors for each metric, matched by row:
                               success_probability <- success_draws[, technique_column]
@@ -223,29 +247,29 @@ efficiency_draws <- map_dfr(seq_along(techniques),
 # Summarizing the posterior efficiency distribution separately for each technique and
 # calculating central estimates and interval 
 # Note these results are at the population-level
-efficiency_summary <- efficiency_draws %>% group_by(main_technique) %>%
-  summarise(median_efficiency = median(seconds_per_success),
+utility_summary <- utility_draws %>% group_by(main_technique) %>%
+  summarise(median_utility = median(seconds_per_success),
             lower_95_CrI = quantile(seconds_per_success, 0.025),
             upper_95_CrI = quantile(seconds_per_success, 0.975),
             .groups = "drop") %>% 
-  arrange(median_efficiency) #sorts the table from the lowest to the highest median seconds per success
+  arrange(median_utility) #sorts the table from the lowest to the highest median seconds per success
 
-efficiency_summary
+utility_summary
 
 ## Combined table and plot -------------------------------------------------------------
 
-# Combine success, duration, and efficiency summaries
+# Combine success, duration, and utility summaries
 all_summary <- success_summary %>% select(main_technique, probability_success) %>%
   left_join(duration_summary %>% select(main_technique, failed_duration, successful_duration), by = "main_technique") %>%
-  left_join(efficiency_summary %>% select(main_technique, median_efficiency), by = "main_technique") %>%
-  arrange(median_efficiency)
+  left_join(utility_summary %>% select(main_technique, median_utility), by = "main_technique") %>%
+  arrange(median_utility)
 
 all_summary
 
 # Plotting as a visual aid to understand relevancy of utility composite 
 
 # Set the same technique order for all four plots
-technique_order <- all_summary %>% arrange(median_efficiency) %>% pull(main_technique)
+technique_order <- all_summary %>% arrange(median_utility) %>% pull(main_technique)
 all_summary_plot <- all_summary %>% mutate(main_technique = factor(main_technique, levels = technique_order))
 
 plot_failed_duration <- ggplot(all_summary_plot, aes(x = main_technique, y = failed_duration, fill = main_technique)) +
@@ -284,7 +308,7 @@ plot_success <- ggplot(all_summary_plot, aes(x = main_technique, y = probability
   theme(legend.position = "none",
         axis.text.x = element_text(angle = 35, hjust = 1))
 
-plot_efficiency <- ggplot(all_summary_plot, aes(x = main_technique, y = median_efficiency, fill = main_technique)) +
+plot_utility <- ggplot(all_summary_plot, aes(x = main_technique, y = median_utility, fill = main_technique)) +
   geom_col() +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
   scale_fill_brewer(palette = "Set1", drop = FALSE) +
@@ -295,8 +319,8 @@ plot_efficiency <- ggplot(all_summary_plot, aes(x = main_technique, y = median_e
   theme(legend.position = "none",
         axis.text.x = element_text(angle = 35, hjust = 1))
 
-plot_all_summary <- (plot_failed_duration | plot_successful_duration) / (plot_success | plot_efficiency) +
-  plot_annotation(title = "Success, Duration, and Efficiency by Processing Technique",
+plot_all_summary <- (plot_failed_duration | plot_successful_duration) / (plot_success | plot_utility) +
+  plot_annotation(title = "Success, Duration, and utility by Processing Technique",
                   subtitle = "Population-level posterior median estimates")
 
 plot_all_summary
@@ -306,7 +330,7 @@ plot_all_summary
 
 ## Plotting  -------------------------------------------------------------
 ### Halfeye plot - one halfeye per technique; composite utility   -------------------------------------------------------------
-ggplot(efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
+ggplot(utility_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
                              fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
                point_interval = median_qi,
@@ -325,13 +349,13 @@ ggplot(efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique
 
 ### Overlapping technique composite utility posterior-density with rug -------------------------------------------------------------
 # Sample posterior draws and give each technique its own rug row
-efficiency_rug <- efficiency_draws %>%  group_by(main_technique) %>%
+utility_rug <- utility_draws %>%  group_by(main_technique) %>%
   slice_sample(n = 300) %>%  ungroup() %>%
   mutate(rug_row = -0.02 * as.numeric(factor(main_technique, levels = techniques)))
 
-ggplot(efficiency_draws, aes(x = seconds_per_success, colour = main_technique)) + geom_density(linewidth = 1.2, adjust = 1.1) +
+ggplot(utility_draws, aes(x = seconds_per_success, colour = main_technique)) + geom_density(linewidth = 1.2, adjust = 1.1) +
   # Separate row of posterior draws for each technique
-  geom_point(data = efficiency_rug, aes(y = rug_row), shape = "|", size = 2.5, alpha = 0.3) +
+  geom_point(data = utility_rug, aes(y = rug_row), shape = "|", size = 2.5, alpha = 0.3) +
   scale_x_log10(labels = scales::label_number()) +
   scale_colour_brewer(palette = "Set1", labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   coord_cartesian(ylim = c(-0.12, NA),  clip = "off") +
@@ -530,7 +554,6 @@ age_sex_colours <- c(
   "adult male" = "#306BA9",
   "subadult female" = "#FF959A",
   "subadult male" = "#90B6E0",
-  "asubadult male" = "#90B6E0", # remove later after fixing
   "juvenile male" = "#B3CDD0",
   "juvenile" = "#F1BB87",
   "non-adult" = "#ECA15B")
@@ -541,7 +564,6 @@ age_sex_shapes <- c(
   "adult male" = 17,
   "subadult female" = 16,
   "subadult male" = 17,
-  "asubadult male" = 17,
   "juvenile male" = 15,
   "juvenile" = 18,
   "non-adult" = 20)
@@ -578,20 +600,20 @@ ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success
 ### Plotting contrasts -------------------------------------------------------------
 
 
-# Posterior efficiency draws for the stone-pounding reference
-stone_efficiency <- efficiency_draws %>%
+# Posterior utility draws for the stone-pounding reference
+stone_utility <- utility_draws %>%
   filter(as.character(main_technique) == "stone_pound") %>%
   select(.draw,
          stone_seconds_per_success = seconds_per_success)
 
 # Contrast each alternative technique with stone pounding
-efficiency_contrasts <- efficiency_draws %>%
+utility_contrasts <- utility_draws %>%
   filter(as.character(main_technique) != "stone_pound") %>%
-  left_join(stone_efficiency, by = ".draw") %>%
+  left_join(stone_utility, by = ".draw") %>%
   mutate(difference_s = seconds_per_success - stone_seconds_per_success)
 
 # Summarizing the contrasts
-efficiency_contrast_summary <- efficiency_contrasts %>%
+utility_contrast_summary <- utility_contrasts %>%
   group_by(main_technique) %>%
   summarise(median_difference_s = median(difference_s),
             lower_95_CrI = quantile(difference_s, 0.025),
@@ -599,10 +621,10 @@ efficiency_contrast_summary <- efficiency_contrasts %>%
             probability_stone_more_efficient = mean(difference_s > 0),
             .groups = "drop")
 
-efficiency_contrast_summary
+utility_contrast_summary
 
 # Plotting
-ggplot(efficiency_contrasts,
+ggplot(utility_contrasts,
        aes(x = difference_s,
            y = reorder(main_technique, difference_s, FUN = median),
            fill = main_technique)) +
@@ -615,7 +637,7 @@ ggplot(efficiency_contrasts,
   coord_cartesian(xlim = c(-100, 100)) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_brewer(palette = "Set1") +
-  labs(title = "Efficiency Contrasts with Stone Pounding",
+  labs(title = "Utility Contrasts with Stone Pounding",
        subtitle = "Positive values indicate that stone pounding requires fewer seconds per success",
        x = "Difference in expected seconds per success\n(alternative technique − stone pounding)",
        y = "Main processing technique",
