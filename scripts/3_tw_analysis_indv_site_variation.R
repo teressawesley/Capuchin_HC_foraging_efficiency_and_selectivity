@@ -504,11 +504,6 @@ plot_success_individual
 
 
 # Individual variation analyses...-------------------------------------------------------------
-##! Do main processing techniques vary by age/sex class? -------------------------------------------------------------
-
-
-
-
 ##! Which age/sex class has the most eating success/efficiency? -------------------------------------------------------------
 
 
