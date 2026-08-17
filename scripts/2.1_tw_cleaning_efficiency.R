@@ -140,7 +140,7 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
   
   # Using information from the above visual and the existing time guidelines from the ethogram to create rules for pseudo-durations:  -------------------------------------------------------------
   
-  maximum_gap_s <- 2 # For both point events, hits/pounds will be grouped if they occur within 2 seconds of eachother
+  maximum_gap_s <- 1 # For both point events, hits/pounds will be grouped if they occur within 2 seconds of eachother
   # We create a function so this can be done once for hit/pound on surface and once for pound with hammerstone
   # This function takes one type of point event, creates groups of multiple hits occuring closely in time, and 
   # returns one summary row for each group with a duration
@@ -149,50 +149,35 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
       data,
       event_name,
       maximum_gap_s
-  ) {
-    
-    data %>%
+  ) {data %>%
       filter(
         event == event_name,
-        !is.na(start_s)
-      ) %>%
+        !is.na(start_s)) %>%
       arrange(sequence_id, start_s) %>%
       group_by(sequence_id) %>%
-      mutate(
-        time_since_previous_event_s =
+      mutate(time_since_previous_event_s =
           start_s - lag(start_s),
-        
         seq_group = cumsum(
           is.na(time_since_previous_event_s) |
             time_since_previous_event_s >
-            maximum_gap_s
-        )
-      ) %>%
+            maximum_gap_s)) %>%
       group_by(sequence_id, seq_group) %>%
-      summarise(
-        event = first(event),
-        
+      summarise(event = first(event),
         group_start_s = first(start_s),
         group_end_s = last(start_s),
-        
         points_contained = n(),
-        
         # Single-event groups have an observed duration of 0 seconds
         duration_s =
           group_end_s -
           group_start_s,
-        
-        .groups = "drop"
-      ) %>%
-      select(
-        sequence_id,
+        .groups = "drop") %>%
+      select(sequence_id,
         seq_group,
         event,
         points_contained,
         group_start_s,
         group_end_s,
-        duration_s
-      )
+        duration_s)
   }
   
   # Using the function to create event grouping for hit/pound on surface
@@ -213,9 +198,9 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
     ) %>%
     pull(average_duration_per_hit_s)
   
-  mean_duration_per_hit
+  mean_duration_per_hit <- 0.5 # Overriding the above code to test out a uniform assignment 
   
-  # If a group contains only 1 hit because it occured alone in time, it is assigned a duration of mean_duration_per_hit
+  # If a group contains only 1 hit because it occurred alone in time, it is assigned a duration of mean_duration_per_hit
   grouped_hit_events <- grouped_hit_events %>%
     mutate(
       duration_s = if_else(
@@ -308,7 +293,10 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
     ) %>%
     pull(average_duration_per_pound_s)
   
-  mean_duration_per_pound
+  mean_duration_per_pound <- 0.5 # Overriding the above code to test out a uniform assignment 
+  
+  # If NaN is returned, check to see if any groups have more than 1 point 
+  # grouped_hammerstone_events %>% filter(points_contained > 1)
   
   # Finding a later pound group for each hammerstone grab
   # A grab is added to a group only when that group's first pound occurs after the grab and within maximum_gap_s
@@ -485,6 +473,93 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
         TRUE ~ duration_s
       )
     )
+  
+  # Recreating the visual of each sequence's point processing events in time 
+  # Colors now demonstrate events that were grouped together 
+  # The plot only contains grab/pound events in this case
+  
+  # Assign each individual pound to its already-created group
+  plot_hammerstone_pounds <- point_processing_events %>%
+    filter(event == "pound with hammerstone",
+      !is.na(start_s)) %>%
+    mutate(sequence_id = as.character(sequence_id)) %>%
+    inner_join(grouped_hammerstone_events %>%
+        filter(pounds_contained > 0L) %>%
+        select(sequence_id,
+          seq_group,
+          group_start_s,
+          group_end_s),
+      by = "sequence_id",
+      relationship = "many-to-many") %>%
+    filter(start_s >= group_start_s,
+      start_s <= group_end_s) %>%
+    select(sequence_id,
+      event,
+      start_s,
+      seq_group)
+  
+  # Attach the existing grab assignments to individual grabs
+  plot_hammerstone_grabs <- point_processing_events %>%
+    filter(event == "hammerstone grab",
+      !is.na(start_s)) %>%
+    transmute(sequence_id = as.character(sequence_id),
+      grab_id = row_number(),
+      event,
+      start_s) %>%
+    left_join(
+      grab_assignments %>%
+        select(grab_id,
+          seq_group),
+      by = "grab_id")
+  
+  
+  # Find the highest pound-group number in each sequence
+  maximum_hammerstone_group <- grouped_hammerstone_events %>%
+    group_by(sequence_id) %>%
+    summarise(maximum_group = max(c(seq_group, 0L), na.rm = TRUE),
+      .groups = "drop")
+  
+   # Give each unassigned grab its own plotting group
+  plot_hammerstone_grabs <- plot_hammerstone_grabs %>%
+    left_join(maximum_hammerstone_group,
+      by = "sequence_id") %>%
+    group_by(sequence_id) %>%
+    mutate(unmatched_grab_number = cumsum(is.na(seq_group)),
+      seq_group = if_else(
+        is.na(seq_group),
+        maximum_group + unmatched_grab_number,
+        seq_group)) %>%
+    ungroup() %>%
+    select(sequence_id,
+      event,
+      start_s,
+      seq_group)
+  
+  # Combine the individual grabs and pounds
+  plot_hammerstone_groups <- bind_rows(plot_hammerstone_pounds, plot_hammerstone_grabs) %>%
+    mutate(sequence_id = factor(sequence_id, levels = handling_sequence_order),
+      hammerstone_group = factor(seq_group))
+  
+  # Plot
+  ggplot(plot_hammerstone_groups, aes(x = sequence_id, y = start_s, color = hammerstone_group)) +
+    geom_point(shape = 95,
+      size = 9,
+      alpha = 0.7) +
+    scale_y_continuous(breaks = seq(0, 135, by = 5),
+      expand = expansion(mult = c(0, 0.02))) +
+    coord_cartesian(ylim = c(0, 135)) +
+    scale_color_brewer(palette = "Dark2") +
+    labs(x = "Handling sequence",
+      y = "Start time (seconds)",
+      color = "Grab/pound group") +
+    theme_minimal() +
+    theme(panel.grid.major.x = element_blank(),
+      axis.text.x = element_text(
+        angle = 90,
+        hjust = 1,
+        vjust = 0.5,
+        size = 5),
+      legend.position = "none")
   
   
   # Creating summaries for each unique handling HC sequence -------------------------------------------------------------
@@ -1082,7 +1157,7 @@ seq_all_min <- all_sec_to_min(seq_all_s)
 
 #Saving as CSVs
 write_csv(seq_single_proc_s,
-  "generated_data/eff_seq_single_proc_s.csv")
+  "generated_data/eff_seq_single_proc_s_NEW.csv")
 
 write_csv(seq_single_proc_min,
   "generated_data/eff_seq_single_proc_min.csv")

@@ -53,7 +53,9 @@ seq_all_min <- read_csv("generated_data/eff_seq_all_min.csv") %>%
     event_real_time_start = ymd_hms(event_real_time_start),
     event_real_time_stop = ymd_hms(event_real_time_stop))
 
-seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>%
+# Switched to NEW which groups hits and grab/pounds if they occur within a 1 second (instead of 2 sec) window 
+# and otherwise assigns 0.5 sec for single pounds/hits 
+seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s_NEW.csv") %>% 
   mutate(
     observation_date = ymd_hms(observation_date),
     event_real_time_start = ymd_hms(event_real_time_start),
