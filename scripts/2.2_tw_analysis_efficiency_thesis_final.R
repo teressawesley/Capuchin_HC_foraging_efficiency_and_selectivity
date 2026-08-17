@@ -225,7 +225,7 @@ stopifnot(nrow(failed_duration_draws) == n_draws, #check for same # of draws
 
 # Combining probability of success, duration of success, and duration of failure into a composite score of utility 
 # Uses posterior draws to preserve uncertainty and correlations 
-# For one technique, sec per success = success duration + (1-p of success/p of success)failed duration
+# For one technique, sec per success = (success_probability * successful_duration + (1 - success_probability) * failed_duration)/success_probability
 
 utility_draws <- map_dfr(seq_along(techniques),
                             function(technique_column) {
