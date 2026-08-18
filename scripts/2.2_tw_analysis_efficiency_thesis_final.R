@@ -55,7 +55,7 @@ seq_all_min <- read_csv("generated_data/eff_seq_all_min.csv") %>%
 
 # Switched to NEW which groups hits and grab/pounds if they occur within a 1 second (instead of 2 sec) window 
 # and otherwise assigns 0.5 sec for single pounds/hits 
-seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s_NEW.csv") %>% 
+seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>% 
   mutate(
     observation_date = ymd_hms(observation_date),
     event_real_time_start = ymd_hms(event_real_time_start),
@@ -64,6 +64,12 @@ seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s_NEW.csv") %>%
 ## Load in previously fitted model if not adjusting model data -------------------------------------------------------------
 
 # mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
+
+technique_colors <- c(bite_pull   = "#90A959",
+                      bite_shell  = "#9766A3",
+                      hit_surface = "#6494AA",
+                      man_hands   = "#E9B872",
+                      stone_pound = "#A63D40")
 
 # Joint Bernoulli-Gamma model -------------------------------------------------------------
 
@@ -133,8 +139,7 @@ mjoint_suc_dur_tech <- brm(
 #   backend = "cmdstanr",
 #   # seed = 1234,
 #   control = list(
-#     adapt_delta = 0.99,
-#     max_treedepth = 15))
+#     adapt_delta = 0.99))
 
 saveRDS(mjoint_suc_dur_tech, file = "fitted_models/mjoint_suc_dur_tech.rds")
 
@@ -278,7 +283,7 @@ plot_failed_duration <- ggplot(all_summary_plot, aes(x = main_technique, y = fai
   geom_col() +
   scale_y_continuous(limits = c(0, 35), breaks = seq(0, 35, by = 5)) +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
-  scale_fill_brewer(palette = "Set1", drop = FALSE) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
   labs(title = "Inefficiency (Failure Duration)",
        x = NULL,
        y = "Process. duration (s)") +
@@ -290,7 +295,7 @@ plot_successful_duration <- ggplot(all_summary_plot, aes(x = main_technique, y =
   geom_col() +
   scale_y_continuous(limits = c(0, 35), breaks = seq(0, 35, by = 5)) +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
-  scale_fill_brewer(palette = "Set1", drop = FALSE) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
   labs(title = "Efficiency (Success Duration)",
        x = NULL,
        y = "Process. duration (s)") +
@@ -302,7 +307,7 @@ plot_success <- ggplot(all_summary_plot, aes(x = main_technique, y = probability
   geom_col() +
   scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
-  scale_fill_brewer(palette = "Set1", drop = FALSE) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
   labs(title = "Efficacy (Probability of success)",
        x = NULL,
        y = "Probability") +
@@ -313,7 +318,7 @@ plot_success <- ggplot(all_summary_plot, aes(x = main_technique, y = probability
 plot_utility <- ggplot(all_summary_plot, aes(x = main_technique, y = median_utility, fill = main_technique)) +
   geom_col() +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
-  scale_fill_brewer(palette = "Set1", drop = FALSE) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
   labs(title = "Utility (Efficiency/Efficacy Composite)",
        x = NULL,
        y = "Composite sec per success") +
@@ -331,7 +336,39 @@ plot_all_summary
 
 
 ## Plotting  -------------------------------------------------------------
-### Halfeye plot - one halfeye per technique; composite utility   -------------------------------------------------------------
+### Halfeye plots - one halfeye per technique -------------------------------------------------------------
+#### Efficiency (Success Duration) -------------------------------------------------------------
+
+successful_duration_draws_long <- successful_duration_draws %>%
+  as.data.frame() %>% setNames(techniques) %>%  mutate(.draw = row_number()) %>%
+  pivot_longer(cols = -.draw, names_to = "main_technique", values_to = "successful_duration_s") %>%
+  mutate(main_technique = factor(main_technique, levels = techniques))
+
+
+ggplot(successful_duration_draws_long, aes(x = successful_duration_s, y = reorder(main_technique, successful_duration_s, FUN = median),
+                          fill = main_technique)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+               point_interval = median_qi,
+               alpha = 0.8) +
+  scale_x_log10(labels = scales::label_number()) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
+  labs(title = "Efficiency (Success Duration)",
+       x = "Expected processing duration (seconds, log scale)",
+       y = "Main processing technique",
+       fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
+#### Inefficiency (Failure Duration) -------------------------------------------------------------
+
+
+#### Efficacy (Probability of Success) -------------------------------------------------------------
+
+
+#### Utility composite -------------------------------------------------------------
+
 ggplot(utility_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
                              fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
@@ -339,10 +376,10 @@ ggplot(utility_draws, aes(x = seconds_per_success, y = reorder(main_technique, s
                alpha = 0.8) +
   scale_x_log10(labels = scales::label_number()) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
-  scale_fill_brewer(palette = "Set1") +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
   labs(title = "Utility (Efficiency/Efficacy Composite)",
        subtitle = "Includes time spent on successful and failed attempts",
-       x = "Composite expected sec per success (log scale)",
+       x = "Utility composite expected sec per success (log scale)",
        y = "Main processing technique",
        fill = NULL) +
   theme_minimal(base_size = 14) +
@@ -449,6 +486,7 @@ ggplot(indv_prediction_summary, aes(x = successful_duration, y = probability_suc
 
 
 #### All techniques overlaid -------------------------------------------------------------
+#### Prob. success vs Success duration -------------------------------------------------------------
 
 # Plot individual-level prediction from model
 # Prob. success vs success duration for all techniques
@@ -488,7 +526,7 @@ indv_tech_plot_data <- indv_tech_newdata %>%
 indv_tech_plot_data
 
 
-ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success, colour = main_technique)) +
+plot_indv_success_duration <- ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success, colour = main_technique)) +
   # 95% ellipse for each technique
   # stat_ellipse(aes(group = main_technique, linetype = "95%"), type = "norm", level = 0.95, linewidth = 0.8) +
   # 80% ellipse for each technique
@@ -498,8 +536,8 @@ ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success
   # One posterior median point per individual and technique
   geom_point(size = 1.8, alpha = 0.5) +
   scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
-  scale_colour_brewer(palette = "Set1",
-                      labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  scale_colour_manual(values = technique_colors, labels = setNames(
+      str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
   scale_linetype_manual(values = c(
     "50%" = "solid",
     "80%" = "dashed"),
@@ -514,6 +552,176 @@ ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success
        colour = "Main technique") +
   theme_classic(base_size = 14) +
   theme(legend.position = "bottom")
+
+plot_indv_success_duration
+
+#### Prob. success vs Failure duration -------------------------------------------------------------
+
+# Plot individual-level prediction from model
+# Prob. success vs failure duration for all techniques
+
+# Prediction data for failed attempts
+indv_tech_failure_newdata <- indv_tech_newdata %>%  mutate(success = 0)
+
+# Individual-level failed-attempt duration draws
+indv_tech_failure_duration <- posterior_epred(mjoint_suc_dur_tech, newdata = indv_tech_failure_newdata, resp = "duration",
+  re_formula = ~(1 | video_unique_subject)) #The site varying effect is omitted, so predictions refer to an average site
+# Results in a matrix with 4,000 posterior draws × number of individuals
+
+# Check alignment with the existing success predictions
+stopifnot(ncol(indv_tech_failure_duration) == nrow(indv_tech_plot_data),
+  ncol(indv_tech_failure_duration) == ncol(indv_tech_success))
+
+
+# Posterior median and 95% CrI for each individual and technique - adding to existing plotting data
+indv_tech_plot_data <- indv_tech_plot_data %>%
+  mutate(failed_duration = apply(indv_tech_failure_duration, 2, median),
+    failed_duration_lower = apply(indv_tech_failure_duration, 2, quantile, probs = 0.025),
+    failed_duration_upper = apply(indv_tech_failure_duration, 2, quantile, probs = 0.975))
+
+plot_indv_failure_duration <- ggplot(indv_tech_plot_data, aes(x = failed_duration, y = probability_success, colour = main_technique)) +
+  # 80% ellipse for each technique
+  stat_ellipse(aes(group = main_technique, linetype = "80%"), type = "norm", level = 0.80, linewidth = 0.8) +
+  # 50% ellipse for each technique
+  stat_ellipse(aes(group = main_technique, linetype = "50%"), type = "norm", level = 0.50, linewidth = 0.9) +
+  # One posterior median point per individual and technique
+  geom_point(size = 1.8, alpha = 0.5) +
+  scale_y_continuous(labels = scales::percent,
+    limits = c(0, 1)) +
+  scale_colour_manual(values = technique_colors,
+    labels = setNames(str_to_sentence(techs$technique), techs$abb_technique),
+    drop = FALSE) +
+  scale_linetype_manual(
+    values = c("50%" = "solid",
+      "80%" = "dashed"),
+    breaks = c("50%", "80%"),
+    name = "Ellipse level") +
+  labs(title = "Success Probability and Failed-Attempt Duration",
+    subtitle = "Ellipses summarize individual posterior median predictions",
+    x = "Predicted failed-attempt duration (seconds)",
+    y = "Predicted probability of success",
+    colour = "Main technique") +
+  theme_classic(base_size = 14) +
+  theme(legend.position = "bottom")
+
+plot_indv_failure_duration
+
+
+
+#### Side by side ellipse plots (combining Prob. success vs Success duration vs Failure duration) -------------------------------------------------------------
+
+plot_indv_duration_comparison <-
+  plot_indv_success_duration +
+  plot_indv_failure_duration +
+  plot_layout(guides = "collect") &
+  theme(legend.position = "bottom")
+
+plot_indv_duration_comparison
+
+#### 3D (combining Prob. success vs Success duration vs Failure duration) -------------------------------------------------------------
+
+library(plotly)
+
+# Prediction data for failed attempts
+indv_tech_failure_newdata <- indv_tech_newdata %>%
+  mutate(success = 0)
+
+# Individual-level failed-attempt duration draws
+indv_tech_failure_duration <- posterior_epred(
+  mjoint_suc_dur_tech,
+  newdata = indv_tech_failure_newdata,
+  resp = "duration",
+  re_formula = ~(1 | video_unique_subject)
+)
+
+# Check that rows/columns align with the other prediction matrices
+stopifnot(
+  identical(dim(indv_tech_failure_duration), dim(indv_tech_duration)),
+  ncol(indv_tech_failure_duration) == nrow(indv_tech_plot_data)
+)
+
+indv_tech_plot_data_3d <- indv_tech_plot_data %>%
+  mutate(
+    failed_duration = apply(
+      indv_tech_failure_duration,
+      2,
+      median
+    ),
+    failed_duration_lower = apply(
+      indv_tech_failure_duration,
+      2,
+      quantile,
+      probs = 0.025
+    ),
+    failed_duration_upper = apply(
+      indv_tech_failure_duration,
+      2,
+      quantile,
+      probs = 0.975
+    ),
+    main_technique = factor(
+      main_technique,
+      levels = techniques
+    ),
+    hover_label = paste0(
+      "Individual: ", video_unique_subject,
+      "<br>Technique: ", str_to_sentence(main_technique),
+      "<br>Success probability: ",
+      scales::percent(probability_success, accuracy = 0.1),
+      "<br>Successful duration: ",
+      round(successful_duration, 2), " s",
+      "<br>Failed duration: ",
+      round(failed_duration, 2), " s"
+    )
+  )
+
+plot_indv_tech_3d <- plot_ly(
+  data = indv_tech_plot_data_3d,
+  x = ~successful_duration,
+  y = ~failed_duration,
+  z = ~probability_success,
+  color = ~main_technique,
+  colors = unname(technique_colors[techniques]),
+  text = ~hover_label,
+  hoverinfo = "text",
+  type = "scatter3d",
+  mode = "markers",
+  marker = list(
+    size = 4,
+    opacity = 0.65
+  )
+) %>%
+  layout(
+    title = list(
+      text = paste0(
+        "Individual Success and Duration Predictions by Technique",
+        "<br><sup>Points show individual posterior median predictions</sup>"
+      )
+    ),
+    scene = list(
+      xaxis = list(
+        title = "Success duration (s)"
+      ),
+      yaxis = list(
+        title = "Failure duration (s)"
+      ),
+      zaxis = list(
+        title = "Probability of success",
+        range = c(0, 1),
+        tickformat = ".0%"
+      ),
+      camera = list(
+        eye = list(x = 1.5, y = 1.5, z = 1.2)
+      )
+    ),
+    legend = list(
+      title = list(text = "Main technique")
+    )
+  )
+
+plot_indv_tech_3d
+
+
 
 #### All techniques overlaid WITH age-sex -------------------------------------------------------------
 

@@ -77,7 +77,7 @@ mcat_prob_tech_site_indv <- brm(
   prior = c(set_prior("normal(0, 1.2)",
                       class = "Intercept",
                       dpar = c("mubitepull", "mubiteshell", "muhitsurface", "mumanhands")),
-            set_prior("normal(0, 1.2)",
+            set_prior("normal(0, 1)",
                       class = "b",
                       dpar = c("mubitepull",  "mubiteshell", "muhitsurface",  "mumanhands"))),
   chains = 4,
