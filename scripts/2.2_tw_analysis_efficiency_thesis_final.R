@@ -63,7 +63,7 @@ seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>%
 
 ## Load in previously fitted model if not adjusting model data -------------------------------------------------------------
 
-# mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
+mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
 
 technique_colors <- c(bite_pull   = "#90A959",
                       bite_shell  = "#9766A3",
@@ -226,13 +226,18 @@ stopifnot(nrow(failed_duration_draws) == n_draws, #check for same # of draws
           ncol(successful_duration_draws) == length(techniques)) #check for one column per technique
 
 
-### Calculating utility composite  -------------------------------------------------------------
+### Calculating integrated efficiency -------------------------------------------------------------
 
-# Combining probability of success, duration of success, and duration of failure into a composite score of utility 
+# Combining probability of success, duration of success, and duration of failure into an integrated score of efficiency 
 # Uses posterior draws to preserve uncertainty and correlations 
 # For one technique, sec per success = (success_probability * successful_duration + (1 - success_probability) * failed_duration)/success_probability
+    # Note that is the probability of success = 0, the formula will attempt to divide by zero (produces inf in R)
+# The model should not be producing an exact 0 value, but we can check first before calculating
+range(success_draws)
+any(success_draws == 0)
+sum(success_draws == 0)
 
-utility_draws <- map_dfr(seq_along(techniques),
+integrated_efficiency_draws <- map_dfr(seq_along(techniques),
                             function(technique_column) {
                               # First, extracting all 4000 posteriors for each metric, matched by row:
                               success_probability <- success_draws[, technique_column]
@@ -254,29 +259,68 @@ utility_draws <- map_dfr(seq_along(techniques),
 # Summarizing the posterior efficiency distribution separately for each technique and
 # calculating central estimates and interval 
 # Note these results are at the population-level
-utility_summary <- utility_draws %>% group_by(main_technique) %>%
-  summarise(median_utility = median(seconds_per_success),
+integrated_efficiency_summary <- integrated_efficiency_draws %>% group_by(main_technique) %>%
+  summarise(median_integrated_efficiency = median(seconds_per_success),
             lower_95_CrI = quantile(seconds_per_success, 0.025),
             upper_95_CrI = quantile(seconds_per_success, 0.975),
             .groups = "drop") %>% 
-  arrange(median_utility) #sorts the table from the lowest to the highest median seconds per success
+  arrange(median_integrated_efficiency) #sorts the table from the lowest to the highest median seconds per success
 
-utility_summary
+integrated_efficiency_summary
+
+
+
+# Calculating the reciprocal - results in expected successes per minute (as opposed to sec for success, as above)
+# If keeping, rename accordingly; currently rewrite the above for quickly checking
+# Titling for the reciprocal could be Performance Rate
+# integrated_efficiency_draws <- map_dfr(seq_along(techniques),
+#                          function(technique_column) {
+#                            # First, extracting all 4000 posteriors for each metric, matched by row:
+#                            success_probability <- success_draws[, technique_column]
+#                            failed_duration <- failed_duration_draws[, technique_column]
+#                            successful_duration <- successful_duration_draws[, technique_column]
+#                            # Calculating success probability-weighted expected mean duration spent on one attempt:
+#                            expected_seconds_per_attempt <- success_probability * successful_duration + (1 - success_probability) * failed_duration
+#                            # Calculating expected time spent before obtaining one success:
+#                            seconds_per_success <- expected_seconds_per_attempt / success_probability
+#                            # Reciprocal: expected rate of successful outcomes ############
+#                            successes_per_second <- success_probability / expected_seconds_per_attempt
+#                            successes_per_minute <- 60 * successes_per_second
+#                            # Storing the 4000*5 draw-level results:
+#                            tibble(.draw = seq_len(n_draws),
+#                                   main_technique = techniques[technique_column],
+#                                   success_probability = success_probability,
+#                                   successful_duration_s = successful_duration,
+#                                   failed_duration_s = failed_duration,
+#                                   expected_seconds_per_attempt = expected_seconds_per_attempt,
+#                                   seconds_per_success = seconds_per_success,
+#                                   successes_per_second = successes_per_second,
+#                                   successes_per_minute = successes_per_minute)})
+# 
+# integrated_efficiency_summary <- integrated_efficiency_draws %>% group_by(main_technique) %>%
+#   summarise(median_integrated_efficiency = median(successes_per_minute),
+#             lower_95_CrI = quantile(successes_per_minute, 0.025),
+#             upper_95_CrI = quantile(successes_per_minute, 0.975),
+#             .groups = "drop") %>% 
+#   arrange(desc(median_integrated_efficiency))
+# 
+# integrated_efficiency_summary
+
 
 ## Combined table and plot -------------------------------------------------------------
 
-# Combine success, duration, and utility summaries
+# Combine success, duration, and integrated efficiency summaries
 all_summary <- success_summary %>% select(main_technique, probability_success) %>%
   left_join(duration_summary %>% select(main_technique, failed_duration, successful_duration), by = "main_technique") %>%
-  left_join(utility_summary %>% select(main_technique, median_utility), by = "main_technique") %>%
-  arrange(median_utility)
+  left_join(integrated_efficiency_summary %>% select(main_technique, median_integrated_efficiency), by = "main_technique") %>%
+  arrange(median_integrated_efficiency)
 
 all_summary
 
-# Plotting as a visual aid to understand relevancy of utility composite 
+# Plotting as a visual aid to understand relevancy of integrated efficiency 
 
 # Set the same technique order for all four plots
-technique_order <- all_summary %>% arrange(median_utility) %>% pull(main_technique)
+technique_order <- all_summary %>% arrange(median_integrated_efficiency) %>% pull(main_technique)
 all_summary_plot <- all_summary %>% mutate(main_technique = factor(main_technique, levels = technique_order))
 
 plot_failed_duration <- ggplot(all_summary_plot, aes(x = main_technique, y = failed_duration, fill = main_technique)) +
@@ -315,19 +359,19 @@ plot_success <- ggplot(all_summary_plot, aes(x = main_technique, y = probability
   theme(legend.position = "none",
         axis.text.x = element_text(angle = 35, hjust = 1))
 
-plot_utility <- ggplot(all_summary_plot, aes(x = main_technique, y = median_utility, fill = main_technique)) +
+plot_integrated_efficiency <- ggplot(all_summary_plot, aes(x = main_technique, y = median_integrated_efficiency, fill = main_technique)) +
   geom_col() +
   scale_x_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
-  labs(title = "Utility (Efficiency/Efficacy Composite)",
+  labs(title = "Integrated Efficiency",
        x = NULL,
-       y = "Composite sec per success") +
+       y = "expected sec per success") +
   theme_minimal(base_size = 12) +
   theme(legend.position = "none",
         axis.text.x = element_text(angle = 35, hjust = 1))
 
-plot_all_summary <- (plot_failed_duration | plot_successful_duration) / (plot_success | plot_utility) +
-  plot_annotation(title = "Success, Duration, and utility by Processing Technique",
+plot_all_summary <- (plot_failed_duration | plot_successful_duration) / (plot_success | plot_integrated_efficiency) +
+  plot_annotation(title = "Success, Duration, and integrated efficiency by Processing Technique",
                   subtitle = "Population-level posterior median estimates")
 
 plot_all_summary
@@ -367,9 +411,9 @@ ggplot(successful_duration_draws_long, aes(x = successful_duration_s, y = reorde
 #### Efficacy (Probability of Success) -------------------------------------------------------------
 
 
-#### Utility composite -------------------------------------------------------------
+#### Integrated Efficiency -------------------------------------------------------------
 
-ggplot(utility_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
+ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
                              fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
                point_interval = median_qi,
@@ -377,30 +421,30 @@ ggplot(utility_draws, aes(x = seconds_per_success, y = reorder(main_technique, s
   scale_x_log10(labels = scales::label_number()) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
-  labs(title = "Utility (Efficiency/Efficacy Composite)",
+  labs(title = "Integrated Efficiency",
        subtitle = "Includes time spent on successful and failed attempts",
-       x = "Utility composite expected sec per success (log scale)",
+       x = "expected sec per success (log scale)",
        y = "Main processing technique",
        fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 
 
-### Overlapping technique composite utility posterior-density with rug -------------------------------------------------------------
+### Overlapping technique integrated efficiency posterior-density with rug -------------------------------------------------------------
 # Sample posterior draws and give each technique its own rug row
-utility_rug <- utility_draws %>%  group_by(main_technique) %>%
+integrated_efficiency_rug <- integrated_efficiency_draws %>%  group_by(main_technique) %>%
   slice_sample(n = 300) %>%  ungroup() %>%
   mutate(rug_row = -0.02 * as.numeric(factor(main_technique, levels = techniques)))
 
-ggplot(utility_draws, aes(x = seconds_per_success, colour = main_technique)) + geom_density(linewidth = 1.2, adjust = 1.1) +
+ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, colour = main_technique)) + geom_density(linewidth = 1.2, adjust = 1.1) +
   # Separate row of posterior draws for each technique
-  geom_point(data = utility_rug, aes(y = rug_row), shape = "|", size = 2.5, alpha = 0.3) +
+  geom_point(data = integrated_efficiency_rug, aes(y = rug_row), shape = "|", size = 2.5, alpha = 0.3) +
   scale_x_log10(labels = scales::label_number()) +
   scale_colour_brewer(palette = "Set1", labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   coord_cartesian(ylim = c(-0.12, NA),  clip = "off") +
-  labs(title = "Utility (Efficiency/Efficacy Composite)",
+  labs(title = "Integrated Efficiency",
        subtitle = "Posterior distributions by main processing technique",
-       x = "Composite expected sec per success (log scale)",
+       x = "expected sec per success (log scale)",
        y = "Posterior density",
        colour = NULL) +
   theme_classic(base_size = 14) +
@@ -810,20 +854,20 @@ ggplot(indv_tech_plot_data, aes(x = successful_duration, y = probability_success
 ### Plotting contrasts -------------------------------------------------------------
 
 
-# Posterior utility draws for the stone-pounding reference
-stone_utility <- utility_draws %>%
+# Posterior integrated efficiency draws for the stone-pounding reference
+stone_integrated_efficiency <- integrated_efficiency_draws %>%
   filter(as.character(main_technique) == "stone_pound") %>%
   select(.draw,
          stone_seconds_per_success = seconds_per_success)
 
 # Contrast each alternative technique with stone pounding
-utility_contrasts <- utility_draws %>%
+integrated_efficiency_contrasts <- integrated_efficiency_draws %>%
   filter(as.character(main_technique) != "stone_pound") %>%
-  left_join(stone_utility, by = ".draw") %>%
+  left_join(stone_integrated_efficiency, by = ".draw") %>%
   mutate(difference_s = seconds_per_success - stone_seconds_per_success)
 
 # Summarizing the contrasts
-utility_contrast_summary <- utility_contrasts %>%
+integrated_efficiency_contrast_summary <- integrated_efficiency_contrasts %>%
   group_by(main_technique) %>%
   summarise(median_difference_s = median(difference_s),
             lower_95_CrI = quantile(difference_s, 0.025),
@@ -831,10 +875,10 @@ utility_contrast_summary <- utility_contrasts %>%
             probability_stone_more_efficient = mean(difference_s > 0),
             .groups = "drop")
 
-utility_contrast_summary
+integrated_efficiency_contrast_summary
 
 # Plotting
-ggplot(utility_contrasts,
+ggplot(integrated_efficiency_contrasts,
        aes(x = difference_s,
            y = reorder(main_technique, difference_s, FUN = median),
            fill = main_technique)) +
@@ -847,7 +891,7 @@ ggplot(utility_contrasts,
   coord_cartesian(xlim = c(-100, 100)) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_brewer(palette = "Set1") +
-  labs(title = "Utility Contrasts with Stone Pounding",
+  labs(title = "Integrated Efficiency Contrasts with Stone Pounding",
        subtitle = "Positive values indicate that stone pounding requires fewer seconds per success",
        x = "Difference in expected seconds per success\n(alternative technique − stone pounding)",
        y = "Main processing technique",
