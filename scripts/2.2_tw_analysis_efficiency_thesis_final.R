@@ -249,7 +249,51 @@ plot_success_variance <- ggplot(success_variance_draws,
 plot_success_variance
 
 
+# Alternative plot
+# Violins show the full posterior density; wider regions indicate where more draws are concentrated
+# 0.25 is the maximum variance - high density around this region indicates maximum variability in outcome 
+plot_success_variance_violin <- ggplot(success_variance_draws,
+  aes(x = success_outcome_variance, y = forcats::fct_reorder(main_technique, success_outcome_variance, median, .desc = TRUE),
+    fill = main_technique, colour = main_technique)) +
+  geom_violin(orientation = "y",
+    scale = "width",
+    trim = TRUE,
+    alpha = 0.35,
+    linewidth = 0.5) +
+  stat_pointinterval(.width = c(0.66, 0.95),
+    point_interval = median_qi,
+    colour = "grey15") +
+  scale_y_discrete(labels = setNames(
+      str_to_sentence(techs$technique),
+      techs$abb_technique)) +
+  scale_fill_manual(values = technique_colors,
+    guide = "none") +
+  scale_colour_manual(values = technique_colors,
+    guide = "none") +
+  scale_x_continuous(breaks = seq(0, 0.25, by = 0.05)) +
+  coord_cartesian(xlim = c(0, 0.255)) +
+  labs(title = "Consistency of Success Outcomes by Technique",
+    subtitle = paste(
+      "Violin shapes show posterior distributions;",
+      "points and intervals show medians and 66%/95% credible intervals"),
+    x = "Model-implied Bernoulli variance, p(1 − p)",
+    y = NULL,
+    caption = paste("Lower variance indicates more consistent outcomes.",
+      "Interpret variance alongside probability of success.")) +
+  theme_classic(base_size = 14) +
+  theme(plot.title.position = "plot",
+    plot.caption.position = "plot",
+    plot.caption = element_text(colour = "grey35",
+      hjust = 0,
+      size = 10),
+    axis.text.y = element_text(
+      colour = "grey20",
+      size = 11),
+    axis.line.y = element_blank(),
+    axis.ticks.y = element_blank(),
+    plot.margin = margin(10, 15, 10, 10))
 
+plot_success_variance_violin
 
 
 ### Duration prediction - success and failure  -------------------------------------------------------------
