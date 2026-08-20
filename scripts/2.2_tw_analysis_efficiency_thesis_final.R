@@ -172,6 +172,86 @@ success_summary <- map_dfr(seq_along(techniques), function(k) {
 success_summary
 
 
+### Success prob. variance -------------------------------------------------------------
+
+# For a binary outcome, variance is determined by the probability of success:
+# variance = p * (1 - p)
+# The maximum possible variance is 0.25, occurring when p = 0.50.
+# Variance approaches 0 as p approaches either 0 or 1.
+
+# Calculate outcome variance for every posterior draw and technique
+success_variance_draws <- map_dfr(
+  seq_along(techniques),
+  function(k) {probability_success <- success_draws[, k]
+    tibble(.draw = seq_len(nrow(success_draws)),
+      main_technique = techniques[k],
+      probability_success = probability_success,
+      success_outcome_variance =
+        probability_success * (1 - probability_success))})
+
+# Summarize the posterior distribution of outcome variance
+success_variance_summary <- success_variance_draws %>%
+  group_by(main_technique) %>%
+  summarise(probability_success = median(probability_success),
+    median_variance = median(success_outcome_variance),
+    lower_95_CrI = quantile(success_outcome_variance, 0.025),
+    upper_95_CrI = quantile(success_outcome_variance, 0.975),
+    .groups = "drop") %>%
+  arrange(median_variance)
+
+# Table ranks from smallest to largest estimated outcome variance 
+# Low variance indicates a more conistent outcome, regardless of whether the outcome is success or failure 
+success_variance_summary
+
+# Calculating the posterior probability that each technique has the lowest variance
+success_variance_minimum_probability <- success_variance_draws %>%
+  group_by(.draw) %>%
+  mutate(lowest_variance = success_outcome_variance == min(success_outcome_variance)) %>%
+  ungroup() %>%
+  group_by(main_technique) %>%
+  summarise(probability_lowest_variance = mean(lowest_variance), .groups = "drop") %>%
+  arrange(desc(probability_lowest_variance))
+
+# Table gives the probability that a given technique will have the lowest outcome variance 
+success_variance_minimum_probability
+
+
+# interval plot of success-outcome variance
+plot_success_variance <- ggplot(success_variance_draws,
+  aes(x = success_outcome_variance, y = forcats::fct_reorder(main_technique, success_outcome_variance, median, .desc = TRUE),
+    colour = main_technique)) +
+  stat_pointinterval(.width = c(0.66, 0.95),
+    point_interval = median_qi) +
+  scale_y_discrete(labels = setNames(
+      str_to_sentence(techs$technique),
+      techs$abb_technique)) +
+  scale_colour_manual(values = technique_colors,
+    guide = "none") +
+  scale_x_continuous(limits = c(0, 0.25),
+    breaks = seq(0, 0.25, by = 0.05),
+    expand = expansion(mult = c(0.02, 0.03))) +
+  labs(title = "Consistency of Success Outcomes by Technique",
+    subtitle = "Points show posterior medians; thick and thin intervals show 66% and 95% credible intervals",
+    x = "Model-implied Bernoulli variance, p(1 − p)",
+    y = NULL,
+    caption = paste("Lower variance indicates more consistent outcomes.",
+      "Variance must be interpreted alongside probability of success.")) +
+  theme_classic(base_size = 14) +
+  theme(plot.title.position = "plot",
+    plot.caption.position = "plot",
+    plot.caption = element_text(colour = "grey35", hjust = 0, size = 10),
+    axis.text.y = element_text(colour = "grey20", size = 11),
+    axis.text.x = element_text(colour = "grey20"),
+    axis.line.y = element_blank(),
+    axis.ticks.y = element_blank(),
+    plot.margin = margin(10, 15, 10, 10))
+
+plot_success_variance
+
+
+
+
+
 ### Duration prediction - success and failure  -------------------------------------------------------------
 # Creating a small prediction dataset with one row per technique and duration estimated for an unsuccessful attempt
 failed_duration_newdata <- tibble(main_technique = factor(techniques, levels = techniques), success = 0)
@@ -283,7 +363,7 @@ integrated_efficiency_summary
 #                            expected_seconds_per_attempt <- success_probability * successful_duration + (1 - success_probability) * failed_duration
 #                            # Calculating expected time spent before obtaining one success:
 #                            seconds_per_success <- expected_seconds_per_attempt / success_probability
-#                            # Reciprocal: expected rate of successful outcomes ############
+#                            # Reciprocal: expected rate of successful outcomes 
 #                            successes_per_second <- success_probability / expected_seconds_per_attempt
 #                            successes_per_minute <- 60 * successes_per_second
 #                            # Storing the 4000*5 draw-level results:
@@ -898,6 +978,46 @@ ggplot(integrated_efficiency_contrasts,
        fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
+
+
+
+
+
+
+
+
+
+# Variance of success probabilities across individuals -------------------------------------------------------------
+
+# Each column of indv_tech_success corresponds to one row of indv_tech_newdata. Each row is one posterior draw.
+# Convert the posterior-draw matrix to long format
+indv_probability_draws <- as_tibble(indv_tech_success) %>%
+  mutate(.draw = row_number()) %>%
+  pivot_longer(cols = -.draw, names_to = "prediction_column", values_to = "probability_success") %>%
+  mutate(prediction_column = as.integer(str_remove(prediction_column, "^V"))) %>%
+  left_join(indv_tech_newdata %>% mutate(prediction_column = row_number()), by = "prediction_column")
+
+# Within each posterior draw, calculate the variance among
+# individual predicted probabilities for each technique
+individual_probability_variance_draws <- indv_probability_draws %>%
+  group_by(.draw, main_technique) %>% summarise(variance_probability = var(probability_success),
+    sd_probability = sd(probability_success), .groups = "drop")
+
+# Summarize uncertainty in the variance estimate
+individual_probability_variance_summary <- individual_probability_variance_draws %>%
+  group_by(main_technique) %>%
+  summarise(median_variance = median(variance_probability),
+    lower_95_CrI = quantile(variance_probability, 0.025),
+    upper_95_CrI = quantile(variance_probability, 0.975),
+    median_SD = median(sd_probability), .groups = "drop") %>% arrange(median_variance)
+
+individual_probability_variance_summary
+# BUT note that the model currently assumes the same individual-level random-effect variance for every technique
+# Therefore, differences in the variance here is not because the model allows some techniques to have genuinely more 
+        # between-individual variability
+# To formally test whether techniques differ in variance of individual success probabilities, 
+# we would need to change the success model to estimate a separate individual variance for each technique
+
 
 
 
