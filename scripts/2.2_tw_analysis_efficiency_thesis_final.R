@@ -258,7 +258,7 @@ plot_success_variance_violin <- ggplot(success_variance_draws,
   geom_violin(orientation = "y",
     scale = "width",
     trim = TRUE,
-    alpha = 0.35,
+    alpha = 0.65,
     linewidth = 0.5) +
   stat_pointinterval(.width = c(0.66, 0.95),
     point_interval = median_qi,
@@ -564,7 +564,7 @@ ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, colour = main_t
   # Separate row of posterior draws for each technique
   geom_point(data = integrated_efficiency_rug, aes(y = rug_row), shape = "|", size = 2.5, alpha = 0.3) +
   scale_x_log10(labels = scales::label_number()) +
-  scale_colour_brewer(palette = "Set1", labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  scale_colour_manual(values = technique_colors, labels = setNames(stringr::str_to_sentence(techs$technique), techs$abb_technique)) +
   coord_cartesian(ylim = c(-0.12, NA),  clip = "off") +
   labs(title = "Integrated Efficiency",
        subtitle = "Posterior distributions by main processing technique",
@@ -891,7 +891,7 @@ plot_indv_tech_3d
 
 
 
-#### All techniques overlaid WITH age-sex -------------------------------------------------------------
+#### Ellipse - all techniques overlaid WITH age-sex -------------------------------------------------------------
 
 # Predict every individual's probability of success and duration for success for each technique; include age_sex class
 indv_tech_newdata <- seq_single_s %>% distinct(video_unique_subject, age_sex) %>%
@@ -996,10 +996,32 @@ integrated_efficiency_contrast_summary <- integrated_efficiency_contrasts %>%
   summarise(median_difference_s = median(difference_s),
             lower_95_CrI = quantile(difference_s, 0.025),
             upper_95_CrI = quantile(difference_s, 0.975),
-            probability_stone_more_efficient = mean(difference_s > 0),
+            probability_stone_more_efficient = mean(difference_s > 0), 
+            # ^^^ produces the value we will report - proportion of contrast >0
             .groups = "drop")
 
 integrated_efficiency_contrast_summary
+
+library(gt)
+
+contrast_table <- integrated_efficiency_contrast_summary %>%  gt() %>%
+  fmt_number(columns = c(median_difference_s,
+      lower_95_CrI,
+      upper_95_CrI),
+    decimals = 2) %>%
+  fmt_percent(columns = probability_stone_more_efficient,
+    decimals = 1) %>%
+  cols_label(main_technique = "Technique",
+    median_difference_s = "Median difference (s)",
+    lower_95_CrI = "Lower 95% CrI",
+    upper_95_CrI = "Upper 95% CrI",
+    probability_stone_more_efficient = "P(stone more efficient)") %>%
+  tab_header(title = "Integrated Efficiency Contrasts",
+    subtitle = "Alternative processing techniques compared with stone pounding")
+
+contrast_table
+
+# gtsave(contrast_table, filename = "integrated_efficiency_contrast_summary.png", zoom = 2)
 
 # Plotting
 ggplot(integrated_efficiency_contrasts,
@@ -1014,7 +1036,7 @@ ggplot(integrated_efficiency_contrasts,
                alpha = 0.8) +
   coord_cartesian(xlim = c(-100, 100)) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
-  scale_fill_brewer(palette = "Set1") +
+  scale_fill_manual(values = technique_colors) +
   labs(title = "Integrated Efficiency Contrasts with Stone Pounding",
        subtitle = "Positive values indicate that stone pounding requires fewer seconds per success",
        x = "Difference in expected seconds per success\n(alternative technique − stone pounding)",
@@ -1022,11 +1044,6 @@ ggplot(integrated_efficiency_contrasts,
        fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
-
-
-
-
-
 
 
 
