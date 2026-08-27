@@ -5,9 +5,11 @@
 
 # The below changes were implemented using Codex - a check should be done
 # Added age/sex-adjusted joint efficiency model with marginalized predictions
-# Added age_sex as an additive predictor to both the Bernoulli success and Gamma duration components; no interactions with technique were added.
+# Added age_sex as an additive predictor to both the Bernoulli success and Gamma duration components; 
+  # no interactions with technique were added.
 # Set adult females as the coefficient reference category only.
-# Replaced unadjusted population predictions with predictions marginalized across the observed individual-level age/sex composition, giving each individual equal weight.
+# Replaced unadjusted population predictions with predictions marginalized across the observed individual-level age/sex 
+  # composition, giving each individual equal weight.
 # Preserved one posterior-draw column per technique for compatibility with existing summaries and plots.
 # Updated integrated efficiency to calculate success-weighted attempt duration within each age/sex class before population averaging.
 # Updated individual predictions to use each animal’s observed age/sex class.
@@ -81,6 +83,16 @@ technique_colors <- c(bite_pull   = "#90A959",
                       hit_surface = "#6494AA",
                       man_hands   = "#E9B872",
                       stone_pound = "#A63D40")
+
+age_sex_colours <- c(
+  "adult female" = "#D93942",
+  "adult male" = "#306BA9",
+  "subadult female" = "#FF959A",
+  "subadult male" = "#90B6E0",
+  "juvenile male" = "#B3CDD0",
+  "juvenile" = "#F1BB87",
+  "non-adult" = "#ECA15B")
+
 
 # Load the previously fitted adjusted model instead of refitting, if desired -------------------------------------------------------------
 
@@ -203,70 +215,70 @@ summary(mjoint_suc_dur_tech_age_sex)
 #plot(mjoint_suc_dur_tech)
 
 ## Extracting posterior predictions  -------------------------------------------------------------
-### Success probability  -------------------------------------------------------------
-# Creating a vector with the main-technique levels included in the fitted models
-techniques <- levels(droplevels(seq_single_s$main_technique))
+### Standardization/Marginalization  -------------------------------------------------------------
 
 # Standardization sample: each individual contributes once, regardless of how many
 # sequences were observed for that individual. Individuals missing age_sex are excluded.
-individual_age_sex <- seq_single_s %>%
-  distinct(video_unique_subject, age_sex) %>%
-  filter(!is.na(video_unique_subject), !is.na(age_sex))
 
+# Dataframe with unique IDs and age/sex class; one row per individual 
+individual_age_sex <- seq_single_s %>% distinct(video_unique_subject, age_sex) %>%
+  filter(!is.na(video_unique_subject), !is.na(age_sex))
 # age_sex should be constant within individuals
 stopifnot(!anyDuplicated(individual_age_sex$video_unique_subject))
 
+# Calculate the population’s age/sex proportions
 age_sex_standardization <- individual_age_sex %>%
   count(age_sex, name = "n_individuals") %>%
   mutate(age_sex_weight = n_individuals / sum(n_individuals))
-
+# Proportion weights should sum to 1
 stopifnot(abs(sum(age_sex_standardization$age_sex_weight) - 1) < 1e-10)
 
 age_sex_standardization
 
-# One prediction row per technique and age/sex class. The weights reproduce the
-# observed individual-level age/sex composition for every technique.
-population_prediction_grid <- crossing(
-  main_technique = factor(techniques, levels = techniques),
-  age_sex = factor(
-    age_sex_standardization$age_sex,
-    levels = levels(seq_single_s$age_sex))) %>%
+
+# Predict every technique for every age/sex class 
+# The weights reproduce the observed individual-level age/sex composition for every technique.
+# To prevent individuals with more observations to disproportionately determining the population composition 
+population_prediction_grid <- crossing(main_technique = factor(techniques, levels = techniques), # creates every combination of technique and age/sex class
+  age_sex = factor(age_sex_standardization$age_sex, levels = levels(seq_single_s$age_sex))) %>%
   left_join(age_sex_standardization, by = "age_sex")
 
 # Collapse conditional posterior draws into one population-averaged column per technique.
-marginalize_draws_by_technique <- function(draw_matrix, prediction_grid) {
-  marginalized <- vapply(
-    techniques,
-    function(technique) {
-      columns <- which(as.character(prediction_grid$main_technique) == technique)
-      as.numeric(
-        draw_matrix[, columns, drop = FALSE] %*%
-          prediction_grid$age_sex_weight[columns])
-    },
-    numeric(nrow(draw_matrix)))
-
+# Average age/sex-specific predictions using proportions --> 
+  # One adjusted posterior distribution per technique
+marginalize_draws_by_technique <- function(   # Defining reusable marginalization function 
+    draw_matrix, #posterior predictions for every row of the prediction grid
+    prediction_grid) {  #table identifying the technique, age/sex class, and weight corresponding to each matrix column
+  marginalized <- vapply(techniques, #Loop over the 5 techinques 
+    function(technique) {columns <- which(
+      as.character(prediction_grid$main_technique) == technique) #identifies the prediction-grid rows belonging to the current technique
+      as.numeric(draw_matrix[, columns, drop = FALSE] %*% #calculates a weighted population average within each draw; preserves posterior uncertainty 
+          prediction_grid$age_sex_weight[columns])},
+    numeric(nrow(draw_matrix))) #checks output - length should match # of every posterior draw
   colnames(marginalized) <- techniques
-  marginalized
-}
+  marginalized}
+# Based on current model, the above converts
+# 4,000 posterior draws × 35 technique–age/sex combinations ---> 4,000 posterior draws × 5 techniques
+                                          # Where the 5 columns represent age/sex-adjusted population-average predictions
 
+
+### Success probability  -------------------------------------------------------------
+# Creating a vector with the main-technique levels included in the fitted models
+techniques <- levels(droplevels(seq_single_s$main_technique))
+
+# Renaming so old script can be used
 success_newdata <- population_prediction_grid
 
 # Conditional draws for every technique × age/sex combination
-success_draws_conditional <- posterior_epred(
-  mjoint_suc_dur_tech,
-  newdata = success_newdata,
-  resp = "success",
-  re_formula = NA)
+success_draws_conditional <- posterior_epred(mjoint_suc_dur_tech, newdata = success_newdata,
+  resp = "success", re_formula = NA)
 
 # Population-averaged success draws: posterior draws × techniques
-success_draws <- marginalize_draws_by_technique(
-  success_draws_conditional,
-  success_newdata)
+success_draws <- marginalize_draws_by_technique(success_draws_conditional, success_newdata)
 
 # Summarizing the 4000 posterior success-probability draws into one result row per technique
 success_summary <- map_dfr(seq_along(techniques), function(k) {
-  tibble(
-    main_technique = techniques[k],
+  tibble(main_technique = techniques[k],
     probability_success = (median(success_draws[, k])),
     lower_95_CrI = quantile(success_draws[, k], 0.025),
     upper_95_CrI = quantile(success_draws[, k], 0.975))})
@@ -399,9 +411,10 @@ plot_success_variance_violin
 
 
 ### Duration prediction - success and failure  -------------------------------------------------------------
+
+# Renaming so old script can be used
 # Prediction grid for unsuccessful attempts, retaining the same row order and weights
-failed_duration_newdata <- population_prediction_grid %>%
-  mutate(success = 0)
+failed_duration_newdata <- population_prediction_grid %>% mutate(success = 0)
 
 failed_duration_draws_conditional <- posterior_epred(
   mjoint_suc_dur_tech,
@@ -414,9 +427,9 @@ failed_duration_draws <- marginalize_draws_by_technique(
   failed_duration_draws_conditional,
   failed_duration_newdata)
 
+# Renaming so old script can be used
 # Prediction grid for successful attempts, retaining the same row order and weights
-successful_duration_newdata <- population_prediction_grid %>%
-  mutate(success = 1)
+successful_duration_newdata <- population_prediction_grid %>% mutate(success = 1)
 
 successful_duration_draws_conditional <- posterior_epred(
   mjoint_suc_dur_tech,
@@ -428,18 +441,6 @@ successful_duration_draws_conditional <- posterior_epred(
 successful_duration_draws <- marginalize_draws_by_technique(
   successful_duration_draws_conditional,
   successful_duration_newdata)
-
-# For integrated efficiency, calculate expected attempt duration within each
-# age/sex class before marginalizing. This preserves the nonlinear relationship
-# among success probability, successful duration, and failed duration.
-expected_seconds_per_attempt_conditional <-
-  success_draws_conditional * successful_duration_draws_conditional +
-  (1 - success_draws_conditional) * failed_duration_draws_conditional
-
-expected_seconds_per_attempt_draws <- marginalize_draws_by_technique(
-  expected_seconds_per_attempt_conditional,
-  population_prediction_grid)
-
 
 # Summarizing the 4000 posterior duration prediction draws into one row per technique
 # Includes duration prediction for failed AND successful seqs
@@ -477,6 +478,15 @@ stopifnot(nrow(failed_duration_draws) == n_draws, #check for same # of draws
 
 
 ### Calculating integrated efficiency -------------------------------------------------------------
+
+# For integrated efficiency, calculate expected attempt duration within each
+# age/sex class before marginalizing. This preserves the nonlinear relationship
+# among success probability, successful duration, and failed duration.
+expected_seconds_per_attempt_conditional <- success_draws_conditional * successful_duration_draws_conditional +
+  (1 - success_draws_conditional) * failed_duration_draws_conditional
+
+expected_seconds_per_attempt_draws <- marginalize_draws_by_technique(
+  expected_seconds_per_attempt_conditional, population_prediction_grid)
 
 # Combining probability of success, duration of success, and duration of failure into an integrated score of efficiency 
 # Uses posterior draws to preserve uncertainty and correlations 
@@ -626,7 +636,6 @@ plot_all_summary <- (plot_failed_duration | plot_successful_duration) / (plot_su
                   subtitle = "Age/sex-adjusted population averages over the observed individual composition")
 
 plot_all_summary
-
 
 
 
@@ -1211,6 +1220,373 @@ individual_probability_variance_summary
 
 
 
+
+
+
+
+# Age/sex differences in success probability ------------------------------------------------------------------------------
+
+# After accounting for technique, individuals, and sites, how does predicted
+# success probability differ among age/sex classes when every class is assigned
+# the same technique-use distribution?
+
+# The common technique distribution is based on observed technique use across all individuals. 
+# Each individual contributes equal total weight, regardless of how many sequences were observed for that individual
+
+# Calculate technique use within each individual
+individual_technique_use_standardized <- seq_single_s %>%
+  filter(!is.na(video_unique_subject),
+    !is.na(age_sex),
+    !is.na(main_technique)) %>%
+  count(video_unique_subject,
+    age_sex,
+    main_technique,
+    name = "n_sequences") %>%
+  group_by(video_unique_subject, age_sex) %>%
+  # Calculate the proportion of each individual's observations represented by each technique.
+  # These weights sum to 1 within every individual
+  mutate(within_individual_technique_weight =
+      n_sequences / sum(n_sequences)) %>% ungroup()
+
+# Check that every individual's technique weights sum to one.
+individual_weight_check_standardized <- individual_technique_use_standardized %>%
+  group_by(video_unique_subject, age_sex) %>%
+  summarise(total_weight = sum(within_individual_technique_weight), .groups = "drop")
+stopifnot(all(abs(individual_weight_check_standardized$total_weight - 1) < 1e-10))
+
+# Calculate one common technique distribution 
+n_standardization_individuals <-
+  n_distinct(individual_technique_use_standardized$video_unique_subject)
+
+
+# Average individual technique-use proportions across all individuals.
+# Because every individual's within-individual weights sum to one,
+# dividing by the number of individuals ensures that every individual
+# contributes equal total weight to the common technique distribution.
+standardized_technique_weights <- individual_technique_use_standardized %>%
+  group_by(main_technique) %>%
+  summarise(summed_individual_weight =
+      sum(within_individual_technique_weight),
+    .groups = "drop") %>%
+  mutate(standardized_technique_weight = summed_individual_weight / n_standardization_individuals,
+    # Preserve the factor levels used when fitting the model.
+    main_technique = factor(main_technique,
+      levels = levels(seq_single_s$main_technique))) %>%
+  arrange(main_technique)
+
+# Inspect the common technique distribution.
+standardized_technique_weights
+
+# Check that the common technique weights sum to one.
+stopifnot(abs(sum(standardized_technique_weights$standardized_technique_weight) - 1) < 1e-10)
+
+# Create the standardized age/sex × technique prediction grid
+age_sex_levels <- levels(droplevels(seq_single_s$age_sex))
+techniques <- levels(droplevels(seq_single_s$main_technique))
+
+# Create every possible age/sex × technique combination.#
+# Every age/sex class is assigned the same standardized technique weights.
+age_sex_success_newdata_standardized <- crossing(age_sex = factor(
+    age_sex_levels,
+    levels = levels(seq_single_s$age_sex)),
+  main_technique = factor(techniques,
+    levels = levels(seq_single_s$main_technique))) %>%
+  left_join(standardized_technique_weights,
+    by = "main_technique") %>%
+  arrange(age_sex, main_technique)
+
+# Confirm that the technique weights sum to one within every age/sex class.
+standardized_grid_weight_check <- age_sex_success_newdata_standardized %>%
+  group_by(age_sex) %>% summarise(total_weight = sum(standardized_technique_weight), .groups = "drop")
+stopifnot(all(abs(standardized_grid_weight_check$total_weight - 1) < 1e-10))
+
+# Generates one posterior success-probability distribution for every age/sex × technique combination.#
+# re_formula = NA excludes individual- and site-specific deviations.
+# Predictions therefore represent population-level age/sex classes at an average individual and site.
+age_sex_success_draws_conditional_standardized <- posterior_epred(
+    mjoint_suc_dur_tech_age_sex, newdata = age_sex_success_newdata_standardized,
+    resp = "success", re_formula = NA)
+
+# Rows: posterior draws
+# Columns: age/sex × technique combinations
+dim(age_sex_success_draws_conditional_standardized)
+stopifnot(ncol(age_sex_success_draws_conditional_standardized) == nrow(age_sex_success_newdata_standardized))
+
+# Marginalize over the standardized technique distribution
+# For each age/sex class and posterior draw:
+#   1. select all technique-specific predictions for that class;
+#   2. multiply them by the common technique weights;
+#   3. sum the weighted predictions.#
+# Because every class receives the same weights, differences among the resulting
+# predictions represent adjusted age/sex differences under a common technique mix.
+age_sex_success_draws_standardized <- vapply(age_sex_levels,
+  function(current_age_sex) {
+    columns <- which(
+      as.character(age_sex_success_newdata_standardized$age_sex) == current_age_sex)
+    as.numeric(age_sex_success_draws_conditional_standardized[, columns, drop = FALSE] %*%
+        age_sex_success_newdata_standardized$standardized_technique_weight[columns])},
+  numeric(nrow(age_sex_success_draws_conditional_standardized)))
+
+# Name the columns with their corresponding age/sex classes.
+colnames(age_sex_success_draws_standardized) <- age_sex_levels
+
+# Result:
+# rows = posterior draws
+# columns = age/sex classes
+dim(age_sex_success_draws_standardized)
+
+# Summarize standardized success probability 
+age_sex_success_summary_standardized <- map_dfr(seq_along(age_sex_levels),
+  function(k) {tibble(
+      age_sex = age_sex_levels[k],
+      median_probability_success = median(age_sex_success_draws_standardized[, k]),
+      lower_95_CrI = quantile(age_sex_success_draws_standardized[, k], 0.025),
+      upper_95_CrI = quantile(age_sex_success_draws_standardized[, k], 0.975))}) %>%
+  arrange(desc(median_probability_success))
+age_sex_success_summary_standardized
+
+# Pairwise standardized age/sex contrasts 
+# Example threshold for a potentially meaningful difference:
+# 0.05 corresponds to five percentage points.
+meaningful_probability_difference <- 0.05
+
+age_sex_success_contrasts_standardized <- combn(age_sex_levels, 2, simplify = FALSE) %>%
+  map_dfr(function(class_pair) {
+      class_1 <- class_pair[1]
+      class_2 <- class_pair[2]
+      # Positive differences indicate higher predicted success for class_1.
+      difference <-
+        age_sex_success_draws_standardized[, class_1] -
+        age_sex_success_draws_standardized[, class_2]
+      tibble(class_1 = class_1,
+        class_2 = class_2,
+        median_difference_probability = median(difference),
+        lower_95_CrI = quantile(difference, 0.025),
+        upper_95_CrI = quantile(difference, 0.975),
+        # Posterior probability that class_1 has greater success.
+        probability_class_1_higher = mean(difference > 0),
+        # Posterior probability that the absolute difference exceeds five percentage points.
+        probability_difference_greater_than_5pp =
+          mean(abs(difference) > meaningful_probability_difference))})
+age_sex_success_contrasts_standardized
+
+# Prepare posterior draws for plotting 
+age_sex_success_draws_long_standardized <- age_sex_success_draws_standardized %>%
+  as.data.frame() %>% mutate(.draw = row_number()) %>%
+  pivot_longer(cols = -.draw,
+    names_to = "age_sex",
+    values_to = "probability_success") %>%
+  mutate(age_sex = factor(
+      age_sex,
+      levels = age_sex_levels))
+
+# Plot 
+ggplot( age_sex_success_draws_long_standardized,
+  aes(x = probability_success, y = reorder(age_sex, probability_success, FUN = median), fill = age_sex)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+    point_interval = median_qi,
+    alpha = 0.8) +
+  scale_x_continuous(labels = scales::label_percent(),
+    limits = c(0, 1)) +
+  scale_fill_manual(values = age_sex_colours) +
+  labs(title = "Success Probability by Age/Sex Class",
+    subtitle = paste(
+      "Age/sex classes standardized to the same",
+      "population-level technique composition"),
+    x = "Expected probability of success",
+    y = "Age/sex class",
+    fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Comparison of this model vs separate model for age/sex diff in success prob. --------------------------------
+
+# Here, the questions is: Did age/sex classes differ in success, after making their technique use comparable?
+  # Techinques are adjusted for; all age-sex classses are assigned the same mix of techinques 
+  # Here, only a population-averag site is indicated
+
+# In indv_site_variation asks: Did overall success prob. differ among age/sex classes under their naturally observed behavior?
+  # Techniques are not adjusted for; diff in technique will be part of age/sex difference
+  # Includes site as a population-level categorical predictor; each site gets its own coefficient 
+
+# Age/sex effect on integrated efficiency -----------------------------------------------------------
+
+#
+#
+# ! Below script needs checked
+#
+#
+
+
+# How does expected seconds per success (integrated efficiency) differ among age/sex classes when all classes 
+# are evaluated using the same technique distribution?
+
+# Posterior duration predictions
+# Reuse the existing standardized age/sex × technique prediction grid.
+# Add success = 1 to obtain expected durations of successful attempts.
+age_sex_successful_duration_newdata_standardized <- age_sex_success_newdata_standardized %>% mutate(success = 1)
+
+# Posterior expected duration for every successful age/sex × technique combination.
+age_sex_successful_duration_draws_conditional <- posterior_epred(mjoint_suc_dur_tech_age_sex,
+    newdata = age_sex_successful_duration_newdata_standardized,
+    resp = "duration", re_formula = NA)
+
+# Add success = 0 to obtain expected durations of failed attempts.
+age_sex_failed_duration_newdata_standardized <- age_sex_success_newdata_standardized %>% mutate(success = 0)
+
+# Posterior expected duration for every failed age/sex × technique combination.
+age_sex_failed_duration_draws_conditional <- posterior_epred(mjoint_suc_dur_tech_age_sex,
+    newdata = age_sex_failed_duration_newdata_standardized,
+    resp = "duration", re_formula = NA)
+
+# Check posterior-draw alignment
+# The success and duration matrices must have identical dimensions.
+# Their columns correspond to the same age/sex × technique combinations.
+stopifnot(identical(dim(age_sex_success_draws_conditional_standardized),
+    dim(age_sex_successful_duration_draws_conditional)),
+  identical(dim(age_sex_success_draws_conditional_standardized),
+    dim(age_sex_failed_duration_draws_conditional)),
+  ncol(age_sex_successful_duration_draws_conditional) == nrow(age_sex_success_newdata_standardized))
+
+# Expected duration per attempt 
+# For each posterior draw and age/sex × technique combination:
+# expected seconds per attempt =
+#   P(success) × successful duration +
+#   P(failure) × failed duration
+# This calculation is performed before averaging across techniques.
+# That preserves the relationship between success probability and duration
+# within each age/sex × technique combination.
+age_sex_expected_attempt_duration_conditional <-
+  age_sex_success_draws_conditional_standardized * age_sex_successful_duration_draws_conditional +
+  (1 - age_sex_success_draws_conditional_standardized) *
+  age_sex_failed_duration_draws_conditional
+
+
+# Function to average across the common technique distribution
+# This function collapses the age/sex × technique predictions into
+  # one population-average posterior distribution per age/sex class.
+# Every age/sex class receives the same standardized technique weights
+  # that were calculated in the preceding success-probability section.
+marginalize_draws_by_age_sex <- function(
+    draw_matrix,
+    prediction_grid) {
+  marginalized <- vapply(age_sex_levels,
+    function(current_age_sex) {
+      # Identify the technique columns belonging to the current class.
+      columns <- which(as.character(prediction_grid$age_sex) == current_age_sex)
+      # Calculate a weighted average across techniques separately within each posterior draw.
+      as.numeric(draw_matrix[, columns, drop = FALSE] %*%
+          prediction_grid$
+          standardized_technique_weight[columns])},
+    numeric(nrow(draw_matrix)))
+  # Name the resulting columns with their age/sex classes.
+  colnames(marginalized) <- age_sex_levels
+  marginalized}
+
+# Marginalize expected attempt duration over techniques
+
+# Produces:
+# rows = posterior draws
+# columns = age/sex classes
+age_sex_expected_attempt_duration_standardized <- marginalize_draws_by_age_sex(
+    age_sex_expected_attempt_duration_conditional,
+    age_sex_success_newdata_standardized)
+
+# Calculate integrated efficiency
+
+# The standardized success probabilities were already calculated above: age_sex_success_draws_standardized
+# Integrated efficiency:
+# expected seconds per success =
+#   expected seconds per attempt / probability of success
+age_sex_seconds_per_success_standardized <- age_sex_expected_attempt_duration_standardized / age_sex_success_draws_standardized
+
+# Success probabilities should be greater than zero, and all resulting efficiency values should be finite.
+stopifnot(all(age_sex_success_draws_standardized > 0),
+  all(is.finite(age_sex_seconds_per_success_standardized)))
+
+# Convert posterior draws to long format
+
+age_sex_integrated_efficiency_draws <- age_sex_seconds_per_success_standardized %>%
+  as.data.frame() %>%
+  mutate(.draw = row_number()) %>%
+  pivot_longer(cols = -.draw,
+    names_to = "age_sex",
+    values_to = "seconds_per_success") %>%
+  mutate(age_sex = factor(
+      age_sex,
+      levels = age_sex_levels))
+
+# Summarize integrated efficiency
+age_sex_integrated_efficiency_summary <- age_sex_integrated_efficiency_draws %>%
+  group_by(age_sex) %>%
+  summarise(median_seconds_per_success =
+      median(seconds_per_success),
+    lower_95_CrI = quantile(seconds_per_success, 0.025),
+    upper_95_CrI = quantile(seconds_per_success, 0.975),
+    .groups = "drop") %>%
+  # Lower seconds per success means greater efficiency.
+  arrange(median_seconds_per_success)
+
+age_sex_integrated_efficiency_summary
+
+# Pairwise posterior contrasts 
+
+# Example threshold for a potentially meaningful difference.
+# Change this value if a threshold other than five seconds is more biologically appropriate.
+meaningful_efficiency_difference_s <- 5
+
+age_sex_integrated_efficiency_contrasts <- combn(age_sex_levels, 2, simplify = FALSE) %>%
+  map_dfr(function(class_pair) {
+      class_1 <- class_pair[1]
+      class_2 <- class_pair[2]
+      # Contrast:
+      # class_1 seconds per success − class_2 seconds per success
+      # Negative values indicate that class_1 is more efficient.
+      # Positive values indicate that class_2 is more efficient.
+      difference_s <- age_sex_seconds_per_success_standardized[, class_1] -
+        age_sex_seconds_per_success_standardized[, class_2]
+      tibble(class_1 = class_1,
+        class_2 = class_2,
+        median_difference_s = median(difference_s),
+        lower_95_CrI = quantile(difference_s, 0.025),
+        upper_95_CrI = quantile(difference_s, 0.975),
+        # Lower seconds per success indicates greater efficiency.
+        probability_class_1_more_efficient = mean(difference_s < 0),
+        # Probability that the difference exceeds five seconds in either direction.
+        probability_abs_difference_gt_5s = mean(abs(difference_s) > meaningful_efficiency_difference_s))})
+
+age_sex_integrated_efficiency_contrasts
+
+# Plot posterior integrated-efficiency distributions
+ggplot(age_sex_integrated_efficiency_draws, aes(x = seconds_per_success, y = reorder(age_sex, seconds_per_success, FUN = median), fill = age_sex)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+    point_interval = median_qi,
+    alpha = 0.8) +
+  scale_x_log10(labels = scales::label_number()) +
+  scale_fill_manual(values = age_sex_colours) +
+  labs(title = "Integrated Efficiency by Age/Sex Class",
+    subtitle = paste(
+      "Classes standardized to the same technique composition;",
+      "lower values indicate greater efficiency"
+    ),
+    x = "Expected seconds per success (log scale)",
+    y = "Age/sex class",
+    fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
 
 
 
