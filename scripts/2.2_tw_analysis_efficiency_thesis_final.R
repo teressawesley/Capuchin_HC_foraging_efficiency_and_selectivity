@@ -72,7 +72,6 @@ technique_colors <- c(bite_pull   = "#90A959",
                       stone_pound = "#A63D40")
 
 # Joint Bernoulli-Gamma model -------------------------------------------------------------
-
 ## Info and setup -------------------------------------------------------------
 
 # How does technique predict success probability?
@@ -504,8 +503,7 @@ plot_all_summary
 
 
 ## Plotting  -------------------------------------------------------------
-### Halfeye plots - one halfeye per technique -------------------------------------------------------------
-#### Efficiency (Success Duration) -------------------------------------------------------------
+### Halfeye - Efficiency (Success Duration) -------------------------------------------------------------
 
 successful_duration_draws_long <- successful_duration_draws %>%
   as.data.frame() %>% setNames(techniques) %>%  mutate(.draw = row_number()) %>%
@@ -529,13 +527,147 @@ ggplot(successful_duration_draws_long, aes(x = successful_duration_s, y = reorde
   theme(legend.position = "none")
 
 
-#### Inefficiency (Failure Duration) -------------------------------------------------------------
+### Halfeye - Inefficiency (Failure Duration) -------------------------------------------------------------
 
 
-#### Efficacy (Probability of Success) -------------------------------------------------------------
+### All plots - Efficacy (Probability of Success) -------------------------------------------------------------
+#### Halfeye - Efficacy -------------------------------------------------------------
+
+success_draws_long <- success_draws %>%
+  as.data.frame() %>% setNames(techniques) %>%  mutate(.draw = row_number()) %>%
+  pivot_longer(cols = -.draw, names_to = "main_technique", values_to = "probability_success") %>%
+  mutate(main_technique = factor(main_technique, levels = techniques))
 
 
-#### Integrated Efficiency -------------------------------------------------------------
+ggplot(success_draws_long, aes(x = probability_success, y = reorder(main_technique, probability_success, FUN = median),
+                                           fill = main_technique)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+               point_interval = median_qi,
+               alpha = 0.8) +
+  scale_x_continuous(limits = c(0, 1), breaks = seq(0, 1, by = 0.1), labels = scales::label_number(accuracy = 0.1)) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
+  labs(title = "Efficacy (Probability of Success)",
+       x = "Expected probability of success",
+       y = "Main processing technique",
+       fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
+
+#### Violin - Efficacy -------------------------------------------------------------
+
+success_draws_long <- success_draws %>%
+  as.data.frame() %>% setNames(techniques) %>%  mutate(.draw = row_number()) %>%
+  pivot_longer(cols = -.draw, names_to = "main_technique", values_to = "probability_success") %>%
+  mutate(main_technique = factor(main_technique, levels = techniques))
+
+
+ggplot(success_draws_long, aes(x = probability_success, y = reorder(main_technique, probability_success, FUN = median),
+                               fill = main_technique)) +
+  geom_violin(orientation = "y",
+    scale = "width",
+    trim = TRUE,
+    alpha = 0.65,
+    linewidth = 0.5) +
+  stat_pointinterval(.width = c(0.66, 0.95),
+    point_interval = median_qi,
+    colour = "grey15") +
+  scale_x_continuous(limits = c(0, 1), breaks = seq(0, 1, by = 0.1), labels = scales::label_number(accuracy = 0.1)) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
+  labs(title = "Efficacy (Probability of Success)",
+       subtitle = paste("Violin shapes show posterior distributions;",
+         "points and intervals show medians and 66%/95% credible intervals"),
+       x = "Expected probability of success",
+       y = "Main processing technique",
+       fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
+
+#### Dot plot - Efficacy -------------------------------------------------------------
+
+ggplot(success_draws_long,
+  aes(x = probability_success, y = reorder(main_technique, probability_success, FUN = median), fill = main_technique)) +
+  stat_dotsinterval(quantiles = 100,
+    .width = c(0.66, 0.95),
+    point_interval = median_qi) +
+  scale_x_continuous(limits = c(0, 1),
+    breaks = seq(0, 1, by = 0.1),
+    labels = scales::label_number(accuracy = 0.1)) +
+  scale_y_discrete(labels = setNames(
+      str_to_sentence(techs$technique),
+      techs$abb_technique)) +
+  scale_fill_manual(values = technique_colors,
+    drop = FALSE) +
+  labs(title = "Efficacy (Probability of Success)",
+    subtitle = paste(
+      "Dots represent posterior probability mass;",
+      "points and intervals show medians and 66%/95% credible intervals"),
+    x = "Expected probability of success",
+    y = "Main processing technique",
+    fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
+#### Bar with points - Efficacy -------------------------------------------------------------
+
+# Individual-level success predictions by technique 
+individuals <- seq_single_s %>% filter(!is.na(video_unique_subject)) %>%
+  distinct(video_unique_subject) %>% pull(video_unique_subject)
+
+# Predict every technique for every individual
+indv_success_tech_newdata <- expand_grid(video_unique_subject = individuals,
+  main_technique = factor(techniques, levels = levels(seq_single_s$main_technique)))
+
+# Include individual varying intercepts but omit site effects
+indv_success_tech_draws <- posterior_epred(mjoint_suc_dur_tech, newdata = indv_success_tech_newdata,
+  resp = "success", re_formula = ~(1 | video_unique_subject))
+
+stopifnot(ncol(indv_success_tech_draws) == nrow(indv_success_tech_newdata))
+
+# One posterior-median probability per individual and technique
+indv_success_tech_summary <- indv_success_tech_newdata %>%
+  mutate(probability_success = apply(indv_success_tech_draws, 2, median))
+
+ggplot(all_summary_plot, aes(x = main_technique, y = probability_success, fill = main_technique)) +
+  geom_col(alpha = 0.60) +
+  # Individual posterior-median predictions
+  geom_jitter(data = indv_success_tech_summary,
+    aes(x = main_technique, y = probability_success, colour = main_technique),
+    inherit.aes = FALSE,
+    width = 0.18,
+    height = 0,
+    size = 2,
+    alpha = 0.60,
+    show.legend = FALSE) +
+  scale_y_continuous(limits = c(0, 1),
+    breaks = seq(0, 1, by = 0.1),
+    labels = scales::label_number(accuracy = 0.1)) +
+  scale_x_discrete(labels = setNames(
+      str_to_sentence(techs$technique),
+      techs$abb_technique),
+    drop = FALSE) +
+  scale_fill_manual(values = technique_colors,
+    drop = FALSE) +
+  scale_colour_manual(values = technique_colors,
+    drop = FALSE) +
+  labs(title = "Efficacy (Probability of Success)",
+    subtitle = paste(
+      "Bars show population-level posterior medians;",
+      "points show individual posterior medians at an average site"),
+    x = NULL,
+    y = "Predicted probability of success") +
+  theme_minimal(base_size = 12) +
+  theme(legend.position = "none",
+    axis.text.x = element_text(angle = 35, hjust = 1))
+
+
+### Halfeye - Integrated Efficiency -------------------------------------------------------------
 
 ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
                              fill = main_technique)) +
