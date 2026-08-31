@@ -61,15 +61,16 @@ seq_single_s <- read_csv("generated_data/eff_seq_single_proc_s.csv") %>%
     event_real_time_start = ymd_hms(event_real_time_start),
     event_real_time_stop = ymd_hms(event_real_time_stop))  
 
-## Load in previously fitted model if not adjusting model data -------------------------------------------------------------
-
-mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
-
 technique_colors <- c(bite_pull   = "#90A959",
                       bite_shell  = "#9766A3",
                       hit_surface = "#6494AA",
                       man_hands   = "#E9B872",
                       stone_pound = "#A63D40")
+
+# Load in previously fitted model if not adjusting model data -------------------------------------------------------------
+
+#mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
+
 
 # Joint Bernoulli-Gamma model -------------------------------------------------------------
 ## Info and setup -------------------------------------------------------------
@@ -140,7 +141,7 @@ mjoint_suc_dur_tech <- brm(
 #   control = list(
 #     adapt_delta = 0.99))
 
-saveRDS(mjoint_suc_dur_tech, file = "fitted_models/mjoint_suc_dur_tech.rds")
+# saveRDS(mjoint_suc_dur_tech, file = "fitted_models/mjoint_suc_dur_tech.rds")
 
 summary(mjoint_suc_dur_tech)
 
@@ -586,32 +587,6 @@ ggplot(success_draws_long, aes(x = probability_success, y = reorder(main_techniq
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 
-
-
-#### Dot plot - Efficacy -------------------------------------------------------------
-
-ggplot(success_draws_long,
-  aes(x = probability_success, y = reorder(main_technique, probability_success, FUN = median), fill = main_technique)) +
-  stat_dotsinterval(quantiles = 100,
-    .width = c(0.66, 0.95),
-    point_interval = median_qi) +
-  scale_x_continuous(limits = c(0, 1),
-    breaks = seq(0, 1, by = 0.1),
-    labels = scales::label_number(accuracy = 0.1)) +
-  scale_y_discrete(labels = setNames(
-      str_to_sentence(techs$technique),
-      techs$abb_technique)) +
-  scale_fill_manual(values = technique_colors,
-    drop = FALSE) +
-  labs(title = "Efficacy (Probability of Success)",
-    subtitle = paste(
-      "Dots represent posterior probability mass;",
-      "points and intervals show medians and 66%/95% credible intervals"),
-    x = "Expected probability of success",
-    y = "Main processing technique",
-    fill = NULL) +
-  theme_minimal(base_size = 14) +
-  theme(legend.position = "none")
 
 
 #### Bar with points - Efficacy -------------------------------------------------------------

@@ -11,8 +11,7 @@
 ## Batch processing events have a duration, # HC eaten, and qualitative presence of processing; there are no durations for processing  
 
 
-# A poisson GLM will be used with a covariate of offset exposure time
-# Exposure time (t) could be indicated in two different ways; we will test both and compare results
+# Duration could be indicated in two different ways; we will test both and compare results
    ## t = handling time; the full duration of handling HC for each sequence
       ### allows for comparison across single and batch processing sequences 
       ### each time may include a variable duration of non-HC-directed behaviors (i.e. HC in hand but no processing and/or Capuchin seemingly distracted)
@@ -58,22 +57,55 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
 # batch_processing_ids <- read_csv("generated_data/batch_processing_ids.csv") 
 # handling_HC_ids <- read_csv("generated_data/handling_HC_ids.csv") 
 
+# Dealing with flags ---------------------------------------------
+
+# Keep an untouched copy for auditing
+handling_HC_events_raw <- handling_HC_events
+
+# Identify sequences whose parent event has the Etna flag
+etna_sequence_ids <- handling_HC_events_raw %>%
+  filter(event == "handling HC",
+    str_to_lower(str_squish(coalesce(flag, ""))) == "flag - etna"
+  ) %>%
+  distinct(sequence_id)
+
+# Remove every event belonging to those sequences
+handling_HC_events <- handling_HC_events_raw %>%
+  anti_join(etna_sequence_ids, by = "sequence_id")
+
+# Checks:
+# Number of excluded sequences
+nrow(etna_sequence_ids)
+
+# Should return zero
+handling_HC_events %>%
+  semi_join(etna_sequence_ids, by = "sequence_id") %>%
+  nrow()
+
+# Inspect what was excluded
+excluded_etna_events <- handling_HC_events_raw %>%
+  semi_join(etna_sequence_ids, by = "sequence_id")
+
+# To summarize: All sequences who's parent's handling HC event was flagged with ETNA (end time not actual) was removed,
+# as these sequences have an unknown success status and should not be interpreted as failed attempts
+# All events contained in this parent event's sequence were removed
+# Note: Other flags, such as STNA (start time not exact) and limited visibility are still included
+# Note: Individual events that have ETNA, but who's parent handling HC did not, remain in the data 
+
+
   # Grouping point processing events to have a pseudo-duration -------------------------------------------------------------
   
   # Creating a dataframe containing only handling sequence point-processing events
   point_processing_events <- handling_HC_events %>%
-    filter(
-      event %in% c(
+    filter(event %in% c(
         "hit/pound on surface",
         "pound with hammerstone",
-        "hammerstone grab"
-      ),
+        "hammerstone grab"),
       !is.na(sequence_id),
-      str_starts(sequence_id, "H")
-    )
+      str_starts(sequence_id, "H"))
   
   # Establish the order of every handling sequence, including sequences that contain no point-processing events
-  handling_sequence_order <- all_arenas %>%
+  handling_sequence_order <- handling_HC_events %>%
     filter(event == "handling HC") %>%
     distinct(sequence_id) %>%
     mutate(
@@ -88,53 +120,33 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
     mutate(
       sequence_id = factor(
         sequence_id,
-        levels = handling_sequence_order
-      )
-    )
+        levels = handling_sequence_order))
   
   # Creating a visual of each sequence's point processing events in time 
   # Visual will aid in creating the parameters for creating a pseudo-duration 
-  ggplot(
-    point_processing_events,
-    aes(
-      x = sequence_id,
-      y = start_s,
-      color = event
-    )
-  ) +
-    geom_point(
-      shape = 95,
-      size = 9,
-      alpha = 0.7
-    ) +
-    scale_y_continuous(
-      breaks = seq(0, 135, by = 5),
-      expand = expansion(mult = c(0, 0.02))
-    ) +
+  ggplot(point_processing_events,
+    aes(x = sequence_id, y = start_s, color = event)) +
+    geom_point(shape = 95,
+      size = 7,
+      alpha = 0.7) +
+    scale_y_continuous(breaks = seq(0, 135, by = 5),
+      expand = expansion(mult = c(0, 0.02))) +
     coord_cartesian(ylim = c(0, 135)) +
-    scale_color_manual(
-      values = c(
-        "hit/pound on surface" = "#2878B5",
-        "pound with hammerstone" = "#D95319",
-        "hammerstone grab" = "#d9193f"
-      )
-    ) +
-    labs(
-      x = "Handling sequence",
+    scale_color_manual(values = c(
+        "hit/pound on surface" = "#6494AA",
+        "pound with hammerstone" = "#A63D40",
+        "hammerstone grab" = "#d9193f")) +
+    labs(x = "Handling sequence",
       y = "Start time (seconds)",
-      color = "Point-processing event"
-    ) +
+      color = "Point-processing event") +
     theme_minimal() +
-    theme(
-      panel.grid.major.x = element_blank(),
+    theme(panel.grid.major.x = element_blank(),
       axis.text.x = element_text(
         angle = 90,
         hjust = 1,
         vjust = 0.5,
-        size = 5
-      ),
-      legend.position = "top"
-    )
+        size = 5),
+      legend.position = "top")
   
   # As seen in the produced visual, it is common for these point events to occur in a series over a relatively short period of time 
   
@@ -194,8 +206,8 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
         sum(points_contained)
     ) %>%
     pull(average_duration_per_hit_s)
-  
-  mean_duration_per_hit <- 0.5 # Overriding the above code to test out a uniform assignment 
+  mean_duration_per_hit
+  mean_duration_per_hit <- 0.5 # Overriding the above code to instead use a uniform assignment 
   
   # If a group contains only 1 hit because it occurred alone in time, it is assigned a duration of mean_duration_per_hit
   grouped_hit_events <- grouped_hit_events %>%
@@ -261,8 +273,8 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
         sum(duration_s) /
         sum(points_contained)) %>%
     pull(average_duration_per_pound_s)
-  
-  mean_duration_per_pound <- 0.5 # Overriding the above code to test out a uniform assignment 
+  mean_duration_per_pound
+  mean_duration_per_pound <- 0.5 # Overriding the above code to instead use a uniform assignment 
   
   # If NaN is returned, check to see if any groups have more than 1 point 
   # grouped_hammerstone_events %>% filter(points_contained > 1)
@@ -365,16 +377,6 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
         duration_s = NA_real_)) %>%
     arrange(sequence_id,
       group_start_s)
-  
-  
-  #
-  #
-  # !!! Note, at the time this was written, only 2 groups contained >1 pounds; in effect, mean_duration_per_pound is significantly
-  # !!! less informed compared to mean_duration_per_hit
-  # !!! If the addition of more coded videos does NOT result in many more >1 pound groups, then consider a different method for
-  # !!! choosing a single pound duration value
-  #
-  #
   
   
   # If a group contains only 1 pound and no grab, it is assigned a duration of mean_duration_per_pound
@@ -535,8 +537,7 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
       occurence_eat = NA_integer_,
       success = NA_real_,
       comments = NA_character_,
-      flags = NA_character_
-    )
+      flags = NA_character_)
   
   # Creating a function to fill the placeholders with the sequence's total duration of specific events
   fill_event_duration <- function(
@@ -545,9 +546,7 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
       event_name,
       output_column,
       id_columns = "sequence_id"
-  ) {
-    
-    event_totals <- event_data %>%
+  ) {event_totals <- event_data %>%
       filter(event == event_name) %>%
       group_by(across(all_of(id_columns))) %>%
       summarise(
@@ -556,9 +555,7 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
         } else {
           sum(duration_s, na.rm = TRUE)
         },
-        .groups = "drop"
-      )
-    
+        .groups = "drop")
     seq_data %>%
       left_join(event_totals, by = id_columns) %>%
       mutate("{output_column}" := .event_duration) %>%
@@ -570,91 +567,77 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
     seq_data = seq_sum_single,
     event_data = handling_HC_events,
     event_name = "bucket inspection",
-    output_column = "bucket_inspect_duration_s"
-  )
+    output_column = "bucket_inspect_duration_s")
   
   # Filling in sequence summary column smells_hc_duration_s with per sequence total duration of smells HC 
   seq_sum_single <- fill_event_duration(
     seq_data = seq_sum_single,
     event_data = handling_HC_events,
     event_name = "smells held HC",
-    output_column = "smells_hc_duration_s"
-  )
+    output_column = "smells_hc_duration_s")
   
   # Filling in sequence summary column man_hands_duration_s with per sequence total duration of manipulate with hands
   seq_sum_single <- fill_event_duration(
     seq_data = seq_sum_single,
     event_data = handling_HC_events,
     event_name = "manipulate with hand(s)",
-    output_column = "man_hands_duration_s"
-  )
+    output_column = "man_hands_duration_s")
   
   # Bite shell is also a point event; assigning a pseudoduration of 1 second for each bite shell event
   bite_shell_events <- handling_HC_events %>%
     filter(event == "bite shell") %>%
     mutate(
-      duration_s = 1
-    )
+      duration_s = 1)
+  
   # Filling in sequence summary column bite_shell_duration_s with per sequence total duration of bite shell
   seq_sum_single <- fill_event_duration(
     seq_data = seq_sum_single,
     event_data = bite_shell_events,
     event_name = "bite shell",
-    output_column = "bite_shell_duration_s"
-  )
+    output_column = "bite_shell_duration_s")
   
   # Filling in sequence summary column bite_pull_duration_s with per sequence total duration of bite and pull with teeth
   seq_sum_single <- fill_event_duration(
     seq_data = seq_sum_single,
     event_data = handling_HC_events,
     event_name = "bite and pull with teeth",
-    output_column = "bite_pull_duration_s"
-  )
+    output_column = "bite_pull_duration_s")
   
   # Filling in sequence summary column roll_scrub_duration_s with per sequence total duration of roll/scrub on surface
   seq_sum_single <- fill_event_duration(
     seq_data = seq_sum_single,
     event_data = handling_HC_events,
     event_name = "roll/scrub on surface",
-    output_column = "roll_scrub_duration_s"
-  )
+    output_column = "roll_scrub_duration_s")
   
   # Filling in sequence summary column hit_surface_duration_s with per sequence total pseudo-duration of hits on surface
   seq_sum_single <- fill_event_duration(
     seq_data = seq_sum_single,
     event_data = grouped_hit_events,
     event_name = "hit/pound on surface",
-    output_column = "hit_surface_duration_s"
-  )
+    output_column = "hit_surface_duration_s")
   
   # Filling in sequence summary column pound_stone_duration_s with per sequence total pseudo-duration of hammerstone pounds
   seq_sum_single <- fill_event_duration(
     seq_data = seq_sum_single,
     event_data = grouped_hammerstone_events,
     event_name = "pound with hammerstone",
-    output_column = "pound_stone_duration_s"
-  )
+    output_column = "pound_stone_duration_s")
   
   
   # Now, all individuals events have been assigned a total duration per sequence, or NA if they did not occur
   
   # Totaling the duration of all processing events per sequence 
   seq_sum_single <- seq_sum_single %>%
-    mutate(
-      total_process_duration_s = rowSums(
+    mutate(total_process_duration_s = rowSums(
         across(
-          c(
-            man_hands_duration_s,
+          c(man_hands_duration_s,
             bite_shell_duration_s,
             bite_pull_duration_s,
             roll_scrub_duration_s,
             hit_surface_duration_s,
-            pound_stone_duration_s
-          )
-        ),
-        na.rm = TRUE
-      )
-    )
+            pound_stone_duration_s)),
+        na.rm = TRUE))
   
   # Filling in occurence_eat with the number of times the "eat HC" event was coded for each sequence 
   # Count "eats HC" events within each sequence
@@ -674,77 +657,46 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
   # Success is defined as at least 1 occurance of "eats HC" within the sequence
   seq_sum_single <- seq_sum_single %>%
     mutate(
-      success = if_else(occurence_eat >= 1, 1L, 0L)
-    )
+      success = if_else(occurence_eat >= 1, 1L, 0L))
   
   # Adding in all comments pertaining to a sequence
   # First combining all comment_1 and comment_2 entries within each handling sequence
   sequence_comments <- handling_HC_events %>%
-    select(
-      sequence_id,
+    select(sequence_id,
       comment_1,
-      comment_2
-    ) %>%
-    pivot_longer(
-      cols = c(comment_1, comment_2),
+      comment_2) %>%
+    pivot_longer(cols = c(comment_1, comment_2),
       names_to = "comment_column",
-      values_to = "comment"
-    ) %>%
-    mutate(
-      comment = str_trim(comment)
-    ) %>%
-    filter(
-      !is.na(comment),
-      comment != ""
-    ) %>%
+      values_to = "comment") %>%
+    mutate(comment = str_trim(comment)) %>%
+    filter(!is.na(comment), comment != "") %>%
     group_by(sequence_id) %>%
-    summarise(
-      comments = paste(
-        comment,
-        collapse = "; "
-      ),
-      .groups = "drop"
-    )
+    summarise(comments = paste(comment, collapse = "; "),
+      .groups = "drop")
   
   # Adding the combined comments to seq_sum_single
   seq_sum_single <- seq_sum_single %>%
     select(-comments) %>%
     left_join(
       sequence_comments,
-      by = "sequence_id"
-    )
+      by = "sequence_id")
   
   # Adding in all flags pertaining to a sequence
   # First combining all flag entries within each handling sequence
   sequence_flags <- handling_HC_events %>%
-    select(
-      sequence_id,
-      flag
-    ) %>%
-    mutate(
-      flag = str_trim(flag)
-    ) %>%
-    filter(
-      !is.na(flag),
-      flag != ""
-    ) %>%
+    select(sequence_id, flag) %>%
+    mutate(flag = str_trim(flag)) %>%
+    filter(!is.na(flag), flag != "") %>%
     group_by(sequence_id) %>%
-    summarise(
-      flags = paste(
-        flag,
-        collapse = "; "
-      ),
-      .groups = "drop"
-    )
+    summarise(flags = paste(flag, collapse = "; "),
+      .groups = "drop")
   
   # Adding the combined flags to seq_sum_single
   seq_sum_single <- seq_sum_single %>%
     select(-flags) %>%
     left_join(
       sequence_flags,
-      by = "sequence_id"
-    )
-  
+      by = "sequence_id")
   
   
   # Creating summaries for each unique batch processing sequence -------------------------------------------------------------
@@ -779,73 +731,58 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
       total_HC_eaten = modifier_2,
       techniques = modifier_4,
       comments = NA_character_,
-      flags = NA_character_
-    )
+      flags = NA_character_)
   
   # Removing "HC" from qualitative results columns
   seq_sum_batch <- seq_sum_batch %>%
-    mutate(
-      across(
+    mutate(across(
         c(total_HC_handled, total_HC_processed, total_HC_eaten),
         ~ if_else(
           .x == "multiple",
           .x,
-          str_trim(str_remove_all(.x, regex("HC", ignore_case = TRUE)))
-        )
-      )
-    )
+          str_trim(str_remove_all(.x, regex("HC", ignore_case = TRUE))))))
   
   # Filling in sequence summary column two_HC_duration_s with per sequence total duration of 2 HCs held
   seq_sum_batch <- fill_event_duration(
     seq_data = seq_sum_batch,
     event_data = batch_processing_events,
     event_name = "2HC in batch processing",
-    output_column = "two_HC_duration_s"
-  )
+    output_column = "two_HC_duration_s")
   
   # Filling in sequence summary column three_HC_duration_s with per sequence total duration of 3 HCs held
   seq_sum_batch <- fill_event_duration(
     seq_data = seq_sum_batch,
     event_data = batch_processing_events,
     event_name = "3HC in batch processing",
-    output_column = "three_HC_duration_s"
-  )
+    output_column = "three_HC_duration_s")
   
   # Filling in sequence summary column four_HC_duration_s with per sequence total duration of 4 HCs held
   seq_sum_batch <- fill_event_duration(
     seq_data = seq_sum_batch,
     event_data = batch_processing_events,
     event_name = "4HC in batch processing",
-    output_column = "four_HC_duration_s"
-  )
+    output_column = "four_HC_duration_s")
   
   # Filling in sequence summary column smells_hc_duration_s with per sequence total duration of smells HC
   seq_sum_batch <- fill_event_duration(
     seq_data = seq_sum_batch,
     event_data = batch_processing_events,
     event_name = "smells held HC",
-    output_column = "smells_hc_duration_s"
-  )
+    output_column = "smells_hc_duration_s")
   
   # Filling in sequence summary column bucket_inspect_duration_s with per sequence total duration of bucket inspection
   seq_sum_batch <- fill_event_duration(
     seq_data = seq_sum_batch,
     event_data = batch_processing_events,
     event_name = "bucket inspection",
-    output_column = "bucket_inspect_duration_s"
-  )
+    output_column = "bucket_inspect_duration_s")
   
   # Filling in sequence summary column bucket_rummage_duration_s with per sequence total duration of bucket rummaging
   seq_sum_batch <- fill_event_duration(
     seq_data = seq_sum_batch,
     event_data = batch_processing_events,
     event_name = "bucket rummaging",
-    output_column = "bucket_rummage_duration_s"
-  )
-  
-  
-  
-  
+    output_column = "bucket_rummage_duration_s")
   
   
   
@@ -875,16 +812,14 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
         comment,
         collapse = "; "
       ),
-      .groups = "drop"
-    )
+      .groups = "drop")
   
   # Adding the combined comments to seq_sum_single
   seq_sum_batch <- seq_sum_batch %>%
     select(-comments) %>%
     left_join(
       batch_sequence_comments,
-      by = "sequence_id"
-    )
+      by = "sequence_id")
   
   # Adding in all flags pertaining to a sequence
   # First combining all flag entries within each batch processing sequence
@@ -906,16 +841,14 @@ handling_HC_events <- read.csv("generated_data/handling_HC_events.csv") %>%
         flag,
         collapse = "; "
       ),
-      .groups = "drop"
-    )
+      .groups = "drop")
   
   # Adding the combined flags to seq_sum_single
   seq_sum_batch <- seq_sum_batch %>%
     select(-flags) %>%
     left_join(
       batch_sequence_flags,
-      by = "sequence_id"
-    )
+      by = "sequence_id")
   
   
   
@@ -1024,18 +957,14 @@ seq_all_s <- bind_rows(
   seq_all_s,
   seq_single_hand_s %>%
     select(
-      any_of(names(seq_all_s))
-    )
-)
+      any_of(names(seq_all_s))))
 
 # Filling in values from batch sequences
 seq_all_s <- bind_rows(
   seq_all_s,
   seq_batch_hand_s %>%
     select(
-      any_of(names(seq_all_s))
-    )
-)
+      any_of(names(seq_all_s))))
 
 # Filling in 1 for all single sequence's total_HC_handled variable 
 seq_all_s <- seq_all_s %>%
@@ -1074,9 +1003,7 @@ seq_all_s <- seq_all_s %>%
       # All other batch sequences are unsuccessful
       str_starts(sequence_id, "B") ~ 0L,
       # Handling-sequence values remain unchanged
-      TRUE ~ success
-    )
-  )
+      TRUE ~ success))
 
 
 # Converting all duration columns from seconds into minutes  -------------------------------------------------------------
