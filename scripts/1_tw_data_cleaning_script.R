@@ -990,36 +990,62 @@ arenas <- arenas %>%
 
 # Assigning age/sex class and creating unique IDs -------------------------------------------------------------
 
-#Adding age_sex column to the right of subject
+# Add age_sex, age, and sex columns after subject
 arenas <- arenas %>%
   mutate(
-    age_sex = NA_character_
+    age_sex = NA_character_,
+    age = NA_character_,
+    sex = NA_character_
   ) %>%
-  relocate(age_sex, .after = subject)
+  relocate(age_sex, age, sex, .after = subject)
 
-#Filling age_sex for placeholder category subjects
+# Checking unique placeholder category subjects (unnamed subjects)
+arenas %>%
+  filter(str_detect(subject, " #\\d+$")) %>%
+  distinct(subject) %>%
+  arrange(subject)
+
+# Filling age_sex, age, and sex for unnamed placeholder subjects
 arenas <- arenas %>%
   mutate(
-    age_sex = case_when(
-      str_detect(subject, "#\\d+$") ~ str_remove(subject, " #\\d+$"),
-      TRUE ~ age_sex
-    )
-  )
+    # For example, "adult female #2" becomes "adult female"
+    placeholder_category = case_when(
+      str_detect(subject, " #\\d+$") ~ str_remove(subject, " #\\d+$"), TRUE ~ NA_character_),
+    # Retain the original combined category
+    age_sex = coalesce(age_sex, placeholder_category),
+    # Extract the age category
+    age = case_when(
+      placeholder_category %in% c("adult male", "adult female") ~ "adult",
+      placeholder_category %in% c("subadult male", "subadult female") ~ "subadult",
+      placeholder_category == "juvenile" ~ "juvenile",
+      placeholder_category == "non-adult" ~ "non-adult",
+      placeholder_category %in% c("unknown male", "unknown female", "unknown") ~ "unknown",
+      TRUE ~ age),
+    # Extract the sex category
+    sex = case_when(
+      placeholder_category %in% c("adult male", "subadult male", "unknown male") ~ "male",
+      placeholder_category %in% c("adult female", "subadult female", "unknown female") ~ "female",
+      placeholder_category %in% c("juvenile", "non-adult", "unknown") ~ "unknown",
+      TRUE ~ sex)) %>%
+  select(-placeholder_category)
 
 # load csv files with age/sex of named individuals
 age_sex_named_subjects <- read_excel("raw_data/age_sex_named_subjects.xlsx")  
 
-#Adding age/sex info for named subjects into arenas
+# Add age_sex, age, and sex information for named subjects
 arenas <- arenas %>%
   left_join(
     age_sex_named_subjects %>%
-      select(subject_name, age_sex_named = age_sex),
-    by = c("subject" = "subject_name")
-  ) %>%
-  mutate(
-    age_sex = coalesce(age_sex, age_sex_named)
-  ) %>%
-  select(-age_sex_named)
+      select(
+        subject_name,
+        age_sex_named = age_sex,
+        age_named = age,
+        sex_named = sex),
+    by = c("subject" = "subject_name")) %>%
+  mutate(age_sex = coalesce(age_sex, age_sex_named),
+    age = coalesce(age, age_named),
+    sex = coalesce(sex, sex_named)) %>%
+  select(-age_sex_named, -age_named, -sex_named)
 
 
 #Creating video_unique_subject so age/sex subjects become unique across videos
@@ -1094,9 +1120,7 @@ arenas <- arenas %>%
       str_detect(subject, "#\\d+$"),
       NA_character_,
       subject,
-      missing = subject
-    )
-  )
+      missing = subject))
 
 
 # To summarize:
