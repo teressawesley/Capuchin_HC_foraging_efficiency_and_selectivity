@@ -25,6 +25,7 @@ library(cmdstanr)
 library(emmeans)
 library(patchwork)
 library(tidyverse)
+library(scales)
 
 # This is more than is needed - clean later =)
 
@@ -53,6 +54,11 @@ age_sex_colours <- c(
   "juvenile" = "#F1BB87",
   "non-adult" = "#ECA15B")
 
+age_colours <- c(
+  "adult" = "#3C4733",
+  "subadult" = "#8A9A57",
+  "juvenile" = "#DBEFA9")
+
 # Load in previously fitted model(s) if not adjusting model data -------------------------------------------------------------
 
 mcat_prob_tech_site_indv <- readRDS("fitted_models/mcat_prob_tech_site_indv.rds")
@@ -60,6 +66,8 @@ mcat_prob_tech_site_indv <- readRDS("fitted_models/mcat_prob_tech_site_indv.rds"
 mcat_prob_tech_age_sex <- readRDS("fitted_models/mcat_prob_tech_age_sex.rds")
 
 mbern_success_site_indv <- readRDS("fitted_models/mbern_success_site_indv.rds")
+
+mbern_success_age_sex <- readRDS("fitted_models/mbern_success_age_sex.rds")
 
 #! Probability of main technique...-------------------------------------------------------------
 
@@ -1091,5 +1099,8 @@ plot_sequence_time_site <- ggplot(sequence_time_summary, aes(x = arena_site, y =
     legend.position = "right")
 
 plot_sequence_time_site
+
+
+
 
 
