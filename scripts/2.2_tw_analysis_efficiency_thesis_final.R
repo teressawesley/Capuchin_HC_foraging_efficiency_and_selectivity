@@ -7,13 +7,11 @@
 ## A variety of processing events can occur during a handling HC sequence
 ## State processing events(duration): bite and pull with teeth, manipulate with hands, roll/scrub on surface
 ## Point processing events(no duration): hit/pound on surface, pound with hammerstone, (hammerstone grab)
-## Batch processing is also a main event; It will also contain variable amounts of time without processing or HC-directed behavior
-## Batch processing events have a duration, # HC eaten, and qualitative presence of processing; there are no durations for processing  
 
 # Successful sequences (containing eats HC) are indicated by a value of 1 in success column of seq_sum_single
 
-# Variables for single sequence, t = processing time analysis --- variables for single+batch, t = handling time analysis
-# success = ??? total_HC_eaten
+# Variables for single sequence, t = processing time analysis 
+# success = >0 total_HC_eaten
 # total_process_duration_m = seq_duration_m
 # tool_use = tool_use
 # video_unique_subject = video_unique_subject
@@ -70,6 +68,7 @@ technique_colors <- c(bite_pull   = "#90A959",
 # Load in previously fitted model if not adjusting model data -------------------------------------------------------------
 
 #mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
+#mjoint_suc_dur_tech_prior <- readRDS("fitted_models/mjoint_suc_dur_tech_prior.rds")
 
 
 # Joint Bernoulli-Gamma model -------------------------------------------------------------
@@ -115,16 +114,68 @@ duration_formula <- bf(
 # Without these, the model does not estimate correlation between indv/site success and duration effects
 
 
+## Priors and prior predictive checks ---------------------------------------------------
+
+efficiency_priors <- c(
+# Bernoulli component 
+  # Typical success probability on the log-odds scale
+  prior(normal(0, 1), class = "Intercept", resp = "success"),
+  # Technique effects on success
+  prior(normal(0, 0.75), class = "b", resp = "success"),
+  # Individual variation in success
+  prior(normal(0, 0.75), class = "sd", group = "video_unique_subject", resp = "success"),
+  # Site variation in success
+  prior(normal(0, 0.5), class = "sd", group = "arena_site", resp = "success"),
+# Gamma duration component 
+  # Typical duration on the log-seconds scale
+  prior(normal(log(5), 0.7), class = "Intercept", resp = "duration"),
+  # Technique, success and technique × success effects
+  prior(normal(0, 0.5), class = "b", resp = "duration"),
+  # Individual variation in duration
+  prior(normal(0, 0.5), class = "sd", group = "video_unique_subject", resp = "duration"),
+  # Site variation in duration
+  prior(normal(0, 0.3), class = "sd", group = "arena_site", resp = "duration"),
+  # Gamma shape parameter
+  prior(lognormal(0, 0.5), class = "shape", resp = "duration"),
+# Joint-model correlation 
+  # Correlation between individual success and duration effects
+  prior(lkj(2), class = "cor", group = "video_unique_subject"))
+
+# Running prior predictive model 
+mjoint_prior_only <- brm(
+  success_formula +
+    duration_formula +
+    set_rescor(FALSE),
+  data = seq_single_s,
+  prior = efficiency_priors,
+  sample_prior = "only",
+  chains = 4,
+  cores = 4,
+  backend = "rstan",
+  seed = 123)
+pp_check(mjoint_prior_only, resp = "success", type = "bars", ndraws = 50)
+pp_check(mjoint_prior_only, resp = "success", type = "stat", stat = "mean")
+pp_check(mjoint_prior_only, resp = "success", type = "bars_grouped", group = "main_technique", ndraws = 100)
+duration_yrep <- posterior_predict(mjoint_prior_only, resp = "duration", ndraws = 100)
+quantile(duration_yrep, c(0, 0.001, 0.01, 0.5, 0.95, 0.99, 0.999, 1))
+bayesplot::ppc_dens_overlay(y = log10(mjoint_prior_only$data$duration), yrep = log10(duration_yrep))
+
 ## Fit both outcomes jointly -------------------------------------------------------------
+
 mjoint_suc_dur_tech <- brm(
   success_formula + duration_formula
   + set_rescor(FALSE), #says not to estimate an additional correlation between remaining obs-level errors of the two outcomes
   data = seq_single_s,
+  prior = efficiency_priors,
   chains = 4,
   cores = 4,
   iter = 2000,
   backend = "cmdstanr",
+  control = list(adapt_delta = 0.99),
   seed = 123)
+
+mjoint_suc_dur_tech_prior <- mjoint_suc_dur_tech
+# saveRDS(mjoint_suc_dur_tech_prior, file = "fitted_models/mjoint_suc_dur_tech_prior.rds")
 
 # Model with increased iterations, smaller sampling steps, and increased trajectory limits 
 # to improve convergence and reduce divergent transitions
@@ -146,6 +197,18 @@ mjoint_suc_dur_tech <- brm(
 summary(mjoint_suc_dur_tech)
 
 #plot(mjoint_suc_dur_tech)
+
+pp_check(mjoint_suc_dur_tech, resp = "success", type = "bars_grouped", group = "main_technique", ndraws = 100)
+
+duration_yrep_post <- posterior_predict(mjoint_suc_dur_tech, resp = "duration", ndraws = 500)
+bayesplot::ppc_dens_overlay(y = log10(mjoint_suc_dur_tech$data$duration), yrep = log10(duration_yrep_post))
+
+c(below_0.5 = mean(duration_yrep_post < 0.5), above_80 = mean(duration_yrep_post > 80), above_300 = mean(duration_yrep_post > 300))
+
+pp_check(mjoint_suc_dur_tech, resp = "duration", type = "dens_overlay_grouped", group = "main_technique", ndraws = 50)
+
+pp_check(mjoint_suc_dur_tech, resp = "duration", type = "dens_overlay_grouped", group = "success", ndraws = 50)
+
 
 ## Extracting posterior predictions  -------------------------------------------------------------
 ### Success probability  -------------------------------------------------------------

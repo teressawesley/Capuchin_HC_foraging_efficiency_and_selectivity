@@ -1,0 +1,14 @@
+prior predictive success dataset means
+      2.5%        25%        50%        75%      97.5% 
+0.06428571 0.29285714 0.48928571 0.69285714 0.92857143 
+duration dataset medians sec
+      2.5%        25%        50%        75%      97.5% 
+ 0.1798839  1.2788946  2.8849009  6.0572577 28.1575008 
+duration dataset maxima sec
+       2.5%         25%         50%         75%       97.5% 
+   10.99145    56.09086   151.53126   575.67030 42652.33610 
+fraction durations  sec across datasets
+      2.5%        25%        50%        75%      97.5% 
+0.00000000 0.00000000 0.02857143 0.10714286 0.33571429 
+P(all or nearly all same success)= 0.027 
+P(dataset max duration  sec)= 0.167 
