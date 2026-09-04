@@ -36,6 +36,8 @@ library(emmeans)
 library(patchwork)
 library(tidyverse)
 library(ggnewscale)
+library(posterior)
+library(gt)
 
 techs <- read_csv("raw_data/processing_techniques.csv")
 
@@ -69,7 +71,7 @@ technique_colors <- c(bite_pull   = "#90A959",
 
 # Load in previously fitted model if not adjusting model data -------------------------------------------------------------
 
-#mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
+# mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
 
 
 # Joint Bernoulli-Gamma model -------------------------------------------------------------
@@ -147,7 +149,554 @@ summary(mjoint_suc_dur_tech)
 
 #plot(mjoint_suc_dur_tech)
 
-## Extracting posterior predictions  -------------------------------------------------------------
+## Reports and tables ---------------------------------------------------------------------
+
+summary(mjoint_suc_dur_tech)
+
+fixed_effects_report <- fixef(mjoint_suc_dur_tech, robust = TRUE, probs = c(0.025, 0.975))
+fixed_effects_report
+
+VarCorr(mjoint_suc_dur_tech, robust = TRUE, probs = c(0.025, 0.975))
+
+# Model-coefficiency table
+
+# Extract posterior draws for population-level coefficients
+coefficient_draws <- posterior::as_draws_df(mjoint_suc_dur_tech) %>%
+  select(starts_with("b_success_"), starts_with("b_duration_")) %>%
+  pivot_longer(cols = everything(), names_to = "parameter", values_to = "draw_value")
+
+# Summarize each posterior coefficient
+coefficient_summary <- coefficient_draws %>% group_by(parameter) %>%
+  summarise(link_median = median(draw_value), link_lower = quantile(draw_value, 0.025),
+    link_upper = quantile(draw_value, 0.975), .groups = "drop") %>%
+  mutate(component = case_when(str_starts(parameter, "b_success_") ~ "Success: Bernoulli-logit",
+      str_starts(parameter, "b_duration_") ~ "Duration: Gamma-log"),
+    term = parameter %>% str_remove("^b_success_") %>% str_remove("^b_duration_") %>%
+      str_replace("main_technique", "") %>% str_replace_all("_", " ") %>% str_replace(":", " × ") %>%
+      str_to_sentence(),
+    effect_measure = case_when(parameter == "b_success_Intercept" ~ "Probability",
+      parameter == "b_duration_Intercept" ~ "Seconds",
+      str_starts(parameter, "b_success_") ~ "Odds ratio",
+      str_starts(parameter, "b_duration_") ~ "Duration ratio"),
+    # Transform the estimates to interpretable scales
+    estimate = case_when(parameter == "b_success_Intercept" ~ plogis(link_median), TRUE ~ exp(link_median)),
+    lower_95_CrI = case_when(parameter == "b_success_Intercept" ~ plogis(link_lower), TRUE ~ exp(link_lower)),
+    upper_95_CrI = case_when(parameter == "b_success_Intercept" ~ plogis(link_upper), TRUE ~ exp(link_upper)))
+
+coefficient_table <- coefficient_summary %>%
+  select(Component = component, Term = term, `Effect measure` = effect_measure, `Posterior median` = estimate,
+    `Lower 95% CrI` = lower_95_CrI, `Upper 95% CrI` = upper_95_CrI, `Link-scale median` = link_median) %>%
+  gt(groupname_col = "Component") %>%
+  fmt_number(columns = c(`Posterior median`, `Lower 95% CrI`, `Upper 95% CrI`, `Link-scale median`),
+    decimals = 2) %>%
+  cols_label(Term = "Model term") %>%
+  tab_header(title = "Joint Bernoulli–Gamma Model Coefficients",
+    subtitle = paste("Posterior medians and 95% credible intervals;",
+      "stone pounding is the reference technique")) %>%
+  tab_source_note(source_note = paste(
+      "Bernoulli coefficients are transformed to odds ratios.",
+      "Gamma coefficients are transformed to duration ratios.")) %>%
+  tab_source_note(source_note = paste(
+      "Gamma main-technique effects compare unsuccessful attempts.",
+      "Technique × success terms are ratios of duration ratios."))
+
+coefficient_table
+
+# gtsave(coefficient_table, filename = "joint_model_coefficient_table.html")
+
+# Biological posterior-prediction table 
+# Note: must run success_summary, duration_summary, and integrated_efficiency_summary first
+
+# Technique-label lookup
+technique_labels <- setNames(str_to_sentence(techs$technique), techs$abb_technique)
+
+biological_summary <- success_summary %>% transmute(main_technique, success_probability = probability_success, 
+  success_lower = lower_95_CrI, success_upper = upper_95_CrI) %>%
+  left_join(duration_summary %>%  select(main_technique, failed_duration, failed_lower, failed_upper,
+        successful_duration, successful_lower, successful_upper),
+    by = "main_technique") %>%
+  left_join(integrated_efficiency_summary %>% transmute(main_technique, seconds_per_success = median_integrated_efficiency,
+        efficiency_lower = lower_95_CrI, efficiency_upper = upper_95_CrI),
+    by = "main_technique") %>%
+  mutate(Technique = unname(technique_labels[as.character(main_technique)]),
+    `Success probability` = sprintf("%.2f [%.2f, %.2f]", success_probability, success_lower, success_upper),
+    `Failed duration (s)` = sprintf("%.2f [%.2f, %.2f]", failed_duration, failed_lower, failed_upper),
+    `Successful duration (s)` = sprintf("%.2f [%.2f, %.2f]", successful_duration, successful_lower, successful_upper),
+    `Seconds per success` = sprintf("%.2f [%.2f, %.2f]", seconds_per_success, efficiency_lower, efficiency_upper)) %>%
+  arrange(seconds_per_success) %>%
+  select(Technique, `Success probability`, `Failed duration (s)`, `Successful duration (s)`, `Seconds per success`)
+
+biological_table <- biological_summary %>%
+  gt() %>%
+  tab_header(title = "Processing Performance by Technique",
+    subtitle = "Posterior median [95% credible interval]") %>%
+  tab_source_note(source_note = paste(
+      "Predictions are population-level estimates at zero-valued",
+      "individual and site effects.")) %>%
+  tab_source_note(source_note = paste(
+      "Lower seconds per success indicates greater",
+      "integrated processing efficiency."))
+
+biological_table
+
+# gtsave(biological_table, filename = "joint_biological_posterior_predictions.html")
+
+## Updated report -----------------------------------------
+
+# Parameter-focused table
+
+# Identify the model's reference technique
+reference_technique <- levels(seq_single_s$main_technique)[1]
+
+# Retrieve its long-form label from `techs`
+reference_technique_label <- str_to_sentence(techs$technique[match(reference_technique, techs$abb_technique)])
+
+parameter_draws <- posterior::as_draws_df(mjoint_suc_dur_tech) %>%
+  select(matches("^(b_success_|b_duration_|sd_|cor_|shape_duration$)")) %>%
+  pivot_longer(cols = everything(), names_to = "parameter", values_to = "draw_value")
+
+parameter_summary <- parameter_draws %>%
+  group_by(parameter) %>% summarise(
+    posterior_median = median(draw_value),
+    posterior_sd = sd(draw_value),
+    lower_95_CrI = quantile(draw_value, 0.025),
+    upper_95_CrI = quantile(draw_value, 0.975),
+    probability_above_zero = mean(draw_value > 0),
+    probability_below_zero = mean(draw_value < 0),
+    .groups = "drop") %>%
+  mutate(technique = str_match(parameter, "main_technique([^:]+)")[, 2],
+    # Use the existing long-form technique-label vector
+    technique_label = unname(technique_labels[technique]),
+    section = case_when(str_starts(parameter, "b_success_") ~ "A. Success model: population-level coefficients",
+      str_starts(parameter, "b_duration_") ~ "B. Duration model: population-level coefficients",
+      str_starts(parameter, "sd_video_unique_subject") ~ "C. Between-individual variation",
+      str_starts(parameter, "cor_video_unique_subject") ~ "C. Between-individual variation",
+      str_starts(parameter, "sd_arena_site") ~ "D. Between-site variation",
+      parameter == "shape_duration" ~ "E. Duration distribution",
+      TRUE ~ "Other parameters"),
+    model_parameter = case_when(parameter == "b_success_Intercept" ~ paste0("Success intercept (",
+          unname(technique_labels[["stone_pound"]]),")"),
+      str_detect(parameter, "^b_success_main_technique") ~ technique_label,
+      parameter == "b_duration_Intercept" ~ paste0("Duration intercept (",
+          unname(technique_labels[["stone_pound"]]), "; unsuccessful attempt)"),
+      parameter == "b_duration_success" ~ "Success outcome",
+      str_detect(parameter, "^b_duration_main_technique") &
+        !str_detect(parameter, ":success") ~ technique_label,
+      str_detect(parameter, ":success") ~ paste0(technique_label, " × success"),
+      str_detect(parameter, "^sd_video_unique_subject__success") ~ "Individual SD: success",
+      str_detect(parameter, "^sd_video_unique_subject__duration") ~ "Individual SD: duration",
+      str_detect(parameter, "^cor_video_unique_subject") ~ "Individual success–duration correlation",
+      str_detect(parameter, "^sd_arena_site__success") ~ "Site SD: success",
+      str_detect(parameter, "^sd_arena_site__duration") ~ "Site SD: duration",
+      parameter == "shape_duration" ~ "Gamma shape",
+      TRUE ~ parameter),
+    interpretation = case_when(parameter == "b_success_Intercept" ~ "Log-odds of success for stone pounding",
+      str_detect(parameter, "^b_success_main_technique") ~ paste0(technique_label, " minus stone pounding"),
+      parameter == "b_duration_Intercept" ~ "Expected log-duration of a failed stone-pounding attempt",
+      parameter == "b_duration_success" ~ paste("Successful minus failed attempts", "for stone pounding"),
+      str_detect(parameter, "^b_duration_main_technique") & !str_detect(parameter, ":success") ~
+        paste0(technique_label, " minus stone pounding among failed attempts"),
+      str_detect(parameter, ":success") ~ paste0("Additional success effect for ",
+          str_to_lower(technique_label), " relative to stone pounding"),
+      str_detect(parameter, "^sd_video_unique_subject__success") ~ "Between-individual variation in baseline success",
+      str_detect(parameter, "^sd_video_unique_subject__duration") ~ "Between-individual variation in baseline duration",
+      str_detect(parameter, "^cor_video_unique_subject") ~  paste("Association between individual deviations",
+          "in success and duration"),
+      str_detect(parameter, "^sd_arena_site__success") ~ "Between-site variation in baseline success",
+      str_detect(parameter, "^sd_arena_site__duration") ~ "Between-site variation in baseline duration",
+      parameter == "shape_duration" ~ "Shape of the conditional Gamma duration distribution",
+      TRUE ~ parameter),
+    parameter_scale = case_when(str_starts(parameter, "b_success_") ~ "Log-odds",
+      str_starts(parameter, "b_duration_") ~ "Log mean duration",
+      str_detect(parameter, "^sd_.*__success") ~ "Log-odds SD",
+      str_detect(parameter, "^sd_.*__duration") ~ "Log-duration SD",
+      str_starts(parameter, "cor_") ~ "Correlation",
+      parameter == "shape_duration" ~ "Positive",
+      TRUE ~ NA_character_),
+    report_direction = (str_starts(parameter, "b_") & !str_detect(parameter, "Intercept$")) | str_starts(parameter, "cor_"),
+    direction = case_when(!report_direction ~ NA_character_, posterior_median >= 0 ~ "> 0", posterior_median < 0 ~ "< 0"),
+    probability_direction = case_when(!report_direction ~ NA_real_, posterior_median >= 0 ~ probability_above_zero,
+      posterior_median < 0 ~ probability_below_zero),
+    credible_interval = sprintf("[%.2f, %.2f]", lower_95_CrI, upper_95_CrI))
+
+parameter_table <- parameter_summary %>%
+  select(Section = section,
+    Parameter = model_parameter,
+    `Posterior median` = posterior_median,
+    `95% CrI` = credible_interval,
+    `Posterior SD` = posterior_sd) %>%
+  arrange(Section) %>%
+  gt(groupname_col = "Section") %>%
+  fmt_number(columns = tidyselect::all_of(c(
+      "Posterior median",
+      "Posterior SD")),
+    decimals = 2) %>%
+  cols_align(align = "center",
+    columns = tidyselect::all_of(c(
+      "Posterior median",
+      "95% CrI",
+      "Posterior SD"))) %>%
+  cols_width(Parameter ~ pct(46),
+    `Posterior median` ~ pct(17),
+    `95% CrI` ~ pct(15),
+    `Posterior SD` ~ pct(15)) %>%
+  tab_spanner(label = "Posterior summary",
+    columns = tidyselect::all_of(c(
+      "Posterior median",
+      "95% CrI",
+      "Posterior SD"))) %>%
+  tab_header(title = "Parameters of the Joint Bernoulli–Gamma Model",
+    subtitle = paste("Posterior medians, 95% credible intervals,",
+      "and posterior standard deviations")) %>%
+  tab_source_note(source_note = paste(
+      "Success parameters are on the log-odds scale and duration",
+      "parameters on the log mean-duration scale; group-level SDs",
+      "use the corresponding scale.")) %>%
+  tab_source_note(source_note = paste(
+      "The individual success–duration correlation ranges from −1 to 1;",
+      "Gamma shape is positive and unitless. Posterior SD summarizes",
+      "uncertainty, whereas individual and site SD parameters summarize",
+      "between-group variation."))
+
+
+parameter_table
+
+# gtsave(parameter_table, filename = "joint_model_parameter_table.html")
+
+
+### With RHAT and Bulk ESS -------------------------------------------------------------------
+
+# Keep the complete draws object because Rhat and ESS require chain information
+model_draws <- posterior::as_draws_df(mjoint_suc_dur_tech)
+
+parameter_names <- names(model_draws)[
+  stringr::str_detect(
+    names(model_draws),
+    "^(b_success_|b_duration_|sd_|cor_|shape_duration$)"
+  )
+]
+
+# Long-form draws used for medians, SDs, and credible intervals
+parameter_draws <- model_draws %>%
+  select(all_of(parameter_names)) %>%
+  pivot_longer(
+    cols = everything(),
+    names_to = "parameter",
+    values_to = "draw_value"
+  )
+
+# Sampling diagnostics calculated while chain information is retained
+parameter_diagnostics <- posterior::summarise_draws(
+  posterior::subset_draws(
+    model_draws,
+    variable = parameter_names
+  ),
+  rhat = posterior::rhat,
+  bulk_ess = posterior::ess_bulk
+) %>%
+  as_tibble() %>%
+  select(
+    parameter = variable,
+    rhat,
+    bulk_ess
+  )
+
+parameter_summary <- parameter_draws %>%
+  group_by(parameter) %>%
+  summarise(
+    posterior_median = median(draw_value),
+    posterior_sd = sd(draw_value),
+    lower_95_CrI = quantile(draw_value, 0.025),
+    upper_95_CrI = quantile(draw_value, 0.975),
+    probability_above_zero = mean(draw_value > 0),
+    probability_below_zero = mean(draw_value < 0),
+    .groups = "drop"
+  ) %>%
+  left_join(
+    parameter_diagnostics,
+    by = "parameter"
+  ) %>%
+  mutate(
+    # Extract abbreviated technique name, where applicable
+    technique = str_match(
+      parameter,
+      "main_technique([^:]+)"
+    )[, 2],
+    
+    # Use the existing long-form technique-label vector
+    technique_label = unname(
+      technique_labels[technique]
+    ),
+    
+    section = case_when(
+      str_starts(parameter, "b_success_") ~
+        "A. Success model: population-level coefficients",
+      
+      str_starts(parameter, "b_duration_") ~
+        "B. Duration model: population-level coefficients",
+      
+      str_starts(parameter, "sd_video_unique_subject") ~
+        "C. Between-individual variation",
+      
+      str_starts(parameter, "cor_video_unique_subject") ~
+        "C. Between-individual variation",
+      
+      str_starts(parameter, "sd_arena_site") ~
+        "D. Between-site variation",
+      
+      parameter == "shape_duration" ~
+        "E. Duration distribution",
+      
+      TRUE ~ "Other parameters"
+    ),
+    
+    model_parameter = case_when(
+      parameter == "b_success_Intercept" ~
+        paste0(
+          "Success intercept (",
+          unname(technique_labels[["stone_pound"]]),
+          ")"
+        ),
+      
+      str_detect(parameter, "^b_success_main_technique") ~
+        technique_label,
+      
+      parameter == "b_duration_Intercept" ~
+        paste0(
+          "Duration intercept (",
+          unname(technique_labels[["stone_pound"]]),
+          "; unsuccessful attempt)"
+        ),
+      
+      parameter == "b_duration_success" ~
+        "Success outcome",
+      
+      str_detect(parameter, "^b_duration_main_technique") &
+        !str_detect(parameter, ":success") ~
+        technique_label,
+      
+      str_detect(parameter, ":success") ~
+        paste0(
+          technique_label,
+          " × success"
+        ),
+      
+      str_detect(parameter, "^sd_video_unique_subject__success") ~
+        "Individual SD: success",
+      
+      str_detect(parameter, "^sd_video_unique_subject__duration") ~
+        "Individual SD: duration",
+      
+      str_detect(parameter, "^cor_video_unique_subject") ~
+        "Individual success–duration correlation",
+      
+      str_detect(parameter, "^sd_arena_site__success") ~
+        "Site SD: success",
+      
+      str_detect(parameter, "^sd_arena_site__duration") ~
+        "Site SD: duration",
+      
+      parameter == "shape_duration" ~
+        "Gamma shape",
+      
+      TRUE ~ parameter
+    ),
+    
+    interpretation = case_when(
+      parameter == "b_success_Intercept" ~
+        "Log-odds of success for stone pounding",
+      
+      str_detect(parameter, "^b_success_main_technique") ~
+        paste0(
+          technique_label,
+          " minus stone pounding"
+        ),
+      
+      parameter == "b_duration_Intercept" ~
+        "Expected log-duration of a failed stone-pounding attempt",
+      
+      parameter == "b_duration_success" ~
+        paste(
+          "Successful minus failed attempts",
+          "for stone pounding"
+        ),
+      
+      str_detect(parameter, "^b_duration_main_technique") &
+        !str_detect(parameter, ":success") ~
+        paste0(
+          technique_label,
+          " minus stone pounding among failed attempts"
+        ),
+      
+      str_detect(parameter, ":success") ~
+        paste0(
+          "Additional success effect for ",
+          str_to_lower(technique_label),
+          " relative to stone pounding"
+        ),
+      
+      str_detect(parameter, "^sd_video_unique_subject__success") ~
+        "Between-individual variation in baseline success",
+      
+      str_detect(parameter, "^sd_video_unique_subject__duration") ~
+        "Between-individual variation in baseline duration",
+      
+      str_detect(parameter, "^cor_video_unique_subject") ~
+        paste(
+          "Association between individual deviations",
+          "in success and duration"
+        ),
+      
+      str_detect(parameter, "^sd_arena_site__success") ~
+        "Between-site variation in baseline success",
+      
+      str_detect(parameter, "^sd_arena_site__duration") ~
+        "Between-site variation in baseline duration",
+      
+      parameter == "shape_duration" ~
+        "Shape of the conditional Gamma duration distribution",
+      
+      TRUE ~ parameter
+    ),
+    
+    parameter_scale = case_when(
+      str_starts(parameter, "b_success_") ~
+        "Log-odds",
+      
+      str_starts(parameter, "b_duration_") ~
+        "Log mean duration",
+      
+      str_detect(parameter, "^sd_.*__success") ~
+        "Log-odds SD",
+      
+      str_detect(parameter, "^sd_.*__duration") ~
+        "Log-duration SD",
+      
+      str_starts(parameter, "cor_") ~
+        "Correlation",
+      
+      parameter == "shape_duration" ~
+        "Positive",
+      
+      TRUE ~ NA_character_
+    ),
+    
+    report_direction = (
+      str_starts(parameter, "b_") &
+        !str_detect(parameter, "Intercept$")
+    ) | str_starts(parameter, "cor_"),
+    
+    direction = case_when(
+      !report_direction ~ NA_character_,
+      posterior_median >= 0 ~ "> 0",
+      posterior_median < 0 ~ "< 0"
+    ),
+    
+    probability_direction = case_when(
+      !report_direction ~ NA_real_,
+      posterior_median >= 0 ~ probability_above_zero,
+      posterior_median < 0 ~ probability_below_zero
+    ),
+    
+    credible_interval = sprintf(
+      "[%.2f, %.2f]",
+      lower_95_CrI,
+      upper_95_CrI
+    )
+  )
+
+parameter_table <- parameter_summary %>%
+  select(
+    Section = section,
+    Parameter = model_parameter,
+    `Posterior median` = posterior_median,
+    `95% CrI` = credible_interval,
+    `Posterior SD` = posterior_sd,
+    Rhat = rhat,
+    `Bulk ESS` = bulk_ess
+  ) %>%
+  arrange(Section) %>%
+  gt(groupname_col = "Section") %>%
+  fmt_number(
+    columns = c(`Posterior median`, `Posterior SD`),
+    decimals = 2
+  ) %>%
+  fmt_number(
+    columns = Rhat,
+    decimals = 3
+  ) %>%
+  fmt_number(
+    columns = `Bulk ESS`,
+    decimals = 0,
+    use_seps = TRUE
+  ) %>%
+  cols_align(
+    align = "left",
+    columns = Parameter
+  ) %>%
+  cols_align(
+    align = "center",
+    columns = c(
+      `Posterior median`,
+      `95% CrI`,
+      `Posterior SD`,
+      Rhat,
+      `Bulk ESS`
+    )
+  ) %>%
+  cols_width(
+    Parameter ~ pct(38),
+    `Posterior median` ~ pct(14),
+    `95% CrI` ~ pct(16),
+    `Posterior SD` ~ pct(12),
+    Rhat ~ pct(8),
+    `Bulk ESS` ~ pct(12)
+  ) %>%
+  tab_spanner(
+    label = "Posterior summary",
+    columns = c(`Posterior median`, `95% CrI`, `Posterior SD`)
+  ) %>%
+  tab_spanner(
+    label = "Sampling diagnostics",
+    columns = c(Rhat, `Bulk ESS`)
+  ) %>%
+  
+  tab_header(
+    title = "Parameters of the Joint Bernoulli–Gamma Model",
+    subtitle = paste(
+      "Posterior medians, 95% credible intervals,",
+      "and posterior standard deviations"
+    )
+  ) %>%
+  
+  tab_source_note(
+    source_note = paste(
+      "Success parameters are on the log-odds scale and duration",
+      "parameters on the log mean-duration scale; group-level SDs",
+      "use the corresponding scale."
+    )
+  ) %>%
+  
+  tab_source_note(
+    source_note = paste(
+      "The individual success–duration correlation ranges from −1 to 1;",
+      "Gamma shape is positive and unitless. Posterior SD summarizes",
+      "uncertainty, whereas individual and site SD parameters summarize",
+      "between-group variation."
+    )
+  )
+
+
+parameter_table
+
+
+
+
+
+
+
+
+## Extracting posterior predictions:  -------------------------------------------------------------
 ### Success probability  -------------------------------------------------------------
 # Creating a vector with the main-technique levels included in the fitted models
 techniques <- levels(droplevels(seq_single_s$main_technique))
@@ -272,14 +821,13 @@ plot_success_variance_violin <- ggplot(success_variance_draws,
     guide = "none") +
   scale_x_continuous(breaks = seq(0, 0.25, by = 0.05)) +
   coord_cartesian(xlim = c(0, 0.255)) +
-  labs(title = "Consistency of Success Outcomes by Technique",
-    subtitle = paste(
-      "Violin shapes show posterior distributions;",
-      "points and intervals show medians and 66%/95% credible intervals"),
-    x = "Model-implied Bernoulli variance, p(1 − p)",
-    y = NULL,
-    caption = paste("Lower variance indicates more consistent outcomes.",
-      "Interpret variance alongside probability of success.")) +
+  labs(#title = "Consistency of Success Outcomes by Technique",
+    # subtitle = paste(
+    #   "Violin shapes show posterior distributions;",
+    #   "points and intervals show medians and 66%/95% credible intervals"),
+    x = paste0("Predicted variability in outcomes\n",
+      "(0 = most consistent; 0.25 = most variable)"),
+    y = "Main processing techinque") +
   theme_classic(base_size = 14) +
   theme(plot.title.position = "plot",
     plot.caption.position = "plot",
@@ -504,7 +1052,7 @@ plot_all_summary
 
 
 ## Plotting  -------------------------------------------------------------
-### Halfeye - Efficiency (Success Duration) -------------------------------------------------------------
+### ! Halfeye - Efficiency (Success Duration) -------------------------------------------------------------
 
 successful_duration_draws_long <- successful_duration_draws %>%
   as.data.frame() %>% setNames(techniques) %>%  mutate(.draw = row_number()) %>%
@@ -520,19 +1068,39 @@ ggplot(successful_duration_draws_long, aes(x = successful_duration_s, y = reorde
   scale_x_log10(labels = scales::label_number()) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
-  labs(title = "Efficiency (Success Duration)",
-       x = "Expected processing duration (seconds, log scale)",
+  labs(#title = "Efficiency (Success Duration)",
+       x = "Expected successful-attempt processing duration (log(seconds))",
        y = "Main processing technique",
        fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 
 
-### Halfeye - Inefficiency (Failure Duration) -------------------------------------------------------------
+### ! Halfeye - Inefficiency (Failure Duration) -------------------------------------------------------------
+
+failed_duration_draws_long <- failed_duration_draws %>%
+  as.data.frame() %>% setNames(techniques) %>% mutate(.draw = row_number()) %>%
+  pivot_longer(cols = -.draw, names_to = "main_technique", values_to = "failed_duration_s") %>%
+  mutate(main_technique = factor(main_technique, levels = techniques) )
+
+ggplot(failed_duration_draws_long, aes(x = failed_duration_s, y = reorder(main_technique, failed_duration_s, FUN = median), fill = main_technique)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+    point_interval = median_qi,
+    alpha = 0.8) +
+  scale_x_log10(labels = scales::label_number()) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
+  labs(x = "Expected failed-attempt duration (log(seconds))",
+    y = "Main processing technique",
+    fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+
 
 
 ### All plots - Efficacy (Probability of Success) -------------------------------------------------------------
-#### Halfeye - Efficacy -------------------------------------------------------------
+#### ! Halfeye - Efficacy -------------------------------------------------------------
 
 success_draws_long <- success_draws %>%
   as.data.frame() %>% setNames(techniques) %>%  mutate(.draw = row_number()) %>%
@@ -548,7 +1116,7 @@ ggplot(success_draws_long, aes(x = probability_success, y = reorder(main_techniq
   scale_x_continuous(limits = c(0, 1), breaks = seq(0, 1, by = 0.1), labels = scales::label_number(accuracy = 0.1)) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
-  labs(title = "Efficacy (Probability of Success)",
+  labs(# title = "Efficacy (Probability of Success)",
        x = "Expected probability of success",
        y = "Main processing technique",
        fill = NULL) +
@@ -642,7 +1210,7 @@ ggplot(all_summary_plot, aes(x = main_technique, y = probability_success, fill =
     axis.text.x = element_text(angle = 35, hjust = 1))
 
 
-### Halfeye - Integrated Efficiency -------------------------------------------------------------
+### ! Halfeye - Integrated Efficiency -------------------------------------------------------------
 
 ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
                              fill = main_technique)) +
@@ -652,9 +1220,9 @@ ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, y = reorder(mai
   scale_x_log10(labels = scales::label_number()) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
-  labs(title = "Integrated Efficiency",
-       subtitle = "Includes time spent on successful and failed attempts",
-       x = "expected sec per success (log scale)",
+  labs(#title = "Integrated Efficiency",
+       #subtitle = "Includes time spent on successful and failed attempts",
+       x = "Integrated expected time per success (log(seconds))",
        y = "Main processing technique",
        fill = NULL) +
   theme_minimal(base_size = 14) +
@@ -820,13 +1388,31 @@ plot_indv_success_duration <- ggplot(indv_tech_plot_data, aes(x = successful_dur
     breaks = c("50%", "80%"), 
     #"95%"),
     name = "Ellipse level") +
-  labs(title = "Individual Success and Duration Predictions by Technique",
-       subtitle = "Ellipses summarize individual posterior median predictions",
-       x = "Predicted successful-attempt duration (seconds)",
-       y = "Predicted probability of success",
+  labs(#title = "Individual Success and Duration Predictions by Technique",
+       #subtitle = "Ellipses summarize individual posterior median predictions",
+       x = paste0("Individual predicted successful-attempt processing duration\n",
+               "(seconds)"),
+       y = "Individual predicted probability of success",
        colour = "Main technique") +
+  guides(colour = guide_legend(
+      order = 1,
+      nrow = 1,
+      byrow = TRUE,
+      override.aes = list(
+        linetype = "blank",
+        alpha = 1)),
+    linetype = guide_legend(
+      order = 2,
+      nrow = 1,
+      byrow = TRUE,
+      override.aes = list(
+        colour = "grey25"))) +
   theme_classic(base_size = 14) +
-  theme(legend.position = "bottom")
+  theme(legend.position = "bottom",
+    legend.box = "vertical",
+    legend.box.just = "center")
+
+
 
 plot_indv_success_duration
 
@@ -871,17 +1457,31 @@ plot_indv_failure_duration <- ggplot(indv_tech_plot_data, aes(x = failed_duratio
       "80%" = "dashed"),
     breaks = c("50%", "80%"),
     name = "Ellipse level") +
-  labs(title = "Success Probability and Failed-Attempt Duration",
-    subtitle = "Ellipses summarize individual posterior median predictions",
-    x = "Predicted failed-attempt duration (seconds)",
-    y = "Predicted probability of success",
+  labs(#title = "Success Probability and Failed-Attempt Duration",
+    #subtitle = "Ellipses summarize individual posterior median predictions",
+    x = paste0("Individual predicted failed-attempt processing duration\n",
+               "(seconds)"),
+    y = "Individual predicted probability of success",
     colour = "Main technique") +
+  guides(colour = guide_legend(
+    order = 1,
+    nrow = 1,
+    byrow = TRUE,
+    override.aes = list(
+      linetype = "blank",
+      alpha = 1)),
+    linetype = guide_legend(
+      order = 2,
+      nrow = 1,
+      byrow = TRUE,
+      override.aes = list(
+        colour = "grey25"))) +
   theme_classic(base_size = 14) +
-  theme(legend.position = "bottom")
+  theme(legend.position = "bottom",
+        legend.box = "vertical",
+        legend.box.just = "center")
 
 plot_indv_failure_duration
-
-
 
 #### Side by side ellipse plots (combining Prob. success vs Success duration vs Failure duration) -------------------------------------------------------------
 
@@ -889,7 +1489,9 @@ plot_indv_duration_comparison <-
   plot_indv_success_duration +
   plot_indv_failure_duration +
   plot_layout(guides = "collect") &
-  theme(legend.position = "bottom")
+  theme(legend.position = "bottom",
+    legend.box = "vertical",
+    legend.box.just = "center")
 
 plot_indv_duration_comparison
 
