@@ -69,9 +69,31 @@ technique_colors <- c(bite_pull   = "#90A959",
                       man_hands   = "#E9B872",
                       stone_pound = "#A63D40")
 
+# Checking observed data
+
+# Percentage of successful sequences for each main technique
+success_by_technique <- seq_single_s %>% filter(!is.na(main_technique), !is.na(success)) %>%
+  group_by(main_technique) %>% summarise(success_percent = 100 * mean(success == 1),
+    .groups = "drop") %>%
+  left_join(techs %>% select(abb_technique, technique),
+    by = c("main_technique" = "abb_technique")) %>%
+  transmute(Technique = str_to_sentence(technique), success_percent) %>%
+  arrange(Technique)
+
+success_by_technique %>%
+  gt() %>% fmt_percent(columns = success_percent,
+    decimals = 1,
+    scale_values = FALSE) %>%
+  cols_label(success_percent = "Successful sequences (%)")
+
+
+
 # Load in previously fitted model if not adjusting model data -------------------------------------------------------------
 
 # mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
+
+# To use handling time instead...
+# mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech_handle_time.rds")
 
 
 # Joint Bernoulli-Gamma model -------------------------------------------------------------
