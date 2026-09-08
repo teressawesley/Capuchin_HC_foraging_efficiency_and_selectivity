@@ -433,3 +433,230 @@ ggplot() +
 
 
 
+
+# Observed data ------------------------------------------------------------------
+## # techinques used when success -----------------------------------------------
+
+# Processing-duration columns representing each technique
+technique_duration_cols <- c("man_hands_duration_s",
+                             "bite_shell_duration_s",
+                             "bite_pull_duration_s",
+                             "roll_scrub_duration_s",
+                             "hit_surface_duration_s",
+                             "pound_stone_duration_s") 
+
+# Successful sequences by number of techniques 
+successful_sequences <- seq_single_s %>% filter(success == 1) %>%
+  mutate(n_techniques = rowSums(across(all_of(technique_duration_cols), ~ !is.na(.x) & .x != 0)),
+    has_man_hands = !is.na(man_hands_duration_s) & man_hands_duration_s != 0)
+
+# Total sequences in each bar
+bar_counts <- successful_sequences %>% count(n_techniques, name = "n_sequences") %>%
+  complete(n_techniques = 1:length(technique_duration_cols),
+    fill = list(n_sequences = 0))
+
+# Split only the two-technique bar
+two_techniques <- successful_sequences %>% filter(n_techniques == 2) %>%
+  count(has_man_hands, name = "n_sequences") %>%
+  complete(has_man_hands = c(TRUE, FALSE),
+    fill = list(n_sequences = 0)) %>%
+  arrange(desc(has_man_hands)) %>%
+  mutate(proportion = n_sequences / sum(n_sequences),
+    ymin = cumsum(n_sequences) - n_sequences,
+    ymax = cumsum(n_sequences),
+    label_y = (ymin + ymax) / 2,
+    group = if_else(has_man_hands,
+      "Manipulate with hands + another technique",
+      "Two techniques without manipulate with hands"),
+    label = sprintf("%.1f%%", 100 * proportion))
+
+bar_counts <- bar_counts %>% filter(n_sequences > 0)
+
+successful_techniques_plot <- ggplot() +
+  # Unsplit bars
+  geom_col(data = filter(bar_counts, n_techniques != 2),
+    aes(x = n_techniques, y = n_sequences), width = 0.8, fill = "#677689") +
+  # Two-technique bar, split proportionally
+  geom_rect(data = two_techniques,
+    aes(xmin = 1.6, xmax = 2.4, ymin = ymin, ymax = ymax, fill = group)) +
+  geom_text(data = filter(two_techniques, n_sequences > 0),
+    aes(x = 2, y = label_y, label = label),
+    colour = "white", fontface = "bold", size = 4) +
+  # Counts inside the other nonzero bars
+  geom_text(data = filter(bar_counts, n_techniques != 2, n_sequences > 0),
+    aes(x = n_techniques, y = n_sequences - 1.5, label = paste0("n=", n_sequences)),
+    colour = "white", fontface = "bold", vjust = 1) +
+  # Total above the split bar; zero counts near the baseline
+  geom_text(data = filter(bar_counts, n_techniques == 2 | n_sequences == 0),
+    aes(x = n_techniques, y = n_sequences + 1.2,
+      label = paste0("n=", n_sequences)),
+    colour = "#374151", fontface = "bold") +
+  scale_fill_manual(
+    values = c("Manipulate with hands + another technique" = "#E9B872",
+      "Two techniques without manipulate with hands" = "#677689")) +
+  scale_x_continuous(breaks = bar_counts$n_techniques) +
+  scale_y_continuous(expand = expansion(mult = c(0, 0.15))) +
+  labs(x = "Number of techniques occurring per successful sequence",
+    y = "Number of sequences",
+    fill = NULL) +
+  theme_classic(base_size = 13) +
+  theme(plot.title = element_text(face = "bold", hjust = 0.5),
+    legend.position = "bottom",
+    legend.direction = "vertical",
+    plot.caption = element_text(hjust = 0.5))
+
+print(successful_techniques_plot)
+
+## Proportion of success and failed sequences involving x techinque(s) --------------------------------------------
+
+# Count techniques in successful and unsuccessful sequences
+sequence_composition <- seq_single_s %>% filter(success %in% c(0, 1)) %>%
+  mutate(outcome = factor(if_else(success == 1, "Success", "Failure"),
+      levels = c("Success", "Failure")),
+    n_techniques = rowSums(across(all_of(technique_duration_cols), ~ !is.na(.x) & .x != 0)),
+    striped = n_techniques == 2 & !is.na(man_hands_duration_s) & man_hands_duration_s != 0)
+
+# Calculate stacked sections separately within each outcome
+composition_sections <- sequence_composition %>%
+  count(outcome, n_techniques, striped, name = "n_sequences") %>%
+  group_by(outcome) %>% arrange(n_techniques, desc(striped), .by_group = TRUE) %>%
+  mutate(proportion = n_sequences / sum(n_sequences),
+    ymax = cumsum(proportion),
+    ymin = ymax - proportion,
+    x = as.integer(outcome)) %>%
+  ungroup()
+
+# One percentage label per technique category
+composition_labels <- composition_sections %>% group_by(outcome, n_techniques, x) %>%
+  summarise(proportion = sum(proportion),
+    label_y = (min(ymin) + max(ymax)) / 2,
+    .groups = "drop")
+
+# Horizontal stripes restricted to the hand-manipulation subsection
+stripe_lines <- composition_sections %>% filter(striped, proportion > 0) %>%
+  mutate(left = x - 0.32, right = x + 0.32, slope = 0.5) %>% rowwise() %>%
+  mutate(intercept = list(seq(ymin - slope * (right - left), ymax, by = 0.025))) %>%
+  ungroup() %>% unnest(intercept) %>%
+  mutate(x_start = pmax(left, left + (ymin - intercept) / slope),
+    x_end = pmin(right, left + (ymax - intercept) / slope),
+    y_start = intercept + slope * (x_start - left),
+    y_end = intercept + slope * (x_end - left)) %>%
+  filter(x_end > x_start)
+
+outcome_totals <- sequence_composition %>% count(outcome, name = "total") %>%
+  mutate(x = as.integer(outcome))
+
+draw_striped_key <- function(data, params, size) {
+  offsets <- seq(-0.8, 0.8, by = 0.2)
+  grid::grobTree(
+    grid::rectGrob(
+      gp = grid::gpar(fill = "#A15E49", col = NA)),
+    grid::segmentsGrob(
+      x0 = pmax(0, offsets),
+      y0 = pmax(0, -offsets),
+      x1 = pmin(1, 1 + offsets),
+      y1 = pmin(1, 1 - offsets),
+      gp = grid::gpar(col = "white", lwd = 1.5, alpha = 0.65)))}
+
+composition_plot <- ggplot() +
+  geom_rect(data = composition_sections,
+    aes(xmin = x - 0.32, xmax = x + 0.32, ymin = ymin, ymax = ymax, fill = factor(n_techniques))) +
+  geom_segment(data = stripe_lines,
+    aes(x = x_start, xend = x_end, y = y_start, yend = y_end),
+    colour = "white", linewidth = 0.6, alpha = 0.65) +
+  geom_text(data = outcome_totals,
+    aes(x = x, y = 1.04, label = paste0("n=", total)),
+    fontface = "bold", size = 4) +
+  scale_fill_manual(name = "Number of techniques",
+    values = c(
+      "0" = "#DDDDDD",
+      "1" = "#715232",
+      "2" = "#A15E49",
+      "3" = "#CA895F",
+      "4" = "#E3D26F")) +
+  scale_x_continuous(breaks = c(1, 2),
+    labels = c("Success", "Failure")) +
+  scale_y_continuous(breaks = seq(0, 1, 0.2),
+    labels = scales::label_number(accuracy = 0.1),
+    limits = c(0, 1.08),
+    expand = expansion(mult = c(0, 0))) +
+  labs(x = NULL,
+    y = "Proportion of sequences within outcome") +
+  geom_point(data = data.frame(x = NA_real_, y = NA_real_),
+  aes(x = x, y = y, shape = "Manipulate with hands + another technique"),
+  inherit.aes = FALSE,
+  show.legend = c(shape = TRUE, fill = FALSE),
+  na.rm = TRUE,
+  key_glyph = draw_striped_key) +
+  scale_shape_manual( name = NULL,
+  values = c("Manipulate with hands + another technique" = 22)) +
+  guides(fill = guide_legend(order = 1),
+  shape = guide_legend(order = 2)) +
+  theme_classic(base_size = 13) +
+  theme(legend.position = "bottom",
+    legend.direction = "horizontal",
+    legend.box = "vertical")
+
+print(composition_plot)
+
+
+## Table of # sequences with # of techinques per success/failur/total ---------------------------------------
+
+# Count techniques per sequence
+sequence_table_data <- seq_single_s %>%
+  filter(success %in% c(0, 1)) %>%
+  mutate(Outcome = if_else(success == 1, "Success", "Failure"),
+    n_techniques = rowSums(
+      across(all_of(technique_duration_cols),
+        ~ !is.na(.x) & .x != 0)),
+    two_with_hands = n_techniques == 2 &
+      !is.na(man_hands_duration_s) & man_hands_duration_s != 0)
+
+# Add a Total group
+table_data <- bind_rows(sequence_table_data %>% mutate(Outcome = "Total"),
+  sequence_table_data)
+
+# Include only technique categories observed in the data
+category_counts <- table_data %>%
+  count(Outcome, n_techniques, name = "value") %>%
+  mutate(Measure = paste0(n_techniques,
+      if_else(n_techniques == 1, " technique", " techniques")),
+    column_order = n_techniques)
+
+# Hand-manipulation subset and total sequences
+summary_counts <- table_data %>% group_by(Outcome) %>%
+  summarise(`2 techniques (1/2 is manipulate w/ hands)` =
+      sum(two_with_hands),
+    `Total sequences` = n(),
+    .groups = "drop") %>%
+  pivot_longer(cols = -Outcome,
+    names_to = "Measure",
+    values_to = "value") %>%
+  group_by(Measure) %>% filter(any(value > 0)) %>%
+  ungroup() %>%
+  mutate(column_order = if_else(Measure == "Total sequences", Inf, 2.5))
+
+# Arrange columns and transpose
+technique_table <- bind_rows(category_counts, summary_counts) %>%
+  arrange(column_order) %>% select(Outcome, Measure, value) %>%
+  pivot_wider(names_from = Measure, values_from = value, values_fill = 0) %>%
+  mutate(Outcome = factor(Outcome, levels = c("Total", "Success", "Failure"))) %>%
+  arrange(Outcome)
+
+print(technique_table)
+
+technique_table %>% gt::gt() %>% gt::fmt_number(columns = where(is.numeric), decimals = 0)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
