@@ -59,6 +59,12 @@ age_colours <- c(
   "subadult" = "#8A9A57",
   "juvenile" = "#DBEFA9")
 
+technique_labels <- techs %>%
+  filter(!is.na(abb_technique), abb_technique != "", !is.na(technique)) %>%
+  distinct(abb_technique, technique) %>%
+  mutate(technique = stringr::str_to_sentence(technique)) %>%
+  tibble::deframe()
+
 # Load in previously fitted model(s) if not adjusting model data -------------------------------------------------------------
 
 mcat_prob_tech_site_indv <- readRDS("fitted_models/mcat_prob_tech_site_indv.rds")
@@ -122,6 +128,115 @@ summary(mcat_prob_tech_site_indv)
 plot(mcat_prob_tech_site_indv)
 pp_check(mcat_prob_tech_site_indv, type = "bars", ndraws = 100)
 
+## Reports and tables ---------------------------------------------------------------------
+
+summary(mcat_prob_tech_site_indv)
+
+fixed_effects_report <- fixef(mcat_prob_tech_site_indv, robust = TRUE, probs = c(0.025, 0.975))
+fixed_effects_report
+
+VarCorr(mcat_prob_tech_site_indv, robust = TRUE, probs = c(0.025, 0.975))
+
+# Check the reference arena site
+levels(seq_single_s$arena_site)
+reference_site <- levels(seq_single_s$arena_site)[1]
+
+# Extract population-level coefficient draws
+coefficient_draws <- posterior::as_draws_df(mcat_prob_tech_site_indv) %>%
+  select(matches("^b_mu")) %>%
+  pivot_longer(cols = everything(), names_to = "parameter", values_to = "draw_value")
+
+# Identify the modeled technique and model term
+coefficient_summary <- coefficient_draws %>%
+  mutate(dpar = stringr::str_match(parameter, "^b_mu([^_]+)_")[, 2],
+    Technique = recode(dpar,
+      "bitepull" = "Bite pull",
+      "biteshell" = "Bite shell",
+      "hitsurface" = "Hit surface",
+      "manhands" = "Manipulate with hands"),
+    raw_term = str_remove(parameter, "^b_mu[^_]+_"),
+    Term = case_when(raw_term == "Intercept" ~ paste0("Intercept: ", reference_site),
+      str_starts(raw_term, "arena_site") ~ paste0(str_remove(raw_term, "^arena_site"),
+          " vs ", reference_site), TRUE ~ raw_term),
+    effect_measure = if_else(raw_term == "Intercept",
+      "Relative odds",
+      "Relative odds ratio")) %>%
+  group_by(Technique, Term, effect_measure) %>%
+  summarise(link_median = median(draw_value),
+    link_lower = quantile(draw_value, 0.025),
+    link_upper = quantile(draw_value, 0.975),
+    estimate = median(exp(draw_value)),
+    lower_95_CrI = quantile(exp(draw_value), 0.025),
+    upper_95_CrI = quantile(exp(draw_value), 0.975),
+    .groups = "drop")
+
+# Create the formatted coefficient table
+coefficient_table <- coefficient_summary %>%
+  select(Technique, `Model term` = Term, `Effect measure` = effect_measure, `Posterior median` = estimate,
+    `Lower 95% CrI` = lower_95_CrI, `Upper 95% CrI` = upper_95_CrI, `Link-scale median` = link_median) %>%
+  gt::gt(groupname_col = "Technique") %>%
+  gt::fmt_number(columns = c(`Posterior median`, `Lower 95% CrI`, `Upper 95% CrI`, `Link-scale median`),
+    decimals = 2) %>%
+  gt::tab_header(title = "Categorical Model Coefficients",
+    subtitle = paste(
+      "Posterior medians and 95% credible intervals;",
+      "stone pounding is the reference outcome")) %>%
+  gt::tab_source_note(source_note = paste(
+      "Intercepts are the relative odds of the indicated",
+      "technique versus stone pounding at the reference site.")) %>%
+  gt::tab_source_note(source_note = paste(
+      "Arena-site coefficients are relative-odds ratios:",
+      "the change in the odds of the indicated technique",
+      "versus stone pounding relative to the reference site."))
+
+coefficient_table
+
+# gt::gtsave(coefficient_table, filename = "categorical_technique_site_coefficient_table.html")
+
+# One prediction row per site
+site_newdata <- seq_single_s %>% filter(!is.na(arena_site)) %>%
+  distinct(arena_site) %>% arrange(arena_site)
+
+# Population-level posterior probabilities
+technique_site_draws <- site_newdata %>%
+  add_epred_draws(mcat_prob_tech_site_indv, re_formula = NA )
+
+# Summarize probabilities
+technique_site_summary <- technique_site_draws %>%
+  group_by(arena_site, .category) %>%
+  median_qi(.epred, .width = 0.95) %>%
+  ungroup()
+
+technique_site_summary
+
+# Format technique names and credible intervals
+biological_summary <- technique_site_summary %>%
+  mutate(Site = as.character(arena_site),
+    Technique = as.character(.category) %>%
+      str_replace_all("_", " ") %>% str_to_sentence(),
+    `Estimated probability` = sprintf("%.1f%% [%.1f%%, %.1f%%]", 100 * .epred, 100 * .lower, 100 * .upper)) %>%
+  arrange(Site, desc(.epred)) %>%
+  select(Site, Technique, `Estimated probability`)
+biological_summary
+
+# Create the formatted table
+biological_table <- biological_summary %>%
+  gt::gt(groupname_col = "Site") %>%
+  gt::tab_header(title = "Estimated Technique Probabilities by Arena Site",
+    subtitle = "Posterior median [95% credible interval]") %>%
+  gt::tab_source_note(source_note = paste(
+      "Predictions are population-level estimates for an",
+      "average individual at each arena site.")) %>%
+  gt::tab_source_note(source_note = paste(
+      "Individual-level deviations are excluded",
+      "using re_formula = NA."))
+
+biological_table
+
+# gt::gtsave(biological_table, filename = "technique_site_posterior_predictions.html")
+
+
+
 #! ...by site -------------------------------------------------------------
 
 # These estimates describe an average individual at each site. Subject-level deviations are excluded.
@@ -155,7 +270,7 @@ plot_technique_site <- ggplot(technique_site_summary, aes(x = .category, y = .ep
 
 plot_technique_site
 
-# Alternative plot - posterior densities overlapping by site
+# ! Alternative plot - posterior densities overlapping by site
 
 plot_technique_site_density <- ggplot(technique_site_draws,
   aes(x = .epred, colour = arena_site, fill = arena_site)) +
@@ -170,22 +285,24 @@ plot_technique_site_density <- ggplot(technique_site_draws,
     linetype = "dashed",
     show.legend = FALSE) +
   facet_wrap( ~ .category,
-    ncol = 2,
-    scales = "free_y") +
+    ncol = 1,
+    scales = "free_y",
+    labeller = as_labeller(technique_labels)) +
   scale_x_continuous(
     labels = scales::percent,
     breaks = seq(0, 1, by = 0.2)) +
   coord_cartesian(xlim = c(0, 1)) +
   scale_colour_brewer(palette = "Set2") +
   scale_fill_brewer(palette = "Set2") +
-  labs(x = "Estimated probability",
+  labs(x = "Estimated probability of technique use",
     y = "Posterior density",
     colour = "Arena site",
     fill = "Arena site",
-    title = "Posterior probabilities of each main technique by arena site",
-    subtitle = paste(
-      "Dashed lines show posterior medians;",
-      "greater distributional overlap indicates more similar estimates")) +
+    #title = "Posterior probabilities of each main technique by arena site",
+    # subtitle = paste(
+    #   "Dashed lines show posterior medians;",
+    #   "greater distributional overlap indicates more similar estimates")
+    ) +
   theme_minimal(base_size = 12) +
   theme(strip.text = element_text(face = "bold"),
     panel.grid.minor = element_blank(),
@@ -340,18 +457,21 @@ plot_technique_individual <- ggplot(technique_individual_summary, aes(x = .epred
   geom_pointrange(linewidth = 0.7) +
   facet_grid(arena_site ~ .category,
     scales = "free_y",
-    space = "free_y") +
-  scale_x_continuous(labels = scales::percent,
+    space = "free_y",
+    labeller = labeller(.category = as_labeller(technique_labels))) +
+  scale_x_continuous(breaks = c(0, 0.5, 1),
+    labels = c("0.0", "0.5", "1.0"),
     limits = c(0, 1)) +
   scale_colour_manual(values = age_sex_colours,
     na.value = "grey60") +
-  labs(x = "Estimated probability",
+  labs(x = "Individual estimated probability of technique use",
     y = "Individual",
     colour = "Age/sex class",
-    title = "Individual probabilities of using each main technique",
-    subtitle = paste(
-      "Arena sites are displayed in separate rows;",
-      "points are posterior medians and intervals are 95% credible intervals")) +
+    #title = "Individual probabilities of using each main technique",
+    # subtitle = paste(
+    #   "Arena sites are displayed in separate rows;",
+    #   "points are posterior medians and intervals are 95% credible intervals")
+    ) +
   theme_minimal(base_size = 12) +
   theme(
     panel.spacing = grid::unit(1, "lines"),
