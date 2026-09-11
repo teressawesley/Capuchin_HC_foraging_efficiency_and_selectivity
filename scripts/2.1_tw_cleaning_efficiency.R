@@ -28,6 +28,7 @@ library(lubridate)
 library(tidyr)
 library(readr)
 library(ggplot2)
+library(patchwork)
 
 # Analysis-specific data cleaning: -------------------------------------------------------------
 
@@ -255,9 +256,108 @@ excluded_etna_events <- handling_HC_events_raw %>%
         size = 5),
       legend.position = "none")
   
+  ggplot(plot_hit_groups,
+    aes(x = start_s, y = sequence_id, color = hit_group)) +
+    geom_point(shape = 124,  # short vertical line
+      size = 7,
+      alpha = 0.7) +
+    scale_x_continuous(breaks = seq(0, 135, by = 5),
+      expand = expansion(mult = c(0, 0.02))) +
+    coord_cartesian(xlim = c(0, 135)) +
+    scale_color_brewer(palette = "Dark2") +
+    labs(x = "Hit/pound start time (seconds)",
+      y = "Single hermit crab handling sequence") +
+    theme_minimal() +
+    theme(panel.grid.major.y = element_blank(),
+      axis.text.y = element_text(size = 5),
+      legend.position = "none")
+  
+  #   For thesis -- Plotting hit events in time, colored by grouping  -------------------------------------------------------------
+  
+  # Order sequence rows by the timing of their first hit
+  # The earliest-starting sequence will appear at the top of the plot
+  sequence_order <- plot_hit_groups %>% group_by(sequence_id) %>%
+    summarise(first_hit_s = min(start_s), .groups = "drop") %>%
+    arrange(first_hit_s) %>% pull(sequence_id) %>% as.character()
+  
+  # Define the group colours; Dark2 contains eight colours, which are recycled for later groups
+  dark2_colors <- setNames(RColorBrewer::brewer.pal(8, "Dark2"), 1:8)
+  
+  # Prepare individual hit events for plotting
+  # Sequence IDs are reordered and each hit group receives a color
+  plot_hit_groups <- plot_hit_groups %>%
+    mutate(sequence_id = factor(as.character(sequence_id),
+        levels = rev(sequence_order)),
+      colour_group = factor(((as.integer(hit_group) - 1) %% 8) + 1,
+        levels = 1:8)) %>%
+    arrange(match(as.character(sequence_id), sequence_order), start_s)
+  
+  # Prepare the duration lines
+  # Each line begins at the first hit and ends after the assigned duration
+  
+  hit_group_durations <- grouped_hit_events %>%
+    mutate(sequence_id = factor(as.character(sequence_id), levels = rev(sequence_order)),
+      colour_group = factor(((seq_group - 1) %% 8) + 1,
+        levels = 1:8),
+      duration_end_s = group_start_s + duration_s)
+  
+  # Reduce the number of displayed sequences
+  # This retains positions original positions 2, 6, 10, 14, and so on
+
+  sequence_position <- seq_along(sequence_order)
+  sequences_to_plot <- sequence_order[sequence_position %% 4 == 2]
+  
+  plot_hit_groups_subset <- plot_hit_groups %>%
+    filter(as.character(sequence_id) %in% sequences_to_plot)
+  
+  hit_group_durations_subset <- hit_group_durations %>%
+    filter(as.character(sequence_id) %in% sequences_to_plot)
+  
+  # Plot group durations and individual hit events
+  # Coloured horizontal lines show assigned durations
+  # Vertical marks show the timing of individual coded hits
+  hit_surface_plot <- ggplot() +
+    # Plot assigned group durations behind the individual events
+    geom_segment(data = hit_group_durations_subset,
+      aes(x = group_start_s, xend = duration_end_s, y = sequence_id, yend = sequence_id, colour = colour_group),
+      linewidth = 5,
+      alpha = 0.45,
+      lineend = "butt") +
+    # Plot individual hit events
+    geom_point(data = plot_hit_groups_subset,
+      aes(x = start_s, y = sequence_id, colour = colour_group),
+      shape = 124,
+      size = 7,
+      alpha = 0.9) +
+    scale_colour_manual(values = dark2_colors,
+      guide = "none") +
+    scale_x_continuous(breaks = seq(0, 110, by = 5),
+      expand = expansion(mult = c(0, 0.02))) +
+    coord_cartesian(xlim = c(0, 110)) + 
+    labs(
+      x = "Hit/pound on surface event time (seconds)",
+      y = "Handling sequence") +
+    # Use a white background with horizontal grid lines
+    theme_minimal() +
+    theme(panel.grid.major.x = element_blank(),
+      panel.grid.minor.x = element_blank(),
+      panel.grid.major.y = element_line(
+        colour = "grey85",
+        linewidth = 0.4),
+      panel.grid.minor.y = element_blank(),
+      panel.background = element_rect(
+        fill = "white",
+        colour = NA),
+      plot.background = element_rect(
+        fill = "white",
+        colour = NA),
+      axis.text.y = element_text(size = 5),
+      legend.position = "none")
+  hit_surface_plot
   
   
-  # Using the function to create event grouping for hammerstone grab and pound with hammerstone -------------------------------------------------------------
+  
+    # Using the function to create event grouping for hammerstone grab and pound with hammerstone -------------------------------------------------------------
   
   # Using the function to create event grouping for pound with hammerstone
   grouped_hammerstone_events <- group_point_events(
@@ -504,7 +604,90 @@ excluded_etna_events <- handling_HC_events_raw %>%
             size = 5),
           legend.position = "none")
   
-  # Creating summaries for each unique handling HC sequence -------------------------------------------------------------
+  # For thesis -- Plotting hammerstone events in time, coloured by grouping ----------------------------------
+  
+  # Order sequence rows by the timing of their first hammerstone event
+  # The earliest-starting sequence will appear at the top
+  hammerstone_sequence_order <- plot_hammerstone_groups %>% group_by(sequence_id) %>%
+    summarise(first_hammerstone_event_s = min(start_s), .groups = "drop") %>%
+    arrange(first_hammerstone_event_s) %>% pull(sequence_id) %>% as.character()
+  
+  # Define the group colours
+  # Dark2 contains eight colours, which are recycled for later groups
+  hammerstone_dark2_colors <- setNames(RColorBrewer::brewer.pal(8, "Dark2"), 1:8)
+  
+  # Prepare individual hammerstone grabs and pounds for plotting
+  plot_hammerstone_groups <- plot_hammerstone_groups %>%
+    mutate(sequence_id = factor(as.character(sequence_id), levels = rev(hammerstone_sequence_order)),
+      colour_group = factor(((seq_group - 1) %% 8) + 1, levels = 1:8)) %>%
+    arrange(match(as.character(sequence_id), hammerstone_sequence_order), start_s)
+  
+  # Prepare the duration lines
+  # Unmatched grabs are omitted because they have no assigned duration
+  hammerstone_group_durations <- grouped_hammerstone_events %>%
+    filter(!is.na(seq_group), !is.na(duration_s)) %>%
+    mutate(sequence_id = factor(as.character(sequence_id), levels = rev(hammerstone_sequence_order)),
+      colour_group = factor(((seq_group - 1) %% 8) + 1, levels = 1:8),
+      duration_end_s = group_start_s + duration_s)
+  
+  # Reduce the displayed hammerstone sequences from 21 to 10
+  # Remove positions 1, 3, 5, and so on
+  hammerstone_sequence_position <- seq_along(hammerstone_sequence_order)
+  
+  hammerstone_sequences_to_plot <- hammerstone_sequence_order[hammerstone_sequence_position %% 2 == 0]
+  
+  plot_hammerstone_groups_subset <- plot_hammerstone_groups %>%
+    filter(as.character(sequence_id) %in% hammerstone_sequences_to_plot)
+  
+  hammerstone_group_durations_subset <- hammerstone_group_durations %>%
+    filter(as.character(sequence_id) %in% hammerstone_sequences_to_plot)
+  
+  
+  # Plot duration lines and individual hammerstone events
+  hammerstone_plot <- ggplot() +
+    # Coloured lines show assigned group durations
+    geom_segment(
+      data = hammerstone_group_durations_subset,
+      aes(x = group_start_s, xend = duration_end_s, y = sequence_id, yend = sequence_id, colour = colour_group),
+      linewidth = 5,
+      alpha = 0.45,
+      lineend = "butt") +
+    # Vertical marks show hammerstone grabs and pounds
+    geom_point(data = plot_hammerstone_groups_subset,
+      aes(x = start_s, y = sequence_id, colour = colour_group),
+      shape = 124,
+      size = 7,
+      alpha = 0.9) +
+    scale_colour_manual(values = hammerstone_dark2_colors, guide = "none") +
+    scale_x_continuous(breaks = seq(0, 110, by = 5), expand = expansion(mult = c(0, 0.02))) +
+    coord_cartesian(xlim = c(0, 110)) +
+    labs(x = "Hammerstone grab or pound event time (seconds)",
+      y = "Handling sequence") +
+    # Use a white background with horizontal grid lines
+    theme_minimal() +
+    theme(panel.grid.major.x = element_blank(),
+      panel.grid.minor.x = element_blank(),
+      panel.grid.major.y = element_line(
+        colour = "grey85",
+        linewidth = 0.4),
+      panel.grid.minor.y = element_blank(),
+      panel.background = element_rect(
+        fill = "white",
+        colour = NA),
+      plot.background = element_rect(
+        fill = "white",
+        colour = NA),
+      axis.text.y = element_text(size = 5),
+      legend.position = "none")
+  hammerstone_plot
+  
+  # Combined thesis pseudo-duration plot ---------------------------------------------------
+  
+  combined_grouping_plot <- hit_surface_plot / hammerstone_plot
+  
+  combined_grouping_plot
+  
+    # Creating summaries for each unique handling HC sequence -------------------------------------------------------------
   
   # Start with one row per sequence by retaining each "handling HC" event. 
   # The remaining columns are placeholders for the next cleaning steps
@@ -1029,28 +1212,28 @@ seq_all_min <- all_sec_to_min(seq_all_s)
 # Saving output/cleaning environment -------------------------------------------------------------
 
 #Saving as CSVs
-write_csv(seq_single_proc_s,
-  "generated_data/eff_seq_single_proc_s.csv")
-
-write_csv(seq_single_proc_min,
-  "generated_data/eff_seq_single_proc_min.csv")
-
-write_csv(seq_single_hand_s,
-  "generated_data/eff_seq_single_hand_s.csv")
-
-write_csv(seq_single_hand_min,
-  "generated_data/eff_seq_single_hand_min.csv")
-
-write_csv(seq_batch_hand_s,
-  "generated_data/eff_seq_batch_hand_s.csv")
-
-write_csv(seq_batch_hand_min,
-  "generated_data/eff_seq_batch_hand_min.csv")
-
-write_csv(seq_all_s,
-  "generated_data/eff_seq_all_s.csv")
-
-write_csv(seq_all_min,
-  "generated_data/eff_seq_all_min.csv")
+# write_csv(seq_single_proc_s,
+#   "generated_data/eff_seq_single_proc_s.csv")
+# 
+# write_csv(seq_single_proc_min,
+#   "generated_data/eff_seq_single_proc_min.csv")
+# 
+# write_csv(seq_single_hand_s,
+#   "generated_data/eff_seq_single_hand_s.csv")
+# 
+# write_csv(seq_single_hand_min,
+#   "generated_data/eff_seq_single_hand_min.csv")
+# 
+# write_csv(seq_batch_hand_s,
+#   "generated_data/eff_seq_batch_hand_s.csv")
+# 
+# write_csv(seq_batch_hand_min,
+#   "generated_data/eff_seq_batch_hand_min.csv")
+# 
+# write_csv(seq_all_s,
+#   "generated_data/eff_seq_all_s.csv")
+# 
+# write_csv(seq_all_min,
+#   "generated_data/eff_seq_all_min.csv")
 
 
