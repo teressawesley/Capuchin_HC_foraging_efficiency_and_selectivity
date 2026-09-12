@@ -1,0 +1,44 @@
+﻿"Site","ID","Sex","Age class","Number of sequences","Pound with hammerstone","Hit/pound on surface","Roll/scrub on surface","Bite shell","Bite and pull with teeth","Manipulate with hands"
+"2PP","Alfalfa","Male","Adult",8,0,1,0,1,1,5
+"2PP","Billy","Male","Adult",3,0,1,0,0,0,2
+"2PP","Bullseye","Male","Subadult",15,0,0,0,4,1,10
+"2PP","Dimples","Male","Adult",2,0,2,0,0,0,0
+"2PP","Leif","Male","Subadult",21,0,10,0,0,1,10
+"2PP","McQueen","Male","Adult",1,0,0,0,0,0,1
+"2PP","Nami","Female","Adult",2,0,1,0,0,0,1
+"2PP","Richard","Male","Adult",6,0,0,0,0,3,3
+"2PP","Winston","Male","Adult",2,0,0,0,0,0,2
+"2PP","AF 4","Female","Adult",2,0,0,0,0,0,2
+"2PP","AM 5","Male","Adult",1,0,0,0,0,0,1
+"2PP","JUV 10","Unknown","Juvenile",1,0,0,0,0,1,0
+"2PP","JUV 19","Unknown","Juvenile",3,0,1,0,0,0,2
+"2PP","JUV 22","Unknown","Juvenile",1,0,1,0,0,0,0
+"2PP","JUV 24","Unknown","Juvenile",1,0,0,0,0,0,1
+"2PP","JUV 25","Unknown","Juvenile",1,0,0,0,0,0,1
+"2PP","JUV 27","Unknown","Juvenile",1,0,0,0,0,0,1
+"2PP","SAF 28","Female","Subadult",2,0,0,0,0,0,2
+"BBC","Balthasar","Male","Adult",5,0,2,0,0,2,1
+"BBC","Bob","Male","Juvenile",11,8,0,0,1,1,1
+"BBC","Caesar","Male","Adult",3,3,0,0,0,0,0
+"BBC","Fuji","Male","Subadult",2,0,2,0,0,0,0
+"BBC","Luigi","Male","Juvenile",15,7,0,0,0,1,7
+"BBC","Macaroni","Male","Juvenile",1,0,0,0,0,1,0
+"BBC","Rogi","Male","Subadult",1,1,0,0,0,0,0
+"BBC","AM 57","Male","Adult",1,0,0,0,0,0,1
+"BBC","AM 72","Male","Adult",5,0,0,0,0,0,5
+"BBC","JUV 81","Unknown","Juvenile",1,1,0,0,0,0,0
+"COCO","Alfred","Male","Subadult",1,1,0,0,0,0,0
+"COCO","Bond","Male","Subadult",1,0,0,0,0,0,1
+"COCO","Harry","Male","Juvenile",3,0,0,0,0,1,2
+"COCO","Jack","Male","Adult",2,0,0,0,0,0,2
+"COCO","John","Male","Juvenile",2,0,1,0,0,0,1
+"COCO","Melvin","Male","Subadult",2,0,2,0,0,0,0
+"COCO","Pippi","Male","Subadult",2,0,1,0,0,0,1
+"COCO","JUV 101","Unknown","Juvenile",1,0,1,0,0,0,0
+"COCO","JUV 102","Unknown","Juvenile",1,0,0,0,0,0,1
+"COCO","JUV 104","Unknown","Juvenile",1,0,1,0,0,0,0
+"COCO","JUV 116","Unknown","Juvenile",1,0,0,0,0,1,0
+"COCO","JUV 129","Unknown","Juvenile",1,0,1,0,0,0,0
+"COCO","JUV 97","Unknown","Juvenile",2,0,2,0,0,0,0
+"COCO","JUV 98","Unknown","Juvenile",1,0,0,0,0,0,1
+"COCO","NA 118","Unknown","Non-adult",1,0,1,0,0,0,0

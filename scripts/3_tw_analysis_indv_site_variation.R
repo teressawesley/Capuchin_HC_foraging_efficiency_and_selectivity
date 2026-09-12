@@ -21,12 +21,13 @@ library(tidybayes)
 library(ggplot2)
 library(dplyr)
 library(marginaleffects)
-library(cmdstanr)
 library(emmeans)
 library(patchwork)
 library(tidyverse)
 library(scales)
+library(grid)
 
+library(cmdstanr)
 # This is more than is needed - clean later =)
 
 techs <- read_csv("raw_data/processing_techniques.csv")
@@ -64,6 +65,98 @@ technique_labels <- techs %>%
   distinct(abb_technique, technique) %>%
   mutate(technique = stringr::str_to_sentence(technique)) %>%
   tibble::deframe()
+
+# Table of subjects and age/sex definitions for thesis -------------------------------------------
+
+collapse_values <- function(x) {x <- trimws(as.character(x))
+  x <- sort(unique(x[!is.na(x) & nzchar(x)]))
+  if (length(x)) paste(x, collapse = "; ") else "Unknown"}
+
+# Long-form technique names
+technique_order <- names(technique_labels)
+
+# Retain rows with an ID.
+subject_data <- seq_single_s %>%
+  filter(!is.na(video_unique_subject), nzchar(trimws(as.character(video_unique_subject)))) %>%
+  mutate(video_unique_subject = as.character(video_unique_subject),
+    main_technique = as.character(main_technique))
+
+# Metadata: one row per ID.
+subject_metadata <- subject_data %>% group_by(video_unique_subject) %>%
+  summarise(Site = collapse_values(arena_site), named = any(
+      !is.na(subject) & !(str_to_lower(str_trim(as.character(subject))) %in%
+            c("", "na", "unknown", "unnamed"))),
+    Sex = str_to_sentence(collapse_values(sex)),
+    `Age class` = str_to_sentence(collapse_values(age)),
+    .groups = "drop")
+
+# Identify sequences by subject, observation and sequence ID.
+sequence_data <- subject_data %>%
+  filter(!is.na(observation_id), !is.na(sequence_id)) %>%
+  distinct(video_unique_subject, observation_id, sequence_id, main_technique)
+
+# Check for conflicting main techniques within a sequence.
+technique_conflicts <- sequence_data %>%
+  group_by(video_unique_subject, observation_id, sequence_id) %>%
+  summarise(n_techniques = n_distinct(main_technique, na.rm = TRUE), .groups = "drop") %>%
+  filter(n_techniques > 1)
+
+if (nrow(technique_conflicts) > 0) {
+  stop("Some sequences have conflicting main techniques. ",
+    "Inspect technique_conflicts before creating the table.")}
+
+# Total sequence count per ID.
+sequence_totals <- sequence_data %>% distinct(video_unique_subject, observation_id, sequence_id) %>%
+  count(video_unique_subject, name = "Number of sequences")
+
+# Sequence counts for each main technique.
+technique_counts <- subject_metadata %>% select(video_unique_subject)
+
+for (technique in technique_order) {current_counts <- sequence_data %>%
+    filter(main_technique == technique) %>%
+    distinct(video_unique_subject, observation_id, sequence_id) %>%
+    count(video_unique_subject, name = technique)
+  technique_counts <- technique_counts %>%
+    left_join(current_counts, by = "video_unique_subject")}
+
+# Assemble and sort: site, named individuals first, then ID.
+subject_table <- subject_metadata %>%
+  left_join(sequence_totals, by = "video_unique_subject") %>%
+  left_join(technique_counts, by = "video_unique_subject") %>%
+  mutate(across(all_of(c("Number of sequences", technique_order)),
+      ~ tidyr::replace_na(.x, 0L))) %>%
+  arrange(Site, desc(named), str_to_lower(video_unique_subject)) %>%
+  rename(ID = video_unique_subject) %>%
+  select(Site, ID, Sex, `Age class`, `Number of sequences`,
+    all_of(technique_order)) %>%
+  rename_with(~ unname(technique_labels[.x]), all_of(technique_order))
+
+# Age/sex class definitions 
+class_definitions <- tibble::tribble( ~`Age/sex class`, ~Definition,
+  "Adult male (AM)",
+  "6-7 years or older; Larger, bulkier body size; Wider heads compared to others; More protruding/snouty faces; Can be balder on the forehead (~ inc with age); genitalia display can confirm sex",
+  "Adult female (AF)",
+  "5+ years; young adult females typically do not have the eyebrow ridge; Fluffy hair above eyebrows/forehead (when older); Longer nipple, swollen mammary glands (if lactating); Less snouty faces; Smaller size; May have denser forehead hair",
+  "Subadult male (SAM)",
+  "2.5-5 years old; Less filled out and bulked up than AM, but considerably larger than juveniles (and often have more snouty faces/larger foreheads already); can be same size as AF; genitalia display can confirm sex",
+  "Subadult female (SAF)",
+  "2.5-5 years old; Less snouty faces than males; may have denser forehead hair than males; Clitoris can be very large and may be mistaken for a penis, particularly in subadults and juveniles",
+  "Juvenile male (JUVM)",
+  "0-3 years old; Noticeably smaller than adults, may also be dorsal infants; Must have clear view of genitalia to confirm sex",
+  "Juvenile unknown (JUV)",
+  "0-3 years old; Noticeably smaller than adults, may also be dorsal infants; Very difficult to sex without clear view of genitalia")
+
+# inspect the subject table.
+View(subject_table)
+
+# Export CSV files 
+# Relative to your current project directory.
+dir.create("plots_tables", showWarnings = FALSE, recursive = TRUE)
+
+readr::write_excel_csv(subject_table, "plots_tables/subject_sequence_table.csv")
+
+readr::write_excel_csv(class_definitions, "plots_tables/age_sex_class_definitions.csv")
+
 
 # Load in previously fitted model(s) if not adjusting model data -------------------------------------------------------------
 
