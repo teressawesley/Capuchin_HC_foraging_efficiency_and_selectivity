@@ -26,6 +26,7 @@ library(patchwork)
 library(tidyverse)
 library(scales)
 library(grid)
+library(gt)
 
 library(cmdstanr)
 # This is more than is needed - clean later =)
@@ -65,6 +66,260 @@ technique_labels <- techs %>%
   distinct(abb_technique, technique) %>%
   mutate(technique = stringr::str_to_sentence(technique)) %>%
   tibble::deframe()
+
+# Table with descriptive characteristics of observed data across sites for thesis ----------------------------------------
+
+# Use the full single-HC processing dataset
+overview_data <- seq_single_s %>% mutate(across(c(arena_site, video_unique_subject, subject),
+      ~ na_if(trimws(as.character(.x)), "")), video_unique_subject = na_if(video_unique_subject, "NA"),
+    named_subject = !is.na(subject) & !(tolower(subject) %in% c("na", "unknown", "unnamed")))
+
+# Confirm that each row represents one sequence
+stopifnot(!anyDuplicated(overview_data[c("video_unique_subject", "observation_id", "sequence_id")]),
+  all(overview_data$arena_site %in% c("COCO", "2PP", "BBC")))
+
+# Add an overall group, retaining the original site-specific rows
+overview_groups <- bind_rows(overview_data %>% mutate(table_site = arena_site),
+  overview_data %>% mutate(table_site = "Overall"))
+
+# One row per subject ID within each table column
+overview_subjects <- overview_groups %>% filter(!is.na(video_unique_subject)) %>%
+  group_by(table_site, video_unique_subject) %>%
+  summarise(named = any(named_subject), n_sequences = n(), .groups = "drop")
+
+# Format medians without unnecessary trailing zeros
+format_number <- function(x) {format(x, trim = TRUE, scientific = FALSE)}
+
+# Summarise each site and the complete dataset
+overview_summary <- overview_groups %>% group_by(table_site) %>%
+  summarise(n_sequences = n(), n_videos = n_distinct(observation_id, na.rm = TRUE),
+    n_days = n_distinct(as.Date(observation_date), na.rm = TRUE),
+    adult = sum(age == "adult", na.rm = TRUE),
+    subadult = sum(age == "subadult", na.rm = TRUE),
+    juvenile = sum(age == "juvenile", na.rm = TRUE),
+    non_adult = sum(age == "non-adult", na.rm = TRUE),
+    male = sum(sex == "male", na.rm = TRUE),
+    female = sum(sex == "female", na.rm = TRUE),
+    unknown_sex = sum(is.na(sex) | tolower(trimws(as.character(sex))) %in%  c("", "na", "unknown")),
+    man_hands = sum(main_technique == "man_hands", na.rm = TRUE),
+    bite_pull = sum(main_technique == "bite_pull", na.rm = TRUE),
+    bite_shell = sum(main_technique == "bite_shell", na.rm = TRUE),
+    roll_scrub = sum(main_technique == "roll_scrub", na.rm = TRUE),
+    hit_surface = sum(main_technique == "hit_surface", na.rm = TRUE),
+    stone_pound = sum(main_technique == "stone_pound", na.rm = TRUE),
+    .groups = "drop") %>%
+  left_join(overview_subjects %>%  group_by(table_site) %>%
+      summarise(n_subjects = n(), unnamed = sum(!named), named = sum(named),
+          sequences_per_subject = paste0(
+          format_number(median(n_sequences)), " (", min(n_sequences), "\u2013", max(n_sequences), ")" ),
+        .groups = "drop"),
+    by = "table_site")
+
+# Check that demographic and technique counts cover every sequence
+stopifnot(with(overview_summary, all(adult + subadult + juvenile + non_adult == n_sequences)),
+  with(overview_summary, all(male + female + unknown_sex == n_sequences)),
+  with(overview_summary, all(man_hands + bite_pull + bite_shell + roll_scrub + hit_surface + stone_pound == n_sequences)))
+
+# Define row labels, sections and display order
+overview_rows <- tibble::tribble(
+  ~section, ~variable, ~Characteristic,
+  "Sampling coverage",
+  "n_sequences", "Processing sequences, n",
+  "Sampling coverage",
+  "sequences_per_subject", "Sequences per subject ID, median (range)",
+  "Sampling coverage",
+  "n_subjects", "Subject IDs, n",
+  "Sampling coverage",
+  "n_videos", "Videos contributing sequences, n",
+  "Sampling coverage",
+  "n_days", "Observation days represented, n",
+  
+  "Subjects, n",
+  "named", "Named",
+  "Subjects, n",
+  "unnamed", "Unnamed",
+  
+  "Sequences by age class, n",
+  "adult", "Adult",
+  "Sequences by age class, n",
+  "subadult", "Subadult",
+  "Sequences by age class, n",
+  "juvenile", "Juvenile",
+  "Sequences by age class, n",
+  "non_adult", "Non-adult, unspecified",
+  
+  "Sequences by sex, n",
+  "male", "Male",
+  "Sequences by sex, n",
+  "female", "Female",
+  "Sequences by sex, n",
+  "unknown_sex", "Unknown",
+  
+  "Sequences per main technique, n",
+  "man_hands", "Manipulate with hands",
+  "Sequences per main technique, n",
+  "bite_pull", "Bite and pull with teeth",
+  "Sequences per main technique, n",
+  "bite_shell", "Bite shell",
+  "Sequences per main technique, n",
+  "roll_scrub", "Roll/scrub on surface",
+  "Sequences per main technique, n",
+  "hit_surface", "Hit/pound on surface",
+  "Sequences per main technique, n",
+  "stone_pound", "Pound with hammerstone") %>%
+  mutate(row_order = row_number())
+
+# Convert summaries into the table layout
+overview_values <- overview_summary %>% mutate(across(-table_site, as.character)) %>%
+  pivot_longer(cols = -table_site, names_to = "variable", values_to = "value") %>%
+  pivot_wider(names_from = table_site, values_from = value)
+
+overview_table_data <- overview_rows %>% left_join(overview_values, by = "variable") %>%
+  arrange(row_order) %>% select(section, Characteristic, COCO, `2PP`, BBC, Overall)
+
+# Create the formatted table
+overview_table <- overview_table_data %>%
+  gt(rowname_col = "Characteristic", groupname_col = "section") %>%
+  tab_header(title = "Table 1", subtitle = paste("Sampling coverage and characteristics of retained",
+      "single-HC processing sequences")) %>%
+  tab_stubhead(label = "Characteristic") %>%
+  cols_align(align = "center", columns = c(COCO, `2PP`, BBC, Overall)) %>%
+  tab_style(style = cell_text(weight = "bold"),
+    locations = cells_row_groups()) %>%
+  tab_source_note(source_note = paste(
+      "Named and unnamed subject counts represent distinct subject IDs;",
+      "unnamed IDs do not necessarily identify different individuals",
+      "across videos. Age and sex counts refer to sequences.")) %>%
+  tab_source_note(source_note = paste(
+      "Main technique follows the priority hierarchy defined in the",
+      "cleaning script. Zero sequences assigned to roll/scrub does not",
+      "necessarily indicate that this behaviour was absent.",
+      "Overall observation days count unique dates across sites.")) %>%
+  tab_options(table.font.names = "Calibri",
+    table.font.size = 11,
+    heading.align = "left",
+    row_group.font.weight = "bold",
+    data_row.padding = px(4))
+
+overview_table
+
+# Export the table as a CSV
+dir.create("plots_tables", showWarnings = FALSE, recursive = TRUE)
+
+readr::write_excel_csv(overview_table_data, "plots_tables/observed_data_overview.csv")
+
+
+# Table with descriptive characteristics of observed data across techinques for thesis --------------------------------
+
+# Technique names, duration columns and requested row order
+table2_techniques <- tibble::tribble( ~main_technique, ~duration_column, ~Technique,
+  "stone_pound", "pound_stone_duration_s", "Pound with hammerstone",
+  "hit_surface", "hit_surface_duration_s", "Hit/pound on surface",
+  "bite_shell", "bite_shell_duration_s", "Bite shell",
+  "bite_pull", "bite_pull_duration_s", "Bite and pull with teeth",
+  "man_hands", "man_hands_duration_s", "Manipulate with hands") %>%
+  mutate(row_order = row_number())
+
+# Count sequences containing each technique:
+# occurrence means a positive, non-missing duration
+table2_occurrences <- overview_data %>% select(all_of(table2_techniques$duration_column)) %>%
+  pivot_longer(cols = everything(), names_to = "duration_column", values_to = "technique_duration_s") %>%
+  group_by(duration_column) %>%
+  summarise(n_occurrence = sum(technique_duration_s > 0, na.rm = TRUE), .groups = "drop")
+
+# Return NA when no durations are available
+table2_quantile <- function(x, probability) {
+  x <- x[!is.na(x)]
+  if (length(x) == 0L) {
+    return(NA_real_)}
+  unname(quantile(x, probs = probability))}
+
+# Subject, success and duration summaries use MAIN-technique assignments
+table2_main_summary <- overview_data %>%
+  filter(main_technique %in% table2_techniques$main_technique) %>%
+  group_by(main_technique) %>%
+  summarise(n_main = n(),
+    n_subjects = n_distinct(video_unique_subject, na.rm = TRUE),
+    n_success = sum(success == 1, na.rm = TRUE),
+    n_known_outcome = sum(!is.na(success)),
+    duration_median = table2_quantile(total_process_duration_s, 0.50),
+    duration_q1 = table2_quantile(total_process_duration_s, 0.25),
+    duration_q3 = table2_quantile(total_process_duration_s, 0.75),
+    .groups = "drop"  )
+
+# Combine counts and calculate percentages
+table2_summary <- table2_techniques %>%
+  left_join(table2_occurrences, by = "duration_column") %>%
+  left_join(table2_main_summary, by = "main_technique") %>%
+  mutate(across(c(n_occurrence, n_main, n_subjects, n_success, n_known_outcome),
+      ~ replace_na(.x, 0L)),
+    hidden_percent = 100 * (n_occurrence - n_main) / na_if(n_occurrence, 0),
+    success_percent = 100 * n_success / na_if(n_known_outcome, 0)) %>%
+  arrange(row_order)
+
+# Confirm that main assignments are contained within technique occurrences
+stopifnot(all(table2_summary$n_main <= table2_summary$n_occurrence))
+
+# Format the combined count/percentage and duration columns
+table2_data <- table2_summary %>%
+  transmute(Technique, n_occurrence, n_main, hidden_percent, n_subjects,
+    successful_sequences = if_else(n_known_outcome > 0, sprintf("%d (%.1f)", n_success, success_percent),
+      NA_character_),
+    processing_duration = if_else(!is.na(duration_median),
+      sprintf("%.2f [%.2f\u2013%.2f]", duration_median, duration_q1, duration_q3),
+      NA_character_))
+
+# Create the formatted gt table
+observed_table2 <- table2_data %>%
+  gt(rowname_col = "Technique") %>%
+  tab_header(title = "Table 2",
+    subtitle = paste("Technique occurrence, main-technique assignment,",
+      "and observed processing outcomes")) %>%
+  tab_stubhead(label = "Technique") %>%
+  cols_label(n_occurrence = "Sequences with technique occurrence, n",
+    n_main = "Sequences with technique as main, n",
+    hidden_percent = "Hidden, %",
+    n_subjects = "Subject IDs, n",
+    successful_sequences = "Successful sequences, n (%)",
+    processing_duration = "Processing duration, s, median [Q1\u2013Q3]") %>%
+  fmt_integer(columns = c(n_occurrence, n_main, n_subjects), use_seps = FALSE) %>%
+  fmt_number(columns = hidden_percent, decimals = 1) %>%
+  sub_missing(missing_text = "\u2014") %>%
+  cols_align(align = "center", columns = everything()) %>%
+  tab_source_note(source_note = paste(
+      "Occurrence indicates a positive, non-missing technique duration.",
+      "Hidden (%) = 100 \u00d7 (occurrence \u2212 main) / occurrence.",
+      "Multiple techniques can occur within one sequence;",
+      "therefore, occurrence counts overlap.")) %>%
+  tab_source_note(source_note = paste(
+      "Subject IDs, success and duration summaries refer to sequences",
+      "assigned that main technique. Success percentages use sequences",
+      "with a known outcome. Duration is the total processing duration,",
+      "including successful and unsuccessful attempts and assigned",
+      "pseudo-durations. Q1 and Q3 are the 25th and 75th percentiles.")) %>%
+  tab_options(table.font.names = "Calibri",
+    table.font.size = 11,
+    heading.align = "left",
+    data_row.padding = px(4))
+
+observed_table2
+
+
+# Readable column headings matching the displayed table
+table2_csv <- table2_data %>%
+  mutate(hidden_percent = round(hidden_percent, 1)) %>%
+  rename(`Sequences with technique occurrence, n` = n_occurrence,
+    `Sequences with technique as main, n` = n_main,
+    `Hidden, %` = hidden_percent,
+    `Subject IDs, n` = n_subjects,
+    `Successful sequences, n (%)` = successful_sequences,
+    `Processing duration, s, median [Q1–Q3]` = processing_duration)
+
+dir.create("plots_tables", showWarnings = FALSE, recursive = TRUE)
+
+readr::write_excel_csv(table2_csv, "plots_tables/observed_data_table2.csv", na = "NA")
+
+
 
 # Table of subjects and age/sex definitions for thesis -------------------------------------------
 

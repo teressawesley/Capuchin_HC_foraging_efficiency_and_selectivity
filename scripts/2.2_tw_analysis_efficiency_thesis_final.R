@@ -88,6 +88,30 @@ success_by_technique %>%
 
 
 
+# All thesis packages citations --------------------------
+
+packages <- c("brms", "rstan", "cmdstanr", "tidybayes", "posterior",
+  "emmeans", "bayesplot", "tidyverse", "ggplot2",
+  "gt", "patchwork", "ggnewscale")
+
+# Check that the packages are installed
+missing <- setdiff(packages, rownames(installed.packages()))
+if (length(missing)) {stop("Packages not found: ", paste(missing, collapse = ", "))}
+
+# Collect citations, giving each entry a unique BibTeX key
+bib_entries <- unlist(lapply(packages, function(pkg) {
+  refs <- citation(pkg)
+  unlist(lapply(seq_along(refs), function(i) {
+    ref <- refs[i]
+    ref[[1]]$key <- paste0(pkg, "_", i)
+    c(as.character(toBibtex(ref)), "")}))}))
+
+# Save in your current working directory
+writeLines(bib_entries, "thesis_package_references.bib")
+
+# Show the full file location
+normalizePath("thesis_package_references.bib")
+
 # Load in previously fitted model if not adjusting model data -------------------------------------------------------------
 
 # mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
