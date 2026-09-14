@@ -61,9 +61,15 @@ age_sex_colours <- c(
   "non-adult" = "#ECA15B")
 
 age_colours <- c(
-  "adult" = "#3C4733",
+  "adult" = "#46533C",
   "subadult" = "#8A9A57",
   "juvenile" = "#DBEFA9")
+
+age_colours_dark <- c(
+  "juvenile" = "#82984F",
+  "subadult" = "#596735",
+  "adult" = "#252E20"
+)
 
 sex_colours <- c(
   "male" = "#306BA9",
@@ -361,7 +367,7 @@ age_success_violin <- ggplot(
 age_success_violin
 
 
-## Success per age class - Bar plot with individual points -------------------------------------------------------
+## !Thesis - Success per age class - Bar plot with individual points -------------------------------------------------------
 
 # One row per individual with their age and site
 individual_covariates <- seq_single_s %>%
@@ -392,52 +398,137 @@ individual_success_summary <- individual_success_draws %>%
 
 individual_success_summary
 
-age_success_bar_individuals <- ggplot(age_success_summary, aes(x = age, y = estimate, fill = age)) +
-  geom_col(width = 0.68,
-           colour = "grey25",
-           linewidth = 0.5,
-           alpha = 0.9) +
+age_success_bar_individuals <- ggplot(age_success_summary, aes(x = age, y = estimate, fill = age, colour = age)) +
+  geom_col(width = 0.60,
+    colour = NA,
+    alpha = 0.9) +
+  # geom_errorbar(aes(ymin = lower_95, ymax = upper_95),
+  #   width = 0.16,
+  #   linewidth = 1.1) +
   geom_errorbar(
-    aes(ymin = lower_95,
-        ymax = upper_95),
-    width = 0.12,
-    linewidth = 0.8,
-    colour = "black") +
+    aes(ymin = lower_95, ymax = upper_95),
+    width = 0.16,
+    linewidth = 0.55
+  ) +
   geom_point(data = individual_success_summary,
-             aes(x = age,
-                 y = probability_success),
-             inherit.aes = FALSE,
-             position = position_jitter(
-               width = 0.12,
-               height = 0,
-               seed = 123),
-             shape = 21,
-             size = 2.4,
-             stroke = 0.45,
-             fill = "white",
-             colour = "black",
-             alpha = 0.85) +
+    aes(x = age, y = probability_success, colour = age),
+    inherit.aes = FALSE,
+    position = position_jitter(
+      width = 0.15,
+      height = 0,
+      seed = 123),
+    shape = 16,
+    # size = 2.8,
+    size = 1.5
+    ) +
   scale_fill_manual(values = age_colours) +
+  scale_colour_manual(values = age_colours_dark) +
   scale_x_discrete(limits = c("juvenile", "subadult", "adult"),
-                   labels = c(juvenile = "Juvenile",
-                              subadult = "Subadult",
-                              adult = "Adult")) +
-  scale_y_continuous(limits = c(0, 1),
-                     breaks = seq(0, 1, by = 0.2),
-                     labels = scales::label_percent(accuracy = 1),
-                     expand = expansion(mult = c(0, 0.03))) +
-  labs(x = "Age class",
-       y = "Estimated probability of success",
-       title = "Success probability by age class",
-       subtitle = paste(
-         "Bars show population-level posterior medians and 95% credible intervals;",
-         "points show individual posterior medians")) +
-  guides(fill = "none") +
-  theme_classic(base_size = 14)
+    labels = c(juvenile = "Juvenile",
+      subadult = "Subadult",
+      adult = "Adult"),
+    expand = expansion(add = 0.55)) +
+  scale_y_continuous(breaks = seq(0, 1, by = 0.25),
+    labels = scales::label_number(accuracy = 0.01),
+    expand = expansion(mult = c(0, 0.03))) +
+  coord_cartesian(ylim = c(0, 1)) +
+  labs(x = NULL,
+    y = "Estimated probability of success") +
+  guides(fill = "none", colour = "none") +
+  theme_minimal(base_size = 12, base_family = "sans") +
+  theme(panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_line(
+      colour = "grey92",
+      linewidth = 0.4),
+    axis.text.x = element_text(
+      size = 12,
+      colour = "grey20",
+      margin = margin(t = 8)),
+    axis.text.y = element_text(
+      size = 10,
+      colour = "grey40"),
+    axis.title.y = element_text(
+      size = 11,
+      margin = margin(r = 12)),
+    plot.title = element_text(
+      size = 14,
+      face = "bold",
+      margin = margin(b = 14)),
+    plot.background = element_rect(
+      fill = "white",
+      colour = NA),
+    plot.margin = margin(14, 18, 12, 12))
 
 age_success_bar_individuals
 
-## Success per age class per technique - density plot ----------------------------------------------
+## Success per age class - Box and whisker with individual points -------------------------------------------------------
+
+age_colours_dark <- c(
+  "juvenile" = "#82984F",
+  "subadult" = "#596735",
+  "adult" = "#252E20")
+
+age_success_box_individuals <- ggplot(age_success_draws, aes(x = age, y = success_probability, fill = age)) +
+  geom_boxplot(aes(colour = age), width = 0.48, alpha = 1, linewidth = 0.9, outlier.shape = NA) +
+  geom_point(data = individual_success_summary,
+    aes(x = age, y = probability_success, colour = age),
+    inherit.aes = FALSE,
+    position = position_jitter(
+      width = 0.15,
+      height = 0,
+      seed = 123),
+    shape = 16,
+    size = 2.8,
+    alpha = 1) +
+  scale_fill_manual(values = age_colours) +
+  scale_colour_manual(values = age_colours_dark) +
+  guides(fill = "none", colour = "none") +
+  scale_x_discrete(
+    limits = c("juvenile", "subadult", "adult"),
+    labels = c(juvenile = "Juvenile",
+      subadult = "Subadult",
+      adult = "Adult"),
+    expand = expansion(add = 0.55)) +
+  scale_y_continuous(breaks = seq(0, 1, by = 0.25),
+    labels = scales::label_number(accuracy = 0.01),
+    expand = expansion(mult = c(0.02, 0.03))) +
+  coord_cartesian(ylim = c(0, 1)) +
+  labs(x = NULL, y = "Estimated probability of success") +
+  theme_minimal(base_size = 12, base_family = "sans") +
+  theme(panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_line(
+      colour = "grey92",
+      linewidth = 0.4),
+    axis.text.x = element_text(
+      size = 12,
+      colour = "grey20",
+      margin = margin(t = 8)),
+    axis.text.y = element_text(
+      size = 10,
+      colour = "grey40"),
+    axis.title.y = element_text(
+      size = 11,
+      margin = margin(r = 12)),
+    plot.title = element_text(
+      size = 14,
+      face = "bold",
+      margin = margin(b = 14)),
+    plot.caption = element_text(
+      size = 9,
+      colour = "grey40",
+      hjust = 0,
+      margin = margin(t = 12)),
+    plot.background = element_rect(
+      fill = "white",
+      colour = NA),
+    plot.margin = margin(14, 18, 12, 12))
+
+age_success_box_individuals
+
+
+## !Thesis - Success per age class per technique - density plot ----------------------------------------------
 
 # Prediction grid: one row for every age × technique combination
 age_technique_grid <- crossing(
@@ -461,54 +552,61 @@ age_technique_summary
 
 
 # Density plot
+
+# Full technique names for facet labels
+technique_labels <- setNames(stringr::str_to_sentence(techs$technique), techs$abb_technique)
+
+# Median-line colours: darken juvenile only
+age_median_colours <- age_colours
+age_median_colours <- age_colours_dark
+
 age_technique_density_plot <- ggplot(age_technique_draws, aes(x = .epred, fill = age, colour = age)) +
-  geom_density(alpha = 0.35,
-               linewidth = 0.8,
-               adjust = 1.1) +
-  facet_wrap( ~ main_technique,
-              labeller = labeller(
-                main_technique = function(x) {
-                  stringr::str_to_sentence(
-                    stringr::str_replace_all(x, "_", " "))})) +
+  # geom_density(alpha = 0.35,
+  #   linewidth = 0.8,
+  #   adjust = 1.1) +
+  geom_density(
+    alpha = 0.35,
+    linewidth = 0.4,
+    adjust = 1.1
+  ) +
+  geom_vline(data = age_technique_summary,
+    aes(xintercept = estimate),
+    colour = unname(
+      age_median_colours[as.character(age_technique_summary$age)]),
+    # linewidth = 0.7,
+    linewidth = 0.4,
+    linetype = "dashed",
+    show.legend = FALSE) +
+  facet_wrap(~ main_technique,
+    ncol = 1,
+    labeller = labeller(main_technique = technique_labels)) +
   scale_fill_manual(values = age_colours,
-                    breaks = c("juvenile", "subadult", "adult"),
-                    labels = c(
-                      juvenile = "Juvenile",
-                      subadult = "Subadult",
-                      adult = "Adult")) +
+    breaks = c("juvenile", "subadult", "adult"),
+    labels = c("Juvenile", "Subadult", "Adult")) +
   scale_colour_manual(values = age_colours,
-                      breaks = c("juvenile", "subadult", "adult"),
-                      labels = c(
-                        juvenile = "Juvenile",
-                        subadult = "Subadult",
-                        adult = "Adult")) +
-  scale_x_continuous(limits = c(0, 1),
-                     breaks = seq(0, 1, by = 0.2),
-                     labels = scales::label_percent(accuracy = 1)) +
+    breaks = c("juvenile", "subadult", "adult"),
+    labels = c("Juvenile", "Subadult", "Adult")) +
+  scale_x_continuous(breaks = seq(0, 1, by = 0.2),
+    labels = scales::label_number(accuracy = 0.1)) +
+  coord_cartesian(xlim = c(0, 1)) +
   labs(x = "Estimated probability of success",
-       y = "Posterior density",
-       fill = "Age class",
-       colour = "Age class",
-       title = "Posterior success probabilities by age and technique",
-       subtitle = "Distributions describe an average individual at an average site") +
+    y = "Posterior density",
+    fill = "Age class",
+    colour = "Age class") +
   theme_classic(base_size = 14) +
   theme(legend.position = "top",
-        strip.background = element_rect(
-          fill = "grey95",
-          colour = "grey40"),
-        strip.text = element_text(face = "bold"))
-
-age_technique_density_plot +
-  geom_vline(data = age_technique_summary,
-             aes(xintercept = estimate, colour = age),
-             linewidth = 0.7,
-             linetype = "dashed",
-             show.legend = FALSE)
+    strip.background = element_rect(
+      fill = "grey95",
+      colour = "grey40"),
+    strip.text = element_text(
+      face = "bold",
+      margin = margin(t = 6, b = 6)),
+    panel.spacing.y = grid::unit(0.8, "lines"))
 
 age_technique_density_plot
 
 
-# Box plot
+## Success per age class per technique - box plot ----------------------------------------------
 age_technique_boxplot <- ggplot(age_technique_draws, aes(x = main_technique, y = .epred, fill = age)) +
   geom_boxplot(position = position_dodge(width = 0.8),
                width = 0.7,
@@ -560,7 +658,7 @@ age_technique_boxplot
 
 
 
-## Success per age class per site - density plot ------------------------------------------
+## !Thesis - Success per age class per site - density plot ------------------------------------------
 # Note age differences are currently assumed to be consistent across sites (no age x arena_site interaction) 
 
 # include the site varying intercept
@@ -597,49 +695,152 @@ age_site_success_summary <- age_site_success_draws %>%
 
 age_site_success_summary
 
+# Ensure the site order in both datasets
+age_site_success_draws <- age_site_success_draws %>%
+  mutate(arena_site = factor(arena_site, levels = c("COCO", "2PP", "BBC")))
+
+age_site_success_summary <- age_site_success_summary %>%
+  mutate(arena_site = factor(arena_site, levels = c("COCO", "2PP", "BBC")))
+
 age_site_success_density <- ggplot(age_site_success_draws, aes(x = success_probability, fill = age, colour = age)) +
-  geom_density(alpha = 0.35,
-    linewidth = 0.8,
-    adjust = 1.1) +
+  # geom_density(
+  #   alpha = 0.35,
+  #   linewidth = 0.8,
+  #   adjust = 1.1) +
+  geom_density(
+    alpha = 0.35,
+    linewidth = 0.4,
+    adjust = 1.1
+  ) +
   geom_vline(data = age_site_success_summary,
-    aes(xintercept = estimate,
-      colour = age),
-    linewidth = 0.7,
+    aes(xintercept = estimate),
+    colour = unname(
+      age_colours_dark[as.character(age_site_success_summary$age)]),
+    # linewidth = 0.7,
+    linewidth = 0.4,
     linetype = "dashed",
     show.legend = FALSE) +
-  facet_wrap(~ arena_site,
+  facet_wrap( ~ arena_site,
     ncol = 1,
-    labeller = label_both) +
+    labeller = label_value) +
   scale_fill_manual(values = age_colours,
     breaks = c("juvenile", "subadult", "adult"),
-    labels = c(juvenile = "Juvenile",
-      subadult = "Subadult",
-      adult = "Adult")) +
+    labels = c("Juvenile", "Subadult", "Adult")) +
   scale_colour_manual(values = age_colours,
     breaks = c("juvenile", "subadult", "adult"),
-    labels = c(
-      juvenile = "Juvenile",
-      subadult = "Subadult",
-      adult = "Adult")) +
+    labels = c("Juvenile", "Subadult", "Adult")) +
   scale_x_continuous(breaks = seq(0, 1, by = 0.2),
-    labels = scales::label_percent(accuracy = 1)) +
+    labels = scales::label_number(accuracy = 0.1)) +
   coord_cartesian(xlim = c(0, 1)) +
   labs(x = "Estimated probability of success",
     y = "Posterior density",
     fill = "Age class",
-    colour = "Age class",
-    title = "Success probability by age class and site",
-    subtitle = paste(
-      "Site-specific posterior distributions standardized across techniques;",
-      "dashed lines show posterior medians")) +
+    colour = "Age class") +
   theme_classic(base_size = 14) +
   theme(legend.position = "top",
     strip.background = element_rect(
       fill = "grey95",
       colour = "grey40"),
-    strip.text = element_text(face = "bold"))
+    strip.text = element_text(
+      face = "bold",
+      margin = margin(t = 6, b = 6)),
+    panel.spacing.y = grid::unit(0.8, "lines"))
 
 age_site_success_density
+
+
+## !Thesis - 3 Plot combination --------------------------------------------
+
+# Shared formatting
+manuscript_theme <- theme(text = element_text(family = "sans", size = 10),
+  axis.title = element_text(size = 10),
+  axis.text = element_text(size = 9, colour = "grey25"),
+  strip.text = element_text(
+    size = 10,
+    face = "bold",
+    margin = margin(t = 5, b = 5)),
+  strip.background = element_rect(
+    fill = "grey95",
+    colour = "grey45",
+    linewidth = 0.5),
+  panel.spacing.y = grid::unit(0.6, "lines"),
+  plot.tag = element_text(
+    size = 14,
+    face = "bold",
+    colour = "black"),
+  plot.tag.position = "topleft",
+  plot.margin = margin(8, 10, 8, 8),
+  plot.background = element_rect(fill = "white", colour = NA))
+
+# A. Site-specific posterior distributions
+panel_A <- age_site_success_density +
+  labs(title = NULL, subtitle = NULL, caption = NULL,
+    tag = "A",
+    x = "Probability of success",
+    y = "Posterior density") +
+  guides(fill = "none", colour = "none") +
+  manuscript_theme
+
+# B. Age predictions and individual points
+panel_B <- age_success_bar_individuals +
+  labs(title = NULL, subtitle = NULL, caption = NULL,
+    tag = "B",
+    x = NULL,
+    y = "Probability of success") +
+  guides(fill = "none", colour = "none") +
+  manuscript_theme
+
+# C. Technique-specific posterior distributions
+# Use this panel to supply the single shared legend
+panel_C <- age_technique_density_plot +
+  labs(title = NULL, subtitle = NULL, caption = NULL,
+    tag = "C",
+    x = "Probability of success",
+    y = "Posterior density",
+    fill = "Age class") +
+  guides(lour = "none",
+    fill = guide_legend(
+      nrow = 1,
+      override.aes = list(
+        colour = NA,
+        alpha = 1))) +
+  manuscript_theme
+
+
+figure_layout <- "
+GG
+AC
+AC
+AC
+BC
+BC
+"
+
+age_success_combined <- (
+  wrap_plots(G = guide_area(),
+    A = panel_A,
+    B = panel_B,
+    C = panel_C,
+    design = figure_layout,
+    widths = c(1, 1.15),
+    heights = c(0.35, 1, 1, 1, 1, 1),
+    guides = "collect") &
+    theme(legend.position = "top",
+      legend.direction = "horizontal",
+      legend.title = element_text(size = 10),
+      legend.text = element_text(size = 10),
+      legend.key.size = grid::unit(0.4, "cm"),
+      legend.background = element_blank()))
+
+age_success_combined
+
+ggsave(filename = "plots_tables/age_success_combined.png",
+  plot = age_success_combined,
+  width = 190,
+  height = 210,
+  units = "mm",
+  dpi = 600,
+  bg = "white")
 
 
 ## ...duration ------------------------------------------------------------------
@@ -1220,40 +1421,37 @@ gt::gtsave(sex_success_results_gt,
            path = "plots_tables")
 
 
-## Success per sex class - Simple plot ----------------------------------------------------
+## !Thesis - Success per sex class - Simple plot ----------------------------------------------------
 
 sex_success_density <- ggplot(sex_success_draws, aes(x = success_probability, fill = sex, colour = sex)) +
-  geom_density(alpha = 0.35,
-    linewidth = 0.9,
+  geom_density(
+    alpha = 0.35,
+    linewidth = 0.8,
     adjust = 1.1) +
   geom_vline(data = sex_success_summary,
-    aes(xintercept = estimate,
-      colour = sex),
+    aes(xintercept = estimate, colour = sex),
     linewidth = 0.7,
     linetype = "dashed",
     show.legend = FALSE) +
   scale_fill_manual(values = sex_colours,
-    breaks = c("male", "female"),
-    labels = c(male = "Male",
-      female = "Female")) +
+    breaks = c("female", "male"),
+    labels = c("Female", "Male")) +
   scale_colour_manual(values = sex_colours,
-    breaks = c("male", "female"),
-    labels = c(male = "Male",
-      female = "Female")) +
+    breaks = c("female", "male"),
+    labels = c("Female", "Male")) +
   scale_x_continuous(breaks = seq(0, 1, by = 0.2),
-    labels = scales::label_percent(accuracy = 1)) +
+    labels = scales::label_number(accuracy = 0.1)) +
   coord_cartesian(xlim = c(0, 1)) +
   labs(x = "Estimated probability of success",
     y = "Posterior density",
     fill = "Sex",
-    colour = "Sex",
-    title = "Success probability by sex",
-    subtitle = paste("Posterior distributions standardized across",
-      "processing techniques; dashed lines show medians")) +
+    colour = "Sex") +
   theme_classic(base_size = 14) +
-  theme(legend.position = "top")
+  theme(legend.position = "right",
+    legend.direction = "vertical")
 
 sex_success_density
+
 
 ## ...duration ------------------------------------------------------------------
 
