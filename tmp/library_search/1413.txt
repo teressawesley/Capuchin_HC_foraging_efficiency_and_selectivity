@@ -1,0 +1,1406 @@
+PDF PAGE 1
+© 2010 The Psychonomic Society, Inc. 206
+Social learning may be defined as “learnin g that is in-
+fluenced by observation of, or interaction with, anothe r 
+animal (typically a conspecific) or its products” (Heyes, 
+1994; cf. Box, 1984; Galef, 1988). It comprises a variety 
+of mechanisms that ran ge in sophistication from co gni-
+tively low-level local and stimulus enhancement to high-
+level imitation. In the case of local enhancement, an indi-
+vidual is more likely to discover a new behavior simply 
+bbecause it is drawn to a location at w hich a conspec ific 
+is active. Similarly, an object might be more salient to an
+individual because a conspecific has been handling it, but
+each individual discovers the object’ s affordances for it-
+self (e.g., the appropr iate length and diameter o f sticks
+to probe for honey or termites). Imitation, generally con-
+sidered the most co gnitively demandin g form of social
+learning, can be defined as copying the exact form of an
+agent’ s actions (Tomasello, 1999). In contrast, emulation 
+describes the copying of an action’ s outcome, rather than a
+motor pattern. The extent to which human and nonhuman 
+animals rely on imitation and emulation to acquire skills
+from conspecifics is controversial.
+Many experiments have shown that imitation is crucial 
+for children who are learnin g tool skills (Call, Carpen -
+ter, & Tomasello, 2005; Horner & Whiten, 2005; Want &
+Harris, 2001, 2002 ), but nonhuman primates have been
+thought mainly to emu late. For example, several studies 
+have found no evidence that chimpanzees (Pan troglo-
+dytes) or orangutans (Pongo pygmaeus(( ) can copy the ac-
+tions of cons pecifics in tasks that re quire tool use to r e-
+trieve food (Call & Tomasello, 1994; Myowa-Y amakoshi 
+& Matsuzawa, 1999; Nagell, Olguin, & Tomasello, 1993; 
+Tomasello, Davis-Dasilva, Camak, & Bard, 1987). How-
+ever, Tomasello, Savage-Rumbaugh, and Kru ger (1993) 
+found that the imitation abilit y of enculturated chimpan-
+zees was similar to that of 2.5-year-old children. Also, a
+review of 31 ex periments with apes reported numerous 
+cases of both imitative behavior and emulation (Whiten, 
+Horner, Litchfield, & Marshall-Pescini, 2004 ). In gen-
+ eral, much of the socially learned behavior of nonhuman
+primates appears to consist of a combination of different
+mechanisms such as imitation, emulation, and stimulus
+enhancement, au gmented by individual tr ial-and-error 
+learning (Fragaszy & Visalberghi, 1996; Tomasello, 1996;
+Whiten, McGuigan, Marshall-Pescini, & Hopper, 2009).
+Culture has been defined as soc ially learned behav-
+ior patterns that are customary in some communities but 
+absent in others, without ecolo gical explanations for the
+variation (Laland & Hoppitt, 2003; Whiten et al., 1999). 
+ Under this definition, culture has been reported in a wide
+range o f an imals an d contexts. Examp les include dia-
+lects in son gbirds (Catchpole & Slater, 1995; Marler & 
+Tamura, 1964; Mundinger, 1980) and humpback whales 
+(Megaptera novaeangliae(( ) (Noad, Cato, Bryden, Jenner, 
+& Jenner, 2000; Rendell & Whitehead, 2001), and diverse 
+behaviors in nonhuman primates (chimpanzees, McGrew, 
+1992; Whiten et al., 1999; orangutans, Pongo pygmaeus, 
+van Schaik et al., 2003; capuchin monke ys [Cebus spe-
+cies], Ottoni & Izar, 2008; Perry et al., 2003).
+Which social learning mechanisms are cruc ial for the
+development and transmission of culture? In some cases,
+dthe spread of cultural traditions is probably best explained 
+by the cognitively simpler mechanisms of local and stimu-
+lus enhancement (e.g., potato and grain washing in Japa-
+nese macaques; Avital & Ja blonka, 2000; Kawai, 1965).
+However, more complex traditions, such as nut crackin g 
+fand tool manufacture, mi ght require a hi gher degree of 
+Social learning in New Caledonian crows
+JENNIFER C. HR OLZHAIDER, GAVIN R. HUNT, AND RUSSELLRR D. GRAY
+University of Auckland, Auckland, New Zealand
+New Caledonian (NC) crows are the most sophisticated tool manufacturers other than humans. The diversifi-
+cation and geographical distribution of their three Pandanus tool designs that differ in complexity, as well as the 
+lack of ecological correlates, suggest that cumulative technological change has taken place. To investigate the 
+ppossibility that high-fidelity social transmission mediated this putative ratchet-like process, we studied the ontog-
+eny of Pandanus tool manufacture and social organization in free-living NC crows. We found that juvenile crows 
+took more than 1 year to reach adult proficiency in their Pandanus tool skills. Although trial-and-error learning 
+is clearly important, juveniles have ample opportunity to learn about Pandanus tool manufacture by both observ-
+ing their parents and interacting with artifactual material. The crows’ social system seems likely to promote the 
+faithful social transmission of local tool designs by both favoring the vertical transmission of tool information 
+and minimizing horizontal transmission. We suggest that NC crows develop their Pandanus tool skills in a highly 
+scaffolded learning environment that facilitates the cumulative technological evolution of tool designs.
+Learning & Behavior
+2010, 38 (3), 206-219
+doi:10.3758/LB.38.3.206
+J. C. Holzhaider, jenny.holzhaider@gmail.com
+
+PDF PAGE 2
+SSOCIALOCIAL LEARNINGEARNING ININ NCNC CCROWROWSS 207207
+into “ brushes” to improve their efficiency before they are
+first used. The authors suggested that the brush probes are
+an improvement to an existing, simpler design. However, 
+because the brush modification is a sequential addition to
+an existing manufacturing process, it is difficult to know 
+whether brush manufacturing is transmitted socially or is 
+due to individual trial-and-error learning.
+Research on the cognition associated with folk physics
+and social learning in nonhuman animals has tradition-
+ally focused on primates. More recently, however, another 
+animal group has received considerable attention in these 
+areas of cognitive research: corvids. Corvids have demon-
+strated cognitive abilities that rival those of the great apes 
+(Bird & Emery, 2009, 2010; Bugnyar, 2008; Emery, 2004;
+Emery & Clayton, 2009; Seed, Emery, & Clayton, 2009;
+Taylor, Hunt, Holzhaider, & Gray, 2007; Taylor, Hunt, Me-
+dina, & Gray, 2009; Taylor, Roberts, Hunt, & Gray, 2009;
+Tebbich, Seed, Emery, & Clayton, 2007). Like the brains of 
+primates, corvid brains are significantly larger than would 
+be predicted from their body size (Jerison, 1973). Impor-
+tantly, the relative size of the corvid forebrain, especially
+the nidopallium and mesopallium, which are t hought to 
+be functionally analogous to t he mamma lian prefrontal 
+cortex, is larger than that of most other birds (Mehlhorn, 
+Hunt, Gray, Rehkämper, & Güntürkün, 2010; Rehkämper,
+Frahm, & Zilles, 1991; Reiner et al., 2004).
+Even the lifestyle of many corv id species appears to 
+be similar to t hat of nonhuman pr imates. For examp le, 
+colonial species such as rooks (Corvus frugilegus) or pin-
+yon jays (Gymnorhinus cyanocephalus) live in complex,
+variable social groups that are reminiscent of the fission–
+fusion societies of chimpanzees (Clayton & Emery, 2007).
+Like many primate species, corvids tend to be omniv o-
+rous, generalist foragers (Emery, 2006). It has been su g-
+gested, therefore, that similar socioecological pressures 
+might have led to a convergent evo lution of intelligence 
+in corvids and apes (Emery & Clayton, 2004; Seed et al.,
+2009).
+New Caledonian crows (Corvus moneduloides ,
+NC crows hereafter) stand out in the corv id family be-
+cause of their exceptional ability to use and manufacture
+tools in both the wild (Hunt, 1996, 2000a; Hunt & Gra y, 
+2003, 2004a, 2004b, 2007) and the laborator y (Chappell 
+& Kacelnik, 2002, 2004; Weir, Cha ppell, & Kacelnik,
+2002; Weir & Kace lnik, 2006 ), an d for t heir cons ider-
+able problem-solving skills (Taylor et al., 2007; Taylor,
+Hunt, e t al., 2009; Taylor et al., 2010; Ta ylor, Roberts,
+et al., 2009; Wimpenn y, Weir, Clayton, Rutz, & Kace l-
+nik, 2009). NC crows also appear to have relatively large
+brains, even among highly encephalized corvids (Cnotka,
+Güntürkün, Rehkämper, Gray, & Hunt, 2008; Mehlhorn 
+et al., 2010 ). In the wild, NC crows are one of the few 
+species that habitually manufacture tools, and the dive r-
+sity of tools that they manu facture is matc hed only by
+chimpanzees (Whiten et a l., 1999) and orangutans (van
+Schaik et al., 2003). Indeed, we believe that the strongest
+evidence for human-like cumulative technological evolu-
+tion in a nonhuman is provided by NC crows’ manufacture 
+of tools from the leaves of Pandanus species trees (Hunt
+& Gray, 2003).
+fidelity of transmission between individuals (Tomasello, 
+Kruger, & Ratner, 1993). Faithful transmission would be
+particularly important for incremental improvements in
+traditions and artifacts over time (Boserup, 1981; Boyd & 
+Richerson, 1996; Tomasello, 2005), because only faithful 
+transmission can create a ratchet effect that ensures that 
+existing techniques or artifacts are maintained and rel i-
+ably reproduced until new improvements appear (Tom a-
+sello, Kruger, & Ratner, 1993).
+Some aut hors have c laimed t hat on ly very spec ific 
+types of social learnin g—namel y, imitative, instructed,
+and collaborative learnin g—can lead to cumulative cu l-
+tural transmission (Boyd & Richerson, 1996; Tomasello, 
+1996). Ot hers have challenged this v iew (Claidière & 
+Sperber, 2010; He yes, 1993; La land & Hopp itt, 2003 ).
+Claidière and Sperber claimed that imitation mi ght well 
+be important for the propagation of animal culture, but it 
+is not faithful enough to explain its stability. Heyes (1993) 
+argued that fidelity of transmission relies on insulating 
+socially transmitted information from individual mod i-
+fication, rather than from a particular learnin g process.
+Information stored in artifactual material might provide
+one o f these insulating processes (“externa l memory,”
+Donald, 1991). For example, information about the design
+of currently used tools could be obtained from an inspec-
+tion of existing tools, as well as from directly observing 
+tool manufacturing techniques. Adult chimpanzees, for 
+example, frequently allow juveniles to use an d interact
+with objects that they had just used as tools (Biro, Sousa,
+& Matsuzawa, 2006; Matsuzawa et al., 2001). Laboratory 
+experiments have confirmed that the use of tools that were
+previously used by an experienced individual can support 
+the acquisition of tool skills in naive individuals (Hirata & 
+Celli, 2003; Hirata & Morimura, 2000).
+Animals commonly modify their environment in a va-
+riety o f ways— for examp le, by leaving too ls or facili-
+tating access to food sources, t hereby shaping the envi-
+ronment in which their offsprin g mature. This process
+was termed niche construction by Laland et al. (Laland, 
+Odling-Smee, & Fe ldman, 2000; O dling-Smee, La land, 
+& Feldman, 2003; Stere lny, 2006) and might lead to the 
+faithful transmission of behavior even in the absence of 
+high-level social-learning mechanisms, such as imitation 
+(Reisman, 2007).
+However, despite the many examples of sophisticated 
+behavior such as tool use and the associated potential for 
+cultural transmission, evidence of cumulative chan ge in
+nonhuman animals is exceedin gly rare (Boyd & Riche r-
+son, 1996; Whiten, 2005). Song dialects in birds provide a
+well-documented example (Baker & Cunningham, 1985; 
+Mundinger, 1980).
+Chimpanzees exhibit man y aspects of tool use tha t
+have been claimed to be uni que to humans, such as the
+possession of “too l kits” w ith different too ls for differ-
+ent functions (Boesch, Head, & Ro bbins, 2009 ), or t he
+use of tools for underground food extraction (Hernandez-
+Aguilar, Moore, & Pickering, 2007; Sanz, Morgan, & Gu-
+lick, 2004). Sanz, Call, and Morgan (2009) recently docu-
+mented that chimpanzee populations in the Congo Basin 
+deliberately modify the tips of their termite-fishing probes 
+
+PDF PAGE 3
+208208 HOLZOLZHAIDER, H,H UNTUNT,, ANDAND GGRA Y
+shapes of over 5,000 counterparts at 21 sites across main-
+land Grande Terre and the island of Maré, Hunt and Gray
+(2003) showed that each tool design is characterized by a 
+high degree of local standardization. The specific design 
+made at a s ite (e.g., a two-steppe d tool) can rema in the
+same for decades (G. R. Hunt, unpublished data ), sug-
+gesting hi gh-fidelit y transmission. Furthermore, Hunt 
+and Gray found different geographical distributions of the 
+three-tool designs without any obvious ecological corre-
+lates. The geographical distribution patterns and absence 
+of the recapitulation of simpler designs when making the 
+more complex, stepped design led Hunt and Gray to sug-
+gest that diversification of Pandanus tools arose through 
+a process of cumulative technological evolution, probably
+mediated by social learning.
+Is there any evidence that social learning is involved in 
+the acquisition of tool skills in NC crows? A first attempt 
+to unravel the mechanisms involved in the ontogeny of tool
+use in juvenile crows was undertaken at the University of 
+Oxford. Kenward, Rutz, Weir, and Kacelnik (2006) hand 
+raised four NC crows in artificial nests and provided them 
+with sticks and food that could be extracted only by using 
+the sticks as tools (Kenward et al., 2006). Food retrieval was
+preceded by precursor actions that resembled components
+of proficient tool use, and all four juveniles retrieved food 
+at approximately 70 days of age. T wo of the four juvenile
+crows were allowed to watch tool use by their human foster 
+parents, resulting in increased twig carrying and insertion 
+rates. However, the tutoring did not influence the onset or 
+proficiency of food extraction, indicating that social input 
+might not be necessary to acquire proficiency in basic stick 
+tool use. Development of basic tool use in the absence of 
+social input is also seen in other bird species that habitu -
+ally use tools in the wild. Woodpecker finches (Cactospiza 
+pallida) have shown prefunctional development of tool be-
+havior and acquired proficient stick tool use, regardless of 
+whether they were expose d to a too l-using model (Teb-
+bich, Taborsky, Fessl, & Blomqvist, 2001). Similarly, naive
+Egyptian vultures (Neophron percnopterus(( ) developed the 
+technique of throwing stones to break eggs without social
+input (Thouless, Fanshawe, & Bertram, 1989). However, in
+the Kenward et al. (2006) study, the tutored crows also had 
+a preference to handle objects that had been manipulated 
+by the experimenters, indicating that stimulus enhanc e-
+NC crows manufacture two types of tools (Hunt, 1996): 
+stick tools (Hunt & Gray, 2002) and tools made from the 
+barbed edges of Pandanus species leaves (Hunt & Gray,
+2003, 2004b). Stick tools can be made by simple modifi-
+cations to tw igs and similar stick-like materials, or by a
+much more com plicated process to create hooked tools
+from fresh twigs (Hunt, 1996; Hunt & Gray, 2004a). The 
+latter process first involves discarding one side of a forked 
+twig and then breaking off the remaining side just below 
+the base of the fork. The crow then usuall y removes the 
+leaves from the twi g and sculpts a hook from the short 
+stump on the wide end of the tool (Figure 1).
+Pandanus tools are manufactured to three different de-
+signs: uniformly wide, uniformly narrow, and stepped or 
+tapered (Hunt & Gray, 2003) (Figure 2). The crows use the
+naturally occurring barbs along one edge of these tools to
+hook prey such as slugs and insects out of Pandanus spe-
+cies and other trees. Stepped tools have the most complex
+shape and combine the advanta ges of the other two de -
+signs. Stepped tools, like narrow tools, are thin and flex -
+ible at the probing end, but like wide tools are sturdy and 
+easy to gr ip at t he proximal end that is held in the bill.
+Importantly, the design of a part icular Pandanus tool is
+determined before or at the start of manufacture, and a 
+tool is functional only after the final cut that separates i t
+from a leaf. Therefore, unlike tools made by other species,
+such as chimpanzees’ brush tools, Pandanus tools cannot
+be made and used in a series of incremental functional 
+steps, leadin g Hunt (2000a) to su ggest that the shape
+of steppe d tools is determined by a ru le system before 
+manufacture begins. After removal, an exact negative tem-
+plate, the counterpart, rema ins on t he leaf edge, making 
+it possible to reconstruct the shapes of tools made at a 
+site over several years (Hunt, 2000a). By documenting the
+Figure 1. Manufacture of a hooked-twig tool. A crow breaks off 
+and discards the side twig (breakI) before snapping the tool-twig
+off the stem just below the junction (brea k II). It then usually 
+removes the leaves on the tool-twig and sculpts the hook. From
+“The Crafting of Hook Tools by Wild New Caledonian Crows,”
+by G. R. Hunt and R. D. Gray, 2004, Proceedings of the Royal So-
+ciety B, 271, p. 89. Copyright 2004 by the Royal Society. Adapted
+with permission.
+A
+B
+C
+Figure 2. The three different Pandanus tool designs described 
+on Grande Terre. (A) Wide tool. (B) Narrow tool. (C) Stepped
+tool.
+
+PDF PAGE 4
+SSOCIALOCIAL LEARNINGEARNING ININ NCNC CCROWROWSS 209209
+ficient at ant dipping than adults (Humle, 2006; Nishida
+& Hiraiwa, 1982).
+Although research on hand-raised animals in the labo-
+ratory enables observations under controlled conditions,
+such research cannot model all of the processes that might
+lead to the development of complex behaviors in the wild.
+Only a field stud y can full y investigate the interactions
+between parents and offspring that might facilitate social
+learning (see, e.g., Jaeggi et al., 2010).
+Determining the extent o f any soc ial learning associ-
+ated with tool manufacture and use in NC crows requires
+insight into their social organization and the extent of their 
+parental care, as we ll as into the ontogeny o f their tool 
+skills. Social organization is of interest because it can re-
+veal possible pathways of social transmission.
+Early observations of NC crows have su ggested tha t
+they live most often in small family groups (Hunt, 2000b;
+Kenward, Rutz, Weir, Chappell, & Kacelnik, 2004). Hunt
+(2000b) o bserved a nutr itionally independent juvenile 
+moving around with adults and su ggested that the 30 o r 
+more crows he observed in a tree at the Sarraméa site 
+on Grande Terre were a temporary aggregat ion of small
+groups. Kenward et al. (2004) saw NC crows flying above
+the canopy on Grande Terre in groups that were typically 
+composed of three to four individuals, and the y captured 
+crows in small mixed-sex groups, which is consistent with 
+the hypothesis that NC crows live most frequently in small
+family groups.
+In the following account, we will describe the results of an 
+extended field study conducted between 2003 and 2008 on
+the island of Maré, where NC crows habitually manufacture
+only uniformly wide Pandanus tools. The study focused on
+both the social organization of NC crows and the ontogeny
+of Pandanus tool skills in juvenile crows (Holzhaider, Hunt, 
+& Gray, 2010; Holzhaider et al., in press). We found that 
+the social organization of NC crows is suitable for enabling 
+the cumulative technological evolution suggested by Hunt
+and Gray (2003), and that different forms of learning—both 
+social and individual—ma y be involved in the development
+of wide-Pandanus-tool manufacture in juvenile crows.
+METHOD
+The study site was approximately 1.5 km2 of primary and second-
+ary rain forest that was 5-km inland from Wabao village, where we 
+had individually color banded over 100 crows between 2003 an d 
+2006. Forest areas are interspersed with garden patches in which 
+local villagers grow fruit and vegetables. These gardens, in which
+there are still many dead trees, are usually used for 2 consecutive 
+years before they become overgrown. Crows forage in both forest 
+and garden patches.
+Our main method of studying free-living NC crows at t he site 
+was to observe them at feeding tables that were set up either in the
+forest or in garden patches (Figure 3). The tables, made from wood 
+found in the vicinity, were situated about 1 m above the ground and 
+were provided with fresh papaya (Carica papaya) to attract crows. 
+Observations were made from hides that were set up around 5–7 m 
+from the tables. Whenever possible, we videotaped observations 
+with either a handheld video camera or a camera that was operate d 
+remotely by a mot ion detector. To observe Pandanus tool manu-
+facture, we positioned a fresh Pandanus species tree at t he table.
+To provide naturalistic tool manufacture opportunities, the tree was 
+ment might play a role in the acquisition of certain aspects
+of tool manufacture and use.
+Several weeks after developing stick tool use, the fou r 
+crows were each presented with artificially mounted Pan-
+danus leaves. Each crow ripped at the leaves and removed 
+strips of material from them. One 3-month-old crow man-
+ufactured a leaf strip and used it as a probe on its first day
+of exposure to the leaf (Kenward, Weir, Rutz, & Kacelnik, 
+2005). Kenward et al. (2005) and Kenward et al. (2006) 
+therefore conc luded that basic too l use an d basic Pan-
+danus tool manufacture can develop from a disposition 
+to manipulate tool-like material to tr y and obtain out-of-
+reach food, without social input. They cautioned, however,
+that social learning might play a role in the acquisition of 
+“ specific techniques and tool shapes.”
+Observations of a hand-raised male N C crow at Parc
+Zoo-Forestier, Nouméa, confirmed that basic stick tool
+skills can develop without social learning (Hunt, Lambert,
+& Gray, 2007). This crow also tore off pieces of provided 
+Pandanus species leaves, but did not use them as tools.
+Similarly, when four captive adult crows that probabl y
+lacked ex perience w ith Pandanus s pecies leaves were
+given the opportunity to use an d manufacture Pandanus
+tools, only two of them probed with the provided tools, and 
+none manufactured tools. Hunt et al. proposed that a dis-
+position for basic stick tool skills evolved early in the his-
+tory of the NC crow’ s tool behavior. With this disposition 
+in place, crows then enhanced their stick tool skills and 
+developed Pandanus tool skills through individual and so-
+cial learning. Interestingly, although the five young, naive 
+crows at Nouméa and the University of Oxford laboratory
+ripped strips of material off Pandanus species leaves that 
+could be used to extract meat, none of these leaf tools re-
+sembled any of the threePandanus tool designs described 
+in the wild. The lack of shape consistency with the tools
+made in the wild might have been due to a lack of prac-
+tice, or possibly to impoverished living conditions. Adult
+crows that are held captive in our own outdoor aviary on
+Maré also sometimes indiscriminatel y tear at the leaves 
+on Pandanus species trees that are provided in their cages 
+without using most of the removed material as tools.
+Another surprisin g aspect of Kenward e t al.’ s (2005) 
+and Kenward et al.’ s (2006) studies was the short perio d 
+of time in which the naive hand-raised juveniles learne d 
+to use an d manu facture too ls. All four juveniles were
+less than 3 months old when they successfully extracted 
+meat with sticks, and by 3 months of age, one subject had 
+manufactured Pandanus tools and used them to extrac t
+meat. This rapid skill acquisition clearly contrasts with the 
+ontogeny of tool use in young primates, both human and 
+nonhuman. For example, children require man y months
+to successfully use a spoon to eat (Connolly & Dalgleish,
+1989), and even longer to accomplish more sophisticated 
+tasks. Y oung chimpanzees at Bossou in Guinea, as we ll 
+as tufted capuc hins (Cebus ape lla) in Braz il, take well 
+over 2 years to learn to crack nuts (de Resende, Ottoni, & 
+Fragaszy, 2008; Inoue-Nakamura & Matsuzawa, 1997 ).
+Chimpanzees do not reach adult proficiency at nut crack-
+ing until they are 9 to 10 years old (Matsuzawa, 1994).
+Similarly, by 6 years of age chimpanzees are still less ef-ff
+
+PDF PAGE 5
+210210 HOLZOLZHAIDER, H,H UNTUNT,, ANDAND GGRA Y
+location of Pandanustool manufacture (in the tree) from the location 
+of Pandanus tool use (on the table). This separation probably caused 
+juveniles to remain on the table to wait for food extraction while
+their parents made tools in the nearby tree. This spatial separation 
+of tool manufacture and use may have reduced the frequency with 
+which juveniles watched parents manufacture tools.
+RESULTSLL AND DISCUSSION
+Development of Wide Pandanus
+Tool Manufacture
+To describe the ontogeny of wide Pandanus tool manu-
+facture and use, we documented all tool-related behavior 
+of six juvenile crows between the ages of 2 and 18 months 
+that regularly visited our feeding tables. We defined five
+behavioral categories to describe tool-manufacture tech -
+niques, ranging from unsuccessful, random-like ripping 
+at leaves to adult-like tool manufacture, and four catego-
+ries to describe different stages o f tool-use proficiency. 
+We also recorded all tool use and manufacture events
+by accompanying parents, and whether or not juveniles 
+appeared to watch the activities of their parents. Parent–
+juvenile relationships were identified by parental feeding, 
+intensive juvenile begging toward an adult, and protracted 
+following of an adult by a juvenile.
+In contrast with th e results of Kenward et al. (2005) 
+and Kenward et al. (2006), we found that the development
+of proficient Pandanus tool manufacture and use in the 
+wild is a very extended process that is comparable to the
+ontogeny of tool skills in both human and nonhuman pri-
+mates. Our findings also suggest that social learning plays
+an important role in that development.
+Before acquiring adult-like technical proficiency at 10 
+to 12 months of a ge, juveniles went through four differ-
+ent stages of nonproficient Pandanus tool manufacture 
+(Figures 4 and 5): In Stage I, the first attempts to manufac-
+ture Pandanus tools consisted of uncoordinated ripping
+of Pandanus species leaves that often failed to produce
+a tool. If juveniles successfully removed a tool, it usually
+did not resemble the classic shape of an adult-made wide 
+tool, or it lacked barbs because it was removed at unsuit-
+able locations for manufacture. In Stage II, the production 
+of adult-like wide tools with a well-coordinated sequence
+of cutting and ripping actions developed gradually. J u-
+veniles’ use of adult-like cutting and ripping actions still 
+did not a lways result in the removal of a functional tool
+from the leaf because they made errors in the position of 
+a cut or a rip. Adults generally position the second cut/rip
+action distal to the first one, and both cuts have the same
+depth. They can therefore remove the tool easily from the 
+leaf and hold it in a functional orientation (i.e., with the 
+leaf-edge barbs facin g away from the workin g end). In
+contrast, juveniles sometimes placed the second cut/rip
+proximal to the first one. This resulted in the tools being
+held with the barbs facing toward the working end, which 
+rendered them nonfunctional (Figure 5, Technique 3). Ad-
+ditionally, cut/rip actions may have been of uneven depth 
+and the tool could not be removed from the leaf (Figure 5, 
+Technique 2). In Stage III, juveniles reac hed adult-like
+technical skill in wide-tool manufacture, carrying out the 
+generally left in its original state except for the trimming of leaves 
+that overhung the table. To create standardized opportunities for tool 
+use, we drilled holes (ca. 2.5 cm in diameter and ca. 7cm deep) into
+dead logs that were placed on the tables. These holes were baite d 
+with pieces of meat that crows could extract only using tools.
+It has been suggested that our approach of observing crows from
+hides at artificial feeding sites prohibits the collection of behavioral
+data in a naturalistic setting (Bluff, Troscianko, Weir, Kacelnik, & 
+Rutz, 2010; Rutz, B luff, Weir, & Kacelnik, 2007). However, field 
+experiments manipulating the environment of study individuals have
+a long-standing tradition in animal research (Reader & Biro, 2010).
+For example, valuable insights into the ontogeny of chimpanzee nut-
+cracking behavior have been obtained using a methodology similar 
+to ours (Inoue-Nakamura & Matsuzawa, 1997; Matsuzawa, 1994).
+Although our met hods were not su itable to stu dy natura l sites of 
+Pandanus and stick tool use, we believe they were appropriate for 
+studying naturalistic Pandanus tool manufacture, since conditions 
+in Pandanus trees in the forest away from feeding sites are not dif -ff
+ferent from those at our tables. Furthermore, by standardizing the 
+characteristics of probe sites, we could compare the proficiency of 
+tool use between individuals. Our observations did not disturb the
+crows’ daily routines or interfere with their family relationships. 
+We therefore believe that our observations are generally indicative
+of NC crows’ behavior in the wild. A recent study investigating NC 
+crows’ stick tool use at natural foraging sites on Grande Terre (Bluff 
+eta l., 2010) confirmed the ecological validity of our approach. Bluff 
+eta l. reported findings similar to those we have obtained at our feed-
+ing tables (Holzhaider et al., 2010) regarding juveniles’ opportunity
+to use discarded tools and to observe parental tool use. There are, 
+however, two possible limitations of our methodology. First, because
+the tables provided a continuous, valuable food source, they were
+probably more sa lient to crows t han natural feeding sites, such as 
+Pandanus species trees in the forest or papaya trees in gardens. Con-
+sequently, crows might be attracted to the tables, bringing them into 
+closer contact w ith conspecifics than would be the case at natura l 
+feeding sites. Secon d, our o bservations on Maré su ggest that the 
+manufacture and the use of a Pandanus tool usually occur in close 
+proximity to one another in the same tree, whereas we separated the 
+Figure 3. Example of a feedin g table at the Maré stud y site. 
+We used fresh papaya on the tables to attract crows. A Pandanus
+tree is attached behind the table to provide the opportunity for 
+naturalistic tool manufacture. The log on the table is baited with
+meat placed in drilled holes to allow tool use under standardized 
+conditions.
+
+PDF PAGE 6
+SSOCIALOCIAL LEARNINGEARNING ININ NCNC CCROWROWSS 211
+1. Juveniles followed their parents almost constantl y,
+and up to 40% o f their time at feeding tables was in the 
+company of at least one parent. Parents t herefore likely
+helped to initiate tool-related behaviors via local enhance-
+ment, leading their offspring to Pandanus trees to forage.
+2. Y oung crows were fed a considerable amount of the
+food that their parents had extracted, and scrounging from
+parents was frequently tolerated. Because the young crows 
+were generally not rewarded by their own probing attempts
+until they were 6 months of age, parental feeding probably 
+kept them motivated to use and manufacture tools. More-
+over, the opportunity to scrounge from conspecifics can 
+facilitate social learnin g in birds and primates (Caldwell
+& Whiten, 2003; Midford, Hailman, & Woolfenden, 2000; 
+but see Giraldeau & Lefebvre, 1987).
+3. The first tools that juveniles used were those dropped 
+or discarded by their parents or other experienced crows.
+Juveniles up to 6 months of age commonly took advantage
+of these ready-made tools even after they started to make 
+their own tools (Figure 6). Given the close proximity of 
+juveniles to t heir parents during their first 6 months of 
+life, tools that the y picked up were much more likel y to 
+be parental tools than those made b y other crows. Like
+scrounging of food, the use of tools that were formerly
+used or manu factured by exper ienced conspec ifics is
+likely to ass ist the development of proficient tool use in 
+inexperienced individuals (Hirata & Celli, 2003; Hirata & 
+Morimura, 2000).
+By providing a juvenile’ s early tools, NC crow parents 
+might also influence the emergence of juveniles’ tool pref-ff
+erences via stimulus enhancement. Most adult crows have
+a strong, if not exclusive, preference to manufacture and 
+correct sequence of manufacture ste ps. Complete adult-
+like proficiency, however, was reached only in Stage IV, in 
+the second year of life, when juveniles’ speed of manufac-
+ture matched that of adults. For video clips of the differ -
+ent stages of tool manufacture, see Video 2 in Holzhaider 
+et al. (2010).
+Proficient too l-using tec hniques develop faster t han 
+tool-making techniques, taking approximately 7 months, 
+because juveniles have ready access to tools that are di s-
+carded by adults. However, like Pandanus tool manufac-
+ture, proficient tool use is also preceded by a per iod of 
+faulty tool use. Incorrect Pandanus tool use includes the 
+faulty insertion of tools into holes or the use of too much 
+force when probin g so that tools are nonfunctional b e-
+cause they bend in the holes. Similar to what occurs in 
+Pandanus tool manufacture, juveniles do not reach adult 
+meat extraction speeds until at least 12 months of age.
+Social Learning in NC Crows
+One important mec hanism by which juvenile crows 
+learn to manufacture and use Pandanus tools appears to 
+be individual trial-and-error learnin g. All of the juvenile
+crows that we observed spent considerable amounts of 
+time ripping at Pandanus leaves without producing a
+functional tool and probing holes with unsuitable tools
+without extract ing meat. Juven iles pers isted with these
+behaviors often when alone on the tables. However, their 
+learning took place in an environment that was stron gly 
+scaffolded by t heir parents in severa l ways. T he first
+6 months posthatching appear to be especially important
+for the acquisition of tool skills, with the followin g be-
+haviors observed predominantly during this period:
+0
+20
+40
+60
+80
+100
+0–3 4–6 7–9 10–12 13–15 16+ Parents
+Average Frequency of Manufacture Technique (%)Age (Months Post Hatching)
+Technique 0 (random rips, no tool removed)
+Technique 1 (random rips, tool removed)
+Technique 2 (coordinated, nonaligning rips, no tool removed)
+Technique 3 (coordinated rips in wrong order, barbs toward working tip)
+Technique 4 (adult-like tool manufacture)
+N =12 80 102 208 33 421
+Figure 4. Development of wide Pandanus tool manufacture techniques. N  the total number of tools
+manufactured by the members of each age class.
+
+PDF PAGE 7
+212 HOLZOLZHAIDER, H,H UNTUNT,, ANDAND GGRA Y
+results s how that juveniles appeare d to watc h too l use
+(i.e., probing and meat extraction ) much more than the y 
+watched tool manufacture. However, as we cautioned ear-
+lier, this difference might be an art ifact of the artificial 
+spatial separation of the locations of tool manufacture and 
+subsequent tool use at feedin g tables. In Pandanus trees 
+away from feedin g tables, the manufacture and use of a 
+wide Pandanus tool generally occurs in close proximity,
+in the same tree. Therefore, a juvenile watching a parent 
+extracting prey in a Pandanus tree probably also had the 
+opportunity to watch tool manufacture.
+A detailed analysis of tool manufacture in two fami -
+lies revealed that crows on Maré manufacture Pandanus
+tools using slightly different manu facture var iants (see
+Figure 8; for video clips of the variants, see Vide o 3 in 
+Holzhaider et al., 2010 ). Although juveniles did not d i-
+rectly adopt their respective parents’ preferred variant, the 
+distribution of variants was more similar within the two
+families than between them (Figure 9). This is consistent 
+with the juveniles’ copying one of the variants that the y
+saw their parents use. However, the differences between
+the three variants are su btle and our sam ple size of two 
+use either stick or Pandanus tools (Hunt & Gray, 2007). 
+In our present study, all of the juveniles that developed a
+preference for Pandanus tools (4 out of 5 juveniles—i.e.,
+80%) had at least one parent w ith the same pre ference.
+Moreover, two juveniles of a pair in which both partners
+preferred to use stick tools also developed a preference for 
+stick tools (Holzhaider, Hunt, & Gray, unpublished data).
+4. Counter parts create d on Pandanus species leaves
+from tool manufacture appear to facilitate the early devel-
+opment of juvenile tool manufacture by providing easily 
+accessible “startin g points” for manufacture, similar to
+the way that juvenile black rats (Rattus rattus(( ) can learn to
+remove pine cone seeds (Terkel, 1996). Until 6 months of 
+age, juveniles often started tool manufacture at counte r-
+parts or other dama ged sections of leaf ed ge (Figure 7). 
+Therefore, counterparts might help juveniles to learn the
+appropriate location along the leaf edge at which to make
+a tool, and the correct depth of a rip.
+5. Juveniles have ample opportunity to observe close up 
+both tool manufacture and tool use. Parents are extremely
+tolerant toward their offspring, allowing body contact and 
+even the touching of their tools by juveniles’ bills. Our 
+Figure 5. Four distinct stages in the development of juvenile crows’ wide Pandanus
+tool manufacture to adult tools. In Stage I (Techniques 0 and 1), juveniles rip at leaves 
+in an uncoordinated fashion that does not normall y result in a functional tool. No 
+tool is produced in Technique 0. The removed leaf section at left for Technique 1 was 
+used as a tool. The leaf section at right for Technique 1 shows multiple uncoordinated 
+ripping; the arrows indicate the two-leaf pieces that were used as tools. In Stage II, ju-
+veniles use coordinated cutting and ripping sequences but their actions usually either 
+do not produce a tool (Technique 2) or produce tools that are removed from the leaf 
+in the wrong orientation (i.e., with the leaf-edge barbs pointing toward the working
+tip; Technique 3). In Stage III (Technique 4), juveniles produce adult-like tools but 
+are still slower at manufacture than adults. Adult-like tool manufacture is reached in
+Stage IV . Because Techniques 0 and 2 do not result in a tool being removed from the 
+leaf, we show the section of the leaf where tool manufacture had been attempted. The 
+scale indicates centimeters.
+
+PDF PAGE 8
+SSOCIALOCIAL LEARNINGEARNING ININ NCNC CCROWROWSS 213213
+of the locally produced tool design and use this as a basis
+for their own tool manufacture. In this way, the wide, nar-
+row, and stepped Pandanus tool desi gns could be faith -
+fully transmitted between generations even in the absence
+of imitation. Template matching is a well-described pro-
+cess in songbirds (Doupe & Konishi, 1991; Konishi, 1985;
+Nottebohm, 1984). During a sensitive period, young birds
+hear and memorize a tutor song. By practicing themselves, 
+they then gradually match their own song to t he memo-
+rized temp late. T his mec hanism ena bles song birds to
+faithfully transmit local song dialects (Mundinger, 1980).
+A similar process of template matching might occur in the
+families was very small. Therefore, we cannot exclude the 
+possibility that the correspondence of variants within the 
+two families was due to chance. With a larger sample size
+of families, a possible method to test for nonrandomness
+in the frequency of variants that crows use was discussed 
+by Kendal and colleagues (Kendal et al., 2010; Kendal, 
+Kendal, Hoppitt, & Laland, 2009).
+An alternative mechanism mediatin g the transmission 
+of too l-design information m ight be through “externa l 
+memory” (Donald, 1991) via artifactual material, without 
+the need for directly observing manufacture. By using pa-
+rental tools, juvenile crows might form a mental template 
+0
+20
+40
+60
+80
+100
+2–3 4–6 7–9 10–12 13–15 16+
+Mean Frequency of Tool Source (%)
+Age (Months Post Hatching)
+19 132 128 161 35
+Parents’ tools Other tools Own tools
+Figure6. Origin of Pandanus tools used at tables. Numbers on top of bars give the total number of tools per 
+age class. Note that “ other tools”  might also include tools manufactured by parents at earlier visits.
+0
+20
+40
+60
+80
+100
+2–3 4–6 7–9 10–12 13–15 16+ Parents
+Mean Frequency of Tool Manufacture (%)
+Age (Months Post Hatching)
+10 95 100 202 57 324
+At CP At other damaged parts of the leaf At intact leaf
+Figure 7. Average frequency of Pandanus tool manufacture starting at counterparts (CP) or other
+damaged parts of the leaf. Numbers on top of the bars give the total number of tool manufactures per 
+age class.
+
+PDF PAGE 9
+214 HOLZOLZHAIDER, H,H UNTUNT,, ANDAND GGRA Y
+To assess the crows’ social-network size, we recorded 
+the number of famil y and nonfamily members that adult 
+males from our tar get families tolerated at the tables in
+any 1 year.
+Family structure. We found that, as in other corv id 
+species, breeding pairs of NC crows live year round in sta-
+ble, monogamous, potentially lifelong relationships. The
+female usually incubates and broods the eggs, whereas 
+both partners feed the juveniles before and after fledging.
+On a social scale, however, NC crows are at the lower end 
+of corvid socialit y. For example, rooks can nest within 
+colonies of hundreds of pairs and ma y assemble in wi n-
+ter roosts of tens of thousands of individuals (Clayton &
+Emery, 2007). Pinyon jays live in permanent flocks of 50 
+to 500 individuals (Balda & Bateman, 1971; Marz luff & 
+Balda, 1989). In the highly social Mexican jay ( Aphelo(( -
+coma ultramarine), two adult pairs typically share a ter -
+ritory with numerous non breeding helpers, all of whom 
+participate in feeding the juveniles and defending the ter-
+ritory (Clayton & Emer y, 2007). In contrast, NC crows’
+core social unit is the immediate famil y, consisting of a
+mated pair and their offspring from up to 2 consecutive
+years. These findings confirm early observations on wild 
+NC crows by Hunt (2000b) and Kenward et al. (2004).
+Juveniles dela y dispersal for up to 2 0 months (Fig-
+ure 10) and may be fed by both parents throughout this
+time, except during the breeding season following their 
+fledging. We found no indication of communal breeding
+or helpers at the nest, and we have not observed any birds
+other than parents feeding juveniles.
+Social network size . Because feeding ta bles were
+highly desirable food sources, any bird on a ta ble was 
+likely to be perceived as a competitor for food. Food shar-
+development of NC crow tool manufacture, with juveniles 
+gradually adjusting the shape of their own tools to the de-
+sign manufactured by their parents.
+The Social Structure of NC Crows
+To describe NC crows’ social system, we used two ap-
+proaches. To assess the crows’ famil y structure, we ana-
+lyzed all observations of individuals of nine target fam i-
+lies both at an d away from ta bles. We then determined 
+on how many observation days partners were seen w ith 
+each other and how frequently juveniles and their parents
+were observed together. We also documented the breeding 
+behavior of four breeding pairs and the extent of parental
+care (in particular, parental feeding) postfledging.
+Figure 8. V ariants of Pandanus tool manufacture. V ariant A:
+Two cut–r ip sequences converge about hal fway along the tool.
+Variant B: A cut–r ip (1) is followed by a cut (2). Variant C: A
+cut (1) is followed by a cut–r ip (2).
+0
+20
+40
+60
+80
+100
+Male Juvenile Female Male Juvenile 1 Juvenile 2
+Family 1 Family 2
+Frequency of Variant (%)
+145 222 67 94 55 36
+Variant A Variant B Variant C
+Figure 9. V ariants of adult-like tool manufacture in two crow families. Note that the juveniles of Family 2 hatched in 2 con-
+secutive years; they spent only limited time at the tables to gether. Sample sizes for the number of tools manufactured are 
+above bars.
+
+PDF PAGE 10
+SSOCIALOCIAL LEARNINGEARNING ININ NCNC CCROWROWSS 215215
+Hunt and Gray (2003) suggested that complex, stepped 
+Pandanus tools evolved throu gh cumulative improv e-
+ments to the simpler wide-tool design. That is, the stepped 
+design was selected because of its superior properties as a 
+tool (a stiff holding end combined with a narrow, flexible
+probing end). The absence of simpler tools in most areas 
+where the stepped design is found and the wide distrib u-
+tion of the stepped design, as compared with the narrow
+and wide design, are consistent with this theory. An im-
+portant requirement for this scenario is the faithful trans-
+mission of tool designs.
+Social transmission within a population may generally
+be either vertical (from parent to offspring) or horizontal
+(between unrelated individuals) (Cavalli-Sforza & Feld-
+man, 1981; but see Allison, 1992; Bo yd & Richerson,
+1985; Findlay, Hansell, & Lumsden, 1989, for more d e-
+tailed definitions). Individual improvements to techniques 
+are unlikely to become established if there is a strong pos-
+sibility of horizontal transmission (Sterelny, 2006). This 
+is because horizontal transmission would provide a mu l-
+titude of different variations to choose from, “dilutin g”
+improvements made by parents. Vertical transmission is
+therefore considered to be crucial to create a ratchet effect 
+to maintain individual improvements that are not infl u-
+enced by horizontal transmission (Sterelny, 2006).
+The social organization of NC crows on Maré is likely 
+to facilitate vert ical transm ission while minimizing the 
+opportunity for horizontal transmission. First, the crows 
+ing has been suggested to p lay an important ro le in the
+development of social bonds in corvids, such as jack-
+daws (Corvus monedula) (von Bayern, de Kort, Clayton,
+& Emery, 2007) and rooks (Emery, Seed, von Bayern, &
+Clayton, 2007). Similarly, many primate species generally
+share food onl y with individuals with whom the y have
+established social relationships (de Waal, 1989; Stevens & 
+Gilby, 2004). A conspecific tolerated on a table would be 
+expected to be individually “ known” to a target animal.
+Target males predominantly shared tables with immedi-
+ate family (i.e., partner and/or juveniles; Figure 11) and 
+tolerated an avera ge of 9 different nonfamil y crows on 
+tables during the course of the study. They tolerated more 
+different nonfamily juveniles (mean of 6 different individ-
+uals per male) than different nonfamily adults (mean of 3 
+different individuals per male). The reason for the greater 
+tolerance of nonfamily juveniles might be that they com-
+monly display submissively when near a nonfamily adult 
+and are therefore less of a potential threat. Consequently, 
+adult males mi ght tolerate nonfamil y juveniles withou t
+having had previous interactions with them.
+Implications for Understanding Tool Behavior by
+Crows on Grande Terre
+Can the aforementioned findings on crow sociality and 
+the development of wide tool manufacture on Maré hel p 
+explain the existence and geographical distribution of dif-ff
+ferent Pandanus tool designs on mainland Grande Terre? 
+20
+40
+60
+80
+100
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+Jan
+Feb
+Mar
+Apr
+May
+Jun
+Jul
+Aug
+Sep
+Oct
+Nov
+Dec
+1st Year 2nd Year
+Mean Percentage of Bird Observation Days
+2.4 12 13.5 9.2 10.7 2.2 12 11.4 11.2 10.4 11.6 3 3.3 11.8 11 5.8 10.7 1.3 16 8.3 5.5 5 9 12N1 =
+N2 = 566666396777444433132111
+Figure 10. Observations of juveniles traveling with their parents. Juveniles travel with their parents during the first 2 years of their 
+lives. The y-axis gives the mean percentage of bird observation days/month on which juveniles were seen with one or both parents.
+N1NN  mean bird observation days/month (maximum of 1 observation per juvenile per day); N2NN number of juveniles observed in each
+month. Black bars, percentage of days observed with parents; white bars, percentage of days observed without parents.
+
+PDF PAGE 11
+216216 HOLZOLZHAIDER, H,H UNTUNT,, ANDAND GGRA Y
+they did at earlier ages, they are unlikely to adopt different
+strategies used by unrelated crows since they have already
+settled on a manufacture variant.
+Could the social behavior of the crows on Maré enable 
+high-fidelity transmission of tool information? Theoret i-
+cally, yes. Close proximity between individuals increases
+the likelihood that one can observe details of the other’s 
+behavior (Coussi-Korbel & Fragaszy, 1995). Van Schaik,
+Deaner, and Merrill (1999) claimed that stron g mutual 
+tolerance between individuals was a key factor in the evo-
+lution of technology among hominids and was facilitated 
+by a lifestyle involving food sharing and tool-based pro-
+cessing of food.
+Our methodology does not allow us to distin guish be-
+tween possible observational learning mechanisms such
+as imitation or emulation. However, young crows clearly 
+have ample opportun ity to watc h tool manufacture an d 
+tool use closely, and to use artifactual material produced 
+by their parents. Our results also strongly indicate that 
+trial and error p lays a central role in the development of 
+juvenile too l manu facture an d use. Tr ial and error has 
+also been suggested to be important in children’ s obtain-
+ing significant knowled ge about the ph ysical properties
+of their tools (Lockman, 2000). Nevertheless, as Kenward 
+et al. (2005) pointed out, an important role for trial-and-
+error learning does not exclude the possibility that either 
+children or NC crows learn important details about manu-
+facture techniques and tool shape culturally. Such social 
+learning might either be a result of direct observation or 
+possibly be acquired less directly via “externa l memory” 
+located in artifactual material, such as tools and counter -
+parts produced by adults.
+Conclusion
+Different kinds of social learnin g may play a si gnifi-
+cant role in NC crows’ development of tool manufacture
+and use. Both the social organization of NC crows and the 
+clearly prefer to interact with family members and only 
+rarely share rich food sources (like feeding tables and, pre-
+sumably, Pandanus trees away from tables) with nonfam-
+ily individuals. When sharing a feeding table with family 
+members, 1st-year juveniles are much more likel y to be 
+in the company of their parents than with older siblings.
+Of the over 300 visits to tables by 1st-year juveniles with 
+at least one parent, older siblings were present on only 18
+occasions. Although juveniles also shared tables with non-
+family crows, and target males appeared to be more toler-
+ant of nonfamily juveniles than of adults, the opportunity
+for 1st-year crows to learn tool skills from their parents 
+(vertical transmission) was much greater than the oppor-
+tunity to learn from nonfamily birds (horizontal transmis-
+sion, as defined previously). This is because juveniles that 
+shared a ta ble with their parents o ften approached them 
+very closely when they were engaged in tool use, some-
+times even touching the tool as the parent was probing. In
+contrast, we never observed a juvenile getting this close to 
+an unrelated adult while using or manufacturing Pandanus
+tools. Instead, juveniles tended to keep their distance and 
+often displayed submissively. Furthermore, visits in which 
+juveniles shared a table with an unrelated adult were less
+frequent and tended to be much briefer than visits with 
+family members.
+The extended close association between juveniles and 
+parents also makes it more likel y that juveniles will o b-
+serve their parents’ tool manufacture, and it increases the 
+chance of their using their parents’ tools or starting manu-
+facture at counterparts t he parents have produced, rather 
+than interactin g with artifactual material produced b y 
+other birds. Moreover, the developmental pattern of tool 
+manufacture indicates that the most important period for 
+acquiring tool manufacture skills is within the first 3 to 6 
+months of life. Thereafter, tool manufacturing techniques 
+are largely adult like (Figure 4). Although juveniles spend 
+less time with their parents from 6 to 9 months of age than 
+0
+20
+40
+60
+80
+100
+Jan Feb Sept Oct Nov Dec
+Percentage of Visits
+N1 =1 6 62
+N2 = 345533562563
+62 114 97 108 17 87 170 8 70 155
+Mar Apr May Jun Jul Aug
+None Family only Family + others Others only
+Figure 11. Tolerance of other birds by 6 target males at feeding tables. Family members are more fre-
+quently tolerated than nonfamily members.N1NN  total number of visits by all 6 target males;N2NN  number 
+of target males observed in each month.
+
+PDF PAGE 12
+SSOCIALOCIAL LEARNINGEARNING ININ NCNC CCROWROWSS 217217
+ative tool modification b y captive nontool-using rooks. Proceedings
+of the National Academy of Sciences, 106, 10370-10375.
+Bird, C. D., & Emery, N. J. (2010). Rooks perceive support relations
+similar to six-month-old babies. Proceedings of the Royal Society B,
+277, 147-151.
+Biro, D., Sousa, C., & Matsuzawa, T. (2006). Ontogeny and cultural
+propagation of tool use by wild chimpanzees at Bossou, Guinea: Case 
+studies in nut cracking and leaf folding. In T. Matsuzawa, M. To-
+monaga, & M. Tanaka (Eds.), Cognitive development in chimpanzees
+(pp. 476-508). Tokyo: Springer.
+Bluff, L. A., Troscianko, J., Weir, A. A. S., Kacelnik, A., & Rutz, C.
+(2010). Tool use b y wild New Caledonian crows Corvus moned u-
+loides at natural foraging sites. Proceedings of the Royal Society B ,
+277, 1377-1385.
+Boesch, C., Head, J., & Robbins , M. M. (2009). Complex tool sets 
+for honey extraction among chimpanzees in Loango National Park, 
+Gabon. Journal of Human Evolution, 56, 560-569.
+Boserup, E. (1981). Population and technolo gical change: A study of 
+long-term trends. Chicago: University of Chicago Press.
+Box, H. O . (1984). Primate behaviour and social ecolo gy. London: 
+Chapman & Hall.
+Boyd, R., & Richerson, P. J.(1985). Culture and the evolutionary pro-
+cess. Chicago: University of Chicago Press.
+Boyd, R., & Richerson, P. J. (1996). Why culture is common, but cul-
+tural evolution is rare. Proceedings of the British Academy, 88, 77-93.
+Bugnyar, T. (2008). Animal cognition: Rooks team up to solve a prob-
+lem. Current Biology, 18, R530-R532.
+Caldwell, C. A., & Whiten, A. (2003). Scrounging facilitates social 
+learning in common marmosets, Callithrix jacchus. Animal Behav-
+iour, 65, 1085-1092.
+Call, J., Carpenter, M., & Tomasello, M. (2005). Copying results
+and copying actions in the process of social learnin g: Chimpanzees 
+(Pan troglodytes(( ) and human children (Homo sapiens(( ). Animal Cogni-
+tion, 8, 151-163.
+Call, J., & Tomasello, M. (1994). The social learning of tool use b y 
+orangutans (Pongo pygmaeus(( ). Human Evolution, 9, 297-313.
+Catchpole, C. K. , & Slater , P. J. B. (1995). Bird song: Biological 
+themes and variations. Cambridge: Cambridge University Press.
+Cavalli-Sforza, L. L., & Feldman, M. W. (1981). Cultural transmis-
+sion and evolution: A quantitative approach. Princeton, NJ: Princeton 
+University Press.
+Chappell, J., & Kacelnik, A. (2002). Tool selectivity in a non-primate,
+the New Caledonian crow (Corvus moneduloides). Animal Cognition,
+5, 71-78.
+Chappell, J., & Kacelnik , A. (2004). Selection of tool diameter b y 
+New Caledonian crows (Corvus moneduloides ). Animal Cognition,
+7, 121-127.
+Claidière, N., & Sperber , D. (2010). Imitation explains the propa -
+gation, not the stability of animal culture. Proceedings of the Roya l 
+Society B, 277, 651-659.
+Clayton, N. S., & Emery, N. J. (2007). The social life of corvids.Cur-rr
+rent Biology, 17, R652-R656.
+Cnotka, J., Güntürkün, O., Rehkämper, G., Gray, R. D., & Hunt,
+G. R. (2008). Extraordinary large brains in tool-using New Caledonian
+crows (Corvus moneduloides). Neuroscience Letters, 433, 241-245.
+Connolly, K., & Dalgleish, M. (1989). The emergence of a tool-using 
+skill in infancy.Developmental Psychology, 25, 894-912.
+Coussi-Korbel, S., & Fragaszy , D. M. (1995). On the relation b e-
+tween social dynamics and social learning. Animal Behaviour , 50,
+1441-1453.
+de Resende, B. D. , Ottoni, E. B. , & Fragaszy, D. M. (2008). On-
+togeny of manipulative behavior and nut-cracking in young tufte d 
+capuchin monkeys (Cebus apella): A perception–action perspective.
+Developmental Science, 11, 828-840.
+de Waal, F. B. M. (1989). Food sharin g and reciprocal obli gations
+among chimpanzees. Journal of Human Evolution, 18, 433-459.
+Donald, M. (1991). Origins of the modern mind: Three stages in the
+evolution o f culture and co gnition. Cambrid ge, MA: Harvard Uni -
+versity Press.
+Doupe, A. J., & Konishi, M. (1991). Song-selective auditory circuits 
+in the vocal control system of the zebra finch. Proceedings of the
+National Academy of Sciences, 88, 11339-11343.
+Emery, N. J. (2004). Are corvids “feathered apes”?: Cognitive evolution
+way that tool skills develop have the capacity to facilitate 
+faithful transmission of tool designs by encouraging verti-
+cal transmission and minimizing horizontal transmission. 
+However, several questions remain about the development 
+and geographical distribution of different Pandanus tool 
+designs on New Caledonia’ s mainland, Grande Terre. For 
+example, we know nothing about the ontogeny of stepped 
+Pandanus tool manufacture and use.
+Our observations on Maré suggest t hat soc ial learn-
+ing may be involved in t he development o f w ide too l
+manufacture. However, wide tools are relativel y simple 
+to manufacture. The stron g parallel fibers o f Pandanus 
+species leaves facilitate the production of uniformly wide
+strips of material. As Kenward et al. (2005) showed, naive
+crows can produce rough strips of Pandanus leaf that are 
+suitable for meat extraction, without social input.
+Although it is possible that naive juveniles can develop
+adult-like wide tool manufacture by individual trial-and-
+error learning alone, it is difficult to imagine that the more 
+complicated stepped tools are produced in this wa y. We
+also do not know whether an individual crow can produce
+more than one Pandanus tool design or whether stepped 
+tools are really more efficient in extracting prey than the 
+simpler wide and narrow designs. Controlled experiments 
+are also needed to further investi gate the possibilit y of 
+information transmission via template matching.
+Finally, the social organization of NC crows on Maré
+that is based around small family groups and the delayed 
+dispersal of juveniles is likely to be comparable to that of 
+crows on Grande Terre. However, we know little abou t
+the factors surrounding juvenile dispersal from the fam-
+ily unit. Investigating this aspect of the NC crows’ social 
+system is important because dispersal dynamics have im-
+plications for the spread and geographical distribution of 
+tool designs (Lind & Lindenfors, 2010).
+AUAA THOR NOTE
+We thank William Wadrobert for kindl y allowing us to work on his 
+family’ s land in Wabao District, Maré, and the Province des Iles Loyauté 
+for permission to work on Maré. Mick Sible y prepared DVD versions 
+of the video footage. Noel Andrews, Lindsey Davidson, Roland Rehm, 
+Robert Ross, Mick Sibley, and Alex Taylor assisted with data collection.
+We thank Katie Palmer for help with the coding of video footage, Puja 
+Singh for help with the coding and processing of the sociality data, Viv-
+ian Ward for drawing Figure 3, and Roland Rehm for the production of 
+Figure 5. Jeff Galef provided many helpful comments that improved the
+manuscript. This research was funded by a grant from the New Zealand 
+Marsden Fund (awarded to R.D.G. and G.R.H.). The research reported 
+in this article was approved by the University of Auckland Animal Ethics
+Committee (approvals R231 and R375) and complies with the laws of 
+New Caledonia. Address correspondence to J . C. Holzhaider, Depart -
+ment of Psychology, University of Auckland, Private Bag 92019, Auck-
+land 1142, New Zealand (e-mail: jenny.holzhaider@gmail.com).
+RERR FERERR NCES
+Allison, P. D. (1992). Cultural relatedness under oblique and horizontal
+transmission rules. Ethology & Sociobiology, 13, 153-169.
+Avital, E., & Jablonka , E. (2000). Animal traditions: Behavioural 
+inheritance in evolution. Cambridge: Cambridge University Press.
+Baker, M. C., & Cunningham, M. A.(1985). The biology of bird-song 
+dialects. Behavioral & Brain Sciences, 8, 85-133.
+Balda, R. P., & Bateman, G. C. (1971). Flocking and annual cycle of 
+the piñon jay, Gymnorhinus cyanocephalus. Condor, 73, 287-302.
+Bird, C. D., & Emery, N. J. (2009). Insightful problem solving and cre-
+
+PDF PAGE 13
+218218 HOLZOLZHAIDER, H,H UNTUNT,, ANDAND GGRA Y
+tool manufacture and use b y a New Caledonian crow (Corvus mon-
+eduloides). Animal Cognition, 7, 114-120.
+Hunt, G. R. , & Gray, R. D. (2007). Parallel tool industries in New 
+Caledonian crows. Biology Letters, 3, 173-175.
+Hunt, G. R., Lambert, C., & Gray, R. D. (2007). Cognitive require-
+ments for tool use b y New Caledonian crows. New Zealand Journal 
+of Zoology, 34, 1-7.
+Inoue-Nakamura , N. , & Matsuzawa , T. (1997). Development o f 
+stone tool use by wild chimpanzees ( Pan troglodyte s). Journal o f 
+Comparative Psychology, 111, 159-173.
+Jaeggi, A. V ., Dunkel, L. P., Van Noordwijk, M. A., Wich, S. A., 
+Sura, A. A. L., & Van Schaik, C. P. (2010). Social learning of diet 
+and foraging skills by wild immature Bornean orangutans: Implica -
+tions for culture. American Journal of Primatology, 72, 62-71.
+Jerison, H. J. (1973). Evolution of the brain and intelligence. New York: 
+Academic Press.
+Kawai, M. (1965). Newly-acquired pre-cultural behavior of the natural 
+troop of Japanese monkeys on Koshima islet. Primates, 6, 1-30.
+Kendal, R. L. , Custance, D. M. , Kendal, J. R. , Vale, G., Stoin-
+ski, T. S., Rakotomalala , N. L. , & Rasamimanana , H. (2010). 
+Evidence for social learning in wild lemurs ( Lemur catta(( ). Learning 
+& Behavior, 38, 220-234.
+Kendal, R. L., Kendal, J. R., Hoppitt, W., & Laland, K. N. (2009). 
+Identifying social learning in animal populations: A new “option-bias” 
+method. PLoS ONE, 4, e6541. doi:10.1371/journal.pone.0006541
+Kenward, B., Rutz, C., Weir, A. A. S., Chappell, J., & Kacelnik, A. 
+(2004). Morphology and sexual dimorphism of the New Caledonian
+Crow Corvus moneduloides, with notes on its behaviour and ecology.
+Ibis, 146, 652-660.
+Kenward, B., Rutz, C., Weir, A. A. S., & Kacelnik, A.(2006). Devel-
+opment of tool use in New Caledonian crows: Inherited action patterns 
+and social influences. Animal Behaviour, 72, 1329-1343.
+Kenward, B., Weir, A. A. S., Rutz, C., & Kacelnik, A. (2005). Be-
+havioural ecology: Tool manufacture by naive juvenile crows. Nature,
+433, 121.
+Konishi, M. (1985). Birdsong: From behavior to neuron.Annual Review 
+of Neuroscience, 8, 125-170.
+Laland, K. N., & Hoppitt, W.(2003). Do animals have culture?Evolu-
+tionary Anthropology: Issues, News, & Reviews, 12, 150-159.
+Laland, K. N., Odling-Smee, J., & Feldman, M. W. (2000). Niche
+construction, biological evolution, and cultural change. Behavioral & 
+Brain Sciences, 23, 131-146.
+Lind, J., & Lindenfors , P. (2010). The number of cultural traits is 
+correlated with female group size but not with male group size in
+chimpanzee communities. PLoS ONE, 5, e9241. doi:10.1371/journal
+.pone.0009241
+Lockman, J. J. (2000). A perception–action perspective on tool use d e-
+velopment. Child Development, 71, 137-144.
+Marler, P., & Tamura, M. (1964). Culturally transmitted patterns of 
+vocal behavior in sparrows. Science, 146, 1483-1486.
+Marzluff, J. M., & Balda, R. P. (1989). Causes and consequences of 
+female-biased dispersal in a flock-living bird, the Pinyon Jay.Ecology,
+70, 316-328.
+Matsuzawa, T. (1994). Field experiments on use of stone tool by chim-
+panzees in the wild. In R. W . Wran gham, W . C. McGrew, F .B. M. 
+de Waal, & P . Heltne (Eds.), Chimpanzee culture s (pp. 351-370). 
+Cambridge, MA: Harvard University Press.
+Matsuzawa, T., Biro, D., Humle, T., Inoue-Nakamura, N., To-
+nooka, R., & Yamakoshi, G. (2001). Emergence of culture in wil d 
+chimpanzees: Education by master-apprenticeship. In T. Matsuzawa 
+(Ed.), Primate origins of human cognition and behavior  (pp.r 557-
+574). Tokyo: Springer.
+McGrew, W. C. (1992). Chimpanzee material culture: Implications for 
+human evolution. Cambridge: Cambridge University Press.
+Mehlhorn , J. , Hunt , G. R. , Gray , R. D. , Rehkämper , G. , & 
+Güntürkün, O. (2010). Tool-making New Caledonian crows have
+large associative brain areas.Brain, Behavior & Evolution, 75, 63-70.
+Midford, P. E., Hailman, J. P., & Woolfenden, G. E. (2000). Social 
+learning of a novel foraging patch in families of free-living Florida
+scrub-jays. Animal Behaviour, 59, 1199-1207.
+Mundinger, P. C. (1980). Animal cultures and a general theory of cul-
+tural evolution. Ethology & Sociobiology, 1, 183-223.
+in crows, jays, rooks and jackdaws. In S. Watanabe (Ed.), Comparative 
+analysis of mind (pp.d 181-213). Tokyo: Keio University Press.
+Emery, N. J. (2006). Cognitive ornithology: The evolution of avian in-
+telligence. Philosophical Transactions of the Royal Society B, 361, 
+23-43.
+Emery, N. J., & Clayton, N. S. (2004). The mentality of crows: Con-
+vergent evolution of intelligence in corvids and apes. Science, 306,
+1903-1907.
+Emery, N. J., & Clayton, N. S. (2009). Tool use and physical cognition
+in birds and mammals. Current Opinion in Neurobiology, 19, 27-33.
+Emery, N. J., Seed, A. M., von Bayern, A. M. P., & Clayton, N. S.
+(2007). Cognitive adaptations of social bonding in birds. Philosophi-
+cal Transactions of the Royal Society B, 362, 489-505.
+Findlay, C. S. , Hansell, R. I. C. , & Lumsden, C. J. (1989). Behav-
+ioral evolution and biocultural games: Oblique and horizontal cultural
+transmission. Journal of Theoretical Biology, 137, 245-269.
+Fragaszy, D. M., & Visalberghi, E. (1996). Social learning in mon -
+keys: Primate “primacy” reconsidered. In C. M. Heyes & B. G. Galef,
+Jr. (Eds.), Social learning in animals: The roots of culture (pp. 65-84).
+San Diego: Academic Press.
+Galef, B. G., Jr. (1988). Imitation in animals: History, definition, and 
+interpretation of data from the psychological laboratory. In T . R.
+Zentall & B. G. Galef, Jr. (Eds.), Social learning: Psychological and
+biological perspectives (pp. 3-28). Hillsdale, NJ: Erlbaum.
+Giraldeau, L.-A., & Lefebvre , L. (1987). Scrounging prevents cul-
+tural transmission of food-findin g behaviour in pigeons. Animal Be-
+haviour, 35, 387-394.
+Hernandez-Aguilar, R. A., Moore, J., & Pickering , T. R. (2007). 
+Savanna chimpanzees use tools to harvest the underground storage 
+organs of plants. Proceedings of the National Academ y of Sciences,
+104, 19210-19213.
+Heyes, C. M. (1993). Imitation, culture and co gnition. Animal Behav-
+iour, 46, 999-1010.
+Heyes, C. M. (1994). Social learning in animals: Categories and mecha-
+nisms. Biological Reviews, 69, 207-231.
+Hirata, S., & Celli, M. L. (2003). Role of mothers in the acquisition
+of tool-use behaviours by captive infant chimpanzees. Animal Cogni-
+tion, 6, 235-244.
+Hirata, S., & Morimura, N. (2000). Naive chimpanzees’ (Pan troglo(( -
+dytes) observation of experienced conspecifics in a tool-usin g task. 
+Journal of Comparative Psychology, 114, 291-296.
+Holzhaider, J. C., Hunt, G. R., & Gray, R. D. (2010). The develop-
+ment of Pandanus tool manufacture in wild New Caledonian crows.
+Behaviour, 147, 553-586.
+Holzhaider, J. C., Sibley, M. D., Taylor, A. H., Singh, P. J., Gray, 
+R.D ., & Hunt, G. R. (in press). The social structure of New Caledo-
+nian crows. Animal Behaviour.
+Horner, V., & Whiten, A. (2005). Causal knowled ge and imitation /
+emulation switching in chimpanzees ( Pan troglodytes) and children
+(Homo sapiens(( ). Animal Cognition, 8, 164-181.
+Humle, T. (2006). Ant dippin g in chimpanzees: An example of how 
+microecological variables, tool use, and culture reflect the cogn i-
+tive abilities of chimpanzees. In T. Matsuzawa, M. Tomonaga, &
+M. Tanaka (Eds.), Cognitive development in chimpanzees (pp. 4 52-
+475). Tokyo: Springer.
+Hunt, G. R. (1996). Manufacture and use of hook-tools by New Cale -
+donian crows. Nature, 379, 249-251.
+Hunt, G. R. (2000a). Human-like, population-level specialization in
+the manufacture of Pandanus tools by New Caledonian crows Corvus
+moneduloides. Proceedings of the Royal Society B, 267, 403-413.
+Hunt, G. R. (2000b). Tool use b y the New Caledonian crow Corvus 
+moneduloides to obtain Cerambycidae from dead wood. Emu, 100, 
+109-114.
+Hunt, G. R., & Gray, R. D.(2002). Species-wide manufacture of stick-
+type tools by New Caledonian Crows. Emu, 102, 349-353.
+Hunt, G. R. , & Gray, R. D. (2003). Diversification and cumulative
+evolution in New Caledonian crow tool manufacture. Proceedings of 
+the Royal Society B, 270, 867-874.
+Hunt, G. R. , & Gray, R. D. (2004a). The crafting of hook tools by 
+wild New Caledonian crows.Proceedings of the Royal Society B, 271,
+88-90.
+Hunt, G. R., & Gray, R. D. (2004b). Direct observations of Pandanus-
+
+PDF PAGE 14
+SSOCIALOCIAL LEARNINGEARNING ININ NCNC CCROWROWSS 219219
+Tebbich, S., Seed, A. M. , Emery, N. J. , & Clayton , N. S. (2007). 
+Non-tool-using rooks, Corvus frugilegus, solve the trap-tube problem. 
+Animal Cognition, 10, 225-231.
+Tebbich, S., Taborsky, M., Fessl, B., & Blomqvist , D. (2001). Do
+woodpecker finches acquire tool-use by social learning?Proceedings
+of the Royal Society B, 268, 2189-2193.
+Terkel, J. (1996). Cultural transmission of feeding behavior in the black 
+rat (Rattus rattus(( ). In C. M. Heyes & B. G. Galef, Jr. (Eds.),Social learn-
+ing in animals: The roots of culture (pp. 17-47). San Diego: Academic 
+Press.
+Thouless, C. R., Fanshawe, J. H., & Bertram, B. C. R. (1989). Egyp-
+tian vultures Neophron percnopterus and ostrich Struthio camelus
+eggs: The origins of stone throwing behavior. Ibis, 131, 9-15.
+Tomasello, M. (1996). Do apes ape? In C. M. Heyes & B. G. Galef, Jr. 
+(Eds.), Social learning in animals: The roots of culture(pp. 319-346).
+London: Academic Press.
+Tomasello, M. (1999). The human adaptation for culture. Annual Re-
+view of Anthropology, 28, 509-529.
+Tomasello , M. (2005). Uniquely human cognition is a product o f 
+human culture. In S. C. Levinson & P . Jaisson (Eds.), Evolution and 
+culture: A Fyssen Foundation symposium (pp. 203-218). Cambridge,
+MA: MIT Press.
+Tomasello, M., Davis-Dasilva, M., Camak, L., & Bard, K. (1987). 
+Observational learning of tool-use by young chimpanzees. Human
+Evolution, 2, 175-183.
+Tomasello, M., Kruger, A. C., & Ratner , H. H. (1993). Cultural
+learning. Behavioral & Brain Sciences, 16, 495-552.
+Tomasello, M., Savage-Rumbaugh, S., & Kruger, A. C.(1993). Imi-
+tative learning of actions on objects by children, chimpanzees, an d 
+enculturated chimpanzees. Child Development, 64, 1688-1705.
+van Schaik, C. P., Ancrenaz, M., Borgen, G., Galdikas, B., Knott,
+C. D., Singleton, I., et al. (2003). Orangutan cultures and the evo-
+lution of material culture. Science, 299, 102-105.
+van Schaik, C. P., Deaner, R. O., & Merrill, M. Y . (1999). The condi-
+tions for tool use in primates: Implications for the evolution of mate-
+rial culture. Journal of Human Evolution, 36, 719-741.
+von Bayern, A. M. P., de Kort, S. R., Clayton, N. S., & Emery, N. J.
+(2007). The role of food- and ob ject-sharing in the development o f 
+social bonds in juvenile jackdaws ( Corvus monedula ). Behaviour,
+144, 711-733.
+Want, S. C., & Harris, P. L. (2001). Learning from other people’ s mis-
+takes: Causal understanding in learning to use a tool. Child Develop-
+ment, 72, 431-443.
+Want, S. C., & Harris, P. L. (2002). How do children ape? Appl ying
+concepts from the study of non-human primates to the developmental
+study of “imitation” in children. Developmental Science, 5, 1-14.
+Weir, A. A. S., Chappell, J., & Kacelnik, A. (2002). Shaping of hooks
+in New Caledonian crows. Science, 297, 981.
+Weir, A. A. S., & Kacelnik, A. (2006). A New Caledonian crow (Cor-rr
+vus moneduloides) creatively re-designs tools by bending or unbend-
+ing aluminium strips. Animal Cognition, 9, 317-334.
+Whiten, A. (2005). The second inheritance system of chimpanzees and 
+humans. Nature, 437, 52-55.
+Whiten, A., Goodall, J., McGrew, W. C., Nishida, T., Reynolds, V.,
+Sugiyama, Y., et al. (1999). Cultures in chimpanzees. Nature, 399,
+682-685.
+Whiten, A., Horner, V., Litchfield, C. A., & Marshall-Pescini, S.
+(2004). How do apes ape? Learning & Behavior, 32, 36-52.
+Whiten, A., McGuigan, N., Marshall-Pescini, S., & Hopper, L. M.
+(2009). Emulation, imitation, over-imitation and the scope of culture
+for child and chim panzee. Philosophical Transactions o f the Ro yal 
+Society B, 364, 2417-2428.
+Wimpenny, J. H., Weir, A. A. S., Clayton, L., Rutz, C., & Kacel-
+nik, A. (2009). Cognitive processes associated with sequential tool
+use in New Caledonian crows. PLoS ONE, 4, e6471.
+(Manuscript received March 8, 2010;
+revision accepted for publication April 30, 2010.)
+Myowa-Yamakoshi, M., & Matsuzawa, T.(1999). Factors influencing 
+imitation of manipulatory actions in chimpanzees ( Pan troglodytes(( ).
+Journal of Comparative Psychology, 113, 128-136.
+Nagell, K., Olguin, R. S. , & Tomasello , M. (1993). Processes of 
+social learning in the tool use of chimpanzees ( Pan troglodytes(( ) and 
+human children (Homo sapiens(( ). Journal of Comparative Psychology,
+107, 174-186.
+Nishida, T., & Hiraiwa, M. (1982). Natural history of a tool-using be-
+havior by wild chimpanzees in feeding upon wood-boring ants.Jour-rr
+nal of Human Evolution, 11, 73-99.
+Noad, M. J., Cato, D. H., Bryden, M. M., Jenner, M.-N., & Jenner,
+K. C. S. (2000). Cultural revolution in whale son gs. Nature, 408, 
+537.
+Nottebohm, F. (1984). Birdsong as a model in which to study brain 
+processes related to learning. Condor, 86, 227-236.
+Odling-Smee, F. J., Laland, K. N., & Feldman, M. W.(2003). Niche 
+construction: The neglected process in evolutio n. Princeton, NJ:
+Princeton University Press.
+Ottoni, E. B., & Izar, P. (2008). Capuchin monkey tool use: Overview 
+and implications. Evolutionary Anthropology: Issues, News, & R e-
+views, 17, 171-178.
+Perry, S. , Panger , M. , Rose , L. M. , Baker , M. , Gros-Louis , J., 
+Jack, K., et al. (2003). Traditions in wild white-faced capuchin 
+monkeys. In D. M. Fragaszy & S. Perry (Eds.), The biology of tradi-
+tions: Models and evidence (pp. 391-425). Cambridge: Cambridge 
+University Press.
+Reader, S. M., & Biro, D. (2010). Experimental identification of social
+learning in wild animals. Learning & Behavior, 38, 265-283.
+Rehkämper, G., Frahm, H. D., & Zilles, K. (1991). Quantitative de-
+velopment of brain and brain structures in birds (galliformes and pas-
+seriformes) compared to that in mammals (insectivores and primates).
+Brain, Behavior & Evolution, 37, 125-143.
+Reiner, A., Perkel, D. J., Bruce, L. L., Bulter, A. B., Csillag, A.,
+Kuenzel, W., et al. (2004). Revised nomenclature for avian te l-
+encephalon and some related brainstem nuclei. Journal of Compara-
+tive Neurology, 473, 377-414.
+Reisman, K. (2007). Is culture inherited throu gh social learnin g? Bio-
+logical Theory, 2, 300-306.
+Rendell, L., & Whitehe ad, H. (2001). Culture in whales and dol-
+phins. Behavioral & Brain Sciences, 24, 309-382.
+Rutz, C., Bluff, L. A., Weir, A. A. S., & Kacelnik, A. (2007). Video 
+cameras on wild birds. Science, 318, 765.
+Sanz, C. , Call , J. , & Morgan , D. (2009). Design complexity in
+termite-fishing tools of chimpanzees ( Pan troglodytes(( ). Biology Let-
+ters, 5, 293-296.
+Sanz, C., Morgan, D., & Gulick, S. (2004). New insights into chim-
+panzees, tools, and termites from the Congo basin.American Natural-
+ist, 164, 567-581.
+Seed, A., Emery, N., & Clayton, N. (2009). Intelligence in corvids and 
+apes: A case of convergent evolution? Ethology, 115, 401-420.
+Sterelny, K. (2006). The evolution and evolvability of culture. Mind & 
+Language, 21, 137-165.
+Stevens, J. R., & Gilby, I. C.(2004). A conceptual framework for nonkin 
+food sharing: Timing and currency of benefits.Animal Behaviour, 67, 
+603-614.
+Taylor, A. H., Hunt, G. R., Holzhaider, J. C., & Gray, R. D. (2007). 
+Spontaneous metatool use by New Caledonian crows. Current Biol-
+ogy, 17, 1504-1507.
+Taylor, A. H., Hunt, G. R., Medina, F. S., & Gray, R. D. (2009). Do
+New Caledonian crows solve physical problems through causal re a-
+soning? Proceedings of the Royal Society B, 276, 247-254.
+Taylor, A. H., Medina, F. S., Holzhaider, J. C., Hearne, L. J., Hunt, 
+G.R ., & Gray, R. D. (2010). An investigation into the cognition be-
+hind spontaneous string pulling in New Caledonian crows. PLoS 
+ONE, 5, e9345.
+Taylor, A. H., Roberts, R., Hunt, G. R., & Gray, R. D. (2009). Causal 
+reasoning in New Caledonian crows: Ruling out spatial analogies and 
+sampling error. Communicative & Integrative Biology, 2, 311-312.

@@ -417,11 +417,11 @@ readr::write_excel_csv(class_definitions, "plots_tables/age_sex_class_definition
 
 mcat_prob_tech_site_indv <- readRDS("fitted_models/mcat_prob_tech_site_indv.rds")
 
-mcat_prob_tech_age_sex <- readRDS("fitted_models/mcat_prob_tech_age_sex.rds")
+# mcat_prob_tech_age_sex <- readRDS("fitted_models/mcat_prob_tech_age_sex.rds")
 
 mbern_success_site_indv <- readRDS("fitted_models/mbern_success_site_indv.rds")
 
-mbern_success_age_sex <- readRDS("fitted_models/mbern_success_age_sex.rds")
+# mbern_success_age_sex <- readRDS("fitted_models/mbern_success_age_sex.rds")
 
 #! Probability of main technique...-------------------------------------------------------------
 
@@ -476,7 +476,7 @@ summary(mcat_prob_tech_site_indv)
 plot(mcat_prob_tech_site_indv)
 pp_check(mcat_prob_tech_site_indv, type = "bars", ndraws = 100)
 
-## Reports and tables ---------------------------------------------------------------------
+# Reports and tables ---------------------------------------------------------------------
 
 summary(mcat_prob_tech_site_indv)
 
@@ -585,7 +585,186 @@ biological_table
 
 
 
-#! ...by site -------------------------------------------------------------
+#! Results table ---------------------------
+
+# Formatting helper
+format_site_interval <- function(median, lower, upper, digits = 2) {
+  sprintf(paste0("%.", digits, "f [%.", digits, "f, %.", digits, "f]"),
+          median, lower, upper)}
+
+# Display order for site predictions
+site_table_order <- c("COCO", "2PP", "BBC")
+
+# A. Site-specific technique predictions 
+technique_prediction_rows <- technique_site_draws %>% group_by(.draw, arena_site) %>% mutate(
+    log_odds = log(.epred / .epred[.category == "stone_pound"])) %>%
+  ungroup() %>% group_by(arena_site, .category) %>%
+  summarise(posterior_median = median(log_odds),
+    lower = quantile(log_odds, 0.025),
+    upper = quantile(log_odds, 0.975),
+    posterior_SD = sd(log_odds),
+    probability_median = median(.epred),
+    probability_lower = quantile(.epred, 0.025),
+    probability_upper = quantile(.epred, 0.975),
+    .groups = "drop") %>%
+  arrange(match(as.character(arena_site), site_table_order),
+    match(as.character(.category), names(technique_labels))) %>%
+  transmute(section = paste0(
+      "A. Site-specific technique predictions: ", arena_site),
+    parameter = unname(technique_labels[as.character(.category)]),
+    posterior_summary = format_site_interval(
+      posterior_median, lower, upper),
+    posterior_SD,
+    transformed = format_site_interval(
+      probability_median,
+      probability_lower,
+      probability_upper,
+      digits = 3))
+
+
+# B. Population-level coefficients 
+# Map brms category names to the existing written-out technique names
+technique_dpar_labels <- setNames(unname(technique_labels),
+  paste0("mu", gsub("_", "", names(technique_labels))))
+
+# Reuse the coefficient draws already extracted above
+technique_coefficient_data <- coefficient_draws %>%
+  mutate(dpar = str_extract(parameter, "^b_mu[^_]+") %>%
+      str_remove("^b_"), term = str_remove(parameter, "^b_mu[^_]+_"))
+
+# Identify the fitted model's reference site under treatment coding
+technique_contrast_sites <- technique_coefficient_data %>% filter(str_starts(term, "arena_site")) %>%
+  distinct(term) %>% pull(term) %>% str_remove("^arena_site")
+
+technique_reference_site <- setdiff(na.omit(unique(
+    as.character(mcat_prob_tech_site_indv$data$arena_site))),
+  technique_contrast_sites)
+
+stopifnot(length(technique_reference_site) == 1L)
+
+technique_coefficient_rows <- technique_coefficient_data %>% group_by(dpar, term) %>%
+  summarise(posterior_median = median(draw_value),
+    lower = quantile(draw_value, 0.025),
+    upper = quantile(draw_value, 0.975),
+    posterior_SD = sd(draw_value),
+    ratio_median = median(exp(draw_value)),
+    ratio_lower = quantile(exp(draw_value), 0.025),
+    ratio_upper = quantile(exp(draw_value), 0.975),
+    .groups = "drop") %>%
+  arrange(match(dpar, names(technique_dpar_labels)),
+    desc(term == "Intercept"),
+    term) %>%
+  transmute(section = paste0(
+      "B. Population-level coefficients: ",
+      unname(technique_dpar_labels[dpar])),
+    parameter = if_else(
+      term == "Intercept",
+      paste0("Intercept: ", technique_reference_site),
+      paste0(
+        str_remove(term, "^arena_site"),
+        " vs ", technique_reference_site)),
+    posterior_summary = format_site_interval(
+      posterior_median, lower, upper),
+    posterior_SD,
+    transformed = if_else(
+      term == "Intercept",
+      "\u2014",
+      format_site_interval(
+        ratio_median, ratio_lower, ratio_upper)))
+
+
+# C. Between-individual variation 
+# Each non-reference technique has its own individual intercept SD
+technique_variation_rows <- posterior::as_draws_df(mcat_prob_tech_site_indv) %>%
+  tibble::as_tibble() %>%
+  select(matches("^sd_video_unique_subject__mu[^_]+_Intercept$")) %>%
+  pivot_longer(everything(),
+    names_to = "term",
+    values_to = "draw") %>%
+  mutate(dpar = term %>%
+      str_remove("^sd_video_unique_subject__") %>%
+      str_remove("_Intercept$")) %>%
+  group_by(dpar) %>%
+  summarise(posterior_median = median(draw),
+    lower = quantile(draw, 0.025),
+    upper = quantile(draw, 0.975),
+    posterior_SD = sd(draw),
+    .groups = "drop") %>%
+  arrange(match(dpar, names(technique_dpar_labels))) %>%
+  transmute(section = "C. Between-individual variation",
+    parameter = paste0(unname(technique_dpar_labels[dpar]),
+      ": individual intercept SD"),
+    posterior_summary = format_site_interval(
+      posterior_median, lower, upper),
+    posterior_SD,
+    transformed = "\u2014")
+
+# Combine sections 
+technique_site_table_data <- bind_rows(
+  technique_prediction_rows,
+  technique_coefficient_rows,
+  technique_variation_rows)
+
+
+# Create the formatted table
+technique_site_results_gt <- technique_site_table_data %>%
+  gt(rowname_col = "parameter", groupname_col = "section") %>%
+  tab_stubhead(label = "Parameter") %>%
+  tab_spanner(label = "Posterior summary (log-odds scale)",
+    columns = c(posterior_summary, posterior_SD)) %>%
+  cols_label(posterior_summary = "Posterior median [95% CrI]",
+    posterior_SD = "Posterior SD",
+    transformed = html(paste0(
+        "Transformed estimate:<br>",
+        "A. Probability or B. Relative-odds ratio<br>",
+        "[95% CrI]"))) %>%
+  fmt_number(columns = posterior_SD,
+    decimals = 2) %>%
+  cols_align(align = "center",
+    columns = c(posterior_summary, posterior_SD, transformed)) %>%
+  tab_style(style = cell_text(weight = "bold"),
+    locations = cells_row_groups()) %>%
+  tab_options(table.font.names = "Calibri",
+    table.font.size = px(12),
+    data_row.padding = px(8),
+    table.border.top.color = "#BDBDBD",
+    table.border.bottom.color = "#BDBDBD",
+    column_labels.border.bottom.color = "#BDBDBD",
+    table_body.hlines.color = "#DDDDDD") %>%
+  tab_source_note(
+    source_note = paste(
+      "CrI = credible interval.",
+      "Section A reports site-specific technique probabilities",
+      "with individual intercept deviations set to zero.",
+      "Log-odds are log[P(technique)/P(stone pounding)].",
+      "The reference technique's log-odds are fixed at zero;",
+      "its predicted probability remains uncertain.")) %>%
+  tab_source_note(
+    source_note = paste(
+      "Reference site:", paste0(technique_reference_site, "."),
+      "Reference outcome: stone pounding.",
+      "Section B reports coefficients for each technique",
+      "relative to stone pounding.",
+      "Exponentiated site contrasts are ratios of",
+      "P(technique)/P(stone pounding) between sites.",
+      "Intercepts are reported only on the log-odds scale.")) %>%
+  tab_source_note(
+    source_note = paste(
+      "Posterior SD describes uncertainty in each estimate.",
+      "Section C reports individual intercept SDs",
+      "for each non-reference technique on the log-odds scale.",
+      "Site is a fixed effect; no site-level SD is estimated."))
+
+technique_site_results_gt
+
+
+# Export to Word 
+gt::gtsave(technique_site_results_gt, filename = "technique_site_results.docx",
+  path = "plots_tables")
+
+
+
+#! ...by site - plots -------------------------------------------------------------
 
 # These estimates describe an average individual at each site. Subject-level deviations are excluded.
 site_newdata <- seq_single_s %>% distinct(arena_site) %>% arrange(arena_site)
@@ -618,16 +797,60 @@ plot_technique_site <- ggplot(technique_site_summary, aes(x = .category, y = .ep
 
 plot_technique_site
 
-# ! Alternative plot - posterior densities overlapping by site
+# Alternative plot - box plots, grouped in 3s by site; summarize posterior probability draws 
 
-plot_technique_site_density <- ggplot(technique_site_draws,
-  aes(x = .epred, colour = arena_site, fill = arena_site)) +
+plot_technique_site_boxplot <- ggplot(technique_site_draws, aes(x = .category, y = .epred, fill = arena_site)) +
+  geom_boxplot(width = 0.7,
+               alpha = 0.85,
+               outlier.shape = NA,
+               position = position_dodge(width = 0.8)) +
+  scale_y_continuous(labels = scales::percent,
+                     expand = expansion(mult = c(0, 0.05))) +
+  coord_cartesian(ylim = c(0, 1)) +
+  scale_fill_brewer(palette = "Set2") +
+  labs(x = "Main technique",
+       y = "Estimated probability",
+       fill = "Arena site",
+       title = "Probability of each main technique by arena site",
+       subtitle = paste("Boxes show the posterior median and interquartile range;",
+                        "whiskers extend to 1.5 times the interquartile range")) +
+  theme_minimal(base_size = 13) +
+  theme(panel.grid.major.x = element_blank(),
+        axis.text.x = element_text(angle = 35, hjust = 1),
+        legend.position = "right")
+
+plot_technique_site_boxplot
+
+
+# Alternative plot - dot and whisker 
+
+plot_technique_site_intervals <- ggplot(technique_site_summary,
+                                        aes(x = .epred, y = .category, xmin = .lower, xmax = .upper, colour = arena_site)) +
+  geom_pointrange(position = position_dodge(width = 0.6),
+                  linewidth = 0.7) +
+  scale_x_continuous(labels = scales::percent,
+                     breaks = seq(0, 1, by = 0.2)) +
+  coord_cartesian(xlim = c(0, 1)) +
+  scale_colour_brewer(palette = "Set2") +
+  labs(x = "Estimated probability",
+       y = "Main technique",
+       colour = "Arena site",
+       title = "Probability of each main technique by arena site",
+       subtitle = "Points are posterior medians; intervals are 95% credible intervals") +
+  theme_minimal(base_size = 13) +
+  theme(panel.grid.major.y = element_blank(),
+        legend.position = "right")
+
+plot_technique_site_intervals
+
+#! ...by site - density chart -------------------------------------------------------------
+
+plot_technique_site_density <- ggplot(technique_site_draws, aes(x = .epred, colour = arena_site, fill = arena_site)) +
   geom_density(alpha = 0.20,
     linewidth = 1.1,
     adjust = 1.1) +
- geom_vline(data = technique_site_summary,
-    aes(xintercept = .epred,
-      colour = arena_site),
+  geom_vline(data = technique_site_summary,
+    aes(xintercept = .epred, colour = arena_site),
     inherit.aes = FALSE,
     linewidth = 0.7,
     linetype = "dashed",
@@ -636,73 +859,27 @@ plot_technique_site_density <- ggplot(technique_site_draws,
     ncol = 1,
     scales = "free_y",
     labeller = as_labeller(technique_labels)) +
-  scale_x_continuous(
-    labels = scales::percent,
-    breaks = seq(0, 1, by = 0.2)) +
+  scale_x_continuous(breaks = seq(0, 1, by = 0.2),
+    labels = scales::label_number(accuracy = 0.1)) +
   coord_cartesian(xlim = c(0, 1)) +
-  scale_colour_brewer(palette = "Set2") +
-  scale_fill_brewer(palette = "Set2") +
+  scale_colour_brewer(palette = "Set2",
+    limits = c("2PP", "BBC", "COCO")) +
+  scale_fill_brewer(palette = "Set2",
+    limits = c("2PP", "BBC", "COCO")) +
   labs(x = "Estimated probability of technique use",
     y = "Posterior density",
     colour = "Arena site",
-    fill = "Arena site",
-    #title = "Posterior probabilities of each main technique by arena site",
-    # subtitle = paste(
-    #   "Dashed lines show posterior medians;",
-    #   "greater distributional overlap indicates more similar estimates")
-    ) +
-  theme_minimal(base_size = 12) +
-  theme(strip.text = element_text(face = "bold"),
-    panel.grid.minor = element_blank(),
+    fill = "Arena site") +
+  theme_classic(base_size = 13) +
+  theme(strip.background = element_rect(
+      fill = "grey95",
+      colour = "grey40"),
+    strip.text = element_text(face = "bold",
+      margin = margin(t = 6, b = 6)),
+    panel.spacing.y = grid::unit(0.8, "lines"),
     legend.position = "right")
 
 plot_technique_site_density
-
-# Alternative plot - box plots, grouped in 3s by site; summarize posterior probability draws 
-
-plot_technique_site_boxplot <- ggplot(technique_site_draws, aes(x = .category, y = .epred, fill = arena_site)) +
-  geom_boxplot(width = 0.7,
-    alpha = 0.85,
-    outlier.shape = NA,
-    position = position_dodge(width = 0.8)) +
-  scale_y_continuous(labels = scales::percent,
-    expand = expansion(mult = c(0, 0.05))) +
-  coord_cartesian(ylim = c(0, 1)) +
-  scale_fill_brewer(palette = "Set2") +
-  labs(x = "Main technique",
-    y = "Estimated probability",
-    fill = "Arena site",
-    title = "Probability of each main technique by arena site",
-    subtitle = paste("Boxes show the posterior median and interquartile range;",
-      "whiskers extend to 1.5 times the interquartile range")) +
-  theme_minimal(base_size = 13) +
-  theme(panel.grid.major.x = element_blank(),
-    axis.text.x = element_text(angle = 35, hjust = 1),
-    legend.position = "right")
-
-plot_technique_site_boxplot
-
-
-# Alternative plot - dot and whisker 
-
-plot_technique_site_intervals <- ggplot(technique_site_summary,
-  aes(x = .epred, y = .category, xmin = .lower, xmax = .upper, colour = arena_site)) +
-  geom_pointrange(position = position_dodge(width = 0.6),
-    linewidth = 0.7) +
-  scale_x_continuous(labels = scales::percent,
-    breaks = seq(0, 1, by = 0.2)) +
-  coord_cartesian(xlim = c(0, 1)) +
-  scale_colour_brewer(palette = "Set2") +
-  labs(x = "Estimated probability",
-    y = "Main technique",
-    colour = "Arena site",
-    title = "Probability of each main technique by arena site",
-    subtitle = "Points are posterior medians; intervals are 95% credible intervals") +
-  theme_minimal(base_size = 13) +
-  theme(panel.grid.major.y = element_blank(),
-    legend.position = "right")
-
-plot_technique_site_intervals
 
 
 #! ...by individual -------------------------------------------------------------
@@ -1018,7 +1195,7 @@ plot(mbern_success_site_indv)
 pp_check(mbern_success_site_indv, type = "bars", ndraws = 100)
 
 
-#! ...by site -------------------------------------------------------------
+#! ...by site - bar plot -------------------------------------------------------------
 
 # These estimates describe an average individual at each site. Subject-level deviations are excluded.
 success_site_newdata <- seq_single_s %>% distinct(arena_site) %>% arrange(arena_site)
@@ -1047,16 +1224,14 @@ plot_success_site <- ggplot(success_site_summary, aes(x = arena_site, y = .epred
 
 plot_success_site
 
-
-# Alternative plot - posterior density 
+#! ...by site - density plot -------------------------------------------------------------
 
 success_site_draws  <- success_site_newdata %>% add_epred_draws(mbern_success_site_indv, re_formula = NA)
 success_site_summary  <- success_site_draws %>% group_by(arena_site) %>%
   median_qi(.epred, .width = 0.95) %>% ungroup()
 success_site_summary
 
-plot_success_site_density <- ggplot(success_site_draws,
-  aes(x = .epred, colour = arena_site, fill = arena_site)) +
+plot_success_site_density <- ggplot(success_site_draws, aes(x = .epred, colour = arena_site, fill = arena_site)) +
   geom_density(alpha = 0.25,
     linewidth = 1.1,
     adjust = 1.1) +
@@ -1066,27 +1241,180 @@ plot_success_site_density <- ggplot(success_site_draws,
     linetype = "dashed",
     linewidth = 0.8,
     show.legend = FALSE) +
-  scale_x_continuous(labels = scales::percent,
-    breaks = seq(0, 1, by = 0.1)) +
+  scale_x_continuous(breaks = seq(0, 1, by = 0.1),
+    labels = scales::label_number(accuracy = 0.1)) +
   coord_cartesian(xlim = c(0, 1)) +
-  scale_colour_brewer(palette = "Set2") +
-  scale_fill_brewer(palette = "Set2") +
+  scale_colour_brewer(
+    palette = "Set2",
+    limits = c("2PP", "BBC", "COCO")) +
+  scale_fill_brewer(
+    palette = "Set2",
+    limits = c("2PP", "BBC", "COCO")) +
   labs(x = "Estimated probability of success",
     y = "Posterior density",
     colour = "Arena site",
-    fill = "Arena site",
-    title = "Posterior probability of success by arena site",
-    subtitle = paste(
-      "Dashed lines show posterior medians;",
-      "greater overlap indicates more similar site estimates")) +
-  theme_minimal(base_size = 13) +
-  theme(panel.grid.minor = element_blank(),
+    fill = "Arena site") +
+  theme_classic(base_size = 13) +
+  theme(
     legend.position = "right")
 
 plot_success_site_density
 
 
 
+
+
+#! Results table ------------------------------------------
+
+# Formatting helper
+format_site_interval <- function(median, lower, upper, digits = 2) {
+  sprintf(paste0("%.", digits, "f [%.", digits, "f, %.", digits, "f]"),
+    median, lower, upper)}
+
+# Display order for site predictions
+site_table_order <- c("COCO", "2PP", "BBC")
+
+
+# A. Site-specific predictions 
+# Reuse the posterior draws used in the density plot
+site_success_table_draws <- success_site_draws %>%
+  transmute(.draw, arena_site, probability = .epred, log_odds = qlogis(.epred))
+
+site_prediction_rows <- site_success_table_draws %>%
+  group_by(arena_site) %>%
+  summarise(posterior_median = median(log_odds),
+    lower = quantile(log_odds, 0.025),
+    upper = quantile(log_odds, 0.975),
+    posterior_SD = sd(log_odds),
+    probability_median = median(probability),
+    probability_lower = quantile(probability, 0.025),
+    probability_upper = quantile(probability, 0.975),
+    .groups = "drop") %>%
+  arrange(match(as.character(arena_site), site_table_order)) %>%
+  transmute(section = "A. Site-specific success predictions",
+    parameter = as.character(arena_site),
+    posterior_summary = format_site_interval(
+      posterior_median, lower, upper),
+    posterior_SD,
+    transformed = format_site_interval(
+      probability_median,
+      probability_lower,
+      probability_upper,
+      digits = 3))
+
+
+# B. Population-level coefficients 
+
+# Extract coefficients from the fitted model
+site_coefficient_matrix <- brms::fixef(mbern_success_site_indv, summary = FALSE)
+
+# Identify the reference site from the fitted model and its coefficient names.
+# This assumes the treatment coding used in your current script.
+site_coefficient_terms <- colnames(site_coefficient_matrix)
+
+site_contrast_terms <- site_coefficient_terms[startsWith(site_coefficient_terms, "arena_site")]
+site_contrast_sites <- sub("^arena_site", "", site_contrast_terms)
+
+site_model_sites <- sort(unique(as.character(mbern_success_site_indv$data$arena_site)))
+site_model_sites <- site_model_sites[!is.na(site_model_sites)]
+
+site_reference <- setdiff(site_model_sites, site_contrast_sites)
+
+stopifnot(length(site_reference) == 1L)
+
+site_coefficient_labels <- c(setNames(paste0("Intercept: ", site_reference), "Intercept"),
+  setNames(paste0(site_contrast_sites, " vs ", site_reference), site_contrast_terms))
+
+site_coefficient_rows <- site_coefficient_matrix %>% tibble::as_tibble() %>%
+  pivot_longer(everything(), names_to = "term", values_to = "draw") %>%
+  group_by(term) %>%
+  summarise(posterior_median = median(draw),
+    lower = quantile(draw, 0.025),
+    upper = quantile(draw, 0.975),
+    posterior_SD = sd(draw),
+    OR_median = median(exp(draw)),
+    OR_lower = quantile(exp(draw), 0.025),
+    OR_upper = quantile(exp(draw), 0.975),
+    .groups = "drop") %>%
+  arrange(match(term, names(site_coefficient_labels))) %>%
+  transmute(section = "B. Population-level coefficients",
+    parameter = unname(site_coefficient_labels[term]),
+    posterior_summary = format_site_interval(
+      posterior_median, lower, upper),
+    posterior_SD, transformed = if_else(
+      term == "Intercept",
+      "\u2014",
+      format_site_interval(OR_median, OR_lower, OR_upper)))
+
+
+# C. Between-individual variation 
+site_variation_rows <- posterior::as_draws_df(mbern_success_site_indv) %>% tibble::as_tibble() %>%
+  select(sd_video_unique_subject__Intercept) %>%
+  pivot_longer(everything(),
+    names_to = "term",
+    values_to = "draw") %>%
+  summarise(posterior_median = median(draw),
+    lower = quantile(draw, 0.025),
+    upper = quantile(draw, 0.975),
+    posterior_SD = sd(draw)) %>%
+  transmute(section = "C. Between-individual variation",
+    parameter = "Individual intercept SD",
+    posterior_summary = format_site_interval(
+      posterior_median, lower, upper),
+    posterior_SD,
+    transformed = "\u2014")
+
+
+# Combine sections
+site_success_table_data <- bind_rows(site_prediction_rows, site_coefficient_rows, site_variation_rows)
+
+# Create the gt table
+site_success_results_gt <- site_success_table_data %>%
+  gt(rowname_col = "parameter", groupname_col = "section") %>%
+  tab_stubhead(label = "Parameter") %>%
+  tab_spanner(label = "Posterior summary (log-odds scale)",
+    columns = c(posterior_summary, posterior_SD)) %>%
+  cols_label(posterior_summary = "Posterior median [95% CrI]",
+    posterior_SD = "Posterior SD",
+    transformed = html(
+      "Transformed estimate:<br>A. Probability or B. Odds ratio<br>[95% CrI]")) %>%
+  fmt_number(columns = posterior_SD,
+    decimals = 2) %>%
+  cols_align(align = "center",
+    columns = c(posterior_summary, posterior_SD, transformed)) %>%
+  tab_style(style = cell_text(weight = "bold"),
+    locations = cells_row_groups()) %>%
+  tab_options(table.font.names = "Calibri",
+    table.font.size = px(12),
+    data_row.padding = px(8),
+    table.border.top.color = "#BDBDBD",
+    table.border.bottom.color = "#BDBDBD",
+    column_labels.border.bottom.color = "#BDBDBD",
+    table_body.hlines.color = "#DDDDDD") %>%
+  tab_source_note(
+    source_note = paste(
+      "CrI = credible interval.",
+      "Section A reports site-specific success probabilities and their",
+      "corresponding log-odds, with individual intercept deviations set to zero.")) %>%
+  tab_source_note(
+    source_note = paste(
+      "Reference site:", paste0(site_reference, "."),
+      "Section B reports site contrasts on the log-odds scale and",
+      "exponentiated contrasts as odds ratios.",
+      "The intercept is reported only on the log-odds scale.")) %>%
+  tab_source_note(
+    source_note = paste(
+      "Posterior SD describes uncertainty in each estimate.",
+      "The individual intercept SD describes between-individual variation",
+      "on the log-odds scale.",
+      "Arena site is a fixed effect; no site-level SD is estimated."))
+
+site_success_results_gt
+
+
+# Export to Word 
+gt::gtsave(site_success_results_gt, filename = "site_success_results.docx",
+  path = "plots_tables")
 
 
 #! ...by individual -------------------------------------------------------------
@@ -1121,8 +1449,7 @@ plot_success_individual <- ggplot(success_individual_summary,
 plot_success_individual
 
 
-
-## coloring by age/sex class 
+#! ...by individual coloring by age/sex class -------------------------------------------------------------
 
 success_individual_newdata <- seq_single_s %>%  distinct(video_unique_subject, arena_site, age_sex) %>%
   arrange(arena_site, video_unique_subject)

@@ -1,0 +1,1530 @@
+PDF PAGE 1
+Behavioural Processes 89 (2012) 153– 165
+Contents lists available at SciVerse ScienceDirect
+Behavioural Processes
+journa  l h omepa  g e: www.elsevier.com/locate/behavproc
+Review
+The evolutionary origins and ecological context of tool use in
+New
+ Caledonian crows
+Christian Rutz ∗, James J.H. St Clair
+Department of Zoology, University of Oxford, South Parks Road, Oxford OX1 3PS, United Kingdom
+a r t i c l e i n f o
+Article history:
+Received
+ 3 September 2011
+Received
+ in revised form
+30
+ November 2011
+Accepted
+ 30 November 2011
+Keywords:
+Animal
+ culture
+Cognition
+Convergent
+ evolution
+Extractive
+ foraging
+Social
+ learning
+Woodpecker
+a b s t r a c t
+New Caledonian (NC) crows Corvus moneduloides are the most proliﬁc  avian tool users. In the wild, they
+use
+ at least three distinct tool types to extract invertebrate prey from deadwood and vegetation, with
+some
+ of their tools requiring complex manufacture, modiﬁcation  and/or deployment. Experiments with
+captive-bred,
+ hand-raised NC crows have demonstrated that the species has a strong genetic predispo-
+sition
+ for basic tool use and manufacture, suggesting that this behaviour is an evolved adaptation. This
+view
+ is supported by recent stable-isotope analyses of the diets of wild crows, which revealed that tool
+use
+ provides access to highly proﬁtable  hidden prey, with preliminary data indicating that parents pref-
+erentially
+ feed their offspring with tool-derived food. Building on this work, our review examines the
+possible
+ evolutionary origins of these birds’ remarkable tool-use behaviour. Whilst robust comparative
+analyses
+ are impossible, given the phylogenetic rarity of animal tool use, our examination of a wide range
+of
+ circumstantial evidence enables a ﬁrst  attempt at reconstructing a plausible evolutionary scenario. We
+suggest
+ that a common ancestor of NC crows, originating from a (probably) non-tool-using South-East
+Asian
+ or Australasian crow population, colonised New Caledonia after its last emersion several million
+years
+ ago. The presence of proﬁtable  but out-of-reach food, in combination with a lack of direct competi-
+tion
+ for these resources, resulted in a vacant woodpecker-like niche. Crows may have possessed certain
+behavioural
+ and/or morphological features upon their arrival that predisposed them to express tool-use
+rather
+ than specialised prey-excavation behaviour, although it is possible that woodpecker-like forag-
+ing
+ preceded tool use. Low levels of predation risk may have further facilitated tool-use behaviour, by
+allowing
+ greater expenditure of time and energy on object interaction and exploration, as well as the evo-
+lution
+ of a ‘slow’ life-history, in which prolonged juvenile development enables acquisition of complex
+behaviours.
+ Intriguingly, humans may well have inﬂuenced  the evolution of at least some of the species’
+tool-oriented
+ behaviours, via their possible introduction of candlenut trees together with the beetle lar-
+vae
+ that infest them. Research on NC crows’ tool-use behaviour in its full ecological context is still in its
+infancy,
+ and we expect that, as more evidence accumulates, some of our assumptions and predictions
+will
+ be proved wrong. However, it is clear from our analysis of existing work, and the development of
+some
+ original ideas, that the unusual evolutionary trajectory of NC crows is probably the consequence of
+an
+ intricate constellation of interplaying factors.
+© 2012 Elsevier B.V. All rights reserved.
+Contents
+1.
+ Introduction . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+2.
+ Tool-use behaviour in the wild . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+2.1.
+ Current distribution and habitats . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 154
+2.2.
+ Tool types . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 155
+2.3.
+ Tool function . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 156
+3.
+ Evolution and ecology of tool use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+3.1.
+ Nature or nurture? . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 157
+3.2.
+ Ecological signiﬁcance  of tool use . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158
+∗ Corresponding author.
+E-mail
+ address: christian.rutz@zoo.ox.ac.uk (C. Rutz).
+0376-6357/$
+ –  see front matter ©  2012 Elsevier B.V. All rights reserved.
+doi:10.1016/j.beproc.2011.11.005
+
+PDF PAGE 2
+154 C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165
+3.3. The limitations of comparative techniques . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 158
+3.4.
+ Phylogenetic relationships . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+3.5.
+ Key hypotheses for possible ecological drivers . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 159
+3.6.
+ Tool materials, prey sources and the role of anthropogenic change . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 160
+3.7.
+ Evolutionary predispositions, and present-day adaptations . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+3.7.1.
+ Morphology . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 161
+3.7.2.
+ Behaviour . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 162
+4.
+ Concluding remarks . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163
+Acknowledgements
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163
+References
+ . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . 163
+I watched, without great interest, a crow, ten steps from me, occu-
+pied in hunting for [wood-boring beetle larvae] in the trunk of a
+fallen candlenut tree. . . as the operation drew on, I became more
+attentive, and perceived a stick held in its beak.
+Le Goupils (1928), translated by Bluff (2008)
+1. Introduction
+For a long time, tool use was widely believed to be a uniquely
+human trait. This view changed overnight when Jane Goodall
+reported that chimpanzees at the Gombe Stream, Tanzania, East
+Africa, use a diversity of tools in foraging and non-foraging con-
+texts (Goodall, 1964; for earlier reports of animal tool use, see
+Darwin, 1879). Since this discovery, tool use has been observed
+in an increasing number of animal species (reviews: Beck, 1980;
+Bentley-Condit and Smith, 2010; Shumaker et al., 2011). Despite
+this expanding catalogue, however, and the realisation that tool use
+may not be as ‘special’ as originally thought (Hansell and Ruxton,
+2008), habitual and more sophisticated forms of tool use are notice-
+ably scarce, and largely conﬁned  to the great apes and a handful of
+other species (Shumaker et al., 2011). This phylogenetic rarity raises
+intriguing questions about the possible evolutionary origins of this
+behaviour.
+We endeavour to gain fresh insights into these issues by inves-
+tigating a tool-using bird species from a remote tropical island in
+the South Paciﬁc  –  the New Caledonian (NC) crow Corvus monedu-
+loides (Fig. 1). Given the phylogenetic distance between crows and
+great apes, there is little doubt that their tool-oriented behaviour
+has evolved independently. This independence of origin provides
+a valuable opportunity to investigate the biological circumstances
+that foster the evolution and maintenance of tool use, as well as its
+possible dependence on cultural processes. In this review, we focus
+on the evolution and ecology of tool use in NC crows, leaving aside
+the question of culture. Some ﬁfty  years after Tinbergen (1963)
+outlined the aims and methods of ethology, his ‘four questions’
+still provide a robust conceptual framework for approaching the
+task of understanding ‘why’ an animal exhibits a certain behaviour.
+Whilst we felt that there is currently insufﬁcient  material to dis-
+cuss the four different levels of explanation –  phylogeny, ontogeny,
+adaptive function, and mechanism –  in separate self-contained
+sections, we kept them very much in mind when writing this
+paper.
+Over the last few decades, research on NC crows, both in the
+laboratory and in the ﬁeld,  has provided answers to some questions
+and indicated fruitful avenues for addressing others. Our paper is
+not meant to be an exhaustive review of the literature on NC crows,
+let alone of that on the evolution of animal tool use in general.
+Rather, we have tried to bring together published and unpublished
+material in a way that allows us to offer some useful speculation on
+topics where ﬁrm  evidence is still lacking. We think our piece is best
+read in the context of earlier reviews on the species’ general tool-
+related behaviour (Hunt and Gray, 2006), and the possible cognitive
+mechanisms underlying it (Kacelnik et al., 2006; Bluff et al., 2007).
+Fig. 1. A New Caledonian (NC) crow uses a (non-hooked) stick tool (A) to extract a
+beetle
+ larva from its burrow in a candlenut stump (B). Note that the tool remains
+inserted
+ after successful deployment. Tools that are left behind at foraging sites are
+sometimes
+ ‘adopted’ by other crows, and can be collected by researchers for closer
+examination.
+ For further information on NC crows’ ‘larva-ﬁshing’  behaviour, see the
+main
+ text and Fig. 5. Photos: J. Troscianko; reproduced from Fig. S1 in Rutz et al.
+(2010).
+2. Tool-use behaviour in the wild
+2.1. Current distribution and habitats
+NC crows are endemic to the remote Paciﬁc  archipelago of New
+Caledonia, inhabiting the main island, Grande Terre, as well as one
+of the sister islands, Maré (Fig. 2). Delacour (1966) asserts that NC
+crows were introduced by humans to Maré (subsequently cited by
+several other authors, including Doughty et al., 1999; Hunt and
+Gray, 2003; del Hoyo et al., 2009), but since he failed to provide con-
+vincing supporting evidence, we consider this claim contentious. A
+smaller population on another sister island, Lifou, which was also
+possibly due to introduction by humans (Barré and Dutson, 2000),
+is apparently now extinct (unpubl. data; Dutson, 2011).
+
+PDF PAGE 3
+C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165 155
+Solomon  Isla nds
+Australia
+Tasmania
+New Ze ala nd
+New Caledo nia
+Grande  Te rre
+Lifou
+Maré
+Papua  New Guin ea
+170°160°
+-10 °
+-20 °
+500 km
+Fig. 2. New Caledonian crows are endemic to the tropical archipelago of New Cale-
+donia,
+ South Paciﬁc  (white circle). They occur across the main island, Grande Terre,
+and
+ on one of the sister islands, Maré; a small population on Lifou is probably now
+extinct.
+ Map: C. Rutz.
+NC crows live across a wide spectrum of habitats, from coastal
+dry-forest remnants (Hannecart and Létocart, 1980), farmland
+(Vuilleumier and Gochfeld, 1976), and human settlements (pers.
+observ.), to rainforests along the main island’s central moun-
+tain chain (Hunt, 1996). Densities vary considerably, from only a
+few families in some high-altitude, rainforest sites (C. Rutz, pers.
+observ.; cf. Hunt, 1996, 2000a), to larger numbers in some other
+habitats, for example where wood-boring beetle larvae abound
+(see Sections 2.3 and 3.2) and/or where hunting by humans pro-
+vides good access to carrion (e.g., Rutz et al., 2007, 2010; Bluff et al.,
+2010b).
+2.2.
+ Tool types
+Throughout their range, NC crows use a variety of dead and liv-
+ing plant materials to obtain prey from out-of-reach places (Fig. 3).
+Using their bills, they exhibit remarkable dexterity in tool manu-
+facture and use, with skills being honed during a prolonged, 1–2
+year development period (see Section 3.7.2, Bluff et al., 2010b;
+Holzhaider et al., 2010a,b). NC crow tools have a diversity of forms
+(Hunt and Gray, 2006), and there appears to be some variation in
+individual-level tool repertoires (Hunt and Gray, 2007). The most
+basic tools are stick-type tools (henceforth stick tools), usually a
+twig, stem section, fern stolon, or leaf petiole (Orenstein, 1972;
+Hunt, 1996, 2008; Hunt and Gray, 2002, 2006; Rutz et al., 2007;
+Troscianko et al., 2008; Bluff et al., 2010b). Stick-tools may be sub-
+classiﬁed  into non-hooked (Fig. 3A) and hooked types (Fig. 3B).
+The non-hooked type comprises relatively simple, approximately
+straight tools which require minimal (or no) modiﬁcation  of raw
+materials (Hunt, 2000b; Hunt and Gray, 2002; Bluff et al., 2010b),
+whereas hooked stick tools are a more complex variant, usually
+produced by the selective removal of parts of a forked twig and
+deliberate ‘sculpting’ of the functional end (Hunt, 1996; Hunt and
+Gray, 2002, 2004a).
+Distinct from stick tools, pandanus tools are produced from the
+barbed leaf edges of screw pines (Pandanus spp.) (Figs. 3C and 4),
+using a combination of precise cutting and ripping actions. Like
+stick tools, pandanus tools (Fig. 3C) may be further sub-classiﬁed
+petioles sticks wide narrow stepped
+non-hooked stick tools hooked stick tools pandanus tools
+A B C
+Fig. 3. New Caledonian (NC) crows use a variety of raw materials and manufacturing techniques, to produce at least three distinct types of foraging tools. Stick tools can be
+(A)
+ non-hooked (e.g., leaf petioles, sticks, grass stems) or (B) hooked (made from branched twigs). Whilst non-hooked stick tools are sometimes produced or modiﬁed  by
+shortening
+ of the raw materials, the production of hooked stick tools involves a much more complex manufacturing process, including sophisticated ‘3D-sculpting’ of the
+functional
+ end. (C) Distinct from stick tools, pandanus tools are excised from the barbed leaf edges of screw pines (Pandanus spp.), in a sophisticated sequence of cutting and
+ripping
+ actions with the bill (cf. Fig. 4). There are three main pandanus-tool designs: ‘wide’, ‘narrow’ and ‘stepped’. During deployment, the broad end of stepped tools is held
+in
+ the bill, presumably providing some lateral support, whilst the pointed tip is inserted into holes and crevices in search of prey; if manufactured correctly, the material’s
+natural
+ barbs will point ‘backwards’ (i.e., away from the prey and towards the crow) serving as sharp pointed hooks during foraging. Note that, as inferred from the position
+of
+ the barbs, the narrow and stepped tools shown here have been manufactured from left leaf edges, whilst the wide tool was cut from a right leaf edge. Very little is currently
+known
+ about the function of different NC crow tool types, the tool repertoires of individual birds, and whether shapes and manufacturing techniques are socially transmitted
+(for
+ details, see main text). The tool specimens shown are representative examples of the different tool types, and have been collected in different study locations. All tools
+are
+ shown with their functional ends pointing downwards, and the scale bar for all panels is 5 cm. Photos: (A) C. Rutz; (B) J. St Clair; (C) G. Hunt (tool positions adapted by C.
+Rutz).
+
+PDF PAGE 4
+156 C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165
+according to their shapes, which range from simple rectangular
+strips (‘wide’ or ‘narrow’ tools, according to dimensions) to more
+complex variants (‘stepped’ tools) which taper towards the working
+tip (Hunt, 1996; Hunt and Gray, 2003). The naturally barbed edge of
+pandanus tools means that they can function as hooked tools, and
+crows indeed tend to manufacture and use them with the barbs
+in the functional orientation (pointing away from the substrate;
+Hunt, 1996; Holzhaider et al., 2008). Systematic surveys revealed
+some variation in pandanus tool shapes across Grande Terre (Hunt,
+2000a; Hunt and Gray, 2003): in most surveyed areas, crows manu-
+facture stepped tools, but in a handful of localities, they also fashion
+narrow (and wide) tools. Hunt and Gray (2003, 2006) suggested that
+the observed geographic distribution of pandanus tool shapes is the
+outcome of a process of diversiﬁcation  and cumulative evolution,
+where across crow generations, a simple tool design (wide pan-
+danus tools) was progressively reﬁned  to produce more complex
+variants (stepped pandanus tools). This is an intriguing possibil-
+ity, as cumulative technological evolution has so far been thought
+to be a uniquely human trait (Boyd and Richerson, 1996, 2005;
+Richerson and Boyd, 2006; Caldwell and Millen, 2008). We believe
+that current evidence is insufﬁcient  to justify these claims (Bluff
+et al., 2010a; see also Shumaker et al., 2011), but a detailed discus-
+sion of these issues is unfortunately beyond the scope of this review
+(for general reviews of the ‘animal-cultures debate’, see Laland and
+Hoppitt, 2003; Laland and Janik, 2006; Laland and Galef, 2009).
+Wide tools are the only pandanus tool design made by crows on
+Maré, although there is apparently some variation in manufacture
+(Holzhaider et al., 2010a,b) and deployment techniques (Hunt et al.,
+2007a). It is worth noting that Pandanus spp. trees occur across a
+range of habitats on Grande Terre, but according to unpublished
+surveys, they are not always used by local crows for tool manufac-
+ture (pers. observ.).
+In captivity, NC crows opportunistically use unfamiliar materi-
+als for making foraging tools, including garden wire (Weir et al.,
+2002), aluminium strips (Weir and Kacelnik, 2006), and cardboard
+(Kacelnik et al., 2006; Bluff et al., 2007), so it is reasonable to
+assume that wild crows use a broader range of raw materials than
+has so far been documented. At least one wild crow at our long-
+term dry-forest study site on the central west coast of Grande
+Terre (‘Gouaro-Déva’) has been observed using a moulted feather
+for probing behaviour (unpubl. data). Wild crows are difﬁcult  to
+observe, because much of their cursorial foraging activity takes
+place out of sight high up in the forest canopy, and they are also
+easily disturbed by humans –  either moving away to avoid them
+or approaching them out of curiosity. Because of these constraints,
+crow-borne video cameras have proved to be an invaluable study
+tool (Rutz et al., 2007). Using this method, a hitherto-unknown tool
+material (dry grass stems) was discovered within only 7.5 h of video
+recording (Rutz et al., 2007), a ﬁnding  that was later conﬁrmed
+through direct observation (Troscianko et al., 2008). Systematic
+deployment of these ‘crowcams’ (Bluff and Rutz, 2008; Rutz and
+Bluff, 2008) has the potential: (i) to document unknown tool mate-
+rials and novel tool types; (ii) to ascertain the circumstances in
+which different materials, tools and behaviours are used in the wild
+(see also Section 2.3); and (iii) to allow estimation of the impor-
+tance of tool-use behaviours through quantitative construction of
+time and energy budgets (see also Section 3.2).
+Like many other corvids, NC crows drop nuts (and snails) on
+hard surfaces to crack them open (Layard and Layard, 1882; Hunt
+et al., 2002), but this behaviour does not satisfy the widely accepted
+deﬁnition  for ‘tool use’ by Beck (1980; for further reﬁnement
+and critical discussion, see Shumaker et al., 2011; St Amant and
+Horton, 2008). We mention this here because the nuts exploited
+by NC crows are those of the candlenut tree Aleurites moluccana,
+which also harbours the large and nutritious beetle larvae that are
+extracted with tools (see Fig. 1 and Section 2.3). Since these trees
+Fig. 4. New Caledonian crows make their most sophisticated tools from the barbed
+leaves
+ of screw pines (Pandanus spp.) (cf. Fig. 3C). The ruler at the base of the trunk
+is
+ ca. 1.0-m long, and the two black markings on it are 50 cm apart. Inset: Discarded
+pandanus
+ tools are difﬁcult  to ﬁnd  in the crows’ rainforest habitat, but tool shapes
+can
+ be inferred from the ‘counterparts’ that are left behind in leaves where tools
+were
+ excised (here a stepped tool; note thumb for scale). Both photos were taken
+in
+ the same study site, but the counterpart in the inset is not from the tree shown.
+Photos:
+ (main) C. Rutz and J. St Clair; (inset) C. Rutz.
+provide two sources of nutritious foods, we look at their role in NC
+crow ecology more closely in Sections 3.2 and 3.6.
+2.3. Tool function
+Surprisingly little is known about the foraging contexts in which
+NC crows deploy their tools, and about the prey types they tar-
+get with them. Like other (tropical) corvids (cf. Goodwin, 1986; del
+Hoyo et al., 2009), NC crows are opportunistic, omnivorous foragers
+that are known, or suspected, to take a wide range of foods, includ-
+ing larval and adult insects, snails, lizards, carrion, fruit, nuts, bird
+eggs and other small animal prey (review: Rutz et al., 2010).
+The best understood type of tool-assisted foraging is probably
+‘larva ﬁshing’  (Figs. 1 and 5), which Le Goupils (1928) described in
+what appears to be the ﬁrst  published record of NC crow tool use
+(see introductory quote). Here, crows use stick tools (Fig. 3A), usu-
+ally twigs or leaf petioles, to extract larvae (Figs. 1 and 5E and F)
+of the longhorn beetle Agrianome fairmairei (Fig. 5B) from their
+burrows in candlenut trees (Cochereau, 1970; Fig. 5A, C, D and
+G). Similar to the well-known ‘termite ﬁshing’  behaviour of chim-
+panzees (Goodall, 1964), crows persistently poke larvae with a tool
+(see movie S1 in Rutz et al., 2010), ‘teasing’ them until defensive
+behaviour is elicited. Sufﬁciently  agitated larvae will bite the tip of
+the tool with their powerful mandibles, and once securely attached,
+can be extracted from their burrow by carefully withdrawing the
+tool (Fig. 5G). The technique requires remarkable levels of sensori-
+motor control, and when we tried to emulate it in informal sessions
+during ﬁeldwork,  it turned out to be surprisingly difﬁcult  to master
+even for humans. In the wild, immature crows seem to hone their
+
+PDF PAGE 5
+C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165 157
+Fig. 5. New Caledonian (NC) crows use non-hooked stick tools to extract the protein- and lipid-rich larvae of the longhorn beetle Agrianome fairmairei from their burrows in
+candlenut
+ trees Aleurites moluccana (cf. Fig. 1). (A) Candlenut trees are especially abundant in low-altitude habitats near creeks and rivers. Even at a distance, the species is
+easily
+ recognised by its distinctive light-coloured leaves. (B) Adult longhorn beetle held on an index ﬁnger  for size comparison. (C) A non-hooked stick tool left behind by a
+crow
+ inserted into the opening of a larva burrow (cf. Figs. 1 and 3A). (D) Naturally degraded candlenut stump, showing larva burrows that are exposed to crows’ tool-assisted
+foraging.
+ The dead, larva-infested candlenut tree in the background may fall over and break up during the next storm. (E) In a log split with an axe, a beetle larva can be
+seen
+ inside its burrow, together with some typical ‘frass’-like excretions. (F) Larvae of different sizes sampled from an infested log. The scale bar is 3 cm. (G) By repeatedly
+touching
+ the head of a larva, NC crows elicit defensive biting. Once a larva has securely grabbed the tool tip, as shown here with a human-held tool, it can be extracted by
+carefully
+ withdrawing the tool from the larva burrow. Photos: (A, D, E, F) J. St Clair; (B) J. Troscianko; (C) C. Rutz, L. Bluff and J. Troscianko; (G) J. Troscianko and C. Rutz.
+larva-ﬁshing  skills during the ﬁrst  few years post-ﬂedging  (Bluff
+et al., 2010b; Rutz et al., 2010).
+Apart from larva-ﬁshing,  stick tools are used in a wide range
+of foraging contexts, for extracting animal prey from holes and
+crevices, but the composition of stick-tool derived diets has not
+yet been quantiﬁed  (see Section 3.2). Sometimes tool use takes
+place on the forest ﬂoor,  where leaf litter is screened for prey (Rutz
+et al., 2007), but more commonly crows will deploy these tools
+on fallen trees or in standing vegetation, to probe behind bark or
+leaves, as well as in cavities (pers. observ.). Hunt (1996) observed
+crows using hooked twig tools in holes in living and dead wood (cf.
+Orenstein, 1972) and at the base of palm and Freycinetia longispica
+leaves (see Fig. 1A–C  in Hunt, 1996), but was unable to identify the
+prey they captured (although he found a range of invertebrates
+when examining similar sites). In a farmland area, a crow was
+photographed extracting a lizard with a non-hooked tool from
+a fence post (Troscianko et al., 2008), illustrating the plasticity
+of stick tool use behaviour. Hooked and non-hooked stick tools
+were also used by crows at experimental feeding tables, to extract
+meat from holes drilled into logs or from Perspex boxes (e.g.,
+Hunt and Gray, 2004a, 2007; Hunt et al., 2006; Holzhaider et al.,
+2008);
+ whilst conﬁrming  the foraging function of these tools, such
+observations do not enable inferences about natural diet choice.
+The function of pandanus tools remains largely a mystery, as
+only very few observations exist of wild crows deploying stepped
+tools in natural foraging locations (Hunt, 1996). The vast major-
+ity of observed pandanus-tool deployments are by birds extracting
+meat at experimentally baited sites (one bird using stepped tools on
+Grande Terre, Hunt and Gray, 2004b; many birds using wide tools
+on Maré, e.g., Holzhaider et al., 2010a,b). From the few observa-
+tions of natural foraging, and from the locations of discarded tools,
+it seems likely that pandanus tools are routinely used in the crowns
+of Pandanus spp. trees, although it is not yet clear what their main
+target prey are. We will return to the question of NC crow tools’
+energetic signiﬁcance  in Section 3.2.
+3. Evolution and ecology of tool use
+3.1. Nature or nurture?
+Controlled experiments with captive-bred birds demonstrated
+conclusively that NC crows have a strong genetic predisposition for
+
+PDF PAGE 6
+158 C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165
+basic stick tool use, and even the manufacture of simple pandanus
+tools (Kenward et al., 2005, 2006). Kenward et al. (2005, 2006) doc-
+umented the development of four hand-raised NC crows: two birds
+received regular demonstrations by humans of how to use stick
+tools for extracting food from artiﬁcial  holes and crevices (treat-
+ment group), and the other two were raised (in separate aviaries)
+with the same level of overall attention, but without ever seeing
+tools, or tool-like objects, being handled by their human foster par-
+ents or by conspeciﬁcs  (control group). Interestingly, all four birds
+developed functional stick-tool use. Successful food retrieval from
+a crevice was ﬁrst  observed in the tutored birds when they were
+68 and 72 days old, and in the untutored birds at 63 and 79 days
+old. One of the untutored birds later even produced basic pan-
+danus tools after being supplied with suitable raw materials. An
+independent study reported the development of stick-tool use in
+a juvenile NC crow, and pandanus tool use, but not manufacture,
+in two out of four (presumably) pandanus-naïve subjects; how-
+ever, experiments were less controlled as birds were housed in a
+zoological garden where humans regularly interacted with them,
+handling tools in full view and even encouraging their use (Hunt
+et al., 2007b).
+Despite strong genetic predispositions (for similar results for
+woodpecker ﬁnches,  see Tebbich et al., 2001), tutoring has mea-
+surable effects on juveniles’ tool-use development, by elevating
+levels of twig handling and insertion (in the sample of the four
+birds studied by Kenward et al., 2006), and demonstrations of han-
+dling increases their exploration of non-tool objects (Kenward et al.,
+2006). It also remains possible that the production or deployment of
+more complex tool types, such as stepped pandanus tools, requires
+social input (e.g., Kenward et al., 2005; Holzhaider et al., 2010b).
+Young crows may learn directly by observing proﬁcient  adults, or
+indirectly by examining tool artefacts that have been left behind
+(tools, or pandanus counterparts; see Figs. 1B and 5C), and recent
+ﬁeld  studies conﬁrm  that both processes could be at work in the
+wild (Bluff et al., 2010b; Holzhaider et al., 2010a,b). These issues
+relate to the question of crow ‘cultures’, and are therefore not
+explored any further here. Nevertheless, it is clear from the above
+that tool use –  at least in its simplest forms –  is an evolved adapta-
+tion in NC crows. This means that we can examine the behaviour’s
+ecological, and adaptive, signiﬁcance  under contemporary ecolog-
+ical conditions (Section 3.2), as well as its potential correlates and
+drivers (Sections 3.3, 3.5–3.7 ).
+3.2. Ecological signiﬁcance  of tool use
+Knowledge of the factors that currently maintain tool use in NC
+crows can inform speculation about the factors that have selected
+for it in the evolutionary past. To this end, we may ask how impor-
+tant, compared to other foraging modes, tool-assisted foraging is in
+the everyday lives of NC crows, in terms of both overall energetic
+intake and the provision of speciﬁc  dietary components. Findings
+obviously require cautious interpretation, as ecological conditions
+may change over time, but several studies have successfully used
+this approach for a range of primate species (Nishida and Hiraiwa,
+1982; Yamakoshi, 1998; Boesch and Boesch-Achermann, 2000),
+and woodpecker ﬁnches  (Tebbich et al., 2002), and it is informative
+to review the evidence that is accumulating for our study system.
+As mentioned earlier (Section 2.3), very little is known about
+NC crows’ general foraging behaviour. The observation that they
+use tools to ﬁsh  for large, wood-boring beetle larvae (Le Goupils,
+1928; Hunt, 2000b; Bluff et al., 2010b; Rutz et al., 2010) was an
+early indication that tool use in this species may provide access to
+particularly proﬁtable  prey. However, the reliance of these birds
+on tool-assisted foraging remained unknown, largely because of
+the difﬁculty  of observing wild crows in their natural habitats (see
+Section 2.2; Rutz et al., 2007; Bluff et al., 2010b). A recent study
+used
+ state-of-the-art stable-isotope proﬁling  techniques to esti-
+mate tool-assisted dietary intake at the level of the individual crow
+(Rutz et al., 2010). Comparing the stable-isotope proﬁles  of crow tis-
+sues (feathers and blood) with those of seven putative food sources
+(wood-boring beetle larvae; other invertebrates; candlenuts; car-
+rion; lizards; snails; fruit), enabled a ﬁrst  quantitative assessment of
+crow diets. Crucially, a proxy measure of tool-use dependence could
+be established, by exploiting the fact that tool-derived cerambycid
+larvae (see Section 2.3) are exclusively xylophagous, which pro-
+duces a distinct, and traceable, isotopic signature (low /H925415N). The
+analyses revealed that beetle larvae can be an exceptionally impor-
+tant source of protein and lipids for NC crows, and that they can
+satisfy a large proportion of an adult’s daily energy requirements,
+highlighting the substantial rewards available to competent tool
+users (Rutz et al., 2010; note that a correction has been published
+for this paper).
+Intriguingly, when sampled crows were allocated to age cate-
+gories (inferred from their gape colouration, which changes with
+age), this study also found age-dependent variation in the esti-
+mated contribution of larvae to dietary intake, with nestlings and
+recently ﬂedged  crows consuming more larvae than both imma-
+tures (ca. 1–2  years old) and adults. This suggests that parents may
+preferentially feed their nutritionally dependent offspring with
+tool-derived, highly nutritious foods. As noted by the authors of the
+study, this pattern was only found when analysing isotopic ratios
+in crows’ feather samples, but not with blood samples, so further
+work is required to corroborate these results (Rutz et al., 2010).
+It is important to remember that larva-ﬁshing  is only one facet
+of NC crows’ tool-use repertoire (see Sections 2.2 and 2.3), and that
+not all crow populations have access to the candlenut trees that
+usually harbour the larva prey that is exploited by this foraging
+technique. Even in those areas where candlenut trees grow, oppor-
+tunities for larva ﬁshing  vary spatially, and temporally, as beetle
+infested trees need to fall over to make larva burrows accessible
+to crows’ tool use (Bluff et al., 2010b; Rutz et al., 2010; sometimes
+humans aid in this process –  see Section 3.6). Nevertheless, judging
+from the evidence available to date, crow tool use seems to provide
+access to an energetically rewarding food supply. More work is nec-
+essary, especially: (i) to understand the functional signiﬁcance  of
+other forms of tool use (see Sections 2.2 and 2.3); and (ii) to demon-
+strate conclusively the ﬁtness  beneﬁts  of tool use (for ‘sponging’ in
+dolphins, see Mann et al., 2008; Patterson and Mann, 2011).
+3.3. The limitations of comparative techniques
+Any attempt to trace the possible evolutionary origins, and eco-
+logical drivers, of tool use would beneﬁt  from comparative analyses
+that control statistically for phylogenetic relatedness (Felsenstein,
+1985; Harvey and Pagel, 1991). Whilst a recent update of Beck’s
+(1980) seminal review on animal tool use has revealed consid-
+erably wider taxonomic spread of avian tool-related behaviour
+than previously recognised (see Table 3.1 in Shumaker et al., 2011;
+see also Bentley-Condit and Smith, 2010), for the vast majority
+of species, tool use has only been observed a few times, often in
+captivity, and frequently in a single subject. Unfortunately, when
+studying the emergence of habitual or customary tool-assisted
+foraging in wild bird populations, one is left with a very limited
+sample of species, including woodpecker ﬁnches  Cactospiza pallida,
+NC crows, Egyptian vultures Neophron percnopterus, and perhaps
+less well known, brown-headed nuthatches Sitta pusilla (hyacinth
+macaws Anodorhynchus hyacinthinus, and some other species, are
+less well studied, but may also belong to this group; for an exhaus-
+tive review, and original sources, see Shumaker et al., 2011). The
+fact that habitual tool use emerged in at least four different families
+is in itself revealing (see Section 4), but this limited sample is insuf-
+ﬁcient  for quantitative comparative analyses. This is admittedly a
+
+PDF PAGE 7
+C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165 159
+major constraint, but we feel that there is enough circumstantial
+evidence to offer some informed speculation for our study species.
+In primates, a palaeontological approach has been proﬁtably
+used to inform our understanding of the evolution of tool mor-
+phology and use (e.g., Mercader et al., 2002; Boyd and Silk, 2006).
+However, unlike hominids and chimpanzees, wild NC crows pro-
+duce all of their (known) tools from plant material (see Section 2.2).
+These tools degrade within days or weeks after manufacture, and
+even the ‘counterparts’ left behind in pandanus leaves where tools
+have been excised (see Fig. 4, inset) only last for 1–3  years until
+the leaves reach the end of their life, and are shed (Hunt and Gray,
+2003). This means that, unfortunately, there is no archaeological
+record of NC crow tools that would allow us to study the succes-
+sion of different tool types, or changes in tool morphology, over
+evolutionary time periods. As a consequence, even the simplest of
+questions cannot be conclusively answered using this method, for
+example, whether the ﬁrst  tool-using NC crows used stick tools
+or pandanus tools. In this case, we suggest that the simpler stick
+tools, which in their most basic form require no manufacturing or
+modiﬁcation  (see Section 2.2), are the ancestral type.
+3.4. Phylogenetic relationships
+An understanding of the evolutionary origins of NC crows would
+allow inferences about the time scales involved in the evolution
+of their tool-related adaptations. A ﬁnely  resolved molecular phy-
+logeny of the genus Corvus would be necessary to identify the extant
+species most closely related to the NC crow, and to estimate the
+time of divergence, but to our knowledge, no such phylogeny has
+been published yet (but see the abstract by Gamauf et al., 2010).
+However, by using geological and other circumstantial evidence,
+we can attempt to derive a tentative colonisation scenario and
+time scale, for comparison with preliminary results from ongoing
+genetic analyses (R.C. Fleischer, pers. comm.).
+We can be conﬁdent  that the ancestral population of NC crows
+was isolated from other crows no earlier than the mid-Eocene (from
+ca. 53 million years ago) because the radiation of the Corvidae fam-
+ily has been dated to this time (Barker et al., 2004). We can further
+infer that present-day NC crows descended from colonists that dis-
+persed to the New Caledonian landmass by ﬂight  (but see below),
+rather than having evolved in situ following the fragmentation of
+Zealandia, the southern landmass from which New Zealand and
+New Caledonia derived. This is because there is now some evi-
+dence that present-day New Caledonia was submerged for ca. 20
+million years, before its ﬁnal  emersion ca. 37 million years ago
+(Grandcolas et al., 2008). It is of course possible that small island
+refugia remained (or existed nearby) during submersion events,
+and that these were inhabited by crows; such a scenario may
+explain the presence of the Kagu Rhynochetos jubatus, a ﬂightless
+New Caledonian endemic whose closest known relative is the South
+American sun-bittern Eurypyga helias (Fain and Houde, 2004).
+In reality, the isolation of the ancestral NC crows is likely
+to have occurred considerably more recently than 37 million
+years ago. This is because, if the NC crow lineage were indeed as
+ancient as this, we would expect to see a level of morphological
+divergence that would warrant allocation to a monotypic genus
+or subfamily (for a review of avian divergence times, see Newton,
+2003). Although some workers have considered the NC crow to
+be relatively atypical within the genus Corvus (e.g., Dorst, 1947),
+it is not distinct enough to suggest an independent origin, and we
+should accordingly expect to ﬁnd  close relatives of the NC crow
+amongst the crow species of South-East Asia and Australasia (Jollie,
+1978). This close afﬁnity  implies a divergence time, and thus a
+possible window for the evolution of tool-related adaptations, in
+the order of millions of years rather than tens of millions. Our
+proposed route and timing of colonisation agree with results
+from
+ unpublished genetic analyses that identify C. enca (Brunei,
+Indonesia, Malaysia, Philippines), C. validus (Moluccas), and C.
+woodfordi/meeki (Bougainville Island, Solomon Islands; see Fig. 2)
+as NC crows’ closest living relatives (R.C. Fleischer, pers. comm.);
+we are eagerly awaiting deﬁnitive  results from this project, and
+similar work by other groups. Recently excavated NC crow bones
+are only a few thousand years old (Boyer et al., 2010) and therefore
+too young to be useful for reﬁning  estimates of colonisation dates.
+Our account, as well as ﬁrst  genetic results, suggest that ances-
+tral crows ﬂew  large distances across open water to reach New
+Caledonia. Modern NC crows are poor ﬂiers,  which typically make
+short inter-perch ﬂights  when traversing their forested habitats,
+and which employ a noticeably laboured ﬂight  to travel longer
+distances (for wing morphology data, see Kenward et al., 2004).
+The absence of NC crows from most of New Caledonia’s outlying
+Loyalty islands – which  are situated around 100 km off the east
+coast of Grande Terre, and which appear to offer suitable crow
+habitat –i s  consistent with their weak ﬂying  ability. NC crows do
+occur on the largest island of the Loyalty group, Maré, although
+their presence there may possibly be due to recent introduction
+by humans (see Section 2.1). Whilst their restricted distribution
+in the archipelago suggests that the dispersal ability of modern NC
+crows is limited, the extant population could easily have descended
+from more strongly ﬂying,  or simply lucky, colonists (for a review
+of overseas avian colonisations, see Newton, 2003).
+A ﬁnal,  but important, caveat remains: we cannot yet ﬁrmly
+reject the possibility that proto-NC crows were tool users prior to
+their arrival in New Caledonia. Having established a likely South-
+East Asian/Australasian origin of NC crows, it would be important to
+examine whether some of the extant Corvus species in these regions
+exhibit tool-use behaviour. Not surprisingly, given the extremely
+remote tropical forest habitats of several of these species, very little
+is currently known about the behaviour and foraging ecology of the
+most promising candidates (see above; for species accounts, see del
+Hoyo et al., 2009; Dutson, 2011). Nevertheless, in the remainder of
+this review, we shall assume that NC crows’ tool use evolved in situ
+(i.e., post-colonisation), as this seems the most likely scenario.
+3.5. Key hypotheses for possible ecological drivers
+Although a rigorous comparative analysis is so far lacking, a
+number of hypothetical ecological drivers for the evolution of
+extractive tool use have been proposed. These include an abun-
+dance of concealed food resulting from an absence of competitors
+adapted for extractive foraging (Orenstein, 1972; Kenward et al.,
+2004), low or strongly seasonal availability of non-concealed food
+sources (Tebbich et al., 2002), and a reduced risk of predation (see
+Kacelnik et al., 2006).
+In combination, the ﬁrst  two of these ecological variables, which
+affect availabilities of concealed and non-concealed food sources,
+must inﬂuence  the proﬁtability  of tool-use behaviour relative to
+‘conventional’ foraging techniques, and thus affect the sign and
+strength of selection for extractive foraging behaviours such as
+tool use. The last-mentioned variable, a reduced risk of predation,
+is thought to facilitate the evolution of tool-use behaviour in two
+ways. First, relaxed selection for anti-predator traits such as vigi-
+lance and neophobia may reduce cognitive load and allow greater
+expenditure of time and energy on object interaction and explo-
+ration. Second, a reduced level of extrinsic mortality may select for
+the evolution of life-histories characterised by slow juvenile devel-
+opment, delayed reproductive maturity, prolonged parental care,
+and increased lifespan, with which cognitive adaptations are often
+associated (Sæther,  1988; Stearns, 2002; Gonzalez-Lagos et al.,
+2010).
+We
+ can now examine the role of these putative ecological
+drivers in the evolutionary history of NC crows. New Caledonia
+
+PDF PAGE 8
+160 C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165
+certainly lacks extractive specialists (tool-using or otherwise) such
+as woodpeckers, tool-using monkeys or apes, aye–ayes  Dauben-
+tonia madagascariensis or striped possums Dactylopsila trivirgata,
+and it is likely that this has resulted in a greater abundance of con-
+cealed invertebrate prey than in areas where extractive foragers are
+present. It is also true that mammal carrion, which is the dietary
+mainstay of many other crow species, was absent from New Caledo-
+nia until after human colonisation (see Section 3.6), and anecdotal
+evidence suggests that non-concealed invertebrate biomass may
+be unusually low, at least in some habitats (Rutz et al., 2007, 2010).
+Prey scarcity may possibly be more severe during the dry season
+(cf. Tebbich et al., 2002), although this remains to be investigated.
+We wish to clarify that general food limitation (i.e., a general lack of
+suitable food in the environment), which is sometimes put forward
+in the literature as a possible selective force, is an unsatisfactory
+explanation for the evolution of tool use. In the absence of other lim-
+iting extrinsic factors – like  suitable nest sites, predation, or disease
+– all capacity-level bird populations are expected to be ultimately
+limited by food supplies (review: Newton, 1998), yet in most cases
+this does not select for extractive foraging behaviours. What mat-
+ters is not the absolute amount of food in the environment, but the
+relative proﬁtabilities  of concealed and unconcealed food. Recent
+studies using animal-borne video cameras (Rutz et al., 2007) and
+stable-isotope proﬁling  techniques (Rutz et al., 2010) suggest that
+tool use does indeed provide NC crows with access to energeti-
+cally proﬁtable  prey that is not exploited by other bird species.
+Energetics aside, tool use may facilitate intake of certain dietary
+components that are difﬁcult  to obtain through conventional for-
+aging techniques, but this idea has so far remained unexplored.
+Due to a species-poor predator community in New Caledonia,
+it seems probable that NC crows have experienced a lower risk
+of predation during their evolutionary history than have conti-
+nental corvids. On Maré, Holzhaider et al. (2011) observed crow
+chicks being attacked by goshawks, and inferred goshawk preda-
+tion as the likely cause of death for at least one adult breeder.
+The species was not identiﬁed  by the authors, but must have been
+the brown goshawk Accipiter fasciatus, which is comparatively rare
+across Grande Terre (Desmoulins and Barré, 2005). The smaller,
+endemic white-bellied goshawk Accipiter haplochrous is more com-
+mon (Desmoulins and Barré, 2005; Chartendrault et al., 2007), but
+certainly no threat to crows (C. Rutz, pers. observ.). Past and present
+owl species can also be ruled out as crow predators (see Boyer
+et al., 2010). Native predatory mammals and terrestrial snakes
+(with the exception of the burrowing blind snake Ramphotyphlops
+sp.) are absent from New Caledonia, although dogs, cats and rats
+were introduced by humans during colonisation (Vuilleumier and
+Gochfeld, 1976; Gargominy et al., 1996; Spaggiari et al., 2007). Con-
+sistent with the idea of low predation pressure, NC crows show
+comparatively little vigilance behaviour, such as repeated scanning
+of the sky when foraging on or near the ground. This is particularly
+obvious in birds that manufacture or deploy tools, as they often
+appear extremely focused on the task, paying little attention to their
+surroundings. NC crows repeatedly give wak-wak ‘alarm’ calls (see
+Bluff et al., 2010a), but most variants of these calls seem to have a
+social rather than an anti-predator function.
+It may be worth acknowledging that none of the ecological
+drivers proposed above is likely to act in isolation, and that they may
+select for very different adaptive solutions depending on the pre-
+existing phenotypic envelope of the population under selection. We
+revisit the question of possible predispositions in Section 3.7.
+3.6. Tool materials, prey sources and the role of anthropogenic
+change
+Having established that the adaptive landscape currently
+favours tool-use behaviours in NC crows, we may perhaps improve
+our
+ understanding of the evolution of this trait by asking how long
+this situation has prevailed, assuming that it evolved in situ (see
+Section 3.4). For example, the (hypothetical) discovery of (sub-)
+fossil woodpeckers on New Caledonia might prompt us to argue
+that the adaptive value of extractive foraging for NC crows was
+higher after the woodpecker’s extinction than beforehand. We may
+even speculate that this was a key event in the evolution of tool use
+in NC crows. Given the potential insights this approach may offer,
+we will here summarise what can be deduced about the foraging
+ecology of NC crows in the distant past.
+Some of the species’ tool-use behaviours are indeed amenable to
+this kind of ‘forensic’ assessment. For example, the manufacture of
+pandanus tools is by deﬁnition  reliant on the presence of pandanus
+trees, and it is thus sensible to ask for how long this raw material
+has been present on New Caledonia. In fact, nineteen of the twenty-
+one species of Pandanus known from New Caledonia are endemic
+to the islands (Jaffré et al., 1987; T. Jaffré, pers. comm.), indicating
+that NC crows have had access to pandanus trees for most, if not
+all, of their evolutionary history.
+We may ask the same question of the candlenut tree, which is
+now central to the foraging ecology of some NC crow populations
+(see Sections 2.3 and 3.2). It is generally thought that candlenut
+trees were introduced to New Caledonia and other Paciﬁc  islands by
+early colonists (Smith, 1981; Mackee, 1985; Gargominy et al., 1996;
+Walter and Sam, 2002; Elevitch and Manner, 2006). The earliest
+archaeological evidence for human settlement on New Caledo-
+nia consists of artefacts of the Lapita culture dating to ca. 3200
+years before present, and although pre-Lapitan settlement cannot
+be ruled out, it is considered unlikely (Spriggs, 1995). If candlenut
+trees were indeed introduced by humans, it is therefore probable
+that the introduction occurred within the last 4000 years. Unfor-
+tunately, there is currently no evidence in support of the widely
+expressed belief that candlenut trees have been introduced to New
+Caledonia; to our knowledge, no stratigraphic analysis of the occur-
+rence of candlenut wood, seed fragments or pollen is available,
+and to date no molecular phylogenetic analysis of Paciﬁc  can-
+dlenut populations, or of the beetle species that infests them, has
+been carried out. In our opinion, it also cannot be ruled out that
+candlenut trees have colonised New Caledonia naturally, through
+long-distance dispersal of their hardy nuts via marine currents.
+Two points regarding the crows’ beetle prey complicate assessment
+even further. First, present-day Agrianome larvae are polyphagous
+(Montrouzier, 1861; Hunt, 2000b; Bluff, 2008; pers. observ.), so the
+species may have only secondarily switched to candlenut trees after
+these trees were introduced to New Caledonia, having been pre-
+viously available in other host trees (Bluff, 2008). Second, we do
+not currently know whether the larvae of native xylophagous bee-
+tle species can be extracted by crows using the same larva-ﬁshing
+methods they use to obtain Agrianome larvae (see Section 2.3).
+These knowledge gaps ensure that, for the time being, we cannot
+assess the intriguing possibility that this sophisticated behaviour
+arose during the last few millenia.
+Whether candlenut trees were introduced by humans or not, the
+case brings some interesting possibilities into focus. The human
+settlement of New Caledonia was associated with profound eco-
+logical changes, including effects on community composition and
+on the structure and distribution of habitats (Stevenson, 1999,
+2004; Stevenson and Hope, 2005; Boyer et al., 2010). These changes
+include the introduction of novel food sources such as livestock
+and game carrion, refuse and (possibly) candlenut trees, which
+may have substantially altered –  or may still be in the process
+of altering – the  costs and beneﬁts  to NC crows of different for-
+aging behaviours, including tool use. Similarly, the widespread
+degradation and fragmentation of the New Caledonian rainforest is
+likely to have locally altered the opportunities for certain tool-use
+behaviours (pandanus trees occur largely in rainforests) and also
+
+PDF PAGE 9
+C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165 161
+to have disrupted the ﬂow  of tool-related information, whether
+genetic or cultural, within and between NC crow populations.
+Accordingly, an understanding of past and ongoing anthropogenic
+change may help us to explain current patterns in the expression
+of tool-use behaviour by NC crows.
+In a memorable conversation, one of the ﬁrst  author’s New
+Caledonian friends (of indigenous Kanak ancestry) once made
+a thought-provoking point when he asked whether crows had
+learned how to use tools from humans, or vice versa. The idea
+that humans may have facilitated (the evolution of) tool use in
+NC crows in such a direct way is intriguing. As observed in other
+hunter-gather societies (Bodenheimer, 1951), Kanak tribes in New
+Caledonia traditionally harvest cerambycid larvae for food, felling
+infested trees and breaking open logs. This gathering activity could
+have (had) two possible effects on crows. First, in the past, Kanak
+apparently used stick tools for ﬁshing  larvae from their burrows,
+potentially providing a direct behavioural template for crows. Sec-
+ond, the destruction of trees exposes larva-rich logs to crows and
+makes them more accessible to subsequent exploitation. When
+sufﬁciently  weakened, larva-infested candlenut trees can fall over
+naturally, but human interference had the potential to provide
+ancestral crows with greater exposure to this food source, by bring-
+ing down trees before the majority of larvae had eclosed. We think
+it is unlikely that tool use in NC crows evolved in response to the
+possible (recent) introduction of candlenut trees, and subsequent
+human facilitation, but their speciﬁc  larva-ﬁshing  techniques may
+well have resulted from these factors. The question of why natural
+selection favoured tool-use behaviour, rather than morphological
+adaptations, is further discussed in the following section on possi-
+ble predispositions (Section 3.7).
+3.7. Evolutionary predispositions, and present-day adaptations
+Anatomical and behavioural predispositions can facilitate the
+expression of certain behaviours. Whilst we can offer some spec-
+ulation for our study system, we must note at the outset of
+this section that, on current evidence, it is impossible to estab-
+lish ﬁrmly  for most of the traits discussed below whether they
+are predispositions for, or adaptations to, tool-related behaviour.
+Future work, especially more detailed interspeciﬁc  comparisons,
+will no doubt provide a clearer indication of causality in some
+cases.
+3.7.1. Morphology
+Many birds under selection for extractive foraging ability may
+respond with physiological adaptations, such as long, thin or
+chisel-like bills (e.g., Yamagishi and Eguchi, 1996), skull and mus-
+cle architectures adapted for ‘jackhammer’-like drilling, and long,
+barbed tongues (e.g. Bock, 1999), whilst mammals experiencing
+a similar selective environment may respond with digital elon-
+gation and diagnostic changes to skull morphology (e.g., Rawlins
+and Handasyde, 2002; Beck, 2009). The evolutionary response to
+a particular opportunity depends on the raw material on which
+natural selection can operate, and crows are well-known for
+their rather conserved generalist physiology (Goodwin, 1986; del
+Hoyo et al., 2009) and their remarkable behavioural ﬂexibility
+(Emery and Clayton, 2004; del Hoyo et al., 2009; Seed et al.,
+2009).
+First-time observers of NC crows often comment on the unusu-
+ally straight bill of the species (Fig. 6A) –  unusual, that is, for the
+genus Corvus whose members are noted for their hooked, curved
+bills (cf. Delacour, 1966; Jollie, 1978; Goodwin, 1986; Doughty et al.,
+1999; Kenward et al., 2004). NC crows hold their tools in the bill,
+often with the non-functional (proximal) end pressed against one
+cheek for lateral support (Rutledge and Hunt, 2004; Weir et al.,
+2004). It is easy to see how a straight bill would aid the handling
+Fig. 6. In comparison to other Corvus species, New Caledonian (NC) crows have
+unusually
+ straight bills (A) and large, forward-pointing eyes (B). Since NC crows
+manufacture
+ and deploy their foraging tools with their bills, these morphological
+features
+ may be predispositions for, or adaptations to, tool use (for details, see text).
+The
+ photo shows an adult female (trapped 08.11.2005, Valleé Tabou, Gouaro-Déva,
+near
+ Bourail). The white scale bar on the crow’s bill in panel (A) is 1.2-cm long.
+Photos:
+ C. Rutz.
+and deployment of tools, by enabling a ﬁrm  grip and by positioning
+the tool tip (i.e., the functional end) in full view (see Kenward et al.,
+2004). Incidentally, when handling NC crows, for example when
+radio-tagging or banding them, it is difﬁcult  not be impressed by
+their large eyes, which are positioned far-out near the top of the
+head (Fig. 6B). Unusually large eye-movement amplitudes become
+apparent when slowly moving a ﬁnger  around a bird in hand, with
+its head held in a ﬁxed  position, as it will track the moving ﬁn-
+ger by rotating its eyes. Contemporary NC crows frequently use
+their powerful bills for chiselling away deadwood during foraging
+(Bluff et al., 2010b), and it is possible that this woodpecker-like
+behaviour provided initial selection for bill straightness, which in
+turn may have enabled the handling of sticks for extractive for-
+aging. The ﬁnding  that captive rooks Corvus frugilegus can handle
+stick-type tools effectively (Bird and Emery, 2009) demonstrates
+that NC crow ancestors with moderately hooked bills could have
+engaged in tool use, before selection for straighter bills kicked in.
+Examining the bill shape of other extant Corvus species, for exam-
+ple in the Handbook of the Birds of the World (del Hoyo et al., 2009),
+identiﬁes  some candidates that, anatomically at least, may possess
+the capacity to manipulate tool-like objects with some dexterity.
+In fact, Goodwin (1986) observed that the Hawaiian crow Corvus
+hawaiiensis has a bill shape similar to that of NC crows, comment-
+ing that this may well be ‘adaptive’ and perhaps reﬂect  common
+ancestry. This species is now extinct in the wild, and despite exten-
+sive research efforts as part of a recent reintroduction scheme, its
+natural feeding habits are not well documented (review: del Hoyo
+et al., 2009).
+
+PDF PAGE 10
+162 C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165
+Ancestral NC crows may have also possessed neurological fea-
+tures that predisposed them to express tool-use behaviour. This
+could include structures that support innovation or social-learning
+abilities, or those that are necessary to enable relevant manipu-
+lations of external objects (tools and hidden food items) and the
+mapping of object interactions. The question of potentially ele-
+vated levels of behavioural plasticity and/or cognitive capacities
+is discussed in a dedicated section below (Section 3.7.2), but we
+will examine here whether there is anything special about NC crow
+brains. A recent study investigated the brains of ﬁve  NC crows and
+compared them to those of selected ‘control’ species, claiming that
+NC crows: (i) have one of the largest avian brains for their body size
+(Cnotka et al., 2008); and (ii) exhibit relative enlargement of four
+areas in the forebrain that are generally believed to be involved in
+associative learning and motor control (mesopallium, pallidostri-
+atal complex, septum, and tegmentum) (Mehlhorn et al., 2010). We
+regard these results as preliminary, as both sets of analyses suffer
+from methodological shortcomings. For example, an inspection of
+the data for gross brain size makes it seem likely that the results
+are driven by an outlier (see Fig. 3 in Cnotka et al., 2008) and, if only
+for this reason, should be replicated with an independent sample
+of NC crow brains. Amongst other things, we are also concerned
+about the choice of control species and the pooling of data across
+species in both studies. For the time being, we conclude that, whilst
+some specialisations may be expected on the basis of comparative
+analyses (e.g., Overington et al., 2009), the published evidence for
+tool-related neurological adaptations in NC crows is weak at best.
+3.7.2. Behaviour
+Comparative studies have shown that members of the Corvi-
+dae express more foraging innovations than other bird species
+(Lefebvre et al., 2002), indicating considerable behavioural plastic-
+ity (e.g., Emery and Clayton, 2004). It is obvious that an inclination
+to explore novel food sources, and an ability to invent novel forag-
+ing techniques in order to exploit them, could have facilitated the
+evolution of tool use in NC crows.
+Given its phylogenetic rarity, and the fact that humans are so
+good at it, tool use has sometimes been seen as being depen-
+dent on ‘advanced’ cognitive abilities. Whilst such anthropocentric
+arguments are clearly dated, it is valid to examine whether the
+manipulation and deployment of tools draws on domain-general
+cognitive capacities, which are present in other species (at least
+other corvids), or involves speciﬁc  mechanisms (for discussion,
+see Emery and Clayton, 2009). If the latter is the case, these
+cognitive operations may in turn be dependent on a particular
+neurological architecture (see Section 3.7.1). There is no doubt
+that NC crows excel at tool-related tasks (review: Bluff et al.,
+2007). When facing an extraction problem, they choose tools of
+appropriate properties (e.g., Chappell and Kacelnik, 2002, 2004;
+Hunt et al., 2006; Bluff et al., 2010b), combine different tools
+sequentially (Taylor et al., 2007; Wimpenny et al., 2009), and if nec-
+essary, even spontaneously invent new tool designs (Weir et al.,
+2002; Weir and Kacelnik, 2006; von Bayern et al., 2009). How-
+ever, little is known about the exact cognitive mechanisms that
+underlie these birds’ tool use, although it becomes increasingly
+clear that seemingly sophisticated behaviours can be produced by
+relatively simple processes (Wimpenny et al., 2009; von Bayern
+et al., 2009; for a different view, see for example Taylor et al.,
+2007). The recent approach to ‘deconstruct’ observed behaviours,
+by manipulating subjects’ pre-testing experience and by ruling
+out, one-by-one, known cognitive processes, seems productive
+(Shettleworth, 2009). Related to this point, very few studies to
+date have examined NC crows’ performance on non-tool-related
+tasks or conducted controlled multi-species comparisons (but see
+Auersperg et al., 2011), although the importance of such work has
+long been acknowledged (e.g., Weir et al., 2002; Kacelnik et al.,
+2006;
+ Bluff et al., 2007). Both approaches would be necessary to
+tease apart which cognitive mechanisms are involved in tool use,
+and whether this behaviour indeed draws on specialised cognitive
+adaptations. Whilst information for NC crows is still scarce, Bird and
+Emery’s (2009) experiments with non-tool-using rooks are reveal-
+ing, as these birds were clearly capable of making and deploying
+tools when being provided with proﬁtable  opportunities to do so.
+Even wider taxonomic context is afforded by recent studies that
+compared the performance of tool-using woodpecker ﬁnches  to
+that of non-tool-using congeners, ﬁnding  little systematic differ-
+ence between the species (Tebbich et al., 2010; Teschke et al., 2011).
+Much work in this area remains to be done.
+NC crows exhibit an unusual ontogenetic pattern that seems
+to facilitate their tool-related behaviours. Controlled experiments
+with captive birds demonstrated that young NC crows have a keen
+interest in objects and will, in the absence of any direct food
+reinforcement, persistently engage in object-oriented behaviours
+during their development (Kenward et al., 2005, 2006, 2011). Like-
+wise, immature crows in the wild have been observed persistently
+performing unsuccessful tool-use behaviours several months post-
+ﬂedging  (Bluff et al., 2010b; Holzhaider et al., 2010a,b). Comparing
+the ontogeny of object-oriented behaviours in captive-bred NC
+crows and common ravens Corvus corax, Kenward et al. (2011)
+observed that, over a 6-week post-ﬂedging  study period, object
+combinations that are precursors to functional behaviour increased
+in NC crows but decreased in ravens (see also next paragraph).
+It thus seems possible that, what is special about NC crows
+behaviourally, is an unusually strong, inherited motivation to inter-
+act with and combine objects (Kenward et al., 2006, 2011; Kacelnik,
+2009; adult NC crows also use tools in non-foraging contexts:
+Wimpenny et al., 2011; Taylor et al., in press).
+There are many examples of animal behaviours becoming
+co-opted to serve in novel contexts (Baerends, 1975). In the com-
+parative study reviewed above, there were striking qualitative
+similarities in the ontogeny of tool-oriented behaviour in NC crows
+and food-caching behaviour in ravens (Kenward et al., 2011). Food
+caching, which is very likely to have been an established behaviour
+in proto-NC crows (de Kort and Clayton, 2006), may therefore have
+been an evolutionary precursor for tool use, and indeed provides a
+more parsimonious account than three other possible candidates:
+prey handling, nest building (Alcock, 1972; Hansell and Ruxton,
+2008), and foraging in Pandanus spp. crowns. In particular, like
+tool use, and as summarised by the authors of the study: (i) it
+entails the insertion of objects into small cavities, with subsequent
+repositioning; (ii) it involves twig insertion as an early develop-
+mental precursor; (iii) it predominantly involves food; and (iv) it
+provides the animal with privileged knowledge about the presence
+of hidden food. Caching also has a developmental pattern strik-
+ingly similar to tool use, and is a less common behaviour than
+nest building, which is consistent with the observed rarity of avian
+tool use (cf. Section 3.3). These results are noteworthy, as they
+are the outcome of controlled interspeciﬁc  comparisons, provid-
+ing rare quantitative glimpses into NC crows’ possible evolutionary
+past.
+NC crows have a slow life-history compared to similar-sized
+birds, including other corvids. As has been hypothesised for
+humans, an extended period of juvenile dependence could pro-
+vide extra time to learn complex subsistence techniques (review:
+Kaplan et al., 2000). This view is compatible with the recent ﬁnding
+that young crows require at least one year post-ﬂedging  to reach
+proﬁciency  in the skills related to both larva-ﬁshing  with stick tools
+and the manufacture and deployment of (wide) pandanus tools
+(Bluff et al., 2010b; Holzhaider et al., 2010a,b). During this time,
+although capable of foraging independently, immature crows con-
+tinue to receive food from their parents, including highly nutritious,
+tool-derived beetle larvae (see Fig. S2 in Rutz et al., 2010).
+
+PDF PAGE 11
+C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165 163
+4. Concluding remarks
+Our analyses enable us to reconstruct a tentative course of
+evolutionary events. A non-tool using ancestor of NC crows, of
+South-East Asian or Australasian origin, arrived in New Caledo-
+nia several million years ago. The presence of proﬁtable  hidden
+food, in combination with a lack of direct competition for these
+resources, created a vacant woodpecker-like niche on the island.
+Crows may have possessed certain behavioural and/or morpholog-
+ical features that predisposed them to express tool-use rather than
+prey-excavation behaviour, although it is possible that the latter
+formed an evolutionary springboard for the former. Low predation
+levels, and exposure to novel energy-rich concealed food sources by
+humans, may have further encouraged tool-use behaviour in proto-
+NC crows. The Baldwin effect (Weber and Depew, 2003; see also
+West-Eberhard, 2003) describes how regularly learned behaviour
+can gradually be assimilated into a species’ genetic make-up (for a
+discussion of woodpecker ﬁnch  tool use, see Tebbich et al., 2010),
+but these processes remain poorly understood and we resist spec-
+ulation.
+We can now return to the broader questions of: (i) why, in gen-
+eral, tool use is so rare in birds; and (ii) why NC crows are the
+only known habitual tool users in the genus Corvus. Amongst the
+four habitually tool-using avian species listed in Section 3.3, only
+woodpecker ﬁnches  and NC crows use stick-type tools for extract-
+ing invertebrates from hidden places. Whilst their tool use seems
+to have derived from different precursor behaviours (for discus-
+sion, see Kenward et al., 2011), the key ecological drivers may well
+have been similar. It is notable that these two most proliﬁc  avian
+tool users are both endemic to remote ‘Darwinian’ islands (i.e.,
+oceanic islands with a composite biota that derives predominantly
+from colonisation; sensu Grandcolas et al., 2008). Although this is
+statistically unsurprising, given that about 17% of all extant bird
+species are island endemics (Johnson and Stattersﬁeld,  1990), the
+fact is consistent with an effect of the ecological drivers discussed in
+Section 3.5. Darwinian islands are generally species-poor, lack non-
+tool-using extractive foragers including woodpeckers and arboreal
+mammals, and have depauperate predator communities. The other
+two well-researched habitual avian tool users exhibit very differ-
+ent behaviours, to solve different foraging problems in different
+habitats (Egyptian vultures: use of stones to crack open ostrich
+Struthio camelus eggs; brown-headed nuthatches: use of bark scales
+of longleaf pines Pinus australis to pry off other pieces of tree bark,
+presumably in search for invertebrates).
+Crows in general may be predisposed to ‘discover’ tool use as
+a proﬁtable  foraging mode (see Section 3.7.2), as long as environ-
+mental conditions are favourable. This view is supported by the
+observation that rooks have the cognitive capacity for tool use (Bird
+and Emery, 2009), but do not habitually express the behaviour
+in the wild (del Hoyo et al., 2009). Our analyses suggest that a
+complex interplay of different environmental conditions, perhaps
+in combination with a species’ behavioural and morphological
+predispositions, may be necessary to foster the evolution of tool
+use. As Bluff (2008) observed, the availability of wood-boring
+cerambycid larvae, in combination with a lack of woodpeckers or
+other competitors, may be a necessary condition, but is in itself
+insufﬁcient,  as these circumstances have failed to produce tool use
+in several other Corvus species. A good example is the sympatry of
+the Torresian crow Corvus orru and the Australian longicorn beetle
+Agrianome spinicollis over a large proportion of northeast Australia
+(Rowley, 1970; Hawkeswood et al., 1997), outside the range of
+extractively foraging striped possums (Handasyde, 2008; but see
+Beck, 2009). There are other examples of Corvus species that live
+in habitats that are woodpecker-free, but perhaps are less rich
+in concealed prey resources. Clearly, if we wish to advance our
+understanding of the evolutionary roots of NC crow tool use, and
+its
+ present-day ecological signiﬁcance,  we need to keep employing
+innovative study approaches. Some of the ideas we sketched in
+this review are testable, promising valuable future insights.
+Widening the phylogenetic scope of inter-speciﬁc  comparisons
+–  to include not just avian but also mammalian tool users –  would
+advance our understanding of the subject matter, but even this
+sample would be small and have poor taxonomic spread. What is
+clear from an informal comparison of patterns is that similar factors
+may have selected for tool use in birds (our review) and primates
+(e.g., van Schaik et al., 1999), providing at least two statistically
+‘independent’ data points (see Sections 1 and 3.3). We hope our
+review serves to demonstrate that work on NC crows enables useful
+tests of some hypotheses regarding the evolutionary and ecologi-
+cal context of animal tool use, and perhaps more importantly, has
+potential to generate new ones.
+Acknowledgements
+We
+ would like to thank Sara Shettleworth for inviting this
+review and for patiently awaiting its submission, as it evolved from
+a brief essay into a much more substantial piece. C.R. is grate-
+ful to Lucas Bluff, Alex Kacelnik, Ben Kenward, Jolyon Troscianko
+and Alex Weir for sharing the early stages of the ﬁeld  project,
+and for many inspiring discussions about NC crow biology over
+the years, and to Lucas Bluff for his major contributions to setting
+up and running the project. In New Caledonia, the following col-
+leagues and friends, among many others, have helped over the years
+with ﬁeldwork  logistics: Nicolas Barré, Serge Blancher, Julika Bour-
+get, Vivien Chartendrault, Jean-Jérôme Cassan, Fabrice Cugny, Fred
+Desmoulins, Bob Drollet, Hubert Géraux, Arnaud Le Goff, Roman
+Gula, Christophe Lambert, M. and Mme. Fredy Lethezer, Jean-Yves
+Lemenant, Almudena Lorenzo, Joseph Manauté, Danie and Rob
+McReynolds, Thierry Mennesson, Jacques Paimbou-Ayouma, Jean-
+Pierre Richard, Jérôme Spaggiari, and Jörn Theuerkauf. Our research
+in Gouaro-Déva is made possible through the generous support
+of the Province Sud and SEM Mwe-Ara. The Société Calédoni-
+enne d’Ornithologie has become an important local collaboration
+partner, and we appreciate their continued support and input.
+With regards to this review, we wish to thank: Sara Shettleworth,
+Sabine Tebbich and Ben Kenward for excellent comments on the
+manuscript; Rob Fleischer for unpublished information on crow
+phylogenies; Jon Erichsen for feedback on NC crow brains; Tanguy
+Jaffré for information on New Caledonian pandanus species; Gavin
+Hunt, Jolyon Troscianko and Lucas Bluff for permission to use pho-
+tos; Rob Holbrook for help with editing Fig. 3C; and Ito Waïa for
+allowing us to include his intriguing insight into human-crow inter-
+actions. Our current ﬁeld  studies are funded by the BBSRC (grant
+BB/G023913/1 to C.R.), which also enabled the preparation of this
+review.
+References
+Alcock, J., 1972. The evolution of the use of tools by feeding animals. Evolution 26,
+464–473.
+Auersperg, A.M.I., von Bayern, A.M.P., Gajdon, G.K., Huber, L., Kacelnik, A., 2011.
+Flexibility in problem solving and tool use of kea and New Caledonian crows in
+a multi access box paradigm. PLoS One 6, e20231.
+Baerends, G.P., 1975. An evaluation of the conﬂict  hypothesis as an explanatory prin-
+ciple for the evolution of displays. In: Baerends, G., Beer, C., Manning, A. (Eds.),
+Function and Evolution in Behaviour. Clarendon Press, Oxford, pp. 187–227.
+Barker, F.K., Cibois, A., Schikler, P., Feinstein, J., Cracraft, J., 2004. Phylogeny and
+diversiﬁcation  of the largest avian radiation. Proc. Natl. Acad. Sci. U.S.A. 101,
+11040–11045.
+Barré, N., Dutson, G., 2000. Oiseaux de Nouvelle-Calédonie: liste commentée. Alauda
+68, 1–48.
+Beck, B.B., 1980. Animal Tool Behavior. Garland, New York.
+Beck, R.M.D., 2009. Was the Oligo-Miocene Australian metatherian Yalkaparidon a
+‘mammalian woodpecker’? Biol. J. Linn. Soc. 97, 1–17.
+Bentley-Condit, V.K., Smith, E.O., 2010. Animal tool use: current deﬁnitions  and an
+updated comprehensive catalog. Behaviour 147, 185–221.
+
+PDF PAGE 12
+164 C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165
+Bird, C.D., Emery, N.J., 2009. Insightful problem solving and creative tool mod-
+iﬁcation  by captive nontool-using rooks. Proc. Natl. Acad. Sci. U.S.A. 106,
+10370–10375.
+Bluff, L.A., 2008. Tool Use, Foraging Ecology and Social Dynamics in New Caledonian
+Crows. D.Phil. Thesis. University of Oxford, Oxford.
+Bluff, L.A., Kacelnik, A., Rutz, C., 2010a. Vocal culture in New Caledonian crows Corvus
+moneduloides. Biol. J. Linn. Soc. 101, 767–776.
+Bluff, L.A., Rutz, C., 2008. A quick guide to video-tracking birds. Biol. Lett. 4, 319–322.
+Bluff, L.A., Troscianko, J., Weir, A.A.S., Kacelnik, A., Rutz, C., 2010b. Tool use by wild
+New Caledonian crows Corvus moneduloides at natural foraging sites. Proc. R.
+Soc. B 277, 1377–1385.
+Bluff, L.A., Weir, A.A.S., Rutz, C., Wimpenny, J.H., Kacelnik, A., 2007. Tool-related
+cognition in New Caledonian crows. Comp. Cogn. Behav. Rev. 2, 1–25.
+Bock, W.J., 1999. Functional and evolutionary morphology of woodpeckers. Ostrich
+70, 23–31.
+Bodenheimer, F.S., 1951. Insects as Human Food: A Chapter in the Ecology of Man.
+Dr W. Junk Publishers, The Hague.
+Boesch, C., Boesch-Achermann, H., 2000. The Chimpanzees of the Taï Forest. Oxford
+University Press, Oxford.
+Boyd, R., Richerson, P.J., 1996. Why culture is common, but cultural evolution is rare.
+Proc. Brit. Acad. 88, 77–93.
+Boyd, R., Richerson, P.J., 2005. The Origin and Evolution of Cultures. Oxford University
+Press, Oxford.
+Boyd, R., Silk, J.B., 2006. How Humans Evolved. W.W. Norton & Co., London.
+Boyer, A.G., James, H.F., Olson, S.L., Grand-Mackie, J.A., 2010. Long-term ecological
+change in a conservation hotspot: the fossil avifauna of Mé Auré Cave, New
+Caledonia. Biodivers. Conserv. 19, 3207–3224.
+Caldwell, C.A., Millen, A.E., 2008. Studying cumulative cultural evolution in the lab-
+oratory. Philos. Trans. R. Soc. B 363, 3529–3539.
+Chappell, J., Kacelnik, A., 2002. Tool selectivity in a non-mammal, the New Caledo-
+nian crow (Corvus moneduloides). Anim. Cogn. 5, 71–78.
+Chappell, J., Kacelnik, A., 2004. Selection of tool diameter by New Caledonian crows
+Corvus moneduloides. Anim. Cogn. 7, 121–127.
+Chartendrault, V., Desmoulins, F., Barré, N., 2007. Oiseaux de la Chaîne Centrale
+Province Nord de Nouvelle-Calédonie. L’Institut Agronomique néo-Calédonien
+(IAC), Province Nord, Nouméa, Nouvelle-Calédonie.
+Cnotka, J., Güntürkün, O., Rehkämper, G., Gray, R.D., Hunt, G.R., 2008. Extraordi-
+nary large brains in tool-using New Caledonian crows (Corvus moneduloides).
+Neurosci. Lett. 433, 241–245.
+Cochereau, P., 1970. Observations sur la faune des bois en voie de décomposition en
+forêt Néo-Calédonienne. Cah. ORSTOM: Sér. Biol. 12, 123–127.
+Darwin, C.R., 1879. The Descent of Man, and Selection in Relation to Sex. John Murray,
+London.
+Delacour, J., 1966. Guide des Oiseaux de la Nouvelle-Calédonie et de ses Dépen-
+dances. Éditions Delachaux & Niestlé, Neuchatel, Switzerland.
+de Kort, S.R., Clayton, N.S., 2006. An evolutionary perspective on caching by corvids.
+Proc. R. Soc. B 273, 417–423.
+del Hoyo, J., Elliott, A., Christie, D.A. (Eds.), 2009. Handbook of the Birds of the World.
+Bush-shrikes to Old World Sparrows, vol. 14. Lynx Edicions, Barcelona.
+Desmoulins, F., Barré, N., 2005. Oiseaux des Forêts Sèches de Nouvelle-Calédonie.
+Programme Forêt Sèche et Société Calédonienne d’Ornithologie Editeurs.
+Nouméa, Nouvelle-Calédonie.
+Dorst, J., 1947. Revision systematique du genre Corvus. L’Oiseau 17, 44–87.
+Doughty, C., Day, N., Plant, A., 1999. Birds of the Solomons, Vanuatu and New Cale-
+donia. Christopher Helm, A & C Black, London.
+Dutson, G., 2011. Birds of Melanesia –  Bismarcks, Solomons, Vanuatu and New Cale-
+donia. Christopher Helm, London.
+Elevitch, C.R., Manner, H.I., 2006. Aleurites moluccana (kukui), ver. 2.1. In: Elevitch,
+C.R. (Ed.), Species Proﬁles  for Paciﬁc  Island Agroforestry. Permanent Agriculture
+Resources (PAR), H ¯olualoa, Hawaii, <http://www.traditionaltree.org>.
+Emery, N.J., Clayton, N.S., 2004. The mentality of crows: convergent evolution of
+intelligence in corvids and apes. Science 306, 1903–1907.
+Emery, N.J., Clayton, N.S., 2009. Tool use and physical cognition in birds and mam-
+mals. Curr. Opin. Neurobiol. 19, 27–33.
+Fain, M.G., Houde, P., 2004. Parallel radiations in the primary clades of birds. Evolu-
+tion 58, 2558–2573.
+Felsenstein, J., 1985. Phylogenies and the comparative method. Am. Nat. 125, 1–15.
+Gamauf, A., Däubl, B., Kryukov, A., Pinsker, W., Haring, E., 2010. Phylogeography and
+synchronous diversiﬁcation  of the Corvus corvids of the world. In: Berichte des
+Institutes für Erdwissenschaften, Karl-Franzens-Universität Graz, 15, p. 14.
+Gargominy, O., Bouchet, P., Pascal, M., Jaffré, T., Tourneur, J.-C., 1996. Con-
+séquences des introductions d’espèces animales et végétales sur la biodiversité
+en Nouvelle-Calédonie. Rev. Ecol. (Terre Vie) 51, 375–404.
+Gonzalez-Lagos, C., Sol, D., Reader, S.M., 2010. Large-brained mammals live longer.
+J. Evol. Biol. 23, 1064–1074.
+Goodall, J., 1964. Tool-using and aimed throwing in a community of free-living
+chimpanzees. Nature 201, 1264–1266.
+Goodwin, D., 1986. Crows of the World. University of Washington Press, Seattle, WA.
+Grandcolas, P., Murienne, J., Robillard, T., Desutter-Grandcolas, L., Jourdan, H., Guil-
+bert, E., Deharveng, L., 2008. New Caledonia: a very old Darwinian island? Philos.
+Trans. R. Soc. B 363, 3309–3317.
+Handasyde, K.A., 2008. Striped possum, Dactylopsila trivirgata. In: van Dyck, S., Stra-
+han, R. (Eds.), The Mammals of Australia. Reed New Holland, Sydney, New South
+Wales, Australia, pp. 224–225.
+Hannecart, F., Létocart, Y., 1980. Oiseaux de Nlle Calédonie et des Loyautés. Les
+Editions Cardinalis, Nouméa, Nouvelle-Calédonie.
+Hansell,
+ M., Ruxton, G.D., 2008. Setting tool use within the context of animal con-
+struction behaviour. Trends Ecol. Evol. 23, 73–78.
+Harvey, P.H., Pagel, M.D., 1991. The Comparative Method in Evolutionary Biology.
+Oxford University Press, Oxford.
+Hawkeswood, T.J., Turner, J.T., Wells, R.W., 1997. Further observations on the biology
+and host plants of the Australian longicorn beetle Agrianome spinicollis (Macleay)
+(Coleoptera: Cerambycidae). Mauritiana 16, 327–332.
+Holzhaider, J.C., Hunt, G.R., Campbell, V.M., Gray, R.D., 2008. Do wild New Caledonian
+crows (Corvus moneduloides) attend to the functional properties of their tools?
+Anim. Cogn. 11, 243–254.
+Holzhaider, J.C., Hunt, G.R., Gray, R.D., 2010a. The development of pandanus tool
+manufacture in wild New Caledonian crows. Behaviour 147, 553–586.
+Holzhaider, J.C., Hunt, G.R., Gray, R.D., 2010b. Social learning in New Caledonian
+crows. Learn. Behav. 38, 206–219.
+Holzhaider, J.C., Sibley, M.D., Taylor, A.H., Singh, P.J., Gray, R.D., Hunt, G.R., 2011. The
+social structure of New Caledonian crows. Anim. Behav. 81, 83–92.
+Hunt, G.R., 1996. Manufacture and use of hook-tools by New Caledonian crows.
+Nature 379, 249–251.
+Hunt, G.R., 2000a. Human-like, population-level specialization in the manufacture
+of pandanus tools by New Caledonian crows Corvus moneduloides. Proc. R. Soc.
+B 267, 403–413.
+Hunt, G.R., 2000b. Tool use by the New Caledonian crow Corvus moneduloides to
+obtain Cerambycidae from dead wood. Emu 100, 109–114.
+Hunt, G.R., 2008. Introduced Lantana camara used as tools by New Caledonian crows
+(Corvus moneduloides). N. Z. J. Zool. 35, 115–118.
+Hunt, G.R., Abdelkrim, J., Anderson, M.G., Holzhaider, J.C., Marshall, A.J., Gemmell,
+N.J., Gray, R.D., 2007a. Innovative pandanus-tool folding by New Caledonian
+crows. Aust. J. Zool. 55, 291–298.
+Hunt, G.R., Gray, R.D., 2002. Species-wide manufacture of stick-type tools by New
+Caledonian crows. Emu 102, 349–353.
+Hunt, G.R., Gray, R.D., 2003. Diversiﬁcation  and cumulative evolution in New Cale-
+donian crow tool manufacture. Proc. R. Soc. B 270, 867–874.
+Hunt, G.R., Gray, R.D., 2004a. The crafting of hook tools by wild New Caledonian
+crows. Proc. R. Soc. B (Suppl.) 271, S88–S90.
+Hunt, G.R., Gray, R.D., 2004b. Direct observations of pandanus-tool manufacture and
+use by a New Caledonian crow (Corvus moneduloides). Anim. Cogn. 7, 114–120.
+Hunt, G.R., Gray, R.D., 2006. Tool manufacture by New Caledonian crows: chipping
+away at human uniqueness. Acta Zool. Sin. (Suppl.) 52, 622–625.
+Hunt, G.R., Gray, R.D., 2007. Parallel tool industries in New Caledonian crows. Biol.
+Lett. 3, 173–175.
+Hunt, G.R., Lambert, C., Gray, R.D., 2007b. Cognitive requirements for tool use by
+New Caledonian crows (Corvus moneduloides). N. Z. J. Zool. 34, 1–7.
+Hunt, G.R., Rutledge, R.B., Gray, R.D., 2006. The right tool for the job: what strategies
+do wild New Caledonian crows use? Anim. Cogn. 9, 307–316.
+Hunt, G.R., Sakuma, F., Shibata, Y., 2002. New Caledonian Crows drop candle-nuts
+onto rock from communally used forks on branches. Emu 102, 283–290.
+Jaffré, T., Morat, P., Veillon, J.-M., MacKee, H.S., 1987. Changements dans la végétation
+de la Nouvelle-Calédonie au cours du Tertiare: la végétation et la ﬂore  des roches
+ultrabasiques. Bull. Mus. Natl. Hist. Nat. 4, 365–391.
+Johnson, T.H., Stattersﬁeld,  A.J., 1990. A global review of island endemic birds. Ibis
+132, 167–180.
+Jollie, M., 1978. Phylogeny of the species of Corvus. Biologist 60, 73–108.
+Kacelnik, A., 2009. Tools for thought or thoughts for tools? Proc. Natl. Acad. Sci. U.S.A.
+106, 10071–10072.
+Kacelnik, A., Chappell, J., Kenward, B., Weir, A.A.S., 2006. Cognitive adaptations for
+tool-related behavior in New Caledonian crows. In: Wasserman, E.A., Zentall,
+T.R. (Eds.), Comparative Cognition: Experimental Explorations of Animal Intel-
+ligence. Oxford University Press, Oxford, pp. 515–528.
+Kaplan, H., Hill, K., Lancaster, J., Magdalena Hurtado, A., 2000. A theory of human life
+history evolution: diet, intelligence, and longevity. Evol. Anthropol. 9, 156–185.
+Kenward, B., Rutz, C., Weir, A.A.S., Chappell, J., Kacelnik, A., 2004. Morphology and
+sexual dimorphism of the New Caledonian crow Corvus moneduloides, with notes
+on its behaviour and ecology. Ibis 146, 652–660.
+Kenward, B., Rutz, C., Weir, A.A.S., Kacelnik, A., 2006. Development of tool use in New
+Caledonian crows: inherited action patterns and social inﬂuence.  Anim. Behav.
+72, 1329–1343.
+Kenward, B., Schlögl, C., Rutz, C., Weir, A.A.S., Bugnyar, T., Kacelnik, A., 2011. On
+the evolutionary and ontogenetic origins of tool-oriented behaviour in New
+Caledonian crows (Corvus moneduloides). Biol. J. Linn. Soc. 102, 870–877.
+Kenward, B., Weir, A.A.S., Rutz, C., Kacelnik, A., 2005. Tool manufacture by naive
+juvenile crows. Nature 433, 121.
+Laland, K.N., Galef, B.G. (Eds.), 2009. The Question of Animal Culture. Harvard Uni-
+versity Press, Cambridge, MA.
+Laland, K.N., Hoppitt, W., 2003. Do animals have culture? Evol. Anthropol. 12,
+150–159.
+Laland, K.N., Janik, V.M., 2006. The animal cultures debate. Trends Ecol. Evol. 21,
+542–547.
+Layard, E.L., Layard, E.L.C., 1882. Notes on the avifauna of New Caledonia. Ibis 6,
+520–522.
+Lefebvre, L., Nicolakakis, N., Boire, D., 2002. Tools and brains in birds. Behaviour 139,
+939–973.
+Le Goupils, M., 1928. Dans la Brousse Calédonienne: Souvenirs d’un Ancien Planteur,
+1898–1904.  Perrin, Paris.
+Mackee, H.S., 1985. Les Plantes Introduites et Cultivées en Nouvelle-Calédonie. Sup-
+plément à la Flore de la Nouvelle-Calédonie et Dépendances. Muséum National
+d’Histoire Naturelle, Laboratoire de Phanérogamie, Paris.
+
+PDF PAGE 13
+C. Rutz, J.J.H. St Clair / Behavioural Processes 89 (2012) 153– 165 165
+Mann, J., Sargeant, B.L., Watson-Capps, J.J., Gibson, Q.A., Heithaus, M.R., Connor, R.C.,
+Patterson, E., 2008. Why do dolphins carry sponges? PLoS One 3, e3868.
+Mehlhorn, J., Hunt, G.R., Gray, R.D., Rehkämper, G., Güntürkün, O., 2010. Tool-making
+New Caledonian crows have large associative brain areas. Brain Behav. Evol. 75,
+63–70.
+Mercader, J., Panger, M., Boesch, C., 2002. Excavation of a chimpanzee stone tool site
+in the African rainforest. Science 296, 1452–1455.
+Montrouzier, J.X.H., 1861. Essai sur la faune entomologique de la Nouvelle-
+Calédonie. Ann. Soc. Entomol. Fr. 4, 265–306.
+Newton, I., 1998. Population Limitation in Birds. Academic Press, London.
+Newton, I., 2003. Speciation and Biogeography of Birds. Academic Press, London.
+Nishida, T., Hiraiwa, M., 1982. Natural-history of a tool-using behavior by wild chim-
+panzees in feeding upon wood-boring ants. J. Hum. Evol. 11, 73–99.
+Orenstein, R.I., 1972. Tool-use by the New Caledonian crow (Corvus moneduloides).
+Auk 89, 674–676.
+Overington, S.E., Morand-Ferron, J., Boogert, N.J., Lefebvre, L., 2009. Technical inno-
+vations drive the relationship between innovativeness and residual brain size
+in birds. Anim. Behav. 78, 1001–1010.
+Patterson, E.M., Mann, J., 2011. Ecological conditions that favor tool use and inno-
+vation in wild bottlenose dolphins (Tursiops sp.). PLoS One 6, e22243.
+Rawlins, D.R., Handasyde, K.A., 2002. The feeding ecology of the striped possum
+Dactylopsila trivirgata (Marsupialia: Petauridae) in far north Queensland. Aust.
+J. Zool. 257, 195–206.
+Richerson, P.J., Boyd, R., 2006. Not by Genes Alone: How Culture Transformed Human
+Evolution. University of Chicago Press, Chicago.
+Rowley, I., 1970. The genus Corvus (Aves: Corvidae) in Australia. CSIRO Wildl. Res.
+15, 27–71.
+Rutledge, R., Hunt, G.R., 2004. Lateralized tool use in wild New Caledonian crows.
+Anim. Behav. 67, 327–332.
+Rutz, C., Bluff, L.A., 2008. Animal-borne imaging takes wing, or the dawn of ‘wildlife
+video-tracking’. Trends Ecol. Evol. 23, 292–294.
+Rutz, C., Bluff, L.A., Reed, N., Troscianko, J., Newton, J., Inger, R., Kacelnik, A., Bearhop,
+S., 2010. The ecological signiﬁcance  of tool use in New Caledonian crows. Science
+329, 1523–1526.
+Rutz, C., Bluff, L.A., Weir, A.A.S., Kacelnik, A., 2007. Video cameras on wild birds.
+Science 318, 765.
+Sæther,  B.E., 1988. Pattern of covariation between life-history traits of European
+birds. Nature 331, 616–617.
+Seed, A., Emery, N., Clayton, N., 2009. Intelligence in corvids and apes: a case of
+convergent evolution? Ethology 115, 401–420.
+Shettleworth, S.J., 2009. Animal cognition: deconstructing avian insight. Curr. Biol.
+19, R1039–R1040.
+Shumaker, R.W., Walkup, K.R., Beck, B.B., 2011. Animal Tool Behavior: The
+Use and Manufacture of Tools by Animals. Johns Hopkins University Press,
+Baltimore.
+Smith, A.C., 1981. Flora Vitiensis Nova: A New Flora of Fiji (Spermatophytes Only).
+Paciﬁc  Tropical Botanical Garden, Lawai, Hawaii.
+Spaggiari, J., Chartendrault, V., Barré, N., 2007. Zones Importantes pour la Conver-
+sation des Oiseaux de Nouvelle-Calédonie. Société Calédonienne d’Ornithologie
+(SCO) et BirdLife International, Nouméa, Nouvelle-Calédonie.
+Spriggs, M., 1995. The Lapita culture and Austronesian prehistory in Oceania. In:
+Bellwood, P., Fox, J.J., Tryon, D. (Eds.), The Austronesians: Historical and Cultural
+Perspectives. Australian National University E-Press, Canberra.
+St Amant, R., Horton, T.E., 2008. Revisiting the deﬁnition  of tool use. Anim. Behav.
+75, 1199–1208.
+Stearns, S.C., 2002. The Evolution of Life Histories. Oxford University Press, New
+York.
+Stevenson,
+ J., 1999. Human impact from the paleoenvironmental record on New
+Caledonia. In: Galipaud, J.C., Lilley, I. (Eds.), The Paciﬁc  from 5000 to 2000 Bp:
+Colonisation and Transformations. IRD, Paris.
+Stevenson, J., 2004. A late-Holocene record of human impact from the southwest
+coast of New Caledonia. Holocene 14, 888–898.
+Stevenson, J., Hope, G., 2005. A comparison of late Quaternary forest changes in New
+Caledonia and northeastern Australia. Quatern. Res. 64, 372–383.
+Taylor, A.H., Hunt, G.R., Gray, R.D. Context-dependent tool use in New Caledonian
+crows. Biol. Lett., in press.
+Taylor, A.H., Hunt, G.R., Holzhaider, J.C., Gray, R.D., 2007. Spontaneous metatool use
+by New Caledonian crows. Curr. Biol. 17, 1504–1507.
+Tebbich, S., Taborsky, M., Fessl, B., Blomqvist, D., 2001. Do woodpecker ﬁnches
+acquire tool-use by social learning? Proc. R. Soc. B 268, 2189–2193.
+Tebbich, S., Taborsky, M., Fessl, B., Dvorak, M., 2002. The ecology of tool-use in the
+woodpecker ﬁnch  (Cactospiza pallida). Ecol. Lett. 5, 656–664.
+Tebbich, S., Sterelny, K., Teschke, I., 2010. The tale of the ﬁnch:  adaptive radiation
+and behavioural ﬂexibility.  Philos. Trans. R. Soc. B 365, 1099–1109.
+Teschke, I., Cartmill, E., Stankewitz, S., Tebbich, S., 2011. Sometimes tool-use is not
+the key: no evidence for cognitive adaptive specializations in tool-using wood-
+pecker ﬁnches.  Anim. Behav. 82, 945–956.
+Tinbergen, N., 1963. On aims and methods of ethology. Z. Tierpsychol. 20, 410–433.
+Troscianko, J., Bluff, L.A., Rutz, C., 2008. Grass-stem tool use in New Caledonian Crows
+Corvus moneduloides. Ardea 96, 283–285.
+van Schaik, C.P., Deaner, R.O., Merrill, M.Y., 1999. The conditions for tool use in
+primates: implications for the evolution of material culture. J. Hum. Evol. 36,
+719–741.
+von Bayern, A.M.P., Heathcote, R.J.P., Rutz, C., Kacelnik, A., 2009. The role of expe-
+rience in problem solving and innovative tool use in crows. Curr. Biol. 19,
+1965–1968.
+Vuilleumier, F., Gochfeld, M., 1976. Notes sur l’avifaune de Nouvelle-Calédonie.
+Alauda 44, 237–273.
+Walter, A., Sam, C., 2002. Traditional Arboriculture in Oceania. Fruits of Oceania.
+ACIAR Monograph no. 85, Canberra.
+Weber, B., Depew, D., 2003. Evolution and Learning: The Baldwin Effect Reconsid-
+ered. MIT Press, Cambridge, MA.
+Weir, A.A.S., Chappell, J., Kacelnik, A., 2002. Shaping of hooks in New Caledonian
+crows. Science 297, 981.
+Weir, A.A.S., Kacelnik, A., 2006. A New Caledonian crow (Corvus moneduloides) cre-
+atively re-designs tools by bending or unbending aluminium strips. Anim. Cogn.
+9, 317–334.
+Weir, A.A.S., Kenward, B., Chappell, J., Kacelnik, A., 2004. Lateralisation of tool use in
+New Caledonian Crows (Corvus moneduloides). Proc. R. Soc. Lond. B (Suppl.) 271,
+S344–S346.
+West-Eberhard, J., 2003. Developmental Plasticity and Evolution. Oxford University
+Press, Oxford.
+Wimpenny, J.H., Weir, A.A.S., Clayton, L., Rutz, C., Kacelnik, A., 2009. Cognitive pro-
+cesses associated with sequential tool use in New Caledonian crows. PLoS One
+4, e6471.
+Wimpenny, J.H., Weir, A.A.S., Kacelnik, A., 2011. New Caledonian crows use tools for
+non-foraging activities. Anim. Cogn. 14, 459–464.
+Yamagishi, S., Eguchi, K., 1996. Comparative foraging ecology of Madagascar vangids
+(Vangidae). Ibis 138, 283–290.
+Yamakoshi, G., 1998. Dietary responses to fruit scarcity of wild chimpanzees at
+Bossou, Guinea: possible implications for ecological importance of tool use. Am.
+J. Phys. Anthropol. 106, 283–295.

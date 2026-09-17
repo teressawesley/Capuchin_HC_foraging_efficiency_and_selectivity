@@ -1,0 +1,1076 @@
+PDF PAGE 1
+Effects of colour vision phenotype on insect capture
+by a free-ranging population of white-faced capuchins,
+Cebus capucinus
+AMANDA D. MELIN * , LINDA M. FEDIGAN * , CHIHIRO HIRAMATSU †,
+COURTNEY L. SENDALL * &S H O J IK A W A M U R A†
+*Department of Anthropology, University of Calgary
+yDepartment of Integrated Biosciences, Graduate School of Frontier Sciences, University of Tokyo
+(Received 19 April 2006; initial acceptance 30 May 2006;
+ﬁnal acceptance 10 July 2006; published online 29 November 2006; MS. number: A10426)
+Unlike most eutherian mammals, which have dichromatic (two-colour) vision, most platyrrhine primate
+species have polymorphic colour vision. This unique characteristic is enabled via multiple alleles for a mid-
+to long-wavelength-sensitive (M/LWS), single-locus opsin gene on the X chromosome. In combination
+with the autosomal opsin common to most vertebrates, this arrangement provides heterozygous females
+with trichromatic (three-colour) vision, whereas homozygous females and males are dichromats. Trichro-
+matic vision enables visual differentiation among longer-wavelength colours, such as red, orange, yellow
+and green. Currently, many researchers attribute the evolution and maintenance of polymorphic colour
+vision to trichromat ( ¼ heterozygote) advantage. However, dichromacy may be more suited for achromatic
+tasks, such as penetrating colour camouﬂage, especially under low-light conditions. We evaluated whether
+dichromatic capuchin monkeys ( Cebus capucinus ) were more efﬁcient than trichromatic monkeys at
+capturing camouﬂaged and noncamouﬂaged insects. Through faecal DNA analysis, we determined the ge-
+notypes of the M/LWS opsins for 34 capuchins in two groups inhabiting Santa Rosa National Park, Costa
+Rica. Dichromatic monkeys were more efﬁcient at detecting camouﬂaged, surface-dwelling insects, espe-
+cially under conditions of low ambient light. However, unexpectedly, trichromats were more efﬁcient in
+extracting embedded, noncamouﬂaged insects from substrates. To our knowledge, this is the ﬁrst study
+to document a foraging advantage to dichromatic monkeys in the wild. Our ﬁndings show that there is
+a lack of heterozygote advantage in foraging for surface-dwelling insects and therefore indicate that this
+mechanism may not be the sole driving force maintaining polymorphic colour vision in this population.
+/C2112006 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+Keywords: Cebus capucinus; detection and capture of camouﬂaged prey; foraging skills; polymorphic colour vision; visual
+communication; white-faced capuchin
+Many vertebrates, including ﬁsh, reptiles and birds, have
+tetrachromatic (four-colour) vision, and correspondingly
+they possess four families of cone opsin genes. However,
+during the nocturnal stage of mammalian evolution, two
+of these gene families were lost ( Heesy & Ross 2001 ).
+Correspondingly, almost all eutherian mammals are di-
+chromatic; in this regard, primates are unique in their ca-
+pacity for trichromatic vision.
+Animals with trichromatic vision can distinguish
+among mid- to long wavelengths of light (greenish to
+reddish colours) that are indistinguishable to dichromats.
+Selection for trichromatic vision in primates may have
+been driven by various foraging challenges, such as
+ﬁnding fruit ( Mollon 1991; Osorio & Vorobyev 1996;
+Caine & Mundy 2000; Regan et al. 2001; Smith et al.
+2003; Osorio et al. 2004; Riba-Hernandez et al. 2005 )o r
+young leaves ( Lucas et al. 1998; Sumner & Mollon 2000;
+Dominy & Lucas 2001, 2004 ) in variably illuminated
+Correspondence: A. D. Melin, Department of Anthropology, University
+of Calgary, 2500 University Drive, N.W ., Calgary, AB T2N 1N4,
+Canada (email: amelin@ucalgary. ca). S. Kawamura, Department of
+Integrated Biosciences, Graduate School of Frontier Sciences, University
+of Tokyo, Seimeitou 502, 5-1-5 Kashiwanoha, Kashiwa, Chiba
+277-8562, Japan (email: kawamura@k.u-tokyo.ac.jp).
+205
+0003 e 3472/06/$30.00/0 /C2112006 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+ANIMAL BEHAVIOUR, 2007, 73, 205 e214
+doi:10.1016/j.anbehav.2006.07.003
+
+PDF PAGE 2
+environments, like tropical forests. However, trichromatic
+colour vision may also be important for detecting conspe-
+ciﬁc social signals ( Changizi et al. 2006 ). Interestingly, cat-
+arrhine primates (Old World monkeys, apes and humans)
+differ from platyrrhine primates (New World monkeys) in
+the mechanism enabling trichromatic vision, and selec-
+tion for the evolution of colour vision may well differ be-
+tween the two lineages ( Dominy et al. 2003 ).
+Like most vertebrates, primates in both lineages have an
+autosomal, short-wavelength-sensitive (SWS) opsin, which
+is most sensitive to light wavelengths around 420 nm.
+However, after the divergence of the two infraorders, a du-
+plication of the X-linked, mid- to long-wavelength-sensi-
+tive (M/LWS) opsin occurred in the catarrhine ancestor,
+resulting in routine trichromacy in Old World primates.
+The M/LWS opsins are most sensitive to light wavelengths
+around 530 nm and 560 nm, respectively. Unlike catar-
+rhines, most platyrrhine primates, with the exception of
+howler monkeys, Alouatta spp., possess a single locus on
+the X chromosome for a polymorphic M/LWS opsin gene
+(Hunt et al. 1998 ). This arrangement enables heterozygous
+females to be trichromatic, whereas homozygous females
+and males are dichromatic. In most platyrrhines there are
+three M/LWS opsin alleles, with peak sensitivities around
+530 nm, 545 nm and 560 nm, and correspondingly six
+possible phenotypes, three trichromatic and three dichro-
+matic (Surridge & Mundy 2002 ).
+Colour vision polymorphism has persisted in primate
+populations for up to 14 million years ( Surridge & Mundy
+2002) and increasing attention is being devoted towards
+understanding the mechanism of balancing selection by
+which it evolved and is maintained ( Jacobs 1998;
+Buchanan-Smith 2005 ). To date, the most prevalent ex-
+planation is that colour vision polymorphism confers
+a heterozygote advantage to trichromatic individuals
+(overdominance selection). This hypothesis asserts that
+trichromacy is more advantageous overall than dichro-
+macy, and that the presence of multiple alleles functions
+to increase the number of trichromats in the population.
+This model also posits that routine trichromacy does not
+exist in platyrrhines as it does in catarrhines simply be-
+cause an M/LWS opsin gene duplication event has not
+yet occurred. However, there are other hypotheses, which
+are not necessarily mutually exclusive, predicting that tri-
+chromacy is not better overall but that individuals of dif-
+ferent phenotypes are suited for different tasks. These
+hypotheses are: frequency-dependent selection, mutual
+beneﬁt of association and multiple-niche polymorphism
+(Mollon et al. 1984 ).
+To evaluate the various hypotheses of balancing selec-
+tion, it is necessary to evaluate the relative abilities of
+individuals of each phenotype to perform tasks that affect
+their ﬁtness, such as foraging, avoiding predators and
+interacting with conspeciﬁcs. If trichromats always out-
+perform dichromats, then a heterozygote advantage prob-
+ably explains the polymorphism. However, if dichromats
+outperform trichromats for certain tasks, then the selec-
+tive pressure for routine trichromacy would be less than
+that predicted by the heterozygote advantage, or such
+selection might be absent altogether. Additionally, if
+dichromats and trichromats are suited to different
+foraging tasks, they may differentially devote their time
+to different foraging behaviours ( Mollon et al. 1984 ).
+Studies on both human (Morgan et al. 1992) and nonhu-
+man primates ( Caine et al. 2003; Saito et al. 2005b ) have
+found that dichromacy is beneﬁcial for breaking colour
+camouﬂage. Morgan et al. (1992) suggested that colour in-
+terferes with texture detection and chromatic signals
+mask luminance (brightness) signals. Additionally, since
+the nervous system of trichromatic primates combines
+the signals from two M/LWS receptors into a single lumi-
+nance signal, these different inputs could interfere with
+the perception of brightness ( Osorio & Vorobyev 1996;
+Osorio et al. 2004 ). Since texture and luminance gradients
+are used for colour-blind tasks such as motion detection
+and shape identiﬁcation ( Mollon 1989 ), dichromacy is
+more advantageous for penetrating camouﬂage and other
+achromatic tasks. However, no study to date has identiﬁed
+an advantage to dichromatic monkeys in the wild.
+Breaking camouﬂage may help wild primates to detect
+potential predators or prey. However, few cases of primates
+being attacked by predators are witnessed, making the
+former difﬁcult to evaluate. Since omnivorous monkeys
+capture many insects over the course of a day and most
+surface-dwelling insects are well camouﬂaged against their
+background as a defence mechanism ( Campbell 1996; Lev-
+Yadun et al. 2004), studying insect predation is an ideal way
+to evaluate a monkey’s ability to penetrate camouﬂage.
+Environmental conditions may also affect the potential
+advantages or disadvantages of one type of colour vision
+over the other. In the natural world, the amount of
+ambient light is affected by weather, time of day, location
+in the canopy and amount of surrounding foliage ( Endler
+1993). Achromatic vision becomes relatively more impor-
+tant as the amount of ambient light decreases, which is
+evident in the nocturnal adaptations of many animals.
+Within the order Primates, for example, several nocturnal
+lorisiform prosimians, infraorder Lorisifomes ( Kawamura
+& Kubotera 2004 ) and the only nocturnal anthropoid,
+the owl monkey, genus Aotus (Jacobs 1997 ), have lost
+the SWS opsin and are truly colour-blind, being mono-
+chromatic. Therefore, in polymorphic species, dichromatic
+vision may be especially advantageous over trichromatic
+vision for achromatic tasks, such as breaking insect camou-
+ﬂage, in darker conditions.
+Other insects avoid predation by dwelling in places that
+are difﬁcult to access, such as holes, crevices, under bark,
+rolled in leaves or within braches or thorns. Detection of
+these insects does not require breaking camouﬂage, but
+instead requires increased use of auditory and olfactory
+cues ( Phillips et al. 2003 ). Therefore, the colour vision
+type of the predator should not be important for extract-
+ing embedded insects. This task can be seen as a control
+for evaluating the relative abilities of dichromatic and tri-
+chromatic monkeys to capture noncamouﬂaged insects.
+Research Questions
+(1) Are dichromats better than trichromats at capturing
+surface-dwelling insects?
+ANIMAL BEHAVIOUR, 73,1206
+
+PDF PAGE 3
+(2) Does the amount of ambient light differentially
+affect the ability of dichromats and trichromats to capture
+surface-dwelling insects?
+(3) Are dichromats and trichromats equally able to
+capture embedded insects?
+(4) Do dichromats and trichromats spend equal
+amounts of time in different foraging behaviours?
+METHODS
+Study Site
+We conducted behavioural observations in Santa Rosa
+National Park of the Area de Conservacion Guanacaste
+(ACG), northwestern Costa Rica (10
+/C14 450e11/C14 000N,
+85/C14 300e85/C14 450W). The park is composed of tropical dry
+forest in various successional stages. Rainfall in Guana-
+caste Province is highly seasonal; mean annual rainfall is
+approximately 2 m, almost all of which is accumulated
+between mid-May and mid-December.
+Study Species
+White-faced capuchins, Cebus capucinus , are small (2 e
+4 kg), omnivorous monkeys found throughout Central
+and South America from Honduras to Ecuador ( Rowe
+1996). They live in polygamous groups of approximately
+15 individuals, are moderately sexually dimorphic ( Fedi-
+gan & Jack 2001 ), and are known for their diverse diet
+and complex foraging techniques. A large portion of their
+diet comprises insects. A recent study in Santa Rosa
+National Park found insects to constitute 27% of the capu-
+chin diet; of all insects eaten, roughly half (45%) were
+surface-dwelling insects that were gleaned from leaves
+and bark ( Young 2005).
+We collected behavioural data on two groups of capu-
+chins, Cerco de Piedro (CP) and Los Valles (LV), giving
+a combined total of 34 individuals of various ages ( Table
+1). Age classes were categorized as follows: small im-
+matures ¼ 1e2 years of age; large immatures ¼ 3e5 years
+of age; subadult males ¼ 6e9 years of age (no subadult
+female stage); adult females > 6 years or age; adult
+males > 10 years of age. Data were not collected on
+individuals less than a year in age.
+All monkeys were individually identiﬁed based on
+a combination of their age, sex, facial markings and, where
+present, scars. The genotypes of the M/LWS opsin gene in
+the individuals were determined through faecal DNA
+analysis and the population was veriﬁed to be polymor-
+phic for colour vision type ( Hiramatsu et al. 2005). To min-
+imize observer bias, the researchers collecting behavioural
+data did not learn the speciﬁc colour vision genotypes of
+the study subjects, or the frequency of different genotypes
+within the groups, until after data collection.
+Collection of Behavioural Data
+We conducted 10-min (wet season) and 15-min (dry
+season) focal animal samples ( Altmann 1974 ). Focal sub-
+jects were chosen randomly, within an age esex class,
+and we rotated sequentially through the different
+ageesex categories. We attempted to sample all individ-
+uals equally over the study period, at different times of
+day and under different environmental conditions. Each
+group was followed twice per week on two consecutive
+days from dawn until dusk, with observers switching half-
+way through the day. We collected data during May eAug-
+ust 2004 and January eMay 2005 for a total of 246 h of
+focal animal samples.
+When the focal monkey was foraging, we recorded the
+surrounding foliage cover as well as other environmental
+variables, such as relative height in the canopy, weather
+and time of day. We categorized the surrounding foliage
+cover into three categories: ‘open’: no overhead leaves or
+other vegetation; ‘shaded’: some overhead vegetation, but
+not enough to completely block passage of sunlight;
+‘closed’: overhead vegetation dense enough to create
+dark shadows and not permit direct passage of sunlight.
+Each attempt by the focal animal to capture an insect
+was recorded as an event, either capture or miss, within
+the ongoing behavioural state. We deﬁned an ‘insect
+attempt’ as a pounce or lunge made by the focal monkey
+towards an invertebrate. If the attempt led to a successful
+grab by the monkey, we considered it a capture. If the
+insect eluded the attempt, this was recorded as a miss.
+Once an insect was captured, we recorded whether the
+monkey subsequently ate or rejected it. The substrate that
+the insect was gleaned or extracted from, as well as the
+type and colour of insect, was recorded whenever possible.
+If the insect was not seen well enough to be identiﬁed, it
+was classiﬁed as ‘unknown’.
+‘Surface-dwelling’ insects were those gleaned from the
+exterior surface of any substrate, most often from the
+surfaces of live leaves, branches and vines. The surface-
+dwelling insects that we saw the monkeys eat most often
+were caterpillars, cicadas, grasshoppers, katydids, stick
+insects and beetles. This is in accordance with Young’s
+(2005) study on capuchin insect foraging. All of these
+insects are well camouﬂaged against their surroundings.
+Captures of noncamouﬂaged, surface-dwelling insects
+(those with aposematic coloration, or cryptic insects
+against a background of a different colour) were very few
+and not included in our analyses. Since the vast majority
+of surface-dwelling insects are camouﬂaged, ‘unknown’
+insects were included in the camouﬂage analysis.
+All insects that were actively extracted from substrates
+and large enough to be individually captured and eaten
+were included in the ‘embedded’ category. Most often
+these were in the families Orthoptera or Blattellidae. The
+monkeys also fed on ants, termites and other small,
+colonial insects by licking them out of branches, seed
+pods or acacia thorns. The latter (mostly Hymenoptera)
+were not included in our analysis since many were eaten
+simultaneously and they were not captured in the same
+manner as the relatively larger insects.
+Ambient Light Data Collection
+We measured ambient light under the three foliage cover
+conditions by taking irradiance readings with a USB2000
+MELIN ET AL.: COLOUR VISION AND INSECT FORAGING 207
+
+PDF PAGE 4
+miniature plug-and-play spectrometer, P200-UV/VIS ﬁbre
+cable and CC-3 opaline glass cosine corrector (Ocean
+Optics, Dunedin, Florida, U.S.A.) connected to a notebook
+computer. Readings were taken 2 days per week over the
+period of the study.
+Data Analysis
+There are at least three distinct stages in the capture of
+a surface-dwelling insect: (1) detection of the prey by the
+predator; (2) successful capture of prey by the predator;
+and (3) selection of only palatable prey by the predator.
+We measured the efﬁciency of each monkey at every stage
+to evaluate which, if any, are inﬂuenced by the monkey’s
+colour vision type. While there are also several stages to
+the capture of embedded insects, owing to space con-
+straints, we only assess one efﬁciency measure in this
+paper, capture rate.
+An observer cannot deﬁnitively know when a monkey
+has detected an insect (stage 1). Therefore, to evaluate this
+measure indirectly, we calculated the rate of ‘insect
+attempts’, either capture or miss, per hour of visual
+foraging. We include failed insect captures (misses) in
+this analysis because, arguably, the monkeys indeed
+detected the insect. We deﬁned visual foraging behaviour
+as ‘scanning of forest substrates while moving or station-
+ary’. We excluded the duration of foraging time in fruiting
+trees because, arguably, the monkeys were more likely to
+be searching for fruits than insects under these circum-
+stances. Of the 246 h of focal animal samples, we collected
+just over 82 h of data when focal animals were visually for-
+aging outside of fruit trees, and for which we recorded
+1534 captures of surface-dwelling insects. To evaluate
+the effect of light condition on capture rates, we also con-
+ducted an analysis of attempt rate by foliage cover.
+To evaluate the ability of an individual to successfully
+capture an insect once it was detected (stage 2), we
+calculated the proportion of successful (prey captured) to
+unsuccessful (prey missed) attempts. We calculated the
+proportion of insects rejected (not eaten) to accepted
+(eaten) after capture to evaluate an individual’s ability to
+select only palatable prey (stage 3).
+To measure the efﬁciency of each individual for a capture
+task that did not involve breaking insect camouﬂage, we
+calculated capture rate for embedded insects. This was
+accomplished by taking the number of embedded insects
+captured per hour of extractive foraging behaviour (peel-
+ing, picking at, digging in or unfurling forest substrates) for
+each individual. For this analysis, we used 18 h of focal data.
+Table 1. Pertinent life-history, social and colour vision details for each individual monkey ( Cebus capucinus ) in the present study
+Name Study group Sex Age class Colour vision type *
+Monkey 1 CP Female Adult Dichromat (560/560)
+Monkey 2 CP Female Adult Dichromat (560/560)
+Monkey 3 CP Female Adult Dichromat (560/560)
+Monkey 4 CP Female Large immature Dichromat (560/560)
+Monkey 5 CP Female Large immature Dichromat (560/560)
+Monkey 6 CP Female Large immature Dichromat (560/560)
+Monkey 7 CP Female Small immature Dichromat (560/560)
+Monkey 8 CP Female Small immature Dichromat (560/560)
+Monkey 9 CP Female Large immature Dichromat (560/560)
+Monkey 10 CP Female Adult Dichromat (560/560)
+Monkey 11 CP Female Adult Dichromat (560/560)
+Monkey 12 CP Female Adult Dichromat (560/560)
+Monkey 13 CP Male Subadult Dichromat (560)
+Monkey 14 CP Male Large immature Dichromat (560)
+Monkey 15 CP Male Small immature Dichromat (560)
+Monkey 16 CP Male Adult Dichromat (560)
+Monkey 17 CP Male Adult Dichromat (530)
+Monkey 18 LV Female Small immature Dichromat (545/545)
+Monkey 19 LV Female Adult Trichromat (545/560)
+Monkey 20 LV Female Adult Trichromat (545/560)
+Monkey 21 LV Female Adult Trichromat (530/560)
+Monkey 22 LV Female Adult Trichromat (530/545)
+Monkey 23 LV Female Adult Trichromat (530/545)
+Monkey 24 LV Female Adult Trichromat (545/560)
+Monkey 25 LV Female Large immature Trichromat (530/545)
+Monkey 26 LV Male Adult Dichromat (560)
+Monkey 27 LV Male Adult Dichromat (560)
+Monkey 28 LV Male Adult Dichromat (560)
+Monkey 29 LV Male Subadult Dichromat (560)
+Monkey 30 LV Male Subadult Dichromat (560)
+Monkey 31 LV Male Subadult Dichromat (560)
+Monkey 32 LV Male Large immature Dichromat (530)
+Monkey 33 LV Male Small immature Dichromat (545)
+Monkey 34 LV Male Small immature Dichromat (?)
+*Values in parentheses indicate the peak sensitivity of each M/LWS opsin in the genotype.
+ANIMAL BEHAVIOUR, 73,1208
+
+PDF PAGE 5
+Statistical Analyses
+We used Mann eWhitney U tests to compare overall
+rates of attempted captures, proportion of rejected cap-
+tures, proportion of successful attempts and proportion of
+time spent in different foraging behaviours by colour vision
+type (dichromat versus trichromat), sex (male versus fe-
+male) and study group (CP versus LV). We chose nonpara-
+metric statistics because of our relatively small sample
+size. For capture attempt rates of surface-dwelling insects
+under different environmental conditions, we used a mixed
+design, repeated measures ANOVA. This test is designed to
+compare a dependent variable, in this case capture attempt
+rate, for the same subjects under a variety of illumination
+conditions, and is beneﬁcial because it accounts for interin-
+dividual variation and detects interactions between vari-
+ables. The between-subjects factor for our tests was colour
+vision type and the within-subjects factors were the differ-
+ent foliage cover conditions. To our knowledge, there is no
+nonparametric equivalent of this test.
+One of our study groups, CP , consisted entirely of
+dichromatic monkeys ( Table 1 ), probably as a result of
+an unusually long tenure of the alpha male and resultant
+inbreeding ( Jack & Fedigan 2006 ). This, in conjunction
+with the X-linked component of colour vision, whereby
+only females can be trichromatic, created the possibility
+for sex or group differences to confound the colour vision
+analysis. To account for this, we tested for group differ-
+ences by comparing the males (dichromats) in each group
+to each other. To account for sex differences, we compared
+males and females of the same group and same phenotype
+(dichromat) to each other.
+We predicted dichromats to have an advantage in
+breaking camouﬂage a priori based on previous studies
+that have found a signiﬁcant advantage to dichromats in
+penetrating colour camouﬂage in human and nonhuman
+primates (see Introduction); hence we used one-tailed tests
+to compare dichromats to trichromats. However, tests
+between study groups, sexes and ages were all two tailed.
+We also used two-tailed tests for analysing differences
+between dichromats and trichromats for the capture rate
+of embedded insects and for time spent in different
+foraging behaviours.
+RESULTS
+Rate of Attempted Captures of Surface-
+dwelling Insects
+The median rate for all individuals in this analyses
+(N ¼ 34) was 19.87 attempts per hour and this ranged
+from 10.01 to 51.81. No signiﬁcant difference was found
+between the two study groups (Mann eWhitney U test:
+U ¼ 20.00, N1 ¼ 5, N2 ¼ 9, P ¼ 0.739) or between the sexes
+(U ¼ 28.00, N1 ¼ 12, N2 ¼ 5, P ¼ 0.833). When we tested
+the rate of attempted captures between individuals with
+different colour vision types ( Fig. 1 ), the median capture
+rate was 19.96 for dichromats and 16.34 for trichromats.
+In other words, dichromats made approximately four
+more capture attempts per hour than trichromats did
+(U ¼ 57.00, N
+1 ¼ 27, N2 ¼ 7, P ¼ 0.055).
+To test the effect of the visual environment on each
+monkey’s insect detection efﬁciency, we evaluated the rate
+of attempted captures under three conditions of overhead
+foliage cover: ‘open’, ‘shaded’ and ‘closed’. Irradiance
+readings of the relative strength of different light wave-
+lengths across the visual spectrum were taken under each
+of the three conditions. There was a 10-fold decrease in
+irradiance from the lightest (open) condition to the
+moderate (shaded) condition and another 10-fold decrease
+from the moderate to the darkest (closed) condition. The
+predominant colour of light also differed between condi-
+tions, with a shift from predominantly blue light (around
+450 nm) in the ‘open’ condition to a stronger peak in the
+green area of the spectrum (around 550 nm) in the ‘closed’
+condition.
+Figure 2 shows the mean capture attempt rates by di-
+chromats ( N ¼ 26) and trichromats ( N ¼ 7) under each of
+the three foliage cover conditions. One dichromat ( Table
+1, Monkey 3) was excluded from this analysis because
+60
+50
+40
+30
+20
+10
+0
+Dichromat Trichromat
+Colour vision t
+ype
+Attempt rate (attempted captures/h)
+*
+*
+*
+Figure 1. Median, upper and lower quartiles, with ﬁfth and 95th per-
+centiles and outliers when present, for rate of attempted captures of
+surface-dwelling insects by dichromatic and trichromatic capuchin
+monkeys.
+40
+30
+20
+10
+0
+Open Shaded Closed
+Folia
+ge cover
+Dichromat
+Trichromat
+Mean attempt rate (attempted captures/h)
+Figure 2. Mean /C6 SD rate of attempted captures of surface-dwelling
+insects by dichromatic and trichromatic capuchin monkeys in differ-
+ent foliage cover.
+MELIN ET AL.: COLOUR VISION AND INSECT FORAGING 209
+
+PDF PAGE 6
+we did not have observation time for her in the closed
+canopy condition. The mean attempt rates by dichromats
+and trichromats under the ‘open’ condition (the lightest
+condition with few to no leaves overhead) were very sim-
+ilar. However, in the ‘shaded’ condition (moderate leaf
+coverage) and especially in the ‘closed’ condition (densest
+leaf coverage), dichromats attempted to capture more in-
+sects per hour than did trichromats. Overall, dichromats
+made more capture attempts per hour as foliage cover in-
+creased. Trichromats showed an increase in capture rate
+from the ‘open’ to the ‘shaded’ condition, but then
+showed a lower attempt rate under the ‘closed’ condition.
+We found a signiﬁcant main effect of both colour vision
+type (ANOVA: F
+1,31 ¼ 3.535, P ¼ 0.035) and foliage cover
+(F2,30 ¼ 8.701, P ¼ 0.001); dichromats made more capture
+attempts per hour than did trichromats and this increased
+with increasing foliage cover. Dichromats and trichromats
+were differentially affected by the foliage cover condition.
+However, the interaction effect between colour vision type
+and the foliage cover was not signiﬁcant ( F
+1,31 ¼ 2.741,
+P ¼ 0.108).
+We then looked for directional differences between
+attempted capture rates of dichromats and trichromats
+based on foliage cover, since we predicted that dichromats
+would perform better than trichromats in denser foliage as
+a result of the lower ambient light. For each individual in
+the study, we calculated three values corresponding to the
+difference in attempt rates between two foliage condi-
+tions: (1) shaded eopen, (2) closed eshaded, (3) closed e
+open. We then ran a t test comparing dichromats to tri-
+chromats for each measure. The results are presented in
+Table 2 . The mean rate of attempted captures for dichro-
+mats increased signiﬁcantly more (equal variance not as-
+sumed, Table 2 ) from open to closed canopy than the
+mean trichromat attempt rate did. The change in attempt
+rates between other foliage categories was not signiﬁcantly
+different between dichromats and trichromats.
+Proportion of Successful Insect
+Capture Attempts
+The median proportion of successful insect captures
+(N ¼ 34) was very high, 0.89 (range 0.74 e1.0). There was
+no difference in the proportion of successful capture
+attempts between dichromats and trichromats (Mann e
+Whitney U test: U ¼ 94.50, N1 ¼ 27, N2 ¼ 7, P ¼ 1.000;
+Fig. 3 ). There were also no differences between males
+and females ( U ¼ 24.00, N1 ¼ 12, N2 ¼ 5, P ¼ 0.527) nor
+between the two study groups, CP and LV ( U ¼ 19.50,
+N1 ¼ 5, N2 ¼ 9, P ¼ 0.689).
+Proportion of Insects Rejected After Capture
+The median proportion of insects that were rejected
+after being captured over all individuals ( N ¼ 34) was very
+low, 0.00 (range 0.00 e0.111) and did not differ between
+dichromats and trichromats (Mann eWhitney U test:
+U ¼ 86.50, N1 ¼ 27, N2 ¼ 7, P ¼ 0.647; Fig. 4 ). We also
+did not detect a difference between males and females
+(U ¼ 22.00, N1 ¼ 12, N2 ¼ 5, P ¼ 0.324) nor between the
+two study groups, CP and LV ( U ¼ 21.00, N1 ¼ 5, N2 ¼ 9,
+P ¼ 0.743), for proportion of insects rejected after capture.
+Capture Rate of Embedded Insects
+In addition to gleaning insects from forest surfaces,
+capuchins also extracted them from under or within
+Table 2. Results of the t test comparing the change in rate of attempted insect captures between different foliage cover conditions for dichro-
+matic and trichromatic capuchin monkeys (SPSS 14.0)
+Foliage cover Equal variances
+Levene’s test for
+equality of variances t test for equality of means
+FPt df P (two-tailed)
+ShadedeOpen Assumed 2.281916 0.141017 0.85833 31 0.40
+Not assumed 1.399453 28.05473 0.17
+ClosedeShaded Assumed 3.90958 0.056963 0.996246 31 0.33
+Not assumed 1.709662 30.56027 0.097
+ClosedeOpen Assumed 4.700334 0.037952 1.655461 31 0.11
+Not assumed 2.616556 26.01011 0.015 *
+*Indicates statistical signiﬁcance.
+*
+*
+1
+0.9
+0.8
+0.7
+0.6
+Dichromat Trichromat
+Colour vision t
+ype
+Proportion of successful attempts
+Figure 3. Median, upper and lower quartiles, with ﬁfth and 95th per-
+centiles and outliers when present, for proportion of successful insect
+capture attempts by dichromatic and trichromatic capuchin
+monkeys.
+ANIMAL BEHAVIOUR, 73,1210
+
+PDF PAGE 7
+substrates. The median capture rate ( N ¼ 32) was 16.00
+insects/h (range 2.66 e101.08). Two monkeys ( Table 1 ,
+Monkeys 3 and 24) were excluded from this analysis since
+we had less than 5 min of extractive foraging data for each
+of them. The capture rates of embedded insects by dichro-
+mats and trichromats are displayed in Fig. 5 a. Unexpect-
+edly, trichromats extracted signiﬁcantly more insects per
+hour than did dichromats (Mann eWhitney U test:
+U ¼ 33.00, N
+1 ¼ 6, N2 ¼ 26, P ¼ 0.030).
+We found no signiﬁcant difference in the capture rate of
+embedded insects when group CP was compared to group
+LV (Mann eWhitney U test: U ¼ 20.00, N
+1 ¼ 5, N2 ¼ 9,
+P ¼ 0.739), or when males were compared to females
+(U ¼ 17.00, N1 ¼ 5, N2 ¼ 11, P ¼ 0.234). In an attempt to
+rule out any other factor, we also ran a test of capture efﬁ-
+ciency for embedded insects by age and found a marginally
+signiﬁcant difference among age classes (Kruskal eWallace
+test: c2
+3 ¼ 7:607, P ¼ 0.055). The capture rate increased
+steadily from individuals in the youngest age class, ‘small
+immature’, to ‘adult’, the oldest age class ( Fig. 5b).
+To evaluate age as a possible confounding variable, we
+ran the colour vision analysis again and included only
+adults. The patterns were the same; trichromats had
+a higher mean capture rate than dichromats, but the
+tendency was then marginally nonsigniﬁcant (Mann e
+Whitney U test: U ¼ 11.00, N
+1 ¼ 5, N2 ¼ 10, P ¼ 0.086).
+To test whether age effects were confounded by colour vi-
+sion type, we removed trichromats from the age analysis.
+The same age pattern, with older individuals being more
+efﬁcient than younger individuals, was seen although it
+was now also nonsigniﬁcant (Kruskal eWallace test:
+c
+2
+3 ¼ 3:939, P ¼ 0.268). Age patterns within the trichromat
+phenotype were difﬁcult to assess because of the six tri-
+chromats in the study population, ﬁve were adult and
+one was a large immature, giving a low sample size of
+younger animals. The adults were not signiﬁcantly differ-
+ent from the one large immature (Mann eWhitney U test:
+U ¼ 0.00, N
+1 ¼ 5, N2 ¼ 1, P ¼ 0.143). However, the capture
+rate for the large immature monkey was lower than each
+adult’s capture rate.
+Time Spent in Different Foraging Behaviours
+Dichromatic and trichromatic capuchins may differen-
+tially devote foraging time to visual and extractive behav-
+iours; to test this we divided total foraging time into the
+proportion of time spent in visual foraging, extractive
+foraging or other (food processing, feeding) foraging
+behaviours. We used individuals in the analysis for which
+we had both visual and extractive foraging data (same data
+set as for the extractive capture rate analysis; N ¼ 32). Over-
+all, the capuchins devoted more time to visual foraging
+(median proportion 0.68, range 0.44 e0.86) than to
+extractive foraging (median proportion 0.14, range 0.05 e
+0.27). There were no differences between phenotypes,
+sexes or study groups in the proportion of time devoted
+to visual foraging (Mann eWhitney U test: dichromats
+versus trichromats: U ¼ 73.00, N
+1 ¼ 26, N2 ¼ 6, P ¼ 0.809;
+males versus females: U ¼ 20.00, N1 ¼ 5, N2 ¼ 11,
+P ¼ 0.396; group CP versus group LV: U ¼ 19.00, N1 ¼ 5,
+N2 ¼ 9, P ¼ 0.641) or extractive foraging (dichromats ver-
+sus trichromats: U ¼ 50.00, N1 ¼ 26, N2 ¼ 6, P ¼ 0.176;
+Dichromat Trichromat
+Colour vision type
+*
+*
+0.12
+0.10
+0.08
+0.06
+0.04
+0.02
+0
+Proportion of insects rejected
+Figure 4. Median, upper and lower quartiles, with ﬁfth and 95th per-
+centiles and outliers when present, for proportion of insects rejected
+after being caught by dichromatic and trichromatic capuchin
+monkeys.
+Capture rate (insects/h)
+Dichromat Trichromat
+Colour vision type
+*
+*
+*
+*
+*
+*
+60
+50
+40
+30
+20
+10
+0
+120
+100
+80
+60
+40
+20
+0
+A
+ge class
+Small 
+immature
+ Large 
+immature
+Subadult Adult
+(a)
+(b)
+Figure 5. Median, upper and lower quartiles, with ﬁfth and 95th per-
+centiles and outliers when present, for capture rate of embedded in-
+sects by (a) dichromatic and trichromatic capuchin monkeys and (b)
+small immature, large immature, subadult and adult capuchin
+monkeys.
+MELIN ET AL.: COLOUR VISION AND INSECT FORAGING 211
+
+PDF PAGE 8
+males versus females: U ¼ 12.00, N1 ¼ 5, N2 ¼ 11,
+P ¼ 0.079; group CP versus group LV: U ¼ 10.00, N1 ¼ 5,
+N2 ¼ 9, P ¼ 0.096; Fig. 6 ).
+DISCUSSION
+To date, most of the work on primate colour vision has
+been conducted on Old World primates, although the
+volume of research on New World primates is growing
+rapidly. Research initiatives on captive populations have
+already substantiated signiﬁcant behavioural differences
+between individuals of different colour vision type ( Caine
+& Mundy 2000; Smith et al. 2003; Saito et al. 2005a ). Only
+recently have studies on wild populations begun. An ad-
+vantage of dichromatic over trichromatic individuals has
+yet to be documented for any wild group of monkeys.
+Our study contributes to research on primate colour vision
+by investigating the foraging behaviour of individuals
+with different colour vision types in free-ranging white-
+faced capuchins living in a tropical dry forest.
+We found that dichromat monkeys made more capture
+attempts for surface-dwelling insects per hour of visual
+foraging than trichromats did. While the difference in
+overall capture rates was only marginally signiﬁcant, and
+thus should be interpreted with caution, we suggest that
+colour vision phenotype may be an important determi-
+nant of an individual’s ability to efﬁciently detect these
+insects. This view is further supported by our results
+because we found a signiﬁcant main effect of colour
+vision type in our repeated measures analysis, which is
+a more powerful test.
+Our results also suggest an interesting relationship
+between foliage cover and colour vision type on an
+individual’s ability to detect insects. Under the ‘closed’
+canopy condition, dichromats performed much better
+than trichromats, whereas under the ‘open’ condition,
+which was the lightest, there was no apparent difference
+between colour vision types. Osorio et al. (2004) discuss
+how the yellow eblue mechanism of colour vision (the
+only colour channel available to dichromats) fails at rela-
+tively low light intensities. Thus, it is possible that in
+bright light the improved chromatic vision of dichromatic
+monkeys impairs their ability to ﬁnd cryptic insects, while
+in darker lighting the dichromats are effectively colour-
+blind and have the greatest advantage. Alternatively,
+that dichromats made more insect capture attempts per
+hour as foliage density increased is not necessarily due
+to an absolute advantage for dichromatic vision in dark
+over light conditions. Rather, the higher capture rate
+may reﬂect a higher insect abundance in areas with dense
+foliage than in areas without leaves overhead. Capuchins
+in our study spent the most time foraging in closed can-
+opy conditions during the wet season, probably because
+caterpillars, which reside on the undersides of leaves and
+are a dominant component of the capuchin food reper-
+toire ( Young 2005), are more abundant during this time.
+The capture rates of trichromats under different foliage
+conditions can be explained by this possibility of higher
+insect abundance in dense foliage as well. Trichromats
+made more insect capture attempts per hour in the shaded
+canopy than in the open, perhaps because a higher insect
+abundance in moderate foliage (shaded canopy) out-
+weighed the disadvantage of being in moderately darker
+conditions. However, their capture performance was low-
+est in the darkest condition, ‘closed’ canopy, where they
+may be sufﬁciently disadvantaged by the lack of light so
+that capture rate decreased. Detailed studies on insect
+availability in different foliage conditions are, however,
+required to support these suggestions.
+Proportion of Successful Attempts and
+Subsequent Rejection of Surface-dwelling
+Insects
+Overall, capuchins were very successful at gleaning
+insects from various forest surfaces and in capturing
+insects that they subsequently consumed. The mean
+proportion of successful ‘insect attempts’, 0.89, was quite
+similar to the percentage of successful attempted insect
+captures (90%) reported by Harrison-Levine et al. (2003)
+for Venezuelan sakis, Pithecia pithecia, suggesting high suc-
+cess: attempt ratios may be common among insectivorous
+primates. The proportion of insects rejected after being
+caught was low. This indicates that in general capuchins
+are (1) able to recognize and capture only those insects
+that they ﬁnd palatable or (2) that capuchins will eat al-
+most everything they capture, or both.
+While an individual’s colour vision type inﬂuenced the
+detection rate of surface-dwelling insects, it did not appear
+to affect the monkey’s ability to successfully complete
+a capture attempt, nor did it affect whether the prey was
+rejected subsequent to capture. This result suggests that, of
+the three stages of the insect-capture process, colour
+vision is important solely at the detection stage (stage 1),
+and is not important for completing a capture once an
+insect is detected (stage 2) or capturing only palatable
+insects (stage 3).
+In our analyses we have not separated the captures of
+insects with red egreen mosaic camouﬂage from insects
+Dichromat
+Trichromat
+*
+*
+*
+1
+0.8
+0.6
+0.4
+0.2
+0
+Visual Extractive
+Fora
+ging behaviour
+Proportion of foraging time
+**
+**
+Figure 6. Median, upper and lower quartiles, with ﬁfth and 95th per-
+centiles and outliers when present, for proportion of total foraging
+time spent in visual and extractive foraging behaviours for dichro-
+matic and trichromatic capuchin monkeys.
+ANIMAL BEHAVIOUR, 73,1212
+
+PDF PAGE 9
+with a monotone camouﬂage strategy. Dichromatic vision
+is thought to be advantageous for detecting differences in
+shape and brightness, which would aid in breaking both
+monotone and mosaic camouﬂage. However, dichromats
+may be especially advantaged over trichromats in locating
+insects with mosaic camouﬂage, as the multiple chromatic
+signals may directly interfere with the trichromat’s per-
+ception of brightness, or trichromats may be more heavily
+reliant on chromatic signals (see Introduction). Division
+of insects captured by type of camouﬂage may provide
+further insight and is an exciting possibility for future
+studies.
+Capture Rate of Embedded Insects
+Trichromatic monkeys captured signiﬁcantly more em-
+bedded insects per hour of extractive behaviour than
+dichromats did. This result was not anticipated; we
+predicted that dichromats and trichromats would perform
+equally well at extracting insects, as vision seems to be less
+important for obtaining embedded insects than for cap-
+turing exposed prey.
+We also found that insect-extracting ability, like many
+complex or challenging tasks, may improve with age. Each
+subsequent age class had a higher capture rate than the
+younger groups before. The pattern seemed to increase in
+a gradual fashion, without a clear line separating one or
+more of the age class(es) from the others. This result
+suggests that individuals steadily improve in their pro-
+ﬁciency at extracting insects throughout their adolescence
+until they reach maturity. If this is the case, the following
+explanation may account for the observation that tri-
+chromats are more efﬁcient in capturing embedded
+insects: since insects are composed of a much higher
+proportion of protein than any other capuchin food and
+they are also an important fall-back food when fruit is less
+available ( McCabe 2005 ), if all capuchins need a certain
+proportion of insects in their diet, and if trichromats are
+not as adept at catching camouﬂaged surface-dwelling
+insects, perhaps the trichromats turn to embedded insects
+instead. Tasks involved in successfully and efﬁciently cap-
+turing embedded insects include recognizing ideal places
+to ﬁnd them, listening for exact locations under bark,
+using hand eeye coordinated techniques to extract them,
+and removing them from the substrate in a timely man-
+ner. The age results from our analysis, while only margin-
+ally signiﬁcant, suggest that extracting prey is a learned
+skill, which is improved with practise. If trichromatic
+capuchins rely on embedded insects more so than dichro-
+mats do, then this may explain why they extracted more
+insects per unit time. Conversely for dichromats, captur-
+ing surface-dwelling insects may be an easier or less
+time-consuming task than extracting them, and thus di-
+chromatic monkeys may rely more heavily on capturing
+surface-dwelling insects as a result.
+We also predicted that if individuals of different colour
+vision type are better suited for different foraging tasks,
+they may differentially divert their foraging time to these
+tasks. However, when we analysed the proportion of time
+that dichromats and trichromats spent in different
+foraging behaviours we found no difference between
+dichromats and trichromats in the time they spent in
+visual or extractive foraging behaviours. Furthermore,
+another recent analysis found that dichromats and tri-
+chromats did not differ in time spent feeding on insects
+caught during visual and extractive foraging nor in the
+proportion of foraging time spent under different foliage
+cover conditions (A. D. Melin, L. M. Fedigan, C. Hiramatsu
+& S. Kawamura, unpublished data). Thus, it remains to be
+seen how the differing foraging efﬁciencies we observed ﬁt
+into the puzzle of polymorphic colour vision. Perhaps
+more answers will be revealed through detailed nutritional
+studies comparing the diets of dichromatic and trichro-
+matic monkeys and studies examining ﬁner levels of niche
+divergence.
+In conclusion, the results of this study suggest that there
+is no heterozygote advantage to capuchin monkeys
+foraging for surface-dwelling insects. Instead, we ﬁnd
+dichromacy to be advantageous over trichromacy for
+this task. Our ﬁndings do not discount the idea that there
+are many foraging tasks, and environmental conditions,
+for which trichromacy is undoubtedly favourable. We
+suggest that individuals of different phenotype are more
+or less adept at different foraging tasks and that un-
+derstanding the manifestations of this, possibly in com-
+bination with multiple-niche polymorphism or mutual
+beneﬁt of association with individuals of different phe-
+notypes, may better explain the presence and persistence
+of polymorphic colour vision, at least in this particular
+study population.
+Acknowledgments
+We would like to acknowledge Drs Filippo Aureli and John
+Addicott for helpful advice. We are grateful to the
+following organizations for funding: Alberta Ingenuity
+Fund, Natural Sciences and Engineering Research Council
+of Canada (NSERC), American Society of Primatologists
+and the University of Calgary (A.D.M.); NSERC and the
+Canada Research Chairs Program (L.M.F .); Grant-in-Aid for
+Japan Society of the Promotion of Science Fellow (15-
+11926) (C.H.); Grant-in-Aid for Scientiﬁc Research (B)
+(1640515) of the Japan Society for the Promotion of
+Science (S.K.). We thank Roger Blanco and the Costa
+Rican Park Service for permission to work in ACG and all
+the members of the capuchin and spider monkey research
+teams for their contributions to the long-term database
+and companionship in the ﬁeld. We also thank two
+anonymous referees, who suggested many helpful
+changes and thereby improved our manuscript.
+References
+Altmann, J. 1974. Observational study of behaviour: sampling
+methods. Behaviour, 49, 227 e265.
+Buchanan-Smith, H. M. 2005. Recent advances in color vision
+research. American Journal of Primatology , 67, 393 e398.
+Caine, N. G. & Mundy, N. I. 2000. Demonstration of a foraging
+advantage for trichromatic marmosets ( Callithrix geoffroyi) depen-
+dent on food colour. Proceedings of the Royal Society of London,
+Series B , 267, 439 e444.
+MELIN ET AL.: COLOUR VISION AND INSECT FORAGING 213
+
+PDF PAGE 10
+Caine, N. G., Surridge, A. K. & Mundy, N. I. 2003. Dichromatic
+and trichromatic Geoffrey’s marmosets ( Callithrix geoffrey ) differ
+in relative foraging ability for red egreen color-camouﬂaged and
+non-camouﬂaged food. International Journal of Primatology , 24,
+1163e1175.
+Campbell, N. A. 1996. Biology. Menlo Park: Benjamin/Cummings.
+Changizi, M. A., Zhang, Q. & Shimojo, S. 2006. Bare skin, blood
+and the evolution of primate colour vision. Biology Letters , 2,
+217e221.
+Dominy, N. J. & Lucas, P. W. 2001. Ecological importance of
+trichromatic vision to primates. Nature, 410, 363 e366.
+Dominy, N. J. & Lucas, P. W. 2004. Signiﬁcance of color, calories
+and climate to the visual ecology of catarrhines. American Journal
+of Primatology , 62, 189 e207.
+Dominy, N. J., Svenning, J.-C. & Li, W.-H. 2003. Historical contin-
+gency in the evolution of primate color vision. Journal of Human
+Evolution, 44,2 5 e45.
+Endler, J. A. 1993. The color of light in forests and its implications.
+Ecological Monographs , 63,1 e27.
+Fedigan, L. M. & Jack, K. M. 2001. Neotropical primates in a regen-
+erating Costa Rican dry forest. International Journal of Primatology ,
+22, 689 e713.
+Harrison-Levine, A. L., Norconk, M. A. & Cunningham, E. P. 2003.
+Insect predation techniques suggest predator-sensitive foraging in
+a group of white-faced sakis ( Pithecia pithecia). American Journal of
+Primatology, 60, 66.
+Heesy, C. P. & Ross, C. F. 2001. Evolution of activity patterns and
+chromatic vision in primates: morphometrics, genetics and cladis-
+tics. Journal of Human Evolution , 40, 111 e149.
+Hiramatsu, C., Tsutsui, T., Matsumoto, Y., Aureli, F., Fedigan,
+L. M. & Kawamura, S. 2005. Color vision polymorphism in wild
+capuchins ( Cebus capucinus
+) and spider monkeys ( Ateles geoffroyi )
+in Costa Rica. American Journal of Primatology , 67, 447 e461.
+Hunt, D. M., Dulai, K. S., Cowing, J. A., Julliot, C., Mollon, J. D.,
+Bowmaker, J. K., Li, W.-H. & Hewett-Emmett, D. 1998. Molec-
+ular evolution of trichromacy in primates. Vision Research , 38,
+3299e3306.
+Jack, K. M. & Fedigan, L. M. 2006. Why be alpha male? Dominance
+and reproductive success in wild white-faced capuchins ( Cebus
+capucinus). In: New Perspectives in the Study of Mesoamerican
+Primates: Distribution, Ecology, Behavior and Conservation (Ed.
+by A. Estrada, P. Garbir, M. Pavelka & L. Luecke), pp. 367 e
+386. New York: Kluwer Press.
+Jacobs, G. H. 1997. Color vision polymorphisms in New World
+monkeys: implications for the evolution of primate trichromacy.
+In: New World Primates: Ecology, Evolution and Behaviour (Ed. by
+W. G. Kinzey), pp. 45 e74. New York: Walter de Gruyter.
+Jacobs, G. H. 1998. A perspective on color vision in platyrrhine mon-
+keys. Vision Research , 38, 3307 e3313.
+Kawamura, S. & Kubotera, N. 2004. Ancestral loss of short wave-
+sensitive cone visual pigment in lorisiform prosimians, contrasting
+with its strict conservation in other prosimians. Journal of Molecular
+Evolution, 58, 314 e321.
+Lev-Yadun, S., Dafni, A., Flaishman, M. A., Inbar, M., Izhaki, I.,
+Katzir, G. & Ne’eman, G. 2004. Plant coloration undermines her-
+bivorous insect camouﬂage. BioEssays, 26, 1126 e1130.
+Lucas, P. W., Darvelle, B. W., Lee, P. K. D., Yuen, T. D. B. &
+Choong, M. F. 1998. Colour cues for leaf food selection by
+long-tailed macaques ( Macaca fascicularis) with a new suggestion
+for the evolution of trichromatic colour vision. Folia Primatologica,
+69, 139 e152.
+McCabe, G. M. 2005. Diet and nutrition in white-faced capuchins
+(Cebus capucinus ): effects of group, sex and reproductive state.
+M.A. thesis, University of Calgary.
+Mollon, J. D. 1989. ‘‘Tho’ she kneel’d in that place where they
+grew.’’. The uses and origins of primate color vision. Journal of
+Experimental Biology , 146,2 1 e
+38.
+Mollon, J. D. 1991. Uses and evolutionary origins of primate colour
+vision. In: Evolution of the Eye and Visual System (Ed. by J. R. Cronly-
+Dillon & R. L. Gregory), pp. 306 e319. London: Macmillan.
+Mollon, J. D., Bowmaker, J. K. & Jacobs, G. H. 1984. Variations in
+color vision in a New World primate can be explained by polymor-
+phism of retinal photopigments. Proceedings of the Royal Society of
+London, Series B , 222, 373 e399.
+Morgan, M. J., Adam, A. & Mollon, J. D. 1992. Dichromats de-
+tect colour-camouﬂaged objects that are not detected by tri-
+chromats. Proceedings of the Royal Society of London, Series B ,
+248, 291 e295.
+Osorio, D. & Vorobyev, M. 1996. Colour vision as an adaptation to
+frugivory in primates. Proceedings of the Royal Society of London,
+Series B , 263, 593 e599.
+Osorio, D., Smith, A. C., Vorobyev, M. & Buchanan-Smith, H. M.
+2004. Detection of fruit and the selection of primate visual pig-
+ments for color vision. American Naturalist , 164, 696 e708.
+Phillips, K. A., Grafton, B. W. & Haas, M. E. 2003. Tap-scanning for
+invertebrates by capuchins ( Cebus apella ). Folia Primatologica , 74,
+162e164.
+Regan, B. C., Julliot, C., Simmen, B., Vienot, F., Charles-Domi-
+nique, P. & Mollon, J. D. 2001. Fruits, foliage and the evolution
+of primate colour vision. Philosophical Transactions of the Royal
+Society of London, Series B , 356, 229 e283.
+Riba-Hernandez, P., Stoner, K. E. & Lucas, P. W. 2005. The sugar
+concentration of fruits and their detection via color in the Central
+American spider monkey. American Journal of Primatology , 67,
+411e423.
+Rowe, N. 1996. The Pictoral Guide to the Living Primates . New York:
+Pogonias Press.
+Saito, A., Kawamura, S., Mikami, A., Ueno, Y., Hiramatsu, C.,
+Koida, K., Fujita, K., Kuroshima, H. & Hasegawa, T. 2005a.
+Demonstration of genotype ephenotype correlation in polymor-
+phic color vision of a non-callitricine New World monkey,
+capuchin Cebus apella . American Journal of Primatology , 67,
+471e485.
+Saito, A., Mikami, A., Kawamura, S., Ueno, Y., Hiramatsu, C., Wi-
+dayati, K. A., Suryobroto, B., Teramoto, M., Mori, Y., Nagano,
+K., Fujita, K., Kuroshima, H. & Hasegawa, T. 2005b. Advantage
+of dichromats over trichromats in discrimination of color-camou-
+ﬂaged stimuli in non-human primates. American Journal of Prima-
+tology, 67, 425 e436.
+Smith, A. C., Buchanan-Smith, H. M., Surridge, A. K., Osorio, D. &
+Mundy, N. I. 2003. The effect of color vision on the detection and
+selection of fruits by tamarins ( Saguinus spp.). Journal of Experimen-
+tal Biology , 206, 3159 e3165.
+Sumner, P. & Mollon, J. D. 2000. Catarrhine photopigments are op-
+timized for detecting targets against a foliage background. Journal
+of Experimental Biology , 203, 1963 e1986.
+Surridge, A. K. & Mundy, N. I. 2002. Trans-speciﬁc evolution of
+opsin alleles and the maintenance of trichromatic colour vision
+in callitrichine primates. Molecular Ecology , 11, 2157 e2169.
+Young, H. C. 2005. Sharp spines and toxic stings: how white-faced
+capuchins ( Cebus capucinus ) overcome the defence mechanisms
+of invertebrates in Costa Rica. M.A. thesis, University of Calgary.
+ANIMAL BEHAVIOUR, 73,1214

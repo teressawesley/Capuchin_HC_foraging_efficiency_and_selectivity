@@ -1,0 +1,1228 @@
+PDF PAGE 1
+Stone tool use in wild bearded capuchin monkeys, Cebus libidinosus .
+Is it a strategy to overcome food scarcity?
+Noemi Spagnoletti a, b, *, Elisabetta Visalberghi a, Michele P. Verderane c, Eduardo Ottoni c,
+Patricia Izar c, Dorothy Fragaszy d
+a Istituto di Scienze e Tecnologie della Cognizione, Consiglio Nazionale delle Ricerche, Rome, Italy
+b Dipartimento di Biologia Animale e dell ’Uomo, Università La Sapienza di Roma, Rome, Italy
+c Institute of Psychology, Department of Experimental Psychology, University of São Paulo, São Paulo, Brazil
+d Psychology Department, University of Georgia, Athens, GA, U.S.A.
+article info
+Article history:
+Received 15 April 201 1
+Initial acceptance 16 June 201 1
+Final acceptance 13 February 2012
+Available online 30 March 2012
+MS. number: 1 1-00319R
+Keywords:
+bearded capuchin
+Cebus libidinosus
+fallback food
+necessity hypothesis
+nut cracking
+opportunity hypothesis
+tool use
+To determine whether tool use varied in relation to food availability in bearded capuchin monkeys, we
+recorded anvil and stone hammer use in two sympatric wild groups, one of which was provisioned daily,
+and assessed climatic variables and availability of fruits, invertebrates and palm nuts. Capuchins used
+tools to crack open encased fruits, mostly palm nuts, throughout the year. Signiﬁ cant differences
+between wet and dry seasons were found in rainfall, abundance of invertebrates and palm nuts, but not
+in fruit abundance. Catulè nuts were more abundant in the dry season. We tested the predictions of the
+necessity hypothesis (according to which tool use is maintained by sustenance needs during resource
+scarcity) and of the opportunity hypothesis (according to which tool use is maintained by repeated
+exposure to appropriate ecological conditions, such as preferred food resources necessitating the use of
+tools). Our ﬁndings support only the opportunity hypothesis. The rate of tool use was not affected by
+provisioning, and the monthly rate of tool use was not correlated with the availability of fruits and
+invertebrates. Conversely, all capuchins cracked food items other than palm nuts (e.g. cashew nuts) when
+available, and adult males cracked nuts more in the dry season when catulè nuts (the most common and
+exploited nut) are especially abundant. Hence, in our ﬁeld site capuchins use tools opportunistically.
+/C2112012 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+Using tools to gain access to food allows expansion of an indi-
+vidual’s diet, providing ﬂexibility when food resources ﬂuctuate,
+and acquisition of energy from resources that cannot be exploited
+otherwise. Both outcomes increase individualﬁtness. In vertebrates,
+tool use occurs in a relatively small number of species (Seed & Byrne
+2010; Schumaker et al. 201 1 ) and only a few use tools habitually
+(sensu McGrew 1992 ) in the wild. Among the latter are birds
+(e.g. woodpecker ﬁnches, Cactospiza pallida : Tebbich et al. 2002 ;
+New Caledonian crows, Corvus moneduloides : Hunt 1996 ) and
+mammals (e.g. bottle-nosed dolphins, Tursiops sp.: Mann et al.
+2008; sea otters, Enhydra lutris : Hall & Schaller 1964 ), especially
+nonhuman primates. Among nonhuman primates, some pop-
+ulations of chimpanzees, Pan troglodytes verus (reviewed in Whiten
+et al. 1999), orang-utans, Pongo pygmaeus (van Schaik & Knott 2001),
+bearded capuchin monkeys ( Mannu & Ottoni 2009; Spagnoletti
+et al. 201 1; see also Ottoni & Izar 2008 ) and longtailed macaques,
+Macaca fascicularis aurea (Gumert et al. 2009, 201 1 ) use tools
+regularly. In nonhuman primates, tool use is more plastic than in
+other vertebrates, present in some populations and absent in others
+and with geographical variation in forms among different pop-
+ulations (chimpanzees: Whiten et al. 1999; orang-utans: van Schaik
+et al. 2003a ; capuchin monkeys: Ottoni & Izar 2008 ).
+How tool use evolved as behavioural innovation and how it is
+acquired by individuals and maintained in populations interest
+a wide variety of scientists concerned with the origin of techno-
+logical culture (e.g. Fragaszy & Perry 2003 ). Unfortunately, since
+tool use in wild populations has been discovered only when already
+practised by many individuals, it is impossible to determine its
+history. However, by assessing the interpopulation differences in
+ecology, social behaviour and tool use that are present today, we
+can evaluate the role of current ecological and/or social factors in
+tool use.
+To explain variation in tool use among orang-utan populations,
+Fox et al. (1999) proposed three hypotheses concerning the origins
+and maintenance of tool use, two of which are relevant for the
+present study. According to the ‘necessity hypothesis’, once tool use
+behaviour is invented, it can be maintained in order to meet
+* Correspondence: N. Spagnoletti, Istituto di Scienze e Tecnologie della Cognizione,
+CNR, Via Aldrovandi 16/b, 00197 Rome, Italy.
+E-mail address: noemi.spagnoletti@istc.cnr.it (N. Spagnoletti).
+Contents lists available at SciVerse ScienceDirect
+Animal Behaviour
+journal homepage: www.elsevi er.com/locate/anbehav
+0003-3472/$38.00 /C2112012 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.anbehav.2012.03.002
+Animal Behaviour 83 (2012) 1285e 1294
+
+PDF PAGE 2
+sustenance needs and deal with resource scarcity. Three predic-
+tions follow from this ﬁrst hypothesis: (1) that tool-using orang-
+utan populations should have less favourable energy budgets than
+populations not using tools; (2) that the food acquired with tools
+should replace foods that decline in abundance seasonally; and (3)
+that individuals with higher energetic needs (subordinate or
+pregnant/lactating females) should use tools more than those with
+lower energetic requirements. In other words, the scarcity of fruits,
+which are the primary component of orang-utans ’ diet, could force
+them to exploit novel food sources that require tools for extraction.
+According to the ‘opportunity hypothesis ’, propitious ecological
+conditions facilitate maintenance of tool use through repeated
+exposure to appropriate circumstances. Two predictions follow
+from this second hypothesis: (1) that tool-using orang-utan pop-
+ulations live in an environment that provides opportunities to
+perform this behaviour and (2) that orang-utans of the same
+population will not use tools in an environment lacking these
+opportunities. For example, the peat swamp environment of Suaq
+Balimbing, Sumatra, in which social insects are forced to inhabit
+tree holes (owing to an ever-wet forest ﬂoor) should provide more
+opportunities to extract social insects with tools than a hilly forest
+in which social insects are likely to be on the forest ﬂoor.
+These two hypotheses can be extended to other species and/or
+other types of tool use. To test whether tool use is maintained by
+sustenance needs and resource scarcity (the necessity hypothesis)
+and/or by repeated exposure to appropriate circumstances (the
+opportunity hypothesis), systematic concurrent data on food
+availability, availability of items exploited with tools and frequency
+of tool use are needed. In the Galapagos Islands, woodpecker
+ﬁnches use twigs or cactus spines to pry arthropods out of tree
+holes. By comparing tool use during wet and dry seasons between
+two vegetation zones (one arid and one humid), Tebbich et al.
+(2002) found that in the arid zone, where arthropod availability
+is higher in the wet season, ﬁnches spend more time using tools in
+the wet season than in the dry season. In contrast, in the humid
+zone, where arthropod availability is constant all year round,
+ﬁnches use tools for equal amounts of time in wet and dry seasons.
+In this study the (likely) assumption is that arthropods are the most
+important food item for the ﬁnches, thus making the availability of
+other food items irrelevant. Thus this study supports the oppor-
+tunity hypothesis.
+At Suaq Balimbing, orang-utans use sticks to extract insects or
+honey from tree holes, and to gain access to the seeds of Neesia
+fruit, especially during periods of fruit scarcity, indirectly measured
+as proportion of the time budget spent feeding on tree cambium
+(van Schaik & Knott 2001 ); however, across orang-utan sites no
+support exists for the necessity hypothesis (van Schaik et al. 2003b;
+see also Fox et al. 2004 ). Since Neesia fruits irregularly and other
+fruits are not seasonal (C. van Schaik, personal communication),
+and since this fruit is energy rich and highly preferred by orang-
+utans, it is plausible in our opinion that orang-utans exploit Nee-
+sia fruits when present, regardless of the availability of alternative
+fruit resources.
+In the Taï National Park, Ivory Coast, chimpanzees use tools to
+exploit ﬁve species of palm nuts. This behaviour was found to occur
+more frequently in the major dry season (during which the food is
+assumed to be scarce on the basis of time spent feeding and on
+consumption of low-quality food), which is when Coula nuts are
+more abundant ( Boesch & Boesch 1984 ). At Bossou, Guinea, chim-
+panzees perform two tool-mediated foraging activities (nut
+cracking to obtain the kernel of oil palms and pestle pounding to
+obtain the pith of oil palms) more frequently when pulpy fruits,
+their main foods, are scarce ( Yamakoshi 1998). However, in exactly
+the same period, oil palm nuts are more abundant. Thus, the studies
+with apes do not provide unambiguous support for the necessity
+h
+ypothesis but do provide plausible evidence for the opportunity
+hypothesis.
+For the longtailed macaques living on islands in the Andaman
+Sea that use stones to process shelled foods, Gumert et al. (2009)
+suggested that food scarcity promotes tool use, although data on
+food availability and frequencies of tool use are not yet available.
+Moura (2004; Moura & Lee 2010 ) systematically observed provi-
+sioned bearded capuchin monkeys living in the dry caatinga habitat
+of northeastern Brazil (Serra da Capivara National Park, Piauí)
+digging for tubers, using sticks to probe and stones to crack
+embedded food. These monkeys displayed a low rate of tool use
+that did not differ between wet and dry seasons ( Moura 2004, page
+165). Thus, although both Moura & Lee (2004) and Gumert et al.
+(2009) suggested that food scarcity promoted tool use, their ﬁnd-
+ings do not support the necessity hypothesis.
+We systematically collected data on two wild groups of bearded
+capuchin monkeys that routinely use hammers and anvils to crack
+open encased fruits, especially palm nuts ( Spagnoletti et al. 201 1;
+see Video 1 in the Supplementary material) and assessed the
+availability of fruit, invertebrates and nuts. These monkeys live in
+a semiarid habitat (cerrado; Oliveira & Marquis 2002 ) in north-
+eastern Brazil. In this area, we expected a high degree of seasonal
+variability in food resources as reported for similar habitats where
+other capuchin monkeys have been studied (Cebus capucinus, Santa
+Rosa National Park, Costa Rica, Chapman 1988; Janzen 1988;
+Chapman & Chapman 1990 ; Cebus olivaceus, Hato Masaguaral,
+Venezuela, Robinson 1986).
+In particular, we investigated the rate of tool use and the
+proportion of the time budget spent in tool use in relation to
+climate seasonality and food availability (i.e. fruits, invertebrates
+and palm nuts) in a provisioned (hereafter, PR) and nonprovisioned
+(hereafter, NPR) group of capuchins (see Methods for details of food
+provisioning). According to the necessity hypothesis we predicted
+that tool use would be more frequent when food resources (i.e. fruit
+and invertebrates) are less abundant than when more abundant
+(Prediction N1a and Prediction N1b, respectively), and that the NPR
+group would use tools more frequently than the PR group, and
+especially when food is scarce (Prediction N2). According to the
+opportunity hypothesis tool use frequency would reﬂ ect the rela-
+tive abundance of encased foods (Prediction O3).
+METHODS
+Site
+The study area is located at Fazenda Boa Vista (hereafter, FBV;
+9
+/C14 3903600 S, 45/C14 2501000W; see map in the Supplementary material)i n
+the northeastern Brazilian state of Piauí, 21 km northwest of the
+town of Gilbués. The physical geography of the ﬁeld site is a sandy
+plain at approximately 420 m above sea level punctuated by
+sandstone ridges, pinnacles and plateaus (morros) surrounded by
+cliffs composed of sedimentary rock rising steeply to 20 e10 0 m
+above the plain. The cliffs and plateaus consist of interbedded
+sandstone, siltstone and shale. The steep faces of the cliffs shear
+periodically, producing boulder ﬁelds at the base of the cliff close to
+the plain (for further information about the geology of FBV, see
+Visalberghi et al. 2007 ). The sandstone cliffs and plateaus are
+heavily eroded and there are ephemeral water courses that have
+running water only after rainfall.
+Subjects
+From June 2006 to April 2008, we observed the behaviour of 31
+wild bearded capuchins (nine adult females, ﬁve adult males, two
+subadult males, eight juveniles and seven infants) living in PR
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e12941286
+
+PDF PAGE 3
+group (N ¼ 12e18) and in NPR group (N ¼ 8e12; see Table 1). At the
+beginning of the study both groups were well habituated to human
+presence and we could recognize subjects individually. The habit-
+uation of the PR group started in 2001 as part of an ecotourism
+programme, while the habituation of the NPR group started in
+September 2005. Systematic behavioural data collection started in
+June 2006 with the present study and two others investigating the
+ontogeny of tool use ( Ramos da Silva 2008 ) and socioecology
+(Verderane 2010). During our study the PR group was attracted to
+visit an area (hereafter, ﬁeld laboratory) by daily provisioning it
+with fruit, vegetables and water. On average /C6 SD we provided
+12 904 /C6 3802 kJ/day, which equals approximately 825 /C6 234 kJ/
+day per individual (INRAN ’s on-line Data Bank, http://www.inran.
+it/). From June 2006 to April 2008, this group visited the ﬁeld
+laboratory 53.5% of the days that it was followed.
+Behaviours and Other Measures Scored
+Each group was followed from dawn to dusk 7 e10 days per
+month by Noemi Spagnoletti (hereafter N.S.), Eduardo D. Ramos da
+Silva (hereafter E.D.R.S.) or Michele P. Verderane (hereafter M.P.V.),
+aided by a ﬁeld assistant (see below), for a total of 3313 h of
+observation (PR group: 1332 h; NPR group: 1981 h). From June
+2006 to May 2007 , all occurrences of episodes of tool use (both
+when in progress or about to begin) were recorded ad libitum. N.S.
+used focal animal sampling ( Martin & Bateson 1993) to collect data
+on 1052 episodes of tool use. These data were used for all the
+analyses (see also Spagnoletti et al. 201 1). E.D.R.S. contributed 513
+episodes recorded ad libitum during a concurrent study on the NPR
+group using the same behavioural de ﬁnitions ( Ramos da Silva
+2008). A tool use episode was de ﬁned as starting when the
+subject (S) approached an anvil site (by de ﬁnition, an anvil site is
+a boulder, an exposed stone or log, with a hammer stone on it or
+within 3 m of it, see Visalberghi et al. 2007 for details) with an
+encased food item and ending when the item was cracked open, or
+when S left the anvil without the hammer stone. When S began to
+crack a new food item, a new episode was recorded. When
+a cracking episode was in progress or about to begin, we observed it
+until the episode ended. If while observing a tool use episode we
+saw another tool use episode begin, we continued to observe the
+ﬁrst episode and the assistant noted the identity of S2 and collected
+data on this individual. Concurrent episodes beyond two were not
+recorded. When possible we identi ﬁed the type of food item
+exploited with tools. In this paper we focus on the rate of tool use
+and the foods exploited in the dry and wet seasons. Other aspects of
+tool use (selectivity, efﬁ ciency, transport, etc.) have been reported
+elsewhere ( Liu et al. 2009, 201 1; Visalberghi et al. 2009a, b;
+Fragaszy et al. 2010a, b; Spagnoletti et al. 201 1 ).
+From June 2007 to April 2008, M.P.V. recorded data on activity
+budgets using a 10 min group scan-sampling method at 10 min
+int
+ervals (hereafter scan; Altmann 1974), for each group, for a total
+of 4400 scans (PR group: N ¼ 1728; NPR group: N ¼ 2672). In this
+paper we focus on the proportion of the time budget that each
+group spent in feeding behaviours (ingesting, manipulating
+and searching for food) and in tool use to open encased foods.
+Detailed analyses of activity budget are reported elsewhere
+(Verderane 2010).
+Food Availability and Climatic Data
+The home ranges of the two groups were approximately 9 km 2
+and included four types of vegetation physiognomies according to
+the terrain and the proximity to water sources ( Spagnoletti 2009 ).
+The sandy plain is characterized by a high abundance of palms with
+subterranean stems and medium trees such as Eschweilera nana
+and Hymenaea courbaril . The vegetation surrounding the marsh is
+characterized by a higher diversity of trees forming gallery forests
+and by the presence of the tall palm tree Mauritia ﬂexuosa. Shrubs
+and small trees dominate the cliff of the hills, whereas in the
+plateau herbaceous vegetation dominates, especially bromeliads
+and cactus.
+The capuchin monkeys ’ diet is composed largely of fruit and
+invertebrates, although they eat many other items (fungi, tubers,
+vertebrates, etc., Fragaszy et al. 2004a ). To estimate the availability
+of ﬂeshy fruits and seeds (hereafter, fruit), invertebrates and palm
+nuts in the home range of our study groups, we used a strati ﬁed
+random sampling method combining the two methods described
+by Izar (2004; Izar et al. 201 1 ): (1) 100 fruit traps and 100 pitfall
+traps (for invertebrates) placed at 30 m intervals, 1 m to the side of
+a 3 km trail crossing the different physiognomies of the study area,
+with collection and weighing of contents every 2 weeks and (2)
+direct observation of 254 palm trees of the species catulè, Attalea
+barreirensis (N ¼ 136) and piassava, Orbignya sp. (N ¼ 1 18) selected
+along the same 3 km trail. Every month the researcher noted the
+presence/absence of fruits in these palms. This second method was
+employed because most palm species eaten by the monkeys at FBV
+have subterraneous stems with fruit clusters emerging from the
+soil (Fragaszy et al. 2004b). Thus, palm fruits would not fall into the
+fruit traps. Although using fruit/invertebrate traps presents several
+potential biases it is indicated for comparisons of resource abun-
+dance between habitats ( Chapman et al. 1994 ).
+For each sample we calculated a food availability index (FAI),
+expressed as kg/ha, both for fruit and invertebrates based on the
+dry weight of the material collected from traps and on the cumu-
+lative surface area. For catulè and piassava nuts, we calculated
+a monthly FAI, expressed as number of palms with fruits/ha. We
+also calculated a monthly FAI for total nuts, as the sum of catulè and
+piassava palms with fruits/ha.
+We recorded rainfall, minimum and maximum temperature and
+humidity at the ﬁeld station (Hygro-Thermometer Clock model
+445702
+0, EXTECH instruments) daily. Data collection on food
+availability and climate variables was carried out from June 2006 to
+April 2008.
+Table 1
+Group composition
+Chicão (provisioned group) Zangado (nonprovisioned group)
+Individual Age Sex Individual Age Sex
+1 Chicão Adult M 1 Zangado Adult M
+2 Segundo-Chefe Adult M 2 Moça-Branca Adult F
+3 Mansinho * Adult M 3 Emilia Adult F
+4 Dengoso * Adult M 4 Moça-Chita Adult F
+5 Piassava Adult F 5 Dunga Juvenile F
+6 Chiquinha Adult F 6 Catuaba Juvenile F
+7 Teninha Adult F 7 Kico Juvenile M
+8 Dende Adult F 8 Ervilia Juvenile F
+9 Chuchu Adult F 9 Elisa Infant F
+10 Dita Adult F 10 Café Infant M
+11 Teimoso * Subadult M
+12 Jatoba * Subadult M
+13 Amarelinha Juvenile F
+14 Tucum Juvenile M
+15 Caboclo Juvenile M
+16 Pico Juvenile M
+17 Tomate Infant M
+18 Catu Infant M
+19 Cangaceiro Infant M
+20 Pati Infant M
+21 Doree Infant F
+Individuals are grouped by age and sex. M ¼ male; F ¼ female.
+* Individuals that emigrated from the nonprovisioned group to the provisioned
+group between July and August 2006.
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e1294 1287
+
+PDF PAGE 4
+Analyses
+Analyses concerning minimum and maximum temperature,
+minimum and maximum percentage humidity, rainfall and avail-
+ability of the most abundant palm nuts (catulè and piassava) were
+based on monthly means ( N ¼ 23). Analyses of fruit and inverte-
+brate abundance were based on means of bimonthly samples (total
+N ¼ 46).
+Thus far, capuchins at FBV have been observed using stones to
+crack open embedded fruits (nuts or other food items) placed on an
+anvil; ‘tool use’ refers exclusively to this behaviour.
+From behavioural data collected ad libitum and by focal animal
+sampling during the ﬁrst year of the study, we derived monthly
+rates of tool use. Since groups differed in size, not all the individuals
+used tools and the number of individuals using tools varied across
+months (because of emigration/immigration), we calculated the
+monthly rate of tool use per group as the number of tool use
+episodes observed in each group divided by the total number of
+observations/h and the individual monthly rate of tool use as the
+number of tool use episodes per individual divided by the total
+number of observation hours. For the latter calculation we distin-
+guished between the individual rate of cracking nuts and the
+individual rate of cracking other food items.
+Data collected by scan sampling during the second year of the
+study were expressed as mean monthly proportions of individual
+scans spent in feeding behaviour (including foraging) and in tool
+use. Since our data did not follow a normal distribution (Lilliefors
+test: P < 0.05), we used nonparametric statistics employing STA-
+TISTICA 7, Statsoft (Statsoft, Tulsa, OK, U.S.A.) and SPSS 13.0 for
+Windows (SPSS Inc., Chicago, IL, U.S.A.).
+The region of FBV is seasonally dry, with a wet season lasting
+from October to April, and a dry season lasting from May to
+September (see below). To compare climate and food availability
+across seasons, we used a Mann eWhitney test for independent
+samples. The Mann eWhitney test was also used to assess whether
+the monthly rate of tool use per group and per individual and of food
+cracked differed between PR and NPR groups, as well as to assess
+whether the monthly proportion of the time budget allocated to
+feeding and to tool use differed between dry and wet seasons and
+between groups.
+We pooled the data of the two groups to examine how tool use
+was related to food availability and climatic data. These data were
+pooled because the groups ’ monthly rate of tool use did not differ
+(see below) and 2 e3 months after the study began four males (two
+adults and two subadults) migrated from NPR group to PR group
+(see Table 1). Spearman rank correlation was used to examine (1)
+the relationships between monthly FAI for fruit, invertebrates,
+catulè nuts, piassava nuts and total nuts and climatic data, (2) the
+relationships between monthly rates of tool use (group and indi-
+vidual) and food availability and rainfall, (3) the relationships
+between proportion of the time budget devoted to tool use and
+food availability and rainfall. Finally, the Wilcoxon signed-ranks
+test for related samples was run, within individuals, to compare
+the rate of tool use to open all encased foods, the rate of tool use to
+open nuts and the rate of tool use to open other food items between
+dry and wet seasons. Furthermore, since most of the tool use
+episodes were performed by six adult and subadult males (Chicão,
+Zangado, Dengoso, Mansinho, Jatoba and Teimoso; see Table 4 in
+the Results), we ran a separate Wilcoxon signed-ranks test on these
+subjects to compare rate of tool use between dry and wet seasons to
+open nuts and other food items and all the encased foods. For all
+analyses the signi ﬁcance level was set at P < 0.05 and for multiple
+tests on the same variable the Bonferroni correction was applied
+(
+a0 ¼ 0.05/number of tests; Sokal & Rohlf 1995 ). Statistical tests
+were one tailed when a directional prediction was made, and
+otherwise two tailed.
+RESULTS
+Seasonality and Food Availability
+Annual rainfall at FBV averaged 1290 mm per year. Total rainfall
+recorded from June 2006 to May 2007 was 1 162 mm and from June
+2007 to April 2008 1418 mm. Overall, from May to September
+rainfall averaged 25 mm and from October to April 1266 mm. The
+annual mean /C6 SD of maximum temperature was 32.8 /C6 2.2
+/C14 C
+while the annual mean of minimum temperature was 21.5 /C6 1.6 /C14 C
+(see Fig. 1 ). Table 2 reports the median seasonal values for each
+climatic variable. Overall our data match the two climatic seasons
+reported for the region: a dry season lasting 5 months (from May
+to September) and a wet season lasting 7 months (from October
+to April).
+The FAI for fruit varied across months from 1 1 to 2786 kg
+(mean ¼ 337 /C6 695 kg), but did not differ signi ﬁcantly between the
+wet and dry seasons ( Table 2). In contrast, the FAI for invertebrates
+ranged from 2387 to 1 19 857 kg (mean¼ 19 079 /C6 28 781) and was
+signiﬁcantly higher in the wet season than in the dry season
+(Table 2), and was also positively correlated with rainfall ( Table 3).
+Palm nuts were available throughout the year, although their
+overall abundance differed between seasons ( Table 2 ) and was
+0
+5
+10
+15
+20
+25
+30
+35
+40
+JJ A S O N
+2006 2007 2008
+DJF M A MJ JASO N DJF M A
+Temperature (°C)
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+Rainfall (mm) 
+T max T min Rainfall
+Figure 1. Climatic data (maximum and minimum temperature, rainfall) recorded in the ﬁeld station from June 2006 to April 2008.
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e12941288
+
+PDF PAGE 5
+negatively correlated with rainfall (Fig. 2, Table 3). In particular, the
+abundance of catulè nuts was higher in the dry season than in the
+wet season ( Table 2 ) and was negatively correlated with rainfall
+(Table 3 ) whereas the abundance of piassava nuts did not differ
+signiﬁcantly between seasons ( Tables 2, 3 ).
+Tool Use in the Provisioned and Nonprovisioned Groups
+From June 2006 to May 2007, during a total of 1709 h of
+observation, we recorded 1565 tool use episodes performed by
+adults and juveniles of both sexes, to crack nuts and other encased
+foods (Table 4). The vast majority occurred on anvil sites located on
+the ground (boulders or logs), while 0.6% of the episodes (seven
+nuts and two other encased food items) occurred on tree branches
+(see Video 2 in the Supplementary material). Capuchins used tools
+to process four species of palm nut (piassava, catulè, catulí and
+tucum; see Visalberghi et al. 2008 for a detailed description of these
+nuts) and four other encased foods: fruta-danta (Icacinaceae),
+cashew nut, Anacardium sp., caroba, Jacaranda sp., and mandioca-
+brava (Euphorbiaceae), Except for one episode in which an adult
+male (Zangado) used a stone to mash a root of mucambira (Bro-
+meliaceae) and one episode in which an adult female (Chuchu)
+used a whole nut to dig in search of tubers or roots, we did not
+observe tool use in a feeding context other than stone tool use to
+crack open encased foods.
+The number of individuals observed using stone tools varied
+monthly from four to 12 in PR group and from two to eight in NPR
+group. For both groups the median individual rate of tool use was
+about one episode every 10 h. Individual monthly rates of tool use did
+not differ signiﬁcantly between groups (ManneWhitney test:U ¼ 64,
+N
+1 ¼ N2 ¼ 12, P ¼ 0.32, one-tailed test; median PR /C6 interquartile
+range, IQR ¼ 0.9 /C6 1.19; median NPR /C6 IQR ¼ 0.71 /C6 0.67) and the
+monthly rate of tool use of the two groups was positively correlated
+(Spearman r
+S ¼ 0.65, N ¼ 12, P < 0.05, one-tailed test).
+Most tool use episodes involved palm nuts (89% and 73% in
+PR and NPR group, respectively). The monthly rate of cracking nuts
+did not differ between groups (Mann eWhitney test: U ¼ 65,
+N1 ¼ N2 ¼ 12, P ¼ 0.35, one-tailed test; median PR /C6 IQR ¼
+0.085 /C6 0.09; median NPR /C6 IQR ¼ 0.07 /C6 0.1 1) whereas the
+monthly rate of tool use to crack other food items was signi ﬁcantly
+higher for NPR group than for PR group (Mann eWhitney test:
+U ¼ 27, N1 ¼ N2 ¼ 12, P < 0.01, one-tailed test; median PR /C6
+IQR ¼ 0.01 /C6 0.01; medianNPR /C6 IQR ¼ 0.03 /C6 0.02; Table 5).
+During June 2007 to April 2008 (1604 h of observation), feeding
+behaviour accounted for 47 /C6 3% of the time budget of PR group
+(N scans ¼ 1236), and for 50 /C6 7% of the time budget of NPR group
+(N scans ¼ 814). Tool use accounted for 1% of the time budget in
+each group (N scans for PR group ¼ 21; N scans for NPR group ¼ 21),
+which corresponded to 2% of the time budget allocated to total
+feeding behaviours (Table 6). Neither proportion of the time budget
+devoted to feeding behaviours nor proportion of the time budget
+devoted to tool use differed between groups (Mann eWhitney test:
+U ¼ 44, N
+1 ¼ N2 ¼ 11, P ¼ 0.13, one-tailed test; median PR /C6 IQR ¼
+48.3 /C6 5.5; median NPR /C6 IQR ¼ 49.9 /C6 9.3; Mann eWhitney test:
+Table 2
+Seasonal differences (median /C6 IQR) for climatic data and food availability index
+(FAI)
+Dry season Wet season Mann e
+Whitney U
+P
+Climatic data
+Rainfall (mm) 0.0 /C6 0.0 183.3 /C6 155.5 3 <0.001
+T max (
+/C14 C) 33.3/C6 1 32.4 /C6 2.1 43 0.21
+T min ( /C14 C) 19.4/C6 1.6 22.3 /C6 1.3 14 <0.01
+H max (%) 70.1/C6 12.8 91 /C6 6.2 11 <0.001
+H min (%) 29.2/C6 13.4 50.5 /C6 12.5 20 <0.01
+FAI
+Fruit (kg/ha) 130.6/C6 139 144.8 /C6 193.5 233 0.66
+Invertebrates (kg/ha) 2839.3 /C6 2624.2 6271.5 /C6 23 504.1 152 <0.05
+Catulè nuts (no./ha) 25.2 /C6 5.5 10.2 /C6 9.9 3 <0.001
+Piassava nuts (no./ha) 4 /C6 2.7 4.4 /C6 5.1 62 0.93
+Total nuts (no./ha) 29.1 /C6 4.9 15.6 /C6 7.6 4 <0.001
+Tm a x ¼ maximum temperature; T min ¼ minimum temperature; H max ¼
+maximum percentage humidity; H min ¼ minimum percentage humidity. Analyses
+were carried out on 23 samples (dry season N ¼ 9, wet season N ¼ 14) except for
+fruit and invertebrates for which analyses were carried out on 46 samples (dry
+season N ¼ 18, wet season N ¼ 28).
+0
+5
+10
+15
+20
+25
+30
+35
+40
+JJ A S O
+2006 2007 2008
+N DJF M A M JJAS O N DJF M A
+No. of plants with ripe fruits/ha
+0
+50
+100
+150
+200
+250
+300
+350
+400
+450
+Rainfall (mm)
+Catulè nuts Piassava nuts Rainfall
+Figure 2. Number of catulè and piassava palms with ripe fruits in relation to rainfall from June 2006 to April 2008.
+Table 3
+Spearman correlation coef ﬁcients between the food availability index (FAI) and
+climatic variables
+FAI Rainfall Mean
+temperature
+Mean
+relative humidity
+Sample
+(N)
+Fruit 0.22 0.18 /C0 0.33 46
+Invertebrates 0.38 * 0.20 0.26 46
+Catulè nuts /C0 0.88* /C0 0.12 /C0 0.75 23
+Piassava nuts /C0 0.008 0.10 0.01 23
+Total nuts /C0 0.83* /C0 0.11 /C0 0.70* 23
+* Signiﬁcant after applying the Bonferroni correction for multiple tests
+(a ¼ 0.016).
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e1294 1289
+
+PDF PAGE 6
+U ¼ 55, N1 ¼ N2 ¼ 11, P ¼ 0.36, one-tailed test; median PR /C6
+IQR ¼ 0.9 /C6 1.3; medianNPR /C6 IQR ¼ 0.7 /C6 1.2).
+Tool Use, Seasonality and Resource Availability
+As shown in Table 7, for both groups the individual and group
+rates of tool use did not correlate with the availability of fruit,
+invertebrates, piassava nuts and total nuts or with rainfall. In the
+NPR group, individual rates of tool use (rate to open nuts and total
+rate) were positively correlated with the availability of catulè nuts
+(Fig. 3 a). This correlation was not signi ﬁcant for the PR group.
+The overall individual rate of tool use (nuts plus other encased
+foods) did not differ between seasons (median dry season /C6 IQR ¼
+0.025 /C6 0.064; median wet season /C6 IQR ¼ 0.028 /C6 0.035; Wilcoxon
+signed-ranks test: T ¼ 92, N ¼ 22, P ¼ 0.13, one-tailed test).
+However, the rates of tool use to crack nuts as well as the rates of
+tool use to crack other food items were higher in the wet season
+than in the dry season (nuts: median dry season /C6 IQR ¼ 0.018 /C6 0.06;
+medianwet season /C6 IQR ¼ 0.020 /C6 0.036; Wilcoxon signed-ranks
+test: T ¼ 64, N ¼ 22, P < 0.05, one-tailed test; other food items:
+mediandry season /C6 IQR ¼ 0.003 /C6 0.007; median wet season /C6 IQR ¼
+0.009 /C6 0.008; Wilcoxon signed-ranks test: T ¼ 38, N ¼ 22,
+P < 0.01, one-tailed test).
+Since six of the adult and subadult males used tools far more
+often than most of the females and juveniles ( Table 4 ; see
+Spagnoletti et al. 201 1 ) we analysed their behaviour separately.
+Their overall rate of tool use was consistently higher in the dry
+season than in the wet season (median dry season /C6 IQR ¼
+0.1 13/C6 0.075; median wet season /C6 IQR ¼ 0.058 /C6 0.033; Wilcoxon
+signed-ranks test: T ¼ 0, N ¼ 6, P < 0.05, one-tailed test) and
+the same held true for their rate of tool use to crack nuts
+(median
+dry season /C6 IQR ¼ 0.109 /C6 0.078; median wet season /C6 IQR ¼
+0.047 /C6 0.037; Wilcoxon signed-ranks test: T ¼ 0, N ¼ 6, P < 0.05,
+one-tailed test). In contrast, their individual rate of tool use to crack
+other food items did not differ between seasons (median
+dry season /C6
+IQR ¼ 0.006 /C6 0.004; median wet season /C6 IQR ¼ 0.007 /C6 0.006;
+Wilcoxon signed-ranks test: T ¼ 7, N ¼ 6, P ¼ 0.23, one-tailed test).
+We tested whether from June 2007 to April 2008 the monthly
+proportion of time spent on tool use by PR and NPR groups was
+affected by food availability and rainfall seasonality. As shown in
+Table 8, the proportion of time devoted to tool use by PR group did
+not correlate with the availability of fruit, invertebrates, palm nuts,
+or with rainfall, whereas the proportion of time devoted to tool use
+by NPR group was positively correlated with the availability of nuts,
+and particularly catulè ( Fig. 3 b), but did not correlate with all the
+other variables. In both groups, the monthly proportion of time
+spent in tool use did not differ between dry and wet seasons
+(median PR
+dry season /C6 IQR ¼ 1 /C6 1; median PR wet season /C6 IQR ¼
+0.9 /C6 1.6; Mann eWhitney test: U ¼ 14, N1 ¼ 4, N2 ¼ 7, P ¼ 0.5,
+one-tailed test; median NPR dry season /C6 IQR ¼ 1.4 /C6 0.7; median
+NPRwet season /C6 IQR ¼ 0.4 /C6 1; Mann eWhitney test: U ¼ 6, N1 ¼ 4,
+N2 ¼ 7, P ¼ 0.065, one-tailed test).
+DISCUSSION
+Seasonality, Food Availability and Tool Use
+Our 2 years of climatic data (rainfall, temperature and
+percentage humidity) match those provided for previous years for
+the same region by the Embrapa (Brazilian Agricultural Research
+Corporation). In FBV we observed a lack of rainfall during several
+months and this allowed de ﬁnition of a dry season (5 months with
+Table 4
+Number of tool use episodes performed by each individual to crack palm nuts and
+other fruit items from June 2006 to May 2007 in the dry (Dry) and wet (Wet) seasons
+Individual Palm nuts Other fruit items Total
+Wet Dry Total 1 Wet Dry Total 2 (1 þ2)
+Chicão 48 68 116 12 12 128
+Zangado 100 176 276 11 9 20 296
+Segundo C. 4 6 10 1 1 11
+Dengoso 39 105 144 7 5 12 156
+Mansinho 72 114 186 1 2 3 189
+Dende 6 5 11 3 3 14
+Teninha 14 8 22 1 1 22
+Moça-Branca 13 14 27 9 8 17 44
+Emilia 4 2 6 7 7 14 20
+Piassava 21 17 38 13 2 15 53
+Chuchu 21 29 50 1 2 3 53
+Dita 22 27 49 11 4 15 64
+Moça-Chita 42 58 100 22 19 41 141
+Jatoba 38 52 90 5 5 10 100
+Teimoso 21 40 61 7 5 12 83
+Caboclo 2 2 3 3 5
+Tucum 30 14 44 20 6 26 70
+Catuaba 5 6 11 20 10 30 41
+Dunga 15 3 18 11 3 14 32
+Ervilia 5 5 11 2 13 18
+Kico 8 4 12 10 10 22
+Pico 2 2 1 1 3
+Total 527 752 1279 187 89 276 1565
+Table 5
+Monthly rate of tool use and annual rate of tool use performed by each individual of
+the provisioned and nonprovisioned groups to crack nuts and other food items (from
+June 2006 to May 2007)
+Month Provisioned group Nonprovisioned group
+Palm
+nuts
+Other food
+items
+Palm
+nuts
+Other food
+items
+June 2006 0.09 0.02 0.20 0.03
+July 2006 0.19 0.01 0.14 0.01
+August 2006 0.06 0.00 0.11 0.00
+September 2006 0.06 0.01 0.01 0.04
+October 2006 0.02 0.07 0.05 0.09
+November 2006 0.13 0.01 0.02 0.03
+December 2006 0.03 0.01 0.01 0.04
+January 2007 0.04 0.00 0.05 0.01
+February 2007 0.08 0.00 0.06 0.02
+March 2007 0.16 0.00 0.08 0.04
+April 2007 0.11 0.00 0.15 0.02
+May 2007 0.19 0.01 0.21 0.04
+Mean ( /C6 SD) 0.10
+(/C6 0.06)
+0.01
+(/C6 0.02)
+0.09
+(/C6 0.07)
+0.03
+(/C6 0.02)
+Table 6
+Monthly proportion of time spent by the provisioned and nonprovisioned groups in
+feeding behavior and in tool use (from June 2007 to April 2008)
+Month Provisioned group Nonprovisioned group
+Feeding* Tool use Feeding * Tool use
+June 2007 41.9 0.5 44.9 1.4
+July 2007 43.2 2.0 52.2 1.9
+August 2007 46.3 0.7 53.8 1.5
+September 2007 45.5 1.3 49.3 0.6
+October 2007 48.3 1.4 44.5 1.3
+November 2007 44.0 1.8 43.3 0.7
+December 2007 49.5 0.9 39.1 0.4
+January 2008 51.7 2.3 54.9 0.3
+February 2008 49.5 0.9 66.3 0.1
+March 2008 49.3 0.2 49.6 0.3
+April 2008 49.8 0.1 51.3 2.4
+Mean (/C6 SD) 47.2 ( /C6 3.2) 1.1 ( /C6 0.7) 49.9 ( /C6 7.3) 1.0 ( /C6 0.8)
+* Includes time spent in tool use.
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e12941290
+
+PDF PAGE 7
+mean monthly rainfall of 5.5 mm) and a wet season (7 months with
+mean monthly rainfall of 181 mm).
+Unexpectedly, the indirect assessment of food availability via
+traps indicates that season had negligible effects on the availability
+of fruit, and in contrast with other areas ( Janzen 1988; Robinson
+1986; Chapman & Chapman 1990 ), the dry season was not associ-
+ated with less abundant fruit. Invertebrates were more abundant in
+the wet season. Palm trees and palm nuts are abundant in the
+capuchins’ range (448 individuals/ha, Verderane 2010 ) and the
+catulè nuts are 2.5 times more abundant during the dry season than
+in the wet season. These ﬁndings allow us to test all predictions
+except Prediction N1a concerning fruit seasonality (see Table 9).
+Five ﬁndings indicate that in FBV capuchin monkeys do not face
+dramatic periods of food scarcity and that high-quality food is
+abundant ( McCabe & Fedigan 2007 ). First, systematic comparison
+based on food availability collected with the same methodology
+between C. libidinosus living in the cerrado ecaatinga of FBV and
+Cebus nigritus living in the Atlantic Forest of Carlos Botelho State
+Park shows that food scarcity characterized the latter site more
+than the former ( Izar et al. 201 1 ). Fruit is usually considered
+a limiting resource for the reproductive success of Cebus (e.g.
+Terborgh 1983; Zhang 1995; Di Bitetti 2001; Izar 2004 ). Strong
+seasonal variation of fruit availability occurs in the Atlantic Forest,
+in the primary tropical forest ( Zhang 1995; Nakai 2007 ) and in
+a semideciduous forest (Galetti & Pedroni 1994). Second, Verderane
+(2010) showed that females in FBV fed on high-quality foods year-
+round and that their reproductive success is not related to food
+scarcity as happens at other ﬁeld sites, such as Carlos Botelho for
+C. nigritus (Izar et al. 201 1 ). Third, in FBV capuchins adopted and
+nursed a marmoset ( Izar et al. 2006 ) and twins were born (one
+pair in the PR group and one in NPR) and successfully raised by
+their mother past 1 year of age (L. Biondi, unpublished data).
+Fourth, average interbirth interval, which reﬂ ects food availability
+(Izar et al. 2009), was longer in Carlos Botelho than in FBV (Izar et al.
+201 1). Fifth, the rates of play, a behaviour that decreases when food
+is scarce (e.g. Lee 1984; Barrett et al. 1992), were higher in FBV than
+in other populations of capuchins ( Spagnoletti 2009; Verderane
+2010). Therefore, fruit scarcity in dry season semiarid environ-
+ments cannot be assumed. Nevertheless, only direct phenological
+studies, as we plan to do in the future, will allow a proper assess-
+ment of the abundance of speci ﬁc plant species consumed by
+capuchins.
+In FBV, individual rates of tool use varied across months
+according to the availability of encased foods, as expected by
+Prediction O3 (see Table 9). The adult males cracked nuts more in
+the dry season (when catulè nuts are more abundant) than in the
+wet season. Furthermore, all tool users cracked other encased food
+(mostly cashew nuts) more in the wet season than in the dry
+season. Dry cashew nuts are available only at the beginning of the
+rainy season and typically capuchins use a small stone to get the
+seed without touching the peel of the fruit, which contains a caustic
+chemical ( Visalberghi
+ & Sirianni, in press ). We conclude that
+capuchins use tools opportunistically when they encounter food
+items that require this behaviour for access.
+Finally, tool use was more frequent in the dry season when
+invertebrates were less abundant but there was a lack of correlation
+between monthly invertebrate abundance and both monthly rates
+of tool use and proportion of time devoted to tool use. Therefore,
+Prediction N1b is only partially supported (see Table 9).
+It is important to stress that frequency of tool use and avail-
+ability of food resources were consistent across 2 years and tool use
+data were also consistent across two different methodologies
+(all occurrences and scans). Overall, our ﬁndings indicate that tool
+use reﬂects the abundance of nuts in the environment and not the
+availability of fruits and invertebrates. These ﬁndings support the
+opportunity hypothesis.
+Table 7
+Spearman correlation coef ﬁcients between rate of tool use and food availability and between rate of tool use and rainfall in the PR (provisioned) group and NPR (non-
+provisioned) groups
+Group Tool use Food availability Rainfall
+Fruit Invertebrates Catulè nuts Piassava nuts Total nuts
+PR Group 0.03 /C0 0.60 0.49 /C0 0.14 0.31 /C0 0.47
+Individual (nuts) /C0 0.22 /C0 0.68 0.47 /C0 0.28 1.05 /C0 0.47
+Individual (other food items) /C0 0.45 0.23 0.3 /C0 0.19 0.13 /C0 0.17
+Individual (total) /C0 0.13 /C0 0.65 0.51 /C0 0.29 0.29 /C0 0.48
+NPR Group 0.22 /C0 0.55 0.60 /C0 0.24 0.39 /C0 0.53
+Individual (nuts) 0.08 /C0 0.65 0.76* /C0 0.01 0.69 /C0 0.62
+Individual (other food items) /C0 0.35 0.14 /C0 0.10 /C0 0.18 /C0 0.26 0.15
+Individual (total) 0.09 /C0 0.62 0.74* 0.01 0.64 /C0 0.57
+N ¼ 12.
+* Signiﬁcant after applying the Bonferroni correction for multiple tests ( a ¼ 0.008).
+0
+5
+10
+15
+20
+25
+30
+35
+40
+JJ A S O N D JF M A
+0
+0.5
+1
+1.5
+2
+2.5
+3
+Budget of tool use
+Catulè
+Nonprovisioned group
+0
+5
+10
+15
+20
+25
+30
+JJ A S O N D J
+2006 2007 2007 2008
+FMAM
+No. of individuals/ha 0
+0.05
+0.1
+0.15
+0.2
+0.25
+0.3
+Rate of tool use
+Catulè
+Nonprovisioned group
+(a) (b) 
+Figure 3. (a) Rate of tool use per individual and (b) budget of tool use for the nonprovisioned group and availability of the catulè nuts per ha.
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e1294 1291
+
+PDF PAGE 8
+Tool Use in Provisioned and Nonprovisioned Groups
+We now examine whether tool use was less frequent in the PR
+group than in the NPR group (Prediction N2). Our results show that
+the food provided did not affect the occurrence of tool use. The
+individual rates and the proportion of the time budget devoted to
+this activity did not differ between groups. Overall, the use of tools
+represents a small proportion of the activity budget (and feeding
+time) for both PR and NPR groups, as also noted by Verderane
+(2010; see also Spagnoletti 2009 ). In both groups there are a few
+individuals that do not use tools (or do so very rarely) despite being
+old enough to perform this behaviour and these individuals do not
+seem to be affected by not using tools ( Spagnoletti et al. 201 1 ).
+Therefore, the above ﬁndings do not support Prediction N2 since
+capuchins do not use tools at different rates in the two groups
+(see Table 9).
+Tool Use in Other Wild Capuchin Populations and in Captivity
+The necessity hypothesis is further weakened by the fact that
+food scarcity per se does not promote tool use in other populations
+of capuchin monkeys. At least two populations of C. nigritus that
+live in forests overcome low fruit availability by foraging on the
+leaves of bromeliads ( Brown & Zunino 1990; Izar 2004; Izar et al.
+201 1), although encased food (and/or palm nuts) and stones are
+also available for at least some study groups ( Janson 2006; P. Izar, I.
+Agostini & B. Wheeler, personal communication). In other areas
+where fruit seasonality is pronounced, palms are an important
+alternative resource but no tool use has been reported ( Terborgh
+1983; Fragaszy 1986; Robinson 1986; Galetti & Pedroni 1994;
+Zhang 1995). Peres (1994) reported that Cebus apella living in the
+Terra Firme forest of Amazonia overcome the period of fruit scarcity
+by eating the soft mesocarp of palm fruits, Oenocarpus bataua ,
+which does not demand tool use for its acquisition.
+Conversely, there is evidence of percussive tool use in provi-
+sioned groups living in captivity (reviewed in Visalberghi &
+Fragaszy, 2012), in semifree-ranging conditions (e.g. Tietê Ecolog-
+ical Park, São Paulo, Brazil, Ottoni & Mannu 2001 ; Brasilia National
+Park, Brasilia, Brazil, Waga et al. 2006) and in the wild (Moura 2004;
+present study). Percussive tool use seems to be performed oppor-
+tunistically when nuts are more abundant (this study) and where
+hammer stones, anvils and encased fruit (including tough seeds)
+are concurrently present ( Visalberghi et al. 2009a ). In sum, our
+ﬁndings on the capuchins of FBV do not support Predictions N1b
+and N2 based on the necessity hypothesis, whereas they do support
+Prediction O3 based on the opportunity hypothesis. Further studies
+on populations that do face food scarcity and signi ﬁcant seasonal
+differences in food resources are necessary to test the validity of
+Prediction N1a.
+Conclusions
+Nut cracking is a strenuous activity for capuchins ( Liu et al.
+2009; Spagnoletti et al. 201 1 ) but still a very advantageous one in
+terms of energetic gain for all individuals (poster presented at the
+23rd Congress of the International Primatological Society, http://
+primate-society.com/ips/program.html#poster). In our population
+nut-cracking behaviour, although habitual ( Spagnoletti et al. 201 1),
+is infrequent. To be a strategy to overcome food scarcity, tool use
+should represent a major source of energy. This is the case for the
+chimpanzees in Bossou and in Taï ( Yamakoshi 1998; 2001) and for
+woodpecker ﬁnches
+ (Tebbich et al. 2002 ), but not for capuchins in
+FBV. During the peak month of tool use, Bossou chimpanzees spend
+32% of their total feeding time on tool-using behaviour (nut
+cracking, pestle pounding, etc.), whereas during the Coula season
+Taï chimpanzees spend 44% of their feeding time cracking these
+nuts ( Yamakoshi 2001). Even more pronounced is the role played
+by tools for the woodpecker ﬁnches living in the arid zone in the
+Galapagos Islands: these birds spend almost 50% of their foraging
+time using tools ( Tebbich et al. 2002 ). In contrast, FBV capuchins
+use stone tools on average for only 2% of their foraging and feeding
+time. Similarly, in two studies carried out in two different periods at
+Serra da Capivara National Park where capuchins use both stone
+and stick tools, Mannu & Ottoni (2009) observed 0.96 tool use
+events/h per group and Moura & Lee (2010) observed only 0.04 tool
+use events/h per individual. In conclusion, although we cannot
+exclude that for a capuchin population living in a poor environment
+and for which tool use is a major source of energy, the frequency of
+this behaviour can vary in response to low food availability, so far
+this scenario has not been reported.
+Finally, we must ask whether palm kernels are a keystone food
+permitting the survival of C. libidinosus in our site. At ﬁrst glance,
+the low proportion of time spent cracking palm nuts, the fact that
+their use seems to be opportunistic, and the fact that not all the
+individuals exhibit this behaviour suggest that, at present and in
+this population, tool use is not very important for survival.
+However, placing these ﬁndings within the context of fallback
+foraging theory could help to clarify the role of these foods in the
+evolution of C. libidinosus . According to Marshall & Wrangham
+(2007) tool use in primates occurs primarily in the context of
+feeding for fallback foods during periods of low food availability.
+They distinguished between (1) staple fallback food that is available
+perennially, usually consumed throughout the year, may seasonally
+constitute 100% of the diet and is uniformly distributed and (2)
+ﬁller fallback foods that never make up 100% of the diet, are
+completely avoided for some time (weeks, months) and are rather
+patchily distributed. For C. libidinosus living in FBV palm nuts
+appear to constitute a staple fallback food, since tool use to gain
+access to the nut kernel occurs throughout the year. Moreover,
+palm fruits appear to be staple fallback food because, throughout
+the year, capuchins drink their water when unripe and eat their
+Table 8
+Spearman correlation coef ﬁcients between proportion of time spent in tool use and
+food availability and between proportion of time spent in tool use and rainfall in the
+PR (provisioned) and NPR (nonprovisioned) groups
+Group Food availability Rainfall
+Fruit Invertebrates Catulè
+nuts
+Piassava
+nuts
+Total
+nuts
+PR /C0 0.09 /C0 0.62 0.02 0.42 0.06 /C0 0.05
+NPR 0.26 /C0 0.57 0.78* /C0 0.65 0.75 * /C0 0.70
+N ¼ 11.
+* Signiﬁcant after applying the Bonferroni correction for multiple tests
+(a ¼ 0.008).
+Table 9
+Support for the predictions concerning frequency of tool use in relation to food
+resource availability (fruit, invertebrates, food provisioned and encased food)
+according to the necessity and opportunity hypotheses
+Predictions Frequency of tool use Support
+Necessity
+hypothesis
+N1a Fruit scarcity > Fruit abundance
+(not testable in the present study)
+Positive correlation with scarcity of fruit
+N1b Invertebrate scarcity >
+Invertebrate abundance
+Positive correlation with
+scarcity of invertebrates
+e
+No
+Yes
+No
+N2 Nonprovisioned group >
+Provisioned group
+No
+Opportunity
+hypothesis
+O3 Positive correlation with
+abundance of encased food
+Yes
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e12941292
+
+PDF PAGE 9
+mesocarp until the woody endocarp of the nut is exposed.
+However, the role of palms as staple fallback food can only be
+conﬁrmed by assessing (1) whether the absence of palm fruits from
+the C. libidinosus environment would reduce fecundity and increase
+mortality and/or (2) whether during periods of extreme food
+scarcity palms become a staple food for capuchins. In any case it
+will be necessary to assess the nutrient and energy contribution of
+the palm fruit tissues to the diet of all individuals in a given group,
+both tool users and nontool users. If palm fruits are foraged on
+infrequently, but provide needed nutrients and are major energy
+contributors, then the argument for their staple fallback role and
+for their role as the selective agent accounting for tool use in this
+capuchin species is bolstered.
+Acknowledgments
+We thank the Oliveira family for permission to work on their
+land, E. Darvin Ramos da Silva for collaborating in data collection,
+Jozemar, Arizomar and Marino Junior for assistance in the ﬁeld,
+Paolo Ciucci and Vincenzo Gervasi for discussion and statistical
+advice concerning ecology of capuchins, Elsa Addessi, Valentina
+Truppa, Barth and Kristin Wright for helpful comments on the
+manuscript. Funded by University La Sapienza of Rome, EU FP6
+NEST Programme ANALOGY (No 029088), FAPESP (MPV: 06/51578-
+9 and PI: 06/51577-2), CNPq, ISTC-CNR, Ethoikos srl. We also thank
+the anonymous referees and the editors for their constructive
+comments.
+Supplementary Material
+Supplementary material associated with this article can be
+found, in the online version, at doi:10.1016/j.anbehav.2012.03.002.
+References
+Altmann, J. 1974. Observational study of behavior: sampling methods. Behaviour,
+49,2 2 7e267.
+Barrett, L., Dunbar, R. I. M. & Dunbar, P. 1992. Environmental in ﬂuences on play
+behaviour in immature gelada baboons. Animal Behaviour, 44,1 1 1e115 .
+Boesch, C. & Boesch, H. 1984. Possible causes of sex differences in the use of natural
+hammers by wild chimpanzees. Journal of Human Evolution , 13,4 1 5e440.
+Brown, A. D. & Zunino, G. E. 1990. Dietary variability in Cebus apella in extreme
+habitats: evidence for adaptability. Folia Primatologica , 54,1 8 7e195.
+Chapman, C. A. 1988. Patch use and patch depletion by the spider and howling
+monkeys of Santa Rosa National Park, Costa Rica. Behaviour, 105,9 9 e116 .
+Chapman, C. A. & Chapman, L. 1990. Density and growth rate of some tropical dry
+forest trees: comparisons between successional forest types. Bulletin of the
+Torrey Botanical Club , 117, 226 e231.
+Chapman, C. A., Wrangham, R. & Chapman, L. J. 1994. Indices of habitat-wide fruit
+abundance in tropical forests. Biotropica, 26,1 6 0e171.
+Di Bitetti, M. S. 2001. Home-range use by the tufted capuchin monkey ( Cebus apella
+nigritus) in a subtropical rainforest of Argentina. Journal of Zoology , 253,3 3e45.
+Fox, E. A., Sitompul, A. F. & van Schaik, C. P. 1999. Intelligent tool use in wild
+Sumatran orangutans. In: The Mentalities of Gorillas and Orangutans (Ed. by
+S. T. Parker, R. W. Mitchell & H. L. Miles), pp. 99 e1 16. Cambridge: Cambridge
+University Press.
+Fox, E. A., van Schaik, C. P., Sitompul, A. & Wright, D. N. 2004. Intra and inter-
+populational differences in orangutan ( Pongo pygmaeus ) activity and diet:
+implications for the invention of tool use. American Journal of Physical Anthro-
+pology, 125,1 6 2e174.
+Fragaszy, D. M. 1986. Time budgets and foraging behaviour in wedge-capped
+capuchins
+(Cebus olivaceus ): age and sex differences. In: Current Perspectives
+in Primate Social Dynamics (Ed. by D. M. Taub & F. A. King), pp. 159 e174. New
+York: Van Nostrand Reinhold.
+Fragaszy, D. M. & Perry, S. 2003. Towards a biology of traditions. In: The Biology of
+Tradition: Models and Evidence (Ed. by D. M. Fragaszy & S. Perry), pp. 1 e32.
+Cambridge: Cambridge University Press.
+Fragaszy, D. M., Visalberghi, E. & Fedigan, L. M. 2004a. The Complete Capuchin: the
+Biology of the Genus Cebus. Cambridge: Cambridge University Press.
+Fragaszy, D. M., Izar, P., Visalberghi, E., Ottoni, E. B. & Oliveira, M. G. 2004b. Wild
+capuchin monkeys ( Cebus libidinosus ) use anvils and stone pounding tools.
+American Journal of Primatology , 64,3 5 9e366.
+Fragaszy, D. M., Pickering, T., Liu, Q., Izar, P., Ottoni, E. & Visalberghi, E. 2010a.
+Bearded capuchin monkeys ’ and a human ’se f ﬁciency at cracking palm nuts
+with stone tools: ﬁeld experiments. Animal Behaviour, 79,3 2 1e332.
+Fragaszy, D. M., Greenberg, R., Visalberghi, E., Ottoni, E. B., Izar, P. & Liu, Q.
+2010b. How wild bearded capuchin monkeys select stones and nuts to
+minimize the number of strikes per nut cracked. Animal Behaviour , 80,
+205e214.
+Galetti, M. & Pedroni, F. 1994. Seasonal diet of capuchin monkeys ( Cebus apella)i n
+a semi-deciduous forest in south-east Brazil. Journal of Tropical Ecology , 10,
+27e39.
+Gumert, M. D., Kluck, M. & Malaivijitnond, S. 2009. The physical characteristic
+and usage patterns of stone axe and pounding hammers used by long-tailed
+macaques in the Andaman Sea Region of Thailand. American Journal of Prima-
+tology, 71, 594 e608.
+Gumert, M. D., Hoong, L. K. & Malaivijitnond, S. 201 1. Sex differences in the stone
+tool-use behavior of a wild population of Burmese long-tailed macaques
+(Macaca fascicularis aurea ). American Journal of Primatology , 73,1 e11.
+Hall, K. R. L. & Schaller, G. B. 1964. Tool-using behavior of the California sea otter.
+Journal of Mammalogy , 45,
+287 e298.
+Hunt, G. R. 1996. Manufacture and use of hook-tools by New Caledonian crows.
+Nature, 379, 249 e251.
+Izar, P. 2004. Female social relationships of Cebus apella nigritus in a southeastern
+Atlantic forest: an analysis through ecological models of primate social evolu-
+tion. Behaviour, 141,7 1 e99.
+Izar, P., Verderame, M. P., Visalberghi, E., Ottoni, E. B., Gomes De Oliveira, M.,
+Shirley, J. & Fragaszy, D. 2006. Cross-genus adoption of a marmoset ( Callithrix
+jacchus) by wild capuchin monkeys ( Cebus libidinosus ): case report. American
+Journal of Primatology , 68, 692 e700.
+Izar, P., Stone, A., Carnegie, S. D. & Nakai, E. S. 2009. Sexual selection, female
+choice and mating systems. In: South American Primates: Testing New Theories in
+the Study of Primate Behavior, Ecology, and Conservation (Ed. by P. Garber,
+A. Estrada, J. C. Bicca-Marques, E. Heymann & K. B. Strier), pp. 157 e189.
+New York: Springer Press.
+Izar, P., Verderane, M. P., Peternelli dos Santos, L., Mendonça-Furtado, O.,
+Presotto, A., Tokuda, M., Visalberghi, E. & Fragaszy, D. M. 201 1. Flexible and
+conservative features of social systems in tufted capuchin monkeys: comparing
+the socioecology of Sapajus libidinosus and Sapajus nigritus. American Journal of
+Primatology, 73,1 e17.
+Janson, C. H. 2006. Everything you ever wanted to know about capuchin. American
+Journal of Primatology , 68,4 1 9e424.
+Janzen, D. H. 1988. Guanacaste National Park: tropical ecological and biocultural
+restoration. In: Rehabilitating Damaged Ecosystems (Ed. by J. Cairns Jr), pp.
+143e192. Boca Raton, Florida: CRC Press.
+Lee, P. C. 1984. Ecological constraints on the social development of vervet monkeys.
+Behaviour, 91, 245 e561.
+Liu, Q., Simpson, K., Izar, P., Ottoni, E., Visalberghi, E. & Fragaszy, D. M. 2009.
+Kinematics and energetics of nut-cracking in wild capuchin monkeys ( Cebus
+libidinosus) in Piauí, Brazil. American Journal of Physical Anthropology , 138,
+210e220.
+Liu,
+Q., Fragaszy, D. M., Wright, B., Wright, K., Izar, P. & Visalberghi, E. 201 1. Wild
+bearded capuchin monkeys ( Cebus libidinosus ) place nuts in anvils selectively.
+Animal Behaviour, 81,2 9 7e305.
+McCabe, M. G. & Fedigan, L. M. 2007. Effects of reproductive status on energy
+intake, ingestion rates, and dietary composition of female Cebus capucinus at
+Santa Rosa, Costa Rica. International Journal of Primatology , 28,8 3 7e851.
+McGrew, W. C. 1992. Chimpanzee Material Culture. Cambridge: Cambridge Univer-
+sity Press.
+Mann, J., Sargeant, B. L., Watson-Capps, J. J., Gibson, Q. A., Heithaus, M. R.,
+Connor, R. C. & Patterson, E. 2008. Why do dolphins carry sponges? PLoS ONE,
+3, e3868.
+Mannu, M. & Ottoni, E. B. 2009. The enhanced tool-kit of two groups of wild
+bearded capuchin monkeys in the Caatinga: tool making, associative use, and
+secondary tools. American Journal of Primatology , 71,2 4 2e251.
+Marshall, A. J. & Wrangham, R. W. 2007. Evolutionary consequences of fallback
+foods. International Journal of Primatology , 28, 1219e1236.
+Martin, P. & Bateson, P. 1993. Measuring Behaviour: an Introductory Guide . 2nd edn.
+Cambridge: Cambridge University Press.
+Moura, A. 2004. The capuchin monkey and the caatinga dry forest: a hard life in
+a harsh habitat. Ph.D. thesis, University of Cambridge.
+Moura, A. & Lee, P. 2004. Capuchin stone tool use in caatinga dry forest. Science,
+306, 1909e1910.
+Moura, A. & Lee, P. 2010. Wild capuchins show male-biased feeding tool use.
+International Journal of Primatology , 31,4 5 7e470.
+Nakai, E. S. 2007. Fissão-fusão em Cebus nigritus: ﬂexibilidade social como estra-
+tégia de ocupação em ambientes limitantes. Dissertação (Mestrado), Instituto
+de Psicologia, Universidade de São Paulo.
+Oliveira, P. S. & Marquis, R. J. 2002. The Cerrados of Brazil. Ecology and Natural
+History of a Neotropical Savanna . New York: Columbia University Press.
+Ottoni, E. B. & Izar, P. 2008. Capuchin monkey tool use: overview and implication.
+Evolutionary Anthropology, 17,1 7 1e178.
+Otton
+i, E. B. & Mannu, M. 2001. Semifree-ranging tufted capuchins ( Cebus apella)
+spontaneously use tools to crack open nuts. International Journal of Primatology ,
+22,3 4 7e358.
+Peres, C. A. 1994. Primate responses to phenological changes in an Amazonian terra
+ﬁrme forest. Biotropica, 26,9 8 e112 .
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e1294 1293
+
+PDF PAGE 10
+Ramos da Silva, E. D. 2008. Escolha de alvos coespeci ﬁcos na observação do uso de
+ferramenta por macaco-prego ( Cebus libidinosus ) selvagens. Tese de Mestrado
+em Psicologia Experimental, Universidade de São Paulo.
+Robinson, J. G. 1986. Seasonal variation in use of time and space by wedge-capped
+capuchin monkey, Cebus olivaceus : implications for foraging theory. Smithso-
+nian Contributions to Zoology , 431,1 e60.
+van Schaik, C. P. & Knott, C. D. 2001. Geographic variation in tool use on Neesia
+fruits in orangutans. American Journal of Physical Anthropology , 114,3 3 1e342.
+van Schaik, C. P., Ancrenaz, M., Borgen, G., Galdikas, B., Knott, C. D., Singleton, I.,
+Suzuki, A., Utami, S. S. & Merrill, M. 2003a. Orangutan cultures and the
+evolution of material culture. Science, 299,1 0 2e105.
+van Schaik, C. P., Fox, E. A. & Fechtman, L. T. 2003b. Individual variation in the rate
+of use of tree-hole tools among wild orangutans: implications for hominin
+evolution. Journal of Human Evolution , 44,1 1e23.
+Seed, A. & Byrne, R. 2010. Animal tool-use. Current Biology, 20, 1032e1039.
+Schumaker, R. W., Walkup, K. R. & Beck, B. 201 1.Animal Tool Behavior. The Use and
+Manufacture of Tools by Animals . Baltimore: The Johns Hopkins University Press.
+Sokal, R. R. & Rohlf, F. J. 1995. Biometry. New York: W. H. Freeman.
+Spagnoletti, N. 2009. Uso di strumenti in una popolazione di Cebus libidinosus allo
+stato selvatico in Piauí, Brasile. Ph.D. thesis, Dipartimento di Biologia Animale e
+dell’Uomo, Università La Sapienza di Roma.
+Spagnoletti, N., Visalberghi, E., Ottoni, E. B., Izar, P. & Fragaszy, D. M. 201 1. Stone
+tool use by adult wild bearded capuchin monkeys ( Cebus libidinosus ).
+Frequency, ef ﬁciency and tool selectivity. Journal of Human Evolution , 61,
+97e107.
+Tebbich, S., Taborsky, M., Fessl, B. & Dvorak, M. 2002. The ecology of tool-use in
+the woodpecker ﬁnch ( Cactospiza pallida ). Ecology Letters , 5, 656 e664.
+T
+erborgh, J. 1983. Five New World Monkeys . Princeton, New Jersey: Princeton
+University Press.
+Verderane, M. P. 2010. Socioecologia de macacos-prego ( Cebus libidinosus) em área
+de ecótono cerrado/caatinga. Ph.D. thesis, University of São Paulo.
+Visalberghi, E. & Fragaszy, D. 2012. What is challenging about tool use?
+The capuchins ’ perspective. In: The Oxford Handbook of Comparative Cognition
+(Ed. by T. R. Zentall & E. A. Wasserman), pp. 777 e799. Oxford: Oxford University
+Press.
+Visalberghi, E. & Sirianni, G. In press. How wild bearded capuchin monkeys deal
+with the toxic compounds of Anacardium occidentalis . Folia Primatologica .
+Visalberghi, E., Fragaszy, D., Ottoni, E., Izar, P., de Oliveira, M. G. &
+Andrade, F. R. D. 2007. Characteristics of hammer stones and anvils used by
+wild bearded capuchin monkeys ( Cebus libidinosus ) to crack open palm nuts.
+American Journal of Physical Anthropology , 132, 426 e444.
+Visalberghi, E., Sabbatini, G., Spagnoletti, N., Andrade, F. R. D., Ottoni, E., Izar, P.
+& Fragaszy, D. 2008. Physical properties of palm fruits processed with tools by
+wild bearded capuchins ( Cebus libidinosus). American Journal of Primatology , 70,
+884e891.
+Visalberghi, E., Spagnoletti, N., Ramos da Silva, E. D., de Andrade, F. R., Ottoni, E.,
+I z a r ,P .&F r a g a s z y ,D .2009a. Distribution of potential suitable hammers and
+transport of hammer tools and nuts by wild capuchin monkeys.Primates, 50,9 5e104.
+Visalberghi, E., Addessi, E., Spagnoletti, N., Truppa, V., Ottoni, E., Izar, P. &
+Fragaszy, D. 2009b. Selection of effective stone tools by wild capuchin
+monkeys. Current Biology, 19,2 1 3e217.
+Waga, I. C., Dacier, A. K., Pinga, P. S. & Tavares, M. C. H. 2006. Spontaneous tool use
+by wild capuchin monkeys ( Cebus libidinosus ) in the cerrado. Folia Primatolog-
+ica, 77,3 3 7e344.
+Whiten, A., Goodall, J., McGrew, W. C., Nishida, T., Reynolds, V., Sugiyama, Y.,
+Tutin, C. E. G., Wrangham, R. W. & Boesch, C. 1999. Cultures in chimpanzees.
+Nature, 399, 682 e685.
+Yamakoshi, G. 1998. Dietary responses to fruit scarcity of wild chimpanzees at
+Bossou, Guinea: possible implications for ecological importance of tool use.
+American Journal of Physical Anthropology , 106, 283 e295.
+Y
+amakoshi, G. 2001. Ecology of tool use in wild chimpanzees: toward recon-
+struction of early hominid evolution. In: Primate Origins Of Human Cognition
+And Behavior (Ed. by T. Matsuzawa), pp. 537 e556. Tokyo: Springer.
+Zhang, S. Y. 1995. Activity and ranging patterns in relation to fruit utilization by
+brown capuchins ( Cebus apella) in French Guiana. International Journal of
+Primatology, 16, 489 e507.
+N. Spagnoletti et al. / Animal Behaviour 83 (2012) 1285 e12941294

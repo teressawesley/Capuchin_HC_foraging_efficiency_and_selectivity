@@ -1,0 +1,596 @@
+PDF PAGE 1
+Wild Capuchins Show Male-Biased Feeding
+Tool Use
+Antonio C. de A. Moura & Phyllis C. Lee
+Received: 13 July 2009 / Accepted: 16 October 2009 /
+Published online: 8 May 2010
+# Springer Science+Business Media, LLC 2010
+Abstract Relatively few studies have explored sex differences in the use of foraging
+tools among primates other than apes. Although male primates are thought to be
+more innovative, researchers have reported a female sex bias in the use of feeding
+tools in wild chimpanzees. We investigate here the nature and extent of sex
+differences in foraging tool use over 12 mo in a free-ranging group of bearded
+capuchins (2 males, 5 females, and 3 juveniles) living in the dry Caatinga forests of
+the Serra da Capivara National Park, Piaui, Brazil. These capuchins used 3 major
+types of feeding tools: 1) tools for probing; 2) tools for pounding/cracking; and 3)
+digging stones to extract tubers or roots. Adult males performed 63% ( n=134) of all
+events of tool use and used tools significantly more frequently than did females,
+although male bout lengths across all tools (57 s±7.9 SE) were equivalent to those of
+adult females (47.3 s±12.6 SE). Both sexes used digging and cracking tools,
+although at different rates, whereas adult males used sticks to probe for prey and
+other rewards far more than females. Differential opportunities to use tools were not
+apparent: >71% of tool-use events occurred on the ground, and males and females
+spent equal time on the ground. We suggest that sex differences in tool use may
+function as opportunities for male signaling of investment quality.
+Keywords Cebus . sex differences . sexual selection . tool use
+Int J Primatol (2010) 31:457 –470
+DOI 10.1007/s10764-010-9406-6
+A. C. de A. Moura
+Centro de Ciencias Aplicadas e Educacao, Departamento de Engenharia e Meio Ambiente,
+Universidade Fedaral da Paraba, Rua da Mangueira, s/n, Centra, Rio Tinto, PB. CEP 58297-000, Brazil
+e-mail: moura_a@yahoo.com
+P . C. Lee (*)
+Department of Psychology, Behaviour and Evolution Research Group, University of Stirling,
+Stirling FK9 4LA, Scotland
+e-mail: phyllis.lee@stir.ac.uk
+
+PDF PAGE 2
+Introduction
+Among wild nonhuman primates, sex differences in the use of tools to obtain food
+have been detailed for chimpanzees (Boesch and Boesch 1984; Lonsdorf et al. 2004;
+McGrew 1992). Explanations for these sex-specific use of tools are tentative but
+numerous. One suggestion highlights energetic constraints on females (McGrew
+1992); because females incur additional energy costs during pregnancy, lactation,
+and rearing young, their more frequent use of tools is a strategy to enhance foraging
+efficiency and to allow access to otherwise inaccessible, embedded resources. As an
+alternative premise, male primates have a propensity to be more innovative than are
+females (Reader and Laland 2001) and potentially more so in a tool-use context,
+because males can afford to sustain the energetic costs associated with failure to
+extract resources. Other explanations for sex differences in tool use emphasize the
+proximate social context. Male chimpanzees can be distracted from tool use to
+follow or monitor other males (Boesch and Boesch 1984; Lonsdorf et al. 2004);
+hence, their tool-use frequency and proficiency tends to be lower than that of
+females. An additional social hypothesis suggests that males make and use tools as a
+form of sexually selected display (Kohn and Mithen 1999).
+Researchers have observed male predominance in tool-using behavior in Cebus
+apella in captivity (Visalberghi 1987), naturalistic captive settings (Jalles-Filho
+1995; Jalles-Filho et al. 2001), semifree- ranging groups (Ottoni and Mannu 2001),
+and recently in 2 wild groups in Boa Vista (Visalberghi pers. comm. 2008), although
+Westergaard et al .( 1998) found no sex differences in tool use over the long-term.
+Mannu and Ottoni ( 2009) found a higher rate of overall tool use in Cebus libidinosus
+(0.97 events/h compared with 0.43/h in earlier study; Moura and Lee 2004) and
+noted the existence of sex differences in tool use, but did not provide a sex-specific
+breakdown by context.
+For either sex, the use of foraging tools reduces the time costs of processing large
+or embedded foods and thus increases the return rate from foraging activities
+(Yamakoshi 1998). The energetic benefits of using tools thus should be high in areas
+with either limited time for foraging or limited food abundance, as is the case for the
+Brazilian Caatinga dry forest (Moura 2003, 2007a; Moura and Lee 2004; Moura
+Ottoni and Izar 2008). During a 6-mo dry season, most trees are leafless, whereas the
+proportion of trees bearing fruit was 4-fold greater during the wet season (Moura
+2004). High seasonality and low fruit and leaf availability are associated with small
+group sizes and low densities of marmosets and howlers in this area (Moura 2004),
+but the complex foraging strategies, including tool use, of capuchins made them
+relatively less affected by these ecological constraints (Moura 2007a; Moura and Lee
+2004). In such a harsh habitat, sex differences in foraging tool use could be predicted
+with females expected to use tools more frequently to meet the additional energy
+costs of reproduction. Here, we explore an alternative hypothesis that males will
+innovate and thus use tools more in a social or signaling context. The predominance
+of male tool use in captivity has been explained in terms of exclusion of others by
+the dominant male that was able to monopolize the tool apparatus (Jalles-Filho
+1995), while Boinski ( 2004) speculated on males using objects as displays. Given
+the relative rarity of detailed investigations of individual tool use in free-ranging
+non-ape species, and the high levels of tool use in this and adjacent Caatinga
+458 A.C. de A. Moura, P .C. Lee
+
+PDF PAGE 3
+populations, we present data on the extent and context of sex differences in tool use
+among wild bearded capuchins ( Cebus libidinosus ).
+Methods
+Study Site
+We conducted the study in the Serra da Capivara National Park (8°26 ′–8°54′S and
+42° 19 ′–42°45 W), which covers an area of 129,953 ha. Emperaire ( 1984), in a
+detailed analysis of the geomorphology and associated vegetation, recognized up to
+8 different types of habitat within the Park, each with characteristic vegetation types
+(Moura and McConkey 2007).
+Mean annual rainfall over 7 yr was 781±177 mm (Moura 2007a). Total and
+monthly amount of rainfall varied considerably from year to year, and the
+coefficient of variation ranged from 98.2% to 154.8%. V egetation studies
+suggested that dry months were those with ≤60 mm of rainfall (Clinebell et al .
+1995;T r e j oa n dD i r z o2002). During the dry season, >70% of trees were leafless,
+and fruit availability was only 25% of that in the wet season (Moura 2004). We
+defined the dry season as the 6-mo period from when the trees start to lose their
+leaves (May) until they begin to leaf again in October; rainfall throughout this
+period was considerably <50 mm/mo (Moura 2004).
+Focal Group
+In October 2000, Moura commenced habituation of and data collection on 1 group
+of Cebus libidinosus . Initially, the group was composed of 1 adult male, 3 adult
+females, and a juvenile male. Only the original adult male was wild; the others were
+reintroduced from individuals confiscated by Park authorities from nearby villages.
+On December 24, 2000, a wild group appeared in the area and engaged in agonistic
+interactions with the habituated group. The original male disappeared, but the
+remaining reintroduced individuals (Table I) merged successfully with the wild
+group (2 adult males, 2 adult females, 1 juvenile male, and 1 juvenile female),
+forming a stable group of 10 individuals (Oitenta group). Moura observed this group
+systematically until January 2002 with additional observations in February and
+March 2002. The data presented here cover the period of January –December 2001.
+In November 2001, 1 adult male left the group and in December, 2 captive females
+died (Table I). The group was provisioned once a month during the dry seasons,
+when the observer was away, with maize (about 50 –70 corns) and dry manioc tubers
+(ca. 10 kg) placed in a restricted area. We made all observations outside of the
+provisioning area.
+Sampling
+Moura followed the group from dawn to dusk (although occasionally it could only
+be located for the first time several hours after sunrise) for an average of 5.7 d/mo
+(range 3 –7 d/mo, mode 7 d). Behavior of individuals in the group was observed
+Sex Differences in Capuchin Tool Use 459
+
+PDF PAGE 4
+using slow scan sampling at each half-hour, as detailed by Robinson ( 1986)a n d
+Miller ( 1996), who also observed capuchins living in dry habitats. Slow sampling
+is an alternative to an instantaneous scan, and allows for the location of all
+individuals over the scanning period. In January, it was extremely hard to locate
+and follow the group, because they were still not well habituated, but from
+February onward the number of individuals scanned increased and the time spent
+locating individuals reduced. It took an average (±SD) of 16.56±7.2 min to
+locate individuals (median 15.5 min). The average (±SD) number of individuals
+in scans was 7.3±1.43 out of the 10 present, including juveniles. When an
+individual was located, we recorded only the first observed behavior that lasted
+for ≥5 s in the scan. In addition to scans, we conducted both continuous records
+of rare behaviors and 60-s interval focal animal sampling during 10-min
+sessions. We performed focal samples only on adult individuals and recorded
+interactions, proximity, nearest-neighbor identify, and location. We recorded tool
+use during focal samples, scans, and as all occurrences during continuous
+sampling.
+We analyze only the use of tools associated directly with obtaining food or that
+subjects used to facilitate an activity subsequently related to obtaining food. These
+capuchins also used tools in a variety of contexts such as aggressive displays (hitting
+a rock surface with a stone) and in play (Mannu and Ottoni 2009; Moura 2007b). We
+use the term events for all observations of tool use, including those wherein we
+recorded no duration, and bouts when the activity was prolonged and we could
+record the durations. Capuchins used tools for obtaining food in 3 contexts: 1)
+probing— branches or twigs used to probe tree holes and rock crevices for obtaining
+items such as honey, arthropods, or lizards (16% of tool-use events; n=134); 2)
+cracking/pounding— use of stones to crack open diverse materials (seeds, dry
+branches, etc.; 19% of events); 3) digging — the use of a stone for digging up tubers/
+roots (65% of events; see Moura and Lee 2004). When using a stone to dig, an
+Table I Details of group composition between January and December 2001
+Individual Age/sex Source and observations
+Peta Adult female Captive; gave birth to infant on 21/03/01, suspected infanticide
+in the same week. Female disappeared/died in December 2001
+Desc. Adult female Captive; dead December 2001
+Clarinha Adult female Captive; gave birth to infant in 26/11/01, infanticide by the alpha
+male at birth
+Wfemale Adult female Wild; gave birth to infant in November 2001
+Cara-Branca Adult female Wild; gave birth to infant in November 2001
+Boludo Adult male Wild; alpha male
+Adt Adult male Wild; joined another group November 2001
+Charlotte Juvenile female Wild
+Juv. Juvenile male Captive
+Juv.II Juvenile male Wild
+Captive individuals were those that had been reintroduced into the area, and that subsequently fused with
+individuals from a wild group
+460 A.C. de A. Moura, P .C. Lee
+
+PDF PAGE 5
+individual typically held it with one hand and hit the ground quickly 3 –6 times
+(lasting about 3 –7 s), while simultaneously scooping away the soil with the other
+hand, then releasing the stone and digging with both hands. Another common
+pattern was to hit the ground quickly with a stone held in one or both hands,
+then to release the stone and dig using both hands. These activities seemed to
+loosen the soil and facilitate the diggi ng activity. We considered a digging bout
+to be the total period of continuous soil scraping at a specific site, regardless of
+the number of times the capuchins picked up, used, and released the stone at that
+same site. The bout of tool digging ended only when the individual found a
+tuber/root or discarded the tool and moved away. If the capuchin stopped
+digging, chose another stone, and then resumed digging, this was considered as a
+new bout of digging. For probing and cracking, the tool-use bout was defined as
+the total duration of tool manipulation in each clearly defined activity, e.g., a
+bout of seed cracking ended only when the individual obtained the food resource
+or moved away. Moura weighed stones used by the capuchins and measured the
+holes created by tool-digging activities.
+During tool use, we recorded the identity of the performer, its location, and
+information about tool type, food, or context of tool use. In the analyses, we
+combined the data from the scan and focal samples with all occurrences of tool
+use derived from the total observation time spent with the capuchins. We
+scanned all adult individuals equally and they were therefore visible during the
+continuous observations. We scanned individual females (mean per adult female =
+468.4±SE 23.3; n=5) as often as males (mean per adult male = 454±SE 124,
+n=2; χ
+2=1.46; df=1; NS) and observed adult females in focal samples as often as
+males (mean per female = 274.8±SE 21.8 vs. 296±SE 57 per male). Owing to
+the conspicuousness of digging both by sight and sound, we missed only few
+such events. We could have missed probing and cracking between successive
+30-min scans; however, as we continuously monitored all adults to conduct focal
+samples and to ensure they were ready for subsequent scans, it is unlikely we
+disproportionately or differentially mi ssed these rarer tool-use types between
+individuals.
+We calculated individual hourly rates of tool use, based on the total observation
+time with the group in each month. In analyses of nearest neighbor identity and
+proximity, we used data from scan sampling. For some analyses, we pooled the
+data derived from different individuals into total sex-specific observations.
+Pooling data is problematic because it can be biased by individuals who are
+more active or disproportionately represented over the mean (Martin and
+Bateson 1986). However, Leger and Didrichsons ( 1994) found that pooling can
+provide reliable estimates across a population. We tested for normality, and
+used parametric tests where data were nor mally distributed. We have presented
+means in figures for large sample sizes, even if skewed, so as to indicate
+midpoints.
+We set p=0.05 and all statistical tests are 2-tailed. Statistical power of our
+analyses was calculated from G*Power 3.0.10 (Faul et al . 2007)a s0 . 0 8f o r
+comparisons between 2 male and 5 female individuals and 0.99 for comparisons
+between sexes in tool use based on the sample size of total intrasex observations of
+events.
+Sex Differences in Capuchin Tool Use 461
+
+PDF PAGE 6
+Results
+We observed a total of 134 events of feeding tool use in Oitenta group during 312.3
+contact h, with 21 during focal and 30 during scan sampling. The remaining
+observations derived from all-occurrences sampling ( n=83). Males used tools more
+frequently than did females on an individual by individual basis (Fig. 1). There was
+considerable variability in the frequency of use of different types of tools among
+individuals (Table II), but adult males were responsible for the majority of tool use
+(Figs. 1 and 2), performing >63% of all tool use observed ( n=134). The second
+ranking male (Adt) used tools half as often as did the alpha male did (Boludo;
+Table II).
+Males exhibited significantly higher rates of tool use overall than did the other
+age-sex classes both in the dry (Kruskal Wallis, H=13.31, df=2, p=0.001) and wet
+seasons ( H=24.13, df=2, p<0.001; Fig. 2). Probing was performed almost
+exclusively by adult males; the only female to exhibit this behavior was Peta (a
+reintroduced female), who once used a twig as a probe very briefly (for ca. 15 s) and
+she used both hands. Adult males typically manipulated the probe with 1 hand and
+for longer durations. When the alpha male engaged in foraging activities, adult
+females and juveniles were in closer proximity to him than to the subordinate male
+(H=26.67, df=1, p<0.001), especially during tool use ( H=6.91, df=1, p=0.009;
+Fig. 3). In 24% of events of tool use by adult males that resulted in obtaining food
+resource ( n=25), juveniles and adult females scrounged some food remains.
+Use of Ground and Tool Use
+The capuchins spent a mean of 22.5% of their daily observation time on the
+ground across all activities. During the d ry season, they spent significantly more
+time on the ground than in the wet (Wilcoxon T=1, n=10, p<0.01). More than
+0
+5
+10
+15
+20
+25
+30
+35
+40
+Peta Desc. Clarinha W female Cara-
+branca
+Boludo Adt Charlotte Juv. Juv. II
+Tool use (count)
+Focal
+Scan
+All occurrences
+Fig. 1 Distribution of observations of tool use across all individuals during scans, focal samples, and all
+occurrences sampling. Age and sex of individuals detailed in Table I.
+462 A.C. de A. Moura, P .C. Lee
+
+PDF PAGE 7
+71% of tool use occurred on the ground. Overall, females spent more time on the
+ground (K-W, H=7.9, df=2, p=0.02; Fig. 4), although this difference was
+significant only with respect to juveniles (Mann Whitney U=150, Bonferroni
+correction for post hoc test, p=0.016).
+Time Spent in Tool Use and Rewards
+In 60.4% of tool-use events ( n=134), we could record the total time that the subjects
+spent in the activity (bout duration). Capuchins could spend ≤5 min (range 3 –300 s)
+using a tool. For the 81 events where we recorded duration, average duration was
+55.5 s (± SE 6.8). Digging had an average duration of 59.5 s (± SE 8.3). Probing in
+trunk holes or crevices in rock surface lasted an average of 60.9 s (± SE 18.4), while
+cracking was usually a brief event, lasting an average of 25 s (± SE 8.4). Mean
+duration of tool use tended to be somewhat longer during the wet (mean=64.5 s±SE
+9.3; n=48) than in the dry season (mean = 42.4 s±SE 9.6; n=33), but this difference
+Table II Total frequency of different tool use observed in the individuals
+Individual Age/sex Source Digging Cracking Probing Total
+Peta A/f R 1 1
+Desc. A/f R 0
+Clarinha A/f R 4 4
+W female A/f W 7 3 10
+Cara-Branca A/f W 10 4 14
+Boludo A/m W 31 10 11 52
+Adt A/m W 19 5 9 33
+Charlotte J/f W 3 3
+Juv. J/m R 6 1 7
+Juv. II J/m W 5 3 8
+Unknown J/? ? 2 2
+R = reintroduced, W = Wild, A = Adult, f = female, J = juvenile, m = male
+0
+0.04
+0.08
+0.12
+0.16
+0.2
+0.24
+Adult males Adult females Juveniles
+Tool use / hr
+Dry
+Wet
+Fig. 2 Individual average tool use rate (+SE) by age-sex class in each season.
+Sex Differences in Capuchin Tool Use 463
+
+PDF PAGE 8
+Fig. 3 Mean distance in meters to nearest neighbor when foraging ( triangles, n=909) and during tool use
+(circles, n=30).
+Fig. 4 Mean percent of time (+SE) spent on the ground by the different age-sex classes in the wet and dry
+seasons.
+464 A.C. de A. Moura, P .C. Lee
+
+PDF PAGE 9
+was not significant ( t=1.6, df=79, p=0.11). There were no sex differences in the
+mean duration of tool use.
+For 82 events of tool use, we could assess whether or not the capuchins were
+potentially able to obtain a reward, i.e., succeeding or failing to extract a food item
+or observed to eat something, along with the type of reward (tuber, root, insects, or
+other food item). For 27% of the 134 tool-use events, it was not possible to assess
+whether any reward was associated with the tool-use activity and in the remaining 16
+cases, the capuchins used a tool to pulverize cassava tubers.
+For events of tool use wherein we could clearly assess the possibility of obtaining
+a reward, the actual proportion of obtaining a reward was low (36.6%, n=82). For
+digging ( n=49), the success of tool use was slighter higher; capuchins terminated
+their activity by obtaining a tuber or root in 40.8% of cases. There were no
+significant sex differences in rates of obtaining a reward (males 38.8%, n=67;
+females 26.6%, n=15; χ
+2 =2.18, df=2, p>>0.05; Table III). Of the 3 different types
+of tool use, probing had the highest proportion of failure to obtain a reward (Fig. 5,
+Table III).
+Seasonal and Sex Differences in Time Spent Digging
+Digging was exhibited by the majority of adult capuchins (Table II) and was observed
+throughout the study, allowing for fine-grained comparisons between the time spent in
+this activity and its rewards. Although females engaged in digging, they did so less
+frequently than males (average of 6 events per female, compared with 25 events per
+male; expected = 11.1 per individual; Table II). We recorded duration for 55 digging
+events (dry season n=18; wet season n=37, mean overall =59.5 s±SE 8.3). During the
+wet season, digging lasted an average of 67.1 s (± SE 11.7) and in the dry season,
+43.7 s (±SE 7.17), but this difference was not significantly different ( t=1.7, df=52.4,
+p=0.09). In the wet season, males and females did not differ in the duration of digging
+Table III Frequency of obtaining rewards from tool use by age and sex
+Tool behaviour Sex class No Y es Total
+Digging Adult males 17 17 34
+Adult females 8 2 10
+Juvenile males 4 1 5
+Juvenile female 0 0 0
+Probing Adult males 12 5 17
+Adult females 1 0 1
+Juvenile males 0 0 0
+Juvenile female 0 0 0
+Cracking Adult males 6 3 9
+Adult females 2 2 4
+Juvenile males 2 0 2
+Juvenile female 0 0 0
+Sex Differences in Capuchin Tool Use 465
+
+PDF PAGE 10
+bouts; in the dry season, females tended to spend longer digging than did males, but
+again, the difference was not significant (Fig. 6).
+Both duration and reward were recorded for 42 digging events (dry season n=12;
+wet season n=30). When the consequence of the activity was a reward (a tuber or
+root), the capuchins tended to spend more time digging (mean = 77.1±SE 18.7, n=
+16) than if they did not gain a reward (mean = 51.6 s±SE 11.1, n=26), but this
+difference was not significant ( t=–1.246, df=40, p=0.22). However, during the dry
+season capuchins invested significantly more time in digging when they obtained a
+reward ( t=–2.59, df=10, p=0.027).
+The capuchins usually made shallow holes when digging, with a depth ranging
+from 3 to 8 cm ( x=4.7 cm, n=5) and an average length of 24 cm±SE 3.1 and average
+width of 11 cm±SE 1.9. There were a number of old holes scattered in the area ca.12–
+15 cm deep, suggesting consistent and frequent digging. The average (± SD) weight of
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Dig Probe Crack
+a Males
+Not applicable
+Unknown
+Not recorded
+Yes
+No
+0
+0.1
+0.2
+0.3
+0.4
+0.5
+0.6
+0.7
+0.8
+0.9
+1
+Di
+g Probe Crack
+b Females
+Not applicable
+Unknown
+Not recorded
+Yes
+No
+Fig. 5 Rewards from the different kinds of tool used for obtain food by sex. The category “not
+applicable” refers to cassava tubers (always YES — no effort) and “unknown” when the observer was
+unable to determine if an individual obtained food or not through tool use.
+466 A.C. de A. Moura, P .C. Lee
+
+PDF PAGE 11
+a stone tool was 165.1 g±183.1 ( n=14), and the weight of stones used by females was
+significantly lighter than those used by males ( t=2. 28, n=14 , p=0. 04).
+Discussion
+Adult male capuchins used tools significantly more frequently than did females, and
+probing was almost exclusively done by adult males. This difference might simply
+be due to chance, given our small sample size and presence of reintroduced females.
+However, because researchers have observed sex differences in tool use in Cebus
+apella and C. xanthosternos in naturalistic settings (Jalles-Filho and Cunha 2008;
+Ottoni and Mannu 2001) and suggested for wild groups in similar habitats
+(Visalberghi pers. comm . 2008), this may be a generalized pattern for tool-using
+tufted capuchin monkeys.
+Digging was the most common form of tool use by both sexes, and there was
+widespread evidence of its regular use in the form of holes scattered throughout the
+capuchins’ range. Thus, most tool use at this site occurred on the ground. Fragaszy
+(1990) suggested that females might be more vulnerable on the ground, and hence
+predation risk could explain sex differences in tool use. However, here males and
+females spent equal amount of time on the ground. Males overall engaged in more
+frequent and longer use of heavier digging tools. Although males may simply have
+been inept at selecting an appropriate tool and therefore need to invest greater effort
+to obtain rewards, this seems unlikel y; wild capuchins consistently use the
+appropriate tool for the job (Visalberghi et al. 2009). Indeed, when using digging
+tools, a male was observed changing tools only twice (Moura 2004).
+Season
+WetDry
+Duration in seconds
+200
+150
+100
+50
+0
+136
+female
+male
+Fig. 6 Median, interquartile range and extremes of the duration of digging bouts in wet and dry seasons.
+Sex Differences in Capuchin Tool Use 467
+
+PDF PAGE 12
+The main reward from digging was the extraction of underground tubers, chiefly
+Thiloa glaucocarpa (Moura and Lee 2004). Although the nutritional value of Thiloa
+tubers is unknown, tubers generally have a high energy value in the form of
+carbohydrates (Laden and Wrangham 2005). Thus, the payoff for the time and
+energy invested in tuber extraction could be considerable, potentially representing a
+key resource (O ’ Connell et al. 1999).
+Liu et al. (2009), in a detailed analysis of tool-use kinematics in wild capuchins,
+reported that the weight of stones used to crack nuts represented ≤77% of capuchin
+body mass, whereas in our area, the average weight of a stone tool represented only
+ca. 8% of a capuchin female ’ s body mass. The use of large stones is demanding in
+terms of energy expenditure, and rewards, like those for female chimpanzee nut-
+cracking, are high and reliable only once individuals are skilled (Boesch and Boesch
+1984). However, the repeated, sustained use of lighter tools would still have energy
+costs, and the probability of failure to obtain a food reward via this energetic
+investment was relatively high for both sexes. A low energy return rate might thus
+limit investment in costly tool use by females (Gunther and Boesch 1993; Tebbich et
+al. 2002). Return rates from obtaining tubers could be high enough to compensate
+for energy and opportunity costs (O ’ Connell et al. 1999), and these may have been a
+driver for generalized tool use by both sexes of capuchins in these dry habitats
+(Moura and Lee 2004; Ottoni and Izar 2008). The question remains as to why males,
+and especially the alpha, engaged in more tool use than other group members.
+One explanation for the observed sex differences is that tool use acts as a
+form of male provisioning and paternal investment (Janson 1984). Females can
+scavenge from the effort of the males, eating food remains and saving the energy
+that they would expend if they used the tools themselves. In addition, the male
+bears the opportunity costs of failure. In our study group, the females and juveniles
+were in close proximity to males, and especially so when the alpha male was using
+tools. These onlookers scrounged food remains in 24% of males ’ successful tool-
+use activities. Similar proportions of sc rounging (35%) from male nut-cracking
+activities have been observed elsewhere (Ottoni et al . 2005). Males are relatively
+bigger and stronger than females and able to obtain resources unavailable to
+females and immatures (Robinson 1986). Greater tool use by males thus could be
+the result of sexual selection for general male inventiveness (Reader and Laland
+2001) or as a display of male quality (Kohn and Mithen 1999)i nt h ec o n t e x to f
+signaling paternal investment ability. T he propensity for more tool use by the alpha
+male is suggestive support for social signaling of quality (Boinski 2004).
+Additional support for this hypothesis c ould be provided if tool-using groups with
+a larger number of males again found a predominant role of the alpha male in that
+tool use, associated with close proximity a n df o o ds h a r i n gb e t w e e nt h ea l p h am a l e
+and females and offspring.
+Acknowledgments We thank Niede Guidon for logistical support that made this work possible, the
+Brazilian Research Council (CNPq) for the PhD scholarship (A. C. de A. Moura) and FAPESB-Bahia for a
+post-doc fellowship grant and a partial travel grant to A. C. de A. Moura to attend the 2008 IPS and
+present this paper. A. C. de A. Moura thanks Stephen Shapiro, who waived his registration fees during the
+IPS 2008 meeting. This research conformed to the ethical and legal requirements of the Government of
+Brazil, and ASAB guidelines for working with animals. We thank several reviewers for their many
+comments on earlier drafts.
+468 A.C. de A. Moura, P .C. Lee
+
+PDF PAGE 13
+References
+Boesch, C., & Boesch, H. (1984). Possible causes of sex differences in the use of natural hammers by wild
+chimpanzees. Journal of Human Evolution, 13 , 415 –440.
+Boinski, S. (2004). The beats of different drummers: percussion as sexual signaling among brown
+capuchins at Raleighvallen, Suriname. Folia Primatologica, 75 , 238.
+Clinebell, R. R., Phillips, O. L., Gentry, A. H., Stark, N., & Zuuring, H. (1995). Prediction of neotropical
+tree and liana species richness from soil and climatic data. Biodiversity Conservervation, 4 ,5 6 –90.
+Emperaire, L. (1984). A regiao da Serra da Capivara (sudeste do Piaui) e sua V egetacao. Brasil Florestal,
+60,4 –21.
+Faul, F., Erdfelder, E., Lang, A.-G., & Buchner, A. (2007). G*Power 3: A flexible statistical power
+analysis program for the social, behavioral, and biomedical sciences. Behavior Research Methods, 39 ,
+175–191.
+Fragaszy, D. M. (1990). Sex and age differences in the organization of behavior in wedge-capped
+capuchins, Cebus olivaceus . Behavioural Ecology, 1 ,8 1 –94.
+Gunther, M. M., & Boesch, C. (1993). Energetic cost of nut-cracking behaviour in wild chimpanzees. In
+H. Preuschoft, D. J. Chivers (Eds.), Hands of Primates (pp. 109–129). Vienna: Springer-V erlag.
+Jalles-Filho, E. (1995). Manipulative propensity and tool use in capuchin monkeys. Current Anthropology,
+36, 664 –667.
+Jalles-Filho, E., & Cunha, R. G. T. (2008). Manipulation and tool use in captive yellow-breasted capuchin
+monkeys ( Cebus xanthosternos ). International Journal of Comparative Psychology, 21 ,1 2 –18.
+Jalles-Filho, E., Cunha, R. G. T., & Salm, R. A. (2001). Transport of tools and mental representation: is
+capuchin monkey tool behavior a useful model of Plio-Pleistocene hominid technology? Journal of
+Human Evolution, 40 , 365 –377.
+Janson, C. H. (1984). Female choice and mating system of the brown capuchin monkey Cebus apella
+(Primates: Cebidae). Zeitschrift furTierpsychologi, 65 , 177 –200.
+Kohn, M., & Mithen, S. (1999). Handaxes: Products of sexual selection? Antiquity, 73, 518 –526.
+Kuhn, S. L., & Stiner, M. C. (2006). What ’ s a mother to do? Current Anthropology, 47 , 953 –976.
+Laden, G., & Wrangham, R. (2005). The rise of the hominids as an adaptive shift in fallback foods: Plant
+underground storage organs (USOs) and australopith origins. Journal of Human Evolution, 49 , 482 –
+498.
+Leger, D. W., & Didrichsons, A. I. (1994). An assessment of data pooling and some alternatives. Animal
+Behaviour , 48, 823 –832.
+Liu, Q., Simpson, K., Izar, P ., Ottoni, E., Visalberghi, E., & Fragaszy, D. (2009). Kinematics and energetic
+of nut-cracking in wild capuchin monkeys ( Cebus libidinosus ) in Piaui, Brazil. American Journal of
+Physical Anthropology, 138 , 210 –220.
+Lonsdorf, E. V ., Eberly, L. E., & Pusey, A. E. (2004). Sex differences in learning in chimpanzees. Nature,
+428, 715.
+Mannu, M., & Ottoni, E. (2009). The enhanced tool-kit of two groups of wild bearded capuchin monkeys
+in the Caatinga: Tool making, associative use, and secondary tools. American Journal of Primatology,
+70,1 –10.
+Martin, P . S., & Bateson, P . P . G. (1986). Measuring behaviour. Cambridge: Cambridge University Press.
+McGrew, W. C. (1992). Chimpanzee material culture . Cambridge: Cambridge University Press.
+Miller, L. E. (1996). The behavioral ecology of wedge-capped capuchin monkeys ( Cebus olivaceus ). In
+M. A. Norconk, P . A. Garder, A. F. Rosenberger (Eds.), Adaptive radiations of Neotropical Primates
+(pp. 271 –288). New York: Plenum Press.
+Moura, A. C. de. A. (2003). Ecological pressure driving tool use in capuchin monkeys. Folia
+Primatologica, 74 , 209.
+Moura, A. C. de. A. (2004). The capuchin monkey and the Caatinga dry forest: A hard life in a harsh
+habitat. PhD Thesis, University of Cambridge.
+Moura, A. C. de. A. (2007a). Primate group size and abundance in the Caatinga dry forest, Northeastern
+Brazil. International Journal of Primatology, 28 , 1279 –1297.
+Moura, A. C. de. A. (2007b). Stone banging by wild capuchin monkeys: A unusual auditory display. Folia
+Primatologica, 78 ,3 6 –45.
+Moura, A. C. de. A., & Lee, P . C. (2004). Capuchin stone tool use in Caatinga dry forest. Science, 306 ,
+1909.
+Moura, A. C. de. A., & McConkey, K. R. (2007). The capuchin, the howler and the Caatinga forest: Seed
+dispersal by monkeys in a threatened Brazilian biome.American Journal of Primatolology, 69, 220–226.
+Sex Differences in Capuchin Tool Use 469
+
+PDF PAGE 14
+O’ Connell, J. F., Hawkes, K., & Blurton-Jones, N. G. (1999). Grandmothering and the evolution of Homo
+erectus. Journal of Human Evolution, 36 , 461 –485.
+Ottoni, E. B., & Izar, P . (2008). Capuchin monkey tool use: Overview and implications. Evolutionary
+Anthropology, 17, 171 –178.
+Ottoni, E. B., & Mannu, M. (2001). Semifree-ranging tufted capuchins ( Cebus apella) spontaneously use
+tools to crack open nuts. International Journal of Primatology, 22 , 310 –328.
+Ottoni, E. B., Resende, B. D., & Izar, P . (2005). Watching the best nutcrackers: What capuchin monkeys
+(Cebus apella ) know about others ’ tool-using skills. Animal Cognition, 24 , 215 –219.
+Reader, S. M., & Laland, K. N. (2001). Primate innovation: Sex, age and social rank differences.
+International Journal of Primatology, 22 , 787 –805.
+Robinson, J. G. (1986). Seasonal variation in use of time and space by the wedge-capped capuchin
+monkey, Cebus olivaceus : Implications for foraging theory. Smithsonian Contribution to Zoology,
+431,1 –60.
+Tebbich, S., Taborsky, M., Fessl, B., & Dvorak, M. (2002). The ecology of tool-use in the woodpecker
+finch ( Cactospiza pallida ). Ecological Letters, 5 , 656 –664.
+Trejo, I., & Dirzo, R. (2002). Floristic diversity of Mexican seasonally dry tropical forests. Biodiversity
+and Conservation, 11 , 2063 –2048.
+Visalberghi, E. (1987). Acquisition of nut-cracking behaviour by 2 capuchin monkeys ( Cebus apella ).
+Folia Primatologica, 49 , 168 –181.
+Visalberghi, E., Addessi, E., Truppa, V ., Spagnoletti, N., Ottoni, E., Izar, P ., et al. (2009). Selection of
+effective stone tools by wild bearded capuchin monkeys. Current Biology, 19 , 213 –217.
+Westergaard, G. C., Lundquist, A. L., Haynie, M. K., Kuhn, H. E., & Suomi, S. J. (1998). Why some
+capuchin monkeys ( Cebus apella ) use probing tools (and others do not). Journal of Comparative
+Psychology, 112, 207 –211.
+Yamakoshi, G. (1998). Dietary response to fruit scarcity of wild chimpanzees at Bossou, Guinea: Possible
+implications for ecological importance of tool use. American Journal of Physical Anthropology, 106 ,
+283–295.
+470 A.C. de A. Moura, P .C. Lee

@@ -1,0 +1,1093 @@
+PDF PAGE 1
+Older, sociable capuchins ( Cebus capucinus ) invent
+more social behaviors, but younger monkeys
+innovate more in other contexts
+Susan E. Perry a,b,1, Brendan J. Barrett c,d, and Irene Godoy e
+aDepartment of Anthropology, University of California, Los Angeles, CA 90095-1553; bBehavior, Evolution and Culture Program, University of California, Los
+Angeles, CA 90095-1553; cAnimal Behavior Graduate Group, University of California, Davis, CA 95616-8522; dDepartment of Anthropology, University of
+California, Davis, CA 95616-8522; and eBehavioural Science Institute, Radboud University Nijmegen, 6500 HE Nijmegen, The Netherlands
+Edited by Andrew Whiten, University of St. Andrews, St. Andrews, United Kingdom, and accepted by Editorial Board Member Andrew G. Clark May 16, 2017
+(received for review January 18, 2017)
+An important extension to our understanding of evolutionary
+processes has been the discovery of the roles that individual and
+social learning play in creating recurring phenotypes on which
+selection can act. Cultural change occurs chiefly through invention
+of new behavioral variants combined with social transmission of
+the novel behaviors to new practitioners. Therefore, understand-
+ing what makes some individuals more likely to innovate and/or
+transmit new behaviors is critical for creating realistic models of
+culture change. The difficulty in identifying what behaviors qualify
+as new in wild animal populations has inhibited researchers from
+understanding the characteristics of behavioral innovations and
+innovators. Here, we present the findings of a long-term, system-
+atic study of innovation (10 y, 10 groups, and 234 individuals) in
+wild capuchin monkeys ( Cebus capucinus ) in Lomas Barbudal,
+Costa Rica. Our methodology explicitly seeks novel behaviors, re-
+quiring their absence during the first 5 y of the study to qualify as
+novel in the second 5 y of the study. Only about 20% of 187 inno-
+vations identified were retained in innovators’ individual behavioral
+repertoires, and 22% were subsequently seen in other group mem-
+bers. Older, more social monkeys were more likely to invent new
+forms of social interaction, whereas younger monkeys were more
+likely to innovate in other behavioral domains (foraging, investiga-
+tive, and self-directed behaviors). Sex and rank had little effect on
+innovative tendencies. Relative to apes, capuchins devote more of
+their innovations repertoire to investigative behaviors and social
+bonding behaviors and less to foraging and comfort behaviors.
+innovation | Cebus capucinus | cultural evolution | phenotypic plasticity |
+learning
+B
+ehavioral innovation has long been a topic of interest for
+researchers dedicated to studying the evolution of culture,
+because it is a driver of cultural change (1, 2). The types of be-
+havioral traditions that are of greatest interest to evolutionary
+modelers are those starting with an innovation that then spreads
+via social learning. Understanding the characteristics of ( i) be-
+havioral innovations (which are roughly analogous to genetic
+mutations) and ( ii) the individuals who invent these behaviors is
+critical to understanding cultural evolution and its relationship to
+genetic evolution. Innovation is also of interest to evolutionary
+biologists who study the role that learning plays in macroevolu-
+tion, because it is a type of phenotypic plasticity that can affect
+the direction of natural selection (3). Ability to innovate can
+enhance reproductive success (for example, by enabling indi-
+viduals to exploit new resources) (4 –6). Innovation can generate
+the Baldwin effect, in which learned traits create recurring
+phenotypes that select for morphological adaptations, eventually
+leading to speciation (3, 7). Innovation is also of interest as a
+correlate of intelligence more generally, and the ability to solve
+novel cognitive problems presented by experimenters can be
+positively associated with mating success [e.g., bowerbirds (8)]
+and parenting success [e.g., great tits (9)] in wild populations.
+Despite the obvious theoretical importance of innovation as a
+key element in cultural evolution, there are relatively few studies
+of this topic, particularly in wild populations, because of meth-
+odological difficulties in stimulating innovation experimentally
+or detecting innovations in observational studies (10). This
+paucity of information is partly because of the difficulty in cre-
+ating operational definitions of innovation that can produce
+meaningful datasets for comparative analysis. Here, we loosely
+adopt the definitions by Reader and Laland (11) of innovation
+(the process) as “a process that results in new or modified
+learned behaviour and that introduces novel behavioural variants
+into a population ’s repertoire ” and innovation (the product) as
+“a new or modified learned behavior not previously found in the
+population” (ref. 11, p.14). Following the definitions of Ramsey
+et al. (12) and van Schaik et al. (13), we emphasize that inno-
+vations are not part of the innate repertoire and do not arise
+predictably in all population members at certain points in the life
+history; also, they do not predictably emerge in all population
+members in response to particular social or ecological condi-
+tions. The definition by Ramsey et al. (12) and van Schaik et al.
+(13) differs from the definition by Reader and Laland (11), be-
+cause it focuses on the individual rather than the population [i.e.,
+Ramsey et al. (12) argue that multiple individuals within the
+same population could independently create the same behavior].
+We take a compromise position, counting a behavior as an in-
+novation if this is the first time that the behavior has been seen in
+a particular social group during the putative innovator ’s lifetime.
+Operational definitions of innovation and invention differ greatly
+across fields. Some define innovations as inventions that have
+subsequently spread throughout the population via social learning
+(14). We use the definition most commonly and currently used in
+the animal behavior literature, in which transmission of a new
+behavior is not a necessary part of our definition of innovation.
+We assume because of the extreme xenophobia exhibited by
+white-faced capuchins (15) that widespread social transmission
+This paper results from the Arthur M. Sackler Colloquium of the National Academy of
+Sciences, “The Extension of Biology Through Culture, ” held November 16–17, 2016, at the
+Arnold and Mabel Beckman Center of the National Academies of Sciences and Engineering
+in Irvine, CA. The complete program and video recordings of most presentations are available
+on the NAS website at www.nasonline.org/Extension_of_Biology_Through_Culture.
+Author contributions: S.E.P. designed research; S.E.P., B.J.B., and I.G. performed research;
+S.E.P., B.J.B., and I.G. analyzed data; and S.E.P., B.J.B., and I.G. wrote the paper.
+The authors declare no conflict of interest.
+This article is a PNAS Direct Submission. A.W. is a guest editor invited by the Editorial
+Board.
+Data deposition: The R-code and data used in the statistical analysis reported in this paper
+are available at https://github.com/bjbarrett/cebusinnovation2017.
+1To whom correspondence should be addressed. Email: sperry@anthro.ucla.edu.
+This article contains supporting information online at www.pnas.org/lookup/suppl/doi:10.
+1073/pnas.1620739114/-/DCSupplemental.
+7806–7813 | PNAS | July 25, 2017 | vol. 114 | no. 30 www.pnas.org/cgi/doi/10.1073/pnas.1620739114
+Downloaded from https://www.pnas.org by 92.208.224.29 on August 11, 2026 from IP address 92.208.224.29.
+
+
+PDF PAGE 2
+of innovations is inhibited by insufficient exposure to members of
+other social groups.
+The thorniest challenges in the rapidly growing field of animal
+innovation research arise in devising methods for quantifying
+innovation rates and determining the characteristics of innova-
+tors. Most research on animal innovation thus far has involved
+either ( i) analysis of anecdotes drawn from published literature
+on topics other than innovation (16 –18) or ( ii) experiments in
+either the field or the laboratory, in which experimenters present
+individuals with a novel problem to solve (8, 9, 19 –22). The most
+prominent body of innovation research using observational data
+has focused on orangutans ( Pongo) using developmental data
+from rehabilitants (23) or “geographic contrasts methods ” akin
+to those used to diagnose probable social traditions (24, 25) to
+infer innovation rates by evaluating the patterning of within- and
+between-group behavioral variation in short-term studies of both
+captive and field populations (12, 13, 26). Few field studies of in-
+novation are longitudinal or look at the properties of individuals
+that make them more, or less, likely to innovate within their lifetime.
+There are advantages and disadvantages to all of these
+methods, and none of them seemed entirely suitable for our
+goals, which are to ( i) document the kinds of behaviors present
+in the innovation repertoire in wild white-faced capuchins, ( ii)i n -
+vestigate differences in rates of innovation across behavioral
+domains, ( iii) determine what features of individuals (rank,
+sex, age, and sociality) predict propensity to innovate, and
+(iv) determine whether new behaviors become established com-
+ponents of individual or group behavioral repertoires. Our ap-
+proach differs from previous approaches to documentation
+of behavioral innovation, in that it was implemented into the
+core data collection protocol ove r a 10-y period, for which there
+was dense behavioral sampling of multiple social groups in the
+same ecological context. This approach provides the advantage
+of enabling researchers to detec t probable innovations in any
+behavioral domain and have suf ficient time depth to know who
+the probable innovators are (details are in Methods).
+There are several biologically relevant behavioral contexts, or
+domains, that are difficult to study experimentally. Studies have
+largely looked at the diffusion of novel foraging tasks for good
+reasons. Experimentally seeded innovations or problem-solving
+tasks provide controlled contexts, where both the latency of in-
+dividuals innovating a solution and the social diffusion of inno-
+vations may be studied. Innovating solutions to novel tasks is also
+of obvious adaptive value. However, many innovations that are
+ecologically or socially relevant are difficult to study experi-
+mentally. Some animals have innovative social interaction, i.e.,
+“social games, ” which may serve as bond testing rituals and can
+be socially transmitted (27). Some wild animals display repetitive
+self-directed “quirks,” perhaps to self-soothe, akin to the pro-
+posed function of some stereotyped coping behaviors in captive
+and wild animals (28). Other behavioral innovations have no
+apparent immediate biological or ecological function.
+Systematic observational study of innovations across a wide
+range of behavioral domains permits us to explore whether indi-
+vidual propensity to innovate is generalized or whether individuals
+will be differentially prone to innovate in different behavioral do-
+mains according to their ecology and life history. For example, it has
+been suggested that “necessity is the mother of invention ” and
+hence, that individuals who are young, low-ranking, and/or socially
+peripheral will be more prone to inventing new foraging strategies
+(29); this hypothesis has yielded m ixed results in past literature
+reviews (6). In general, there are few strong theoretical expectations
+about how age, sex, rank, and sociality affect innovation rates; we
+need natural history and observational studies to help guide theory.
+Capuchin monkeys (genera Cebus and Sapajus) are expected
+to have unusually high innovation rates for myriad reasons.
+Comparative studies have shown that brain size covaries with
+innovation frequency in primates and birds (30, 31), and capuchins
+are notable for their large relative brain sizes (32). White-faced
+capuchins (Cebus capucinus) are also omnivorous extractive for-
+agers (33, 34), an ecological trait positively related to innovation in
+callitrichids (35), and profit greatly from experimenting with new
+foods and feeding techniques. Capuchins have radiated over a
+large, ecologically diverse geographic area (34, 36), which suggests
+that they are capable of adapting their behavior to novel situa-
+tions. They frequently interact with and investigate other species
+as predators, prey, and feeding competitors (37, 38). It has been
+suggested by Sol et al. (39) that innovative tendencies in birds
+have coevolved with life history in generalist species, with slow-
+developing, large-brained species prioritizing future over current
+reproduction and being more likely to innovate and produce
+plastic responses to changing conditions. If this model holds true
+in other taxa, capuchins should be excellent candidates for high
+innovation rate given their life histories and ecological niche.
+White-faced capuchins live in multimale, multifemale social
+groups that are highly xenophobic, offering little opportunity to
+learn from members of other groups, except by migrating (40).
+Capuchins are notable for the high frequency of coalition for-
+mation and the creation of quirky social conventions that seem
+to serve as means of testing the social bonds that are likely to be
+important for enhancing fitness (27, 38, 40). The presence of
+social traditions in the foraging and social domains (41) implies
+that capuchins innovate as well.
+Results
+Innovations were classified in four categories or “behavioral
+domains”: foraging, self-directed, social, and investigative. The
+foraging category included 17 behaviors related to drinking water
+or processing food, 4 of which were independently invented in
+other groups and only 2 of which persisted in the innovator ’s
+repertoire. One of these was a form of tool use: the use of leaves
+to wrap and scrub the urticating hairs off of Automeris caterpillars.
+Another was the use of the tail tip as a sponge to access water
+from tree holes too deep to reach with a hand or foot ( Movie S1).
+The latter was invented only once during the period of 2007 –
+2011 by a female who did this regularly but did not transmit it to
+other group members. This same tail-dipping behavior was in-
+dependently invented in the buffer period (2002 –2006) by mon-
+keys in three other groups and spread to multiple individuals in
+one of those groups. (The buffer period was a time period during
+which we did not score innovations, but we used this time period
+to confirm whether behaviors seen in the subsequent 5-y period
+were truly new to that group. Details are in Methods.) It was not
+possible to reliably score food choice innovations and assign them
+to particular innovators, but the foraging category would have
+been much larger had we been able to include them.
+The self-directed category included nine behaviors related to
+enhancing comfort, dental hygiene, self-soothing, and self-
+stimulation. Capuchins are prone to inventing “personal quirks,”
+especially involving clutching or poking some part of their own
+body for prolonged periods of time. These habits may persist for
+years and might be transmitted to other group members. There
+were many individuals in the 2007 –2011 dataset that were still
+practicing postural quirks that they invented during the buffer
+period (2002 –2006), and those are not evident in SI Appendix ,
+Table S1 .T h e “body part hold ” category lumps together many
+different types of postural quirks; if we split this category more
+finely, there would be far more innovations in this domain.
+The social category includes 47 forms of social interaction that
+are not part of the standard species repertoire. Eight of these
+were independently invented in multiple groups, and most of
+these inventions involved incorporation of behavioral elements
+from the foraging repertoire into the exploration or use of the
+interaction partner ’s body (e.g., explorations of the partner ’s
+orifices or mouthing parts of the partner). Some behaviors (e.g.,
+dental examinations, eye poking, hand sniffing, sucking of body
+Perry et al. PNAS | July 25, 2017 | vol. 114 | no. 30 | 7807
+ANTHROPOLOGY COLLOQUIUM
+PAPER
+Downloaded from https://www.pnas.org by 92.208.224.29 on August 11, 2026 from IP address 92.208.224.29.
+
+
+PDF PAGE 3
+parts, toy game, and hair game) have been invented in multiple
+groups over the years and have become well-established tradi-
+tions in some groups; hence, many of these behaviors scored as
+innovations for this 2007 –2011 time period were invented before
+2007 in other groups and still in practice (and hence, not counted
+as innovations) during this time period. Both past work and the
+patterning of results in SI Appendix , Table S1 suggest that those
+social rituals that involve some discomfort or risk (e.g., having an
+appendage bitten or damaging an eye) are more prone to remain
+in individual repertoires and become established in group rep-
+ertoires. In addition to the aforementioned behaviors that have
+been proposed as bond-testing behaviors (41), the social category
+of innovations includes social play, social displays, and some
+creative ways for females to regulate infant behavior.
+The investigative category included creative manipulations of
+other species (e.g., porcupines, howler monkeys, and turtles),
+human artifacts, leaves, sand, sticks, water, rocks, and other in-
+animate objects as well as innovative ways of locomoting through
+the forest. Most of these behaviors had no obvious immediate
+purpose and gave the impression that the innovator was engaged
+in recreational creativity, exploring the affordances of the ma-
+terials. To give a few examples, in “cow pie seesaw ” (Movie S2),
+the young monkey flips over a dried piece of cattle dung the
+length of her body, so that the flat side is on top and the rounded
+side contacts the ground; then, she stands on top, rocking back
+and forth. In “mango hitting game, ” a young monkey routinely
+finds mangos about one-half the size of her body on the ground
+and applies hard, two-handed strikes to them for 4 –5 min at a
+stretch, throwing her body weight into the assault on the mango,
+with no apparent interest in eating it ( SI Appendix ). Less than
+15% of investigative behaviors were seen more than once in
+individual repertoires, and only 18% were subsequently observed
+being practiced by the innovator ’s groupmates.
+The final dataset, described in detail in SI Appendix, Table S1 ,
+included 187 innovations, 127 of which were unique behavior
+types. Of the 187 innovations, 149 (80%) of them we never again
+saw performed by the innovator, and only 41 (22%) were seen
+performed by other monkeys in the same group (i.e., had the
+potential to have become a tradition during the observation
+period). Of the 127 unique innovations seen, 54 (42.5%) were in
+the investigative domain, 47 (37.0%) related to social behavior,
+9 (7.1%) were self-directed behaviors, and 17 (13.4%) were
+foraging behaviors. At least one innovation, based on our con-
+servative criteria, was scored in 117 of 234 individuals included in
+this dataset. Descriptions of all innovations are included in SI
+Appendix, and SI Appendix , Table S1 reports the distribution of
+these behavioral variants across social groups and individuals.
+Innovations were rare, being observed, on average, less than
+once per individual per year in any particular domain. These
+annual rates may appear low, but our aim is to predict the
+properties of an individual that make him/her more prone to
+innovate in particular behavioral domains. If one ignores the
+properties of individuals or behavioral domains, annual group-
+wide innovation rates (Fig. 1), which have been the focus of
+many field studies of innovation, are much higher; however, we
+can learn much about individual innovators by taking this more
+detailed approach.
+Our global model (referred to as mASRMG in Table 1) re-
+ceived overwhelming support compared with other models
+[having a Widely Applicable Information Criterion (WAIC)
+weight of 1.00] and suggests that sociality and age are the most
+important predictors of innovation (Table 1). From posterior
+median (PM) estimates and 89% credible intervals (89% CIs),
+our model suggests that marginal rates of innovation per indi-
+vidual per year (innovation rates) are highest in the social do-
+main (PM = 0.122; 89% CI = 0.064–0.195) followed by the
+investigative domain (PM = 0.085; 89% CI = 0.047–0.147),
+foraging domain (PM = 0.028; 89% CI = 0.014 –0.052), and
+self-directed domain (PM = 0.018; 89% CI = 0.008 –0.037).
+Much of the variance in probability of innovating can be ex-
+plained by individual identity ( σid of αp = 1.01) and social group
+membership ( σ group of αp = 1.56). Importantly, differences
+between behavioral domains account for more variation in rates
+of innovation (Table 2) than between-individual or -group dif-
+ferences for all other varying effect parameters with the excep-
+tion of βmalep (SI Appendix, Table S2 ). Because interpreting the
+coefficients of these models can be nonintuitive and because they
+interact multiplicatively to estimate innovation rates in each
+domain, we instead refer the reader to plots of model predictions
+(Figs. 2 and 3 andSI Appendix,F i g s .S 1–S4) for all estimated effects.
+For our model predictions, we display the posterior predic-
+tions for each individual ’s annual innovation rate in each be-
+havioral domain. The y axes may represent ( i) the estimated
+number of innovations per individual monkey per year or the
+joint probability, (1 − p) × λ (Figs. 2 and 3 and SI Appendix, Figs.
+S3A and S4 A). In some cases, looking at the individual compo-
+nents of a zero-inflated Poisson (ZIP) model can be informative,
+and therefore, we also present ( ii) the probability of innovating
+per year, 1 − p,( SI Appendix , Figs. S1 A–D,S 2 A–D,S 3 B, and
+S4B) and (iii) the number of innovations per year estimated to be
+observed conditional on being an innovator, λ (SI Appendix, Figs.
+S1 E–H,S 2 E–H, S3, and S4 C).
+Age. Age differentially predicts innovativeness across behavioral
+contexts. Younger individuals innovate at higher rates in the
+investigative, foraging, and self-directed domains, although the
+effect size is quite small for self-directed and foraging behaviors
+(Fig. 2 A–C). Older individuals are slightly more innovative in
+the social domain (Fig. 2 D and Table 2). This effect was more
+heavily driven by the probability of being an innovator (SI Appendix,
+Fig. S1 A–D and Table S2 ) than the number of innovations con-
+ditional on being an innovator. Younger innovators seem slightly
+more likely to produce more innovations, conditional on being
+an innovator, but this effect is small ( SI Appendix , Fig. S1 E–H)
+and near zero in most domains.
+AA CU FF FL LB
+2468 1 0
+MK NM
+2468 1 0
+RF
+2468 1 0
+RR
+2468 1 0
+SP
+2468 1 0
+estimated annual innovation rate per group
+Fig. 1. Posterior predictions of annual innovation rate (number of inno-
+vations per year) for each group. Two-letter names of the social groups are
+at the top of each panel; vertical lines indicate PMs. n = 44 group-years.
+Table 1. WAIC estimates for all evaluated innovation models
+Model WAIC dWAIC wWAIC SE
+mASRMG 1,442.02 0 1 81.97
+mA 1,478.34 36.32 0 84.38
+mS 1,503.03 61.01 0 84.49
+m 1,510.11 68.09 0 84.22
+mRG 1,526.1 84.08 0 86.46
+mM 1,570.25 128.23 0 88.39
+Capital letters in model names correspond to predictors included: age (A),
+sociality (S), rank (R), sex (M), and group size (G). dWAIC, difference in WAIC
+scores from the highest ranked model; wWAIC, WAIC weight.
+7808 | www.pnas.org/cgi/doi/10.1073/pnas.1620739114 Perry et al.
+Downloaded from https://www.pnas.org by 92.208.224.29 on August 11, 2026 from IP address 92.208.224.29.
+
+
+PDF PAGE 4
+Sociality. Sociality also differentially predicts innovation across
+behavioral domains. More social individuals showed higher rates
+of innovation in the social (Fig. 3 D) domain. Less social indi-
+viduals had higher innovation rates in the foraging (Fig. 3 A),
+investigative (Fig. 3 B), and self-directed (Fig. 3 C) domains, al-
+though these effects are weak and less certain. More social in-
+dividuals produced a greater number of innovations per year
+(conditional on being innovators) in the social domain ( SI Ap-
+pendix, Fig. S2 H), whereas less social individuals showed a
+greater number of innovations in the self-directed domain ( SI
+Appendix, Fig. S2 G), and there was little effect of sociality on
+foraging ( SI Appendix , Fig. S2 E) and investigative ( SI Appendix ,
+Fig. S2 F) behaviors.
+Sex. Males (PM = 0.034; 89% CI = 0.014–0.074) have slightly
+higher innovation rates than females (PM = 0.024; 89% CI =
+0.011–0.045), ignoring between-domain variation. Males were
+slightly more likely to be innovators ( SI Appendix , Fig. S3 B).
+Within the social and investigative domains, males showed
+slightly higher innovation rates both overall and conditional on
+being innovators, but there were no discernable effects of sex in
+the foraging and self-directed domains ( SI Appendix , Fig. S3 A
+and C). Where these small differences exist, they are uncertain
+and potentially of no biological significance.
+Rank. Ignoring domain-specific effects, we found that innovation
+rate is highest in middle-ranking individuals (PM = 0.036; 89%
+CI = 0.017–0.070) followed by high-ranking individuals (PM =
+0.026; 89% CI = 0.011–0.058) and lowest in low-ranking indi-
+viduals (PM = 0.021; 89% CI = 0.009–0.48). Rank did not have
+consistent or strong effects on overall innovation rates within
+domains, although there was a slight tendency for midranking
+individuals to show higher innovation rates in the social and
+investigative domains ( SI Appendix, Fig. S4 A) relative to low- or
+high-ranking individuals; this pattern held for the rates of in-
+novation conditional on being an innovator ( SI Appendix , Fig.
+S4C). However, within each domain, low-rankers had a slightly
+higher probability of becoming innovators than mid- or high-
+ranked individuals ( SI Appendix , Fig. S4 B). Most of these rank-
+related domain-specific effects are relatively small and uncertain,
+and therefore, we hesitate to make strong claims about them.
+Discussion
+Utility of This Method for Identifying Innovations. On the surface, it
+would seem that white-faced capuchins have the largest reper-
+toire of innovations of any primate species studied thus far, but
+we encourage caution in comparing the sizes of different species ’
+innovation repertoires or their individual innovation rates be-
+cause of differences in methods between studies. The method
+that we used here differs from previous approaches in the fol-
+lowing ways.
+i) Researchers were vigilant for innovations and recorded
+them throughout the study period, likely resulting in fewer
+overlooked innovations than in other long-term studies. It
+also enabled rigorous recording of innovations across a
+a. foraging
+0 0.5 1 1.5
+b. investigative
+c. self-directed
+123
+00 . 511 . 5
+d. social
+123
+individual innovation rate
+log(age)
+Fig. 2. Joint model predictions for the effect of age on the number of inno-
+vations per individual per year in the domains of (A) foraging, (B)i n v e s t i g a t i v e ,
+(C ) self-directed and (D) social behaviors. Dark lines are at the PMs; lighter lines
+are 100 randomly sampled posterior predictions. n = 3,132 individual-years.
+a. foraging
+0 0.5 1 1.5
+b. investigative
+c. self-directed
+-3 -2 -1 0 1 2 300 . 511 . 5
+d. social
+-3 -2 -1 0 1 2 3
+individual innovation rate
+sociality scores (standardized)
+Fig. 3. Joint model predictions for the effect of sociality on the number of
+innovations per individual per year. Dark lines are at the PMs; lighter lines
+are 100 randomly sampled posterior predictions. n = 3,132 individual-years.
+Table 2. Posterior mean estimates of varying effects of
+behavioral domain
+Parameter
+Behavioral domain
+Foraging Investigative Self-directed Social
+αp −0.12 −0.45 0.01 0.06
+αl −0.98 0.07 −1.38 0.49
+βagep 2.37 3.96 2.97 −1.64
+βagel 0.03 −0.52 −0.04 0.24
+βsocialityp −0.03 −0.31 0.23 −0.13
+βsocialityl −0.32 −0.09 −0.52 0.51
+βrank.highp 0.14 −0.46 −0.02 0.00
+βrank.highl 0.05 −0.32 0.15 −0.01
+βrank.lowp −0.37 −0.42 −0.44 0.19
+βrank.lowl −0.21 0.03 −0.21 0.13
+βmalep 0.12 −0.57 0.33 −0.09
+βmalel −0.09 0.08 −0.26 0.20
+Perry et al. PNAS | July 25, 2017 | vol. 114 | no. 30 | 7809
+ANTHROPOLOGY COLLOQUIUM
+PAPER
+Downloaded from https://www.pnas.org by 92.208.224.29 on August 11, 2026 from IP address 92.208.224.29.
+
+
+PDF PAGE 5
+wider range of behavioral domains than would have been the
+case had we focused our data collection on a specialized
+research topic not specifically related to innovation in multi-
+ple behavioral domains. Despite efforts to record all possible
+types of innovations, we failed to record food choice innova-
+tions with sufficient rigor to include them in this analysis.
+ii) This study generated a high density of behavioral observa-
+tions compared with most primate field projects because of
+the year-round presence of a large number of well-trained
+data collectors. This higher sampling density suggests that,
+relative to other studies, more true innovations would have
+been observed and also, perhaps, that fewer false positives
+would have been generated (i.e., fewer rare species-typical
+behaviors labeled as innovations simply because they had
+not been observed in other practitioners because of low
+sampling density).
+iii) The large number of groups monitored in essentially iden-
+tical ecological circumstances with overlapping home ranges
+offered better opportunity than most studies for identifying
+innovations via comparison of presence vs. absence in groups
+exhibiting similar ecologies. With the exception of five of the
+innovations concerned with ex ploration of human artifacts,
+there is no reason to think that monkeys had differential oppor-
+tunities to discover particular innovations. Having more groups
+in the sample might make it easier to find one that lacked some
+rare behavior, although the long-term nature of the study com-
+bined with the dense behavioral sampling probably mitigate this
+tendency for the large number of groups to produce false pos-
+itives of innovation caused by presence/absence contrasts.
+iv) The long-term nature of the study and the use of a 5-y buffer
+period before the observation period reduce the chance that
+behaviors will be falsely termed innovations when they are
+actually low-frequency behaviors already in the repertoire. If
+our study had been the length of a typical dissertation proj-
+ect (i.e., 1 y) and if we had assumed that behaviors were new
+to the practitioners if it was the first time that we had seen
+them performed in those groups, then we would have had
+52% more innovations in our sample than we obtained by
+using the buffer period method and requiring each recorded
+innovation to be the first sighting by that individual in its
+group(s) of residence.
+v) Our method is more conservative than the definition used by
+Ramsey et al. (12), which defines innovations as being new
+to individual repertoires but not necessarily new to group
+repertoires. We recognize the possibility of having indepen-
+dent inventions within a single social group, and we suspect
+that many true innovations in our sample have been discarded
+because of the suspicion that they may be the products of
+social learning. On the whole, we think that our method pro-
+vides a more accurate technique for diagnosing innovations
+than alternative observational methods. However, overlook-
+ing independent inventions within the same social group is
+one way in which we likely underestimate innovation rates.
+vi) Our approach looks at the properties that affect individual
+propensities to innovate and longitudinally tracks the rate of
+innovation over 5 y. Previous studies have looked at group-
+level differences or short windows of time. Our hierarchical
+statistical approach accounts for unequal sampling effort
+among individuals, estimates between- and within-individual
+variation, and avoids the potential problem of falsely making
+inferences about individual innovation rate from potentially
+spurious group-level effects.
+Rates and Types of Innovation in Capuchin Monkeys. Evidence that
+individuals, on average, ( i) innovate in any one of these four
+domains less than once per year, ( ii) retain only about 20% of
+these innovations in their repertoires, ( iii) transmit no more than
+22% of their innovations to other group members, and ( iv)
+generally produce innovations with no obvious utility may give an
+artificially low impression of the biological importance that in-
+novation has for behavioral repertoires overall. Most groups
+have a current repertoire of bond-testing signals that have been
+steadily practiced by a subset of the group for many years, and
+these behaviors are not, for the most part, scored as innovations
+in this dataset, because they first appeared in the buffer period or
+even earlier. Food choice innovations (not reported here be-
+cause of the interobserver reliability challenge of being able to
+correctly identify plants the first time that they are eaten) tend to
+be adopted quickly and remain in repertoires for long periods of
+time, such as is the case for chimpanzees (42) and various species
+of monkeys (29). Particularly useful food processing or drinking
+techniques, once invented, are likely to persist in repertoires for
+many years [or even centuries (43)]. Tail-dipping to access water
+in deep tree holes seems to have been independently invented in
+four groups at Lomas, originating during the 2002 –2006 period
+in three of these groups (and therefore, not counting as an in-
+novation according to our definition) but persisting during the
+2007–2011 period in two of those three groups. Although many
+of the innovative behaviors recorded during this 5-y period seem
+to be aimless creativity with no obvious utilitarian goal in mind
+(aside from the foraging behaviors), it is important to remember
+that innovations, like mutations, may not be particularly bene-
+ficial on their own but may become exapted (44) and acquire a
+benefit when paired with a particular ecological or social context
+(even if the initial pairing is accidental). For example, a poten-
+tially risky behavior, such as sticking a finger deep into the eye
+socket of a partner, might yield benefits if it is incorporated into
+a dyadic ritual that tests the quality of an important social bond
+(27, 45). Additionally, many of the capuchin innovations in this
+dataset might inform the developing monkey about the affor-
+dances of objects or how his/her body relates to the environment,
+providing useful feedback, even if there is no practical value to
+permanently incorporating the new behavior into the behavioral
+repertoire.
+How the Capuchin Innovation Repertoire Compares with Those of
+Chimpanzees and Orangutans. The profound methodological dif-
+ferences between studies of these species preclude precise
+quantitative comparisons of innovation rates in different be-
+havioral domains, but we can at least make some crude quali-
+tative comparisons between capuchins and the other two primate
+species for which innovations have been systematically cataloged
+in the wild. The Mahale chimpanzee researchers (42) present
+data on 26 novel behaviors (after excluding food choice to make
+their results more comparable with the other datasets) retro-
+spectively extracted from their 43-y study of two chimpanzee
+communities. Although studying innovation was not an explicit
+part of their core data collection protocol, many researchers at
+Mahale described behavioral variation and novel behaviors in
+detail. They defined innovation as any behavior not seen in the
+first 15 y of research. Innovation in orangutans has been ex-
+plicitly studied using the geographic contrasts method in short-
+term studies by van Schaik et al. (26) at multiple sites, producing
+a sample of 44 putative innovations. Comparison of the distri-
+bution of behaviors across domains in their datasets with the
+composition of the repertoire in the dataset of 127 unique in-
+novations from Lomas Barbudal suggests that capuchins, relative
+to these ape species, devote a higher proportion of their creative
+energy to investigation of their environment and devising new
+social behaviors and a lower proportion to comfort-related be-
+haviors and foraging. Orangutans are particularly prone to de-
+vising new variants on nest-building techniques, and even their
+novel acoustic behaviors seem to emerge primarily in a nest-
+building context. Both ape species are more innovative with
+regard to bodily comfort and hygiene than capuchins. Capuchins
+rarely seem to prioritize comfort: they do not build nests, and
+7810 | www.pnas.org/cgi/doi/10.1073/pnas.1620739114 Perry et al.
+Downloaded from https://www.pnas.org by 92.208.224.29 on August 11, 2026 from IP address 92.208.224.29.
+
+
+PDF PAGE 6
+they readily endure stings, bites, urticating hairs, and spiny veg-
+etation in the process of acquiring food. Although nearly 4% of
+unique innovations may serve to mitigate physical discomfort,
+this percentage is low compared with both chimpanzees (15%)
+and orangutans (36%). Capuchins devoted about 42% of their
+innovation repertoire to the investigative domain compared with
+chimpanzees (31%) and orangutans (14%). Orangutans are cu-
+riously neophobic relative to both chimpanzees and capuchins,
+and the exploration of the environment that they engage in as
+young individuals is primarily focused on the mother ’s activities
+rather than independent discovery (13), whereas capuchins engage
+in much object play and independent exploration of the affordances
+of the environment at an early age. The preponderance of in-
+vestigative sorts of innovations in orangutans seems to be devoted to
+solving the problem of how to safely engage in arboreal locomotion
+as a large-bodied animal (26, 46)—a problem that is less difficult for
+a small-bodied animal with a prehensile tail. Within the category of
+social innovations, capuchins were more prone to inventing be-
+haviors related to social bonding, whereas chimpanzees placed
+more emphasis on aggressive displays. This emphasis is consistent
+with the importance of alliances and hence, bond tests in capuchins:
+males need allies for parallel dispersal and to acquire and maintain
+breeding positions, and females depend on allies to defend food
+resources and infants from potentially infanticidal males (40).
+What Factors Affect Propensity to Innovate in Other Species? In this
+study, younger animals were more innovative in all behavioral
+domains except for social interaction, in which the tendency was
+reversed. This result is consistent with capuchins ’ slow life his-
+tory, generalist ecological niche, and complex social relation-
+ships. During a long juvenile phase, individuals have much to
+gain by experimenting with both new foods and more efficient
+ways of acquiring resources. As they age, capuchins increasingly
+have reason to form and test the quality of those social rela-
+tionships that will prove critical for acquiring and protecting
+access to the food and social resources needed for enhancing
+reproductive success (40), and therefore, it makes sense that older
+animals are more prone to innovation in the social domain.
+Studies of other species provide mixed results regarding the effect
+of age on innovative tendencies. A review of the published primate
+literature suggests that adults innovate more than immatures (16),
+and this pattern has been corroborated by experimental studies of
+innovation in callitrichids (22) and meerkats (20), in which young
+animals were less likely than adults to successfully solve a novel
+extractive foraging task, possibly because of insufficient develop-
+ment of dexterity. Chimpanzees are a notable exception to this
+general pattern; high rates of innovation, particularly of the social
+and investigative sort, are observed in immature chimpanzees (16,
+29). Among human children, older children are better than
+younger children at solving novel problems (47). It is worth noting
+that, in this study, we were probably measuring something more
+akin to creativity and exploration rather than skill at solving a task,
+and it is possible that the innovations created by older capuchins
+could be argued to be more sophisticated in some way.
+The other variable that had a strong effect on capuchins ’
+propensity to innovate was sociality: more social capuchins were
+more prone to inventing novel social interaction types, and more
+social monkeys were also slightly more likely to have their social
+innovations picked up by other group members (although we
+cannot currently say whether this is because of social learning)
+(SI Appendix, Fig. S5 B). These results can probably be explained
+simply by the fact that more social individuals have more op-
+portunities to experiment with novel forms of social interaction.
+The existing literature on innovation does not have much to say
+about the effects of sociality per se, aside from predicting that
+technological innovations will be more common in peripheral
+animals who are less distracted by social life (29). However, the
+literature does address dominance rank as a predictive variable,
+and subordinates are often less socially central than dominants.
+Because there was not a strong rank effect in this dataset, we
+remain hesitant about making claims regarding rank mediating
+the relationship between sociality and innovative tendencies.
+Although sex and rank (16, 20, 29) are often predictive of
+innovative tendencies in other species, neither variable had much
+explanatory power in the capuchin dataset. Capuchin males were
+slightly more likely to innovate in all domains, which is consistent
+with observations from other primates (16) and meerkats (20)
+but not guppies (48); however, these effects were so small and
+uncertain in the capuchin dataset that they are not likely to have
+any biological significance.
+With a better understanding of innovation, the next logical
+questions to address are two questions linking this research to
+the social learning literature. What properties of innovations and
+what properties of innovators make the innovations most likely
+to be socially transmitted to oth er group members? Adequate an-
+swers to these questions are beyond the scope of this paper, but
+preliminary analyses suggest that age and group size of the innovator
+might be important drivers (SI Appendix, SI Text and Fig. S5).
+Methods
+Study Site and Subjects. The study was performed at Lomas Barbudal Biological
+Reserve in Guanacaste, Costa Rica, a tropical dry forest described in the work by
+Frankie et al. (49). This population ofC. capucinus has been the subject of long-
+term study by Perry et al. (50) since 1990, starting with a single social group.
+The number of regularly monitored groups has since expanded by both fission
+of research groups and habituation of new groups to include 10 groups by the
+end of 2011.
+One of the methodological problems in documenting innovations is the
+difficulty of knowing whether a particular behavior has ever been performed
+or observed by a particular individual. In a short-term study, when the re-
+searchers have little experience with the animals, many rare behaviors will be
+falsely scored as innovations simply because the researcher has not seen them
+previously. Ironically, such sampling biases may result in the misimpression
+that innovation rates are higher in short-term studies than long-term studies.
+Such problems are mitigated in this study by ( i) using data from a long-term
+study; (ii) generating a high density of observations by using a large staff to
+collect year-round behavioral data, in which new behaviors were explicitly
+recorded; ( iii) explicitly training observers to watch for and record new be-
+haviors; and ( iv) having a single observer with 26 y of experience collecting
+data on this population (S.E.P.) make the final determinations about which
+behaviors are truly new for each group of monkeys, with input from two
+additional long-term researchers (B.J.B. and I.G.).
+Beginning in January of 2002, all research staff were directed to make
+freeform comments about any behaviors that did not neatly fit into the
+standard ethogram of species-specific behavior and explicitly mark comment
+lines as comment innovation when they thought they were seeing a behavior
+that they had never seen before in that group or a behavior that they thought
+was a unique behavioral tradition. Naturally, many behaviors seem new to
+relatively inexperienced observers, and therefore, not all of the behaviors
+initially coded as innovations were true innovations. Also, some behaviors not
+coded as innovations in the comments section were, in fact, true innovations.
+S.E.P., who personally collected 13,770 h of data on this population from
+1990 to 2016, read through all data to determine whether behavioral se-
+quences were likely to be true innovations (i.e., behaviors seen for the first
+time in that particular social group).
+This research was performed in compliance with the laws of Costa Rica,
+and the protocol was approved by the University of California, Los Angeles
+Animal Care Committee (ARC 1996-122 and 2005-084 plus various renewals).
+Buffer Period. We used a 5-y chunk of observational data (35,196 h collected
+between January 1, 2007 and December 31, 2011) to look for innovations. We
+used the 5 preceding years of data ( ∼37,514 h of observation collected during
+2002–2006) as a “buffer period ” (i.e., a period in which we could search for
+prior instances of behaviors that appeared to be innovations within the
+targeted 2007 –2011 time period). If we had not left a large buffer period,
+we would have falsely concluded that far more behaviors within the time
+period of interest were innovations. SI Appendix ,T a b l eS 1reports, for each
+innovation, the number of groups in which it occurred, its persistence in the
+innovator’s repertoire, and whether it spread to other group members.
+Data were collected by a team of 50 highly trained observers ( ∼12 per
+year), each of whom underwent a training period of approximately 3 mo of
+Perry et al. PNAS | July 25, 2017 | vol. 114 | no. 30 | 7811
+ANTHROPOLOGY COLLOQUIUM
+PAPER
+Downloaded from https://www.pnas.org by 92.208.224.29 on August 11, 2026 from IP address 92.208.224.29.
+
+
+PDF PAGE 7
+dawn to dusk instruction and interobserver reliability testing before con-
+tributing data to the database. Interobserver reliability tests for monkey
+identifications and coding were repeated monthly throughout their tenures
+at the field site. Obviously, we could not train observers to reliably code
+innovations (behaviors that had not yet happened) in the same ways. We
+could, however, ensure that the observers recognized and reliably recorded
+basic motor movements, gestures, and 205 behaviors considered to be part
+of the species-typical behavioral repertoire. This repertoire was based
+on >6,000 h of observation invested in studying these monkeys during 1990 –
+2001 before explicit recording of innovations began, thereby enabling
+better detection of the idiosyncratic behaviors.
+Although we gave instructions to data collection teams to record any type
+of innovation in any behavioral domain, we decided not to include inno-
+vations regarding ( i) choices of food or medicinal plants and ( ii) vocal be-
+havior in this analysis. Although we witnessed many instances of apparent
+innovation regarding use of novel foods and medicines, we lacked sufficient
+confidence in observers ’ ability to accurately identify rarely used plants and
+insects or accurately identify rarely produced vocalizations.
+A behavioral observation was scored as an innovation if it met the fol-
+lowing criteria: ( i) the behavior was absent in some of the groups that we
+regularly monitor, ( ii) it was the first time that this behavior had been seen
+in this group during 2007 –2011, and ( iii) this behavior had not been seen in
+this group during the buffer period time period preceding 2007 during the
+lifetime of the putative innovator. In cases of group fission or migration, we
+required that the behavior not have been seen previously in the other
+groups of which the potential innovator had been a member. There was one
+class of behaviors on which an additional criterion was imposed: postural
+habits, such as clutching of one ’s own body parts or sniffing one ’s own hand
+(SI Appendix ).
+The number of innovations was also counted via two less conservative
+methods for methodological comparison. In one version, we eliminated the
+buffer period criterion, calling the first observation of a behavior in a par-
+ticular group an innovation. This method yielded 263 innovations compared
+with 187 produced with the more conservative method described above. In an
+even less stringent version that yielded 282 innovations, we termed a be-
+havior an innovation if it had not been seen in that group in the past year.
+Another challenge in defining innovation is the “grain” problem (i.e.,
+determining the descriptive breadth of behavioral categories or in other
+words, the extent to which to lump vs. split behaviors) (51). The grain
+problem is insoluble; the best that we can do is to use our intuitions about
+what the animals themselves seem to consider novel and observations of
+how these behaviors cluster in the repertoires of groups and individuals. Are
+novel actions used as part of a task already in the behavioral repertoire
+novelties? In our view, they usually were. Are the same actions applied to
+different objects? Unless the objects and contexts were quite radically dif-
+ferent, we opted to lump these together (i.e., we did not designate them as
+innovations). This issue was most prominent in our decision-making when
+evaluating clutching of different body parts (a self-directed behavior),
+sucking of different body parts (a social behavior), and the “toy game, ”
+which involves passing an object from mouth to mouth. In all of these cases,
+we chose to lump rather than split behaviors. In the case of object play (e.g.,
+with sand, water, or rocks), different actions used by different individuals in
+interacting with these same substances were scored as different behaviors.
+Descriptions of the complete list of behaviors that were included in our
+analysis are in SI Appendix .
+Innovations were classified in four categories or behavioral domains, the
+content of which is described in greater detail in Results: foraging, self-
+directed behavior, social behaviors, and investigative behaviors (explora-
+tion of the environment).
+Data Structure. We created a different row for every individual monkey/year/
+behavioral domain combination, and a value was scored for the number of
+innovations observed for that combination; this number was the output
+variable. We measured four main predictor variables to determine what
+predicts the number of innovations per individual per year: age, sex, sociality,
+and rank. ( i) Age. To calculate age, we subtracted the birth year of an indi-
+vidual from the year of observation and added one. Individuals born in the
+same year as the year of observation were excluded from the dataset. Age was
+log-transformed and centered for analysis. (ii) Sex. We coded sex as a dummy
+variable (one for males and zero for females). ( iii) Sociality. Sociality was cal-
+culated using data from group scans, which were taken opportunistically for
+all group members, at intervals no closer together than 10 min. For each in-
+dividual per calendar year, we calculated the proportion of group scans in
+which the individual was in proximity (i.e., within ∼400 cm) to at least one
+other group member other than their dependent offspring (i.e., for females,
+their offspring that are less than 1 y of age). Individuals with less than 20 scans
+per year were excluded from analysis. Sociality scores were standardized, so
+that a sociality score of one is 1 SD above the centered mean of zero. (iv) Rank.
+For individuals older than 3 y old, rank was calculated using the EloRating
+package in R (52). We used outcomes from dyadic interactions involving
+avoids, cowers, flees, and supplants to determine dominance. We used default
+Elo parameters, with initial Elo scores set to 1,000, and the constant k set to
+100. Rank was estimated using average Elo scores calculated for each individual
+per calendar year. Young juveniles less than 3 y old were given Elo Scores of
+zero to assure a low rank within their social groups. Members of a group were
+divided up into tertiles, with the corresponding levels receiving rank categories
+of high, middle, and low. High and low ranks were estimated as dummy vari-
+ables, with middle rank serving as the intercept-only reference category.
+Statistical Methods. Our outcome variable, number of innovations, is a count
+variable with many zero values. Each monkey was observed over multiple
+years. Membership in a particular group may have affected propensities to
+innovate. Therefore, we analyzed these data using a series of hierarchical ZIP
+models. ZIP models are mixture models that use two probability distribu-
+tions. One component assumes a Bernoulli distribution and estimates p:t h e
+probability of observing a zero. The other component assumes a Poisson
+distribution and estimates λ: the estimated mean of a Poisson distribution.
+ZIP models permit a mixture of causal factors to be evaluated and help
+better predict outcomes when there is a large number of zeros because of
+both the rarity of an event and false negatives. The joint likelihood of ob-
+serving an innovation can be calculated by multiplying the likelihoods of the
+Bernoulli and Poisson outcomes and converting them to the real number
+scale using their corresponding link functions. We graphically present joint
+posterior predictions here (Figs. 2 and 3) along with model predictions of
+p and λ in SI Appendix (SI Appendix , Figs. S1 –S4).
+We looked at four predictors in this analysis: ( i) age, ( ii) sex, ( iii) sociality,
+and (iv) rank. We also estimated unique offsets for each individual, because
+they differed in observation time or exposure. We analyzed six models, four
+of which corresponded to one of the single aforementioned predictors. The
+other two included a global model that looked at all four predictors and an
+intercepts-only model. In each model, we used varying intercepts for each
+individual ( n = 234), social group ( n = 10), and behavioral domain ( n = 4).
+Varying slopes for domains and groups were estimated for all four predic-
+tors, and varying slopes for individuals were estimated for sociality and age.
+Group size was used as a covariate to control for the numerical likelihood
+that, in smaller groups, observed behaviors might be more likely to be
+scored as innovations because of our definition of uniqueness and that a
+greater number of innovations is more likely in larger groups. In another
+analysis, we used experimental year as a varying effect to see if there were
+any biases in data collection between field assistant cohorts that would
+change our inference. There were none, and therefore, we excluded these
+parameters from our final analyses to simplify the presentation of results.
+Offsets and Exposure. Because observations of innovations were collected not
+only in focal follows but also, ad libitum, and because individuals varied in
+their likelihood of being observed because of data collection protocols or
+their visibility in the group, they also differed in exposure. To account for
+differences in exposure, we calculated an annual offset for each individual in
+each calendar year. Offsets for each individual ( Oi) were estimated using
+Oi = log
+/C18Gi + Fi
+365
+/C19
+,
+where Gi is the number of instantaneous group scans calculated per calen-
+dar year for each individual i, and Fi is the number of point samples collected
+at 2.5-min intervals during focal follows in a calendar year. These offsets
+were included alongside linear predictors in each model.
+Models were fit using the map2stan function in the R package rethinking
+(53). Models were fit using Hamilton Markov Chain Monte Carlo in r-STAN
+(v 2.14) (54) in R v. 3.3.2 (55). Models were compared with widely applicable
+information criteria (WAIC) using the compare function in rethinking. The
+corresponding code and data used for each model and graph production can
+be found through a link in SI Appendix .
+To estimate group-level difference in annual innovation rate, we summed
+the number of innovations observed within each group and across all indi-
+viduals and behavioral domains. Exposure rates for individuals within groups
+were summed within years. Counts of annual innovations per group were
+then fit using a hierarchical Poisson model fit using r-STAN that accounted for
+exposure rates using metrics previously described and varying intercepts for
+7812 | www.pnas.org/cgi/doi/10.1073/pnas.1620739114 Perry et al.
+Downloaded from https://www.pnas.org by 92.208.224.29 on August 11, 2026 from IP address 92.208.224.29.
+
+
+PDF PAGE 8
+each group, thus providing an estimate of annual innovation rate per year
+per group.
+ACKNOWLEDGMENTS. The following field assistants contributed a year or
+more of data to the Lomas Barbudal Monkey Project dataset: L. Beaudrot,
+M. Bergstrom, R. Berl, A. Bjorkman, L. Blankenship, T. Borcuch, J. Broesch,
+J. Butler, F. Campos, C. Carlson, S. Caro, M. Corrales, N. Donati, C. Dillis,
+G. Dower, R. Dower, K. Feilen, K. Fisher, A. Fuentes J., M. Fuentes A.,
+C. Gault, H. Gilkenson, I. Gottlieb, L. Hack, S. Herbert, C. Hirsch, C. Holman,
+S. Hyde, L. Johnson, S. Lee, S. Leinwand, T. Lord, K. Kajokaite, M. Kay,
+E. Kennedy, D. Kerhoas-Essens, E. Johnson, S. Kessler, S. MacCarter, J. Manson,
+W. Meno, C. Mitchell, Y. Namba, A. Neyer, C. O ’Connell, J. C. Ordoñez,
+J., N. Parker, B. Pav, R. Popa, K. Potter, K. Ratliff, H. Ruffler, S. Sanford,
+M .S a u l ,I .S c h a m b e r g ,C .S c h m i t t ,A .S c o t t ,J .V e r g e ,A .W a l k e r - B o l t o n ,E .W i k b e r g ,
+and E. Williams. We thank H. Gilkenson, W. Lammers, C. Dillis, M. Corrales,
+and R. Popa for helping to manage the field site. E. Wikberg and K. Kajokaite
+contributed a year or more of effort to organizing the dataset. D. Cohen
+created the MySQL database. R. Hong assisted in the organization and
+coding of the innovation data. This paper has benefitted from helpful discus-
+sions with D. Caillaud, M. Crofoot, M. Grote, K. Kajokaite, R. McElreath,
+J .M a n s o n ,K .P e r r y ,B .S c e l z a ,a n dM .J .W e s t - E b e r h a r d .W et h a n k
+Marcus W. Feldman, Andrew Whiten, Kevin N. Laland, and Francisco J.
+Ayala for the opportunity to participate in this Sackler Symposium. We
+thank the Costa Rican park service (Sistema Nacional de Áreas de Conserva-
+ción and Área de Conservación Tempisque), Hacienda Pelon de la Bajura,
+Hacienda Brin D ’Amor, and the residents of San Ramon de Bagaces for per-
+mission to work on their land. This project is based on work supported by the
+funding provided to S.E.P. by the Max Planck Institute for Evolutionary
+Anthropology, National Science Foundation (NSF) Grants SBR-0613226 and
+BCS-0848360, two grants from the Leakey Foundation, two grants from the
+National Geographic Society, and multiple Committee on Research grants
+from the University of California, Los Angeles (UCLA). B.J.B. was supported
+by NSF Graduate Research Fellowship (GRF) Grant 1650042 and two
+Achievement Rewards for College Scientists Foundation, Northern Cali-
+fornia Chapter fellowships. I.G. was supported by the International Society
+for Human Ethology, a Ford Foundation fellowship, an NSF GRF, and multi-
+ple grants from UCLA. Any opinions, findings, and conclusions or recommen-
+dations expressed in this material are those of the author(s) and do not
+necessarily reflect the views of the NSF or other funding agencies.
+1. Imanishi K (1952) Man (Mainichi-Shinbunsha, Tokyo).
+2. Kummer H (1971) Primate Societies: Group Techniques of Ecological Adaptation
+(AHM Publ Corp, Arlington Heights, IL).
+3. West-Eberhard MJ (2003) Developmental Plasticity and Evolution (Oxford Univ Press,
+Oxford).
+4. Giraldeau L-A, Caraco Y, Valone T (1994) Social foraging: Individual learning and
+cultural transmission of innovations. Behav Ecol 5:35–43.
+5. Sol D (2003) Behavioural flexibility: A neglected issue in the ecological and evolu-
+tionary literature? Animal Innovation, eds Reader SM, Laland KN (Oxford Univ Press,
+Oxford), pp 62 –82.
+6. Reader SM, Morand-Ferron J, Flynn E (2016) Animal and human innovation: Novel
+problems and novel solutions. Philos Trans R Soc Lond B Biol Sci 371:371.
+7. Wyles JS, Kundel JG, Wilson AC (1983) Birds, behavior, and anatomical evolution. Proc
+Natl Acad Sci USA 80:4394–4397.
+8. Keagy J, Savard J-F, Borgia G (2009) Male satin bowerbird problem-solving ability
+predicts mating success. Anim Behav 78:809–817.
+9. Cauchard L, Boogert NJ, Lefebvre L, Dubois F, Doligez B (2013) Problem-solving per-
+formance is correlated with reproductive success in a wild bird population. Anim
+Behav 85:19–26.
+10. Whiten A, Ayala FJ, Feldman MW, Laland KN (2017) The extension of biology through
+culture. Proc Natl Acad Sci USA 114:7775–7781.
+11. Reader SM, Laland KN (2003) Animal innovation: An introduction. Animal Innovation,
+eds Reader SM, Laland KN (Oxford Univ Press, Oxford), pp 3 –35.
+12. Ramsey G, Bastian ML, van Schaik C (2007) Animal innovation defined and oper-
+ationalized. Behav Brain Sci 30:393–407.
+13. van Schaik CP, et al. (2016) The reluctant innovator: Orangutans and the phylogeny of
+creativity. Philos Trans R Soc Lond B Biol Sci 371:371.
+14. Fogarty L, Creanza N, Feldman MW (2015) Cultural evolutionary perspectives on
+creativity and human innovation. Trends Ecol Evol 30:736–754.
+15. Perry S (1996) Intergroup encounters in wild white-faced capuchins, Cebus capucinus.
+Int J Primatol 17:309–330.
+16. Reader SM, Laland KN (2001) Primate innovation: Sex, age, and social rank differ-
+ences. Int J Primatol 22:787–805.
+17. Lefebrvre L, et al. (1998) Feeding innovations and forebrain size in Australasian birds.
+Behaviour 135:1077–1097.
+18. Lefebrvre L, Whittle P, Lascaris E, Finkelstein A (1997) Feeding innovations and
+forebrain size in birds. Anim Behav 53:549–560.
+19. Boogert NJ, Reader SM, Hoppitt W, Laland KN (2008) The origin and spread of in-
+novations in starlings. Anim Behav 75:1509–1518.
+20. Thornton A, Samson J (2012) Innovative problem solving in wild meerkats. Anim
+Behav 83:1459–1468.
+21. Aplin LM, et al. (2015) Experimentally induced innovations lead to persistent culture
+via conformity in wild birds. Nature 518:538–541.
+22. Kendal RL, Coe RL, Laland KN (2005) Age differences in neophilia, exploration, and
+innovation in family groups of callitrichid monkeys. Am J Primatol 66:167–188.
+23. Russon AE (2003) Innovation and creativity in forest-living rehabilitant orangutans.
+Animal Innovation, eds Reader SM, Laland KN (Oxford Univ Press, Oxford), pp 279 –306.
+24. Whiten A, et al. (1999) Cultures in chimpanzees. Nature 399:682–685.
+25. van Schaik CP, et al. (2003) Orangutan cultures and the evolution of material culture.
+Science 299:102–105.
+26. van Schaik CP, van Noordwijk MA, Wich SA (2006) Innovation in wild Bornean
+orangutans ( Pongo pygmaeus wurmbii ). Behaviour 143:839–876.
+27. Perry S, et al. (2003) Social conventions in wild white-faced capuchin monkeys: Evi-
+dence for traditions in a neotropical primate. Curr Anthropol 44:241–268.
+28. Koolhaas JM, et al. (1999) Coping styles in animals: Current status in behavior and
+stress-physiology. Neurosci Biobehav Rev 23:925–935.
+29. Kummer H, Goodall J (1985) Conditions of innovative behaviour in primates. Philos
+Trans R Soc Lond B Biol Sci 308:203–214.
+30. Overington S, Morand-Ferron J, Boogert NJ, Lefebvre L (2009) Technical innovations
+drive the relationship between innovativeness and residual brain size in birds. Anim
+Behav 78:1001–1010.
+31. Navarrete AF, Reader SM, Street SE, Whalen A, Laland KN (2016) The coevolution of
+innovation and technical intelligence in primates. Philos Trans R Soc Lond B Biol Sci
+371:371.
+32. Stephan H, Bauchot R, Andy OJ (1970) Data on size of the brain and various brain
+parts in insectivores and primates. The Primate Brain , eds Noback CR, Montagna W
+(Appleton-Century-Crofts, New York), pp 289 –297.
+33. Perry S, Ordoñez Jiménez JC (2006) The Effects of Food Size, Rarity, and Processing
+Complexity on White-Faced Capuchins’ Visual Attention to Foraging Conspecifics,e d s
+Hohmann G, Robbins M, Boesch C (Cambridge Univ Press, Cambridge, UK), pp 203–234.
+34. Fragaszy DM, Visalberghi E, Fedigan LM (2004) The Complete Capuchin: The Biology
+of the Genus Cebus (Cambridge Univ Press, Cambridge, UK).
+35. Day RL, Coe RL, Kendal JR, Laland KN (2003) Neophilia, innovation and social learn-
+ing: A study of intergeneric differences in callitrichid monkeys. Anim Behav 65:
+559–571.
+36. Lynch Alfaro JW, et al. (2012) Explosive Pleistocene range expansion leads to wide-
+spread Amazonian sympatry between robust and gracile capuchin monkeys.JB i o g e o g r
+39:272–288.
+37. Rose L, et al. (2003) Interspecific interactions between white-faced capuchins (Cebus
+capucinus) and other species: Preliminary data from three Costa Rican sites. Int J
+Primatol 24:759–796.
+38. Perry S, Manson JH (2008) Manipulative Monkeys: The Capuchins of Lomas Barbudal
+(Harvard Univ Press, Cambridge, MA).
+39. Sol D, Sayol F, Ducatez S, Lefebvre L (2016) The life-history basis of behavioural in-
+novations. Philos Trans R Soc Lond B Biol Sci 371:371.
+40. Perry S (2012) The behavior of wild white-faced capuchins: Demography, life history,
+social relationships, and communication. Adv Study Behav 44:135–181.
+41. Perry S (2011) Social traditions and social learning in capuchin monkeys ( Cebus). Philos
+Trans R Soc Lond B Biol Sci 366:988–996.
+42. Nishida T, Matsusaka T, McGrew WC (2009) Emergence, propagation or disappear-
+ance of novel behavioral patterns in the habituated chimpanzees of Mahale: A re-
+view. Primates 50:23–36.
+43. Haslam M, et al. (2016) Pre-Columbian monkey tools. Curr Biol 26:R521–R522.
+44. Gould SJ, Vrba ES (1982) Exaptation - a missing term in the science of form.
+Paleobiology 8:4–15.
+45. Zahavi A (1977) The testing of a bond. Anim Behav 25:246–247.
+46. Russon AE, Kuncoro P, Ferisa A (2015) Tools for the trees: Orangutan arboreal tool use
+and creativity. Animal Creativity and Innovation , eds Kaufman AB, Kaufman JC
+(Elsevier, San Diego), pp 419 –455.
+47. Beck SR, Williams C, Cutting N, Apperly IA, Chappell J (2016) Individual differences in
+children’s innovative problem-solving are not predicted by divergent thinking or
+executive functions. Philos Trans R Soc Lond B Biol Sci 371:371.
+48. Laland KN, van Bergen Y (2003) Experimental studies of innovation in the guppy.
+Animal Innovation , eds Reader SM, Laland KN (Oxford Univ Press, New York), pp
+155–173.
+49. Frankie GW, Vinston SB, Newstrom LE, Barthell JF (1988) Nest site and habitat pref-
+erences of Centris bees in the Costa Rican dry forest. Biotropica 20:301–310.
+50. Perry S, Godoy I, Lammers W (2012) The Lomas Barbudal Monkey Project: Two de-
+cades of research on Cebus capucinus . Long-Term Field Studies of Primates , eds
+Kappeler P, Watts D (Springer, New York), pp 141 –165.
+51. Russon A, Andrews K, Huss B (2007) Innovation and the grain problem. Behav Brain
+Sci 30:423–433.
+52. Neumann C, Kulik L (2014) EloRating: Animal Dominance Hierarchies by Elo-Rating.
+R Package, Version 0.43. Available at https://cran.r-project.org/package=EloRating.
+Accessed January 5, 2017.
+53. McElreath R (2016) Statistical Rethinking: A Bayesian Course with Examples in R and
+Stan (Chapman and Hall/CRC, New York).
+54. Stan Development Team (2016) RStan: The R Interface to Stan. R package version
+2.14.1. (R Foundation for Statistical Computing, Vienna).
+55. R Development Core Team (2013) R: A Language and Environment for Statistical
+Computing (R Foundation for Statistical Computing, Vienna).
+Perry et al. PNAS | July 25, 2017 | vol. 114 | no. 30 | 7813
+ANTHROPOLOGY COLLOQUIUM
+PAPER
+Downloaded from https://www.pnas.org by 92.208.224.29 on August 11, 2026 from IP address 92.208.224.29.

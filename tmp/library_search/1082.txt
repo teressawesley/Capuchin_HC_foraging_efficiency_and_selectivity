@@ -1,0 +1,640 @@
+PDF PAGE 1
+Brief CommuniC ation
+https:/ / doi.org/10.1038/s41559-017-0429-7
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. © 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+1Centre for Biological Diversity, School of Biology, University of St Andrews, St Andrews, UK. 2School of Biological Sciences, University of Edinburgh, 
+Edinburgh, UK. Present address: 3Department of Animal and Plant Sciences, University of Sheffield, Sheffield, UK. *e-mail: jsc20@st-andrews.ac.uk; 
+christian.rutz@st-andrews.ac.uk
+The New Caledonian crow is the only non-human animal known 
+to craft hooked tools in the wild, but the ecological benefit of 
+these relatively complex tools remains unknown. Here, we 
+show that crows acquire food several times faster when using 
+hooked rather than non-hooked tools, regardless of tool mate-
+rial, prey type and extraction context. This implies that small 
+changes to tool shape can strongly affect energy-intake rates, 
+highlighting a powerful driver for technological advancement.
+New Caledonian crows Corvus moneduloides  use a remarkable 
+diversity of tool types for extractive foraging 1,2, including ‘non-
+hooked stick tools’ , which are simple unmodified twigs or leaf peti-
+oles3 (Fig. 1a, bottom), and ‘hooked stick tools’ , which are crafted 
+from freshly harvested branching twigs, and often incorporate a 
+range of distinct design features1,4–9 (Fig. 1a, top, and Supplementary 
+Video 1). It has been suggested that hooked tool manufacture may 
+have arisen through the (genetic or cultural) accumulation of 
+innovations
+6,9 (for a schematic illustration, see Fig. 1b). Any such 
+cumulative process would require differential efficiency of tool 
+types10—an important assumption we set out to test experimentally, 
+addressing a conspicuous gap in our understanding of this avian 
+model system
+11.
+To determine whether the use of hooks enhances food-intake 
+rates of New Caledonian crows, we provided 17 temporarily cap -
+tive subjects with a suite of standardized, replicated extractive for -
+aging tasks and recorded the time taken to obtain embedded ‘prey’ 
+when using either hooked or non-hooked stick tools (Fig. 1c and 
+Supplementary Video 2). We compared time-to-extraction data in 
+a survival-analysis framework, with poor ‘survival’ of prey indicat
+-
+ing a superior tool design. Crows manufactured their own hooked 
+stick tools from fresh stems of the locally preferred raw material, 
+the perennial shrub Desmanthus virgatus
+8. In a separate treatment, 
+they chose non-hooked stick tools from 100 assorted (non-forked) 
+twigs and leaf petioles that had been collected from forest leaf litter. 
+In each 90-min trial, subjects were given wooden logs containing 18 
+extraction tasks, in which one of two prey types was hidden in one 
+of two hole sizes (vermiform prey in narrow holes, vermiform prey 
+in wide holes and spiders in wide holes).
+Crow-made hooked stick tools (treatment 1a; solid blue lines in 
+Fig. 1d) were three to 13 times more efficient than crow-sourced 
+non-hooked tools (treatment 1b; solid red lines), depending on the 
+task (spiders in wide holes, hazard ratio (HR) =  2.91 (95% confi
+-
+dence interval (CI) =  1.62–5.24), z-test statistic =  3.57, P <  0.001; 
+vermiform prey in wide holes, HR =  5.73 (95% CI =  3.12–10.53), 
+z =  5.64, P <  0.001; vermiform prey in narrow holes, HR =  12.75 
+(95% CI =  5.81–28.01), z =  6.34, P <  0.001). Although hooked tools 
+were more efficient in all tasks, some tasks were inherently more 
+demanding than others: spiders were acquired more quickly than 
+vermiform prey from wide holes (for treatment 1a, HR =  1.79 (95% 
+CI =  1.26–2.53), z =  3.25, P =  0.001) and vermiform prey were 
+acquired more quickly from wide than narrow holes (for treatment 
+1a, HR =  1.47 (95% CI =  1.04–2.08), z =  2.20, P =  0.028).
+Two further treatments, in which hooked and non-hooked tools 
+were made from matched D. virgatus stems, controlled for the pos
+-
+sible effects of raw materials. Researcher-made hooked stick tools 
+(treatment 2a; dashed blue lines) were between six and nine times 
+more efficient than the material-matched, non-hooked alternative 
+(treatment 2b; dashed red lines; vermiform prey in narrow holes, 
+HR =  5.80 (95% CI =  2.42–13.90), z =  3.94, P <  0.001; spiders in 
+wide holes, HR =  8.57 (95% CI =  4.02–18.27), z =  5.57, P <  0.001; 
+vermiform prey in wide holes, HR =  8.91 (95% CI =  3.98–19.94), 
+z =  5.32, P <  0.001), consistent with the design being a more impor
+-
+tant determinant of tool efficiency than raw-material properties. 
+Interestingly, researcher-made hooked tools (dashed blue lines) 
+outperformed crow-made versions (solid blue lines), although the 
+effect remained non-significant (spiders in wide holes, HR =  1.93 
+(95% CI =  0.98–3.79), z =  1.92, P =  0.055; vermiform prey in wide 
+holes, HR =  1.60 (95% CI =  0.82–3.10), z =  1.38, P =  0.170; ver
+-
+miform prey in narrow holes, HR =  1.15 (95% CI =  0.59–2.27), 
+z =  0.41, P =  0.680). This tendency may result from the fact that 
+researcher-made tools were deliberately exemplary, containing all 
+features typical of hooked stick tools in our study population
+5,6,9, 
+while crow-made tools were more variable.
+Overall, the effect of task on the magnitude of the difference 
+between tool types contributed to a significant tool ×  task inter -
+action term (likelihood ratio test, χ 2-test statistic =  18.99, d.f. =  6, 
+P =  0.004). Comparison of our two non-hooked treatments (1b 
+and 2b), in which tool materials differed, offered an opportunity 
+to assess the contribution of raw-material properties to tool per
+-
+formance. When extracting prey from large holes (Fig. 1d , bottom 
+two panels) there was no difference between non-hooked stick tools 
+made from fresh D. virgatus stems (treatment 2b; dashed red lines) 
+and (non-hooked) dead twigs and leaf petioles (treatment 1b; solid 
+red lines), but D. virgatus stems may have been better for extracting 
+vermiform prey from narrow holes (compare the dashed and solid 
+red lines in the top panel; HR =  2.54 (95% CI =  0.95–6.76), z =  1.86, 
+P =  0.062). This (non-significant) result suggests that the selection 
+of particular raw materials can, in some foraging contexts at least, 
+be profitable in the absence of further design changes, indicating a 
+plausible first step in a cumulative pathway towards hooked stick 
+tool manufacture
+6,9 (Fig. 1b).
+Hook innovation boosts foraging efficiency in  
+tool-using crows
+James J. H. St Clair   1*, Barbara C. Klump1, Shoko Sugasawa1, Caitlin G. Higgott1,3, Nick Colegrave2 
+and Christian Rutz   1*
+NatuRe eC oloG y & evolutioN | VOL 2 | MARCH 2018 | 441–444 | www.nature.com/ natecolevol 441
+
+PDF PAGE 2
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. © 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+Brief CommuniC ation NaTure e Cology & evoluTioN
+In conclusion, our finding that New Caledonian crows using 
+hooked stick tools can extract food from a range of naturalistic 
+foraging tasks several times faster than when using non-hooked 
+alternatives helps to explain the evolution of complex tool-manu -
+facturing abilities in this species (for related work on human and 
+chimpanzee tools, see refs 
+12–14). Food-intake rate is a fundamental 
+Cumulative riskCumulative riskCumulative risk
+Treatment 1a: crow–made hooked stick tools
+Treatment 1b: crow–sourced non–hooked stick tools
+Treatment 2a: researcher–made 'matched' hooked stick tools
+Treatment 2b: researcher–supplied 'matched' non–hooked stick tools
+Not attempted
+Unsuccessful
+Successful
+5 mm
+a
+c
+de
+b
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+01 00 2003 00 400
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+01 00 2003 00 400
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+01 00 2003 00 400
+Probing time (s)
+1b
+2b
+1a
+2a
+00 .5 1.0
+47
+96
+48
+102
+Number of
+extraction opportunities
+1b
+2b
+2a
+00 .5 1.0
+48
+97
+48
+102
+1a
+1b
+2b
+1a
+2a
+00 .5 1.0
+48
+97
+48
+101
+Proportion of tasks
+5 mm
+Fig. 1 | ecological benefit of hook innovation in New Caledonian crows. a, Crows use hooked (top, blue) and non-hooked (bottom, red) stick tools in the 
+wild. For each tool type, the images show the functional ends of three representative tools that were recovered from wild birds. Note the smaller stem 
+diameter and crafted terminal hook of the hooked tools. b, Schematic showing the proposed cumulative evolution of hooked stick tool manufacture (left to 
+right), with colour coding corresponding to the following experimental treatments (see panel d): selection of non-hooked sticks from leaf litter (treatment 
+1b, solid red); removal of non-hooked twigs from living plant material (treatment 2b, dashed red); removal of ‘basic’ hooked stick tools from a fork in living 
+plant material (some tools in treatment 1a, solid blue); and production of more complex hooked stick tools through further processing, including refinement 
+of the hook, removal of bark and adjustment of shaft curvature (most tools in treatment 1a and all tools in treatment 2a, solid and dashed blue). c, Aviary 
+setup during an experimental trial, including a ‘tool-presentation log’ (background) on which tool materials are placed (in this example, for treatment 1a) 
+and two ‘task logs’ (only one of which is visible in the foreground) from which the subject is trying to extract ‘prey’. d, Efficiency of hooked (blue) and non-
+hooked (red) stick tools (solid lines for crow-made/ crow-sourced tools (n =  17 subjects); dashed lines for material-matched, researcher-supplied tools 
+(n =  8 subjects)) when used by temporarily captive crows on three different extraction tasks (top, vermiform prey in narrow holes; middle, vermiform prey 
+in wide holes; bottom, spiders in wide holes). Inverse Kaplan–Meier survival plots approximate the cumulative probability of extraction for each prey type 
+during probing with a given tool type. Relatively steep slopes indicate low survival of prey, and thus an efficient tool type. Crosses mark censorship events, 
+which occurred when subjects tried, but failed, to extract prey items. e, Foraging outcome in each experimental treatment (corresponding to the panels and 
+lines in panel d), pooled across subjects and expressed as proportions. Image credit: P. Barros da Costa (panel a, lower crow image).
+NatuRe eC oloG y & evolutioN | VOL 2 | MARCH 2018 | 441–444 | www.nature.com/ natecolevol442
+
+PDF PAGE 3
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. © 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+Brief CommuniC ationNaTure e Cology & evoluTioN
+determinant of Darwinian fitness and is therefore subject to intense 
+selection15,16. Given the modest manufacture costs of hooked stick 
+tools (a crow can manufacture a new tool in less than two minutes4,6 
+and will routinely transport, store and re-use it 1,17), the improved 
+rate of energy acquisition achieved with this tool type should impart 
+substantial fitness advantages to its users by enhancing survival, 
+reproductive success or both. Natural selection should thus favour 
+traits that support the manufacture of this more complex tool type. 
+These might include characteristics (cognitive, motor or physiologi
+-
+cal) that confer a tendency to produce specific design features such 
+as hooks (so-called ‘inductive biases’ or ‘attractors’
+10,18) or more  
+general cognitive abilities that support the independent or social 
+learning of effective tool designs
+18.
+Despite extensive research efforts over the past 20 years2, we are 
+yet to understand how individual New Caledonian crows acquire 
+the capacity to produce specific tool designs and the mechanisms 
+by which the species’ most complex tools might have evolved from 
+simpler precursors. Our experimental finding that hook innovation 
+substantially boosts crows’ foraging performance demonstrates a 
+potentially powerful engine for cumulative processes and paves the 
+way for future work that charts the genetic and social components 
+ 
+of tool-type transmission 11,19. New Caledonian crows may present 
+the only case of cumulative cultural evolution of technology out -
+side the hominid radiation 9,20,21 and, as such, present an invaluable 
+comparative opportunity to elucidate the ecological conditions  
+and biological processes that allow technologies to arise, evolve  
+and diversify.
+Methods
+Study site, subjects and housing. The study was carried out from 20 October 
+to 6 December 2012 and from 24 August to 9 November 2013 in our long-term 
+‘farmland’ study site in Gouaro-Déva, New Caledonia (for a map and further 
+details, see ref. 
+22). Of 41 New Caledonian crows trapped with meat-baited  
+whoosh-nets, we immediately released six birds because of their breeding or 
+health status, and one bird escaped on the day of capture. Following post-capture 
+processing (blood sampling, biometric measurements and banding), crows  
+were housed individually in field aviaries, with the exception of adults that  
+had been trapped with dependent young, which were kept together. Subjects were 
+always tested in isolation in an experimental chamber (Fig. 1c) adjoining their 
+housing aviary. Food was withdrawn before the experimental trials to ensure  
+the birds were motivated to forage, but water was always available (for further 
+details, see refs 
+5,17).
+Pre-testing procedure. To address the ethical concern of exposing crows to tool 
+designs that they may not have encountered in the wild, all potential subjects 
+were pre-tested for their ability to manufacture hooked stick tools (on current 
+evidence, all hooked-tool-using crows can select and use non-hooked stick tools). 
+A simple baited extraction task was maintained in each subject’s housing aviary, 
+together with a selection of the locally preferred raw material for hooked stick 
+tool manufacture, forked stems of the shrub D. virgatus
+8 and assorted non-hooked 
+twigs and leaf petioles. Of the 34 crows pre-tested, three were released before we 
+finalized the experimental protocol, nine could not be confirmed to manufacture 
+hooked tools during the pre-testing period (mean ±  s.d.: 9.33 ±  4.61 days) and five 
+were reluctant to engage with the apparatus during their first experimental trial 
+and were therefore released. The remaining 17 hook-tool-proficient crows (eight 
+birds in 2012 and nine in 2013) completed the main experiments described below. 
+This experimental group consisted of 13 females (three adults, six immatures and 
+four juveniles) and four males (one adult and three immatures), while the excluded 
+group consisted of 11 females (five adults, two immatures and four juveniles) and 
+13 males (seven adults, four immatures and two juveniles) (sexing for all-but-one 
+subject based on morphology
+23).
+While it would have been ideal to also test birds that exclusively use non-
+hooked stick tools, identifying such birds in a study population in which hooked 
+stick tool making is widespread (as in ours) is impossible because pre-testing 
+cannot reliably identify true negatives (that is, crows that are incapable of making 
+hooked stick tools). In fact, two of the nine birds that failed to produce hooked 
+tools during pre-testing were subsequently observed making such tools in the wild. 
+Sourcing subjects from populations in which hooked stick tool making is evidently 
+absent (such as from the island of Maré
+24) would also be problematic, as this would 
+confound tool-design specialization with other between-site (known genetic25 
+and possible environmental) differences. In any case, all crows in our experiment 
+readily recognized, and were highly motivated to use, both non-hooked and 
+hooked stick tools (for further details, see below).
+Experimental setup and extraction tasks. The experimental chamber contained 
+the following apparatus (Fig. 1c): a ‘tool-presentation log’ on which a selection 
+of tools or tool materials was placed for crows to choose from, according to the 
+treatments described below, and a pair of ‘task logs’ , which contained a total of 18 
+drilled holes of 70 mm depth (12 of around 12 mm diameter and six of around 
+9 mm diameter). Each of the wider holes was baited with one of two different ‘prey’ 
+types: cylindrical meat ‘worms’ bored out of frozen beef heart using a high-speed 
+core drill (‘vermiform prey’ , n =  10: mean ±  s.d. length, 20.7 ±  0.9 mm; diameter, 
+7.7 ±  0.5 mm; mass, 0.89 ±  0.07 g) or dead wolf spiders (Lycosidae), collected locally 
+and killed by freezing (n =  10: body length, 17.1 ±  1.2 mm; mass, 0.46 ±  0.09 g). 
+The narrow holes were always baited with vermiform prey as they were too small 
+for spiders. In each experimental trial, the subject was thus presented with six 
+replicates of three different task types: vermiform prey in narrow holes, vermiform 
+prey in wide holes and spiders in wide holes. These experimental tasks (Fig. 1d)  
+capture key aspects of natural foraging scenarios: according to recent field 
+observations, crows in a nearby study site use hooked stick tools primarily for  
+the extraction of adult arthropods and vermiform moth and beetle larvae from 
+cavities in standing timber
+26.
+Experimental treatments and procedures. Trials were initiated by an assistant 
+opening a connecting door between a subject’s housing aviary to an experimental 
+chamber, encouraging the bird to move by standing in the housing aviary 
+and closing the door behind it once it had moved. The experimental chamber 
+contained the task logs and one of four different types of tool or tool raw materials 
+atop the tool-presentation log. These materials corresponded to four different 
+treatments. Two of these (1a and 1b) allowed comparison between hooked and 
+non-hooked stick tools as used by crows in nature. Because the tools in these 
+treatments differed in material as well as shape (see below), and because the 
+tools produced by crows in treatment 1a were quite variable
+9 (Fig. 1b), a further 
+comparison was necessary to isolate the effect of tool design. Accordingly, we 
+provided crows with researcher-made hooked and non-hooked tools prepared 
+from matched raw materials (2a and 2b).
+Crow-made hooked stick tools (treatment 1a). A choice was offered of ten 
+bifurcating stems of the locally preferred raw material for hooked stick tool 
+manufacture (D. virgatus; see above). Stems were wedged into small holes in the 
+tool-presentation log as though they were growing, allowing crows to harvest 
+material and manufacture tools as they would in the wild
+6,8.
+Crow-sourced non-hooked stick tools (treatment 1b). A choice was offered  
+of 100 sticks and leaf petioles of various lengths and diameters (within the range  
+of sizes that crows are known to select for use in the wild
+27), sourced from  
+the leaf litter of local dry-forest habitat and scattered, thoroughly mixed, on the  
+tool-presentation log. As we do not know the criteria for New Caledonian crows’ 
+non-hooked stick tool selectivity, a large sample was offered to reduce the risk  
+of including only unsatisfactory examples.
+Researcher-made ‘matched’ hooked stick tools (treatment 2a). A choice was offered 
+of three researcher-made hooked stick tools prepared from stems of D. virgatus. 
+These tools were intended to be exemplary, made from the same material and 
+incorporating the same three features (crafted hook, stripped bark and terminal 
+curvature) characteristic of tools recovered from wild birds at the study site
+5,6,8,9. 
+Tools were set out on the tool-presentation log in random order.
+Researcher-supplied ‘matched’ non-hooked stick tools (treatment 2b). A choice was 
+offered of three researcher-made non-hooked stick tools cut from D. virgatus 
+stems, which had been matched as closely as possible to those used in treatment 
+2a. To avoid bias, the stems were first paired for diameter, length and shape before 
+being allocated randomly to either treatment 2a or 2b. Tools were set out on the 
+tool-presentation log as in treatment 2a.
+Seventeen subjects received treatments 1a and 1b, and eight of these (2012 field 
+season only) also experienced treatments 2a and 2b. Within subjects, the order 
+of treatments was randomized. The allocation of prey types to holes in task logs 
+was randomized between subjects, but kept constant across treatments within 
+subjects. Crows were observed for 90 min from the time they were introduced to the 
+experimental chamber or until they had extracted all bait. In cases where birds did 
+not appear to be food-motivated, trials were terminated and repeated at a later date 
+(seven subjects, eight trials). All trials were filmed with a Panasonic camcorder  
+(HC-V700 or HDC-SD900) from a hide outside the experimental chamber, producing 
+high-definition video at 50 frames per second for detailed behavioural analyses.
+Video scoring. Using video-coding software (Solomon Coder;  
+http://solomoncoder.com), we scored at 0.2 s time resolution (that is, every tenth 
+video frame) whether the subject was probing in any baited holes (identified 
+through numbers on the log; see Fig. 1c). ‘Probing’ was defined as holding a tool  
+in the bill, with one end of the tool inserted into a hole (that is, below the surface  
+of the task log). Probing often took place across multiple ‘bouts’ , each of which 
+started when the tip of a tool was inserted into a hole (or a subject gripped an 
+NatuRe eC oloG y & evolutioN | VOL 2 | MARCH 2018 | 441–444 | www.nature.com/ natecolevol 443
+
+PDF PAGE 4
+© 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved. © 2018 Macmillan Publishers Limited, part of Springer Nature. All rights reserved.
+Brief CommuniC ation NaTure e Cology & evoluTioN
+already-inserted tool), and finished when it was withdrawn (or released). Because 
+prey was sometimes moved to a point where it was within reach of the bill, but 
+the bird did not grasp it immediately, we scored ‘prey securement’ as the last time 
+when bait was entirely inside the hole and the subject was simultaneously probing 
+(Supplementary Video 2). The dependent variable for analyses was the total 
+(summed) probing time in each baited hole before prey securement or the end 
+of the trial, whichever occurred first. Birds occasionally moved wholly or partly 
+out of the field of view during trials so that their behaviour could not be scored. 
+Such ‘blind’ periods formed a negligible percentage of the overall observation time 
+(0.1%) and were not biased between treatments (Kruskal–Wallis test, χ
+2
+3 =  1.867, 
+P =  0.601). In cases where the subject was only partially out of sight and enough 
+information was available to score behaviour with some confidence, any probing 
+was qualified as ‘inferred’ . This formed a very small percentage of the overall 
+probing time (0.5%) and did not differ between treatments (Kruskal–Wallis test, 
+χ
+2
+3 =  2.190, P =  0.534).
+For consistency, all videos were scored in randomized order by the same 
+hypothesis-naïve observer (C.G.H.) and only these scores were used for the final 
+analyses. Re-scoring of a subsample by a second observer (J.J.H.S.C.) showed very 
+high agreement: in 33 extractions from two trials, scorers differed only by a mean 
+of 0.4 s, which is 1.8% of the median extraction duration of 21.8 s, with a maximum 
+disagreement of 1.6 s (Pearson correlation, r =  0.9997, t
+1,31 =  246.1, P <  0.0001; 
+Supplementary Fig. 1). The effect size of all experimental results (see Fig. 1d) by far 
+exceeded the small measurement errors of our video-scoring methodology.
+Statistical analyses. We analysed data with mixed-effects survival models, as 
+probing time effectively produces time-to-event data that can be right-censored 
+(that is, when the trial ends before the bait from a given hole has been secured)  
+and because each subject performed multiple extractions that cannot be considered 
+statistically independent. Specifically, we implemented Cox proportional hazard 
+models incorporating random effects, using the package ‘coxme’
+28 in R version 
+3.0.1. These models estimate the hazard rate for each model term (covariate, 
+factor level or interaction), expressed as a ratio relative to a reference factor level. 
+An elevated HR (HR >  1) indicates relatively low ‘survival’ of the prey item under 
+attack (that is, high tool efficiency) and a reduced HR (HR <  1) indicates relatively 
+high survival (that is, low tool efficiency). HRs and (two-tailed) test statistics  
+are presented for pairwise comparisons of interest, together with upper and  
+lower 95% confidence limits.
+Cox models explicitly consider censored data, when an event is not observed 
+to occur, but a minimum length of time during which it did not occur is known. 
+To investigate performance differences between tool types, we fitted prey survival 
+time as a function of tool type (that is, treatment), task type and their interaction 
+as fixed effects, with treatment nested within subject identity as a random effect 
+(for a similar nesting structure, see ref. 
+29). The chosen random-effect structure 
+controlled for both between-subject variation and the fact that subjects repeatedly 
+extracted bait within the relatively short duration of trials. An identical model 
+lacking the interaction term was rejected following likelihood ratio testing. We 
+tested the proportional hazards assumption using the function ‘cox.zph’ with rank 
+transformation in the ‘survival’ package
+30, a diagnostic that is absent from ‘coxme’ . 
+We used the same structure as our final model, with the exception that subject 
+identity was fitted as a non-nested random (frailty) effect, as nested random effects 
+are not currently supported in this package. The assumption was met both globally 
+and for each term in the model, except for the ‘spider in wide holes’ main effect. 
+Since the model contains a significant interaction, however, we do not interpret the 
+main effects, so this partial violation does not affect our conclusions.
+Subject motivation. Our experiment rests on the assumption that crows were 
+motivated to deploy both hooked and non-hooked stick tools during trials  
+(see above). We found that although crows were approximately twice as likely to 
+obtain prey with hooked stick tools (79% of tasks completed with hooked stick 
+tools (treatments 1a and 2a combined) versus 41% with non-hooked stick tools 
+(treatments 1b and 2b combined); Fig. 1d,e), among the subset of tasks in which 
+they tried but failed, crows spent on average over twice as long probing when using 
+non-hooked tools (56.18 s versus 23.96 s per hole), confirming that they  
+were highly motivated.
+Life Sciences Reporting Summary. Further information on experimental design is 
+available in the Life Sciences Reporting Summary.
+Data availability. The data that support the findings of this study are available 
+from the corresponding authors upon reasonable request.
+Received: 2 May 2017; Accepted: 27 November 2017;  
+Published online: 22 January 2018
+References
+ 1. Hunt, G. R. Nature 379, 249–251 (1996).
+ 2. Rutz, C. & St Clair, J. J. H. Behav. Processes  89, 153–165 (2012).
+ 3. Hunt, G. R. & Gray, R. D. Emu  102, 349–353 (2002).
+ 4. Hunt, G. R. & Gray, R. D. Proc. R. Soc. B 271, S88–S90 (2004).
+ 5. St Clair, J. J. H. & Rutz, C. Phil. Trans. R. Soc. B 368, 20120415 (2013).
+ 6. Klump, B. C. et al. BMC Biol. 13, 97 (2015).
+ 7. Rutz, C. et al. R. Soc. Open. Sci. 3, 160439 (2016).
+ 8. St Clair, J. J. H. et al. Biol. J. Linn. Soc. 118, 226–232 (2016).
+ 9. Sugasawa, S. et al. Curr. Biol. 27, 3885–3890 (2017).
+ 10. Boyd, R., Richerson, P . J. & Henrich, J. in Cultural Evolution:  
+Society, Technology, Language, and Religion (eds Richerson, P . J. & 
+Christiansen, M. H.) 119–142 (MIT Press, Cambridge, 2013).
+ 11. Dean, L. G. et al. Biol. Rev. 89, 284–301 (2014).
+ 12. Cheshier, J. & Kelly, R. L. Am. Antiq.  71, 353–363 (2006).
+ 13. Waguespack, N. M. et al. Antiquity  83, 786–800 (2009).
+ 14. Sanz, C., Call, J. & Morgan, D. Biol. Lett. 5, 293–296 (2009).
+ 15. Boag, P . T. & Grant, P . R. Science 214, 82–85 (1981).
+ 16. Benkman, C. W . & Lindholm, A. K. Nature 349, 519–520 (1991).
+ 17. Klump, B. C. et al. Proc. R. Soc. B 282, 20150278 (2015).
+ 18. Mesoudi, A. Evol. Biol. 43, 481–497 (2015).
+ 19. Rutz., C. et al. Nature  537, 403–407 (2016).
+ 20. Hunt, G. R. & Gray, R. D. Proc. R. Soc. B 270, 867–874 (2003).
+ 21. Shumaker, R. W ., Walkup, K. R. & Beck, B. B. Animal Tool Behavior:  
+The Use and Manufacture of Tools by Animals (Johns Hopkins Univ. Press, 
+Baltimore, 2011).
+ 22. Rutz, C., Ryder, T. B. & Fleischer, R. C. Naturwissenschaften 99,  
+313–320 (2012).
+ 23. Kenward, B. et al. Ibis  146, 652–660 (2004).
+ 24. Hunt, G. R. & Gray, R. D. Biol. Lett. 3, 173–175 (2007).
+ 25. Abdelkrim, J. et al. PLoS ONE 7, e36608 (2012).
+ 26. Troscianko, J. & Rutz, C. Biol. Lett. 11, 20150777 (2015).
+ 27. Bluff, L. A. et al. Proc. R. Soc. B 277, 1377–1385 (2010).
+ 28. Therneau, T. M. coxme: Mixed Effects Cox Models. R. Package  
+Version 2.2-5 (2012).
+ 29. Crawley, M. J. The R Book (Wiley, Chichester, 2007).
+ 30. Therneau, T. M. survival: Survival Analysis. R. Package Version 2.38 (2012).
+a cknowledgements
+We thank the Province Sud and SEM Mwe Ara, New Caledonia, for research permits 
+and access to our study site and facilities, T. Mennesson and C. Lambert for invaluable 
+support, S. Wischnewski, J. van der Wal, Z. Burns and several field assistants for help 
+with bird trapping and husbandry and/or running trials, and A. Péter for technical  
+advice on Solomon Coder software. We are grateful to J. Call, L. Dean, K. Laland,  
+A. Magurran and L. Rendell for providing insightful and constructive comments on 
+earlier drafts. Experiments were approved by Oxford University’s local ethical review 
+committee before the group’s transfer to the University of St Andrews. The study was 
+funded through a Biotechnology and Biological Sciences Research Council David 
+Phillips Fellowship (grant BB/G023913/2 to C.R.) and PhD studentships from the 
+Biotechnology and Biological Sciences Research Council (B.C.K.) and the Japan Student 
+Services Organization (S.S.).
+a uthor contributions
+J.J.H.S.C. and C.R. conceived, designed and planned the experiments.  
+B.C.K., S.S., J.J.H.S.C. and C.R. conducted fieldwork and ran experimental trials.  
+C.G.H. and J.J.H.S.C. scored videos, and S.S. and J.J.H.S.C. extracted data.  
+J.J.H.S.C. and N.C. performed the statistical analyses. J.J.H.S.C. and C.R. wrote the 
+manuscript, which was approved by all authors. C.R. secured funding and supervised  
+the project.
+Competing interests
+The authors declare no competing financial interests.
+a dditional information
+Supplementary information is available for this paper at https://doi.org/10.1038/
+s41559-017-0429-7.
+Reprints and permissions information is available at www.nature.com/reprints.
+Correspondence and requests for materials should be addressed to J.J.H.S.C. or C.R.
+Publisher’s note: Springer Nature remains neutral with regard to jurisdictional claims in 
+published maps and institutional affiliations.
+NatuRe eC oloG y & evolutioN | VOL 2 | MARCH 2018 | 441–444 | www.nature.com/ natecolevol444
+
+PDF PAGE 5
+1 nature research  |  life sciences reporting summaryJune 2017
+Corresponding author(s): Professor Christian Rutz
+Initial submission Revised version Final submission
+Life Sciences Reporting Summary
+Nature Research wishes to improve the reproducibility of the work that we publish. This form is intended for publication with all accepted life 
+science papers and provides structure for consistency and transparency in reporting. Every life science submission will use this form; some list 
+items might not apply to an individual manuscript, but all fields must be completed for clarity. 
+For further information on the points included in this form, see Reporting Life Sciences Research. For further information on Nature Research 
+policies, including our data availability policy, see Authors & Referees and the Editorial Policy Checklist. 
+`    Experimental design
+1.   Sample size
+Describe how sample size was determined. We attempted to trap a large, representative sample of our study population.
+2.   Data exclusions
+Describe any data exclusions. Of 41 crows trapped, we immediately released 6 birds because of their breeding or 
+health status, and 1 bird escaped on the day of capture. The remaining 34 crows 
+were pre-tested, to confirm their hook-tool-making abilities; of these: 3 were 
+released before we finalised the experimental protocol; 9 could not be confirmed 
+to manufacture hooked tools during the pre-testing period; and 5 were reluctant 
+to engage with the apparatus during their first experimental trial, and were 
+therefore released. The remaining 17 hook-tool proficient crows (8 birds in 2012; 9 
+in 2013) participated in treatments 1a and 1b, and 8 of these (2012 field season 
+only) also experienced treatments 2a and 2b.
+3.   Replication
+Describe whether the experimental findings were 
+reliably reproduced.
+Findings were replicated reliably across crows (17 subjects participated in 
+treatments 1a and 1b, and 8 of these also experienced treatments 2a and 2b), with 
+subjects having access in each trial to six replicates of the three different foraging 
+tasks (for sample sizes, see Fig. 1e). For consistency, all videos of crow behaviour 
+were scored in randomised order by the same hypothesis-naive observer (co-
+author Caitlin Higgott), and only these scores were used for final analyses. 
+Rescoring of a subsample by a second observer (first author James St Clair) showed 
+very high agreement: in 33 extractions from two trials, scorers differed only by a 
+mean of 0.4 s, which is 1.8% of the median extraction duration of 21.8 s, with a 
+maximum disagreement of 1.6 s (Pearson correlation, r = 0.9997, t = 246.1, d.f. = 
+1,31, p < 0.0001; Supplementary Fig. 1). The effect size of all experimental results 
+(see Fig. 1d) by far exceeded the small measurement errors of our video-scoring 
+methodology.
+4.   Randomization
+Describe how samples/organisms/participants were 
+allocated into experimental groups.
+We used a within-subject design where crows experienced multiple experimental 
+treatments (either 1a and 1b; or 1a, 1b, 2a and 2b). Within subjects, the order of 
+treatments was randomised. The allocation of prey types to holes in task logs was 
+randomised between subjects, but kept constant across treatments within 
+subjects. In treatments 2a and 2b, tools were set out on the tool-presentation log 
+in random order. Videos of crow behaviour were scored in randomised order.
+5.   Blinding
+Describe whether the investigators were blinded to 
+group allocation during data collection and/or analysis.
+All videos of crow behaviour were scored by the same hypothesis-naive observer 
+(co-author Caitlin Higgott).
+Note: all studies involving animals and/or human research participants must disclose whether blinding and randomization were used.
+
+PDF PAGE 6
+2 nature research  |  life sciences reporting summaryJune 2017
+6.   Statistical parameters 
+For all figures and tables that use statistical methods, confirm that the following items are present in relevant figure legends (or in the 
+Methods section if additional space is needed). 
+n/a Confirmed
+The exact sample size (n) for each experimental group/condition, given as a discrete number and unit of measurement (animals, litters, cultures, etc.)
+A description of how samples were collected, noting whether measurements were taken from distinct samples or whether the same 
+sample was measured repeatedly
+A statement indicating how many times each experiment was replicated
+The statistical test(s) used and whether they are one- or two-sided (note: only common tests should be described solely by name; more 
+complex techniques should be described in the Methods section)
+A description of any assumptions or corrections, such as an adjustment for multiple comparisons
+The test results (e.g. P values) given as exact values whenever possible and with confidence intervals noted
+A clear description of statistics including central tendency (e.g. median, mean) and variation (e.g. standard deviation, interquartile range)
+Clearly defined error bars
+See the web collection on statistics for biologists for further resources and guidance.
+`   Software
+Policy information about availability of computer code
+7. Software
+Describe the software used to analyze the data in this 
+study. 
+- Therneau, T.M. coxme: Mixed effects Cox models. R package version 2.2-5. 
+(2012); http://cran.r-project.org/package=coxme 
+- Therneau, T.M. survival: Survival analysis. R package version 2.38. (2012); http://
+cran.r-project.org/package=survival
+For manuscripts utilizing custom algorithms or software that are central to the paper but not yet described in the published literature, software must be made 
+available to editors and reviewers upon request. We strongly encourage code deposition in a community repository (e.g. GitHub). Nature Methods guidance for 
+providing algorithms and software for publication provides further information on this topic.
+`   Materials and reagents
+Policy information about availability of materials
+8.   Materials availability
+Indicate whether there are restrictions on availability of 
+unique materials or if these materials are only available 
+for distribution by a for-profit company.
+No unique materials were used.
+9.   Antibodies
+Describe the antibodies used and how they were validated 
+for use in the system under study (i.e. assay and species).
+No antibodies were used.
+10. Eukaryotic cell lines
+a.  State the source of each eukaryotic cell line used. No eukaryotic cell lines were used.
+b.  Describe the method of cell line authentication used. No eukaryotic cell lines were used.
+c.  Report whether the cell lines were tested for 
+mycoplasma contamination.
+No eukaryotic cell lines were used.
+d.  If any of the cell lines used are listed in the database 
+of commonly misidentified cell lines maintained by 
+ICLAC, provide a scientific rationale for their use.
+No eukaryotic cell lines were used.
+
+PDF PAGE 7
+3 nature research  |  life sciences reporting summaryJune 2017
+`    Animals and human research participants
+Policy information about studies involving animals; when reporting animal research, follow the ARRIVE guidelines
+11. Description of research animals
+Provide details on animals and/or animal-derived 
+materials used in the study.
+We tested wild-caught, temporarily-captive New Caledonian crows (Corvus 
+moneduloides). Our experimental sample consisted of 13 females (3 adults; 6 
+immatures; 4 juveniles) and 4 males (1 adult; 3 immatures), while the sample of 
+excluded crows consisted of 11 females (5 adults; 2 immatures; 4 juveniles) and 13 
+males (7 adults; 4 immatures; 2 juveniles) (sexing for all-but-one subject based on 
+morphology).
+Policy information about studies involving human research participants
+12. Description of human research participants
+Describe the covariate-relevant population 
+characteristics of the human research participants.
+Our study did not involve human research participants.

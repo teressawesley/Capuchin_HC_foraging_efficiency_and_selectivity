@@ -1,0 +1,622 @@
+PDF PAGE 1
+Report
+Stone tools improve diet quality in wild monkeys
+Highlights
+d Tool use by capuchins monkeys had no effect on the amount
+of food eaten
+d Still, tool use improved nutrition by providing a more
+consistently balanced diet
+d Diets obtained with tools comprised higher levels of fat,
+carbohydrate, and energy
+d Diets obtained with tools comprised lower levels of nutrient-
+diluting ﬁber
+Authors
+Patrı´cia Izar,
+Lucas Peternelli-dos-Santos,
+Jessica M. Rothman, ..., Gerrit Gort,
+Elisabetta M. Visalberghi,
+Dorothy M. Fragaszy
+Correspondence
+patrizar@usp.br
+In brief
+Izar et al. show that capuchin monkeys
+obtain diets with higher levels of fat,
+carbohydrate, and energy and lower
+levels of nutrient-diluting ﬁber on the days
+when they use stone hammers to feed on
+palm nuts versus the days they do not.
+Using natural stone tools in feeding
+improves monkeys’ diet quality and may
+have done the same for ancestral
+hominins.
+Izar et al., 2022, Current Biology 32, 4088–4092
+September 26, 2022 ª 2022 Elsevier Inc.
+https://doi.org/10.1016/j.cub.2022.07.056 ll
+
+
+PDF PAGE 2
+Report
+Stone tools improve diet quality in wild monkeys
+Patrı´cia Izar,1,8,* Lucas Peternelli-dos-Santos,1 Jessica M. Rothman, 2 David Raubenheimer,3 Andrea Presotto,4
+Gerrit Gort,5 Elisabetta M. Visalberghi, 6 and Dorothy M. Fragaszy 7
+1Department of Experimental Psychology, University of Sa˜ o Paulo, Sa˜ o Paulo, SP 05508-030, Brazil
+2Department of Anthropology, Hunter College, City University of New York, New York, NY 10065, USA
+3Charles Perkins Centre and School of Life and Environmental Sciences, The University of Sydney, Sydney, NSW 2006, Australia
+4Department of Geography and Geosciences, Salisbury University, Salisbury, MD 21801, USA
+5Biometris, Wageningen University & Research, Wageningen 6700 AE, the Netherlands
+6Institute of Cognitive Sciences and Technologies, National Research Council, Rome 00197, Italy
+7Psychology Department, University of Georgia, Athens, GA 30602, USA
+8Lead contact
+*Correspondence: patrizar@usp.br
+https://doi.org/10.1016/j.cub.2022.07.056
+SUMMARY
+Tool use is a fundamental feature of human evolution. Stone tools are in the archaeological record from 3.4
+Ma, even before Homo,1 and the use of stone tools probably predated the split between hominins and pan-
+ins.2 Using tools (hereafter, tooling cf Fragaszy and Mangalam3) is hypothesized to have improved hominins’
+foraging efﬁciency or access to high-quality foods. 4–7 This hypothesis is supported if feeding with tools posi-
+tively contributes to diet quality in extant non-human primates or if foraging efﬁciency is increased by tooling.
+However, the contribution of tooling to non-human primates’ foraging success has never been investigated
+through a direct analysis of nutritional ecology.
+8,9 We used multi-dimensional nutritional geometry to analyze
+energy and macronutrients (nonstructural carbohydrates, lipids, and protein) in the diets of wild capuchin
+monkeys ( Sapajus libidinous ) that routinely crack palm nuts with stone hammers.
+10,11 We show that eating
+nuts obtained through tooling helps monkeys to achieve more consistent dietary intakes. Tooling increased
+the net energy gain by 50% and decreased the proportion of ﬁber ingested by 7%. Tooling also increased the
+daily non-protein energy intake. By contrast, protein intake remained constant across foraging days, sug-
+gesting a pattern of macronutrient regulation called protein prioritization, which is also found in contempo-
+rary humans.
+8,9 In addition, tooling reduced dispersion in the ratio of protein to non-protein energy, suggest-
+ing a role in macronutrient balancing. Our ﬁndings suggest that tooling prior to tool making could have
+substantially increased the nutritional security of ancestral hominins, sowing the seeds for cultural develop-
+ment.
+5,7
+RESULTS AND DISCUSSION
+We investigated two habituated wild groups of bearded capu-
+chin monkeys ( Sapajus libidinosus ) living in Fazenda Boa Vista,
+Piauı´, Brazil (hereafter, FBV). Capuchins have become an impor-
+tant comparative reference point for understanding hominin evo-
+lution as they combine a constellation of characteristics that, ac-
+cording to Kaplan et al.’s 5 model of ‘‘developmental embodied
+capital,’’ explain human life history evolution in terms of a shift
+to higher-quality diets. These monkeys have an extended life-
+span, a relatively large proportion of the lifespan spent as juve-
+niles, proportionally large brains, and high manual dexterity.
+12
+Wild bearded capuchin monkeys in several locations use stone
+tools in foraging, 13,14 and young monkeys are not proﬁcient at
+tooling for several years. 15,16
+The population of bearded capuchin monkeys at FBV affords
+an ideal opportunity to study the effects of tooling on diet quality.
+We have a variety of indirect evidence that tooling (speciﬁcally,
+using stone hammers and anvils to crack palm nuts) is ecologi-
+cally important for this population. First, tooling is routine in
+both males and females from about 4 years of age.
+11 The mon-
+keys tool opportunistically across the year to crack several spe-
+cies of palm nuts.
+10 Second, monkeys compete for access to
+nut-cracking sites, in accord with these being highly valued. 17
+Third, young monkeys are strongly attracted to others cracking
+nuts, and young monkeys practice tooling persistently before
+they succeed at cracking a nut. 15,16 In addition, cracking nuts
+with stones is energetically costly. Although adult monkeys
+weigh 2.0–4.4 kg,
+18 the average hammer weighs more than
+1 kg, and adult monkeys can use hammer stones that weigh
+72% more than they weigh. 19
+We quantiﬁed daily food intake for 28 individuals (12 adults, 16
+juveniles; Table S1 ), along with their activity budgets and daily
+path lengths (m) during 129 focal days across 19 months
+(Table S2 ). We measured daily metabolizable energy intake
+and energy expenditure to derive net energy gain, with basal
+metabolic rate adjusted per each individual for its body mass,
+for days when the individual tooled to crack and consume
+nuts, compared with days when she/he did not. On tooling
+days, capuchins increased their total metabolizable energy
+4088 Current Biology 32, 4088–4092, September 26, 2022 ª 2022 Elsevier Inc.
+ll
+
+PDF PAGE 3
+intake by 169 kcal, from 368 to 537 kcal, a gain of 46% ( Figure 1)
+(6%–102%; t = 2.79, df = 117, p = 0.017). They achieved this gain
+through a 51% increase in non-protein energy (NPE) intake from
+311 to 469 kcal (t = 2.85, df = 117, p = 0.014). There was, by
+contrast, no signiﬁcant difference in protein intake ( Figure 1 )
+(t = 2.20, df = 117, p = 0.075), suggesting that capuchins, like hu-
+mans, maintain a more consistent protein intake (kcal/day) than
+non-protein intake, a pattern of macronutrient regulation called
+protein prioritization.
+8,9,20
+The time budgets for traveling, foraging, and socializing and
+daily path length did not differ signiﬁcantly across days with tool-
+ing versus days without tooling, but time budgets for resting and
+eating did: monkeys spent less time resting (OR = 0.54, t =
+/C03.45, df = 117, p = 0.002) and more time eating (OR = 1.36,
+t = 2.76, p = 0.018) on tooling days compared with non-tooling
+days. Furthermore, the monkeys expended 22% more energy
+(using estimated costs of tooling; STAR Methods ) on days
+when they tooled (186 kcal) versus days they did not (153 kcal)
+(t = 6.74, df = 117, p < 0.0001). The ratio of energy intake to en-
+ergy expenditure was 5.24 on tooling days, whereas 4.33 on
+non-tooling days, a non-signiﬁcant increase (t = 1.32, df = 118,
+p = 0.39).
+To evaluate if the increase in the net gain of daily metabolizable
+energy on days when the monkeys cracked nuts was accounted
+for by the caloric content of the nut kernel obtained by tooling,
+we repeated the GLMM analyses of net energy gain corrected
+for body mass with the caloric intake from kernels removed
+from the dataset. The energy net gain with kernels excluded
+from the calculations did not differ signiﬁcantly between days
+with and days without tooling (t = /C01.08, df = 118, p = 0.53).
+This ﬁnding conﬁrms that the kernel of palm nuts was the source
+of higher energy net gain on days with tooling.
+The kernel of the palm nuts that we analyzed ( Orbignya sp.)
+contained 420 kcal/100 g (97.8% NPE). Each nut contains ca.
+5 g of kernel, and on tooling days, capuchins ate between 5
+and 52 g of kernel (1–10 palm nuts). The energy value of palm
+kernels derives almost entirely (90%) from lipids, more than
+nearly any other diet item, except invertebrates.
+Proportional contribution of protein to NPE intake was less on
+days with tooling compared with days without tooling (13%
+versus 17%; t = /C02.66, df = 114, p = 0.024) and less variable
+on days with tooling than days without tooling (dispersion
+modeling in GLMM: z = 2.62, p = 0.009) ( Figure 2 ) (results after
+removal of 3 outliers; with all data included results were not
+Figure 1. Tooling increases the energy intake of capuchin monkeys
+Mean protein (P) and non-protein energy (NPE) intakes of capuchins on tooling
+and non-tooling days. Negative diagonal lines show the total metabolizable
+energy intake (sum of P + NPE) on tooling and non-tooling days. kgmbm =
+metabolic rate adjusted per body mass.
+A
+B
+Figure 2. Tooling helps capuchin monkeys regulate their dietary ra-
+tio of protein to non-protein energy
+The proportional contributions of protein to energy intake were more variable
+on non-tooling days than on tooling days. Right-angle mixture triangle showing
+proportional protein, carbohydrates, and lipid contributions to diets of bearded
+capuchin monkeys on tooling days (A) and non-tooling days (B). Lipid in-
+creases across the diagonals. For further information on the position of food
+items in the right-angle mixture triangle, see also Figure S1.
+ll
+Current Biology 32, 4088–4092, September 26, 2022 4089
+Report
+
+PDF PAGE 4
+signiﬁcant: 14% versus 17%; t = /C01.87, df = 117, p = 0.15, and
+dispersion modeling in GLMM: z = 1.82, p = 0.069). This sug-
+gests that capuchins were better able to regulate the dietary ratio
+of protein to NPE on tooling days than on non-tooling days.
+Because ﬁber reduces absorption of nutrients, especially for
+species lacking adaptations to digest ﬁber such as capuchin
+monkeys with simple stomachs, a lower ﬁber diet improves
+diet quality.
+21 The ratio of neutral detergent ﬁbers (NDFs) to
+NPE on tooling days was lower than on non-tooling days (t =
+/C04.90, df = 115; p < 0.0001, Figure 3A). Accordingly, in addition
+to increasing net energy ingested, we can assume that the capu-
+chins absorbed a greater proportion of ingested NPE on tooling
+days compared with non-tooling days because on tooling days,
+they ingested proportionally less NDF. Thus, tooling improved
+the quality of the monkeys’ diet by providing a rich source of
+lipid, nonstructural carbohydrate, and total energy, as well as
+decreasing the amount of ﬁber ingested. No difference was
+found between tooling and non-tooling days in total dry matter
+intake ( Figure 3 B) (t = 1.24, df = 117, p = 0.43), indicating that
+the effect of tool use was speciﬁcally on diet quality and not
+quantity.
+The current evidence on tooling across populations of non-hu-
+man primates indicates that tooling primarily occurs in the
+context of food abundance when opportunities arise.
+11,22–24
+Our results indicate that even in a population in which tooling
+is opportunistic, it improves diet quality by providing a rich
+source of fat and carbohydrate energy which stabilizes dietary
+macronutrient balance, a dietary metric that has been demon-
+strated for many taxa to be strongly associated with ﬁtness.
+25
+Compared with other populations of Sapajus, the FBV popula-
+tion spends a higher proportion of time resting and socializing. 26
+Thus, this population experiences enhanced opportunities for
+social interaction and for investment in lengthy socially biased
+learning of the tooling tradition compared with others. This
+pattern is reminiscent of the cascades proposed for early
+Homo when tool use became routine.
+7
+Importantly, tooling in FBV did not increase macronutrient
+intake per se, but speciﬁcally the intake of fats and carbohy-
+drates, with protein remaining more stable. This suggests a
+pattern of macronutrient intake called ‘‘protein prioritization,’’
+in which the intake of protein is regulated more strongly than
+fat and carbohydrate.
+20 Protein prioritization has also been
+observed in several other primates, 27–29 including humans, 20
+but is not at all universal in this order. Mountain gorillas show
+the opposite pattern, in which absolute intake of NPE is main-
+tained more constant, whereas protein varies with P:NPE ratio
+of available foods.
+30 Rhesus macaques show an intermediate
+pattern, in which P and NPE intake are regulated with equal
+strength and consequently total energy intake remains constant
+in the face of ecologically constrained variation in dietary macro-
+nutrient ratios.
+31 The reasons for these differences remain un-
+clear, but in the present context, it is interesting that Sapajus
+show the same pattern observed in humans. The likely role of
+percussive tools as a means of sourcing fat-rich in-bone tissues,
+marrow, and brain 32 suggests interesting parallels in the func-
+tional role of tool use in these primates.
+Here, we documented how tooling improves diet quality for
+wild monkeys, providing a new reference point for understanding
+the relationship between tooling and nutritional ecology in hom-
+inins. Our ﬁndings show how tool use could have provided signif-
+icant energetic and nutritional beneﬁts for early hominins even
+when the forms of tooling were technically simple and tooling
+was a small proportion of overall foraging activity. Thus, the
+use of unmodiﬁed natural objects as tools could have served
+as a catalyst for the construction of niches as proposed to
+have characterized human cultural evolution.
+33,34
+STAR+METHODS
+Detailed methods are provided in the online version of this paper
+and include the following:
+d KEY RESOURCES TABLE
+d RESOURCE AVAILABILITY
+B Lead contact
+B Materials availability
+B Data and code availability
+d EXPERIMENTAL MODEL AND SUBJECT DETAILS
+d METHOD DETAILS
+B Data collection
+A
+B
+Figure 3. Tooling decreases the ingestion of ﬁbers by capuchin
+monkeys
+Daily ﬁber to non-protein energy (NDF:NPE) ratio (A) and dry matter (B) intake in
+tufted capuchin monkeys’ diet on tooling and non-tooling days. Shown are
+back-transformed estimated means (from the GLMM) with 95% conﬁdence
+limits.
+ll
+4090 Current Biology 32, 4088–4092, September 26, 2022
+Report
+
+PDF PAGE 5
+B Nutritional analysis
+B Energy expenditure
+d QUANTIFICATION AND STATISTICAL ANALYSIS
+SUPPLEMENTAL INFORMATION
+Supplemental information can be found online at https://doi.org/10.1016/j.
+cub.2022.07.056.
+A video abstract is available at https://doi.org/10.1016/j.cub.2022.07.
+049#mmc4.
+ACKNOWLEDGMENTS
+We thank Maria da Conceic¸a˜ o Fonseca and Marino de Oliveira for permission
+to work on their land, and Marcos Fonseca de Oliveira, Claudio Fonseca, and
+Arizomar de Oliveira for their work as ﬁeld assistants. We thank Dr. Paulo Meir-
+elles and Gisele Setznagl for permission and assistance to conduct the nutri-
+tional content analysis in the State University of Botucatu. The National Council
+for Scientiﬁc and Technological Development (CNPq, number 002547/2011-2)
+and the Information System of Biodiversity (SisBio, number 28689-5), Brazil,
+permitted us to conduct research in Brazil. This research was funded by The
+Sa˜ o Paulo Research Foundation, FAPESP grants 11/21032-2 (P.I.) and 11/
+11504-4 (L.P.-d.-S.), and by The National Council of Scientiﬁc and Technolog-
+ical Development (CNPq) grant 303306/2009-2 (P.I.).
+AUTHOR CONTRIBUTIONS
+P.I. and L.P.-d.-S. conceived the paper. P.I., L.P.-d.-S., J.M.R., and D.R.
+developed the methodology. L.P.-d.-S. collected the data and conducted lab-
+oratory analyses. A.P. conducted the spatial analyses. J.M.R. and D.R. inter-
+preted the nutritional data. G.G., P.I., and L.P.-d.-S. conducted the statistical
+analyses. P.I. was responsible for funding acquisition. P.I., D.M.F., and E.M.V.
+were responsible for the project administration. P.I., L.P.-d.-S., J.M.R., D.R.,
+A.P., G.G., E.M.V., and D.M.F. wrote the paper.
+DECLARATION OF INTERESTS
+The authors declare no competing interests.
+INCLUSION AND DIVERSITY
+We worked to ensure sex balance in the selection of non-human subjects. One
+or more of the authors of this paper self-identiﬁes as an underrepresented
+ethnic minority in science. The author list of this paper includes contributors
+from the location where the research was conducted who participated in the
+data collection, design, analysis, and/or interpretation of the work.
+Received: January 9, 2022
+Revised: May 13, 2022
+Accepted: July 21, 2022
+Published: August 18, 2022
+REFERENCES
+1. Harmand, S., Lewis, J.E., Feibel, C.S., Lepre, C.J., Prat, S., Lenoble, A.,
+Boe¨ s, X., Quinn, R.L., Brenet, M., and Arroyo, A. (2015). 3.3-million-
+year-old stone tools from Lomekwi 3, West Turkana, Kenya. Nature 521,
+310–315. https://doi.org/10.1038/nature14464.
+2. Panger, M.A., Brooks, A.S., Richmond, B.G., and Wood, B. (2002). Older
+than the Oldowan? Rethinking the emergence of hominin tool use. Evol.
+Anthropol. Issues News Rev. 11, 235–245. https://doi.org/10.1002/evan.
+10094.
+3. Fragaszy, D.M., and Mangalam, M. (2018). Tooling. Adv. Study Behav. 50,
+177–241. https://doi.org/10.1016/bs.asb.2018.01.001.
+4. Ambrose, S.H. (2001). Paleolithic technology and human evolution.
+Science 291, 1748–1753. https://doi.org/10.1126/science.1059487.
+5. Kaplan, H., Hill, K., Lancaster, J., and Hurtado, A.M. (2000). A theory of hu-
+man life history evolution: diet, intelligence, and longevity. Evol. Anthropol.
+Issues News Rev. 9, 156–185. https://doi.org/10.1002/1520-6505(2000)
+9:4<156::AID-EVAN5>3.0.CO;2-7.
+6. Ungar, P.S., Grine, F.E., and Teaford, M.F. (2006). Diet in early Homo: a re-
+view of the evidence and a new model of adaptive versatility. Annu. Rev.
+Anthropol. 35, 209–228. https://doi.org/10.1146/annurev.anthro.35.
+081705.123153.
+7. Shea, J.J. (2017). Occasional, obligatory, and habitual stone tool use in
+hominin evolution. Evol. Anthropol. 26, 200–217. https://doi.org/10.
+1002/evan.21547.
+8. Raubenheimer, D., Simpson, S.J., and Mayntz, D. (2009). Nutrition, ecol-
+ogy and nutritional ecology: toward an integrated framework. Funct.
+Ecol. 23, 4–16. https://doi.org/10.1111/j.1365-2435.2009.01522.x.
+9. Martı´nez Steele, E., Raubenheimer, D., Simpson, S.J., Baraldi, L.G., and
+Monteiro, C.A. (2018). Ultra-processed foods, protein leverage and energy
+intake in the USA. Public Health Nutr. 21, 114–124. https://doi.org/10.
+1017/S1368980017001574.
+10. Elisabetta, V., Haslam, M., Spagnoletti, N., and Fragaszy, D. (2013). Use of
+stone hammer tools and anvils by bearded capuchin monkeys over time
+and space: construction of an archeological record of tool use.
+J. Archaeol. Sci. 40, 3222–3232.
+https://doi.org/10.1016/j.jas.2013.03.
+021.
+11. Spagnoletti, N., Visalberghi, E., Verderane, M.P., Ottoni, E., Izar, P., and
+Fragaszy, D. (2012). Stone tool use in wild bearded capuchin monkeys,
+Cebus libidinosus . Is it a strategy to overcome food scarcity? Anim.
+Behav. 83, 1285–1294. https://doi.org/10.1016/j.anbehav.2012.03.002.
+12. Fragaszy, D.M., Visalberghi, E., and Fedigan, L.M. (2004). The Complete
+Capuchin: The Biology of the Genus Cebus (Cambridge University Press) .
+13. Ottoni, E.B., and Izar, P. (2008). Capuchin monkey tool use: overview and
+implications. Evol. Anthropol. 17, 171–178. https://doi.org/10.1002/evan.
+20185.
+14. Mendes, F.D.C., Cardoso, R.M., Ottoni, E.B., Izar, P., Villar, D.N.A., and
+Marquezan, R.F. (2015). Diversity of nutcracking tool sites used by
+Sapajus libidinosus in Brazilian cerrado. Am. J. Primatol. 77, 535–546.
+https://doi.org/10.1002/ajp.22373.
+15. Fragaszy, D.M., Eshchar, Y., Visalberghi, E., Resende, B., Laity, K., and
+Izar, P. (2017). Synchronized practice helps bearded capuchin monkeys
+learn to extend attention while learning a tradition. Proc. Natl. Acad. Sci.
+USA 114, 7798–7805. https://doi.org/10.1073/pnas.1621071114.
+16. Verderane, M.P., Izar, P., Visalberghi, E., and Fragaszy, D.M. (2013).
+Socioecology of wild bearded capuchin monkeys ( Sapajus libidinosus ):
+an analysis of social relationships among female primates that use tools
+in feeding. Behaviour 150, 659–689. https://doi.org/10.1163/1568539X-
+00003076.
+17. Eshchar, Y., Izar, P., Visalberghi, E., Resende, B., and Fragaszy, D. (2016).
+When and where to practice: social inﬂuences on the development of nut-
+cracking in bearded capuchins ( Sapajus libidinosus ). Anim. Cogn. 19,
+605–618. https://doi.org/10.1007/s10071-016-0965-6.
+18. Fragaszy, D.M., Izar, P., Liu, Q., Eshchar, Y., Young, L.A., and Visalberghi,
+E. (2016). Body mass in wild bearded capuchins,( Sapajus libidinosus ):
+ontogeny and sexual dimorphism. Am. J. Primatol. 78, 473–484. https://
+doi.org/10.1002/ajp.22509.
+19. Liu, Q., Fragaszy, D.M., and Visalberghi, E. (2016). Wild capuchin monkeys
+spontaneously adjust actions when using hammer stones of different
+mass to crack nuts of different resistance. Am. J. Phys. Anthropol. 161,
+53–61. https://doi.org/10.1002/ajpa.23006.
+20. Raubenheimer, D., and Simpson, S.J. (2019). Protein leverage: theoretical
+foundations and ten points of clariﬁcation. Obesity 27, 1225–1238. https://
+doi.org/10.1002/oby.22531.
+21. Schulze, H., Van Leeuwen, P., Verstegen, M.W., Huisman, J., Souffrant,
+W.B., and Ahrens, F. (1994). Effect of level of dietary neutral detergent ﬁber
+on ileal apparent digestibility and ileal nitrogen losses in pigs. J. Anim. Sci.
+72, 2362–2368. https://doi.org/10.2527/1994.7292362x.
+ll
+Current Biology 32, 4088–4092, September 26, 2022 4091
+Report
+
+PDF PAGE 6
+22. Fox, E.A., Sitompul, A.F., and Van Schaik, C.P. (1999). Intelligent tool use
+in wild Sumatran orangutans. In The Mentality of Gorillas and Orangutans,
+S. Parker, R. Mitchell, and H.L. Miles, eds. (Cambridge University Press),
+pp. 99–116.
+23. Sanz, C.M., and Morgan, D.B. (2013). Ecological and social correlates of
+chimpanzee tool use. Philos. Trans. R. Soc. Lond. B Biol. Sci. 368,
+20120416. https://doi.org/10.1098/rstb.2012.0416.
+24. Koops, K., Visalberghi, E., and van Schaik, C.P. (2014). The ecology of pri-
+mate material culture. Biol. Lett. 10, 20140508. https://doi.org/10.1098/
+rsbl.2014.0508.
+25. Simpson, S.J., and Raubenheimer, D. (2012). The Nature of Nutrition: A
+Unifying Framework (Princeton University Press) .
+26. Izar, P., Verderane, M.P., Peternelli-Dos-Santos, L., Mendonc ¸ a-Furtado,
+O., Presotto, A., Tokuda, M., Visalberghi, E., and Fragaszy, D. (2012).
+Flexible and conservative features of social systems in tufted capuchin
+monkeys: comparing the socioecology of Sapajus libidinosus and
+Sapajus nigritus . Am. J. Primatol. 74, 315–331. https://doi.org/10.1002/
+ajp.20968.
+27. Takahashi, M.Q., Rothman, J.M., Raubenheimer, D., and Cords, M.
+(2021). Daily protein prioritization and long-term nutrient balancing in a di-
+etary generalist, the blue monkey. Behav. Ecol. 32, 223–235.
+28. Uwimbabazi, M., Raubenheimer, D., Tweheyo, M., Basuta, G.I.,
+Conklin-Brittain, N.L., Wrangham, R.W., and Rothman, J.M. (2021).
+Nutritional geometry of female chimpanzees (Pan troglodytes). Am. J.
+Primatol. 83, e23269.
+29. Felton, A.M., Felton, A., Raubenheimer, D., Simpson, S.J., Foley, W.J.,
+Wood, J.T., Wallis, I.R., and Lindenmayer, D.B. (2009). Protein content
+of diets dictates the daily energy intake of a free-ranging primate.
+Behav. Ecol. 20, 685–690.
+30. Rothman, J.M., Raubenheimer, D., and Chapman, C.A. (2011). Nutritional
+geometry: gorillas prioritize non-protein energy while consuming surplus
+protein. Biol. Lett. 7, 847–849. https://doi.org/10.1098/rsbl.2011.0321.
+31. Cui, Z.W., Wang, Z.L., Shao, Q., Raubenheimer, D., and Lu, J.Q. (2018).
+Macronutrient signature of dietary generalism in an ecologically diverse
+primate in the wild. Behav. Ecol. 29, 804–813. https://doi.org/10.1093/be-
+heco/ary003.
+32. Thompson, J.C., Carvalho, S., Marean, C.W., and Alemseged, Z. (2019).
+Origins of the human predatory pattern: the transition to large-animal
+exploitation by early hominins. Curr. Anthropol. 60, 1–23. https://doi.org/
+10.1086/701477.
+33. Hrdy, S.B. (2011). Mothers and Others (Harvard University Press) .
+34. Laland, K.N., and O’Brien, M.J. (2011). Cultural niche construction: an
+introduction. Biol. Theor. 6, 191–202. https://doi.org/10.1007/s13752-
+012-0026-6.
+35. R Core Team (2021). R: A Language and Environment for Statistical
+Computing (R Foundation for Statistical Computing). https://www.
+R-project.org/.
+36. Brooks, M.E., Kristensen, K., Van Benthem, K.J., Magnusson, A., Berg,
+C.W., Nielsen, A., Skaug, H.J., Machler, M., and Bolker, B.M. (2017).
+glmmTMB balances speed and ﬂexibility among packages for zero-in-
+ﬂated generalized linear mixed modeling. R J 9, 378–400. https://doi.
+org/10.3929/ethz-b-000240890.
+37. Hartig, F. (2022). emmeans: Dharma: residual diagnostics for hierarchical
+(multi-level/mixed) regression models. R package version 1.7.1-1. https://
+cran.r-project.org/web/packages/DHARMa/vignettes/DHARMa.html.
+38. Lenth, R.V. (2021). emmeans: estimated Marginal Means, Aka Least-
+Squares Means. R package version 1.7.1-1. https://cran.r-project.org/
+web/packages/emmeans.
+39. Wickham, H. (2016). ggplot2: Elegant Graphics for Data Analysis
+(Springer-Verlag New York). https://ggplot2.tidyverse.org.
+40. Van Soest, P.J., Robertson, J.B., and Lewis, B.A. (1991). Methods for di-
+etary ﬁber, neutral detergent ﬁber, and nonstarch polysaccharides in rela-
+tion to animal nutrition. J. Dairy Sci. 74, 3583–3597.
+41. Price, E.C. (2004). National Research Council. Nutrient requirements of
+nonhuman primates. Br. J. Nutr. 91, 169–170. https://doi.org/10.1079/
+BJN20031008.
+42. Nagy, K.A. (1994). Field bioenergetics of mammals-what determines ﬁeld
+metabolic rates. Aust. J. Zool. 42, 43–53. https://doi.org/10.1071/
+ZO9940043.
+43. Key, C., and Ross, C. (1999). Sex differences in energy expenditure in non–
+human primates. Proc. Biol. Sci. 266, 2479–2485. https://doi.org/10.1098/
+rspb.1999.0949.
+44. Coelho, A.M. (1974). Socio-bioenergetics and sexual dimorphism in pri-
+mates. Primates 15, 263–269. https://doi.org/10.1007/BF01742287.
+ll
+4092 Current Biology 32, 4088–4092, September 26, 2022
+Report
+
+PDF PAGE 7
+STAR+METHODS
+KEY RESOURCES TABLE
+RESOURCE AVAILABILITY
+Lead contact
+Further information and requests for resources should be directed to and will be fulﬁlled by the lead contact, Patrı ´cia Izar ( patrizar@
+usp.br).
+Materials availability
+This study did not generate new unique reagents.
+Data and code availability
+The values on energy and the nutrient contents of the individual/daily diets and of daily activities of the monkeys included in this study,
+together with the description of the variables analyzed are available as an excel ﬁle deposited at http://repositorio.uspdigital.usp.br/
+handle/item/337.
+EXPERIMENTAL MODEL AND SUBJECT DETAILS
+The study was carried out at Fazenda Boa Vista (FBV), a private area located within the transition zone between Cerrado and Caa-
+tinga biomes, in northeastern Brazil (9
+/C1439’S, 45 /C1425’W). The subjects belong to two social groups of fully habituated, individually
+recognized bearded capuchin monkeys ( Sapajus libidinosus ). We studied 28 individuals (12 adults, 16 juveniles; see also
+Table S1). For a complete description of the site and study groups, see Verderane et al. 16 This research was approved by the Ethics
+Committee on Animal Research of the Psychology Institute, University of Sa ˜ o Paulo (CEUA 5685020315).
+METHOD DETAILS
+Data collection
+LPS and two trained assistants collected data using handheld devices (PSION Workabout PRO) with Pocket Observer (software by
+Noldus Information Technology). LPS trained the assistants until >80% reliability for each variable. An observer followed a single focal
+monkey continuously for one full day per month, noting when the monkey was resting, travelling, interacting socially, foraging, eating,
+or tooling. We noted each time the monkey cracked palm nuts using a stone, and recorded how many nuts were ingested. We
+collected 129 focal-day samples from September 2012 to March 2014 (see also Table S2 ) (747 hours of observation). The actual
+observation time varied considerably between focal days (mean 5h40min; range 0h48min – 10h28min). Thus, we used corrections
+REAGENT or RESOURCE SOURCE IDENTIFIER
+Deposited data
+Raw data This paper http://repositorio.uspdigital.usp.br/handle/item/337
+Analyzed data This paper https://www.researchgate.net/publication/
+361471650_Analysis_of_the_relationship_between_
+dietary_balance_and_stone_tool_use_in_capuchins
+Experimental models: Organisms/strains
+Bearded capuchin monkeys
+(Sapajus libidinosus )
+Piauı´, Brazil N/A
+Software and algorithms
+ArcGIS 10.6 ESRI https://www.esri.com/en-us/arcgis/ Licensed to Salisbury University # 2571478346;
+RRID:SCR_011081
+R statistical software version 4.1.2 R Core Team 35 https://www.R-project.org/; RRID:SCR_001905
+R package glmmTMB Brooks et al. 36 https://github.com/glmmTMB/glmmTMB
+R package DHARMa Hartig 37 http://ﬂorianhartig.github.io/DHARMa/; RRID:SCR_022136
+R package emmeans Lenth 38 https://github.com/rvlenth/emmeans; RRID:SCR_018734
+R package ggplot2 Wickham 39 https://github.com/tidyverse/ggplot2; RRID:SCR_014601
+The Observer 11 Noldus Information Technologies Licensed to Patrı ´cia Izar; RRID:SCR_004074
+ll
+Current Biology 32, 4088–4092.e1–e3, September 26, 2022 e1
+Report
+
+PDF PAGE 8
+for observation time for nutritional and statistical analyses (see below). When the monkey was eating, we noted the item and esti-
+mated the amount (in grams) ingested. We estimated the amount ingested based on the mean weight of dry matter per food unity.
+A food unity here refers to the sum of the ingested parts of a food item. To conduct nutrient analyses, we collected 176 samples from
+39 species of plants, 6 invertebrate species, and 1 vertebrate eaten by the monkeys during the study period that corresponded to ca.
+70% of all foods included in their diet. We collected only the parts actually ingested by the monkeys, whenever possible, from the
+same trees they used and within their home range. We collected the group locations using a GPS (Map 60 CSX Garmin) to calculate
+daily path length at 15 minutes intervals. The daily group point locations (x, y coordinates) were collected from dawn to dusk using the
+WGS 1984 and projected in UTM - WGS 1984, zone 23 S. The path length was calculated using ArcGIS 10.6 (ESRI). Using the co-
+ordinate system, we applied the ArcGIS tool ‘‘lines from points’’, which returned the distance between every two points in meters.
+Nutritional analysis
+The food samples were analyzed for the percent of ash, neutral detergent ﬁber (NDF
+40), crude protein (using N x 6.25), and lipids
+following AOAC (1990) procedures. Total non-structural carbohydrates (TNC) was calculated using the formula: TNC=100 – (% crude
+protein + % lipids + % ash + % NDF). We added the calories gained from non-structural carbohydrates (4 kcal/g) and lipids (9 kcal/g)
+to estimate non-protein energy.
+26 Metabolizable energy was estimated by including protein’s potential contribution to energy gain
+(4 kcal/g).
+Nutrient intake was estimated by multiplying the total units of each food item ingested by their correspondent nutritional concen-
+tration. Since it was not possible to record all feeding events for the whole day, we scaled the nutrient intake to 12 hours (correspond-
+ing to the active period of the monkeys). To avoid bias related to individual’s body mass, the daily nutrient intake was divided by the
+mean metabolic body mass of each individual (kg
+0.762) during the study period.41 The body mass of the subjects from group CH was
+available from Fragaszy and colleagues,18 and we estimated the body mass of individuals of group ZA by comparison based on their
+age and body size.
+To analyze the patterns of macronutrient intake we used the nutritional geometry, a state space modeling where each axis repre-
+sents a different nutrient.42 We constructed 3-dimensional right angle mixture triangles with the proportional contributions of protein,
+fat and non-structural carbohydrates. In nutritional geometry, diet composition is represented as Cartesian points (showing the
+amounts of macronutrients in the diets) or as lines (nutritional rails) where the slope indicates a particular macronutrient balance.
+Energy expenditure
+To calculate daily energy expenditure, we multiplied time spent in different activities by the metabolic cost of each activity following
+Key and Ross’s 43 estimates for primates. Metabolic costs of nut-cracking by capuchin monkeys are not available. Instead, consid-
+ering that nut-cracking is energetically very expensive due to the lifting of heavy stones in relation to the animals’ body mass, 19 as a
+reference, we used an estimate of the metabolic costs of swimming in humans (the measured human activity with the highest meta-
+bolic cost 44) to estimate energy expenditure for the entire period spent foraging, including nut-cracking. We also used Coelho’s 44
+estimate for all foraging activities for the entire day when tooling was observed, even though the monkeys typically crack nuts for
+a few minutes per day, not the whole day. By adopting this approach, we avoided underestimating energy expenditure during nut
+cracking.
+QUANTIFICATION AND STATISTICAL ANALYSIS
+We analyzed 129 observational days from 28 monkeys. For 14 monkeys, days both with and without tooling were available. Thirteen
+monkeys were never observed tooling during our sampling. One monkey tooled on every day it was observed. The sampling days per
+individual are reported in Table S2. This led us to deﬁne a tooling factor with three levels: days of monkey tooling (n=31), days when
+these same monkeys did not tool (n=58), and days of monkeys which never tooled (n=40). While the days of monkeys that never
+tooled in our sampling were not the focus of this report, we kept them in the dataset to allow ﬁtting the statistical models. We
+only reported here the results of comparisons between levels 1 and 2.
+We modeled the effect of tool use on response variables (described below) using Generalized Linear Mixed Models (GLMM) with
+factors tool use (3 levels as earlier described), age (juvenile, adult), sex (male, female), together with the interactions of the three as
+ﬁxed effects. Factors season (dry, rainy) and group (group CH, group ZA) were also included with ﬁxed effects. Because of multiple
+observations per individual (range 1-13, median 5) random effects for individuals were introduced in the GLMMs. The results we show
+are model based estimated medians for the ﬁrst two levels of the tooling factor (and differences or ratios of these), obtained by back-
+transforming the estimated means on the link scale, averaging over the levels of the other ﬁxed factors of the models (Figures 1 and 2).
+We used GLMMs with a gamma distribution and log link function for positively valued response variables: total caloric intake, non-
+protein intake, protein intake, dry matter intake, energy expenditure, ratios of gained energy over expended energy, ratios of gained
+energy excluding energy from nuts over expended energy and daily path length. To correct for observation duration and body mass
+we included offsets (log(observation duration/12 hours) and log (body mass), with the exception of daily path length (only an offset for
+observation time) and of the ratios of gained over expended energy (no offsets). We excluded one outlier for the analysis of energy
+expenditure.
+GLMMs with a beta distribution and logit link were used for the continuous proportion-valued variables: proportion of time spent
+traveling, foraging and eating, and proportion of protein. Response variables proportion of time resting and socializing contained
+ll
+e2 Current Biology 32, 4088–4092.e1–e3, September 26, 2022
+Report
+
+PDF PAGE 9
+zeroes (4 for resting time, 19 for socializing time) and could therefore not be analyzed using the beta distribution. Instead they were
+handled by a GLMM using the Tweedie distribution and log link. The positive-valued variable NDF:NPE showed a remarkable upper
+bound of approximately 0.25. We used the beta distribution to analyze this variable (multiplied by 4 to arrive at upper bound 1), re-
+placing 3 observations near zero to less extreme values.
+In all GLMMs we allowed the dispersion parameter of the respective distribution to depend on observation time, as smaller vari-
+ance and a more symmetrical distribution (keeping the mean constant) for larger observation times were expected. For the same
+reason the dispersion parameter was allowed to depend on log(body mass) in the gamma GLMMs for caloric intake and expenditure
+response variables. The beta GLMM for protein proportion included dispersion dependence on tool use, while the GLMM for
+NDF:NPE included dispersion dependence on tool use and group ( Figure 3).
+R version 4.1.2
+35 was used for statistical analysis. The GLMMs were ﬁtted using the R package glmmTMB.36 Model ﬁt was checked
+using residual analysis available in R package DHARMa 37 and by plotting standardized residuals against ﬁtted values.
+Pairwise comparisons of the three tooling factor levels were obtained using R package emmeans,38 employing approximate t tests.
+Main interest focuses on the comparison of tooling and non-tooling monkeys, i.e. levels 1 and 2 of the tooling factor. The p values for
+this comparison are adjusted using the Tukey method for a comparison of three groups. For the dispersion modelling approximate
+z-tests were used, as available in glmmTMB.
+Figures 3A and 3B were created using R package ggplot2.
+39
+Complete scripts and results of statistical analyses are available at https://www.researchgate.net/publication/361471650_
+Analysis_of_the_relationship_between_dietary_balance_and_stone_tool_use_in_capuchins.
+ll
+Current Biology 32, 4088–4092.e1–e3, September 26, 2022 e3
+Report

@@ -1,0 +1,377 @@
+PDF PAGE 1
+REPORT
+Costs of a more
+spacious home after
+remodelling by
+hermit crabs
+Mark E. Laidre 1,*, Eli Patten 2
+and Lisa Pruitt 2
+1Department of Integrative Biology, and
+2Department of Mechanical Engineering, University of
+California, 1005 Valley Life Sciences Building no. 3140,
+Berkeley, CA 94720-3140, USA
+Architectural creations occur throughout the animal
+kingdom, with invertebrates and vertebrates building
+structures such as homes to maximize their Darwinian ﬁt-
+ness. Animal architects face many trade-offs in building
+optimally designed structures. But what about animals
+that do not build, and those that only remodel the original
+creations of others: do such secondary architects face simi-
+lar trade-offs? Recent evidence has revealed that hermit
+crabs—animals well known for opportunistically moving
+into remnant gastropod shells—can also act as secondary
+architects, remodelling the shells they inherit from
+gastropods. Remodelling has only been found among
+terrestrial hermits (Coenobita spp.), not marine hermits.
+Here we investigate the potential trade-offs Coenobita
+compressus faces from remodelling by subjecting its
+remodelled and unremodelled homes to controlled engin-
+eering crush tests, which parallel the homes being
+crushed by predators. While remodelled homes are
+signiﬁcantly more spacious and lightweight than unremo-
+delled homes, we ﬁnd that the homes attain these
+beneﬁcial qualities at a cost: a reduced resistance to being
+crushed. Hermit crabs may therefore only remodel their
+homes to thresholds set by the bite force of their predators.
+Our results suggest that, like primary animal architects,
+which face trade-offs when optimizing architectural
+designs, secondary animal architects face trade-offs when
+remodelling such designs.
+Keywords: animal homes and shelter; architec-
+ture; hermit crabs; predation; remodelling; shells
+1. INTRODUCTION
+Many animals behave like architects [ 1 –3], moulding
+their surrounding physical environments to create
+homes and other constructs, which serve vital reproduc-
+tive and survival functions. Examples of animal
+architecture include the giant mounds erected by ter-
+mite colonies, the casings constructed by caddis ﬂy
+larvae, the elaborate nests woven by weaver birds and
+the lodges built by beavers, all of which provide protec-
+tive barriers and safe havens within which the builders
+live [ 1]. Remarkably, many animal architectural cre-
+ations rival those of humans in the perfection and
+scale of their design [ 3], and it is thought that these cre-
+ations function as a sort of ‘extended phenotype’ [ 4],
+their designs being optimized by natural selection on
+the architects’ genes.
+In contrast to animal architects, other animals are
+more opportunistic, moving into discarded dwellings
+or remnant residences that they did not themselves
+build [ 5]. A well-known example of such opportunism
+is that of hermit crabs [ 6], most species of which must
+protect their vulnerable abdomen [ 7] by occupying
+empty gastropod shells—what Karl von Frisch called
+‘ready-made accommodation’ [ 1, p. 21]. Recent evi-
+dence, however, has suggested that certain hermit
+crabs may be more than mere occupants. While no
+hermit crabs have been found to build their own
+homes, terrestrial hermit crabs ( Coenobita spp.)—but
+not marine hermit crabs—have been found to act as sec-
+ondary architects, remodelling the interiors of the shells
+they inherit from gastropods [ 8]. In the ﬁrst study of
+shells from before-to-after they were remodelled, the
+remodelled shells were found to be nearly twice as
+spacious as the original unremodelled versions [ 8], a
+change of potential evolutionary value to the crabs,
+given their continual pursuit of larger homes [ 6]. Criti-
+cally though, the crabs generated this extra space
+within their homes by eliminating much of the shell’s
+interior (including the entire core structural support
+provided by the columella) and by thinning the walls
+at the outer lip of the aperture by more than half
+their original thickness [ 8].
+Such home remodelling—in particular, the reduction
+of the relative barrier between the occupant and the
+outside world—could incur a potential cost to crabs,
+because less fortiﬁed homes may be more easily
+damaged [ 9], particularly by predators. Predation
+forces can be strong on hermit crabs [ 10]. In the popu-
+lation where remodelling was demonstrated [ 8], hermit
+crabs are sometimes subject to attack by mammals,
+such as raccoons, coatis or possums, which can crush
+shells in their mouths to access the crabs inside:
+smashed shell fragments and associated crab body
+parts (see the electronic supplementary material,
+ﬁgure S1) can be found where these mammalian preda-
+tors have recently foraged; so predation may exert an
+important selective pressure upon the crabs.
+No study, however, has investigated whether the
+remodelling behaviour of secondary architects, such
+as hermit crabs, might increase the cost of predation
+by generating homes that can be more readily crushed
+by predators. Here we provide the ﬁrst investigation
+of the crushability of unremodelled and remodelled
+homes, subjecting them to standardized crush
+tests in the laboratory. We show that remodelled
+homes are signiﬁcantly less resistant to being crushed
+and may thus represent a heightened danger for
+crabs inside.
+*Author for correspondence ( mlaidre@berkeley.edu).
+Electronic supplementary material is available at http://dx.doi.org/
+10.1098/rsif.2012.0501 or via http://rsif.royalsocietypublishing.org.
+J. R. Soc. Interface (2012) 9, 3574–3577
+doi:10.1098/rsif.2012.0501
+Published online 15 August 2012
+Received 21 June 2012
+Accepted 26 July 2012 3574 This journal is q 2012 The Royal Society
+Downloaded from http://royalsocietypublishing.org/rsif/article-pdf/9/77/3574/219694/rsif.2012.0501.pdf
+by University of Constance user
+on 04 December 2025
+
+PDF PAGE 2
+2. MATERIAL AND METHODS
+2.1. Shell acquisition
+Shells were acquired during a large-scale ﬁeld experiment
+in which over a thousand empty gastropod shells
+(Nerita scabricosta) were introduced to a population of
+terrestrial hermit crabs ( Coenobita compressus )i n
+Costa Rica (see [ 8] for details). The present study used
+three categories of shells from the experiment, referred
+to interchangeably as ‘homes’: new, recovered and
+natural homes (exemplar pictures in Laidre [ 8,ﬁ g .1 ] ) .
+New homes were unremodelled; the gastropod body
+had been removed from these shells, but the shells had
+never been occupied by hermit crabs. Recovered homes
+were originally introduced to the hermit crab population
+as new shells; they were subsequently recovered 1 year
+later, at which point they had all been remodelled by
+the hermit crabs. Natural homes were present in the
+hermit crab population before the experiment; every
+natural shell that has been checked in this population
+has always been in a remodelled state.
+On the basis of these three categories, triplets of shells
+(one new, one recovered and one natural) were chosen
+such that all three fell within 1 mm in diameter from
+one another. A total of 45 shells were tested (see
+below), encompassing 15 matched triplets. No signiﬁcant
+difference existed in diameter across the three categories
+(one-way ANOV A: F
+2,42 ¼ 0.03, p ¼ 0.98; mean diam-
+eter in mm + s.e. for new: 26.39 + 0.86; recovered:
+26.14 + 0.77; and natural: 26.23 + 0.78).
+2.2. Shell crushing
+We used an Instron 8871 universal testing machine
+(Instron Corporation, Canton, MA, USA) to determine
+each shell’s maximum compressive load—the ultimate
+force that the shell could tolerate before fracturing.
+The machine is powered by a servohydraulic actuator
+that can generate a maximum force of 10 kN. It is
+ﬁtted with a load cell that can measure a maximum
+force of 5 kN, with a resolution of 0.00001 kN.
+Shell specimens were tested individually by placing
+them inside the machine between the ﬂat portions of
+two steel cylinders (compression platens), each measur-
+ing 5 cm in diameter. First, each shell was put in the
+same standardized position, with its aperture facing
+down, touching the ﬂat portion of the bottom platen.
+In this position, the shells were maximally stable for
+crushing. The upper platen was then manually moved
+down until it contacted the top of the shell ( ﬁgure 1a).
+Next, the upper platen was lowered another 2 mm
+under computer control, at a rate of 5 mm min
+–1.I na l l
+cases, this descent caused a fracture of the shell within
+seconds ( ﬁgure 1 b and electronic supplementary
+material, ﬁgure S2). Surrounding plastic contained the
+shell fragments that ﬂew out during crushing. Exper-
+iments were conducted at room temperature—close to
+temperatures in the ﬁeld—and in air, the primary atmos-
+phere occupied by terrestrial hermit crabs, including
+when they are predated. No animals were harmed
+because all hermit crab occupants were removed from
+the shells beforehand.
+3. RESULTS
+There was a signiﬁcant difference in the maximum load
+that could be tolerated across the three home categories
+(one-way ANOV A: F
+2,42 ¼ 33.71, p , 0.0001; ﬁgure 2 ).
+New homes tolerated signiﬁcantly more load when com-
+pared with recovered homes (contrast test:F1,42 ¼ 43.85,
+p , 0.0001) and compared with natural homes (contrast
+test: F1,42 ¼ 56.47, p , 0.0001). Indeed, on average, new
+homes were two to three times as strong as recovered and
+natural homes. There was no difference, however,
+between the load tolerated by recovered versus natural
+homes (contrast test: F
+1,42 ¼ 0.80, p ¼ 0.38). The frag-
+ments produced by the machine after crushing a home
+(ﬁgure 1c) were similar to those found in the ﬁeld follow-
+ing predation (see the electronic supplementary material,
+ﬁgure S1). In all cases, the shells fractured with a clean
+break that extended along their length and thus would
+have provided ready access for a predator to any
+hermit crab inside.
+4. DISCUSSION
+Remodelled homes were far more easily crushed than
+unremodelled homes. Hermit crabs therefore appear to
+increase their susceptibility to predation by remodelling
+their homes. Yet, animal architects are predicted to
+craft architectural productions to an optimal design,
+one that maximizes their contribution of genes to
+future generations [1–4]. Why then would the crabs, as
+secondary architects, engage in remodelling if it increases
+their risk of being predated? The answer may involve a
+combination of (i) beneﬁts of remodelling (which may
+outweigh its costs); (ii) constraints (which prevent
+crabs from acquiring more spacious homes by means
+other than remodelling); and (iii) performing remodelling
+only up to certain thresholds, so that alternative prey
+items remain more attractive to predators.
+Remodelling can yield beneﬁts to crabs, generating
+homes with nearly double the internal volume [ 8],
+thereby allowing females to brood more eggs and
+males to grow larger, both of which enhance reproduc-
+tive success [ 6]. Additionally, remodelling produces
+lighter homes that are approximately two-thirds the
+home’s original weight [ 8], which can save crabs
+energy while carrying their home [ 11], especially given
+the variable travel distances of their scavenging lifestyle
+[12,13]. Besides these beneﬁts of remodelling, crabs may
+also be constrained in their opportunities for acquiring
+spacious, lightweight homes via alternative means.
+Hermit crabs in general [ 6], and terrestrial ones in par-
+ticular, are highly shell limited [ 14], so few opportunities
+may arise during a crab’s lifetime to move into a shell
+superior to its current one. Indeed, acquiring a superior
+shell may necessitate physical ﬁghts to remove a con-
+speciﬁc from its shell [ 15], which, in marine hermit
+crabs, can require large energy reserves and physiologi-
+cal costs. Thus, remodelling one’s current shell may be a
+better alternative.
+Even after a shell is remodelled, the altered predation
+risk may be tolerable to hermit crabs if other, sympatric
+prey provide more desirable targets for predators. For
+instance, brachyuran land crabs, which do not occupy
+Report. Costs of home remodelling M. E. Laidre et al. 3575
+J. R. Soc. Interface (2012)
+Downloaded from http://royalsocietypublishing.org/rsif/article-pdf/9/77/3574/219694/rsif.2012.0501.pdf
+by University of Constance user
+on 04 December 2025
+
+PDF PAGE 3
+gastropod shells, might possess carapaces that are more
+breakable than even the remodelled homes of hermit
+crabs (M. E. Laidre 2012, personal observation, of pre-
+dated Gecarcinus quadratus specimens). Thus,
+although remodelled homes have reduced thickness
+and structural support compared with unremodelled
+homes, they could remain more formidable barriers
+than the exoskeletons of other crab species, and this
+possibility should be investigated. Interestingly, preda-
+tors such as raccoons ( Procyon spp.) can exert
+maximum bite forces on the order of 0.346 kN [ 16], a
+value far below that required in the present study to
+crush unremodelled homes, but close to that required
+to crush remodelled homes ( ﬁgure 2 ). The threshold
+to which crabs remodel their homes might thus be set
+by the bite force of predators, with crabs that remodel
+too much being culled from the population. Of course,
+the cusps on predators’ teeth could provide more exact-
+ing pressure points for crushing, but we expect that the
+stark differences we found in our controlled laboratory
+tests between remodelled and unremodelled homes
+likewise apply in nature.
+Broadly, the act of remodelling suggests that an archi-
+tectural achievement’s original design has become less
+than optimal for its current function [ 1]. Home remodel-
+ling by terrestrial hermit crabs makes sense in this light,
+1.2
+1.0
+0.8
+0.6
+0.4maximum load (kN)0.2
+new recovered natural0
+Figure 2. Force (mean + s.e.) to crush new, recovered and
+natural homes. New homes were unremodelled, while recov-
+ered and natural homes were remodelled (see text). Red
+dashed line denotes maximum bite force of raccoons, Procyon
+spp. (Online version in colour.)
+(a) (b)
+(c)
+Figure 1. ( a) Before and ( b) after home was crushed in machine, with ( c) resulting fragments. (Online version in colour.)
+3576 Report. Costs of home remodelling M. E. Laidre et al.
+J. R. Soc. Interface (2012)
+Downloaded from http://royalsocietypublishing.org/rsif/article-pdf/9/77/3574/219694/rsif.2012.0501.pdf
+by University of Constance user
+on 04 December 2025
+
+PDF PAGE 4
+given the dramatic differences between the marine
+environment (inhabited by the original shell builders,
+the gastropods) and the terrestrial environment (inhab-
+ited by the subsequent shell occupants, the hermit
+crabs): optimal shell architecture probably differs between
+these two habitats [ 9]. Even within a single habitat
+though complex trade-offs inﬂuence what constitutes an
+optimal home for hermit crabs [ 10], involving a variety
+of costs, beneﬁts, constraints and alternatives. A complete
+picture of optimality can emerge only when all these vari-
+ables are accounted for. The current study contributes to
+this holistic picture by revealing that home remodelling,
+while beneﬁcial to hermit crabs in some ways, is not with-
+out potential costs. Future studies investigating the
+mechanisms underlying home remodelling, which remain
+to be elucidated, may reveal additional costs, such as
+the time and energy needed to re-sculpt a shell’s interior.
+We thank Tom Libby, Bob Full and Mimi Koehl for
+discussion prior to experimentation. Supported by a Miller
+Institute fellowship to M.E.L.
+REFERENCES
+1 von Frisch, K. & von Frisch, O. 1974 Animal architecture.
+New York, NY: Harcourt.
+2 Hansell, M. 2005 Animal architecture . New York, NY:
+Oxford University Press.
+3 Gould, J. L. & Gould, C. G. 2007 Animal architects .
+New York, NY: Basic Books.
+4 Dawkins, R. 1999 The extended phenotype: the long reach
+of the gene, revised edition. New York, NY: Oxford
+University Press.
+5 Vermeij, G. J. 2010 The evolutionary world: how adap-
+tation explains everything from seashells to civilization .
+New York, NY: Thomas Dunne.
+6 Hazlett, B. A. 1981 The behavioral ecology of hermit
+crabs. Ann. Rev. Ecol. Syst. 12, 1 – 22. ( doi:10.1146/
+annurev.es.12.110181.000245)
+7 Laidre, M. E. 2007 Vulnerability and reliable signaling in
+conﬂicts between hermit crabs. Behav. Ecol. 18,
+736 – 741. (doi:10.1093/beheco/arm040)
+8 Laidre, M. E. In press. Homes for hermits: temporal,
+spatial, and structural dynamics as transportable homes
+are incorporated into a population. J. Zool. Lond.
+(doi:10.1111/j.1469-7998.2012.00921.x)
+9 Vermeij, G. J. 1993 A natural history of shells . Princeton,
+NJ: Princeton University Press.
+10 Bertness, M. D. 1981 Conﬂicting advantages in resource
+utilization: the hermit crab housing dilemma. Am. Nat.
+118, 432 – 437. (doi:10.1086/283835)
+11 Herreid, C. F. & Full, R. J. 1986 Energetics of hermit crabs
+during locomotion: the cost of carrying a shell. J. Exp.
+Biol. 120, 297 – 308.
+12 Laidre, M. E. 2010 How rugged individualists enable one
+another to ﬁnd food and shelter: ﬁeld experiments with
+tropical hermit crabs. Proc. R. Soc. B 277, 1361 – 1369.
+(doi:10.1098/rspb.2009.1580)
+13 Laidre, M. E. In press. Foraging across ecosystems: diet
+diversity and social foraging spanning aquatic and terres-
+trial ecosystems by an invertebrate. Mar. Ecol. (doi:10.
+1111/j.1439-0485.2012.00527.x)
+14 Laidre, M. E. 2011 Ecological relations between hermit
+crabs and their shell-supplying gastropods: constrained
+consumers. J. Exp. Mar. Biol. Ecol. 397, 65 – 70. (doi:10.
+1016/j.jembe.2010.10.024
+)
+15 Arnott, G. & Elwood, R. W. 2007 Fighting for shells: how
+private information about resource value changes hermit
+crab pre-ﬁght displays and escalated ﬁght behaviour.
+Proc. R. Soc. B 274, 3011 – 3017. ( doi:10.1098/rspb.
+2007.1196)
+16 Wiersma, J. H. 2001 Maximum estimated bite force,
+skull morphology, and primary prey size in North Ameri-
+can carnivores. Masters thesis, Laurentian University,
+Ontario, Canada.
+Report. Costs of home remodelling M. E. Laidre et al. 3577
+J. R. Soc. Interface (2012)
+Downloaded from http://royalsocietypublishing.org/rsif/article-pdf/9/77/3574/219694/rsif.2012.0501.pdf
+by University of Constance user
+on 04 December 2025

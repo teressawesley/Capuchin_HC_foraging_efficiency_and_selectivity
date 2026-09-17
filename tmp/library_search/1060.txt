@@ -1,0 +1,1380 @@
+PDF PAGE 1
+Re-evaluating the extractive foraging hypothesis
+Sue Taylor Parker *, 1
+Anthropology Dept, Sonoma State University, 1801 E. Cotati Avenue, Rohnert Park, CA 94928, USA
+article info
+Article history:
+Available online 4 December 2014
+Keywords:
+Extractive foraging
+Brain measures
+Intelligence
+Primates
+Phylogeny
+Piaget
+abstract
+In his seminal 1992 paper, Dunbar examined three hypotheses advanced to explain pri-
+mate intelligence, arguing that whereas his social group size hypothesis was supported,
+neither of two ecological hypotheses, the extractive foraging and frugivory hypotheses,
+were supported. Following this, and Dunbar's subsequently elaborated argument, many
+investigators concluded that primate intelligence arose as social rather than ecological
+adaptations. This paper questions Dunbar's characterization of extractive foraging and
+social intelligence as alternative hypotheses, raises sampling issues about Dunbar's brain
+data, species choice, and measurement of extractive foraging. It summarizes the extractive
+foraging hypothesis, and counters its critics. It reexamines the hypothesis in light of recent
+behavioral and brain data, new methodology for quantifying extractive foraging, and a new
+phylogeny of primate intelligence. It concludes that the extractive foraging hypothesis is
+now supported by several converging lines of evidence.
+© 2014 Elsevier Ltd. All rights reserved.
+1. Introduction
+The extractive foraging hypothesis ( Gibson, 1986;
+Parker, 1996; Parker & Gibson, 1977; 1979 ) argues that a
+complex of cognitive abilities in great apes arose as an
+adaptation for exploiting a variety of high-energy
+embedded foods through intelligent tool use and its so-
+cial transmission. It argues that hominids progressively
+extended and elaborated these abilities using a variety of
+tools on an increasing number of resources, which they
+came to depend on throughout the year rather than
+seasonally as great apes do. The hypothesis further states
+that increased brain size of great apes and hominids arose
+as part of this adaptation.
+According to this model, tool use characteristic of late
+(6th stage) sensorimotor intelligence (as de ﬁned by Piaget
+(1962)) arose in the common ancestor of great apes as an
+adaptation for foraging on a variety of high value seasonal
+foods accessible only through dipping or ﬁshing,
+excavation, opening or removing with a tool ( Parker &
+Gibson, 1977). These abilities were manifested seasonally,
+for example, in chimpanzees' termite and ant ﬁshing,
+honey harvesting, and nut cracking, when fruits were
+scarce. Wild chimpanzees display the capacity for self-
+awareness, manual imitation, and demonstration teaching
+(Boesch 1991 ) as means for transmitting tool using skills
+from mothers to offspring. Parker (1996) called this
+cognitive complex, apprenticeship, arguing that it arose as
+part of an adaptation for social transmission of extractive
+foraging. The extractive foraging hypothesis is a socio-
+ecological, rather than a strictly ecological model.
+This hypothesis uses Piaget's cognitive model as a basis
+for comparing the extent and timing of cognitive devel-
+opment in monkeys, great apes and humans. Piaget's
+model facilitates reconstruction of the evolution of intel-
+lectual development, suggesting that human ancestors
+added new stages of cognitive development and acceler-
+ated the pace of development of existing stages. This hy-
+pothesis explains why humans are more intelligent than
+great apes, and great apes are more intelligent than mon-
+keys. It also explains the general association between
+extractive foraging, tool use and brain size in cebus mon-
+keys as well as many bird species.
+* Tel.: þ1 707 795 2312, þ1 415 305 3432 (mobile).
+E-mail address: parker@sonoma.edu.
+1 Fellow of the California Academy of Sciences.
+Contents lists available at ScienceDirect
+New Ideas in Psychology
+journal homepage: www.elsevier.com/locate/newideapsych
+http://dx.doi.org/10.1016/j.newideapsych.2014.1 1.001
+0732-1 18X/© 2014 Elsevier Ltd. All rights reserved.
+New Ideas in Psychology 37 (2015) 1 e12
+
+PDF PAGE 2
+In his in ﬂuential 1992 paper, Robin Dunbar examines
+three “alternative hypotheses” proposed to explain primate
+cognition and brain size: the social cognition hypothesis
+(Byrne & Whiten 1988; Cheney & Seyfarth, 1990;
+Humphrey, 1976 ), the frugivorous foraging hypothesis
+(Milton, 1988 ), and the extractive foraging hypothesis
+(Gibson, 1986; Parker & Gibson, 1977, 1979). He argues that
+only the social hypothesis is supported. His paper has been
+widely cited as evidence for the social hypothesis and
+against ecological hypotheses. This, and subsequent papers
+with the same conclusion (e.g., Dunbar, 1993; 1998)h a v e
+convinced many investigators that the extractive foraging
+hypothesis has been disproved.
+Until recently ( Reader, Hager, & Laland 201 1), efforts to
+test hypotheses explaining primate cognition and brain size
+have found measures for quantifying frugivory, but not
+extractive foraging (e.g., Deaner, Nunn, & van Schaik, 2000;
+Dunbar, 1998; Reader & Laland, 2002 ). This paper begins
+with a critical analysis of Dunbar's 1992 argument against
+the extractive foraging hypothesis. Then it revisits the
+extractive foraging hypothesis, and presents new data
+relevant to evaluating that hypothesis.
+2. Reviewing Dunbar's conclusions about extractive
+foraging and social intelligence
+In this seminal paper, Dunbar (1992) compares three
+“alternative” explanations for primates' large brains by
+plotting brain measures against social and environmental
+measures. For the social intellect hypothesis, he uses mean
+group size; for the frugivore foraging hypothesis, mean
+percent of fruit in diet; in contrast, for the extractive
+foraging hypothesis, he uses extractive foragers vs. non-
+extractive foragers.
+He tests these variables against various neocortical
+indices based on data on 38 primate species ( Stephan,
+Frahm, & Baron, 1981). Dunbar shows that the neocortical
+ratio (the ratio of the neocortex to the rest of the brain
+minus neocortical volume) vs. mean group size gives the
+best statistical ﬁt. He therefore says “increases in neocortex
+size are related to changes in group size rather than
+changes in ecological niche or patterns of resource exploi-
+tation” (Dunbar, 1992, p. 483). He concludes, “only the so-
+cial intellect hypothesis receives support from these
+results” (Dunbar, 1992, p. 486). 2
+2.1. Dissecting Dunbar's argument
+Dunbar's study raises several questions about his
+research design. First, contrary to his claim, the three hy-
+potheses are not mutually exclusive. Frugivory and
+extractive foraging can coexist, as they do in chimpanzees
+and cebus monkeys. Ecological and social adaptations can
+coexist as when tool use techniques in extractive foraging
+are socially transmitted in chimpanzees.
+Second, Dunbar's use of Stephan et al. (1981) primate
+brain database biases against the extractive foraging hy-
+pothesis because it includes one immature gorilla, and no
+bonobos or orangutans. Including orangutans would
+reduce the signi ﬁcance of Dunbar's statistical association
+between brain size and group size because these large
+brained apes are semi-solitary ( Gibson & Jesse, 1999 ). It
+would favor the extractive foraging hypothesis because
+wild orangutans are now known to use tools in feeding on
+embedded foods ( Fox & van Schaik, 1999; van Schaik, Fox,
+& Sitompul, 1996).
+Third, Dunbar's nonparallel measures (group size, per-
+centage of dietary fruit, and extractive foraging) of the
+three hypotheses make meaningful comparisons dif ﬁcult.
+To be parallel, extractive foragers should be arrayed ac-
+cording to the degree of their dependence on extractive
+foraging; to be meaningful, they should be arrayed ac-
+cording to their speciﬁc feeding techniques: e.g., tool users,
+proto-tool users vs. manual vs. dental extractive foragers.
+Fourth, Dunbar uses the same brain measure to test the
+three hypotheses even though they seem to imply different
+brain adaptations. Milton's (1988) hypothesis suggests that
+enlarged hippocampi in frugivores would be favored for
+complex spatial mapping of seasonal fruits. Gibson (1986)
+and Gibson and Jesse (1999) argue that absolute brain
+size is favored by extractive foraging (see below).
+Fifth, the neocortical index is a questionable measure of
+intelligence, because, as Barton says, “no known cognitive
+process is mediated exclusively by the neocortex. Complex
+cognitive processes are mediated by networks that link the
+neocortex with many other structures …It is therefore
+misleading to view the neocortex as the ‘cognitive’ part of
+the brain ” (Barton, 2006 , p.231). Moreover, by measuring
+the neocortex against the cerebella and the hippocampi,
+the neocortical ratio biases against manual coordination,
+motor planning, and spatial skills ( Gibson & Jesse, 1999),
+and hence against extractive foraging.
+Using another measure, the “executive brain” (volume
+of the neocortex and striatum relative to the brain stem)
+Reader and Laland (2002) found that, contrary to Dunbar,
+primate brain size is signi ﬁcantly correlated with innova-
+tion, social learning and tool use. Group size and social
+learning were not correlated. They conclude “Our analysis
+reinforces the ﬁnding of other recent studies that ecological
+hypotheses for brain evolution been prematurely rejected,
+that social and ecological intelligence hypotheses not
+necessarily be regarded as alternatives ( Reader & Laland,
+2002, p. 4440).
+3. Elaboration of the extractive foraging hypothesis
+The extractive foraging model, argues that early homi-
+nids expanded and elaborated on the extractive abilities of
+great apes ( Parker & Gibson, 1979 ). They evolved more
+advanced preoperational symbolic level intelligence
+involving understanding of topological concepts of enclo-
+sure and penetration ( Piaget & Inhelder, 1967 ) as they
+began to depend on a larger variety of extractible foods.
+These foods likely included roots and tubers, grubs, seeds,
+2 Dunbar argues that social group size is constrained by neocortical size
+and therefore covaries with it. According to his model, language, espe-
+cially gossip, maintains group cohesion in human groups. He argues that
+as human groups grew larger, language evolved to replace grooming,
+which maintains group cohesion in nonhuman primates.
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e122
+
+PDF PAGE 3
+fossorial animals, and scavenged prey. Based on his feeding
+study of tool use in wild chimpanzees, Yamakoshi (2001,
+2004) proposes a similar scenario according to which
+early hominids increased their dependence on tools to ac-
+cess hard-to-get foods. Several earlier ecological proposals
+emphasized tool use for attaining hard-to-get foods (see
+history in Parker & Jaffe, 2008), but lacked the speci ﬁcity of
+Yamakoshi's scenario. (None of these scenarios used Pia-
+getian stages to propose intelligent adaptations.)
+Pointing, movement in the direction of food sources,
+and mimicking actions of food preparation played a key
+role in communication about the location and nature of
+hidden food sources ( Parker & Gibson, 1979). Later homi-
+nids used worked stone tools to butcher prey as their
+spatial knowledge extended to understanding angles and
+whole part relations characteristic of concrete operations
+(Barth & Call, 2006; Wynn, 1979 ). With increased under-
+standing of geometry, aimed throwing of missiles became
+increasingly important in hunting and defense. Increasing
+levels of intelligence were reﬂected in increased brain sizes
+of these hominids ( Parker & Gibson, 1979). This scenario is
+consistent with the discovery of cracked marrow bones of
+antelopes associated with fossil Australopithecus garhi and
+simple worked tools dated about 2.5 million years ago
+(Asfaw et al., 1999 ).
+Intelligent extractive foraging without tools also favored
+enlarged brain size in other primate species. Expanded
+brains allow animals to use stationary, cryptic and hidden
+foods ( Gibson, 1986). As measured by neocortical progres-
+sion indices and encephalization, humans, chimpanzees,
+cebus and woolly monkeys, baboons, macaques, guenons,
+aye ayes, and orangutans have the largest primate brains
+relative to body size: “Each of these omnivorous forms
+engages in at least some extractive foraging in the wild,
+such as unfolding leaves to obtain encased insects, opening
+pods to obtain seeds, and digging grass corms from the
+ground” (Gibson, 1986 p. 98).
+3.1. Criticisms of the extractive foraging hypothesis
+This hypothesis lies at the intersection of contested
+deﬁnitions of tool use and intelligence. Whereas Parker and
+Gibson (1977) deﬁne tool use as use of a detached object to
+change the state or position of another object, Beck (1980)
+prefers a broader de ﬁnition, which includes throwing ob-
+jects. Some Old World monkeys are tool users by Beck's
+deﬁnition but not by Parker and Gibson's de ﬁnition. If
+monkeys are tool users, then tool use in great apes is not
+unique among Old World anthropoids ( van Schaik, Deaner,
+& Merrill, 1999 ). Beck's (1980) deﬁnition led van Schaik
+et al. (1999) to conclude that causes of the cognitive
+divide between great apes and monkeys are unclear. Like-
+wise, based on cebus tool use, other in ﬂuential in-
+vestigators have held that there is no evidence that great
+apes are more intelligent than monkeys ( Tomasello & Call,
+1997).
+Russon (2004) questions some elements of the extrac-
+tive foraging hypothesis: First, she says that since cebus are
+surpassed cognitively by great apes, their similar abilities
+cannot be explained by convergent evolution. To the con-
+trary, cognitive differences between cebus monkeys and
+great apes are predictable because their convergent adap-
+tations under similar selection pressures were derived from
+different ancestral bases.
+Second, she challenges the hypothesis that intelligent
+tool use is a derived (new) trait that arose in the last
+common ancestor of humans and great apes because it is
+rarely seen in wild orangutans and gorillas. The most
+parsimonious explanation for the fact that all the great apes
+use tools in captivity and most in the wild is that tool use is
+a shared derived character in the last common ancestor of
+these species (see Section 5.2). Diverging dietary specialties
+among the daughter species probably explain different
+frequencies of tool use in the wild ( Parker & Gibson, 1979).
+Third, she implies that omnivorous seasonal extractive
+foraging without tools by baboons and great apes are
+contrary to the extractive foraging hypothesis. In both cases
+she overlooks the category of intelligent manual extractive
+foraging (seen in baboons and continuing in great apes
+along with intelligent tool use).
+The following sections review comparative data on the
+anatomy of manipulators, kinds of object manipulation,
+and cognitive and brain characteristics and measures
+pertinent to the extractive foraging hypothesis.
+3.2. Primate hands and object manipulation
+Descriptions of sensorimotor intelligence in primates
+are consistent with the few comparative reports of object
+manipulation in primates. Torigoe (1985) reported three
+categories of object manipulation based on results of C.
+Parker's (1974) study of behavioral diversity in ten pri-
+mate species: (1) few manual action patterns displayed by
+lemurs (prosimians), New World marmoset and spider
+monkeys, and Old World leaf-eating monkeys (Colobinae),
+(2) varied kinds of manual object manipulation including
+object substrate actions displayed by Old World monkeys,
+including guenons, mangabeys, macaques, and baboons
+(Cercopithecinae) and (3) complex object manipulations
+with and without tools displayed by great apes and cebus
+monkeys.
+Recent reviews of primate object and substrate use in
+feeding are consistent with this picture ( Yamakoshi, 2004;
+van Schaik et al., 1999 ). van Schaik and colleagues found
+“bimanual asymmetric coordination ” (doing different
+things with two hands) was reported in great apes and
+Cercopithecine, but not in Colobine, monkeys. A brief
+comparative description of primate hands illuminates
+these differences.
+Primates have retained the early mammalian pattern of
+5 digits; most or all of their digits bear nails rather than
+claws. Prosimians lack individual digit control ( Fleagle,
+1999). Anthropoidea have independent digit control and
+interdependent use of two hands. Like apes, Old World
+monkeys have a saddle joint in the thumb, which allows
+them to abduct and rotate the 1st digit in true opposition
+with other digits. New World primates, excepting cebus
+monkeys, lack that saddle joint, but display pseudo oppo-
+sition between the 2nd and 3rd digits. Gibbons, spider,
+colobus, and langur monkeys have evolved suspensory
+locomotion via elongated ﬁngers and reduced or absent
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e12 3
+
+PDF PAGE 4
+thumbs, which prevent them from opposing thumbs to
+index ﬁngers (Fragaszy, 1998; Napier, 1993).
+Comparative studies of the functional anatomy of hands
+and object manipulation have focused on humans, great
+apes, cebus monkeys, and macaques. Consistent with the
+extractive foraging hypothesis, reviews of object manipu-
+lation and substrate use in primate feeding ( van Schaik
+et al., 1999; Yamakoshi, 2004 ) suggest that feeding was a
+primary selective pressure on these features.
+3.3. Sensorimotor intelligence and kinds of object
+manipulation
+Not all extractive foragers are tool users. Gibson
+emphasized that extractive foragers fall into three groups:
+The ﬁrst group uses specialized anatomical manipulators
+such as heavy beaks or teeth for seed cracking, or teeth
+specialized for drilling bark for tree gums. The second
+group uses dexterous hands for extraction by object
+manipulation. The third group uses tools in extraction.
+There are two categories of tool use: context speci ﬁc and
+intelligent. Context speci ﬁc tool use is associated with
+specialized extractive foraging, for example, Galapagos
+ﬁnches using twigs to extract grubs from tree bark, Herring
+gulls dropping clams to break their shells, and sea otters
+banging shells on rocks held in their chests. In contrast,
+intelligent tool use is associated with extractive foraging on
+a variety of seasonal embedded foods using different kinds
+of tools.
+There are two kinds of manual object manipulation: The
+ﬁrst is simple object manipulation by grasping, holding and
+turning associated with surface feeding. The second is
+complex object manipulation including digging, pulling,
+twisting, and banging objects on hard surfaces to extracting
+incased foods. The latter is associated with advanced 4th
+stage sensorimotor abilities as manifested in baboons and
+macaques and, possibly other Old World monkeys ( Gibson
+1986; Parker & Gibson, 1977).
+The extractive foraging model distinguishes different
+levels of intelligence corresponding to developmental
+stages of human infancy and childhood as described by
+Piaget. Great apes display 5th stage sensorimotor and 6th
+stage representational intelligence (now known to extend
+to early preoperational abilities characteristic of 2 e5 year
+old children (Russon & Bard, 1996). Macaques and baboons
+evolved some object manipulation patterns characteristic
+of advanced 4th stage sensorimotor intelligence in human
+infants: searching for hidden objects, hand-to-hand trans-
+fer, pulling apart, rotation, rolling, rubbing, and banging as
+well as serial application of these schemes ( Antinucci,
+1989; Antinucci, Spinozzi, Visalberghi, & Volterra, 1982;
+Gibson, 1986; Parker, 1977).
+These advanced 4th stage sensorimotor abilities arose as
+an adaptation for omnivorous foraging manually for a va-
+riety of cryptic foods such as fruits, nuts, and seeds con-
+tained in shells; insects contained in leaves or bark; baby
+birds or eggs in nests; as well as water and shallow rhi-
+zomes susceptible to manual excavation. This extractive
+foraging style favored increased manual dexterity ( Gibson,
+1986). These monkeys transmit foraging patterns through
+social facilitation and observational learning ( Whiten,
+2000) rather than through imitation.
+The extractive foraging model argues that New World
+cebus monkeys evolved some (5th stage) abilities similar
+to, but less advanced than, those of great apes through
+convergent evolution in extractive foraging ( Parker &
+Gibson, 1977 ). Subsequent research has revealed that
+several wild cebus populations use stone tools for nut
+cracking even using depressions in rocks as anvils
+(Fragaszy, Izar, Visalberghi, Ottoni & Gomez de Oliveira,
+2004; Phillips, 1998; Waga, Dacier, Pinha & Travares,
+2006). (Unlike chimpanzees cebus do not construct anvils
+Matsuzawa & Yamakoshi, 1996.) Like chimpanzees ( Boesch
+& Acherman-Boesch, 2000 ), wild cebus develop extractive
+foraging through years of observation and experimentation
+(Fragaszy, 1990; Perry & Manson, 2008 ). Consistent with
+their 5th stage level of understanding ( Antinucci, 1989 ),
+they do not achieve great ape levels of understanding of
+physical causality ( Visalberghi & Limongelli, 1994), or self-
+awareness (Roma et al., 2007 ). Nor do they show 5th stage
+imitation and social understanding ( Fragaszy et al., 2004 ),
+See Table 1.
+Another case of convergent evolution of extractive
+foraging occurred in a nocturnal prosimian primate from
+Madagascar. The aye eaye evolved a context-speci ﬁc form
+of manual extractive foraging based on manipulating a
+specialized third manual digit with a ball and socket joint
+while penetrating and extracting grubs from niches within
+tree bark ( Fragaszy, 1998; Gibson, 1986; Sterling &
+Povinelli, 1999 ) (see videos www.arkive.org/aye-aye/
+daubentonia-madagascaraensis). This may explain the
+enlarged brains of these creatures ( Gibson, 1986; Kaufman,
+Ahrens, Laidlaw, Zhang, & Ahman, 2006 ).
+Finally, convergent evolution of extractive foraging has
+occurred several times in birds. In their review, Lefebvre
+and associates (Lefebvre, Nicolakis, & Boie, 2002) found 125
+cases of tool use among 104 bird species: 39 cases of true
+tool use with detached objects in Passerida, Corvida and
+Psittaciformes, and 86 cases of borderline or proto-tool use
+(baiting, dropping, battering and skewering) in three other
+suborders, and no cases of tool use in other avian taxa.
+Virtually every case of true tool use involved opening
+inaccessible foods. As in primates true tool use in these
+species is associated with larger average size of the whole
+brain and the neostriatum which, like the neocortex in
+mammals, “has the necessary features for both the cogni-
+tive and sensory-motor aspects of tool use ” p.963 (Lefebvre
+et al., 2002 ).
+4. Piagetian stages
+Given that the extractive foraging hypothesis uses Pia-
+get's model of intellectual development, a brief discussion
+of this model is in order. Over a period of sixty years, Piaget
+and his colleagues developed a “constuctivist” model of
+human intellectual development from birth through
+adolescence: 1) the sensorimotor period from birth to 2
+years ( Piaget, 1952, 1954 ); 2) the pre-operations period
+from 2 to 5 or 6 years beginning with internal represen-
+tation of actions and symbols (Piaget, 1962); 3) the concrete
+operations period from 5 or 6 to 1 1 or 12 years beginning
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e124
+
+PDF PAGE 5
+with classi ﬁcation, seriation and number of concrete ob-
+jects (Inhelder & Piaget, 1964; Piaget, 1965, 1974); 4) formal
+operations from 1 1 or 12 years to adulthood beginning with
+the capacity for propositional logic ( Inhelder & Piaget,
+1958). They described cognitive development in domains
+of physical knowledge (objects, space, time and causality),
+logical knowledge (classi ﬁcation, seriation, number and
+possibilities), and social knowledge (imitation, language,
+pretend play, and moral development). They found that
+children generally developed at similar rates across do-
+mains though they showed some “decalage” or temporal
+displacements within domains. A number of stage models
+owe their inspiration to Piaget's work. These include
+Kohlberg's (1969) stages of moral development, Watson
+and Fischer's (1980) model of role development, Lewis
+and Brooks-Gunn's (1979) and Damon and Hart's (1988)
+models of self-understanding. Flavell, Botkin, Fry, Wright,
+and Jarvis's (1968) work on perspective taking, and
+Perner's (1991) work on theory-of-mind are examples of
+extensions of Piaget's work on representation and
+egocentrism.
+According to Piaget's model, children adapt to the
+world by assimilating objects to their schemes and ac-
+commodating their schemes to animate and inanimate
+objects thereby creating new feedback and progressively
+constructing more powerful schemes that extend and
+elaborate their adaptations. Such infantile schemes, for
+example, as visual following, grasping, and sucking,
+assimilate and accommodate to moving objects including
+the infant's own hands, graspable objects such as their
+own ﬁngers and those of caretakers, their sucking schemes
+adapt to the breast, the bottle, and their own thumbs. The
+idea is that the developing organism constructs much of
+his own environment through feedback from his own ac-
+tions on objects and people, which in turn transforms him,
+and so on. Piaget viewed this epigenetic process of
+cognitive construction as a continuation of prenatal
+epigenesis of embryonic and fetal structures through
+childhood symbolic communication to adult reasoning.
+Coordinations begin at the sensorimotor level, develop at
+the object manipulation level, progress to symbolic, and
+then abstract levels. Piaget also argued that re ﬂexive
+abstraction and the quest for equilibration in the face of
+periodic self-generated dis-equilibration is a source of
+cognitive growth ( Piaget, 1985 ). See Piaget and Inhelder
+(1969) for a general introduction.
+Neo-Piagetian studies have generally conﬁrmed Piaget's
+model except when they have used new technologies to
+study perceptual rather than sensorimotor knowledge
+(using the looking paradigm). The sensorimotor period has
+been subject to rigorous replication ( Langer, 1980, 1986;
+Uzgiris & Hunt, 1975), as has the entire span of cognitive
+development (Case, 1985, 1987).
+In the seventies and eighties following the cognitive
+revolution, American developmental psychologists began
+assimilating Piaget's model to the nativist-empiricist
+debate on the origins of knowledge in terms of the
+information-processing framework. “The general structure
+of this anti-Piagetian strategy was to show that some
+competency developed earlier than Piagetian theory had
+claimed” (Allen & Bickhard, 2013 , p.99). Anti-Piagetian
+claims in this “argument from precocity ” can be seen in
+numerous innatist studies of object permanence, space,
+number, causality, time, and imitation in young infants
+based on the differential looking paradigm. These experi-
+ments were designed to capture the infant's understanding
+of some conceptual content, e.g. by showing a preference
+for some “impossible event ” versus a normal event (see
+references in Allen & Bickhard, 2013; Müller & Overton,
+1998).
+Table 1
+Three grades of primate intelligence based on seven kinds of object manipulation in extractive foraging after Parker and Gibson (1977): Stage 2, the prosimian
+grade; Stages 3 and 4, the monkey grade, and Stage 5 and 6, the great ape grade.
+Actions Kinds of foraging Level of sensorimotor intelligence Primate species
+Prosimian grade
+Use of anatomical organs to extract a
+speciﬁc class of foods
+Context-speciﬁc extractive foraging on
+hidden foods with anatomical organs
+Stage 2:
+Coordination of primary oral, manual,
+visual schemes
+Potto
+Lemurs (?)
+Pygmy Loris
+Monkey Grade
+Use of anatomical organs to capture &
+consume foods
+Manual foraging on partially visible &
+hidden foods,
+active search for covered objects
+Partial Stages 3 &4 Actions designed to
+recreate a desired effect, different-
+iation of schemes,'
+Coordinates actions on two objects
+Non Marmoset NW
+monkeys
+Colobines:
+OW Leaf & seed
+eating monkeys
+Use of anatomical organs to uncover &
+manipulate a variety of foods on
+various substrates (rubbing,
+washing, unrolling)
+Intelligent manual extractive foraging
+for hidden foods & water (roots, fruits,
+nuts) active search for covered objects
+Advanced Stage 4 Serial application of
+familiar schemes on objects and in new
+situations,
+Cercopithecines:
+Guenons ?
+Mangabeys ?
+Macaques
+Baboons
+Great ape grade
+Use of a detached object (the tool) to
+change the state of another object in
+a variety of settings
+Intelligent proto-tool use and tool use
+extractive foraging on a variety of
+encased foods
+Stage 5 Discovery of new means
+through trial & error experimentation,
+search for displaced objects
+Cebus
+Invention of new tools, imitation of
+novel manual acts, teaching tool use
+Intelligent invention of new tools for
+extracting a wide variety of encased
+foods
+Advanced Stage 6 Invent & imitate new
+means through insight, search for
+invisibly displaced objects
+Chimpanzees
+Gorillas
+Orangutans
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e12 5
+
+PDF PAGE 6
+The ﬁrst objection to these claims is that investigators
+have failed to discon ﬁrm Piaget because they are studying
+different phenomena, that is, perceptual or ﬁgural rather
+than action or operative schemes as Piaget was. The second
+objection is that their methodology fails to control for
+processes involved in the infant's perception of familiarity
+and novelty. The more basic objection is that mental rep-
+resentation and cognitive development are based on action
+rather than innate perception.
+4.1. Comparative uses of Piaget' model
+Several features of Piaget's model make it useful for
+comparative studies of primate cognition. The ﬁrst of these
+is that the close phylogenetic relationship of monkeys, apes
+and human entails similar sensorimotor schemes and
+similar brain development. The second is the focus on
+nonverbal sensorimotor schemes, which allows both
+naturalistic and experimental studies of non-linguistic
+species. The third is that the sequence of increasingly
+complex hierarchical stages re ﬂecting progressively more
+advanced cognitive achievements provides a standard for
+judging more or less intelligent behaviors. Fourth is the
+comprehensive nature of the model, which covers most
+cognitive domains. Finally, the developmental stages allow
+the comparative study of the extent and pace of develop-
+ment among related primate species ( Parker, 1990 ). A
+major appeal of the Piagetian framework for comparative
+studies is its utility for analyzing spontaneous behaviors
+(Chevalier-Skolnikoff, 1977; Dore & Dumas, 1987; Jolly,
+1972; Parker, 1977; Pepperberg, 1992; Vauclair, 1996 ),
+their development, and their relation to human cognitive
+development (e.g., Antinucci, 1989; Chevalier-Skolnikoff,
+1977 , 1983; Parker, 1977).
+Studies of great apes and cebus also have used Uzgiris
+and Hunt's (1975) sensorimotor tests across several
+sensorimotor domains (e.g. Hallock & Worobey, 1984;
+Mathieu, Daudelin, Dagenais, & Decaire, 1980; Redshaw,
+1978). Most studies of prosimians ( Jolly, 1964) and mon-
+keys have used only the object concept series (see Mendes
+& Huber, 2004; Tomasello & Call, 1997 for references).
+Barth and Call (2006) recently published a comparative
+study of object displacement in great apes and human
+children concluding that they performed at the same level
+in most tasks.
+Some critics of comparative studies question the validity
+of Piaget's model, worrying about anthropomorphism,
+enculturation, and inadvertent training effects. Pepperberg
+(1992) discusses these issues, concluding, “Few other sys-
+tems support valid comparisons among primates, non-
+primate mammals, and birds (and possibly other crea-
+tures)” (Pepperberg, 1992, p. 1 181). Indeed, no other model
+offers these features.
+Tomasello and Call (1997) wrongly criticize Piagetian
+studies of primate cognition on the following grounds: (1)
+it is a general uni-dimensional stage construct, (2) it pro-
+poses uniform achievements across cognitive domains in
+human infants, (3) it underestimates infant cognition
+because it is based on motor behaviors and ignores
+perceptual abilities, (4) it does not cover all cognitive do-
+mains, and (5) its use to reconstruct abilities of common
+ancestors creates a scala naturae. Russon (2004) also criti-
+cizes Piaget's model for lack of comprehensive coverage of
+theory-of-mind and deception.
+Though Piaget's model is a general stage construct, it
+covers physical, logical and social domains. The fairly uni-
+form achievements it ﬁnds across domains in human
+children, contrasts with uneven patterns of achievement in
+nonhuman primates.
+Piagetian studies of primate cognition have been less
+common than other measures, however, many traditional
+measures of animal intelligence (e.g, detour problems,
+patterned string, invisible displacements, tool use, and
+imitation) fall within its scope. Most measures give
+compatible results ( Deaner, van Schaik, & Johnson, 2006;
+Gibson, Rumbaugh, & Beran, 2001; Reader et al., 201 1 ).
+Although Piaget's framework does not explicitly include
+such aspects of primate cognition as deception, self-
+awareness, or theory-of-mind, their development corre-
+lates with his cognitive stages of symbolic development
+(Parker & McKinney, 1999).
+Whereas human children traverse physical, logical, and
+social cognitive domains at similar rates, this is not true of
+monkeys and great apes. Baboons and macaques achieve
+terminal stages of development at the advanced 4th stage
+in physical cognition within the ﬁrst year of life, cebus
+monkeys peak at the 5th stage of physical cognition after
+several years. Great apes achieve terminal levels of cogni-
+tive development comparable to those of two-to four-year
+old human children in the pre-operations period but do so
+only after six years of age. In contrast to humans, great apes
+show uneven development across domains, moving faster
+and farther in logical and physical than in social and sym-
+bolic domains ( Langer, 1996; Parker & McKinney, 1999).
+Grade level differences were observed not assumed as a
+scala natura as envisioned by Tomasello and Call ( Parker &
+McKinney, 1999).
+Comparative Piagetian studies of primates have allowed
+investigators to identify species differences in develop-
+mental rates and terminal achievements in various cogni-
+tive domains. Indeed, inter-domain comparisons have been
+especially revealing. Using concepts of heterochrony
+(McKinney & McNamara, 1991) these data make it possible
+to reconstruct aspects of the evolution of cognitive devel-
+opment in Old World monkeys, great apes and humans
+(Gomez, 2005; Langer, 1996; Parker & McKinney, 1999). As
+in humans, developmental recapitulation of a series of
+terminal additions of new evolutionary stages in a series of
+ancestors is one possible outcome of heterochrony
+(evolutionary changes of developmental timing). Like other
+novelties, these new stages arose out of variations in the
+pace and extent of preexisting developmental patterns,
+which happened to be advantageous in changing environ-
+ments. Piaget's model is uniquely suited for such compar-
+ative developmental evolutionary studies.
+5. Primate brains
+Earliest fossils of both New World and Old World
+Anthropoidea had small brains, suggesting that brain
+enlargement occurred independently in these groups
+(Phillips, 2008 , July 9). Several factors contributed to brain
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e126
+
+PDF PAGE 7
+enlargement: the shift from nocturnal to diurnal activity
+and the attendant evolution of color vision and pattern
+recognition was perhaps the most important factor (Barton,
+2006; Falk, 2007 ). These changes resulted in an enlarged
+parvocellular pathway in the lateral geniculate body as well
+as an enlarged occipital cortex ( Barton, 2006 ). Visual
+dominance in diurnal life entailed changes in both
+ecological and social adaptations, that is, reliance on vision
+for locomotion, foraging, and for social communication.
+Barton describes the parvocellular-dominated ventral
+pathway in the temporal lobe of the cortex that is impor-
+tant in social interaction, including areas in the infero-
+temporal cortex specializing in faces. He also describes
+pathways between this area and the amygdala that respond
+to faces: “This ventral stream eprefrontal network may
+therefore be best characterized as a system for processing
+complex social signals in an emotional context ” (Barton,
+2006; p. 234).
+In contrast, the evolution of individual digit control,
+elaborated grips and object manipulation patterns was
+associated with increased somatosensory cortex, cerebellar
+and cortico-cerebellar pathways mediating visually guided
+reaching and complex motor skills ( Barton, 2006 ). These
+skills were associated with lateral cerebellar enlargement.
+MacLeod, Zilles, Schleicher, Rilling, and Gibson's, 2003
+study shows a signi ﬁcant shift in the size of the cere-
+bellum in apes as compared to monkeys, based on an in-
+crease in the size of the lateral or neo-cerebellum. The
+lateral or neocerebellum is involved in visual-spatial skills,
+planning complex movements, and sensory discrimination,
+skills involved in extractive foraging and other environ-
+mental adaptations ( MacLeod et al., 2003 ).
+In their comparative study of brains of New World and
+Old World monkeys, Padberg et al. (2007) report parallel
+evolution in cebus monkeys and macaques of parietal
+cortical areas 2 and 5 involved in proprioception, motor
+planning and coordination of visually-guided reaching,
+grasping, and manipulation. These brain features correlate
+with precision grip and opposable thumbs in cebus, ma-
+caques, chimpanzees and humans. In other New World
+monkeys these cortical areas are poorly developed corre-
+lating with absence of precision grip, opposable thumbs,
+and tool use in feeding ( Table 2 ). The authors conclude,
+“cortical ﬁelds are the outcome of homologous highly
+constrained developmental programs ” (Padberg, Franca
+et al. 2007 ; p. 10,1 14) occurring in conjunction with
+similar manual actions in cebus, macaques, and great apes.
+Likewise Krubitzer and Disbrow (2010) conclude from their
+study that enlarged parietal areas 2 and 5 in Old World
+monkeys evolved coincident with opposable thumbs and
+associated grips.
+In light of such specializations, Barton suggests that the
+choice of comparative brain measures should depend upon
+the behavioral system and the species in question ( Barton,
+2006; p. 229).
+5.1. Brain measures
+Primate brains are notoriously dif ﬁcult to obtain and
+prepare consistently. Until recently, the most widely used
+primate database included only one or two individuals of a
+given species or genus, mainly wild caught ( Stephan et al.,
+1981). Its ape sample comprised 1 gibbon, 1 gorilla, and 1
+chimpanzee ( Stephan et al., 1981 ). That sample has been
+enlarged by neural magnetic resonance imaging (MRI) of
+live Yerkes animals (e.g., MacLeod et al., 2003 ). The
+enlarged sample of diverse origins raises questions of
+equivalencies ( Isler, Kirk, & Miller, 2008; Rilling, 2006 ).
+Isler et al. (2008) therefore created a new sample by
+compiling primate endocranial volumes (ECV). Even if
+brain measures are equivalent and unaffected by captivity,
+body size differences between males and females, old and
+young, wild and captive animals add complexity to brain-
+to-body measurement.
+Absolute brain size is highly correlated with body size,
+which closely predicts brain size when scaling is revealed
+by linear regression ( Jerison, 1973, Martin & Harvey, 1985).
+Proportional measures compare brain size to body size, or
+selected parts of the brain to the rest of the brain thereby
+taking allometry into account. Both kinds of measures are
+subject to sampling errors.
+Absolute brain size is signi ﬁcant because larger brains
+entail more convolutions, more extensive cortical mantle,
+and more specialized units, hence more complex infor-
+mation processing than smaller brains ( Gibson & Jesse,
+1999; MacLeod, 2004 ). Some investigators favor absolute
+brain size for the study of primate cognition because it
+corresponds best with grade-level differences in cognition,
+that is, with greater intelligence of great apes as compared
+to monkeys, and of monkeys compared to prosimians
+(Deaner, Isler, Burkart, & van Schaik, 2007; Gibson et al.,
+2001; Gibson & Jesse, 1999).
+They argue that absolute size measures best re ﬂect
+cognition whether measured by Piagetian standards
+(Gibson et al., 2001), or by global cognitive ability measured
+by detour, patterned string, invisible displacements, tool
+use, object discrimination, oddity, reversal learning, sorting
+and delayed response ( Deaner et al., 2006 ). Gibson et al.
+(2001) state that, in contrast to absolute brain size,
+Table 2
+Adapted on the taxonomic distribution of hand grips and actions in
+relation to parietal area 2 from Padberg et al. (2007) .
+Primate species Opposable
+thumb &
+precision
+grip
+Complex
+object
+manipulation
+Tool use
+in feeding
+Parietal area
+2 in cerebral
+cortex
+New world monkeys
+Cebus monkeys Yes Yes Yes Yes
+Other NW
+monkeys
+No No No No
+Old world monkeys
+Colobus monkeys No No No ?
+Guenons Yes Yes No ?
+Baboons Yes Yes No ?
+Macaques Yes Yes Yes* ?
+Great apes
+Orangutans Yes Yes Yes ?
+Gorillas Yes Yes Yes ?
+Chimpanzees Yes Yes Yes Yes
+Humans Yes Yes Yes Yes
+According to Parker and Gibson's (1977) deﬁnition (tool use involves use
+of a detached object to change the state of another object), macaques do
+not use tools in feeding.
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e12 7
+
+PDF PAGE 8
+various proportional measures fail to differentiate these
+grade levels of intelligence. Deaner et al. (2000) reach a
+similar conclusion.
+Nevertheless, consistent with data on absolute brain
+size measured by endocranial volumes (ECV), Isler et al.
+(2008) report that proportional brain-to-body measures
+of living primates divide them into three grades: grade (1)
+with largest relative EVCs includes the apes, Cercopithecine
+Old World monkeys, and non-callitrichine New World
+monkeys (cebus and spider monkeys); grade (2) with in-
+termediate relative EVCs includes Old World Colobine and
+New World Callitrichine (marmosets and tamarins) mon-
+keys; and grade (3) with the lowest relative EVCs include
+the prosimians excluding the aye-ayes. Since brain size
+doesn't scale isometrically with male body size in highly
+sexually dimorphic species, they used female body weights
+in great apes. The difference between apes and Cercopi-
+thecine monkeys is statistically signi ﬁcant only for adult
+female body size values ( Isler et al., 2008 ).
+Regression analysis of co-variation assumes indepen-
+dent data points, which may not exist when species have a
+recently shared phylogenetic history. Methods of inde-
+pendent contrast (e.g., Felsenstein, 1985 ) are used in
+conjunction with regression analysis to overcome this bias.
+When Rilling (2006) and Isler et al. (2008) applied inde-
+pendent contrasts analysis to regression analysis of primate
+brain on body size, it lowered the signiﬁcance of differences
+in brain size among the primate grades owing to their
+common ancestry. (Common ancestry of great apes of
+course is explicitly proposed in the extractive foraging
+hypothesis.)
+In contrast, when Reader et al. (201 1) directly tested
+four measures of brain size against their index of general
+primate intelligence (g
+s1), they found that g s1 scores were a
+signiﬁcant predictor of three of four brain measures:
+neocortical ratio, executive brain size, and absolute
+neocortical size. In this case, independent contrast analysis
+yielded similar results. Their measure of brain size is more
+relevant than the preceding grade levels based on brain
+against body size because their primate grades include
+species with varying levels of intelligence.
+5.2. Phylogeny and adaptive signi ﬁcance of primate
+intelligence
+Signiﬁcantly for this analysis, Reader et al. (201 1)
+developed a comparative measure of extractive foraging
+as one of several indices of behavioral ﬂexibility (extractive
+foraging, tool use, social learning, innovation, and tactical
+deception) in a meta-analysis of primate intelligence re-
+ported in primate literature. They also compiled ecologi-
+cally relevant data on dietary breadth, percent of fruit in the
+diet, and social group size. Table 3 shows the correlations
+they found among these variables. Note the correlation
+between extractive foraging, tool use and social learning,
+consistent with the socio-ecological nature of the extrac-
+tive foraging hypothesis.
+Their Principal Components Analysis of these measures
+revealed a single dominant component, gs1 that explains 65
+percent of the variance in cognitive measures. As noted
+above, three brain measures correlate signi ﬁcantly with
+this measure. When they mapped this general cognitive
+measure gs1, for primate species onto a phylogeny corrected
+for independent contrasts it “… revealed multiple conver-
+gent evolutionary events favoring high general intelligence
+across primate lineages, with four independent responses
+to selection in Cebus, Papio, Macaca , and Hominoidea ”
+(Reader et al., 201 1,p. 1022). See Fig. 1 for a graphic depic-
+tion of the phylogenetic relations of living primate genera
+arrayed next to a bar graph of their g scores. The inde-
+pendent distribution of the genera with the highest g
+scores (see the darkest lines) re ﬂects the independent
+(convergent) evolution of their cognitive abilities consis-
+tent with the extractive foraging hypothesis.
+The argument that extractive foraging in great apes is an
+adaptation for exploiting high-energy embedded foods
+during seasonal shortages is supported by Yamakoshi's
+(1998) analysis of tool use in wild Bossou Guinea chim-
+panzees. He found that during the mid-rainy season when
+“easy-to-get” foods (i.e., fruits) were scarce, chimpanzees
+turned to palm oil kernels and pith, “hard-to-get foods ”
+they could only access through tool use.
+(nut-cracking and pestle-pounding), They also
+employed tools in ant-dipping, algae scooping and leaf
+sponging. Year round average time tool using was 12%
+compared with 32% in peak scarcity. Yamakoshi's (2001)
+literature survey of tool use in feeding in 14 chimpanzee
+populations reveals 54 cases virtually all of which involve
+extraction of embedded foods.
+Support for the argument that intelligent tool use is a
+shared derived trait that arose in the common ancestor of
+great apes and humans comes from the discovery that, like
+chimpanzees ( McGrew, 1992), wild orangutans engage in
+intelligent tool use for extractive foraging (van Schaik et al.,
+Table 3
+Adapted from correlation of cognitive and socio-ecological measures across primate species, Table 3 Reader et al. (201 1 , p. 1019). Bold type marks highly
+correlated items consistent with the extractive foraging hypothesis.
+Rate: ExFor Innov SocLrn TacDec ToolU DietBre %Fruit SGSize
+Rate of extractive foraging 1 0.60*** 0.65*** 0.54*** 0.74*** 0.42*** 0.13 0.05
+Rate of innovation 1 0.55*** 0.51*** 0.56*** 0.18*** 0.08 0.12
+Rate social learning 1 0.54*** 0.69*** 0.44*** 0.32*** 0.12
+Rate of tactical deception 1 0.58*** 0.36*** 0.21 0.30**
+Rate of tool use 1 0.28** 0.24 /C0 0.05
+Dietary breadth 1 0.40*** 0.25*
+% Fruit in diet 1 0.14
+Social group size 1
+*p < 0.025, ** p < 0.01, ***p < 0.001.
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e128
+
+PDF PAGE 9
+1996; Yamakoshi, 2004 ). Likewise, at least one group of
+wild gorillas uses tools ( Breuer, Ndoundou-Hockemba, &
+Fishlock, 2005). All great apes engage in intelligent tool use
+in captivity ( Boysen, Kuhlmeier, Halliday, & Halliday, 1999;
+Visalberghi, Fragaszy, & Savage Rumbaugh, 1995 ). Recent
+analysis of molar morphology in dental fossils suggests that
+great apes turned to omnivorous hard-object frugivory in
+late Miocene: “on the basis of the present evidence, a role
+for extractive foraging in the evidence of great ape intelli-
+gence is highly plausible ” (Singleton, 2004 ; p. 312).
+6. Summary and conclusions
+The extractive foraging hypothesis was laid out in
+several publications, none of which used extractive
+foraging in the title (Section 3), rendering searches for the
+ideas dif ﬁcult. Following Dunbar's reported discon ﬁrma-
+tion, some investigators dismissed the hypothesis out of
+hand. Field studies have rarely quanti ﬁed extractive
+foraging. (See Sayers (2008) for a methodology for studying
+extractive foraging in wild monkeys.).
+Most critical, inability to quantify extractive foraging for
+statistical testing ( Deaner et al., 2000; Dunbar, 1992; 1998 )
+left Dunbar's claim against the extractive foraging hy-
+pothesis unchallenged. Now Reader et al. (201 1) have
+provided a methodology for testing the extractive foraging
+hypothesis, the frugivorous, and the social group size hy-
+potheses from published descriptions of primate socio-
+ecology (Section 5.2). Their general cognitive measure g s1
+includes extractive foraging, innovation, tool use, social
+learning, and tactical deception, but not group size (see
+Table 3 ). Consistent with the apprenticeship model of
+extractive foraging, they conclude “… that ecologically
+relevant cognitive abilities, from multiple domains, have
+coevolved in primates, revealing an across-species general
+intelligence, with general rather than purely social intelli-
+gence probably driving brain evolution” (Reader et al., 201 1,
+p.1022).
+Reader et al. (201 1) show that extractive foraging is a
+central element of primate cognition and brain size. Their
+phylogenetic analysis shows that intelligence arose inde-
+pendently in great apes, cebus monkeys, baboons, and ma-
+caques. The data underpinning their g factor support the
+hypothesis that the cognitive abilities expressed in tool use,
+social learning, and innovation arose as adaptations for
+extractive foraging on a variety of embedded food sources,
+and for apprenticeship in these activities. This hypothesis has
+the advantage of specifying which cognitive abilities were
+favored by natural selection in which contexts and why.
+Contrary to Dunbar's conclusion, social group size in
+primates does not correlate with or explain their enlarged
+brains or intelligence (Section 2.1; Section 3; Section 5) and
+the extractive foraging hypothesis has been conﬁrmed. This
+socio-ecological hypothesis is supported by a variety of
+discoveries: 1) tool use in wild orangutans and gorillas
+(Section 3) support the idea that extractive foraging arose
+in the common ancestor of the great apes; dental
+morphology in Miocene ape fossils also supports this idea
+(Section 3); 2) imitation and self awareness in the great
+apes, and teaching of tool use in wild chimpanzees sup-
+ports the argument that these social abilities arose as an
+Fig. 1. Phylogenetic distribution of general intelligence (g s1) in primates: (a)
+gs1 scores for apes, Old World monkeys, New World monkeys, and pro-
+simians; (b) g s1 scores mapped onto a composite primate tree showing
+convergent high intelligence in Hominoidea, Macaca, Cebus, and Papio (c)
+photographs illustrating behavioral ﬂexibility in Cebus nut cracking (Copy-
+right © L Candisian/Minden pictures), Macaca food washing, Papio ﬁshing
+(Copyright © iStockphoto.com/R.Bursch), Pan handclasp grooming (Copy-
+right © M. Nakamura). Taken from Fig. 1, p. 1020, S. M. Reader et al. (201 1)
+The evolution of primate general and cultural intelligence, Philosophical
+Transaction of the Royal Society B.
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e12 9
+
+PDF PAGE 10
+adaptation for apprenticeship in extractive foraging skills
+(Section 3) (Tool use and prolonged development of
+foraging in wild cebus monkeys supports the idea that
+these arose in conjunction with extractive foraging (Section
+3.1); 3) parallel evolution of cortical areas involved in
+planning and manual coordination of object manipulation
+in macaques and cebus monkeys (Section 3.2) supports the
+idea that these two species independently evolved cogni-
+tive abilities in conjunction with extractive foraging; 4) the
+strong correlation among extractive foraging, tool use, and
+social learning (Section 5.1) supports the idea that extrac-
+tive foraging was the key selection pressure for primate
+intelligence; 5) both absolute and proportional measures of
+brain size are consistent with the correlation between
+enlarged brains and extractive foraging (Section 5.1); 6)
+discovery of worked stone tools with cracked marrow
+bones is association with australopithecines 2.5 million
+years ago supports the idea that early hominid subsistence
+activities extended and elaborated extractive foraging.
+As indicated above, the extractive foraging hypothesis has
+been discounted for several reasons: First, the information-
+processing bent of psychology has resulted in a resistance
+to Piagetian concepts underpinning the extractive foraging
+hypothesis (Section 4). Second, failure to distinguish be-
+tween intelligent tool use and context-speciﬁc tool use, and
+between extractive foraging with tools, proto-tools, and
+anatomical manipulators (Section 3.2). has led to confusion
+about the evolutionary relationships among extractive
+foraging, tool use and intelligence. Third, the tendency to
+dichotomize social and ecological intelligence (Section 2.1;
+Section 3.1) has discouraged investigation of the relationship
+between the two. Finally, unfamiliarity with concepts of
+phylogeny, convergent evolution and heterochrony has led
+to misconceptions. One result has been confusion about
+reconstructing the evolution of character traits. Another has
+been the expectation that cebus should show identical abil-
+ities to chimpanzees rather than focal similarities typical of
+convergent evolution (Section 3; Section 3.1; 2.2.3.). Still
+another cause has been resistance to reconstructing the
+evolution of cognitive development when it suggests reca-
+pitulation of phylogeny during ontogeny (2.2.2.).
+Acknowledgments
+I thank the following people for their helpful sugges-
+tions and comments on earlier drafts of this paper: Karin E.
+Jaffe, Kathleen Gibson, Carol MacLeod, Constance Milbrath,
+Bob Mitchell, Nathan Rank, and Andrew Wilson. I am also
+grateful to Marina Cords for helpful criticisms, especially to
+Eric Amsel for his editorial guidance. Needless to say, they
+are not responsible for any errors in this article.
+References
+Allen, W. F., & Bickhard, M. H. (2013). Stepping off the Pendulum: why
+only an action-based approach can transcend the nativist-empiricist
+debate. Cognitive Development, 28 ,9 6 e133.
+Antinucci, F. (1989). Cognitive structure and development in nonhuman
+primates. Hillsdale, N J: Erlbaum .
+Antinucci, F., Spinozzi, G., Visalberghi, E., & Volterra, V. (1982). Cognitive
+development in a Japanese macaque ( Macaca fuscata ). Ann Ist Super
+Sanita, 18 (2), 177 e184. www.arkive.org/aye-aye/daubentonia-
+madagascaraensis.
+Asfaw, B., White, T., Lovejoy, O., Latimer, B., Simpson, B., & Suwa, G. (1999).
+Australopithecus garhi: a new species of early hominid from Ethiopia.
+Science, 284 , 629 e635.
+Barth, J., & Call, J. (2006). Tracking the displacement of objects: a series of
+tasks with great apes ( Pan troglodyes, Pan paniscus, Gorilla gorilla and
+Pongo pygmaeus ) and young children. Journal of Experimental Psy-
+chology: Animal Behavior Processes, 32 (3), 239 e252.
+Barton, R. A. (2006). Primate brain evolution: Integrating comparative,
+neuro-physiological, and ethological data. Evolutionary Anthropology,
+15, 224 e236.
+Beck, B. B. (1980). Animal tool behavior: The manufacture and use of tools by
+animals. New York. Garland .
+Boesch, C. (1991). Teaching among wild chimpanzees. Animal Behaviour,
+41, 530 e532.
+Boesch, C., & Boesch-Acherman, H. (2000). The chimpanzees of the Tai
+forest. Oxford, UK: Oxford University Press .
+Boysen, S., Kuhlmeier, V., Halliday, P., & Halliday, Y. (1999). Tool use in
+captive gorillas. In S. T. Parker, R. W. Mitchell, & H. L. Miles (Eds.), The
+mentality gorillas and orangutans (pp. 179 e182). Cambridge, UK:
+Cambridge University Press .
+Breuer, T., Ndoundou-Hockemba, M., & Fishlock, V. (2005). First obser-
+vation of tool use in wild gorillas. PLOS Biology, 3 (1 1 1), 2041e2043.
+Byrne, R., & Whiten, A. (Eds.). (1988). Machiavellian intelligence . London:
+Oxford University Press .
+Case, R. (1985). Intellectual development from birth to adulthood . Orlando,
+FL: Academic Press .
+Case, R. (1987). Neo-piagetian theory: retrospect and prospect. Interna-
+tional Journal of Psychology, 22 ,7 7 3e791.
+Cheney, D., & Seyfarth, R. (1990). How monkeys see the world . Chicago:
+University of Chicago Press .
+Chevalier-Skolnikoff, S. (1977). A Piagetian model for comparing the so-
+cialization of monkey, ape, and human infants. In S. Chevalier-Skol-
+nikoff, & F. Poirier (Eds.), Primate biosocial development (pp. 159e188).
+New York, Garland .
+Chevalier-Skolnikoff, S. (1983). Sensorimotor development in orangutans
+and other primates. Journal of Human Evolution, 12 , 545 e561.
+Damon, W., & Hart, D. (1988). Self understanding in childhood and
+adolescence. New York: Cambridge University Press .
+Deaner, R., Isler, K., Burkart, J., & van Schaik, C. (2007). Overall brain size,
+and not encephalization quotient, best predicts cognitive ability
+across non-human primates. Brain, Behavior and Evolution, 70 (2),
+115e124.
+Deaner, R., Nunn, C., & van Schaik, C. (2000). Comparative tests of primate
+cognition: different scaling methods produce different results. Brain,
+Behavior and Evolution, 55 (1), 44 e52.
+Deaner, R., van Schaik, C., & Johnson, V. (2006). Do some taxa have better
+domain general cognition than others? A meta-analysis of nonhuman
+primate studies. Evolutionary Psychology, 4 ,1 4 9e196.
+Dore, F. Y., & Dumas, C. (1987). Psychology of animal cognition: Piagetian
+studies. Psychological Bulletin, 102 (2), 219e233.
+Dunbar, R. I. M. (1992). Neocortex size as a constraint on group size in
+primates. Journal of Human Evolution, 20 , 409 e493.
+Dunbar, R. I. M. (1993). Coevolution of neocortical size, group size and
+language in humans. Behavioral and Brain Sciences, 16 , 681 e735.
+Dunbar, R. I. M. (1998). The social brain hypothesis. Evolutionary An-
+thropology, 6(5), 178e190.
+Falk, D. (2007). Evolution of the primate brain. In W. Henke, & I. Tattersall
+(Eds.), Handbook of paleoanthropology (pp. 1 133e1362). New York:
+Springer Verlag, 2: Primate evolution and human origins .
+Felsenstein, J. (1985). Phylogenies and the comparative method. American
+Naturalist, 125,1 e15.
+Flavell, J. H., Botkin, P. T., Fry, C. L., Wright, J. W., & Jarvis, P. E. (1968). The
+development of role-taking and communication skills in children .N e w
+York: Wiley.
+Fleagle, J. G. (1999). Primate adaptation and evolution . New York: Aca-
+demic Press .
+Fox, E., & van Schaik, C. (1999). Intelligent tool use in wild Sumatran
+orangutans. In S. T. Parker, H. L. Miles, & R. W. Mitchell (Eds.), The
+mentality of gorillas and orangutans (pp. 99 e1 16). Cambridge, UK:
+Cambridge University Press .
+Fragaszy, D. (1990). Early behavioral development in capuchins ( Cebus). In
+D. Fragaszy, J. Robinson, & E. Visalberghi (Eds.), Adaptation and
+adaptability of capuchin monkeys (pp. 1 19e128). Basel: Karger .
+Fragaszy, D. (1998). How nonhuman primates use their hands. In
+K. J. Connolly (Ed.), Psychology of the hand (pp. 77 e96). New York:
+Cambridge University Press .
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e1210
+
+PDF PAGE 11
+Fragaszy, D., Izar, P., Visalberghi, E., Ottoni, E. B., & Gomez de Oliveira, M.
+(2004). Wild capuchin monkeys ( Cebus libidinosus ) use anvils and
+stone pounding tools. American Journal of Primatology, 64(4), 359e366.
+Gibson, K. R. (1986). Cognition, brain size and the extraction of embedded
+food resources. In J. G. Else, & P. Lee (Eds.), Primate ontogeny, cognition
+and social behaviour (pp. 93 e104). Cambridge, UK: Cambridge Uni-
+versity Press .
+Gibson, K. R., & Jesse, S. (1999). Language evolution and expansions of
+multiple neurological processing areas. In B. King (Ed.), The origins of
+language, what nonhuman primates can tell us (pp. 189e227). Santa Fe:
+School of American Research Press .
+Gibson, K. R., Rumbaugh, D., & Beran, M. (2001). Bigger is better: primate
+brain size in relation to cognition. In D. Falk, & K. R. Gibson (Eds.),
+Evolutionary anatomy of the primate cerebral cortex (pp. 79 e97).
+Cambridge UK: Cambridge University Press .
+Gomez, J.-C. (2005). Species comparative studies and cognitive develop-
+ment. Trends in Cognitive Sciences, 9 (3), 1 18e125.
+Hallock, M. B., & Worobey, J. (1984). Cognitive development in infant
+chimpanzees. Journal of Human Evolution, 13 ,4 4 1e447.
+Humphrey, N. K. (1976). The social function of intellect. In P. G. Bateson, &
+R. A. Hinde (Eds.), Growing points in ethology (pp. 303 e317). Cam-
+bridge, UK: Cambridge University Press .
+Inhelder, B., & Piaget, J. (1958). The growth of logical thinking from child-
+hood to adolescence . New York: Basic Books .
+Inhelder, B., & Piaget, J. (1964). The early growth of logical thinking .N e w
+York: Routledge, Kegan Paul .
+Isler, K., Kirk, E. C., & Miller, J. M. A. (2008). Endocranial volumes of pri-
+mate species: scaling analysis using a comprehensive and reliable
+data set. Journal of Human Evolution, 55 , 967 e978.
+Jerison, H. (1973). Evolution of brain and intelligence . New York: Academic
+Press.
+Jolly, A. (1964). Prosimians' manipulation of simple object problems.
+Animal Behaviour, 12 , 560 e571.
+Jolly, A. (1972). The evolution of primate behavior . New York: MacMillian .
+Kaufman, J. A., Ahrens, E., Laidlaw, D., Zhang, S., & Ahman, J. (2006).
+Anatomical analysis of an Aye-Aye brain (Daubentonia madagascar-
+iensis, Primates: Prosimii) combining histology, structural magnetic
+resonance imaging and diffusion tensor imaging. Anatomical Record
+Part A, 287A , 1026e1037.
+Kohlberg, L. (1969). Stage and sequence: the cognitive-developmental
+approach to socialization. In D. A. Goslin (Ed.), Handbook of socializ-
+ation theory and research . New York: Rand McNally .
+Krubitzer, L., & Disbrow, E. (2010). The evolution of parietal areas involved
+in hand use in primates. In F. Dolins, & R. W. Mitchell (Eds.), Spatial
+cognition, spatial perception (pp. 365 e421). New York: Cambridge
+University Press.
+Langer, J. (1980). The origins of logic: Six to twelve months . New York:
+Academic Press .
+Langer, J. (1986). The origins of logic: One to two years . New York: Aca-
+demic Press .
+Langer, J. (1996). Heterochrony and the evolution of primate cognitive
+development. In A. E. Russon, K. Bard, & S. T. Parker (Eds.), Reaching
+into thought: The minds of great apes (pp. 257e277). ) Cambridge, UK:
+Cambridge University Press .
+Lefebvre, L., Nicolakis, N., & Boie, D. (2002). Tools and brains in birds.
+Behaviour, 139, 939 e973.
+Lewis, M., & Brooks-Gunn, J. (1979). Social cognition and the acquisition of
+self. New York: Plenum .
+MacLeod, C. K. (2004). What is in a brain? The question of a distinctive
+brain-anatomy in great apes. In A. E. Russon, & D. R. Begun (Eds.), The
+evolution of thought: Evolutionary origins of great ape intelligence (pp.
+105e121). Cambridge UK: Cambridge University Press .
+MacLeod, C. K., Zilles, K., Schleicher, A., Rilling, J. R., & Gibson, K. R. (2003).
+Expansion of the neocerebellum in Hominoidea. Journal of Human
+Evolution, 44 ,4 0 1e429.
+Martin, R. D., & Harvey, P. H. (1985). Brain size allometry ontogeny and
+phylogeny. In W. L. Jungers (Ed.), Size and scaling in primate biology
+(pp. 147e174). ) NY: Plenum Press .
+Mathieu, M., Daudelin, N., Dagenais, Y., & Decaire, T. (1980). Piagetian
+causality in two house-reared chimpanzees ( Pan troglodytes ). Cana-
+dian Journal of Psychology, 34 (2), 179e186.
+Matsuzawa, T., & Yamakoshi, G. (1996). Comparison of material culture
+between Bossou and Nimba. In A. E. Russon, K. Bard, & S. T. Parker
+(Eds.), Reaching into Thought: The minds of great apes (pp. 21 1e232).
+Cambridge, UK: Cambridge University Press .
+McGrew, W. (1992). Chimpanzee material culture: Implications for human
+evolution. New York: Cambridge University Press .
+McKinney, M., & McNamara, K. (1991). Heterochrony: The Evolution of
+Ontogeny. New York: Plenum .
+Mendes, N., & Huber, L. (2004). Object permanence in common marmo-
+sets (Callithrix jacchus) . Journal of Comparative Psychology, 1 18 (1),
+103e112.
+Milton, K. (1988). Foraging behaviour and the evolution of primate in-
+telligence. In R. Byrne, & A. Whiten (Eds.), Machiavellian intelligence
+(pp. 285 e305). Oxford, UK: Oxford University Press .
+Müller, U., & Overton, W. F. (1998). How to grow a baby: a re-evaluation of
+image-schema and Piagetian action approaches to representation.
+Human Development, 41 ,7 1 e111.
+Napier, J. (1993). Hands. Princeton: Princeton University Press .
+Padberg, J., Franca, J. G., Cooke, D. F., Soares, J. G. M., Rosa, M. G. P.,
+Fiorani, M., Jr., et al. (2007). Parallel evolution of cortical areas
+involved in skilled hand use. Journal of Neuroscience, 27 (38),
+10106e10115.
+Parker, C. E. (1974). Behavioral diversity in ten species of nonhuman
+primates. Journal of Comparative and Physiological Psychology, 87 (5),
+930e937.
+Parker, S. T. (1977). Piaget's sensorimotor series in an infant macaque: a
+model for comparing unstereotyped behavior and intelligence in
+human and nonhuman primates. In S. Chevalier-Skolnikoff, &
+F. Poirier (Eds.), Primate biosocial development (pp. 43 e1 12). New
+York, Garland.
+Parker, S. T. (1990). The origins of comparative developmental evolu-
+tionary studies of primate mental abilities. In S. T. Parker, &
+K. R. Gibson (Eds.), “Language” and intelligence in monkeys and apes
+(pp. 3 e64). New York: Cambridge University Press .
+Parker, S. T. (1996). Apprenticeship in tool-mediated extractive foraging:
+the origins of imitation, teaching, and self-awareness in great apes. In
+A. E. Russon, K. Bard, & S. T. Parker (Eds.), Reaching into thought: The
+minds of great apes (pp. 348 e370). Cambridge, UK: Cambridge Uni-
+versity Press .
+Parker, S. T., & Gibson, K. R. (1977). Object manipulation, tool use, and
+sensorimotor intelligence as feeding adaptations in cebus monkeys
+and great apes. Journal of Human Evolution, 6 , 623 e641.
+Parker, S. T., & Gibson, K. R. (1979). A developmental model for the evo-
+lution of language and intelligence in early hominids. Behavioral and
+Brain Sciences, 2 ,3 6 7e408.
+Parker, S. T., & Jaffe, K. E. (2008). Darwin's legacy: Scenarios in human
+evolution. Lanham, MD: Alta Mira Press .
+Parker, S. T., & McKinney, M. L. (1999). The origins of intelligence: The
+evolution of cognitive development in monkeys, apes, and humans .
+Baltimore, MD: Johns Hopkins University Press .
+Pepperberg, I. (1992). The value of the Piagetian framework for compar-
+ative cognitive studies. Animal Cognition, 5 ,1 7 7e182.
+Perner, J. (1991). Understanding the representational mind . Boston: MIT
+Press.
+Perry, S., & Manson, J. (2008). Manipulative monkeys . Cambridge MA:
+Harvard University Press .
+Phillips, K. (1998). Tool use in wild capuchin monkeys ( Cebus albifrons
+trinitatis). American Journal of Primatology, 46 , 259 e261.
+Phillips, K. (2008), July 9. Big brains arose twice in higher primates.
+Eukeraalert!.org.
+Piaget, J. (1954). The construction of reality in the child . New York: Basic
+Books.
+Piaget, J. (1962). Play, dreams, and imitation . New York: W W Norton .
+Piaget, J. (1965). The moral judgment of the child . New York: Free Press .
+Piaget, J. (1974). The child's construction of quantities . New York: Rout-
+ledge, Kegan Paul .
+Piaget, J. (1985). The equilibration of cognitive structures, the central prob-
+lem of intellectual development . T. Brown & K. J. Thampy, translator.
+Chicago: University of Chicago Press .
+Piaget, J. (1952). The origins of intelligence in children . New York: Inter-
+national Universities Press .
+Piaget, J., & Inhelder, B. (1967). The child's conception of space . New York:
+W/W. Norton.
+Piaget, J., & Inhelder, B. (1969). The psychology of the child . New York: Basic
+Books.
+Reader, S. M., Hager, Y., & Laland, K. (201 1). The evolution of primate
+general and cultural intelligence. Philosophical Transactions of the
+Royal Society B, 366 ,1 0 1 7e1027.
+Reader, S. M., & Laland, K. N. (2002). Social intelligence, innovation, and
+enhanced brain size in primates. Proceedings of the National Academy
+of Sciences, 99 (7), 4436 e4441.
+Redshaw, M. (1978). Cognitive development in human and gorilla infants.
+Journal of Human Evolution, 7 ,1 1 3e141.
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e12 11
+
+PDF PAGE 12
+Rilling, J. K. (2006). Human and nonhuman brains: are they allometrically
+scaled versions of the same design? Evolutionary Anthropology, 15 ,
+66e77.
+Roma, P., Silberberg, G. A., Huntsberry, A. M., Christensen, C. J.,
+Ruggiero, A., & Suomi, S. (2007). Mark tests for mirror self-recognition
+in capuchin monkeys ( Cebus apella) trained to touch marks. American
+Journal of Primatology, 69 (9), 989 e1 000.
+Russon, A. E. (2004). Evolutionary constructions of great ape intelligence.
+In A. E. Russon, & D. R. Begun (Eds.), The evolution of thought: Evolu-
+tionary origins of great ape intelligence (pp. 1 e14). Cambridge, UK:
+Cambridge University Press .
+Russon, A. E., & Bard, K. (1996). Exploring the minds of great apes: Issues
+and controversies. In A. E. Russon, K. Bard, & S. T. Parker (Eds.),
+Reaching into thought: The minds of great apes (pp. 1e20). Cambridge,
+UK: Cambridge University Press .
+Sayers, K. A. (2008). Optimal foraging on the roof of the world: A ﬁeld study
+of Himalayan langurs . Anthropology. Cleveland Kent State University.
+PhD dissertation: 240 .
+van Schaik, C., Deaner, R. O., & Merrill, M. Y. (1999). The context for tool
+use in primates: implications for the evolution of material culture.
+Journal of Human Evolution, 36 ,7 1 9e741.
+van Schaik, C., Fox, E., & Sitompul, A. F. (1996). Manufacture and use of
+tools in wild Sumatran orangutans: implications for human evolution.
+Naturwissenschaften, 83 ,1 8 6e188.
+Singleton, M. (2004). Fossil hominoid diets, extractive foraging, and the
+origins of great ape intelligence. In A. E. Russon, & D. R. Begun (Eds.),
+The evolution of thought: Evolutionary origins of great ape intelligence
+(pp. 298 e319). Cambridge UK: Cambridge University Press .
+Stephan, H., Frahm, H., & Baron, G. (1981). New and revised data on
+volumes of brain structure in insectivores and primates. Folia Pri-
+matologica, 35 ,1 e29.
+Sterling, E., & Povinelli, D. (1999). Tool use, aye-ayes, and sensorimotor
+intelligence. Folia Primatologica, 70 ,8 e16.
+Tomasello, M., & Call, J. (1997). Primate cognition . New York: Oxford
+University Press.
+Torigoe, T. (1985). Comparison of object manipulation among 74 species
+of non-human primates. Primates, 26 (2), 182e194.
+Uzgiris, I., & Hunt, M. (1975). Assessment in infancy: Ordinal scales of
+psychological development. Urbana: University of Illinois Press .
+Vauclair, J. (1996). Animal cognition . Cambridge, MA: Harvard University
+Press.
+Visalberghi, E., Fragaszy, D., & Savage Rumbaugh, S. (1995). Performance
+in a tool -using task by common chimpanzees ( Pan troglodytes ),
+bonobos ( Pan paniscus ), and orangutan ( Pongo pygmeaus ), and
+capuchin monkeys ( Cebus apella ). Journal of Comparative Psychology,
+109(1), 52 e60.
+Visalberghi, E., & Limongelli, L. (1994). Lack of comprehension of cause-
+effect relations in tool-using capuchin monkeys ( Cebus apella ). Jour-
+nal of Comparative Psychology, 108 (1), 15e22.
+Waga, I. C., Dacier, A. K., Pinha, P. S., & Tavares, M. C. (2006). Spontaneous
+tool use by wild capuchin monkeys ( Cebus libidinosus) in the Cerrado.
+Folia Primatologica, 77 (5), 337e344.
+Watson, M. W., & Fischer, K. W. (1980). Development of social roles in
+elicited and spontaneous behavior during preschool years. Develop-
+mental Psychology, 16(5), 483 e494.
+Whiten, A. (2000). Primate culture and social learning. Cognitive Science,
+24(3), 477e508.
+Wynn, T. (1979). The intelligence of later Acheulian hominids. Man, 14,
+171e191.
+Yamakoshi, G. (1998). Dietary responses to fruit scarcity of wild chim-
+panzees at Bossou, Guinea: possible implications for ecological
+importance of tool use. American Journal of Physical Anthropology, 106 ,
+283e295.
+Yamakoshi, G. (2001). Ecology of tool use in wild chimpanzees: toward
+reconstruction of early hominid evolution. In T. Matsuzawa (Ed.),
+Primate origins of human cognition and behavior (pp. 537e556). Tokyo:
+Springer Verlag .
+Yamakoshi, G. (2004). Evolution of complex feeding techniques in pri-
+mates: is this the origin of great ape intelligence? In A. E. Russon, &
+D. R. Begun (Eds.), The evolution of thought: Evolutionary origins of
+great ape intelligence (pp. 140e171) Cambridge UK: Cambridge Uni-
+versity Press .
+S.T. Parker / New Ideas in Psychology 37 (2015) 1 e1212

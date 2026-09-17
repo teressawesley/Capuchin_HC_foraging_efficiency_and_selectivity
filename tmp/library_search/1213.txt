@@ -1,0 +1,1559 @@
+PDF PAGE 1
+Development  and  social dynamics  of stone  tool use in wild 
+white-faced capuchin  monke ys
+Zo € e Goldsbor ough  a,b,c,d, *
+ , Meredith K. W . Carlson d,e
+ , Leonie S. Reetz a,b
+ ,
+Evelyn Del Rosario-Vargas  d
+ , Margaret  C. Crofoot a,b,c,d
+ , Brendan  J. Barrett a,b,c,d, *
+a Department  for the Ecology  of Animal Societies, Max  Planck Institute of Animal Behavior, Konstanz, Germany  
+b Department  of Biology, University of Konstanz, Konstanz, Germany
+c Center for the Advanced Study of Collective Behaviour, University of Konstanz, Konstanz, Germany
+d Smithsonian Tropical Research Institute, Ancon, Panama
+e Department  of Anthropology, University of California, Davis, CA, U.S.A.
+a r t i c l e i n  f o
+Article history:
+Received  10 No vember  2025
+Initial acceptance 23 December  2025  
+Final acceptance 27 April 2026 
+Available online 13 August 2026 
+MS.  number:  25-00667R
+Keywords:
+Cebus capucinus imitator 
+developmental  trajectory 
+extractive foraging 
+peering
+social learning
+social tolerance
+Percussive tool use for extractive foraging allows animals  to access otherwise inaccessible resources and  
+forage more  efficiently, with  potentially important  implications for their fitness. The  development  of 
+tool use proficiency has been  w ell documented  in nut-cracking chimpanzees,  Pan  troglodytes, and  robust 
+capuchins, Sapajus spp., and  in shellfish-cracking longtailed macaq ues, Macaca  fascicularis, where  
+mothers  and  proficient tool users are the most  important  models  for social learning. How ever, little is 
+known  about  how  tool use develops in populations where  opportunities for social learning are scarce.
+White-faced capuchins, Cebus capucinus imitator, on  Jicar� on  Island, Panama,  provide a unique  oppor-
+tunity to address this question: stone tool use is entirely male  biased, meaning  juveniles cannot  learn 
+from  their mothers, and  reduced  group  cohesion further limits opportunities for social learning. W e 
+investigated  the acquisition and  development  of stone tool proficiency in this population using a data 
+set collected over a 1-year period from  camera  traps placed at two  experimental  anvils. W e assessed 
+differences in proficiency between  age classes, examined  the development  of tool use proficiency over 
+time  and  explored patterns of social attention during tool use. Juvenile capuchins  were less proficient 
+than subadults and  adults, but their proficiency remained  stable over the 12-month  study period, 
+suggesting that skill development  ma y require prolonged  practice or physical maturation.  In contrast to
+other primates, opportunities for social learning on  Jicar� on  appeared  to be limited and  scrounging w as
+rare, yet when  social attention occurred, w e found  consistent patterns. Social attention to tool use 
+mostly  came  from  juveniles too young  to use tools themselves, who  observed  proficient subadults that 
+tolerated scrounging. Our  results contribute to understanding  how  comple x tool use behaviours are 
+acquired and  maintained.  They  highlight that even  when  tool use is largely solitary, directed  social 
+attention and  social tolerance  play an  important  role in the development  of tool use proficiency.
+©  2026 The  Author(s). Published  by  Elsevier Ltd on  behalf of The  Association for the Study  of Animal  
+Behaviour. This  is an  open  access article under  the CC BY  license (http://creativecommons.org/licenses/  
+by/4.0/).
+Tool use is a striking example  of behavioural flexibility in ani-
+mals, and  the use of tools for extractive foraging can increase fitness 
+by  allowing  faster access to a greater variety of resources (Biro et al., 
+2013). How ever, becoming  proficient in tool use can take years, 
+depending  on  the comple xity of the behaviour (Boesch et al., 2019). 
+A behaviour is considered tool use when  an  animal  uses an  object 
+that is not part of its own  body, is unattached to the surrounding
+environment  or attached and  capable of being manipulated 
+(Shumaker  et al., 2011) and  manipulates the object to achieve a 
+useful outcome  (Beck, 1980). To describe the comple xity of tool use 
+behaviour, a distinction can be made  betwee n first-order tool use 
+involving a single object (e.g. pounding  a nut on  a fixed surface) and  
+second-order tool use involving two  objects (e.g. pounding  a nut on  
+a fixed surface using a hammerstone:  Fragaszy et al., 2004). Second-
+order tool use is thought to reflect greater cognitive comple xity, as it 
+requires more  planning and  physical coordination to correctly bring 
+together all the separate objects to obtain the desired outcome.  
+Percussive stone technology, particularly extractive foraging using 
+hammerstone s and  anvils, is the focus of substantial scientific
+* Corresponding  authors.
+E-mail addresses: zgoldsborough@ab.mpg.de  (Z. Goldsborough),  bbarrett@ab.  
+mpg.de  (B. J. Barrett).
+Contents lists available at ScienceDirect
+Animal  Behaviour
+journal  homepage:  www.elsevier.com/l ocate/anbehav
+https://doi.org/10.1016/j.anbehav.2026.123673
+0003-3472/©  2026 The  Author(s). Published  by  Elsevier Ltd on  behalf of The  Association for the Study  of Animal  Behaviour. This  is an  open  access article under  the CC BY  
+license (http://creativecommons.org/licenses/by /4.0/).
+Animal  Behaviour 239 (2026) 123673
+
+PDF PAGE 2
+interest. This is because  of its high level of comple xity and  its 
+relative rarity in the animal  kingdom,  despite its prominent  (and  
+archaeologically preservable) role in human  evolution (de  la Torre & 
+Hirata, 2015). The  only nonhuman  wild primates that regularly use 
+stone tools for extractive foraging are chimpanzees, Pan  troglodytes 
+(Sugiyama  & Koman,  1979), longtailed macaq ues, Macaca  fas-
+cicularis (Gumert  & Malaivijitnond, 2012; Muhammad  et al., 2024), 
+robust capuchins, Sapajus spp. (Canale et al., 2009; Lima et al., 2024; 
+Ottoni & Mannu,  2001; Spagnoletti et al., 2011) and  gracile capu-
+chins, Cebus spp. (Araujo et al., 2021; Barrett et al., 2018). Among  
+Macaca  and  Cebus, tool use is further restricted to only a few  groups  
+or spatially isolated populations. Examining how  stone tool use is 
+acquired and  how  proficiency develops is key to understanding how  
+a tool use tradition is maintained  within a group, as well as whether  
+and  how  it spreads betwee n groups.
+For  particularly comple x techniques like percussive stone tool 
+use, acquisition of the skill may  require sufficient exposure at a 
+young  age. In robust capuchins  (De  Resende  et al., 2008) and  
+macaq ues (Tan, 2017), acquisition of tool use also mostly  occurs 
+early in life. In chimpanzees,  insufficient exposure  to nut cracking 
+during a critical learning period (between  3 and  10 years of age) 
+may  hinder or completely impede  learning of the behaviour in 
+adulthood  (Biro et al., 2003; Inoue-Nakamur a & Matsuzaw a, 1997; 
+Matsuzaw a, 1994). Exposure to tool use has an  important  social 
+component:  in both  robust capuchins  and  chimpanzees,  immatur e 
+individuals are thought  to acquire nut cracking via social learning 
+processes such  as local enhancement,  emulation  and  social facil-
+itation (Biro et al., 2003; Coelho et al., 2015; Eshchar et al., 2016; 
+Ottoni et al., 2005 ). Although  some  authors have argued  that social 
+learning is not critical to the acquisition of nut cracking in captive 
+chimpanzees  (Neadle  et al., 2020), evidence from  wild chimpan -
+zees continues to support an  important  role for social learning 
+(Koops  et al., 2022).
+In chimpanzees,  most  transmission  of tool use behaviours oc-
+curs from  mothers  to their offspring (Boesch, 1991; Lonsdorf, 
+2005 ). Juveniles spend  a great deal of time  with  their mothers  
+during the sensitive learning period, and  mothers  are highly 
+tolerant of their offspring observing their tool use events and  
+scrounging  from  opened  nuts. There is also some  evidence of fe-
+male  chimpanzees  providing learning opportunities for their 
+offspring through  ‘scaffolding’ (sharing nut-cracking materials 
+such  as hammers  with  their offspring: Estienne et al., 2019; 
+Musgra ve et al., 2016). In contrast, robust capuchin  mothers  were 
+not common  models  for their offspring. Rather, juveniles prefer-
+entially observed  tool use events performed  by  proficient tool 
+users (Coelho et al., 2024; Ottoni et al., 2005 ), who  were older and  
+more  dominant  than themselves (Coelho et al., 2015). Social 
+closeness and  physical proximity did not affect whom  juveniles 
+chose  to observe. How ever, they did prefer individuals who  were 
+more  tolerant of observers, and  scrounging occurred in 75%  of tool 
+use events (Coelho et al., 2015).
+High  interindividual social tolerance  is thought  to be an  
+important  precondition for tool use acquisition (van  Schaik et al., 
+1999), as observational learning of a comple x skill requires close 
+visual attention to tool use activities. Being in such  close proximity 
+to an  intolerant tool user is risky for an  observer, who  may  be 
+chased  aw ay or attacked. Empirical evidence from  bearded  capu-
+chins, Sapajus libidinosus, supports the importance  of social 
+tolerance, showing  that it facilitates information transfer in an  
+extractive foraging task (Coelho et al., 2024). High  social tolerance  
+often provides the opportunity to scrounge, which  not only gives 
+naïve individuals the chance  to observe the end  result of tool use, 
+but also allows  them  a share of the payoff, thus increasing their 
+motivation to acquire tool use themselves (Fragaszy et al., 2013). 
+After acquisition, honing  tool use skills can be a lengthy process.
+Younger, active learners spend  more  time  acquiring tool use and  
+are less proficient than experienced  adults (Tan, 2017). How ever, in 
+bearded  capuchins, juveniles did not make  more  mistakes than 
+adults during tool use. Rather, juveniles’ lower proficiency mainly  
+resulted from  less expertise in how  to grip the hammerstone  
+(Fragaszy et al., 2020). Because of differences in skill and/or 
+strength, young er individuals may  also be limited in the resources 
+they can open  (Spagnoletti et al., 2011). Furthermore, percussive 
+stone tool use might  have an  upper  age limit. In chimpanzees,  
+progressive old age led to a reduction in both nut-cracking fre-
+quency  and  efficiency (Ho w ard-Spink et al., 2025).
+While  the ontogeny of stone tool use for nut cracking is well 
+studied in robust capuchins  and  chimpanzees,  little is known  
+about  gracile capuchins, which  have only recently been  added  to 
+the list of nonhuman  primate species that habitually use stone 
+tools. In particular, the white-faced capuchins, Cebus capucinus
+imitator, living in Coiba National  Park, Panam  � a, are an  important
+model  system  for studying tool use acquisition and  proficiency 
+development, as their social learning opportunities appear  to 
+differ from  those of other tool-using primates. White-faced ca-
+puchins  on  the islands of Coiba and  Jicar � on  habitually use stone
+tools to crack open  a variety of food items, including fruits such  as 
+sea almonds,  Terminalia catappa, coconuts, Cocos nucifera, and  
+palm  fruits Bactris major  and  Astrocaryum  standleyanum , as well as 
+invertebrates like Hallow een  crabs, Gecarcinus quadratus, hermit  
+crabs, Coenobita compressus, nerite snails, Nerita spp., and  other 
+freshw ater molluscs (Barrett et al., 2018; Carlson et al., 2025;
+Montez a-Moreno, Dogand  � zi � c, et al., 2020). How ever, on  Jicar �on, 
+despite this tradition persisting for at least 17 years, it seems  
+entirely localized to a 1.5  km  stretch of coast occupied  by  two to 
+three neighbouring  capuchin  groups  (Goldsborou gh  et al., 2023). 
+Only  one  group  of capuchins  appears  to use tools habitually on  the 
+full variety of resources, while their neighbours  have only been  
+observed  to use tools in intertidal zones  or stream  beds. In the 
+most  frequent tool-using group, stone tool use is fully male  biased: 
+only males  have been  observed  to use stone tools, despite females 
+regularly using tools on  the neighbouring  island of Coiba 
+(Goldsbor ough  et al., 2024). The  absence  of tool use by  females
+means  that juvenile capuchins  on  Jicar� on  cannot  learn tool use
+from  their mothers, as is common  in chimpanzees.  Furthermor e, 
+this group  of tool-using capuchins  appears  to have reduced  group  
+cohesion (Goldsbor ough  et al., 2025), further limiting social 
+learning opportunities. Taken  together, the tool-using capuchins
+on  Jicar � on  present a unique  situation wher e tool use is highly
+localized, yet persistent, and  naïve individuals have only limited 
+opportunities to observe tool use because  of both reduced  social 
+cohesion and  the male-exclusive nature of the behaviour, which  
+makes  mothers  unavailable as a model.  Given  these constraints, 
+understanding  how  tool use is acquired and  develops in this group  
+provides insight into the flexibility of social and  individual 
+learning mechanisms  in primates.
+W e investigated  the acquisition and  development  of stone tool
+use proficiency in one  group  of white-faced capuchins  on  Jicar �on  
+Island. Using 12 months  of camer a trap data from  two experi-
+mental  anvils, we  compared  features of tool use proficiency (effi-
+ciency and  mistakes) between  juvenile, subadult and  adult 
+capuchins. Furthermor e, we  conducted  a longitudinal investiga-
+tion of improvements  in tool use skills in juveniles over a 1-year 
+period, as well as an  initial exploration of tool use skill in old 
+age. Finally, we  considered potential mechanisms  driving acqui-
+sition of stone tool use on  Jicar � on  through  examining  social
+attention to tool use sequences.  W e explored  who  paid attention to 
+tool use events, which  tool users were most  likely to receive social 
+attention and  how  social attention related  to scrounging and  tool 
+user proficiency. Our  aim  w as to characterize the development  of
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 1236732 
+
+PDF PAGE 3
+stone tool use proficiency in white-faced capuchins  and  to inform  
+comparative and  future research on  the maintenance  and  spread 
+of tool use behaviour.
+METHODS
+Site and  Subjects
+Jicar � on  Island (2002 ha) is part of Coiba Nat ional Park, an  ar-
+chipelago consisting of nine islands and  100 islets off the Pacific
+coast of Veraguas  Province, Panama.  Jicar � on  Island lies approxi-
+mately 60 km  from  the mainland  and  is estimated to have been  
+separated  from  the mainland  for 14  000—18 000 years (Titcomb  &
+O’Dea, 2020). Archaeological evidence suggests that Jicar� on  Island
+w as used  by  indigenous  communities  from  at least 250  CE until 
+shortly before European contact (Isaza & Vrba, 2010) and  today it 
+is uninhabited, with  only occasional visits by  scientists and  local 
+people. White-faced capuchins  occur on  the three largest islands
+in Coiba Nat ional Park (Barrett et al., 2018). Jicar � on  has depau -
+perate mammalian  communities  and  a total absence  of mamma -
+lian predators (Ib � a ~ nez  et al., 1997), and  white-faced  capuchins
+show  increased terrestriality (Monteza-Mor eno, Crofoot, et al., 
+2020) and  live at high densities (Barrett et al., 2018; Milton & 
+Mittermeier, 1977) compared  with  mainland  populations. The
+most  active tool-using group  on  Jicar� on  has been  monito red using
+unbaited camera  traps since 2017 and  has been  using tools since at 
+least 2004  (Barrett et al., 2018). Stone tool use for extractive 
+foraging has been  documented  at three types of sites in this group, 
+distinguishable by  differences in debris accumulation  
+(Goldsborough  et al., 2023). For  the current study, we  focused on  
+tool use at high-accumulation  sites, from  hereon  referred  to as 
+‘anvils’, where  capuchins  habitually use tools and  large amounts  of 
+debris accumulate  over time.
+In 2022, the capuchin  group  w as estimated to comprise  around 
+20—25  individuals (five to six adult males, five to six adult females,
+four to five subadults and  seven  to 10 juveniles). These  estimates 
+are based  on  identifiable individuals (Table 1) as well as the 
+maximum  number  of capuchins  of a specific age—sex class 
+observed  together in a single sequence.  Ages were estimated by  
+visual assessment  based  on  body  size, shape  and  facial appearance  
+in comparison  with  demographically know n mainland  pop-
+ulations. W e were unable  to obtain precise estimates of group  size 
+because  of the nature of data collection via camer a trapping, 
+wher e the visual field is always limited and  juveniles are difficult 
+to identify reliably from  images alone.
+Experimental Anvil Set-up
+W e set up  two  experimental  anvil sites in the range of the tool-
+using group  in January  2022: a wooden  anvil at a site that has been  
+heavily used  since 2017 (location name:  CEBUS-02) and  a stone 
+anvil at an  entirely novel location under  sea almond  trees wher e 
+there w as no  available anvil or cumulative debris, so on  evidence 
+of habitual tool use (location name:  EXP-ANV-0 1). To set up  each  
+experimental  anvil, we  first cleared the area of debris and  placed a 
+1.8 m  2 piece of nylon mesh  on  the ground, on  which  we  placed the 
+anvil. Anvils were selected from  nearby  based  on  the presence of a 
+flat processing surface, as well as similarity in size to the pre-
+existing anvil at CEBUS-02 (62 × 106 cm), which  w ashed  aw ay 
+prior to these experiments.  Additionally, at each  anvil, we  supplied 
+four uniquely marked  stones sourced  from  within 20 m  of their 
+respective sites (Fig. 1a). Each site w as provided with  stones rep-
+resenting two weigh t classes: two  stones weighing  <  50 0 g and  
+two stones weighing  >  1 kg (Table S1). All provided stones fell 
+within the weight  and  size range of hammerstones  that have been  
+observed  in this population (Carlson et al., 2025). Materials 
+included basalt and  sandstone, both of which  capuchins  in this 
+population are known  to use as hammerstones  unprompt ed. 
+While  both anvils were placed under  sea almond  trees, no  nuts 
+were included in the experimental  set-up. This  set-up w as also
+Table 1
+Overview  of individuals in the tool-using group
+Name Code Sex Age  estimate 
+(years, 2022)
+Age  class 
+(2022)
+Number  of tool 
+use sequences
+Notes
+Known  tool users 
+Abraham ABE Male 30 Adult 0 Presumed  alpha male, known  tool 
+user from  previous data
+Cystopher CYS Male 30 Adult 0 Presumed  deceased
+Snaggletooth McGee  SMG Male 10—20 Adult 477
+Tom TOM Male 10—15 Adult 289
+Ink INK Male 10 Adult 6
+Larry LAR Male 7—8 Subadult 786 Border of old subadult/ young  adult 
+Mick MIC Male 6—9 Subadult 401 Border of old subadult/ young  adult 
+Spot SPT Male 7 Subadult 660
+Terry TER Male 5 —6 Juvenile 223 Border of old juvenile/ young  subadult 
+Balthasar BAL Male 4 —5 Juvenile 380
+Zim ZIM Male 3—4 Juvenile 74
+Peaky PEA Male 3 Juvenile 253
+Joe JOE Male < 3 Juvenile 12
+Known  non-tool users 
+Mr.  Email MRE Male Adult No  tool use observed  since 2017 
+Joker JOK Male Subadult
+Olga OLG Female Adult Presumed  deceased
+Beatrice BEA Female Adult
+Leona LEO Female Adult
+Dottie DOT Female Adult
+Sadie SAD Female Adult
+Rosa ROS Female (Sub)adult
+Blocky BLO Unknown Juvenile Very  young  (<  2 years)
+Mini MIN Unknown Juvenile Very  young  (<  2 years)
+Age  estimates for tool users are approximate  based  on  size and  growth  from  2017 to 2025. Age  classes are defined as juveniles (<  6 years), subadults (6—8 years) and  adults 
+(>  8 years).
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 123673  3
+
+PDF PAGE 4
+designed  to accommodate  a concurrent archaeological study 
+examining  anvil site formation (Carlson et al., 2026). Tw o camera  
+traps were attached to trees and  aimed  at each  experimental  anvil: 
+a close-up Reconyx UltraFire XP9  video camera  (Reconyx, Holmen,  
+WI, U.S.A., https://www.reconyx.com ) recording a 60 s video per 
+trigger and  a wider-angle Reconyx Hyperfire  HF2X  still camera  
+trap recording 30 images  per trigger event without  any between -
+trigger delays. Camera  traps were placed in two  deployments  
+lasting approximately 6 months  and  ran from  January  2022 until 
+January  2023. When  camera  traps were replaced in July 2022, both  
+experimental  anvils were excavated  (Fig. 1b), meaning  that all 
+debris (food  remains  and  tools) w as collected down  to the un-
+derlying mesh.  Hammerstones  and  fragments  found  within the 
+mesh  perimeter were recovered  and  identified on  the basis of 
+markings  and  refits when  necessary. The  remaining  intact ham -
+merstones  were provided on  the anvil during the second  
+deployment.
+Coding
+All videos containing tool use events were coded  frame  by  
+frame  in BORIS version 8.21.8 (Friard & Gamba,  2016) by  two 
+coders (Z. G.  and  L. R.) using a split-half design. One  individual 
+coded  days 1—15  and  the other coded  from  day  16 to the end  of 
+each  month,  alternating which  individual coded  the first and  
+second  halves across deployments.  W e considered individual tool 
+use sequences, wher e the start w as defined as the moment  an  
+individual placed an  item  on  the anvil for processing and  grabbed  
+the hammerstone.  A sequence  ended  when:  (1) the item  w as 
+opened  and  consumed,  (2) the individual relocated with  the item  
+to a location out of view  of the camera, or (3) the item  w as 
+abandoned,  including when  it had  been  opened  but not eaten. For 
+each  tool use sequence, we  identified the age class (juvenile, 
+subadult or adult) of the tool user and, when  possible, their 
+identity. W e classified age based  on  visual appearance, with  ju-
+veniles being individuals estimated to be <  6 years old, subadults 
+6—8 years old and  adults >  8 years old. W e subsequently devel-
+oped  an  ethogram  (Table S2; Videos  S1-S4) and  used  it to code  all 
+behaviours performed  by  the tool user, including measur es of tool 
+use efficiency (e.g. number  of successful pounds  and  number  of
+mis-strikes) and  technique  (e.g. type of pound:  crouching, stand-
+ing and  jumping). W e also coded  asocial (e.g. type of item  pro-
+cessed and  hammerstone  material) and  social factors (e.g. 
+displacements, social attention and  scrounging) for each  tool use 
+sequence  (Table S3). Social attention w as defined as sustained (>  3 
+s) attention directed  tow ards the tool user from  within 2 m, 
+following  the established concept  of peering (Schuppli & van  
+Schaik, 2019). A single video could contain one  or more  tool use 
+sequences, and  sequences  could also span  several videos if the 
+individual had  not finished processing when  the video ended  and  
+continued  in the next triggered  video. L. R. w as trained by  Z. G.  on  a 
+sample  data set before coding independently. Interrater reliability 
+w as established by  double  coding a randoml y selected  sample  of 
+121 videos containing 203 sequences.  Agreement  w as calculated 
+for all categorical, numerical  and  timing variables (Table S5 ).
+To obtain additional information on  social attention, sequences  
+in which  other capuchins  were present in addition to the tool user 
+were coded  again by  one  coder (Z. G.)  using a different protocol 
+(Table S4). For  each  sequence, we  coded  the age—sex class of all 
+visible capuchins, as well as the age—sex class of capuchins  paying 
+social attention to, scrounging  from  or displacing the tool user. W e 
+identified individual capuchins  whenever  possible. Juveniles could 
+usually not be sexed  because  doing so required close-up images of 
+their genitals, but the camera  trap image  quality and  camer a angle 
+were insufficient. W e also did not observe any subadult females 
+during tool use sequences, so we  coded  only subadult males.
+Statistical Analyses
+All statistical analyses were performed  in R version 4.3.1 
+(R Core Team,  2022). All Bayesian regression models  were fitted 
+using the ‘brm’ function in brms  version 2.16.1 (Bürkner, 2017). W e 
+calculated  contrasts using the ‘hypothesis’ function in brms  to 
+evaluate the credibility of differences between  categories (e.g. 
+comparing  juveniles' time  to open  an  item  with  that of subadults). 
+To identify credible effects, we  calculated, for each  contrast, the 
+proportion of posterior samples  (PP)  that exceeded  0. W e consid-
+ered effects with  PP  >  80% as moder ately reliable and  those with  
+PP  >  95%  to be strongly reliable. Conversely, effects with  PP  <  20% 
+or PP  <  5%  indicated similarly reliable effects in the opposite
+(a) (b)
+Figure 1. Images  of the experimental  anvils showing  (a) the placement  of CEBUS-02 in January  2022 and  (b) EXP-ANV-0 1 during excavation in July 2022. Photo credits: B.J.B. and  
+M.K.W .C.
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 1236734  
+
+PDF PAGE 5
+direction. In the aforementioned  example, a posterior probability 
+of 98% wo uld indicate that the model  estimated a 98% probability 
+that juveniles took longer than subadults to open  an  item.
+Proficiency
+To compare  tool use proficiency between  age classes, we  
+restricted  our analyses to sequences  in which  the item  w as suc-
+cessfully opened.  Failures were rare (<  4%  of observed  tool use 
+events), and  because  data were collected using camera  traps, the 
+observed  failures are unlikely to represent an  unbiased  sample  of 
+failed attempts. W e therefore report descriptive statistics for these 
+rare events but do  not include them  in the inferential analyses. W e 
+further limited our analyses of proficiency to sequences  in which  
+the tool user could be clearly identified. W e also excluded se-
+quences  that were split across multiple videos (<  7% of all se-
+quences), as several seconds  of behaviour could have been  missed  
+between  triggers. Additionally, we  included only sequences  in 
+which  sea almonds  were the item  being processed because  they 
+constituted the vast ma jority (98%) of all tool use sequences  and  
+other items were under-represented. In our data set, each  row  
+represented a tool use sequence, and  variables were aggregated to 
+the sequence  level.
+W e quantified tool use proficiency in each  sequence  in four 
+w ays: (1) time  (s) taken to open  an  item, (2) number  of pounds  
+required to open  an  item, (3) number  of times the item  w as 
+repositioned on  the anvil between  strikes and  the number  of times 
+the sea almond  w as peeled and  (4) number  of mis-strikes and  
+strikes that propelled the item  off the anvil. To compare  sequence  
+duration between  age classes, we  fitted a generalized linear 
+gamma  regression model  (model  e1), with  sequence  duration (s) 
+as the outcome.  As predictors, we  included the age class of the tool 
+user (juvenile, subadult or adult, with  juvenile as the reference  
+level), the colour of the sea almond  (brown,  green, red or un-
+known,  corresponding  to its ripeness and  with  brown  as the 
+reference  level), the material of the anvil (wood  or stone, with  
+stone as the reference level) and  the identity of the tool user as a 
+random  effect. W e included the colour of the sea almond  and  the 
+material of the anvil because  we  expected  both  to affect the 
+number  of pounds  required to open  a sea almond.  Fresh sea 
+almond  fruits are green, then turn yellow and  finally red as they 
+ripen (Perez  & Condit, n.d.). After drying, cached  fruits turn brown,  
+and  we  expected  these dried fruits to be easier to crack than fresh, 
+green ones. Stone and  wood  have different densities and  hard-
+nesses, which  are likely to affect how  easily sea almonds  crack 
+when  struck with  a stone hammer .
+To compare  the number  of pounds  required to open  an  item  
+between  age classes, we  fitted a generalized linear model  (GLM:  
+model  e2) with  the same  structure as the model  described above. 
+As the outcome  w as the discrete number  of pounds, we  used  a 
+Poisson  distribution. W e also compared  the rate of pounding  (i.e. 
+number  of pounds/s) between  age classes by  fitting a model  with  
+the same  structure as model  e2 but with  the log of sequence  
+duration (s) included as an  offset (model  e2b). W e used  the same  
+model  structure, without  an  offset, to model  the number  of times 
+an  item  w as repositioned (model  e3a) and  the number  of times the 
+sea almond  w as peeled (model  e3b) during a sequence.  Mis-
+strikes, in which  a capuchin  attempted  to strike the item  but 
+missed  it entirely, were uncommon.  Thus, to compare  their 
+occurrence between  age classes, we  fitted a zero-inflated  Poisson  
+model  with  the same  predictors as described above (model  e4a). 
+Finally, to compare  the occurrence of items being propelled  off the 
+anvil between  age classes, which  w as similarly rare, we  fitted  
+another zero-inflated Poisson  model  (model  e4b).
+Development
+To examine  the development  of tool use proficiency over time, 
+we  investigated  how  the processing of brown  sea almonds  (the 
+most  frequently processed) by  known  individuals changed  over 
+the 12-month  observation period. W e visually assessed how  the 
+number  of pounds, number  of repositions and  number  of mis-
+strikes changed, with  the expectation that (sub)adults wou ld 
+rema in relatively stable, wher eas juveniles wou ld show  fewer 
+pounds, repositions and  mis-strikes over time  as their proficiency 
+increased. W e modelled  the number  of pounds  using a Poisson  
+GLM  (model  dev1) with  predictors including the interaction be-
+tween  standardized days since the start of the study period and  
+tool user identity. W e also considered a case study of one  adult 
+male, estimated to be the oldest in the capuchin  group, to assess 
+whether  and  how  his tool use changed  since sampling  began  at 
+this site in 2017.
+Social Attention
+To examine  the role of social learning in tool use acquisition, we  
+ran further analyses on  a subset of sequences  in which  capuchins  
+other than the tool user were present. W e excluded sequences  split 
+across several videos, as well as sequences  in which  we  were un-
+able to assign one  of the capuchins  present to an  age—sex class, or 
+wher e the end  of the tool use sequence  w as not captured  on  video 
+(so the sequence  probably continued  after recording stopped). W e 
+also restructured  our data set so that each  row  represented an  
+individual present during a tool use sequence, with  a variable 
+indicating whether  they paid social attention (yes/no).
+To assess which  age class w as more  likely to receive social 
+attention and  which  age—sex class w as more  likely to pay  social 
+attention to tool use, we  fitted a Bernoulli generalized linear mixed  
+model  (GLMM)  with  a logit link function (model  socatt1). The  
+outcome  of this model  w as social attention (yes/no), while the 
+predictors included the age class of the tool user (juvenile, sub-
+adult and  adult, with  juvenile as the reference  level) and  the 
+age—sex class of the observer (juvenile, subadult male, adult fe-
+male  and  adult male, with  juvenile as the reference  level). W e also 
+included location (CEBUS-02 or EXP-ANV-0 1) and  two  social fac-
+tors that ma y affect the probability of social attention occurring, 
+namely  the total number  of capuchins  present during the 
+sequence  and  the number  of capuchins  scrounging during the 
+sequence.  W e included an  offset of the log of sequence  duration to 
+account  for longer sequences  having more  opportunities for social 
+attention, and  a random  effect of sequence  ID to account  for 
+nonindependence  of observations from  the same  sequence.
+To assess whether  more  efficient tool users or specific in-
+dividuals received more  social attention, we  analysed data from  
+sequences  in which  the sea almond  w as opened  and  the tool user 
+could be identified. W e ran another Bernoulli GLMM  (model  
+socatt1b) with  social attention (yes/no) as the outcome,  and  tool 
+user age class, age —sex class of observer, the number  of pounds  
+used  to open  the item  and  the number  of mis-strikes during the 
+sequence  as predictors. W e also included an  offset of sequence  
+duration and  the identity of the tool user as a random  effect.
+All models  were fitted with  regularizing normal(0,  1) priors for 
+intercepts and  predictors and  exponential(1) priors for standard 
+deviations of varying effects. For each  model, we  performed  a prior 
+predictive simulation to compare  our chosen  priors with  default 
+priors and  evaluate paramet er identifiability. The  final models  
+were run  with  three chains of 3000 iterations each, with  a 150 0-
+iterations w arm-up  per chain. Our  models  were stable, with  
+large effective sample  sizes (bulk ESS and  tail ESS >  1000 for all 
+estimates) and  Rhat values <  1.01 (Vehtari et al., 2021).
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 123673  5
+
+PDF PAGE 6
+Additionally, Pareto k estimates for all models  were <  0.7. W e 
+visually assessed model  fit and  confirmed  our choice of priors 
+using the posterior predictive check  function.
+Ethical Note
+W e obtained permission  for this study from  the Ministerio de  
+Ambiente, Panam a (scientific permit  numbers  SE/A-6-2020 and  
+ARB-158-2022, including corresponding  renew als and  addenda).  
+This  project also received  ethical approval from  the Smithsonian  
+Tropical Research Institute Animal  Care and  Use Committee  (STRI 
+IACUC; project number  SI-25021). All data were obtained from  
+unbaited motion-triggered camer a traps. To minimize  potential 
+disturbance and  stress to wildlife, we  programmed  all camer a 
+traps to operate using infrared rather than white  flash, thereby 
+reducing visual disturbance. W e marked  hammerstones  with  
+nontoxic paint, and  the nylon mesh  w as remo ved  after completion  
+of the experiment.  W e limited field activities to brief visits for 
+camer a deployment  and  retrieval, and  took care to avoid leaving 
+any trace of human  presence apart from  the camer a traps 
+themselves.
+RESUL TS
+Between  January  2022 and  January  2023, we  recorded  a total of 
+3644  tool use sequences  at the two anvil sites across 215  days. 
+CEBUS-02 w as used  more, with  2568  observed  sequences  
+compared  to 1076 at EXP-ANV-0 1. Both locations show ed  gaps in 
+tool use activity over the study period (Fig. S1). At CEBUS-02, the 
+video cameras  ran out of battery prematur ely because  of higher 
+activity (cameras  ran from  10 January  2022 to 29 June  2022 and  
+from  16 July 2022 to 30 September  2022). At EXP-ANV-0 1, the 
+capuchins  only started regularly using the novel anvil in March  
+2022 and  reduced  their activity after a tree branch  fell on  the anvil 
+on  10 October 2022, although  the camer as ran for the full study 
+period (10 January  2022 to 16 July 2022 and  17 July 2022 to 1 
+January  2023). The  mean  number  of sequences  observed  on  days 
+when  tool use occurred w as 16.95  (range  1—114). Sea almonds  
+were the item  being processed in the vast ma jority of tool use 
+sequences  (3578 sequences, 98%; Table 2).
+Capuchins  successfully opened  the item  in 89% of sequences.  
+Success rates were lower for juveniles (79%) compared  with  sub-
+adults and  adults (93%  and  91%, respectively). The  number  of 
+pounds  needed  to open  a single item  ranged  from  1 to 34.  In the 
+rema ining sequences, the tool user either abandoned  the item  
+(4%), relocated to another anvil with  the item  (3%) or the end  of the 
+attempt w as not captured  on  camer a (4%). At each  site, a single 
+hammerstone  w as used  in over 90%  of the tool use sequences, and  
+all hammerstones  were used  by  all age classes.
+W e were able to classify the tool user's age class in all se-
+quences  and  reliably identify the tool user in 98% of sequences  (see 
+Table 1 for the number  of tool use sequences  observed  per indi-
+vidual). The  tool user w as the only individual visible in the video in 
+70% of sequences.  Capuchins  other than the tool user were more  
+difficult to identify, with  success rates of 20% for juveniles, 31% for 
+subadults and  26% for adults, largely because  these individuals 
+were either briefly in frame  or positioned farther from  the camera.  
+When  other capuchins  were present (1107 sequences), we  
+observed  social attention in 222 sequences  (20%). Both displace-
+ments  and  scrounging were rare, occurring in 12% and  22% of se-
+quences  in which  other capuchins  were present, respectively.
+Tool Use Proficiency
+Failures
+No t all sequences  in which  the tool user abandoned  the item  
+(4%  of sequences) represented  true failures to open  the item.  In 
+49%  of these cases, the item  w as successfully opened  but not 
+consumed.  In a smaller fraction (0.3%) of sequences, the tool user 
+w as displaced before they could finish processing. Restricting 
+failure to cases in which  an  unopened  item  remained  in view  of the 
+camer a resulted  in 64  instances (1.8% of sequences). Juveniles 
+accounted  for 32 instances (3.1% of juvenile tool use sequences), 
+subadults for 19 instances (1%  of subadult sequences) and  adults 
+for 13 (1.7% of adult sequences). At least three failures were 
+observed  in all identified individuals with  sufficient sampling  (i.e.
+>  6 tool use sequences).
+The  mean  duration of failed sequences  w as 19.5  s (median  = 8.1 
+s; range 0.9—308 s) and  involved  a mean  number  of 3 strikes 
+(median  = 2; range 0—31) and  1.3 mis-strikes (median  = 0; range 
+0—16) before abandonment.  In four sequences, the tool user 
+abandoned  the item  after mis-striking with  no  successful pounds, 
+and  38% of failures involved  only one  pound  before abandonment.
+Efficiency: number  of pounds  and  processing time
+The  sample  used  for analyses consisted  of 2879 sequences  in 
+which:  (1) the tool user successfully opened  a sea almond,  (2) the 
+tool user w as identified and  (3) the sequence  w as completed  in a 
+single video (adult: N  = 663; subadult: N  = 1606; juvenile: N  = 
+610). Our  models  estimated that juveniles took considerably 
+longer to open  a sea almond  with  stone tools than subadults and  
+adults (Fig. 2, Table S6—S7).
+Juveniles required a mean  of 19.49 s (95%  CrI [14.4 4, 26.05]) and  
+5.42  pounds  (95%  CrI [4.48, 6.36]) to open  an  item, taking 
+considerably longer and  requiring more  pounds  than subadults, 
+who  took 9.78 s (95%  CrI [4.48, 20.49]) and  3.78 pounds  (95%  CrI 
+[2.34, 5.81]), and  adults, who  took 11.25  s (95%  CrI [5.16, 24.53]) 
+and  3.94  pounds  (95%  CrI [2.44, 6.05]). Both the slower opening  
+times and  the greater number  of pounds  required by  juveniles, 
+compared  with  subadults and  adults, were credible (all PP  >  98%). 
+Subadults and  adults did not differ substantially from  one  another 
+in either model.
+The  ripeness (colour) of the sea almond  and  the anvil material 
+affected both the time  taken and  the number  of pounds  required to 
+process sea almonds.  Fresher sea almonds  (green  and  red in 
+colour) took longer and  required more  pounds  to open  than older 
+(brown)  sea almonds.  W e estimated  that green almonds  required 
+1.32 times mor e seconds  (95%  CrI [1.27, 1.39], PP  ≈ 100%) and  1.27 
+times more  pounds  (95%  CrI [1.22, 1.34], PP  ≈ 100%) than brown  
+almonds.  Red  almonds  required 1.49  times more  seconds  (95%  CrI 
+[1.34, 1.67], PP  ≈ 100%) and  1.32 times more  pounds  (95%  CrI [1.21, 
+1.46], PP  ≈ 100%) than brown  almonds.  Processing time  and  the 
+number  of pounds  did not differ substantially between  red and  
+green  sea almonds.  The  anvil material did not affect processing
+Table 2
+Frequency  of items processed during observed  tool use sequences
+Item Category Count Percentage
+Sea almond Brown 2399 65.83
+Green 532 14.6
+Red 76 2.09
+Unknown 571 15.67
+Coconut 12 0.33
+Fruit 1 0.03
+Crab (Halloween  or hermit) 13 0.36
+Other 21 0.58
+Unknown 19 0.52
+Percentages  are calculated relative to the total number  of observed  tool use 
+sequences.
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 1236736 
+
+PDF PAGE 7
+time, but the number  of pounds  w as slightly higher (1.12 times, 
+95%  CrI [1.08, 1.16], PP  ≈ 100%) at the stone anvil than at the 
+wooden  anvil. The  relationship between  the number  of pounds  
+and  sequence  duration (i.e. the rate of pounding)  differed  between  
+age classes (Fig. 3), with  older individuals pounding  faster than 
+younger  individuals. Juveniles pounded  0.75  times slower than 
+adults (95%  CrI [0.62, 0.93], PP  = 98%) and  0.74  times slower than 
+subadults (95%  CrI [0.61, 0.89], PP  = 99%; Table S8).
+Repositioning and  peeling
+All age classes show ed  repositioning of the item  on  the anvil 
+during a tool use sequence  or picking it up  and  peeling it before 
+continuing to strike, but juveniles repositioned and  peeled  mor e 
+than  adults and  subadults (Fig. 2, Table S9—S10). Juveniles 
+show ed  considerably higher incidences of repositioning and  
+peeling (repositioning: mean  = 1.07, 95%  CrI [0.62, 1.70]; peeling: 
+mean  = 0.46, 95%  CrI [0.27, 0.73]) than  subadults (repositioning:
+Juvenile
+12
+9
+6
+3
+0
+Subadult
+Age class
+Mean number per sequence
+Adult
+Type
+Pounds
+Repositions
+Peels
+Figure 2. Model  estimates and  mean  number  of pounds, repositions and  peels per tool use sequence  opening  a single sea almond,  by  age class. Violin plots indicate model  
+estimates and  points indicate the observed  means  from  the data.
+Number of pounds required to open an item
+ Time taken to open an item (s)
+0 5
+60
+40
+20
+0
+10 15 20 25
+Age class
+Juvenile
+Subadult
+Adult
+Figure 3. Relationship between  time  taken (s) and  number  of pounds  required to open  a single item  using stone tools, by  age class.
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 123673  7
+
+PDF PAGE 8
+mean  = 0.32, 95%  CrI [0.09, 1.23]; peeling: mean  = 0.19, 95%  CrI 
+[0.06, 0.64]) and  adults (repositioning: mean  = 0.33, 95%  CrI 
+[0.09, 1.21]; peeling: mean  = 0.19, 95%  CrI [0.05, 0.72]). The  ef-
+fects of juveniles repositioning and  peeling more  than  subadults 
+and  adults wer e credible (all PP  >  98%). Tool users peeled  fresher 
+sea almonds,  in particular green  ones, more  often than  older 
+brown  sea almonds  (1.36 times  mor e frequently, 95%  CrI [1.15, 
+1.62], PP  ≈ 100%). Anvil mate rial had  no  effect on  the number  of 
+repositions or peels.
+Mistakes
+Tool users rarely made  visible mistakes during tool use se-
+quences  (301 times across 2879 tool use sequences), and  in 48%  of 
+cases the tool user making  a mistake  w as a juvenile. The  most  
+common  type of mistake  w as the item  being propelled off the anvil 
+after being struck (153  times), followed  by  mis-strikes (99 times) 
+and  dropping the hammerstone  (49  times). Juvenile tool users 
+were more  likely to make  mis-strikes or propel the item  off the 
+anvil (mis-strikes: mean  = 0.06, 95%  CrI [0.01, 0.29]; item  pro-
+pelled: mean  = 0.17, 95%  CrI [0.10, 0.29]) than subadults (mis-
+strikes: mean  = 0.02, 95%  CrI [0.00, 0.50]; item  propelled: mean  = 
+0.04, 95%  CrI [0.01, 0.15]) and  adults (mis-strikes: mean  = 0.03, 95%  
+CrI [0.00, 0.83]; item  propelled: mean  = 0.03, 95%  CrI [0.01, 0.12]). 
+The  effect of juveniles making  more  mistakes than subadults w as 
+credible (mis-strikes: PP  = 91%; item  propelled: PP  = 99%), as w as 
+the effect of juveniles propelling more  items off the anvil than 
+adults (mis-strikes: PP  = 75%; item  propelled: PP  = 100%; 
+Table S11—S12).
+The  anvil material also affected the likelihood of the item  being 
+propelled: sea almonds  were 3.35  times more  likely to be
+propelled off a stone than a wooden  anvil (95%  CrI [2.46, 4.5 7], PP
+= 100%). Green  and  red sea almonds  were also 3.63 (95%  CrI [2.61, 
+5.05], PP  = 100%) and  2.32 times (95%  CrI [1.15, 4.48], PP  = 98%) 
+mor e likely to be propelled off the anvil when  struck than brown,  
+dried-out sea almonds.
+Tool Use Development
+W e observed  little change  in tool use proficiency in any age 
+class over the 12-month  study period. Adults' performance  w as 
+generally stable over time, and  juveniles and  subadults likewise 
+show ed  minimal  changes in the number  of pounds.  Only  one  in-
+dividual, TER, show ed  a modest  improvement  over the study 
+period (estimated  slope =   0.08, 95%  CrI [  0.19, 0.05]). No tably, he  
+w as the least proficient juvenile at the start (Fig. S2, Table S13). 
+Adults’ performance  w as the most  stable, but juveniles and  sub-
+adults also did not show  considerable changes in the number  of 
+pounds  (Table S13), repositions or mis-strikes over time  (Fig. 4). 
+The  reduced  sampling  near the end  of the observation period, 
+combined  with  some  individuals (mostly  adults) showing  clus-
+tered activity rather than activity distributed over time, meant  that 
+there w as greater uncertainty in our estimates at particular times 
+of the year.
+Importantly, one  group  member , ABE, who  had  been  present in 
+the group  since the beginning of the project, w as never  observed  
+using tools during the 12-month  study period. This  adult male  is 
+estimated  to be at least 30 years old, and  is likely to be the alpha 
+male  of the group.  This  w as inferred from  his size, his recruitment  
+by  other group  members  in conflicts and  the fact that we  never  
+observed  him  receiving aggression from  any other group  mem -
+bers. W e observed  him  using tools 73 times between  2017 and
+(d)
+ (e) (f)
+(g)
+(a)25
+20
+15
+10
+5
+0
+25
+20
+15
+10
+5
+0
+25
+20
+15
+10
+5
+0
+(b) (c)
+(h)
+Month
+Number per sequence
+Mar Jun Sep Dec Mar
+CEBUS–02 EXP–ANV–01 Pounds Misses Repositions
+Jun Sep Dec Mar Jun Sep Dec
+(i)
+Figure 4. Changes  in the number  of pounds, mis-strikes and  repositions taken to open  brown  sea almonds  over the entire observation period. Each panel represents a different 
+individual. (a) ZIM, (b) PEA, (c) BAL and  (d) TER are juveniles. (e) MIC, (f) LAR and  (g) SPT  are subadults. (h) TOM  and  (i) SMG  are adults. Points show  raw  data, with  point shape  
+indicating anvil location (CEBUS-02 or EXP-ANV-0 1). The  smooth  curve was  estimated using the locally estimated scatterplot smoothing  method  with  the formula  ‘y~x’.
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 1236738 
+
+PDF PAGE 9
+2019, yet we  never  observed  him  use tools in the current study. 
+How ever, ABE displaced a tool user from  the anvil 14  times (out of 
+176 total displacements) and  then consumed  the item  they 
+opened.  No  other individuals scrounged  aggressively from  tool 
+users in this manner .
+Social attention
+After filtering, our sample  contained 907 sequences  that were 
+completely captured within a single video, during which  capu-
+chins other than the tool user were present and  could all be 
+assigned an  age—sex class. The  ma jority of other capuchins  present 
+were juveniles (1034/1652  individuals, 63%), followed  by  sub-
+adults (326 individuals, 20%) and  adult males  (165  individuals, 
+10%). Adult females were rarely present during tool use sequences  
+(127 times, 8%). In this filtered  sample, social attention occurred in 
+189 (21%) sequences.
+Individuals paying  social attention were predominantl y juve-
+niles. An  adult male  w as observed  paying  social attention once, 
+adult females five times and  subadult males  20 times. Of  the 215  
+occurrences of juveniles paying  social attention, 23 were identified 
+as known  tool-using juveniles. The  remaining  unidentified juve-
+niles were unlikely to be tool users, as man y were too young  (<  3 
+years) to easily be identified and  we  have not observed  regular tool 
+use by  any individuals of this age.
+Our  model  exploring factors predicting the probability of social 
+attention also found  juveniles to be the age class most  likely to 
+show  social attention. Given  an  adult male  tool user at the most  
+frequently used  location (CEBUS-02), juveniles had  a probability of 
+showing  social attention of 0.14  (95%  CrI [0.08, 0.22]), considerably 
+higher than subadult males  (0.04, 95%  CrI [0.02, 0.09]), adult males  
+(0.02, 95%  CrI [0.01, 0.04]) and  adult females (0.02, 95%  CrI [0.01, 
+0.06]). In terms  of who  received  social attention, given  a juvenile 
+observer at CEBUS-02, juveniles were less likely to receive social 
+attention (0.07, 95%  CI [0.04, 0.10]) than subadults (0.17, 95%  CI 
+[0.13, 0.22]) and  adults (0.14, 95%  CI [0.08, 0.22]), who  did not differ
+significantly from  one  another (Fig. 5). Juveniles being more  likely 
+to give and  less likely to receive social attention than other 
+age—sex classes w as a credible effect (PP  ≈ 100%  for all contrasts).
+When  more  capuchins  were present during a tool use 
+sequence, the probability of social attention occurring w as lower. 
+This  pattern w as independent  of age composition, since the pro-
+portion of juveniles in a sequence  did not covary with  total group  
+size (r = 0.06). How ever, in sequences  where  more  individuals 
+were scrounging, social attention w as more  likely to occur (Fig. 6, 
+Table S14). When  we  considered the type of scrounging  (whether  
+it w as tolerated by  the tool user during the tool use event or only 
+occurred after the tool user had  left), social attention mostly  
+occurred in combination  with  tolerated scrounging (tolerated 
+scrounging  occurred in 111/209 sequences  with  social attention, 
+compared  to scrounging  after the tool user had  left occurring in 14/ 
+209 sequences). Although  sequences  with  other capuchins  present 
+were rarer at EXP-ANV-0 1 (180) than at CEBUS-02 (664), social 
+attention w as more  likely at EXP-ANV-0 1 (Table S14). Given  the 
+most  frequently occurring combination  of a juvenile paying 
+attention to a subadult tool user, the predicted likelihood of social 
+attention at EXP-ANV-0 1 w as 0.33 (95%  CrI [0.24, 0.42]) versus 0.17 
+at CEBUS-02 (95%  CrI [0.13, 0.22]). Paying social attention w as not 
+entirely without  risks; in one  tool use sequence, a juvenile 
+observer got too close to the tool user and  w as hit on  the foot with  
+the hammerstone  (Video  S5 ).
+To assess whether  social attention w as preferentially directed  
+tow ards more  proficient tool users, we  limited our sample  to se-
+quences  wher e: (1) the item  w as successfully opened, (2) we  could 
+confidently identify the tool user and  (3) the tool user had  more  
+than 10 tool use sequences  in the sample  (N  = 1240  sequences). 
+Our  model  estimated a slight trend of more  social attention 
+occurring in more  efficient tool use sequences  (where  fewer 
+pounds  were needed  to open  the item), and  this relationship w as 
+strongest when  observers were juveniles (Fig. S3, Table S15). Given  
+a juvenile observing a subadult tool user, the predicted likelihood
+1
+0.75
+0.5
+0.25
+0
+Likelihood of paying social attention
+Age–sex class of observer
+Adult
+female
+Adult
+male
+ Juvenile Subadult
+male
+Adult
+female
+Adult
+male
+ Juvenile Subadult
+male
+Adult
+female
+Adult
+male
+ Juvenile Subadult
+male
+(a) (b) (c)
+Figure 5. Likelihood of paying  social attention to a tool user by  observer age—sex class (X  axis). Panels indicate the age class of the tool user: (a) adults, (b) juveniles and  (c) 
+subadults. Box plots represent model  estimates, with  boxes indicating interquartile range (IQR), horizontal bars indicating medians  and  whiskers  extending  to the most  extreme  
+values within 1.5  x IQR. Points indicate observed  means.
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 123673  9
+
+PDF PAGE 10
+of the juvenile paying  social attention decreased  from  0.31 (95%  
+CrI [0.24, 0.41]) at one  pound  to 0.14  (95%  CrI [0.04, 0.35]) at 18 
+pounds.  The  individuals who  received  most  social attention during 
+tool use were the three subadult males, who  are all proficient tool 
+users and  also show ed  the highest incidence of tool use with  other 
+individuals present (Fig. 7). Individual subadults differed little 
+from  each  other in the amount  of social attention they received.
+DISCUSSION
+Stone tool use by  white-faced capuchins  on  Jicar � on  is a comple x
+behaviour for which  proficiency takes years to develop. Compared  
+to subadult and  adult tool users, juvenile tool users needed  more  
+time  and  more  pounds  to open  an  item  using tools. Juveniles mor e 
+frequently repositioned the item  in between  strikes and  made  
+more  mistakes. Subadults and  adults show ed  compara ble levels of 
+proficiency on  all measur es. Four identifiable tool-using juveniles 
+did not markedl y improve in tool use proficiency over the course of 
+approximately 1 year. No  other capuchins  were present in the vast 
+ma jority of tool use sequences, and  social attention to the tool user 
+w as rare (occurring in just 6% of all sequences). Nonetheles s, we  
+uncovered some  robust patterns in who  paid social attention to 
+whom  and  in what  context. Juveniles were most  likely to pay social 
+attention to tool use, and  most  of these juveniles were too young  to 
+be tool users themselves. Social attention w as directed  at sub-
+adults and  adults, with  a slight preference  tow ards more  efficient 
+tool users. Subadults received  the most  social attention. The  mor e 
+capuchins  were present during a tool use sequence, the lower the 
+probability that social attention occurred. Scrounging  show ed  the 
+opposite relationship: the more  individuals scrounging, the higher 
+the probability of social attention.
+Differences in Tool Use Proficiency
+It is unsurprising that tool-using juveniles were less proficient 
+than adults and  subadults, regardless of the measur e of proficiency 
+considered. This  pattern is similar to that previously been  
+described in macaq ue  stone tool use (Tan, 2017) and  for this spe-
+cies of capuchin  in other extractive foraging tasks (Barrett et al., 
+2017). How ever, juveniles were still very successful in opening  
+items, and  the difference  in their efficiency compared  with  sub-
+adults and  adults w as small. This  highlights an  important  
+distinction between  basic success (being  able to open  a nut most  of 
+the time) and  the maximum  level of proficiency observed  in 
+adults, which  probably reflected  a combination  of physical matu -
+ration and  skill refinement. Over all, white-faced capuchins  had  a 
+slightly higher success rate than that reported  in studies of other 
+nut-cracking primates. Item abandonment  occurred in fewer than 
+2% of all sequences, which  is much  lower than in chimpanzees,  
+wher e failure occurs in 8% of tool use events (Berdugo et al., 2024), 
+and  robust capuchins  where  failure rates range from  2 to 38%
+depending  on  population and  resource being processed (Fal �otico 
+et al., 2024; Fal � otico & Ottoni, 2016; Spagnoletti et al., 2011).
+This  difference does  not necessarily indicate greater skill in white-
+faced capuchins, but may  also reflect their high persistence  and  
+mo tivation, reduced  need  to abandon  a fruit due  to perceived  
+predation risk (Monteza-Mor eno, Crofoot, et al., 2020) as well as 
+methodological  differences. In particular, the use of camer a traps 
+means  that some  failures ma y have occurred outside the field of 
+view  when  individuals relocated with  items. No te that we  
+excluded tool use sequences  that spanned  more  than one  camer a 
+trap video from  the analyses. The  age distribution in these 
+excluded sequences  w as comparable  to that of the sequences  
+retained for analysis. The  exclusion of split sequences  is unlikely to
+0.15
+0.1
+0.05
+1
+0.75
+0.5
+0.25
+00
+Likelihood of social attention
+(a) (b)
+Individuals present
+2 4 6 0 1 2 3 4 5
+Sample size
+1000
+750
+500
+250
+0
+Individuals scrounging
+Figure 6. Likelihood of paying  social attention to a tool user depending  on  (a) the number  of capuchins  present and  (b) the number  of individuals scrounging. Blue lines indicate 
+model  estimates and  shaded  ribbons indicate 95%  credible intervals. Points indicate observed  means  from  the data and  point colour indicates the sample  size contributing to each  
+mean.
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 12367310 
+
+PDF PAGE 11
+bias our results, because  sequence  length and  processing speed  are 
+age dependent:  juveniles were more  likely to be less proficient and  
+have not completed  an  item  by  the end  of a video, while (sub)- 
+adults often processed more  quickly and  may  have started a sec-
+ond  (or third) item  at this time.
+The  clearest distinction betwee n juvenile and  (sub)adult tool 
+use proficiency w as the much  higher incidence of mistakes among  
+juveniles. Mistakes were rare in our sample, similar to rate reported  
+for bearded  capuchins  (Fragaszy et al., 2020), although  nut type and  
+traits such  as roundness  and  hardness  probably modulated  error 
+rates (O'Malley et al., 2025). Contrary to findings in bearded  capu-
+chins (Fragaszy et al., 2020), we  found  that juveniles were consid-
+erably mor e likely to miss  the item  or propel it off the anvil. 
+Juveniles also repositioned the food item  more  frequently between  
+strikes. More  frequent repositioning  by  juveniles could reflect 
+poorer control over hammerstones  than that show n by  adults. This  
+ties in with  our surprising finding, that at both sites, a single 
+hammerstone  w as used  in over 90%  of sequences, despite multiple 
+other hammerstones  being provided. These  preferred  stones were 
+large and  heavy and  therefore easier for (sub)adults than juveniles 
+to handle. The  (lack of) hammer  selectivity relative to body  size at 
+the experimental  anvils is an  interesting avenue  for future research, 
+as it stands in stark contrast to findings in chimpanzees  (Boesch & 
+Boesch, 1983), macaq ues (Gumert  & Malaivijitnond, 2013) and  
+robust capuchins  (Visalberghi et al., 2009). The  preference  for 
+larger, heavier hammerstones  for nut cracking appears  to be 
+widespread  in this population (Carlson et al., 2025), as it is in other 
+populations of Sapajus (Ferreira et al., 2010). This  may  be related to 
+the fact that, for certain tasks, large hammerstones  might  yield 
+substantial benefits for gracile capuchins, which  are the smallest 
+and  lightest tool-using primates.
+The  same  hammerstone  may  have been  used  so consistently at 
+each  site because  there w as little variation in the food items being 
+processed. In nearly all sequences, capuchins  processed sea
+almonds.  How ever, the ripeness of the sea almond  did appear  to 
+affect ease of processing: green, fresher sea almonds  required 
+more  seconds  and  more  pounds  to open  than brown  sea almonds,  
+were peeled more  frequently and  were more  likely to be propelled 
+off the anvil when  struck. This  probably reflects the harder exocarp 
+of the fruit at this stage, before it dries out and  becomes  more  
+brittle. The  observation of tool users abandoning  opened  items  
+without  eating them  further suggests that some  aspects of sea 
+almond  quality may  only become  apparent after initial processing. 
+The  lack of hammerstone  selectivity according to sea almond  
+ripeness and  the higher incidence of peeling with  green sea al-
+monds  suggests that the additional step of peeling off the exocarp 
+between  strikes helped  overcome  the difference  in hardness, a 
+technique  that juveniles might  also need  to learn to become  more  
+proficient tool users. How ever, juveniles also peeled more  
+frequently than (sub)adults, so it is also possible that they lacked 
+the know ledge or ability to strike green  sea almonds  precisely 
+without  them  being propelled off the anvil, which  green sea al-
+monds  were more  likely to be, and  that peeling the fruit made  it 
+easier to strike. In either case, becoming  a proficient stone tool 
+user might  involve learning not only how  to process food items, 
+but also which  items to process and  when.  Sea almonds  have 
+variable fruiting seasons and, although  we  know  little about  sea-
+sonal fluctuations in food availability on  Jicar � on, our data do  show
+that sea almond  processing peaked  bimodally  (Fig. S1). (Sub)adults 
+appeared  to focus more  of their tool-using efforts at specific times 
+of the year (see Fig. 4e, f, g, h, i), wher eas juveniles used  tools at a 
+more  consistent rate throughout  the year. Future studies could 
+elucidate the causes of these seasonal fluctuations in tool use and  
+explore whether  adults indeed  concentrate their tool-using efforts 
+when  sea almonds  are most  abundant  (consistent with  the ‘op-
+portunity’ hypothesis) or, alternatively, when  other, more  easily 
+consumed  food resources are scarce (consistent with  the ‘neces-
+sity’ hypothesis: Spagnoletti et al., 2012).
+Likelihood of receiving social attention
+1
+0.75
+0.5
+0.25
+BAL JOE PEA TER
+Identity of tool user
+ZIM LAR MIC SPT SMG TOM
+12 0 6 5 0 47 41 61 14 7
+83 2 52 35 13 177 185 330 117 53
+0
+Age class
+Adult
+Juvenile
+Subadult
+Figure 7. Likelihood of individual tool users receiving social attention. Violin plots indicate model  estimates and  points indicate observed  means  from  the data. Colour indicates 
+the age class of the tool user. The  numbers  above the violins indicate the number  of sequences  in which  each  individual received social attention (top number)  and  the number  of 
+sequences  in which  the individual w as present with  other capuchins  but did not receive social attention (bottom  number , in italics).
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 123673  11
+
+PDF PAGE 12
+Development  of Tool Proficiency
+The  lack of change in tool use proficiency by  juveniles over the 
+course of our study period suggests that honing  these skills to 
+adult levels of proficiency is probably a slow  process, or one  
+limited by  physical features (such  as strength) that only mature  in 
+adulthood.  White-faced  capuchins  are a long-lived  species, with  a 
+life span  of up  to 50  years (Fragaszy et al., 2004), similar to bearded  
+capuchins, in which  successful nut-cracking attempts are observed  
+at around  2 years of age but adult-level proficiency can take until 5  
+years of age to develop, depending  on  the resource (De  Resende  
+et al., 2008; Fragaszy et al., 2023). Similarly, in chimpanzees,  
+becoming  a proficient nut cracker can take 3—7 years of practice 
+(Boesch & Boesch, 1990; Matsuzaw a, 1994). Our  results suggest 
+that, in white-faced capuchins, becoming  a proficient stone tool 
+user may  likewise be an  extended  process. Importantly, our ju-
+venile sample  consisted primarily of older juveniles (>  3 years), 
+who  ma y have already acquired basic tool-using skills and  were 
+refining their technique  rather than still being in the process of 
+acquiring it (De  Resende  et al., 2008; Ottoni et al., 2005 ). One  year 
+of observation may  therefore have been  insufficient to capture 
+gradual improvements  in proficiency at this stage of ontogeny. 
+Although  failure w as rare overall, juveniles exhibited a higher rate 
+of failure than subadults and  adults. Interestingly, we  observed  
+relatively few  prolonged  unsuccessful object manipulations  by  
+juveniles at these anvil sites. If tool proficiency develops gradually 
+through  trial-and-error learning, one  might  expect extended  bouts 
+of inefficient practice during early ontogeny. Instead, man y failures 
+consisted of short attempts, with  abandonment  occurring after a 
+single pound.  One  possible explanation is that prolonged  unsuc-
+cessful attempts do  occur, but at locations other than the 
+frequently used  anvil sites monitored  in this study, such  as 
+streambeds  or the intertidal zone.
+Furthermore, our finding that the oldest tool-using male  in the 
+group, ABE, did not use tools during the 12-month  study period 
+hints at a potential upper  age limit for stone tool use in white-
+faced capuchins, as has been  documented  in chimpanzees  
+(Ho w ard-Spink et al., 2025). ABE w as the only individual to 
+displace tool users from  the anvil to steal the item  they had  
+opened, which  suggests that he  w as still interested in the re-
+sources but w as perhaps no  longer able or willing to invest the 
+time  and  energy  required to use tools himself. Here  too, a more  
+longitudinal approach  wou ld be valuable for examining  changes  in 
+tool use proficiency across the life span.
+The Role of Social Attention in Tool Use Acquisition
+Stone tool use at the experimental  anvils appeared  to be a 
+largely solitary activity (Goldsborough  et al., 2024). As such, op-
+portunities for social attention appear  to be limited, and  even  
+when  other capuchins  were present, social attention occurred in 
+only 20% of the sequences.  Data from  camer a traps may  under-
+estimate social attention, as individuals out of frame  could have 
+been  looking at the tool user without  this being captured. How -
+ever, attention from  a distance is likely to provide the observer 
+with  only coarse information about  the tool use behaviour. The  
+low  frequency  of close social attention in our sample  is surprising 
+compared  with  that reported  for other nut-cracking primates. In 
+one  study of tufted capuchins, Sapajus apella, conspecifics 
+observed  36% of all nut-cracking events (Coelho et al., 2015), and  in 
+chimpanzees,  juveniles observe hundr eds of nut-cracking events
+performed  by  their mothers  (Estienne et al., 2019). Yet on  Jicar�on, 
+juvenile capuchins  have no  opportunity to learn tool use from  
+their mothers  because  females do  not use tools (Goldsbor ough  
+et al., 2024). A similar male  bias has been  document ed  for probe
+tool use in S. libidinosus (Fal� otico & Ottoni, 2014; Valença  et al., 
+2024), wher e sex differences emerge  during development  and  
+ma y reflect differential motivation to engage  with  tool-related
+behaviours (Fal � otico et al., 2021). If comparable  processes oper-
+ate here, social attention to tool users may  itself be sex biased, a 
+prediction that we  could not test because  juvenile sex could not be 
+reliably determined.
+Individuals paying  social attention to tool use were mostly  ju-
+veniles too young  to be tool users themselves, suggesting that 
+social observation ma y be most  important  for the acquisition of 
+tool use behaviour (Barrett et al., 2017). Although  scrounging w as 
+not as common  as in tufted capuchins  (Coelho et al., 2015), the 
+mor e individuals that we re scrounging, the higher the likelihood 
+that social attention would  occur. Furthermor e, when  scrounging 
+occurred alongside social attention, it w as nearly always tolerated 
+by  the tool user. The  tool users who  received  the most  social 
+attention, subadult males, are also known  to be tolerant of juve-
+niles (Jack & Riley, 2014). Our  results support the idea that inter-
+individual tolerance  plays a crucial role in the social learning of 
+comple x behaviours (Coelho et al., 2024; van  Schaik et al., 1999). 
+How ever, we  were limited in our ability to identify juveniles pre-
+sent at the anvil site who  were not the tool user, so we  could not 
+determine  whether  the individuals paying social attention were 
+also the ones  scrounging.  The  development  of computer -assisted 
+individual tracking methods  will facilitate future studies of these 
+fine-grained interactions during tool use events. Furthermor e, 
+capuchins  might  also rely on  local enhancement  and  interactions 
+with  tempor ally enduring  artefacts of tool use to learn about  tool 
+use behaviour, a form  of niche construction (Fragaszy et al., 2013; 
+Odling-Smee  et al., 1996). In line with  niche construction theory 
+(Fragaszy et al., 2013), the physical modifications generated  
+through  tool use, such  as partially processed food items left on  
+anvils and  wea r on  hammerstones  and  anvils, may  structure 
+subsequent learning opportunities by  providing persistent cues to 
+individuals visiting the site, particularly when  direct social
+learning opportunities are limited. Capuchins  on  Jicar � on  using this
+physical evidence of tool use as a cue could also explain the ‘burn-
+in period’ at the novel anvil, EXP-ANV-0 1, as regular tool use by  
+man y individuals ma y only have started once  enough  debris had  
+accumulated  from  sporadic tool use events, mar king the location 
+as a suitable anvil for tool use.
+The Importance of Location
+Here,  we  reported  data collected from  only two  anvils within 
+the tool-using groups' range. How ever, we  have identified dozens  
+of different anvils that are habitually used  for stone tool use and  
+mor e than 300 ephemer al locations. While  CEBUS-02 is the most  
+frequently used  anvil and  has, to the best of our know ledge, been  
+in use for the longest time  (at least since 2004), it is possible that 
+most  social learning of tool use occurs elsewhere, for instance 
+during tool use in the intertidal zone  (Goldsborou gh  et al., 2023). 
+W e did observe a difference  in the likelihood of social attention 
+between  the two  experimental  anvils: CEBUS-02 provided more  
+opportunities for social attention, but social attention w as more  
+likely at EXP-ANV-0 1. This  could reflect the fact that to CEBUS-02 
+w as already  an  established, well-used  anvil prior to the current 
+study. W e infer that this anvil is used  so frequently because  it is 
+located in a productive foraging area (next to a stream), which  
+results in mor e capuchins  being present at the same  time. In 
+contrast, we  deliberately placed the experimental  anvil EXP-ANV -
+01 in a location without  evidence of prior tool use, meaning  that 
+the location probably held less interest for the capuchins. This  
+inference is supported  by  the fact that it took  capuchins  several 
+months  to start using this anvil regularly. The  localized availability
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 12367312
+
+PDF PAGE 13
+of ripe sea almonds  may  also have influenced the time  taken for 
+capuchins  to begin using this anvil. Another, nonexclusive possi-
+bility is that CEBUS-02 is simply  a ‘better’ anvil because  of its 
+material or other properties of the site. In this case, there may  be 
+greater competition  over this site and  lower tolerance  of ob-
+servers. W e found  that, on  average, capuchins  used  more  pounds  
+at the stone anvil than at the wooden  anvil and  that items were 
+more  likely to be propelled  off the stone anvil than the wooden  
+anvil, further supporting the idea that the wooden  anvil at CEBUS-
+02 has more  favourable properties for tool use. Anvil selectivity by  
+tool users and  the notion of a ‘wear in’ period for new  anvils are 
+another interesting avenue  for future research to examine  which  
+physical properties drive these differences in tool use efficiency.
+Spread of Tool Use to Other Groups
+The  seemingly  slow  mastery of stone tool use by  white-faced 
+capuchins  also has implications for the spread of this behaviour.
+Despite persisting over time, the stone tool use tradition on  Jicar �on  
+is localized (Barrett et al., 2018). In mainland  populations of white-
+faced capuchins, males  are the dispersing sex and  first dispersal 
+occurs, on  average, at 4.5  years of age in Santa Rosa (Jack et al., 
+2012) and  7 years of age in Lomas  Barbudal (Perry et al., 2012).
+On  Jicar � on, males  of this age might  not yet be proficient tool users
+based  on  our data and, as such, might  cease using tools after 
+dispersal, limiting the spread of the behaviour. Moreo ver, females
+on  Jicar � on  do  not use stone tools despite being physically capable
+of doing so (Goldsborou gh  et al., 2024). While  females are typically 
+philopatric, switches in dispersal tendency  are known  to occur 
+under  high-density conditions (Clutton-Brock & Lukas, 2012), such
+as those on  Jicar� on, meaning  this sex bias could further constrain
+the spread of tool use between  groups  if females disperse. Ob -
+servations suggest that at least some  males  remain  in their natal 
+group, as we  have tracked  some  individuals from  the juvenile stage 
+to (sub)adulthood.  Further elucidating the dispersal tendencies of 
+these capuchins  will be crucial for better understanding  the 
+maintenance  and  spread of tool use behaviour.
+Conclusion
+W e have presented  the first description of variation in, and  
+development  of, stone tool use proficiency in white-faced capu-
+chin monkey s. Using camera  traps placed at two  experimental  tool
+use anvils on  Jicar� on  Island, Panama,  we  collected tool use se-
+quences  over nearly 12 months,  mostly  of capuchins  processing 
+sea almonds.  Similar to other primates that use percussive stone 
+tools, white-faced capuchin  juveniles are less proficient tool users 
+than adults (in terms  of efficiency and  technique), and  the devel-
+opment  of proficiency appears  to be a slow  process. Sea almond  
+ripeness affected processing time  and  efficiency, with  less ripe 
+green sea almonds  requiring more  time, more  peeling between  
+pounds  and  resulting in mor e mistakes. In contrast to findings 
+from  other tool-using primates, tool use appeared  to be a largely 
+solitary activity, with  limited opportunities for social learning and  
+even  fewer instances of close social attention. How ever, when  
+social attention to tool use did occur, there were clear patterns that 
+echoed  those reported  in other primates. Social attention w as 
+mostly  paid by  juveniles to proficient subadults, who  were tolerant 
+of scrounging. W e also found  that location affected the likelihood 
+of social attention occurring, suggesting that social learning op-
+portunities differ between  sites. In short, we  lay the groundwor k 
+for comparisons  between  stone tool-using primate  species and  for 
+future research on  other aspects of white-faced capuchin  stone 
+tool use, such  as seasonality, hammerstone  selectivity and  anvil 
+selectivity.
+Author  Contributions
+Zo € e Goldsboro ugh:  W riting — review  & editing, W riting —
+original draft, Visualization, Validation, Supervision, Software, 
+Project administration, Methodology , Investigation, Formal  anal-
+ysis, Data curation. Mer edith K.W.  Carlson: W riting — review  & 
+editing, Validation, Project administration, Methodology , Investi-
+gation, Conceptualization. Leonie  S. Reetz: W riting — review  & 
+editing, Validation, Investigation. Evelyn Del Rosario-Vargas: 
+W riting — review  & editing, Investigation. Margaret  C. Crofoo t: 
+W riting — review  & editing, Supervision, Resources, Project 
+administration, Funding  acquisition, Conceptualization. Brendan  
+J. Barrett: W riting — review  & editing, Supervision, Resources, 
+Project administration, Methodology , Investigation, Funding  
+acquisition, Data curation, Conceptualization.
+Data  Availability
+Details of model  output are available as Supplementary  Material. 
+All code  and  data necessary to replicate analyses are available at 
+Zenodo  https://doi.org/10.5281/zenodo.15173296 (Goldsbor ough, 
+2025).
+Declaration of Interest
+Non e.
+Ackno w ledgments
+W e are grateful to Pedro  Luis Castillo-Caballero, Eliecer Vega -
+Pati ~ no, Juan  Rojas Garrido, James  Chaves and  Tamara  Dogand  � zi � c
+for their assistance with  fieldwork, and  to STRI Panam a and  the 
+Coiba Research Station for making  this research possible. W e thank  
+Lucia Torrez, Katrin Dieter and  Angie Ruiz for logistical support. 
+This  research w as supported  by  the Alexander  von  Humboldt  
+Professorship, endow ed  by  the Federal Ministry of Education and  
+Research aw arded  to M.C.C., the Max  Planck  Institute of Animal  
+Behavior and  an  L. S. B. Leakey Fou ndation Grant  aw arded  to 
+M.K.W .C. Finally, Z.G.  and  B.J.B. received  a grant from  the Deutsche  
+Forschungsgemeinschaft  (DFG,  German  Research Foundation)  
+under  German y's Excellence Strategy, EXC 2117 (grant number  
+422037984).
+Supplementary  Mat erial
+Supplementary  material associated  with  this article is available 
+at https://doi.org/10.1016/j.anbehav.2026.123673.
+The  Supplementary  Material has not been  copy-edited  and  the 
+content, formatting and  file functionality are the sole re-
+sponsibility of the author(s).
+References
+Araujo, P. E., Carrillo, G.  A., Ramirez, W ., Blue, S., Ch � avez, A., Haro,  N., Gar  � cıa, C.,
+Bravo, N., Castro, S., Hern  � andez, A. H., Prado, W . S., & Martin-Solano, S. (2021).
+First record of tool use by  a wild population of Cebus albifrons (Humboldt, 1812)
+(Primates, Cebidae) in Puerto  Misahualli, Napo,  Ecuador. Bole 
+′
+t ın T � ecnico, 15(16),
+59 —72.
+Bürkner, P.-C. (2017). Brms: An  R package for Bayesian multilevel models  using 
+Stan. Journal of Statistical Software, 80, 1—28. https://doi.org/10.18637/ 
+jss.v080.i01
+Barrett, B. J., McElreath, R. L., & Perry, S. E. (2017). Pay-off-biased  social learning 
+underlies the diffusion of novel extractive foraging traditions in a wild primate. 
+Proceedings of the Royal Society B: Biological Sciences, 284(1856). https://doi.org/ 
+10.1098/rspb.2017.0358, 2017035 8.
+Barrett, B. J., Mont eza-Moreno, C. M., Dogand  � zi � c, T., Ib � a ~nez, A., & Crofoot, M.  C.
+(2018). Habitual  stone-tool-aided extractive foraging in white-faced capuchins.
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 123673  13
+
+PDF PAGE 14
+Cebus capucinus. Royal Society Open  Science, 5. https://doi.org/10.1098/ 
+rsos.181002, 181002.
+Beck, B. B. (1980). Animal tool behaviour: The use and  manufacture of tools by ani-
+mals. Garland  STPM  Press.
+Berdugo, S., Cohen, E., Davis, A. J., Matsuzaw a, T., & Carvalho, S. (2024). Reliable
+long-term individual variation in wild chimpanzee  technological efficiency. 
+Nature Human  Behaviour, 9, 472—480.  https://doi.org/10.1038/s41562-024-
+02071-8
+Biro, D., Haslam,  M., & Rutz, C. (2013). Tool use as adaptation. Philosophical
+Transactions of the Royal Society B. Biological Sciences, 368 (1630), Article 
+20120408.  https://doi.org/10.1098/rstb.2012.0408
+Biro, D., Inoue-Nakamur a, N., Tonooka, R., Yamakoshi, G., Sousa, C., & Matsuzaw a, T.
+(2003). Cultural innovation and  transmission of tool use in wild chimpanzees  
+Evidence from  field experiments.  Animal Cognition, 6(4), 213—223. https:// 
+doi.org/10.1007/s10071-003-0183-x
+Boesch, C. (1991). Teaching among  wild chimpanzees.  Animal Behaviour, 41(3),
+530 —532.  https://doi.org/10.1016/S0003-3472(05)8085 7-7
+Boesch, C., & Boesch, H.  (1983). Optimisation  of nut-cracking with  natural ham -
+mers  by  wild chimpanzees.  Behaviour, 83(3—4), 265 —286. https://doi.org/ 
+10.1163/156853983X0 0192
+Boesch, C., & Boesch, H.  (1990). Tool use and  tool making  in wild chimpanzees.
+Folia Primatologica, 54(1—2), 86—99. https://doi.org/10.1159/000156428
+Boesch, C., Bombjakov  � a, D., Meier, A., & Mundry , R. (2019). Learning curves and
+teaching when  acquiring nut-cracking in humans  and  chimpanzees.  Scientific 
+Reports, 9(1), Article 1515.  https://doi.org/10.1038/s41598-018-38392-8 
+Canale, G.  R., Guidorizzi, C. E., Kierulff, M.  C. M., & Gatto, C. A. F. R. (2009). First
+record of tool use by  wild populations of the yellow-breasted  capuchin  
+monkey  (Cebus xanthosternos) and  new  records for the bearded  capuchin  
+(Cebus libidinosus). American  Journal of Primatology, 71(5), 366—372. https:// 
+doi.org/10.1002/ajp.20648 
+Carlson, M.  K., Barrett, B. J., del Rosario-Vargas, E., Dogandzic, T., Crofoot, M.  C., &
+Zwyns,  N.  (2025). White-faced capuchins  (Cebus capucinus imitator) exhibit 
+selectivity for stone tools. bioRxiv. https://doi.org/10.64898/2025.12.19.695614  
+Carlson, M.  K. W ., Dogandzic, T., Barrett, B. J., & Zwyns,  N.  (2026, March  17-18). An
+archaeological signature for early tool use: Modeling  site formation in nonhuman  
+primates. Denver, CO, United States: Paleoanthropology  Society Meeting  
+[Conference presentation abstract]. 
+Clutton-Brock, T. H., & Lukas, D. (2012). The  evolution of social philopatry and
+dispersal in female  mammals.  Molecular Ecology, 21(3), 472—492. https:// 
+doi.org/10.1111/j.1365-294X.20 11.05232.x
+Coelho, C. G., Fal � otico, T., Izar, P., Mannu,  M., Resende, B. D., Siqueira, J. O., &
+Ottoni, E. B. (2015). Social learning strategies for nut-cracking by  tufted 
+capuchin  monkey s (Sapajus spp.). Animal Cognition, 18(4), 911—919. https:// 
+doi.org/10.1007/s10071-015-0861-5 
+Coelho, C. G., Garcia-Nisa, I., Ottoni, E. B., & Kendal, R. L. (2024). Social tolerance
+and  success-biased social learning underlie the cultural transmission of an  
+induced  extractive foraging tradition in a wild tool-using primate. Proceedings 
+of the National Academy  of Sciences, 121(48), Article e2322884121. https:// 
+doi.org/10.1073/pnas.2322884121 
+de  la Torre, I., & Hirata, S. (2015). Percussive technology  in human  evolution: An
+introduction to a comparative approach  in fossil and  living primates. Philo-
+sophical Transactions of the Royal Society B: Biological Sciences, 370(1682), 
+Article 20140346.  https://doi.org/10.1098/rstb.2014.0346  
+De  Resende, B. D., Ottoni, E. B., & Fragaszy, D. M.  (2008). Ontoge ny of manipulative
+behavior and  nut-cracking in young  tufted capuchin  monkey s (Cebus apella): A 
+perception—action perspective. Developmental Science, 11(6), 828—840.  https:// 
+doi.org/10.1111/j.1467-7687.2008.00731.x 
+Eshchar, Y., Izar, P., Visalberghi, E., Resende, B., & Fragaszy, D. (2016). When  and
+where  to practice: Social influences on  the development  of nut-cracking in 
+bearded  capuchins  (Sapajus libidinosus). Animal Cognition, 19(3), 605 —618. 
+https://doi.org/10.1007/s10071-016-0965-6 
+Estienne, V., Cohen, H., Wittig, R. M., & Boesch, C. (2019). Maternal influence on  the
+development  of nut-cracking skills in the chimpanzees  of the Taï Forest, C^ote 
+d'ivoire (Pan  troglodytes verus). American  Journal of Primatology, 81(7), Article 
+e23022. https://doi.org/10.1002/ajp.23022 
+Fal� otico, T., Bueno, C. Q., & Ottoni, E. B. (2021). Ontoge ny and  sex differences in 
+object manipulation  and  probe  tool use by  wild tufted capuchin  monkey s 
+(Sapajus libidinosus). American  Journal of Primatology, 83(5), Article e23251. 
+https://doi.org/10.1002/ajp.23251 
+Fal� otico, T., Macedo,  A. C., de  Jesus, M.  A., Espinola, T., & Valença, T. (2024). N ut-
+cracking success and  efficiency in two wild capuchin  monkey  populations. 
+Royal Society Open  Science, 11(6), Article 240161. https://doi.org/10.1098/ 
+rsos.240161 
+Fal� otico, T., & Ottoni, E. B. (2014). Sexual bias in probe  tool manufacture  and  use by  
+wild bearded  capuchin  monkey s. Behavioural Processes, 108, 117—122. https:// 
+doi.org/10.1016/j.beproc.2014.09.036  
+Fal� otico, T., & Ottoni, E. B. (2016). The  manifold  use of pounding  stone  tools by  wild 
+capuchin  monkey s of Serra da  Capivara National  Park, Brazil. Behaviour, 153(4), 
+421—442. https://doi.org/10.1163/1568539X -00003357 
+Ferreira, R. G., Emidio, R. A., & Jerusalinsky, L. (2010). Three  stones for three seeds:
+Natur al occurrence of selective tool use by  capuchins  (Cebus libidinosus) based  
+on  an  analysis of the weight  of stones found  at nutting sites. American  Journal 
+of Primatology, 72(3), 270—275.  https://doi.org/10.1002/ajp.20771 
+Fragaszy, D. M., Aiempichitkijkarn, N., Eshchar, Y., Mangalam,  M., Izar, P.,
+Resende, B., & Visalberghi, E. (2023). The  development  of expertise at cracking
+palm  nuts by  wild bearded  capuchin  monkey s, Sapajus libidinosus. Animal 
+Behaviour, 197, 1—14.  https://doi.org/10.1016/j.anbehav.2022.12.008 
+Fragaszy, D. M., Barton, S. A., Keo, S., Patel, R., Izar, P., Visalberghi, E., & Haslam,  M.  
+(2020). Adult and  juvenile bearded  capuchin  monkey s handle  stone hammers  
+differently during nut-cracking. American  Journal of Primatology, 82(7), Article 
+e23156.  https://doi.org/10.1002/ajp.23156  
+Fragaszy, D. M., Biro, D., Eshchar, Y., Humle,  T., Izar, P., Resende, B., & Visalberghi, E. 
+(2013). The  fourth dimension  of tool use: Temporally enduring  artefacts aid 
+primates learning to use tools. Philosophical Transactions of the Royal Society B: 
+Biological Sciences, 368 (1630), Article 20120410. https://doi.org/10.1098/ 
+rstb.2012.0410 
+Fragaszy, D. M., Visalberghi, E., & Fedigan, L. M.  (2004). The complete capuchin: The 
+biology of the genus Cebus. Cambridge  University Press. 
+Friard, O., & Gamba,  M.  (2016). BORIS: A free, versatile open-source  event-logging 
+software for video/audio coding and  live observations. Methods  in Ecology  and  
+Evolution, 7(11), 1325 —1330. https://doi.org/10.1111/2041-210X.12584  
+Goldsborough,  Z. (2025). ZoeGold/tooluseproficiency: Data and  code tool use profi-
+ciency—Revision. https://doi.org/10.5281/zenodo.15173296 
+Goldsborough,  Z., Crofoot, M.  C., Alavi, S. E., Del Rosario-Vargas, E., Garza, S. F., 
+Tiedeman,  K., & Barrett, B. J. (2023). Coupling of coastal activity with  tidal 
+cycles is stronger in tool-using capuchins  (Cebus capucinus imitator). Royal 
+Society Open  Science, 10(9), Article 230355 . https://doi.org/10.1098/rsos.230355  
+Goldsborough,  Z., Crofoot, M.  C., & Barrett, B. J. (2024). Male-biased stone tool use 
+by  wild white-faced capuchins  (Cebus capucinus imitator). American  Journal of 
+Primatology, 86(4), Article e23594.  https://doi.org/10.1002/ajp.23594
+Goldsborough,  Z., Crofoot, M.  C., Le� on, J., Castillo-Caballero, P. L., Del Rosario-
+Vargas, E., & Barrett, B. J. (2025). Habitual tool use on monopolizable resources 
+affects group cohesion. https://doi.org/10.32942/X25H1Q  
+Gumert,  M.  D., & Malaivijitnond, S. (2012). Marine  prey processed  with  stone  tools 
+by  burmese  long-tailed macaq ues (Macaca  fascicularis aurea) in intertidal 
+habitats. American  Journal of Physical Anthropology, 149(3), 447—45 7. https:// 
+doi.org/10.1002/ajpa.22143  
+Gumert,  M.  D., & Malaivijitnond, S. (2013). Long-tailed macaq ues select mass  of 
+stone tools according to food type. Philosophical Transactions of the Royal So-
+ciety B: Biological Sciences, 368 (1630), Article 20120413. https://doi.org/ 
+10.1098/rstb.2012.0413 
+How ard-Spink, E., Matsuzaw a, T., Carvalho, S., Hobaiter, C., Almeida-W arren, K., 
+Gruber , T., & Biro, D. (2025). Old  age variably impacts  chimpanzee  engagement  
+and  efficiency in stone tool use. eLife, 14(2), RP1054 11. https://doi.org/10.7554/  
+eLife.1054 11 
+Ib � a ~nez, A., P  � erez-Jord �a, J., Juste, J., & Guill �en, A. (1997). Los mamíferos  terrestres del
+Parque  Nacion al Coiba (Panam  � a). In S. Castroviejo, & M.  Velayos (Eds.), Flora y
+fauna del Parque Nacional de Coiba (Panam � a): Inventario preliminar (pp.
+469 —486). Agencia Espa ~nola de  Cooperaci � on  Internacional.
+Inoue-Na kamura,  N., & Matsuzaw a, T. (1997). Development  of stone tool use by  
+wild chimpanzees  (Pan  troglodytes). Journal of Comparative Psychology, 111(2), 
+159 —173. https://doi.org/10.1037/0735-7036.111.2.159
+Isaza, I., & Vrba, E. (2010). Ocupaci� on pre-colombina de las Islas del Parque Nacional
+Coiba: Informe final del Proyecto PRB08-003. Panama:  SENACYT  (Technical 
+report).
+Jack, K. M., & Riley, E. P. (2014). Male  social tolerance, cooperation, and  affiliation in 
+male  dispersing primates. Behaviour, 151(7), 861—870. https://doi.org/10.1163/ 
+1568539X -00003193
+Jack, K. M., Sheller, C., & Fedigan, L. M.  (2012). Social factors influencing natal 
+dispersal in male  white-faced capuchins  (Cebus capucinus). American  Journal of 
+Primatology, 74(4), 359 —365.  https://doi.org/10.1002/ajp.20974
+Koops, K., Soumah,  A. G., van  Leeuwen,  K. L., Camara, H.  D., & Matsuzaw a, T. (2022).
+Field experiments  find no  evidence that chimpanzee  nut cracking can be
+independently  innovated. Nature Human  Behaviour, 6(4), 487 —494.  https:// 
+doi.org/10.1038/s41562-021-01272-9 
+Lima, G.  C. B., Lacerda, J. C., Taynor, R., Araújo, M., Bezerra, B. M., & Souza-Alves, J. P. 
+(2024). A new  addition to the toolbox: Stone tool use in blonde  capuchin  
+monkey s (Sapajus flavius). Primates, 65(5), 383—389. https://doi.org/10.1007/ 
+s10329-024-01143-7 
+Lonsdorf, E. V.  (2005). Sex differences in the development  of termite-fishing skills 
+in the wild chimpanzees,  Pan  troglodytes schweinfurthii, of Gombe  National
+Park, Tanzania. Animal Behaviour, 70(3), 673—683. https://doi.org/10.1016/ 
+j.anbehav.2004.12.014
+Matsuzaw a, T. (1994). Field experiments  on  use of stone tools by  chimpanzees  in 
+the wild. In R. W . W rangham,  W . C. McGre w , F. B. M.  de  W aal, & P. G.  Heltne  
+(Eds.), Chimpanzee  cultures (pp.  351—370). Harv ard University Press.
+Milton, K., & Mittermeier, R. A. (1977). A brief survey of the primates of Coiba Is-
+land. Panama.  Primates, 18(4), 931—936. https://doi.org/10.1007/BF02382942 
+Mont eza-Moreno, C. M., Crofoot, M.  C., Gro te, M.  N., & Jansen, P. A. (2020).
+Increased terrestriality in a Neo tropical primate  living on  islands with  reduced  
+predation risk. Journal of Human  Evolution, 143, Article 102768. https://doi.org/ 
+10.1016/j.jhevol.2020.102768
+Mont eza-Moreno, C. M., Dogand � zi � c, T., McLean, K. A., Castillo-Caballero, P. L.,
+Mijango-Ramos, Z., Del Rosario-Vargas, E., Crofoot, M.  C., & Barrett, B. J. (2020). 
+White-faced capuchin, Cebus capucinus imitator, hammerstone  and  anvil tool 
+use in riparian habitats on  Coiba Island, Panama.  International Journal of Pri-
+matology, 41(3), 429 —433.  https://doi.org/10.1007/s10764-020-00156-5  
+Muhammad,  R., Kaikaew, T., Panjan, S., Meesa w at, S., Thabthimthong,  W ., 
+Payung porn, S., Apipattarachaiwong, J., Kanthaswa m y, S., Hamada,  Y., 
+Luncz, L. V., & Malaivijitnond, S. (2024). Influence of CO VID-19 on  the
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 12367314  
+
+PDF PAGE 15
+emergence  of stone-tool use behavior in a population of common  long-tailed 
+macaq ues (Macaca  fascicularis fascicularis) in Thailand.  American  Journal of 
+Primatology, 86(2), Article e23580.  https://doi.org/10.1002/ajp.23580 
+Musgra ve, S., Morgan,  D., Lonsdorf, E., Mundry , R., & Sanz, C. (2016). Tool transfers
+are a form  of teaching among  chimpanzees.  Scientific Reports, 6(1), Article 
+34783. https://doi.org/10.1038/srep34783 
+Neadle,  D., Bandini, E., & Tennie, C. (2020). Testing the individual and  social
+learning abilities of task-naïve captive chimpanzees  (Pan  troglodytes sp.) in a 
+nut-cracking task. PeerJ, 8, Article e8734.  https://doi.org/10.7717/peerj.8734
+O'Malley, T. D. R., Reeves, J. S., Slania, N.  E., Fal � otico, T., Proffitt, T., de  la Torre, I., &
+Luncz, L. V.  (2025). Material matters: Raw  material influences stone tool per-
+formance  in capuchin  monkey s. Animal Behaviour, 227, Article 123254.  https:// 
+doi.org/10.1016/j.anbehav.2025.123254
+Odling-Smee,  F. J., Lala, K. N., & Feldman,  M.  W . (1996). Niche  construction.
+American  Naturalist, 147(4), 641—648.
+Ottoni, E. B., de  Resende, B. D., & Izar, P. (2005). W atching the best nutcrackers:
+What  capuchin  monkey s (Cebus apella) know  about  others' tool-using skills. 
+Animal Cognition, 8(4), 215 —219. https://doi.org/10.1007/s10071-004-0245-8  
+Ottoni, E. B., & Mannu,  M.  (2001). Semifree-ranging  tufted capuchins  (Cebus apella)
+spontaneously  use tools to crack open  nuts. International Journal of Primatol-
+ogy, 22, 347—358.
+Perez, R., & Condit, R. (n.d.). Tree atlas of Panama.  http://ctfs.si.edu/PanamaAtlas/
+maintreeatlas.php.
+Perry, S., Godoy , I., & Lammers,  W . (2012). The  Lomas  Barbudal monkey  project:
+Two  decades  of research on  Cebus capucinus. In P. M.  Kappeler, & D. P. W atts 
+(Eds.), Long-term field studies of primates (pp.  141—163). Springer. https:// 
+doi.org/10.1007/978-3-642-22514-77.
+R Core Team.  (2022). R: A language and  environment for statistical computing. R
+Foundation  for Statistical Computing .
+Schuppli, C., & van  Schaik, C. P.v. (2019). Animal cultures: How  we’ve only seen the tip
+of the iceberg, 1 (p. e2). Evolutionary Human  Sciences. https://doi.org/10.1017/ 
+ehs.2019.1
+Shumaker , R. W ., W alkup, K. R., Beck, B. B., & Burghardt, G.  M.  (2011). Animal tool 
+behavior: The use and  manufacture of tools by animals. Johns  Hopkins  University 
+Press. 
+Spagnoletti, N., Visalberghi, E., Ottoni, E., Izar, P., & Fragaszy, D. (2011). Stone tool 
+use by  adult wild bearded  capuchin  monkey s (Cebus libidinosus). Frequency, 
+efficiency and  tool selectivity. Journal of Human  Evolution, 61, 97—107. https:// 
+doi.org/10.1016/j.jhevol.2011.02.010 
+Spagnoletti, N., Visalberghi, E., Verder ane, M.  P., Ottoni, E., Izar, P., & Fragaszy, D. 
+(2012). Stone tool use in wild bearded  capuchin  monke ys, Cebus libidinosus. Is 
+it a strategy to overcome  food scarcity? Animal Behaviour, 83(5), 1285 —1294. 
+https://doi.org/10.1016/j.anbehav.2012.03.002 
+Sugiyama,  Y., & Koman,  J. (1979). Tool-using and  -making  behavior in wild chim -
+panzees  at Bossou, Guinea.  Primates, 20(4), 513—524. 
+Tan, A. W . Y. (2017). From  play to proficiency: The  ontogeny of stone-tool use in 
+coastal-foraging long-tailed macaq ues (Macaca  fascicularis) from  a compara -
+tive perception-action perspective. Journal of Comparative Psychology, 131(2), 
+89—114.  https://doi.org/10.1037/com0 000068 
+Titcomb,  M., & O'Dea, A. (2020). Post-glacial sea level rise on the Isthmus of Panama . 
+Smithsonian  Tropical Research Institute. https://doi.org/10.255 73/ 
+data.11919276 [Data set]. 
+Valença, T., Oliveira Affonço, G., & Fal � otico, T. (2024). Wild  capuchin  monkey s use
+stones and  sticks to access underground  food. Scientific Reports, 14(1), 10415.  
+https://doi.org/10.1038/s41598-024-61243-8 
+van  Schaik, C. P., Deaner, R. O., & Merrill, M.  Y. (1999). The  conditions for tool use in 
+primates: Implications for the evolution of material culture. Journal of Human  
+Evolution, 36 (6), 719—741. https://doi.org/10.1006/jhev.1999.0304  
+Vehtari, A., Gelman,  A., Simpson,  D., Carpenter, B., & Bürkner, P.-C. (2021). Rank-
+normalization, folding, and  localization: An  improv ed  R for assessing conver-
+gence  of MCMC.  Bayesian Analysis, 16(2). https://doi.org/10.1214/20-BA1221 
+Visalberghi, E., Addessi, E., Truppa, V., Spagnoletti, N., Ottoni, E., Izar, P., & Fragaszy, D. 
+(2009). Selection of effective stone tools by  wild bearded  capuchin monkey s. 
+Current Biology, 19(3), 213—217. https://doi.org/10.1016/j.cub.2008.11.064
+Z. Goldsborough et al. / Animal Behaviour 239  (2026) 123673  15

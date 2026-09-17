@@ -1,0 +1,1551 @@
+PDF PAGE 1
+Journal of Comparative Psychology
+1989, Vol. 103. No. 2. 159-170
+Copyright 1989 by the American Psychological Association. Inc.
+0735-7036/89/$00.75
+Social Influences on the Acquisition of Tool-Using Behaviors
+in Tufted Capuchin Monkeys (Cebus apella)
+Dorothy M. Fragaszy
+Department of Psychology and
+Department of Veterinary and Comparative
+Anatomy, Pharmacology, and Physiology
+Washington State University
+Elisabetta VisalberghiIstituto di Psicologia, Consiglio Nazionale
+delle Ricerche, Roma, Italy
+To identify behaviors related to acquisition of tool-use in tufted capuchins (Cebus apella), we
+presented two tool-using tasks to two groups, extending findings by Westergaard and Fragaszy
+(1987) and Visalberghi (in press). Five Ss learned to use the tools in each task. The primary
+predictor of success was level of interest in the task. Observation of others at the apparatus did
+not facilitate exploratory behaviors or contact with the tools in the observers. Most animals
+performed exploratory behaviors more often when they were at the apparatus alone than when
+with another, whether or not the other was using a tool. Observers were quick to learn the
+relationship between another's activities and the appearance of food. We conclude that capuchins
+do not readily learn about instrumental relations by observation of others or imitate other's acts.
+Imitation probably plays no role in the spread of novel instrumental behaviors among monkeys.
+Learning through observation of others has long been sug-
+gested as a means by which behaviors can spread among
+members of social species. Support for this hypothesis comes
+from studies of song learning in birds (Payne, 1987), feeding
+actions in pigeons (Palameta & LeFebvre, 1987) and, perhaps,
+in finches (Werner & Sherry, 1987), and feeding techniques
+in rats (Gandolfi & Parisi, 1973; see Galef, 1988, for a review
+and Zentall & Galef, 1988, for recent treatments). Animals
+also acquire affective responses after observation of others
+(fear in monkeys: Cook, Mineka, Wolkenstein, & Laitsch,
+1985; mobbing in birds: Curio, Ernst, & Vieth, 1978; food
+aversions in rats: Galef, 1977; Galef & Clarke, 1971; see
+Zentall & Galef, 1988). Several studies with nonhuman pri-
+mates have used discrimination learning problems; they have
+demonstrated a benefit to the observer from watching a model
+in the rapidity with which a visual discrimination is learned
+(Darby & Riopelle, 1959; Mahan & Rumbaugh, 1963; Wech-
+klin, 1970). Beck (1976) reported that watching a model
+enhanced acquisition of a tool-using behavior in pigtailed
+macaques. Instrumental behaviors, particularly in chimpan-
+This research was supported by Grant 8503603 from the National
+Science Foundation, by Grant MHRO1-41543 from the Public Health
+Service, and by a Research Scientist Development Award from the
+National Institute of Mental Health to Dorothy M. Fragaszy and by
+a Bilateral Italy-USA Grant to Elisabetta Visalberghi from the Con-
+siglio Nazionale delle Ricerche.
+We thank W. London of the National Institutes of Health for the
+loan of several of the animals in the breeding colony. E. Seaman, S.
+Schwartz, M. Smith, G. Mathers, and H. Johnson assisted in the
+observations, and R. Carlson and L. Trinca, with the analysis of data.
+We thank L. Adams-Curtis and N. Munkenbeck for comments on
+earlier drafts of this article.
+Correspondence concerning this article should be addressed to
+Dorothy M. Fragaszy, Department of Psychology, Washington State
+University, Pullman, Washington 99164-4830.
+zees, have been singled out as likely to have spread within
+groups by observational influence (see Nishida, 1986, for a
+review). To a large extent, however, the data do not support
+the notion that imitation, as direct repetition of a novel
+behavior or observational learning of a relation between a
+behavior and an outcome, occurs frequently in nonhumans
+(e.g., Chamove, 1974; Kellogg & Kellogg, 1933; Visalberghi
+& Fragaszy, in press). In many cases in which imitation has
+been inferred, alternative explanations that involve direct
+experience or social influence in other forms are equally
+plausible (e.g., food washing in monkeys; Galef 1987; Visal-
+berghi & Fragaszy, 1988). The final outcome (spread of a
+behavior in a group) can arise in several different ways.
+We can readily identify four different forms of social influ-
+ence on an animals's performance of a behavior in the pres-
+ence of others. First, the presence or behavior of other indi-
+viduals can influence the general level of activity but does not
+differentially increase a specific behavior or interest in a
+particular object. Second, other animals' activity in a partic-
+ular place can enhance interest (expressed in different ways)
+in that place (local enhancement). Third, other animals' ac-
+tivity can differentially facilitate or inhibit the expression of
+certain behaviors (not necessarily the same behaviors that the
+others are performing) already in the observer's repertoire
+(social facilitation or inhibition). Finally, other animals' activ-
+ity can lead to the production of novel behaviors or a novel
+sequence of behaviors in the observer. Only the last is imita-
+tion. As did Bandura (1986), we reserve the term observational
+learning for the learning of a relational rule by observation,
+as for example, oddity, seriation, or the spatial relationship
+necessary between tool and target.
+One approach to the problem of distinguishing among the
+several forms of social influence on the spread of novel
+behaviors is to present tasks that constrain the form that the
+novel behavior takes. It is important that social facilitation
+159
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 2
+160 DOROTHY M. FRAGASZY AND ELISABETTA VISALBERGHI
+and local enhancement be distinguishable from imitation or
+observational learning (Galef, 1988). Tool-using tasks and
+sequential tasks are useful for this purpose because successful
+performance that results from a generalized increase in activ-
+ity, local enhancement, or social facilitation is improbable.
+Recent, systematic studies have shown that tufted capuchin
+monkeys can spontaneously learn to use tools in several
+situations (Visalberghi, in press; Westergaard & Fragaszy,
+1987), confirming earlier studies of acquisition with single
+subjects (Antinucci & Visalberghi, 1986; Bierens de Haan,
+1931; Harlow, 1951; Kluver, 1933) and observations, again
+of single subjects, in which the acquisition of the behavior
+was not studied (Boinski, 1988; Cooper & Harlow, 1961;
+Darwin, 1794; Romanes, 1883; Vevers & Weiner, 1963).
+However, these recent studies with groups of capuchins have
+also shown that not all animals in a group acquire tool-using
+behaviors and that acquisition of tool-using behaviors can
+follow different schedules in different individuals (Visalberghi,
+in press; Westergaard & Fragaszy, 1987). These findings raise
+two questions: (a) What distinguishes animals that learn to
+use tools in a given problem from those that do not? and (b)
+Does observation of a skilled model contribute to acquisition
+in some animals, and if so, in what manner? The studies
+reported in this article focused on these two questions.
+Very little is known about the sources of individual differ-
+ences in the likelihood of discovering an innovative behavior
+or about the processes that support such a discovery (Box &
+Fragaszy, 1986). Although insight into innovative behavior in
+nonhumans has traditionally come from serendipitous obser-
+vations (e.g., Hamilton, Buskirk, & Buskirk, 1978, who ob-
+served fishing in wild baboons), systematic attempts to elicit
+innovations need also to be undertaken. Instrumental tasks
+presented to captive subjects in their living area are useful for
+this purpose. Recent studies with chimpanzees and with cap-
+uchins have adopted this procedure (Adams-Curtis & Fra-
+gaszy, 1988; Tomasello, Davis-Dasilva, Camak, & Bard,
+1987).
+We monitored the behavior toward two novel tool-using
+tasks in groups of capuchin monkeys; our aims were to
+evaluate the differences between innovators and others and
+to assess the importance of the various types of social influence
+on acquisition of novel behaviors.
+Method
+Design
+Two experiments were performed in which an apparatus that
+required the use of a tool to obtain food was placed into the monkeys'
+home cage for a 30-min period each test day. In Experiment 1,
+walnuts in the shell were in the apparatus; metal objects suitable for
+pounding were available. In Experiment 2, a type of "vending ma-
+chine" that dispensed sunflower seeds could be activated by an
+animal's moving an internal slider mounted inside a long tube with
+a rod. Observations were made with a combination of one-zero and
+instantaneous sampling for activity at the apparatus by each subject
+in 10-s intervals. Twenty sessions were completed per group in
+Experiment 1, and 30, in Experiment 2. Experiment 1 took place
+over 4 months; Experiment 2 took place over 6 months. After the
+completion of regular sessions in Experiment 2, four additional
+sessions with the second task were done after the removal of the 1
+monkey in Group 2 that knew how to use the tool; six sessions were
+also held in each group with the provision of several loose tools in
+place of the single tool that had been provided previously.
+Subjects
+Members of two established groups (20 animals that ranged in age
+from 8 months to >26 years; see Table 1) of tufted capuchins (Cebus
+ape/la) participated in the experiments. Each group was near the
+norm for the species in terms of size and age-sex composition (e.g.,
+Terborgh, 1983).
+Each group of monkeys was housed in a two-room cage (6 m wide
+x 2.5 m high x 2.5 m deep and 3 x 2.5 x 2.5 m) with a window that
+allowed free passage between the two rooms. Straw covered the floor;
+perches, ropes, swings, and various portable objects were present in
+each room. Food and water were available ad libitum. Observations
+were made through glazed windows, which minimized the visibility
+of the observers from the inside of the cage.
+Table 1
+Composition of the Groups
+Group and subject
+Adults
+Ike
+Alice
+Beth
+Fanny
+Jill
+Mercedes
+Juveniles
+Patti
+Quincy
+Rita
+Tere
+Ulysses
+Willy
+Yearlings and infants
+Viola
+Louisa
+Dixie
+Sex
+Group 1
+Male
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Female
+Male
+Male
+Female
+Female
+Female
+Age
+10
+10
+10
+10
+10
+10?
+3
+3
+3
+2
+2
+1
+1
+1
+<1
+Task
+1,2
+2
+2
+1, 2
+Adults
+Sherlock
+Celia
+Erna
+Greta
+Hansje
+Nina
+Juveniles
+Osa
+Xavier
+Yearlings and infants
+Zola
+Yves
+Andrea
+Bruce
+Felicia
+Group 2
+Male
+Female
+Female
+Female
+Femple
+Female
+Female
+Male
+Female
+Male
+Female
+Male
+Female
++26
+9
+10
+10
+10
+6
+3
+1
+1,2
+Note. For Task the numbers indicate that the animal solved the task
+in the experiment of that number.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 3
+SOCIAL INFLUENCE IN CAPUCHINS 161
+Apparatus
+The nut board in Task 1 consisted of two wooden panels (30 x 60
+cm) mounted 3 cm apart. Twenty-four walnuts in the shell were
+glued into holes in the top panel. About the top third of the nuts
+remained exposed. The nut board was mounted in the center of a
+wooden platform (91.5 x 25 x 80 cm; see Figure 1). As needed, the
+board was removed from the platform and refilled with new nuts.
+Four wooden blocks (5x5x8 cm) and four hexagonal metal nuts,
+referred to hereafter as metal tools (8 cm, exterior diameter, and 3.5
+cm, interior diameter), were tethered with nylon cord (70 cm long)
+to the corners of the nut board. This was done to prevent the monkeys
+from pounding the objects on the observation windows. Tethering
+increased the probability of solution by keeping the tools near the
+task but had no effect on the use of the tools to open nuts (cf. Beck,
+1976). The platform was placed on the cage floor during testing
+sessions.
+The rod box in Task 2 was a transparent plastic box (25 x 34.5 x
+5.3 cm) mounted on a plywood backing (see Figure 2). When the
+internal sliding mechanism (painted on the exterior edge to be easily
+visible) below the food reservoir was moved upward, sunflower seeds
+fell down a tube into a food cup. The slide mechanism was 15.5 cm
+from the end of a tube, which opened to the exterior by a 2.5-cm
+opening. A black plastic rod (22.5 cm) was hung along the same edge
+of the apparatus as the tube that provided access to the slider. As in
+the nut board, tethering the rod increased the probability of solution
+but did not affect the use of the object as a tool. The apparatus was
+mounted vertically to a wire-mesh panel in the front of the cage
+during test sessions. In a variation of Task 2 that was presented at the
+end of the regular sessions, the chained rod was removed, and six
+black wooden rods of the same length were provided in the adjoining
+room.
+Procedure
+Experiment 1. Before the start of Experiment 1, the monkeys
+were given walnuts by hand on several days. Several animals suc-
+ceeded in opening them by banging and biting. At the start of each
+experimental session, the apparatus was placed in one side of the
+home cage. The animals were readmitted to that side, and observa-
+tions began immediately. Instantaneous sampling at 10-s intervals of
+the following behaviors was made: invesligate-consume (any general
+Figure 1. A j uvenile male (Willy) illustrates the technique of pound-
+ing open nuts with a metal tool at the nut board.
+Figure 2. A juvenile female (Quincy) operates the rod box task while
+her mother waits to collect sunflower seeds from the dispensing cup.
+contact with the nut board); hit (with the hand alone); tap (with the
+finger tips); slide (an object across the platform or board); and present
+(at the apparatus but not engaged in any other activity). Two activities
+performed at the apparatus, pound (one object with another) and dip
+(into a cavity with a stick or length of straw), were scored in a one-
+zero manner within 10-s intervals to provide a more complete record
+for these brief events than obtained from instantaneous sampling.
+Every instance of unusual combinations of objects and actions at the
+platform was noted, as was the opening of any nut.
+Experiment 2. A procedure similar to that used in Experiment 1
+was used. Instantaneous sampling at 10-s intervals was used for the
+behaviors investigate (any part of the apparatus), hit (any part of the
+apparatus), take (food from the dispenser cup), and poke (the fingers
+into the tube). One-zero sampling within the same interval was used
+for probe (with an object into the tube or the food cup). We noted
+the success or failure of probing acts in activating the food dispenser
+and what objects were used to probe.
+Observers were trained initially to identify individual animals in a
+variation of the method with a different task. At the onset of each
+experiment, an observer skilled in the method observed simultane-
+ously with less experienced observers until reliabilities for common
+acts and for presence at the apparatus reached 85% agreement on
+three consecutive sessions. Reliabilities for rare acts were not com-
+puted. In Experiment 2, independent observations at the midpoint of
+testing confirmed the maintenance of interobserver reliability.
+Analysis
+Members of the two social groups were analyzed without regard to
+group membership. Frequencies of particular behaviors were tallied
+for all subjects that learned to solve each task (solvers) and for a
+selection of adults and juveniles that did not learn to solve the tasks
+(nonsolvers). The selected nonsolvers exhibited the greatest interest
+in the apparatus within their age class. Thus, animals that appeared
+to have the best probability of discovering the solutions to the
+problems were compared with those that actually did acquire solution.
+Three subjects from each social group (the adult male, an adult
+female, and a juvenile) formed the nonsolver pool (N = 6) in
+Experiment 1. A similar grouping (but different subjects) was used in
+Experiment 2 (the adult male from each group, two adult females in
+Group 2 and one from Group 1, and a juvenile from each group; N
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 4
+162 DOROTHY M. FRAGASZY AND ELISABETTA VISALBERGHI
+= 7). Data from the yearlings in each social group (Louisa and Viola
+in Group 1 and Yves and Zola in Group 2) were also tallied this way.
+Several variables that indicated interest in the tasks were examined:
+the number of intervals the subject was present, the number of bouts
+(periods at the apparatus interrupted by fewer than three consecutive
+intervals of absence), and the percentage of intervals at the apparatus
+in which the subject was the only animal present. The solvers were
+compared with nonsolvers on these variables by / tests. To determine
+if the frequency of particular activities varied as a function of social
+context, independent of the total amount of time spent at the appa-
+ratus, we compared expected values with the observed frequencies of
+particular acts for each subject when it was at the apparatus by itself
+and when it was there with others. Expected frequencies for these
+analyses were derived by multiplying the proportion of intervals at
+the apparatus while alone or with another animal by the total fre-
+quency of the act in question. The cases in which expected cell sizes
+were less than 5 were not analyzed. These analyses were made for the
+first four sessions (first block), the four sessions that preceded the
+solution for each solver (presolution block), and the final four sessions
+(last block). In all analyses a = .05 (two-tailed) was used for deter-
+minations of statistical significance.
+Experiment 1
+Results
+Interest in the apparatus. The nut board was attractive to
+the animals on the first and every session. Over all sessions
+the apparatus was visited on 89% of intervals in Group 1 and
+on 69% in Group 2. The adult males in each group were able
+to open nuts by biting them, which generated interest during
+early sessions. Females and juveniles could not open nuts by
+biting, although they tried to do so. Five animals learned to
+use the metal tools provided with the apparatus to pound
+open the nuts. The 1st solver in Group 1, Quincy, pounded a
+nut open on Session 6. The 2nd solver in that group, Willy,
+first opened nuts on Session 13. In Group 2, Erna first
+pounded open a nut on the 4th session, Osa on the 12th, and
+Hansje on the 16th. Once a subject had opened a nut, pound-
+ing predominated its activity at the nut board. Pounding open
+a nut required persistence: It often took four or more intervals
+(more than 30 s) of repeated hard pounding to break the nut.
+Frequently, the nut was partially opened by pounding and
+then opened further by biting. Each solver opened at least 12
+nuts.
+The apparatus was visited on 70% of intervals for Group 1
+and 23% for Group 2 before any animal solved the task. We
+noted that the adult male in Group 2 opened nuts by biting
+less frequently than the adult male in Group 1. During the
+period with 1 solver, the percentage of intervals in which the
+apparatus was occupied increased to 96% for Group 1 and
+70% for Group 2. With the addition of other solvers, the
+percentage remained in the mid-90s in Group 1 and between
+75% and 95% in Group 2.
+Although general interest in the apparatus was high, some
+animals seemed less interested than others. For some, access
+to the apparatus was limited as a consequence of social factors.
+Although every subject in both groups was scored as present
+at the apparatus at least once, the percentage of intervals each
+subject spent at the apparatus varied widely from 52.9%
+(Quincy) to less than 0.1% (Beth; see Table 2). In six of the
+eight mother-offspring pairs, including those with infants less
+than a year old, correlations in the number of intervals at the
+apparatus over sessions were low (—.20 to +.27). Two mother-
+offspring pairs showed significant positive correlations: Alice
+with her 3-year-old daughter Quincy (a solver; .52) and Hansje
+(a solver) with her daughter Zola (6-10 months old; .66). The
+correlation between Alice and her son Ulysses was not signif-
+icant (—.20), nor was the correlation between the siblings
+Quincy and Ulysses.
+Solvers and nonsolvers did not differ significantly in most
+measures of general interest in the apparatus in the first block
+before solvers had achieved their first solution (see Table 3).
+The only significant difference between the groups was that
+solvers were alone on a greater percentage of intervals in
+which they were present at the apparatus than were nonsolvers
+(M = 45% for solvers vs. 24% for nonsolvers), /(10) = 2.45,
+p < .05. By the last block solvers were still present at the
+apparatus by themselves on a significantly greater proportion
+of intervals at the apparatus than nonsolvers (M = 40% for
+solvers vs. 15% for nonsolvers), /(10) = 3.07, p < .05. In the
+last block solvers were also at the apparatus on significantly
+more intervals than nonsolvers (M = 44% for solvers vs. 31 %
+for nonsolvers), t(\0) = 3.045, p < .02. Over all sessions
+nonsolvers were at the apparatus on 8% of intervals, and
+solvers on 29%, Wilcoxon z = 3.92, p < .001.
+Table 2
+Percentage of Intervals Present at the Nut Board and
+Rod Box
+Group and subject
+Group 1
+Ike
+Alice
+Beth
+Mercedes
+Fannv
+Jill
+Patti
+Quincy
+Rita
+Tere
+Ulysses
+Willy
+Viola
+Louisa
+Dixie
+Group 2
+Sherlock
+Hansje
+Greta
+Celia
+Nina
+Erna
+Osa
+Xavier
+Yves
+Zola
+Andrea
+Bruce
+Felicia
+Nut board
+24
+42
+1
+1
+1
+1
+2
+53"
+5
+1
+13
+25"
+3
+1
+4
+11
+29"
+9
+1
+1
+16a
+21a
+6
+4
+10
+3
+1
+1
+Rod box
+6
+47
+59°
+\"j
+25"
+18a
+1
+5
+15
+Note. Rod box was not scored by percentage of intervals present at
+the apparatus for Group 2: Osa did, however, solve this task.
+a Solver.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 5
+SOCIAL INFLUENCE IN CAPUCHINS 163
+Table 3
+Interest in the Apparatus in Four-Session Blocks
+Solvers
+Block and variable
+First
+% of intervals present
+No. of bouts
+Mean no. of intervals/bout
+% of intervals alone
+Last
+% of intervals present
+No. of bouts
+Mean no. of intervals/bout
+% of intervals alone
+Nut board
+M±SD
+25 ± 15
+22 ±8
+5.4 ± 1.9
+45 ± 10
+44 ±22
+25 ±8
+8 ± 5
+40 ± 18
+Rod box
+M±SD
+52 ±41
+19 + 6
+11.5 ±6.7
+36 ± 18
+26 ±22
+26+ 18
+4.2 ± 2.6
+40 ± 12
+Nonsolvers
+Nut board
+M+SD
+10 ± 10
+15 ± 10
+3.8 ± 1.7
+24*+ 16
+31** + 22
+29 + 8
+5.4 ±3.7
+15** ±9
+Rod box
+M+SD
+16 ±26
+9* ±4
+60.0 ±8.6
+11*+ 12
+14 ± 13.0
+21 + 20
+2.7+ 1.3
+48 + 36
+Note. An interval was 10 s.
+*p<.05. **/><.02.
+Exploratory behaviors. The solvers exhibited a variety of
+exploratory behaviors at the apparatus from the very first
+sessions. Aside from direct attempts to open the nuts by biting
+and slapping (which accounted for 52% of all intervals of
+interaction in the first block), the monkeys also performed
+behaviors that involved the tools or, less frequently, other
+objects placed in relation to the tools or to the nuts. In the
+first block these were performed by animals that would be-
+come solvers. Unsuccessful pounding occurred on an average
+of 10.6 intervals for each eventual solver in the first block.
+Other combinatorial behaviors (performed at one fifth the
+rate of unsuccessful pounding in the first block and only by
+eventual solvers) included probing straw and sticks into crev-
+ices of the apparatus and into opened shells (see Figure 3).
+Small objects were placed inside the opened nuts, placed
+inside of and then removed from the center of the metal tool,
+or inserted all the way through it if it was standing on edge.
+Only two nonsolvers performed any of these exploratory
+behaviors during all sessions (during a total of 5 bouts); each
+solver performed them in at least 1 bout prior to its first
+solution and in an average of 9 bouts overall.
+Figure 3. An adult female (Erna) probes an opened nut with a piece
+of straw.
+Acquisition of pounding. The pattern of acquisition of
+efficient pounding varied somewhat across solvers. Four
+seemed to have good aim after minimal practice; major
+improvements in efficiency were related to the strength of the
+blow and were achieved more slowly. The 5th solver used
+strong blows from the beginning but with very poor aim. No
+subject used the (inefficient) wooden block when attempting
+to pound except Quincy in the 5th session, before she had
+opened any nut.
+Social context of pounding and exploration. There is no
+evidence of facilitation of pounding in later solvers from
+observation of earlier solvers. The first solvers in each group
+did not pound at the apparatus with a tool before the session
+in which they first pounded a nut open. Later solvers in each
+group did pound lightly or without striking the nuts in 8 to
+10 bouts before their first solutions. During the presolution
+block the 3 later solvers pounded during an average of 10
+intervals while alone, 1 interval with a solver, and 6 intervals
+with nonsolvers. When Willy, the 2nd solver in Group 1, first
+opened a nut by pounding, Ike (an adult male) had opened
+several nuts in that session, and there was much activity at
+the board. Quincy, the 1st solver, had not pounded during
+any interval during which Willy was present and, in fact,
+never opened a nut that session. During the session in which
+the 2nd solver in Group 2 (Osa) first opened a nut, the 1st
+solver (Erna) did not open any nuts, and Erna pounded only
+once, when Osa was not present at the apparatus. The 3rd
+solver in Group 2 (Hansje) first opened a nut before Osa or
+Erna did so in that session; Hansje was not present when they
+had pounded earlier, and she pounded in that session only
+when Erna and Osa were not at the apparatus. At the time of
+their first solutions, all solvers except Willy were alone.
+Exploratory combinatorial behaviors were also performed
+independently of a model's behavior during all stages of
+acquisition and even after acquisition. Later solvers per-
+formed some of these before any solver exhibited pounding.
+Eighty-four percent of all combinatorial acts were performed
+while the subject was at the apparatus by itself. Of the 14
+performed by an individual before its acquisition of the so-
+lution, 12 occurred while the subject was alone. Even after
+the solution, most exploratory combinatorial behaviors oc-
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 6
+164 DOROTHY M. FRAGASZY AND ELISABETTA VISALBERGHI
+curred while the subject was alone (19 while alone and 10
+with others). These frequencies differ significantly from the
+frequencies expected from the overall percentage of intervals
+at the apparatus alone or with others, x2( 1, N = 43) = 5.25, p
+<.05.
+In short, immediate, direct imitation of a model's pounding
+open nuts did not occur. Neither was interest in the tools
+enhanced, pounding facilitated, or exploratory behaviors that
+involved combinations of objects at the apparatus facilitated.
+In fact, the data suggest that relevant exploratory behaviors
+were performed by several subjects not only independently
+but preferentially while alone.
+To test the hypothesis that solvers performed particular acts
+preferentially while alone, we compared the frequency with
+which solvers pounded when they were alone versus when
+they were at the apparatus with another animal. We used the
+percentage of intervals that solvers were present at the appa-
+ratus when alone and when they were present with another
+animal in the two conditions to derive expected frequencies
+for pound for each subject. Of the 3 solvers that pounded in
+the first block, 2 did so significantly more often than expected
+while alone, %2s(l, TV = 17 and 16) > 4.05, p < .044. The 3rd
+exhibited the same pattern (p = .07, N = 11).
+In the last block all solvers in Group 2 pounded more often
+while alone than expected, 1 significantly so, x20, N = 62) =
+4.53, p = .033. In Group 1, Quincy was shadowed by Alice
+and rarely alone at the apparatus in the last block. Willy (the
+youngest solver) pounded more often with another individual
+than expected in the last block, x2U, N = 75) = 12.00, p <
+.001. Willy frequently opened nuts but then did not even
+attempt to eat them, continuing instead to pound.
+Influence of solvers on nonsolvers. When the behavior of
+nonsolvers was examined in relation to the presence of solvers,
+again no pattern that suggested social facilitation of particular
+acts (such as pounding without a tool) was observed, nor was
+any effect on interest in the tool (see Table 4). Socially
+mediated enhancement of interest in the apparatus was evi-
+dent, however. In the first block all nonsolvers bit or explored
+the apparatus more often than expected while present with
+another (M = 8.2 intervals) and more often than while alone
+Table 4
+Mean Frequency of Acts per Nonsolver (N = 6) at the Nut
+Board Over Four-Session Blocks bv Social Context
+Social context
+Block
+With With With others
+Alone others solver and solver Sum
+First
+Present
+Bite
+Other exploratory
+Last
+Present
+Bite
+Other exploratory
+Investigate-consume
+17.0
+0.7
+3.5
+19.2
+1.8
+0.0
+8.7
+38.0
+7.5
+0.7
+23.5
+1.3
+0.0
+9.8
+na
+na
+na
+46.2
+2.3
+0.0
+27.7
+na
+na
+na
+61.8
+1.6
+0.0
+39.5
+55.0
+8.2
+4.2
+150.7
+7.0
+0.0
+85.7
+Note. Data are number of 10-s intervals of 480 total intervals.
+(M = 4.2 intervals). In the last block, 5 of 6 nonsolvers were
+active at the apparatus more often than expected while present
+with other nonsolvers, and nonsolvers were present or active
+at the apparatus most often with a solver.
+Once an animal had learned to open nuts, that animal's
+presence or behavior at the nut board appeared to serve as a
+cue for nonsolvers that nuts might be available. Indeed, Alice
+(Quincy's mother) rapidly approached the nut board when
+Quincy went to it. Quincy's and Willy's quiet activities did
+not seem to influence Ike, but he often ran to the nut board
+when pounding occurred. In Group 2, no individual shad-
+owed a solver in the way Alice shadowed Quincy, although
+the same pattern was evident. Solvers attracted other animals
+to the nut board, when the social conditions at the Board
+permitted, but the activity of the solvers with tools seemed
+irrelevant to the behavior of the others. The behavior of the
+4 yearlings (Louisa, Viola, Yves, and Zola) was similar in the
+two groups, although the 2 in Group 2 (Yves and Zola) were
+offspring of solvers, and the 2 in Group 1 (Louisa and Viola)
+were offspring of nonsolvers. Observation of solvers was not
+more influential for the younger animals than for the older
+animals.
+Discussion
+The 5 animals that learned to open nuts by pounding
+differed from those that did not in the level of interest they
+expressed in the apparatus (in the form of activity at the
+apparatus while alone) and in the variety of exploratory
+behaviors performed there. Rather than observing social fa-
+cilitation of exploration at the apparatus or imitation of novel
+behaviors, we found that solvers acquired efficiency in pound-
+ing while at the apparatus alone. Observation of others at the
+apparatus did not seem to affect the behaviors any observer
+directed toward the apparatus, whether the observer was a
+juvenile or an adult, or kin to the animal at the apparatus or
+not, or a solver or a nonsolver. The solver's pounding, how-
+ever, did attract others to the apparatus, where they were able
+to share the opened nuts.
+These findings do not indicate an important role for direct
+social transmission of instrumental behaviors (through obser-
+vational learning of a relationship or a new act or facilitation
+of a behavior already in the repertoire) in these monkeys.
+Social context was important, as expected, in determining
+access to the apparatus. Certain animals monopolized the
+apparatus; the presence of only certain others was tolerated
+by the monopolizers.
+We turn now to the second experiment, in which a rather
+different spatial arrangement of the apparatus restricted ac-
+cess, and in which a single tool was present. The task in the
+second experiment was similar, physically and conceptually,
+to a probing task that several of these monkeys could already
+solve (Westergaard & Fragaszy, 1987). Thus, the task in
+Experiment 2 was relevant to the question of social influence
+under the special circumstance in which some members of
+the group shared experience with using a tool in a related
+task.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 7
+SOCIAL INFLUENCE IN CAPUCHINS 165
+Experiment 2
+Results
+Interest in the apparatus. As in Experiment 1, the appa-
+ratus provided in Experiment 2 was attractive to the animals
+in each group over the entire period of testing. Overall, the
+rod box was visited on 89% of intervals in Group 1, exactly
+the same percentage as for the nut board (see Table 2). (Tallies
+for each animal in the group over all sessions were done only
+in Group 1.) As in Experiment 1, 5 monkeys eventually
+learned to operate the apparatus to obtain sunflower seeds. In
+this case, all the solvers were juveniles or subadults. The first
+solver in Group 1 was Quincy in Session 10, followed by
+Ulysses on Session 14, Rita on Session 19, and Willy on
+Session 25. The only solver in Group 2 was Osa, who first
+used the rod successfully on Session 17.
+In this task, unlike the nut board, the total number of
+intervals in which animals visited the apparatus was not
+significantly affected by the presence of one or more solvers.
+On average, nonsolvers in Group 1 were at the apparatus in
+fewer intervals over all sessions than solvers in their group
+and in proportions nearly identical to those observed in
+Experiment 1 (mean percentages of intervals at apparatus =
+28% for 4 solvers vs. 8% for all other adults and juveniles),
+Wilcoxon z = 4.37, p < .001. Variability across solvers in
+Group 1 in percentage of intervals at the apparatus over all
+sessions was greater in this task than with the nut board, with
+values ranging from 59% for Quincy to less than 1% for Rita.
+And as in Experiment 1, presence at the apparatus varied
+widely across nonsolvers in Group 1 (from <1% of intervals
+to 47%), although every animal visited the apparatus in two
+or more sessions.
+Correlations between mothers and their offspring in the
+number of intervals in which they were present at the appa-
+ratus over days were significantly positive in three of six cases
+(Alice with Ulysses, Alice with Quincy, and Mercedes with
+Willy). In all the significant correlations, the offspring was a
+solver. In the other mother-offspring pairs, neither member
+of the pair was a solver. The correlation for the same variable
+between Quincy and her sibling Ulysses was not significant.
+In the first block solvers differed from nonsolvers in two
+variables that reflected interest in the task (see Table 3). First,
+solvers were at the apparatus on more bouts than nonsolvers
+in the first block (M = 11.5 for solvers vs. 6.0 for nonsolvers),
+t(\ 1) = 2.943, p = .014. Second, as in Experiment 1, solvers
+were alone at the apparatus in the first block on a greater
+proportion of intervals than nonsolvers (M = 36% for solvers
+vs. 11% for nonsolvers), t(\ 1) = 2.843, p < .01. By the last
+block there were no significant differences between solvers
+and nonsolvers in general measures of interest in the appara-
+tus.
+Although solvers and nonsolvers did not differ in terms of
+presence at the apparatus, solvers displayed more frequent
+investigatory behaviors than nonsolvers. Hitting the box with
+a hand or an object, poking fingers into the cup and tube,
+and probing into the cup with the rod and other objects
+occurred, on average, in 22.4 intervals in the first block for
+each eventual solver versus in 1.3 intervals for each nonsolver.
+The difference in frequency of directed exploration was not
+as strongly predictive of later acquisition as it was in Experi-
+ment 1, however. One solver (Rita) performed very few
+exploratory acts before successfully probing. One nonsolver
+(Alice) performed many of these actions in the first four
+sessions. But after her daughter Quincy became a solver, Alice
+restricted her activities at the apparatus, only taking advantage
+of the food provided by Quincy's probing acts. Another
+nonsolver, Ike, occasionally investigated the rod when it re-
+mained lodged in the tube (chain end in) after Quincy had
+probed. He even pushed the rod in the correct direction in a
+few cases but never sufficiently far enough to activate the
+slider mechanism.
+Probing exploratory behavior. Solvers varied considerably
+in the pattern of exploratory attempts that preceded a solu-
+tion. Four of the 5 solvers engaged in frequent exploratory
+behaviors at the rod box before achieving solution. Two of
+these were the 1st solvers in their groups (Osa and Quincy).
+On the 1st session Quincy carefully explored the entire ap-
+paratus, repeatedly attempted to insert a straw directly into
+the sliding mechanism, and repeatedly attempted to probe
+into the tube with straw. By Session 4 she was probing into
+the tube with chow, exploring the rod, using the rod to probe
+into the food cup, and hitting the apparatus with the rod.
+During this period she continued to probe the cup and the
+tube with straw. On the 10th session she successfully used the
+rod to probe after several attempts in which she inserted the
+chained end of the rod, which made insertion more difficult.
+She continued to use the wrong end of the rod intermittently
+thereafter. Osa displayed less exploratory behavior than
+Quincy in the first few sessions but attempted to insert the
+rod much sooner (on Session 3). She also probed into the
+tube with other materials and used the rod to probe in the
+cup. Between Session 8 and Session 17, Osa exhibited few
+unusual behaviors at the apparatus. On Session 17, Osa first
+hit the rod box with the rod, then probed unsuccessfully, and
+a few minutes later probed successfully. She then continued
+to probe successfully during a good portion of all remaining
+sessions.
+Second solvers (Rita, Ulysses, and Willy, all in Group 1)
+had the opportunity to observe a solver and to obtain food
+provided by the solver's probing acts. They also had to com-
+pete with Alice (Quincy's mother and ever-present compan-
+ion) for access to the food and for proximity to the apparatus.
+Many animals did not attempt to go near the apparatus when
+Quincy and Alice were there together, but the 2 male juveniles
+Ulysses and Willy did. Ulysses exhibited less exploration than
+Quincy or Osa. On Session 11. after Quincy left the rod in
+the tube (where it stuck sometimes if she put the chained end
+in), Ulysses tried to probe. He attempted to probe the tube
+and the cup on subsequent sessions. On Session 14, he probed
+successfully within the first 2 min of the session, after no
+preliminary errors. Willy exhibited a similar pattern of direct
+exploration. He probed into the cup with the rod and straw
+in Session 3 and spent many intervals on later sessions poking
+into the cup and tube with his fingers. He also hit the box
+with the rod. Between Session 16 and Session 25, no unusual
+behaviors were noted, beyond the exploratory behaviors just
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 8
+166 DOROTHY M. FRAGASZY AND ELISABETTA VISALBERGHI
+mentioned. However, on Session 25, after one unsuccessful
+attempt at probing, he succeeded in the task. Both Ulysses
+and Willy probed intermittently after their first solutions, at
+times when Quincy left the apparatus.
+The 5th solver, Rita, displayed a different pattern than
+Ulysses or Willy. Rita was at the apparatus during only 20%
+of the sessions and for brief periods. She investigated the box
+for a few intervals on the 1st session. Then, after no interven-
+ing bouts, she was present at the apparatus for a total of 9
+intervals in Session 19, distributed in two bouts. In these brief
+periods she investigated the rod and in the second bout probed
+successfully twice. She collected food from her successful acts
+only the second time. She probed a few other times after this
+session, in each case during very brief bouts.
+Social context of probing and exploration. Significant dis-
+crepancies (reflected in chi-square analyses) in the distribution
+of activities at the apparatus as a function of social context
+were less frequent than in Experiment 1. During the first
+block, Quincy was the only solver to attempt to probe, except
+one attempt by Willy, and Quincy did these actions signifi-
+cantly more often while alone than while at the apparatus
+with another, \2(\, N = 16) = 15.43, p < .001. In the last
+block Quincy and Willy poked and hit the apparatus more
+often than expected while alone, but Quincy probed more
+often than expected while with others (primarily her mother,
+Alice). The others (Willy, Ulysses, and Osa) distributed prob-
+ing by social context as expected, except for Rita, who did
+not probe at all.
+The behavior of nonsolvers was affected more in the direc-
+tion of inhibition than facilitation while in the presence of
+others (see Table 5). Of the 7 nonsolvers, 5 investigated, hit,
+or poked the apparatus more often while alone than expected
+in the first block. Only 1 subject (Alice) did this often enough
+to permit analysis, and the difference between observed and
+expected values was significant in this case, x2(l, W = 26) =
+40.58, p < .001. The other 2 nonsolvers either did not
+investigate the apparatus in the first block (Tere) or did so
+only once (Ike) while with others. In the last block, Erna and
+Ike investigated the apparatus while alone significantly more
+often than expected by chance, x2s(l, N= 34 and 53) > 6.21,
+p < .004, both cases. The other nonsolvers investigated either
+rarely or as expected.
+Investigative behaviors by the 4 yearlings were more af-
+fected by social context than were those of the adults but were
+in the same direction. During the first block 2 of the 4 (Yves
+and Zola) were alone on more than half of their intervals at
+the apparatus. In the last block the two instances of directed
+exploration (hitting and probing into the cup) by animals in
+this age group occurred while the individuals were alone, and
+all 4 investigated the apparatus more frequently while alone
+than expected. The discrepancy between observed and ex-
+pected values was significant in 3 of the 4 individuals, x2s(l,
+N = 40, 50, and 81) > 4.32, p < .04, all three cases.
+Behavior with Osa removed. To determine if nonsolvers
+in Group 2 that rarely approached the apparatus would ap-
+proach and explore the apparatus more if it were not monop-
+olized by the single solver, Osa was removed during four
+sessions after the completion of regular testing. In the third
+session with Osa removed, there was more investigation of
+Table 5
+Mean Frequency of Acts per Nonsolver (N = 7) at the Rod
+Box Over Four-Session Blocks by Social Context
+Social context
+Block
+First
+Present
+Investigate
+Hit
+Poke
+Probe (unsuccessful)
+Last
+Present
+Investigate
+Hit
+Poke
+Probe (unsuccessful)
+Alone
+8.1
+8.1
+0.0
+0.3
+0.0
+25.7
+18.1
+0.6
+0.3
+0.3
+others
+67.4
+60.8
+0.4
+0.6
+0.0
+12.6
+7.6
+0.3
+0.0
+0.1
+solver
+na
+na
+na
+na
+na
+19.6
+5.1
+0.0
+0.0
+0.6
+and solver
+na
+na
+na
+na
+na
+0.1
+3.4
+0.0
+0.0
+0.0
+Sum
+75.5
+68.9
+0.4
+0.9
+0.0
+58.0
+34.2
+0.9
+0.3
+1.0
+Note. Data are number of 10-s intervals of 480 total intervals.
+the box by younger animals (Xavier and Zola), and Xavier
+even probed in the tube with the rod (unsuccessfully). On
+other sessions, however, there was even less activity at the
+apparatus than usual, and we did not pursue this procedure
+further.
+Behavior with many rods. A variation of the apparatus
+was presented at the end of regular sessions to both groups:
+Six loose rods were given in place of the tethered rod. This
+variation, like the previous one, was pursued to provide
+greater opportunity to animals other than the primary solver
+in Group 1 (Quincy) or the only solver in Group 2 to explore
+the apparatus with rods. The initial presentation of many rods
+in Group 1 produced a flurry of activity at the apparatus for
+the first 2 min of the session. Several nonsolvers carried rods
+from the room where they were presented into the other room
+and up to the apparatus and used them to probe in the cup
+and to push through the mesh of the cage. In the 3rd min
+Quincy probed successfully, and the regular pattern seen in
+previous sessions reappeared: Quincy probed, and Alice and
+Quincy together controlled access to the apparatus. Neverthe-
+less, more frequent exploratory actions at the apparatus (es-
+pecially probing in the cup) took place when many rods were
+present, and some other unusual actions were noted. One
+involved passive cooperation between Quincy and her mother
+Alice. Quincy frequently dropped the rod after probing, and
+the loose rod fell to the floor. Several times when this hap-
+pened (at least 5 times in the first session with many rods),
+Alice retrieved the rod and returned to the rod box. She did
+not attempt to use it, however, and instead allowed Quincy
+to take it (after which Quincy probed and they jointly collected
+food).
+Two nonsolvers in Group 1 (Tere and Ike) probed unsuc-
+cessfully, but with the correct orientation of the rod to the
+tube, during these sessions. Ike in particular engaged in several
+bouts of exploration of the apparatus, which included at-
+tempts to probe that failed because he did not insert the rod
+far enough to activate the slider. Twice he was seen to examine
+a rod for about 15-20 s, turning it over slowly from end to
+end and pausing intermittently to look toward Quincy as she
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 9
+SOCIAL INFLUENCE IN CAPUCHINS 167
+probed successfully. However, these episodes of exploration
+coupled with observation were not followed within the next
+few minutes by attempts to probe.
+The pattern of behaviors in Group 2 during sessions with
+many rods were similar to those in Group 1: Two nonsolvers
+probed unsuccessfully during these sessions (Xavier once and
+Erna several times). In both cases, they did not push the rod
+far enough into the tube. Erna also probed unsuccessfully
+with straw. It appeared that Ike and Erna, and perhaps Xavier
+and Tere, associated insertion of the rod in the tube with
+activation of the apparatus, but they did not perform the
+correct probing action vigorously enough.
+General Discussion
+Five monkeys living in social groups learned to open nuts
+by pounding them with a provided metal tool, and 5 monkeys
+(3 of which learned to solve both tasks) learned to use a rod
+to activate a machine that dispensed sunflower seeds. These
+monkeys included juveniles and adults, males and females.
+In both experiments, animals that learned to solve the task
+(solvers) showed greater interest in the apparatus than those
+that did not learn to solve the task (nonsolvers). The differ-
+ences were evident in terms of the proportion of samples in
+which the individual was present at the apparatus, and in
+which it was at the apparatus while alone. Differential interest
+in the task was associated with exploratory behaviors involv-
+ing the tools and objects in relation to the tools and apparatus
+in both experiments. In Experiment 1, solvers exhibited more
+instances than nonsolvers of combinatorial explorations of
+objects, including the tools, at the nut board. In Experiment
+2, 4 of 5 solvers exhibited more frequent exploratory probing
+actions at the rod box than most nonsolvers, but in this task
+the behavioral distinctions between eventual solvers and non-
+solvers was not as clear-cut. In fact, 1 solver used the tool
+correctly on its first bout of handling it. During sessions in
+which several rods were presented with the rod box, 4 non-
+solvers came close to solving the task, correctly orienting the
+tool in the box but not using sufficient force.
+All of the 5 solvers in the rod box task had used sticks
+previously to probe into an enclosed container to obtain
+yogurt or syrup (Westergaard & Fragaszy, 1987), as had 3 of
+the 4 nonsolvers that seemed close to solution in the last few
+sessions. On the other hand, several of the other nonsolvers
+also had used tools in the latter task, but this was not reflected
+in their behavior toward the rod box. Thus, experience with
+a probing tool may have facilitated acquisition of successful
+probing in the new task, but such experience was not suffi-
+cient.
+There was no evidence that observation of a skilled tool
+user led to direct imitation of an act, either in terms of
+behaviors exhibited while at the apparatus contempora-
+neously with a solver or in terms of changes in behavior across
+sessions before and after solvers were present. Nor was there
+evidence in Experiment 1 that the presence of solvers en-
+hanced the interest of nonsolvers in the tools or facilitated the
+performance of pounding, an action in the repertoire of all
+animals older than a few months (Fragaszy & Adams-Curtis,
+1987). Eventual solvers exposed to a solver did pound before
+solution, and this is consistent with a general facilitatory effect
+of observing a solver pounding. They did so, however, inde-
+pendently of the solver's immediate activities, and it is just as
+plausible that they began to pound as a consequence of their
+own explorations of the apparatus, rather than from watching
+a solver. We have no way to distinguish between these two
+possibilities with our data. Nor can we differentiate between
+early and later solvers in terms of initial interest in the task
+or the production of combinatorial acts at the apparatus. In
+short, the sources of individual differences in the timing of
+acquisition are not known.
+In Experiment 2, two different aspects of the results suggest
+that observation of solvers may have led to the recognition
+that an association between the tool and the apparatus was
+necessary to obtain seeds. One line of evidence concerns
+nonsolvers; the other, a solver. In later sessions 2 young
+nonsolvers (1 in each group), which rarely obtained access to
+the apparatus and had limited histories of exploration with it,
+used the tool correctly on a few occasions but without suffi-
+cient force. Two adult nonsolvers used the tool correctly more
+frequently but with the same deficit. These animals may have
+stumbled onto the correct orientation of the tool to the
+apparatus strictly on their own, but this seems improbable.
+There was no consequence from their own actions shaping
+their behavior to approximate correct use of the tool more
+closely. In fact, the food cup of the apparatus was a more
+probable target for probing if facilitation of probing occurred
+without influence on the target of the activity. The food cup
+was directly associated with food, and it was easy to put the
+rod into it. Moreover, the behavior of a solver, Rita, which
+used the tool correctly on her first try, is supportive of the
+suggestion that onlookers could learn something about the
+necessity of putting the rod in a particular place to operate
+the device. However, all of these animals had observed re-
+peatedly and experienced themselves the use of sticks as tools
+with the probing task used by Westergaard and Fragaszy
+(1987).
+If the observation of solvers aided recognition that a spatial
+relationship between tool and apparatus had to be obtained,
+the process is not a robust one. If it were, more animals would
+have become solvers in both experiments, and there would
+have been more partial attempts by nonsolvers. Instead, only
+some animals appeared to have generalized from past expe-
+rience with sticks as tools.
+In contrast to the weak evidence of social influence on
+instrumental activity, the nonsolvers' ability to use the solver's
+behavior as a cue that food would be forthcoming developed
+quickly. The exploitation of solver's activities by nonsolvers
+was a common feature in both experiments. Moreover, when
+an animal solved the task frequently, others sometimes aban-
+doned their own investigatory behaviors in favor of getting
+food procured by the solver.
+The minimal facilitatory effect of observation found in
+these studies is in general agreement with findings from
+previous studies that have investigated tool-using and prob-
+lem-solving behaviors in these monkeys. Many years ago,
+Thorndike (1911) found no evidence of spontaneous imita-
+tion between capuchins. Visalberghi (in press) observed that
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 10
+168 DOROTHY M. FRAGASZY AND ELISABETTA VISALBERGHI
+only two animals in a large group of capuchins spontaneously
+learned to pound open nuts by using a tool, even though
+numerous others watched with interest. Onlookers never at-
+tempted to pound, despite having access to both tools and
+nuts. In a study with a three-step mechanical puzzle (Adams-
+Curtis & Fragaszy, 1988), the activities of a solver at the
+apparatus were not associated with specific behavioral changes
+on the part of near observers, except for the occasional at-
+tempted theft of the raisin uncovered at the last step of the
+puzzle. The solver's presence at the puzzle apparatus influ-
+enced the amount of time juveniles (age peers of the solver)
+spent near the puzzle and the proportion of time near the
+puzzle that they spent contacting it. But in no case did an
+observer alter its behavior toward the puzzle in a way that
+indicated that observation of solution facilitated its acquisi-
+tion of the appropriate sequence of behaviors needed to solve
+the puzzle.
+The findings of exploitation, but little or no benefit from
+observation for acquisition of a novel skill, are similar to those
+reported by Giraldeau and LeFebvre (1987) in studies of social
+transmission of food-finding behaviors in pigeons. When birds
+observed a demonstrator that obtained food from a novel
+apparatus, they did not learn how to open the apparatus as
+long as they could scrounge from the demonstrator's food.
+When scrounging was prevented, observers did benefit from
+watching a demonstrator. In a flock those birds that initially
+solved the problem and obtained food got better at the task;
+those who scrounged simply followed the birds that could
+produce the food. It seems likely that prevention of scrounging
+may enhance the probability of observational influence on
+learning a novel instrumental behavior in capuchins.
+In addition to facilitation of a behavior or enhancement of
+interest in a place or an object, the potential consequences of
+social observation include inhibitory or disinhibitory effects
+and effects on general arousal (Bandura. 1986). The former
+concerns actions already in the animal's repertoire, such as
+pounding or poking, in this study. As we noted earlier, there
+was little evidence that performance of pounding or poking
+was facilitated in our study. The latter concerns activity level.
+Activity level was not assessed systematically in this study,
+but casual observations suggest that increased activity on the
+part of the observer is a likely consequence of observing
+another interacting with an object while displaying excitement
+(e.g., giving vocalizations associated with the arrival of food,
+moving quickly, and manipulating objects forcefully). In-
+creased activity, coupled with increased interest in an object,
+may increase the likelihood of independent discovery of the
+properties of objects or consequences of actions.
+The form of presentation of the task in these studies (for
+brief intermittent periods) probably worked against finding
+social enhancement of interest in specific places or objects.
+The solver and those tolerated by the solver could monopolize
+the task and restrict other animals' opportunities for explo-
+ration after the observation. More extended presentations of
+a different tool-using task did result in a larger proportion of
+capuchins in a social group's learning to solve the task (Wes-
+tergaard & Fragaszy, 1987). However, it was not possible to
+attribute changes in the behavior of individual animals over
+sessions to observations of another at the apparatus rather
+than to practice alone.
+The propensity to show increased interest in objects, and
+possibly to learn about objects and relations between objects
+by watching others interacting with them, may be muted in
+capuchins by demands for social vigilance and the mainte-
+nance of spacing between animals. In these studies only a few
+(younger) animals were tolerated freely at either apparatus.
+Other animals obtained access to the apparatus only when
+certain others were not present. Kinship was not a guarantee
+of access to a resource held by one's mother or sibling.
+The data available now on the acquisition of tool-using
+behaviors in groups of capuchins all point to one or more
+severe constraints in the social transmission of novel instru-
+mental behaviors. Nevertheless, the suggestive observations
+from a previous study (Westergaard & Fragaszy, 1987) of a
+mother's allowing her infant to perform the tool-using act
+with her and sharing in the obtained goods and the subsequent
+smooth acquisition of the behavior by the infant still pique
+our interest in the capacity of capuchins to learn from each
+other. It seems that there could be enabling social circum-
+stances, which may be rarely achieved, for social influence to
+occur in an unambiguous form. Perhaps one prerequisite is
+coaction. Observation alone may not be sufficient for social
+learning of instrumental skills in these monkeys. Coaction or
+immediate practice enhance the efficacy of observation to
+affect motor skills in humans (Carroll & Bandura, 1985). It
+can be expected to play as great a role in nonhumans, for
+which representational abilities are presumably more limiting.
+Perhaps also observation or coaction with the task must
+occur at certain points in the acquisition process for it to be
+effective. Vygotsky's conception of the "zone of proximal
+development" seems relevant to the learning of a new skill
+through coaction, as it does to generalization of a skill from
+one context to another through observation of another's using
+the skill in the new context (Rogoff & Wertsch, 1984). In
+humans the efficacy of observation on the acquisition of a
+new variant of a skill is related to the skill level of the observer
+at the time the new skill is modeled (Bandura, 1986). It is no
+doubt too much to expect that observation have equivalent
+effects regardless of what the subject (of any species) under-
+stands about the task.
+However, social observation may have the effect of maxi-
+mizing the repertoire of behavior developed by each animal
+through the effects of observation on interest in objects or
+places and, perhaps, on level of activity. Possible conse-
+quences of social observation deserve continued study, partic-
+ularly in young animals, which have the greatest potential to
+show an increase in repertoire as a consequence of watching
+or being with others.
+Social transmission of instrumental behaviors is assumed
+or suspected to occur in wild chimpanzees (McGrew, Tutin,
+& Baldwin, 1979; Nishida, 1986), in contrast to its apparent
+absence in wild capuchins. Yet in captivity both these genera
+exhibit frequent tool-using behaviors. We suggest that the
+differences between the genera in the frequency with which
+socially transmitted behaviors are observed in the wild can
+reflect the influence of social constraints in capuchins. The
+instrumental behaviors of wild chimpanzees most frequently
+mentioned as potentially socially transmitted (e.g., dipping
+for ants, fishing for termites; McGrew, 1977) are behaviors
+that infants learn over a long period while near their mothers,
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 11
+SOCIAL INFLUENCE IN CAPUCHINS 169
+away from other members of the social group. They have the
+opportunity in these instances to coact with their mothers,
+and their mothers are clearly not threatened by the infants'
+attempts to sample their foods or manipulate their tools. This
+set of circumstances makes social transmission through coac-
+tion, practice, and enhancement of interest in objects more
+likely than in group-housed capuchins, where mothers and
+infants, and all other dyads, are almost always influenced by
+other animals nearby, and where extensive opportunities for
+coaction are limited. We also point out that many effective
+innovations that involve the use of tools in wild chimpanzees
+and do not have a coactive element are not transmitted
+socially, even after repeated modeling (cf. Kummer & Good-
+all, 1985). The use of cans to produce an impressively noisy
+display by a male chimpanzee is a good example (Goodall,
+1971). This behavior, observed intently by many other chim-
+panzees, did not spread in the group. A recent study that
+assessed the ability of young chimpanzees to learn a tool-
+using behavior through observation likewise produced no
+substantive evidence of imitation (Tomasello et al., 1987).
+The great attention given to possible instances of social trans-
+mission can lead to a distorted perception of the frequency of
+this kind of learning in chimpanzees (and other genera) and
+of its contribution to their behavioral repertoire.
+Discerning the conditions that support the acquisition of
+novel behaviors in various genera is a challenge. It is worth
+undertaking, however, in order to develop a truly comparative
+understanding of the impressive human ability to learn from
+others. This requires an appreciation of the social factors that
+facilitate the process, as well as of the characteristics of the
+individual who may profit from observation and from asso-
+ciation with others.
+References
+Adams-Curtis, L. E., &Fragaszy, D. M. (1988). Behavior by capuchin
+monkeys (Cebus apella) toward a sequential puzzle. Unpublished
+manuscript.
+Antinucci, F., & Visalberghi, E. (1986). Tool use in Cebus apella: A
+case study. International Journal of Primatology, 7, 349-361.
+Bandura, A. (1986). Social foundations of thought and action. Engle-
+wood Cliffs, NJ: Prentice-Hall.
+Beck, B. (1976). Tool use by captive pigtailed macaques. Primates,
+17, 301-310.
+Bierens de Haan, J. A. (1931). Werkzeuggebrauch und Werkzeugh-
+erstellung bei einum Niedieren Affen (Cebus hypoleucus Humb)
+[Use and manufacture of tools by a capuchin monkey.] Zeitschrift
+fur vergleichende Physiologic, 13, 639-695.
+Boinski, S. (1988). An attack by Cebus capucinus on a poisonous
+snake (Bothrops asper) using a branch as a club. American Journal
+of Primatology, 14, 177-179.
+Box, H. O., & Fragaszy, D. M. (1986). The development of social
+behavior and cognitive abilities. In J. Else & P. Lee (Eds.), Primate
+ontogeny, cognition, and social behavior (pp. 119-128). Cambridge,
+United Kingdom: Cambridge University Press.
+Carroll, W. R., & Bandura, A. (1985). Role of timing of visual
+monitoring and motor rehearsal in observational learning of action
+patterns. Journal of Motor Behavior, 17, 269-281.
+Chamove, A. S. (1974). Failure to find observational learning. Journal
+of Behavioral Science, 2(2), 39-41.
+Cook, M., Mineka, S., Wolkenstein, B., & Laitsch, K. (1985). Obser-
+vational conditioning of snake fear in unrelated rhesus monkeys.
+Journal of Abnormal Psychology, 94, 591-610.
+Cooper, L. R., & Harlow, H. F. (1961). Note on a cebus monkey's
+use of a stick as a weapon. Psychological Reports, 8, 418.
+Curio, E., Ernst, V., & Vieth, W. (1978). Cultural transmission of
+enemy recognition: One function of mobbing. Science, 202, 899-
+901.
+Darby, C., & Riopelle, A. (1959). Observational learning in the rhesus
+monkey. Journal of Comparative and Physiological Psychology,
+52, 94-98.
+Darwin, E. (1794). Zoonomia or, the laws of organic life (Vol. 1).
+London: J. Johnson, in St. Paul's Church-Yard.
+Fragaszy, D. M., & Adams-Curtis, L. (1987, August). Manipulative
+behavior in tufted capuchins (Cebus apella): Development and social
+context. Paper presented at the International Ethological Congress,
+Madison, WI.
+Galef, B. G., Jr. (1977). Mechanisms for the social transmission of
+acquired food preferences from adult to weanling rats. In L. Barker,
+M. Best, & M. Domjan (Eds.), Learning mechanisms in food
+selection (pp. 123-150). Waco, TX: Baylor University Press.
+Galef, B. G., Jr. (1987, August). Tradition and social learning: De-
+scription of subpopulation-typical patterns of behavior and analyses
+of their development. Paper presented at the International Etholog-
+ical Congress, Madison, WI.
+Galef, B. G., Jr. (1988). Imitation in animals: History, definition, and
+interpretation of data from the psychological laboratory. In T.
+Zentall & B. G. Galef, Jr. (Eds.), Social learning: Psychological and
+biological perspectives (pp. 3-28). Hillsdale, NJ: Earlbaum.
+Galef, B. G., Jr., & Clarke, M. (1971). Social factors in the poison
+avoidance and feeding behavior of wild and domesticated rat pups.
+Journal of Comparative and Physiological Psychology, 75, 341-
+357.
+Gandolfi, G., & Parisi, V. (1973). Ethological aspects of predation by
+rats, Rattus norvegicus (Berkenhout), on bivalves Unio pictorum L.
+and Cerastoderma lamarcki (Reeve). Bollettino di Zoologia, 40,
+69-74.
+Giraldeau, L. A., & LeFebvre, L. (1987). Scrounging prevents cultural
+transmission of food-finding behavior in pigeons. Animal Behav-
+iour, 35, 387-394.
+Goodall, J. (1971). In the shadow oj man. London: Collins.
+Hamilton, W. J., Buskirk, R. E., & Buskirk, W. H. (1978). Environ-
+mental determinants of object manipulation by chacma baboons
+(Papio ursinus) in two southern African environments. Journal of
+Human Evolution, 7, 205-216.
+Harlow, H. F. (1951). Primate learning. In C. P. Stone (Ed.), Com-
+parative psychology (pp. 183-238). New York: Prentice-Hall.
+Kellogg, W. N., & Kellogg, L. A. (1933). The ape and the child. New
+York: McGraw-Hill.
+Kluver, H. (1933). Behavior mechanisms in monkeys. Chicago: Uni-
+versity of Chicago Press.
+Kummer, H., & Goodall, J. (1985). Conditions of innovative behav-
+iour in primates. Philosophical Transactions of the Royal Society,
+London, 308, 203-214.
+Mahan, T. L., Jr., & Rumbaugh, D. M. (1963). Observational learning
+in the squirrel monkey. Perceptual and Motor Skills, 17, 686.
+McGrew, W. C. (1977). Socialization and object manipulation of
+wild chimpanzees. In S. Chevalier-Skolnikoff & F. E. Poirier (Eds.),
+Primate bio-social development (pp. 261-288). New York: Garland
+Publishing.
+McGrew, W. C., Tutin, C. E., & Baldwin, P. J. (1979). Chimpanzees,
+tools, and termites: Crosscultural comparisons of Senegal, Tanza-
+nia, and Rio Muni. Man, 14, 185-214.
+Nishida, T. (1986). Local traditions and cultural transmission. In B.
+Smuts, D. Cheney, R. Seyfarth, R. Wrangham, & T. Struhsaker
+(Eds.), Primate societies (pp. 462-474). Chicago: University of
+Chicago Press.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.
+
+PDF PAGE 12
+170 DOROTHY M. FRAGASZY AND ELISABETTA VISALBERGHI
+Palameta, B., & LeFebvre, L. (1987, August). Culturally transmitted
+foraging behavior in pigeons: Learning mechanisms and ecological
+correlates. Paper presented at the International Ethological Con-
+gress, Madison, Wl.
+Payne, R. B. (1987, August). Cultural transmission of song traditions
+in birds. Paper presented at the International Ethological Congress,
+Madison, WI.
+Rogoff, B., & Wertsch, J. (1984). Children's learning in the "Zone of
+Proximal Development. "San Francisco: Jossey-Bass.
+Romanes, G. J. (1883). Animal intelligence. New York: Appleton.
+Terborgh, J. (1983). Five New World primates. Princeton, NJ: Prince-
+ton University Press.
+Thorndike, E. L. (1911). Animal intelligence. New York: Macmillan.
+Tomasello. M., Davis-Dasilva, M., Camak, L., & Bard, K. (1987).
+Observational learning of tool-use by young chimpanzees. Journal
+of Human Evolution, 2, 175-183.
+Vevers, G., & Weiner. J. (1963). Use of a tool by a captive capuchin
+monkey (C'ebus apella). Symposium of the Zoological Society of
+London, JO, 115-118.
+Visalberghi, E. (in press). The acquisition of nut-cracking behavior in
+two capuchin monkeys groups (C'ebus ape/la). Folia Primatologica.
+Visalberghi, E., & Fragaszy, D. M. (1988). Food-washing behavior in
+capuchins and crab-eating macaques. Manuscript submitted for
+publication.
+Visalberghi, E., & Fragaszy. D. M. (in press). Do monkeys ape? In S.
+Parker & K. Gibson (Eds.), Comparative developmental psychology
+of language and intelligence in primates. New York: Cambridge
+University Press.
+Wechklin, S. (1970). Social relationships and social facilitation of
+object manipulation in Macaco mulatto. Journal of Comparative
+and Physiological Psychology, 73, 456-460.
+Werner, T., & Sherry, T. (1987). Behavioral specialization in Pina-
+roloxias inornata, the "Darwin's Finch" of Cocas Island, Costa
+Rica. Proceedings of National Academy of Science of the United
+States of America, 84, 5506-5510.
+Westergaard, G. C. & Fragaszy, D. M. (1987). The manufacture and
+use of tools by capuchin monkeys (Cc'bus apella). Journal of
+Comparative Psychology, 101. 159-168.
+Zentall, T. R.. & Galef. B. G.. Jr. (Eds.). (1988). Social learning:
+Psychological and biological perspectives. Hillsdale, NJ: Erlbaum.
+Received June 13, 1988
+Revision received October 12, 1988
+Accepted October 13, 1988
+Low Publication Prices for APA Members and Affiliates
+Keeping You Up-to-Date: All APA members (Fellows; Members; and Associates, and Student Affiliates)
+receive—as part of their annual dues—subscriptions to the American Psychologist and the APA Monitor.
+High School Teacher and Foreign Affiliates receive subscriptions to the APA Monitor and they can subscribe
+to the American Psychologist at a significantly reduced rate.
+In addition, all members and affiliates are eligible for savings of up to 50% on other APA journals, as well as
+significant discounts on subscriptions from cooperating societies and publishers (e.g., the British Psychological
+Society, the American Sociological Association, and Human Sciences Press).
+Essential Resources: APA members and affiliates receive special rates for purchases of APA books,
+including the Publication Manual of the APA, the Master Lectures, and APA's Guide to Research Support.
+Other Benefits of Membership: Membership in APA also provides eligibility for low-cost insurance
+plans covering life; medical and income protection; hospital indemnity; accident and travel; Keogh retirement;
+office overhead; and student/school, professional, and liability.
+For more information, write to American Psychological Association, Membership Services,
+1200 Seventeenth Street NW, Washington, DC 20036, USA.
+This document is copyrighted by the American Psychological Association or one of its allied publishers.
+This article is intended solely for the personal use of the individual user and is not to be disseminated broadly.
+All rights, including for text and data mining, AI training, and similar technologies, are reserved.

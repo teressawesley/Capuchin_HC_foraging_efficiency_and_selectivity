@@ -1,0 +1,1318 @@
+PDF PAGE 1
+Review
+Nut Consumption and Fertility: a Systematic Review and
+Meta-Analysis
+Barbara R. Cardoso 1,2,*, Izabella Fratezzi 1, Nicole J. Kellow 1, 3, **
+1 Department of Nutrition, Dietetics and Food, Monash University, Victoria, Australia; 2 Victorian Heart Institute, Monash University, Clayton,
+Victoria, Australia; 3 Centre for Innate Immunity and Infectious Diseases, Hudson Institute of Medical Research, Clayton, Victoria, Australia
+ABSTRACT
+The high concentration of omega-3 polyunsaturated fats, dietary ﬁbers, vitamins, minerals, and polyphenols found in nuts suggest their
+regular consumption may be a simple strategy for improving reproductive health. This systematic review and meta-analysis aimed to present
+up-to-date evidence regarding the association between nut intake and fertility outcomes in males and females. Ovid MEDLINE, Embase,
+CINAHL, and Scopus were searched from inception to 30 June 2023. Eligible articles were interventional or observational studies in human
+subjects of reproductive age (18 –49 y) that assessed the effects (or association) of dietary nut consumption (for a minimum of 3 mo) on
+fertility-related outcomes. Random-effects meta-analyses were completed to produce a pooled effect estimate of nut consumption on sperm
+total motility, vitality, morphology, and concentration in healthy males. Four studies involving 875 participants (646 males, 229 females)
+were included in this review. Meta-analysis of 2 RCTs involving 223 healthy males indicated consumption of /C21 60g nuts/d increased sperm
+motility, vitality, and morphology in comparison to controls but had no effect on sperm concentration. Nonrandomized studies reported no
+association between dietary nut intake and conventional sperm parameters in males, embryo implantation, clinical pregnancy or live birth in
+males and females undergoing ART. Our meta-analysis shows that including at least 2 servings of nuts daily as part of a Western-style diet in
+healthy males improves sperm parameters, which are predictors of male fertility. Due to their nutritional pro ﬁle, nuts were found to have
+potential to promote successful reproductive outcomes.
+This trial was registered at PROSPERO (CRD42020204586).
+Keywords: nuts, diet, fertility, male infertility, female infertility, sperm quality
+Introduction
+Infertility is a condition characterized by the failure to ach-
+ieve a clinical pregnancy after 12 mo of regular and unprotected
+sexual intercourse [ 1]. Infertility affects multiple areas of a
+couple’s life and can have devastating long-term social, psy-
+chological, and ﬁnancial consequences [ 2]. It is estimated that
+between 8 and 12% of reproductive-aged couples in the world
+are affected by infertility [ 1]. Furthermore, infertility in females
+of reproductive age has been estimated to affect 1 in every
+Statement of Signi ﬁcance
+This ﬁrst-of-its-kind systematic review and meta-analysis shows that daily consumption of at least 2 servings of nuts (60 g) daily improves
+semen quality in healthy males. We discuss the main potential mechanisms involved in such bene ﬁts and point directions for future research.
+Abbreviations: ALA, alpha-linolenic acid; ART, assisted reproductive technologies; FFQ, food frequency questionnaire; FSH, follicle stimulating hormone; ICSI ,
+intracytoplasmic sperm injection; IVF, in vitro fertilization; LH, luteinizing hormone; MedDiet, Mediterranean diet; PCOS, polycystic ovarian syndrome; RoB 2, Risk of
+Bias 2 tool for randomized trials; ROBINS-I, Risk of Bias in Nonrandomized Studies –of Interventions; SHBG, sex hormone binding globulin; ROS, reactive oxygen
+species; SMD, Standardized Mean Difference; SOD, superoxide dismutase; STIs, sexually transmitted infections.
+* Corresponding author.
+** Corresponding author. E-mail addresses: barbara.cardoso@monash.edu (B.R. Cardoso), nicole.kellow@monash.edu (N.J. Kellow).
+journal homepage: https://advances.nutrition.org/
+https://doi.org/10.1016/j.advnut.2023.100153
+Received 14 July 2023; Received in revised form 18 September 2023; Accepted 13 November 2023; Available online 17 November 2023
+2161-8313/© 2023 The Authors. Published by Elsevier Inc. on behalf of American Society for Nutrition. This is an open access article under the CC BY license ( http://
+creativecommons.org/licenses/by/4.0/).
+Advances in Nutrition 15 (2024) 100153
+
+PDF PAGE 2
+7 couples in Western countries and 1 in every 4 couples in
+developing countries, reaching rates as high as 30% [ 3]. Male
+infertility rates are reported to be highest in Africa and Cen-
+tral/Eastern Europe, whereas rates for North America, Australia,
+and Central and Eastern Europe vary from 4.5 to 12% [ 4].
+Common factors that negatively affect a couple ’s ability to
+successfully conceive a child include advanced maternal and/
+or paternal age, malnutrition, endocrine disorders such as
+obesity or polycystic ovarian syndrome (PCOS), complications
+associated with untreated sexually transmitted infections (STIs),
+and sperm production abnormalities. However, in 10 to 15% of
+cases, the etiology of infertility remains unknown [ 5]. Although
+assisted reproductive technologies (ART) are a common treat-
+ment option for subfertility, not all affected couples can afford it.
+The average cost of a standard in vitro fertilization (IVF) cycle
+was estimated at U$19,200 in the United States [ 6], although
+this amount can signi ﬁcantly vary across countries [ 7]. Consid-
+erable economic, racial, ethnic, geographic, and cultural dis-
+parities in access to fertility treatments also exist [ 8]; thus,
+research aiming at maximizing natural fertility is of utmost
+importance.
+Emerging scienti ﬁc efforts focus on identifying modi ﬁable
+factors that affect fertility, such as diet and other health behav-
+iors. The literature in this ﬁeld has greatly expanded over the last
+decade, recognizing some dietary patterns associated with
+higher reproductive potential. The most studied dietary pattern
+regarding fertility is the Mediterranean diet (MedDiet), which is
+characterized by the high intake of mono and polyunsaturated
+fats from ﬁsh and olive oil, and high consumption of fruits,
+vegetables, whole grains, legumes, and nuts, and moderate
+alcohol consumption [ 9]. Observational prospective cohort
+studies have demonstrated that adherence to this diet has been
+associated with a larger number of embryos available, fertilized
+oocytes, and embryo yield in infertile females undergoing IVF
+treatment [10], as well as increased probability of pregnancy in
+females undergoing IVF/intracytoplasmic sperm injection (ICSI)
+treatment [ 11–13]. In males, evidence from cross-sectional
+studies shows that MedDiet consumption is associated with
+increased sperm concentration, total sperm count, and total and
+progressive motility [ 14, 15]. Further, Gaskins et al. [ 16]
+designed the Pro-Fertility diet based on foods and nutrients
+previously related to ART outcomes aiming to maximize fema-
+les’s fertility. Despite some similarities with the MedDiet, the
+Pro-Fertility diet emphasizes the importance of speci ﬁc nutrients
+such as folic acid, B12, and vitamin D, necessary for optimal fetal
+development, as well as the low exposure to pesticides by
+prioritizing low-pesticide fruits and vegetables. In an observa-
+tional study, they found that high adherence to this dietary
+pattern was associated with higher probability of implantation,
+clinical pregnancy, and live birth, whereas no associations were
+observed for estradiol trigger levels, endometrial thickness, total
+or mature oocyte yield, or number of embryos [ 16]. Nonetheless,
+observational studies report con ﬂicting evidence regarding the
+association between adherence to the Pro-Fertility diet and
+markers of ovarian reserve [ 17, 18], demonstrating the
+complexity of the modi ﬁable factors on fertility.
+Although the studies that aim to establish a relationship be-
+tween dietary patterns and fertility outcomes can provide
+insightful information, they may also represent a challenge to
+those who have very distinct dietary habits. Thus, identifying the
+beneﬁts of particular foods can elucidate dietary strategies that
+are easier to implement. Nuts can be a strong ally for fertility
+management given their nutritional pro ﬁle, characterized by a
+high ratio of omega-3: omega-6 fatty acids, low concentration of
+saturated fats, and large concentration of proteins, ﬁbers, vita-
+mins, minerals, and bioactive compounds with potential redox
+action [19]. The beneﬁts of nut intake have been associated with
+reduced risk of different chronic diseases such as diabetes
+[20–22
+], cognitive impairment [23], and cardiovascular diseases
+[24, 25]. Given the importance of diet as a modi ﬁable factor to
+reduce infertility, this systematic review and meta-analysis aims
+to present up-to-date evidence regarding the role of nutrition in
+fertility, focusing on nuts as a key component to improve
+reproductive health. We further discuss the potential mecha-
+nisms regulated by nuts that are involved in fertility.
+Methods
+Study identi ﬁcation
+The aim of this review was to synthesize the outcomes of
+published human studies investigating the effect of dietary nut
+consumption on fertility. This review was conducted in accor-
+dance with the PRISMA statement [ 26] and was prospectively
+registered on a systematic literature review registration website
+(PROSPERO, Registration No. CRD42020204586). Research
+literature databases Ovid MEDLINE, Scopus, CINAHL, and
+Embase were searched from database inception to 30 June 2023.
+The PICOS framework used was Population: males and females
+of reproductive age (for the purpose of this review, “reproductive
+age” was de ﬁned as adults aged 18 –49 y); Intervention: Nut
+consumption; Comparator: no or low nut consumption;
+Outcome: biochemical fertility markers, clinical pregnancy or
+live birth, Study design: all study types (cross-sectional,
+case-control, cohort, and RCTs). Studies were included if pub-
+lished in either English or Spanish and involved human partici-
+pants. All databases were searched using the terms: Adult* AND
+(Diet OR Nuts OR “Prunus Dulcis” OR Almond* OR Anacardium
+OR Cashew* OR Corylus OR Hazelnut* OR Pistacia OR
+Pistachio* OR Juglans OR Walnut* OR Carya OR Pecan* OR
+Arachis OR Peanut* OR Pinus OR ‘Pine nut*’ OR Bertholletia OR
+‘Brazil nut* ’) AND (Pregnancy OR ‘Live Birth ’ OR Fertility OR
+Infertility OR Fecundity OR ‘Sperm quality ’ OR ‘Semen quality ’
+OR ‘Sperm concentration ’ OR ‘Sperm motility ’ OR ‘Sperm DNA
+fragmentation’ OR embryo* OR ‘embryo morphology ’ OR
+oocyte*). The full search strategy is presented in Supplemental
+Table 1 . Studies with a cross-sectional, case-control, cohort, or
+clinical trial study design, which recruited human subjects of
+reproductive age, assessed dietary nut consumption for a mini-
+mum of 3 mo, and measured any fertility-related outcomes were
+eligible for inclusion. Duration of nut consumption for a mini-
+mum of 3 mo was chosen as a criterion for inclusion in this re-
+view as it takes up to 76 d (2.5 mo) for sperm cell maturation
+[27], and therefore nut consumption was required to be main-
+tained during this timeframe. Excluded trials involved human
+participants outside of reproductive age ( <18 y or >49 y), did
+not quantify dietary nut intake, only quanti ﬁed dietary nut
+intake when grouped together with other foods (e.g., seeds,
+beans, soy products) or assessed nut consumption for less than 3
+mo, were animal, ecological or in vitro studies, or measured
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+2
+
+PDF PAGE 3
+outcomes which were unrelated to fertility. Reference lists of
+selected studies and reviews were manually searched to sup-
+plement the electronic search.
+Screening and eligibility
+All resultant references were imported into a systematic re-
+view screening and data extraction software program (Covidence
+Systematic Review Software, Veritas Health Innovation), which
+was used to screen studies and identify those meeting the pre-
+speciﬁed inclusion criteria. The Covidence program automati-
+cally identiﬁed and eliminated duplicate articles. During the ﬁrst
+pass, article titles and abstracts were screened by 2 of the listed
+authors (IF, NJK, BRC) independently to determine their suit-
+ability for inclusion. Selected studies then underwent full-text
+screening, which was also conducted by 2 of the listed authors
+(IF, NJK, BRC) independently. Con ﬂicts were resolved by dis-
+cussion until consensus was reached. On completion of
+screening, the PRISMA Flowchart was automatically generated
+by the Covidence program.
+Risk of bias assessment and data extraction
+Risk of bias in eligible studies was independently assessed by
+2 separate authors (NJK and BRC) using either the Cochrane Risk
+of Bias 2 tool for randomized trials (RoB 2) [ 28] or risk of Bias in
+Nonrandomized Studies –of Interventions (ROBINS-I) tool [ 29].
+The RoB 2 tool identi ﬁes potential sources of bias within RCTs
+based on a set of 5 domains, including bias arising from the
+randomization process, deviations from intended interventions,
+incomplete outcome data, outcome measurement bias, and se-
+lective reporting of results. Risk of bias for each RCT was
+designated as either “low risk,”“ some concerns,” or “high risk.”
+Studies that were assigned as “low risk ” for all 5 items were
+considered to have an overall low risk of bias; studies assigned
+“some concerns” for /C21 1 items (in the absence of any “high risk”
+items) were considered to have some concerns regarding their
+risk of bias, whereas studies allocated /C21 1 “high risk” items were
+designated as having a high risk of bias overall. The ROBINS-I
+tool identi ﬁes potential biases within nonrandomized studies
+based on a set of 7 domains, including confounding, selection of
+participants, classi ﬁcation of interventions, deviations from
+intended interventions, incomplete outcome data, outcome
+measurement bias, and selective reporting of results. Risk of bias
+for each study was classi ﬁed as either “no information, ”“ low
+risk,”“ moderate risk, ”“ serious risk, ” or “critical risk. ” Studies
+assigned “moderate risk ” for /C21 1 items (in the absence of any
+“serious risk” or “critical risk” items) were considered to have an
+overall moderate risk of bias, whereas studies allocated /C21 1
+“serious risk ” items were designated as having a serious risk of
+bias overall. Inconsistencies between the authors' risk of bias
+assessments at the study level were resolved through active
+discussion until consensus was reached.
+Upon completion of screening and risk of bias assessments, data
+were independently extracted from each article by all authors
+using a data collection table. Data collected included ﬁrst author,
+year of publication, country in which the trial was conducted,
+mean age of participants (y), gender of participants (female or
+male), mean body mass index (BMI) of participants (kg/m
+2), type
+of nuts consumed, quantity of nuts consumed, methodology used
+to assess nut intake, length of the intervention/study, rate of
+follow-up and the fertility outcomes measured.
+Statistical analysis
+A meta-analysis was carried out for the outcomes available in
+the RCTs: sperm total motility, sperm morphology, sperm vitality,
+and sperm concentration. Semen quality outcomes were sub-
+jected to a random-effects model meta-analyses using Review
+Manager (RevMan) (Version 5.1. Copenhagen: The Nordic
+Cochrane Centre, The Cochrane Collaboration, 2014). Using
+change data for control and intervention groups, the standardized
+mean difference (SMD) was determined for each outcome with
+95% con ﬁdence intervals (CIs). SMD values of 0.2, 0.5, and 0.8
+were considered to represent small, moderate, and large effect
+sizes, respectively [ 30]. Where the manuscript provided median
+and IQR values, the mean and standard deviation were estimated
+using the method of McGrath (2020) [ 31]. Results were com-
+bined for each outcome, and data were tested for interstudy
+heterogeneity using the Cochrane Q statistic and quanti ﬁed by
+the I
+2 statistic with P < 0.10. An I 2 > 50% was considered sub-
+stantial heterogeneity.
+Results
+Study selection
+The initial search resulted in 11,691 articles (after removal of
+duplicates), of which 11,634 were excluded upon initial
+screening for not meeting inclusion criteria. The remaining 57
+papers were comprehensively assessed for eligibility, with 53
+being excluded for the following reasons: not human trials, not
+available in English or Spanish, did not include a target outcome,
+not a relevant intervention, and insuf ﬁcient detail of dietary
+intervention. All studies screened speci ﬁed a dietary intake
+assessment timeframe, and no studies were found that collected
+dietary intake information for a duration of < 3 mo. During the
+title, abstract, and full-text screening phases, no con ﬂicts be-
+tween reviewers occurred (interrater agreement was 100%).
+Four studies involving 875 (646 males, 229 females) participants
+fulﬁlled the inclusion criteria and were included in the system-
+atic review, and 2 of the 4 studies were included in the meta-
+analysis ( Figure 1 ).
+Study characteristics
+Two of the studies included in this review were RCTs with
+parallel dietary interventio ns, collectively involving 223
+healthy males. Both studies targeted males within a similar age
+range (overall 18 –35 y) who reported consuming a typical
+Western-style diet. Robbins et al. [ 32]p r o v i d e d7 5go f
+whole-shelled English walnuts/ d for 12 wk as the intervention,
+whereas Salas-Huetos et al. [ 33]p r o v i d e d6 0gn u t s( 3 0g
+walnuts, 15 g almonds, 15 g hazelnuts) to their experimental
+group for a period of 14 wk. In both studies, the control group
+continued consuming a regular diet without nuts. The primary
+outcomes for both studies incl uded conventional semen pa-
+rameters (concentration, vitality, motility, and morphology).
+Robbins et al. [ 32] further assessed sperm aneuploidy as part of
+the primary outcomes, and the secondary outcomes included
+sperm fatty acid concentratio ns and blood hormones (total
+testosterone, estradiol, folli cle stimulating hormone [FSH],
+luteinizing hormone [LH], and sex hormone binding globulin
+[SHBG]). The study by Salas-Huetos et al. [ 33]f u r t h e ri n c l u d e d
+s p e r mc o n c e n t r a t i o na n dp Ha sp r i m a r yo u t c o m e sa n da s s e s s e d
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+3
+
+PDF PAGE 4
+sperm reactive oxygen species (ROS) production, DNA frag-
+mentation, methylation, chromo some stability, and microRNA
+expression as secondary outcomes. A cohort study included in
+this review aimed to examine the association between dietary
+nut intake and fertility outcomes in 229 couples undergoing
+ARTs [ 34]. Dietary intake of peanuts, walnuts, and other nuts
+were quanti ﬁed individually and combined to estimate “total
+nut intake ” using a validated 131-item food frequency ques-
+t i o n n a i r e( F F Q ) .T h ep r i m a r yo u t c o m e sa s s e s s e dw e r et h ea s -
+sociations between both maternal and paternal dietary nut
+intake and probability of embryo implantation, clinical preg-
+nancy, and live birth. Secondary outcomes included associa-
+tions between maternal nut intake and probability of pregnancy
+loss and the relationship between male nut consumption and
+conventional markers of semen quality. A case-control study
+comparing the dietary intakes of 40 males with subfertility
+(oligoasthenoteratozoospermia ) a n d4 0m a l e sw i t hn o r m o -
+zoospermia also met the criteria for inclusion in this review
+[35]. The authors estimated dietary nut consumption using
+interviews and an FFQ (validation status unknown). The char-
+acteristics of the 4 studies incl u d e di nt h ep r e s e n ts y s t e m a t i c
+review are shown in Table 1 .
+Risk of Bias
+Both RCTs included in this review were determined to have
+“some concerns ” regarding their risk of bias according to the
+Cochrane RoB 2 tool ( Figure 2 A). The main sources of bias
+included failure to disclose whether outcome assessors or stat-
+isticians were blinded [ 33] and failure to prepublish a statistical
+analysis plan in a clinical trials registry [ 32]. Of the 2 non-
+randomized studies, one was determined to have a moderate risk
+of bias [ 34], and the other had a serious risk of bias [ 35] ac-
+cording to the ROBINS-I tool ( Figure 2 B). The main sources of
+bias in these studies included failure to adjust for major con-
+founders [35] and failure to disclose whether outcome assessors
+or statisticians were blinded [ 34, 35].
+Outcomes
+Salas-Huetos et al. [ 34] found no association between dietary
+intake of total nuts, peanuts, walnuts, or other nuts and proba-
+bility of implantation, clinical pregnancy, or live birth in 229
+females or their male partners following ART. There was also no
+association between maternal nut intake and pregnancy loss. Nut
+consumption was rather low in this cohort, with the females in
+the highest quartile of nut intake only consuming a median of 0.9
+FIGURE 1. PRISMA ﬂowchart detailing progression of studies through the review process. * Hand searching of the reference lists of the included
+studies was undertaken, but no additional studies were identi ﬁed.
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+4
+
+PDF PAGE 5
+TABLE 1
+Nut consumption and fertility outcomes in males and females of reproductive age
+First author
+(year of
+publication),
+country of
+origin
+Trial
+methodology,
+length of
+intervention
+Number of participants,
+gender, mean age (y),
+mean participant
+BMI (kg/m
+2)
+Type & quantity of
+nuts consumed
+Methods used to
+assess dietary
+intake and
+monitor nut intake
+Study
+completion
+rate or %
+follow-up
+Outcomes
+measured
+Effect of nut
+consumption
+versus
+comparator on
+fertility
+outcomes
+Robbins
+(2012),
+USA [ 32]
+Parallel RCT,
+single-blinded,
+12 wk
+117 healthy males
+consuming a Western-style
+diet, mean age: 25y
+(range: 21 –35y), mean
+BMI: 25 kg/m
+2
+75g walnuts/d
+(intervention)
+versus no nuts
+Diet history
+questionnaire
+and 3-d food record,
+random telephone
+24-hr recalls twice
+monthly to assess nut
+intake compliance
+(outcome not stated)
+n ¼ 117 randomized,
+n ¼ 117 provided
+baseline data,
+n ¼ 112 completed
+the study (96%)
+Sperm:
+- concentration
+- total motility
+- morphology
+- vitality
+- aneuploidy
+Sperm & Serum:
+- ALA
+- DHA
+- omega-6
+- omega-3
+Sex Hormones:
+- FSH
+- Testosterone
+Sperm:
+↔ concentration
+↑total motility
+↑morphology
+↑vitality
+↔ aneuploidy
+Serum:
+↑ALA
+↔ DHA
+↑omega-6
+↑omega-3
+Sex Hormones:
+↑FSH
+↔ Testosterone
+Salas-Huetos
+(2018),
+Spain [ 33]
+Parallel RCT,
+blinding not
+stated, 14 wk
+119 healthy males
+consuming a Western-style
+diet, mean age: 24.5y
+(range: 18 –35y), mean
+BMI: 24 kg/m
+2
+60g mixed nuts/d
+(intervention)
+versus no nuts
+3-d food record,
+return of empty
+nut sachets to
+assess nut intake
+compliance ( >95%)
+n ¼ 119 randomized,
+n ¼ 106 provided
+baseline data,
+n ¼ 98 completed
+the study (82%)
+Sperm:
+- count
+- concentration
+- total motility
+- morphology
+- vitality
+- aneuploidy
+- DNA fragmentation
+- DNA methylation
+- microRNA expression
+- ROS
+Sperm:
+↑count
+↔ concentration
+↑total motility
+↑morphology
+↑vitality
+↔ aneuploidy
+↓DNA fragmentation
+↔ DNA methylation
+↓microRNA expression
+↔ ROS
+Salas-Huetos
+(2022),
+USA [ 34]
+Prospective
+cohort,
+2007–2020
+229 females and their male
+partners receiving ART,
+median age: 35y (IQR 32 –38)
+(females) and 36y (IQR
+33.6–39.3) (males), median
+BMI: 23 kg/m
+2 (IQR 21 –25.7)
+(females) and 27 kg/m 2
+(IQR 24.3 –28.9) (males).
+343 males contributed to
+semen analysis data
+Median (IQR) total
+nut intake: 0.4
+(0.2, 0.7) serves/d
+(females). (0.4 serves
+nuts ¼ approx. 12g)
+Validated
+131-item FFQ
+N/A Primary outcomes:
+- embryo implantation
+- clinical pregnancy
+- live birth
+Secondary outcomes:
+- total pregnancy loss
+(females)
+- semen volume,
+sperm count, sperm
+concentration, sperm
+total and progressive
+motility, sperm
+morphology (males)
+Association between
+intake of total nuts,
+peanuts, walnuts and
+other nuts (males and
+females) and primary
+outcomes:
+↔ embryo implantation
+↔ clinical pregnancy
+↔ live birth
+Association between
+intake of total nuts,
+peanuts, walnuts and
+other nuts (females)
+and secondary outcomes:
+↔ total pregnancy loss
+Association between
+intake of total nuts,
+peanuts, walnuts and
+other nuts (males) and
+(continued on next page )
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+5
+
+PDF PAGE 6
+TABLE 1 (continued )
+First author
+(year of
+publication),
+country of
+origin
+Trial
+methodology,
+length of
+intervention
+Number of participants,
+gender, mean age (y),
+mean participant
+BMI (kg/m
+2)
+Type & quantity of
+nuts consumed
+Methods used to
+assess dietary
+intake and
+monitor nut intake
+Study
+completion
+rate or %
+follow-up
+Outcomes
+measured
+Effect of nut
+consumption
+versus
+comparator on
+fertility
+outcomes
+secondary outcomes:
+↔ semen volume,
+sperm count, sperm
+concentration, sperm
+total and progressive
+motility, sperm
+morphology
+Yorusun (2020),
+Turkey [ 35]
+Case-control 40 males with subfertility
+(low semen volume, sperm
+concentration, sperm count,
+sperm motility and sperm
+progressive motility according
+to WHO criteria) and 40 males
+with normozoospermia, mean
+age: 34.7 /C6 5.6y (subfertile
+group) and 34.7 /C6 6.0y
+(normozoospermic group)
+(P > 0.05), mean BMI:
+28.2 /C6 4.0 kg/m
+2 (subfertile
+group) and 26.6 /C6 3.0 kg/m 2
+(normozoospermic group)
+(P< 0.05)
+Median (IQR) nut
+intake: 8 (26) g/d
+(subfertile group),
+12 (34.8) g/d
+(normozoospermic
+group) ( P ¼ 0.99)
+Interview and FFQ
+(type and validation
+of FFQ not stated)
+N/A Diet:
+- Dietary nut intake/d
+Sperm:
+- sperm concentration
+- sperm count
+- sperm motility
+- sperm
+progressive motility
+- sperm rapid motility
+Diet:
+↔ dietary nut
+intake/d between
+groups
+Sperm:
+Signiﬁcant positive
+correlation between
+nut intake/d and
+sperm motility
+(rho¼0.234, P< 0.05)
+and sperm progressive
+motility (rho ¼ 0.269,
+P< 0.05) (total group)
+Abbreviations: ART: assisted reproductive technology; ALA: alpha-linolenic acid; BMI: body mass index; FFQ: food frequency questionnaire; FSH: f ollicle stimulating hormone; IQR: interquartile
+range; RCT: randomized controlled trial; ROS: reactive oxygen species; WHO: World Health Organization; ↓: signi ﬁcantly lower than in the comparison control group after intervention; ↑:
+signiﬁcantly higher than in the comparison control group after intervention; ↔ : no signi ﬁcant difference between the nut-supplemented and control groups after intervention.
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+6
+
+PDF PAGE 7
+servings of total nuts/day. Similarly, the authors found no as-
+sociation between dietary nut intake and conventional semen
+parameters in males, although the association between walnut
+intake and total sperm count approached signi ﬁcance (P trend ¼
+0.05). Interestingly, the same study found signi ﬁcant associa-
+tions between DHA and EPA consumption and increased prob-
+ability of live birth in females. Dietary ALA intake in males was
+also positively associated with sperm count and concentration. In
+their case-control study, Yorusun and colleagues [ 35] reported
+that although males with subfertility had a signi ﬁcantly higher
+BMI and consumed more sugar-sweetened beverages, alcohol,
+and meals outside of home than their fertile counterparts, there
+was no signi ﬁcant difference in nut intake between groups ( P ¼
+0.992). However, dietary nut intake was very low overall, with a
+median nut consumption of 8 and 12 grams per day in the sub-
+fertile and normozoospermic groups, respectively, the equivalent
+of /C20 0.4 servings of nuts per day. The authors found a small but
+signiﬁcant positive correlation between nut intake and sperm
+motility and progressive motility, but these results are ques-
+tionable, considering that the statistical analysis was not
+adjusted for key confounders.
+Given the homogeneous study populations, interventions,
+outcomes, and risk of bias observed between the 2 RCTs included
+in this review, we conducted a meta-analysis considering con-
+ventional semen parameters. Both the interventions with wal-
+nuts (75 g/d) [ 32] and mixed nuts (60 g/d) [ 33] resulted in
+signiﬁcant increases in semen total motility (SMD in % pro-
+gressive plus nonprogressive: 0.51; 95% CI: 0.24, 0.78; P <
+0.001) (Figure 3A), morphology (SMD in % normal forms: 0.54;
+95% CI: 0.24, 0.83; P < 0.001) (Figure 3B) and vitality (SMD as
+%: 0.61; 95% CI: 0.34, 0.88; P < 0.001) ( Figure 3 C) in com-
+parison to control group, whereas no differences were observed
+for sperm concentration (SMD as /C2 10
+6/ml): 0.26; 95% CI: -0.00,
+0.52; P ¼ 0.05) ( Figure 3 D). Salas-Huetos et al. [ 33] further re-
+ported that the addition of mixed nuts to the usual diet for 14 wk
+signiﬁcantly increased total sperm count (median change: 4.45 /C2
+10
+6/ml, P ¼ 0.002 for treatment effect), reduced sperm DNA
+fragmentation ( P < 0.001 for treatment effect) and the expres-
+sion of hsa-miR-34b-3p ( P ¼ 0.036 for treatment effect). In that
+study, no signi ﬁcant effect of the intervention was observed for
+sperm volume, pH, ROS production, global DNA methylation,
+and chromosome stability. Robbins et al. [ 32] also reported that
+the consumption of 75 g of walnuts daily reduced aneuploidy
+within the treatment group after 12 wk ( P ¼ 0.003), even though
+there was no difference between study groups at the end of the
+intervention. Further, the consumption of walnuts did not have
+signiﬁcant effect on blood hormone concentrations. As the 2
+observational studies had different study designs (longitudinal
+cohort and case-control), it was not appropriate to combine their
+results in a meta-analysis.
+Discussion
+This systematic literature review and meta-analysis were
+designed to provide insight into research exploring the effects of
+nuts as a nutritional strategy to improve reproductive health.
+FIGURE 2. Risk of bias results for included studies using the A) Cochrane Risk of Bias 2 (RoB 2) tool and B) Risk of Bias in Nonrandomized
+Studies–of Interventions (ROBINS-I) tool (traf ﬁc light plot).
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+7
+
+PDF PAGE 8
+Despite the ﬂexible inclusion criteria, which encompassed
+different study designs, only 4 papers were identi ﬁed and
+included in our review. Two randomized studies targeting
+healthy males reported that the consumption of at least 2 serves
+of nuts per day as part of a Western-style diet improves semen
+parameters such as sperm vitality, motility, and morphology. In
+contrast, 2 nonrandomized studies involving participants with
+varied fertility status found no convincing evidence for the as-
+sociation between dietary nut consumption of /C20 1 serving per
+day and markers of sperm quality (males) or rates of embryo
+implantation, clinical pregnancy, or live birth following ART
+(females and males). Given the limited ﬁndings in the literature,
+we here discuss possible mechanisms that explain the bene ﬁts of
+nuts to fertility ( Figure 4 ).
+Western-style diet is considered a type of unhealthy diet given
+the high presence of ultra-processed foods containing high con-
+centrations of saturated fatty acids, salt, and re ﬁned and simple
+carbohydrates, along with low intake of fresh produce [ 36].
+This diet is strongly associated with chronic diseases such as
+obesity and type 2 diabetes [ 37]. Further, evidence compiled in
+literature reviews demonstrates that Western diets have been
+associated with an overall decline in male reproduction health
+[38]; more speci ﬁcally, diets rich in typical Western-diet foods
+such as processed meat, full-fat dairy products, sweets, and
+sugar-sweetened beverages have been linked to worse semen
+quality [39]. In females, Western diets were associated with high
+rates of miscarriages [ 40] and infertility due to hormonal alter-
+ations that contribute to ovulation impairment [ 36]. Despite the
+close association between the consumption of Western-style diets
+and negative health outcomes, global dietary trends clearly show
+a rise in the consumption of saturated fat, sweeteners, and reﬁned
+grains, indicating a steady increase in the consumption of
+ultra-processed foods across the globe [ 38]. Therefore, dietary
+strategies that can effectively offset the negative impact of
+ultra-processed foods are of major importance.
+Tree nuts have an optimal fatty acid pro ﬁle due to a high con-
+centration of MUFA and polyunsaturated fats and a low concen-
+tration of saturated fats. High concentration of MUFA in blood,
+which is highly present in hazelnuts, peanuts, and almonds, was
+associated with increased fecundability in normal-weight females
+FIGURE 3. Effect of nut consumption on A) sperm total motility (% progressive plus nonprogressive); B) sperm morphology (% normal forms); C)
+sperm vitality (%); and D) sperm concentration (x 106/mL) in healthy males. Standardized mean difference (95% CI) shown for individual and
+pooled trials.
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+8
+
+PDF PAGE 9
+with prior pregnancy loss in a prospective cohort [41]. Further, an
+observational study of over 18,000 females without fertility
+problems demonstrated that swapping 2% of energy intake from
+trans fatty acids with MUFA was associated with less than half of
+risk of ovulatory infertility [ 42]. If we consider a 2000 kcal stan-
+dard diet, which would meet the nutritional needs of most adults,
+this swap represents the inclusion of ~37g of walnuts (one of the
+least tree nuts concentrated in MUFA) or 7.5g of macadamia (one
+of the most concentrated sources of MUFA among tree nuts), which
+would supply around 4.5 g/MUFA (40 kcal). Even though it re-
+mains to be explored whether nut consumption can increase
+MUFA concentration signi ﬁcantly as a potential mechanism, we
+hypothesize that this can be a mechanism of action of nuts for
+positive fertility outcomes. Walnuts, in particular, are known to
+have a high concentration of alpha-linolenic acid (ALA), a
+plant-based omega-3 fatty acid [ 43–46]. Higher omega-3 fatty
+acid concentration in the spermatozoa membrane is associated
+with better motility and membrane ﬂuidity, characteristics
+required for effective fertilization [ 47–50]. Evidence from ran-
+domized clinical trials has demonstrated that the lipid composition
+of the sperm membrane is highly inﬂuenced by dietary intake [49,
+51, 52]. As such, supplementation with DHA alone or in
+conjunction with EPA at doses that ranged from 1 to 2 g/d to males
+with idiopathic oligoasthenoteratozoospermia [ 49] or other
+infertility conditions [51] resulted in a signiﬁcant improvement in
+semen parameters, such as sperm total count, concentration, and
+motility. Additionally, reduced spermatozoa with DNA damage
+was seen in the trial conducted by Martínez-Soto et al. [51], which
+used a dose of 1.5g/d. The consumption of omega-3 fatty acids is
+known to increase the anti-inﬂammatory response, as opposed to
+omega-6 fatty acids. As such, nut intake is negatively associated
+with inﬂammatory markers [53, 54]. Further, higher consumption
+of omega-3 was demonstrated to be associated with improved
+fecundability, possibly via reduction of proin ﬂammatory cyto-
+kines and adhesion molecules [ 41, 55]. Studies also indicate a
+positive regulation of the antioxidant response by omega-3 fatty
+acids, which is particularly important for spermatozoa given they
+are highly susceptible to peroxidative damage [ 49]. Randomized
+clinical trials demonstrated that supplementation with omega-3 to
+males with infertility increased their antioxidant capacity as
+measured by the activity of superoxide dismutase (SOD) and
+catalase [ 49], as well as the seminal antioxidant capacity [ 51].
+Although more research is required to elucidate the mechanisms
+involved, animal studies have shown that part of this
+antioxidant-related effect of omega-3 fatty acids is related to their
+capacity to facilitate the translocation and activation of speci ﬁc
+FIGURE 4. Hypothesis diagram for the role of nuts in fertility: Nuts are highly concentrated in ALA and MUFAs, which positively regulate the fatty
+acid concentrations in the follicular ﬂuid (within the follicle) and sperm membrane and enhance the anti-in ﬂammatory pathway, which increases
+the antioxidant capacity. Selenium, zinc, vitamin E and polyphenols present in nuts also enhance the antioxidant capacity. Higher concentration of
+antioxidants in the follicular ﬂuid correlates with production of high-quality oocytes, which ultimately contributes to successful embryo devel-
+opment. During spermatogenesis, the developing sperm cells are highly sensitive to oxidative stress in seminal ﬂuid; thus, the higher concentration
+of antioxidants reduces sperm DNA fragmentation. The high concentration of proteins and ﬁbers in nuts results in bene ﬁcial gut microbiota
+remodeling, enhancement of satiety signaling, and improved glucose tolerance, which are all associated with a decrease in weight gain despite the
+high energy concentration seen in nuts. The hard texture presented by nuts also contributes to satiety signaling. Increased insulin sensitivity
+caused by nuts is associated with higher quality oocytes and a regulation of ovulation frequency (in opposition to reduction of ovulation frequency
+observed in females with insulin resistance). Created with Biorender.com.
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+9
+
+PDF PAGE 10
+antioxidant response elements such as the Nrf2 [56, 57]. Research
+is more limited regarding the investigation of the role of omega-3
+in female fertility, although it has also been suggested the exis-
+tence of an association between fatty acids composition of follic-
+ular ﬂuid and fertility capacity, as this is an important
+microenvironment for the development of oocytes [58]. In a study
+involving 100 females undergoing ART, analysis of the fatty acid
+composition of follicular ﬂuid revealed that the amount of satu-
+rated and even polyunsaturated fatty acids was inversely associ-
+ated with the number of mature oocytes. However, the amount of
+ALA was associated with an improvement in maturity of oocytes,
+which leads these oocytes to have a higher efﬁciency, size, and cell
+membrane integrity due to membrane ﬂuidity [58].
+Nuts are also known for their high content of compounds with
+antioxidant proﬁle, such as polyphenols and vitamin E [ 59, 60].
+Even though important variations in the concentration and types
+of bioactive compounds are observed across the different types of
+nuts, they overall offer a signi ﬁcant amount of these compounds.
+For instance, it is estimated that the consumption of 30 g/d of
+almonds and hazelnuts, which is aligned with current recom-
+mendations [61], provides up to 49% of the dietary recommen-
+dations for vitamin E [ 62]. Oxidative stress plays a fundamental
+role in the occurrence of infertility, as ROS affect many different
+physiological functions in the male and female reproductive tract
+[63, 64]. Oxidative stress leads to membrane lipid damage and
+inhibition of protein synthesis and ATP depletion, which impairs
+oocyte maturation, as well as decreases ovarian steroidogenesis,
+ovulation, implantation, blastocyst formation, luteolysis, and
+luteal maintenance during pregnancy. In males, oxidative stress is
+associated with lipid peroxidation of the sperm cell membrane,
+sperm DNA damage, and apoptosis [ 65, 66]. A frequent conse-
+quence of excessive ROS is sperm DNA fragmentation, which is
+correlated with abnormal sperm morphology and motility and
+impairs blastulation, implantation, and early embryo develop-
+ment [ 67]. In couples undergoing ART, sperm DNA fragmenta-
+tion is associated with reduced likelihood of pregnancy and
+increased risk of miscarriage [ 68]. Even though research is
+inconsistent in demonstrating the bene ﬁts of antioxidant sup-
+plementation to improve fertility outcomes, mostly due to het-
+erogeneous studies [ 69, 70], we hypothesize that one of the
+mechanisms driven by the consumption of nuts on fertility is
+through the improvement of the antioxidant system.
+The different types of nuts also provide signi ﬁcant amounts of
+minerals. Of particular interest for fertility, Brazil nuts are the
+richest food source of selenium, necessary for fertilization and
+embryo development, as well as protection of sperm against
+oxidative stress. In that regard, selenium de ﬁciency, which af-
+fects 1 in 7 people around the globe [ 71], is associated with
+idiopathic infertility, higher rates of miscarriage, preterm birth,
+decreased sperm motility, and fertilization capacity [72]. Several
+trials with selenium supplementation showed positive effects on
+sperm quality parameters; however, the ﬁndings are not
+consistent across the literature [ 73]. This is probably because
+selenium supplementation does not seem bene ﬁcial to
+selenium-replete populations, and thus, the inclusion of Brazil
+nuts in the diet would have higher potential to enhance fertility
+capacity among those with selenium de ﬁciency. Zinc, also pre-
+sent in important concentrations in several types of nuts such as
+cashews, almonds, and pine nuts, plays a critical role in male
+fertility, as it is required for sperm maturation, motility,
+capacitation, and acrosomal exocytosis [ 74]. In females, zinc is
+essential for processes that regulate follicle development, oocyte
+maturation, and fertilization, highlighting the importance of this
+mineral in all the steps involved in normal fertility [ 75].
+Low glycemic index diets improve several features of PCOS,
+such as hormonal pro ﬁle, insulin resistance, blood lipids, and
+fertility, as reported by a meta-analysis of clinical trials [ 76)].
+Insulin resistance seems to also be linked to male infertility, as
+evidenced by lower semen volumes and higher sperm DNA
+fragmentation and mitochondrial DNA damage rates in males
+with diabetes in comparison to controls [ 77]. Given that nuts are
+considered to have a low glycemic index due to their high con-
+centration of proteins, ﬁbers, and fatty acids, we can contemplate
+that regulation of blood glucose response is one of the mecha-
+nisms involved in the effects of nuts on fertility. Further, poly-
+phenols present in nuts seem to inhibit enzymes required for
+carbohydrate digestion, such as alpha-glucosidase, which is re-
+ﬂected in lower postprandial blood glucose responses [ 78]. Also,
+there is suggestive evidence indicating that nuts have a prebiotic
+effect [ 79], which means that they can selectively stimulate the
+growth of bene ﬁcial bacterial species in the gut. By remodeling
+the gut microbiome, nuts as prebiotics can decrease in ﬂamma-
+tory markers and improve blood glucose response [ 80]. A
+meta-analysis reported that treatment with probiotics or syn-
+biotics, which positively shift the gut microbiome, is effective in
+decreasing markers of insulin resistance in females with PCOS
+[81]. Thus, the inclusion of nuts as part of a low glycemic index
+diet can be used as a helpful strategy to beneﬁt particularly males
+and females with insulin resistance, and type 1 or type 2 diabetes
+who are trying to conceive.
+Obesity is a major risk factor for infertility. Males with over-
+weight/obesity present with worse sperm quantity/quality [ 82],
+obese females have higher risk of PCOS and disrupted hormonal
+proﬁle with lower levels of LH and gonadotropin hormone-r-
+eleasing hormone, which negatively re ﬂect on fertility. Further,
+obesity is associated with a reduction in the success of fertility
+treatments [ 83]. Despite their high energy density, nuts do not
+seem to be associated with overweight or obesity, as reported by a
+meta-analysis of 6 prospective cohort studies and 86 randomized
+clinical trials [84]. Paradoxically, higher consumption of nuts was
+signiﬁcantly associated with a decrease in body weight and body
+fat, indicating a protective effect against adiposity [84]. The main
+explanations rely on the fact that nuts promote satiety due to their
+high concentration of ﬁber and proteins, as well as their physical
+structure, which requires effective mastication that triggers sati-
+ating signaling mechanisms and reduces bioavailability of mac-
+ronutrients and, hence, energy. Such effects seem to be more
+important when nuts are consumed as a snack instead of being
+combined with other foods in a meal [ 85]. Further, their high
+concentration of unsaturated fatty acids is hypothesized to
+contribute to higher thermogenesis [ 86]; however, evidence is
+inconsistent in demonstrating that energy expenditure increases
+due to nut consumption [ 85].
+This systematic review and meta-analysis were limited to only 4
+studies available in the literature, which ﬂags the necessity for
+other studies to better identify the potential beneﬁts of introducing
+nuts into the diet to improve fertility outcomes. Although the 2
+RCTs reported positive effects of /C21 2 servings of nuts/d in sperm
+parameters of healthy males, the 2 observational studies did not
+ﬁnd signiﬁcant associations between nut consumption and fertility
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+10
+
+PDF PAGE 11
+health. Signiﬁcant differences between the RCTs and the obser-
+vational studies should be highlighted in order to understand these
+discrepancies. First, whereas the RCTs provided at least 2 servings
+of nuts/d, the observational studies were conducted in populations
+with a rather low nut consumption (one reported an average intake
+of 0.9 servings of total nuts/d [ 34] and the other one reported a
+median consumption between 8 and 12 g/d) [ 35]. Second, it is
+important to note the differences in the study populations included
+in the RCTs versus the observational studies: whereas the RCTs
+recruited healthy males, the prospective study by Salas-Huetos
+[34] recruited males and females with fertility issues. Further,
+even though the control males in the study by Yorusun [ 35] had
+normal sperm quality, they may have had other sperm abnor-
+malities that were not measured in the study (for example, sperm
+DNA fragmentation). Also, whereas the prospective study design
+and the statistical analysis that adjusted for diet quality in the
+study conducted by Salas-Huetos [ 34] minimizes reverse causal-
+ity, the study conducted by Yorusun [ 35] did not consider any
+dietary or behavioral factors in the data analysis, even though it is
+known that semen quality may be affected by other aspects such as
+diet quality, BMI and smoking status. Factors affecting risk of bias
+in the included studies must also be considered when interpreting
+the results of this review. Three of the 4 studies did not disclose
+whether outcome assessors or statisticians were blinded, poten-
+tially introducing a source of observer or detection bias. However,
+this type of bias was unlikely in the included studies as laboratory
+staff assessing sperm quality were unlikely to be aware of partic-
+ipant dietary intakes. Failure to adjust for important covariates
+such as participant age and BMI during statistical analysis may
+have introduced confounding bias into one study [35] which was
+determined to have a serious risk of bias, so results should be
+interpreted with caution. All 4 studies assessed semen parameters
+which, despite being a predictor of male fertility, do not neces-
+sarily re ﬂect patient-important fertility outcomes such as preg-
+nancy and live birth. Further, the 2 randomized studies t provided
+participants with /C21 2 servings of nuts per day both involved
+healthy males, which limits the extrapolation of the ﬁndings to
+those who experience subfertility or infertility and are, therefore,
+the most interested in the effects of dietary strategies for fertility
+health. Additionally, given that infertility due to female factors is
+impactful and can range from 30 to 80% [ 4], more studies tar-
+geting females are necessary to elucidate the effects of nuts on
+reproductive success.
+Conclusions
+Due to their nutritional pro ﬁle, nuts seem to have the po-
+tential to promote successful reproductive outcomes. Our meta-
+analysis shows that including /C21 2 servings of nuts daily as part
+of a Western-style diet in healthy males improves sperm pa-
+rameters, which are predictors of male fertility. Nonetheless, the
+number of high-quality RCTs involving nut intake as a strategy
+for infertility treatment is scarce and limited to males, even
+though females ’s infertility problems affect a signi ﬁcant pro-
+portion of couples ’ ability to conceive. Therefore, given that
+infertility is considered a major health subject and now more
+than ever people seek more natural and affordable alternatives to
+deal with it, we advocate for future studies that target different
+populations to include females and males who are having
+difﬁculties conceiving and have pregnancy as primary outcome.
+Given the differences in the nutritional composition of the
+different types of nuts, future studies should also consider
+combining different nuts to investigate potential synergistic ef-
+fects regarding the positive effects on fertility outcomes.
+Author contributions
+The authors’ contributions were as follows —BRC: conceived
+the review, screened titles and abstracts, reviewed the full text of
+articles identiﬁed by the literature search, performed risk of bias
+assessment, wrote the ﬁrst and ﬁnal draft of the manuscript,
+checked the data extraction and edited the ﬁnal draft of the
+manuscript. IF: screened titles and abstracts, reviewed the full
+text of articles identi ﬁed by the literature search, read and
+approved the ﬁnal manuscript. NJK: conceived the review, per-
+formed the systematic search, screened titles and abstracts,
+reviewed the full text of articles identi ﬁed by the literature
+search, performed the data extraction, conducted the meta-
+analysis, performed risk of bias assessment, contributed to
+writing the ﬁrst draft and edited the ﬁnal draft of the manuscript.
+All authors read and approved the ﬁnal version of the manuscript.
+Conﬂicts of interest
+The authors declare no con ﬂict of interest.
+Funding
+NJK is supported by a National Health and Medical
+Research Council (NHMRC) Early Career Research Fellowship
+(APP1164771). The other authors received no speci ﬁc funding
+for this work.
+Data availability
+Corresponding authors will provide data and other materials
+used in this review upon reasonable request.
+Appendix A. Supplementary data
+Supplementary data to this article can be found online at
+https://doi.org/10.1016/j.advnut.2023.100153.
+References
+[1] F. Szkodziak, J. Krzy _zanowski, P. Szkodziak, Psychological aspects of
+infertility. A systematic review, J. Int. Med. Res. 48 (6) (2020)
+300060520932403.
+[2] P. Fatima, D. Rahman, H.B. Hossain, H.N. Hossain, C.R. Mughi,
+Psychosocial consequences of infertility on infertile women,
+Mymensingh Med. J. 24 (4) (2015) 704 –709.
+[3] M.N. Mascarenhas, S.R. Flaxman, T. Boerma, S. Vanderpoel,
+G.A. Stevens, National, regional, and global trends in infertility
+prevalence since 1990: a systematic analysis of 277 health surveys, PLoS
+Med 9 (12) (2012) e1001356 .
+[4] A. Agarwal, A. Mulgund, A. Hamada, M.R. Chyatte, A unique view on
+male infertility around the globe, Reprod. Biol. Endocrinol. 13 (2015)
+37.
+[5] S.R. Tamrakar, R. Bastakoti, Determinants of infertility in couples,
+J. Nepal Health Res. Counc. 17 (1) (2019) 85 –89.
+[6] Ethics Committee of the American Society for Reproductive Medicine,
+Disparities in access to effective treatment for infertility in the United
+States: an ethics committee opinion, Fertil, Steril 104 (5) (2015)
+1104–1110.
+[7] G.M. Chambers, E.A. Sullivan, O. Ishihara, M.G. Chapman,
+G.D. Adamson, The economic impact of assisted reproductive
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+11
+
+PDF PAGE 12
+technology: a review of selected developed countries, Fertil Steril 91 (6)
+(2009) 2281 –2294.
+[8] I. Galic, O. Negris, C. Warren, D. Brown, A. Bozen, T. Jain, Disparities in
+access to fertility care: who ’s in and who ’s out, FS Rep 2 (1) (2021)
+109–117.
+[9] C. Davis, J. Bryan, J. Hodgson, K. Murphy, De ﬁnition of the
+Mediterranean diet; a literature review, Nutrients 7 (11) (2015)
+9139–9153.
+[10] H. Sun, Y. Lin, D. Lin, C. Zou, X. Zou, L. Fu, et al., Mediterranean diet
+improves embryo yield in IVF: a prospective cohort study, Reprod. Biol.
+Endocrinol. 17 (1) (2019) 73 .
+[11] M. Vujkovic, J.H. de Vries, J. Lindemans, N.S. Macklon, P.J. van der
+Spek, E.A. Steegers, et al., The preconception Mediterranean dietary
+pattern in couples undergoing in vitro fertilization/intracytoplasmic
+sperm injection treatment increases the chance of pregnancy, Fertil.
+Steril. 94 (6) (2010) 2096 –2101.
+[12] D. Karayiannis, M.D. Kontogianni, C. Mendorou, M. Mastrominas,
+N. Yiannakouris, Adherence to the Mediterranean diet and IVF success
+rate among non-obese women attempting fertility, Hum. Reprod. 33 (3)
+(2018) 494 –502.
+[13] N.J. Kellow, J. Le Cerf, F. Horta, A.L. Dordevic, C.J. Bennett, The effect
+of dietary patterns on clinical pregnancy and live birth outcomes in men
+and women receiving assisted reproductive technologies: a systematic
+review and meta-analysis, Adv Nutr 13 (3) (2022) 857 –874.
+[14] D. Karayiannis, M.D. Kontogianni, C. Mendorou, L. Douka,
+M. Mastrominas, N. Yiannakouris, Association between adherence to
+the Mediterranean diet and semen quality parameters in male partners
+of couples attempting fertility, Hum. Reprod. 32 (1) (2017) 215 –222.
+[15] E. Ricci, F. Bravi, S. Noli, S. Ferrari, V. De Cosmi, I. La Vecchia, et al.,
+Mediterranean diet and the risk of poor semen quality: cross-sectional
+analysis of men referring to an Italian fertility clinic, Andrology 7 (2)
+(2019) 156 –162.
+[16] A.J. Gaskins, F.L. Nassan, Y.H. Chiu, M. Arvizu, P.L. Williams,
+M.G. Keller, et al., Dietary patterns and outcomes of assisted
+reproduction, Am. J. Obstet. Gynecol. 220 (6) (2019) 567, e1 –.e18.
+[17] A.B. Maldonado-C /C19arceles, L. Mínguez-Alarc /C19on, I. Souter, A.J. Gaskins,
+M. Arvizu, P.L. Williams, et al., Dietary patterns and ovarian reserve
+among women attending a fertility clinic, Fertil. Steril. 114 (3) (2020)
+610–617.
+[18] A.M. Eskew, B.S. Bedrick, J.E. Chavarro, J.K. Riley, E.S. Jungheim,
+Dietary patterns are associated with improved ovarian reserve in
+overweight and obese women: a cross-sectional study of the Lifestyle
+and Ovarian Reserve (LORe) cohort, Reprod. Biol. Endocrinol. 20 (1)
+(2022) 33 .
+[19] R.G.M. de Souza, R.M. Schincaglia, G.D. Pimentel, J.F. Mota, Nuts and
+human health outcomes: a systematic review, Nutrients 9 (12) (2017)
+1311.
+[20] N. Becerra-Tom /C19as, I. Paz-Graniel, C.W.C. Kendall, H. Kahleova,
+D. Raheli /C19c, J.L. Sievenpiper, et al., Nut consumption and incidence of
+cardiovascular diseases and cardiovascular disease mortality: a meta-
+analysis of prospective cohort studies, Nutr. Rev. 77 (10) (2019)
+691–709.
+[21] A.M. Coates, A.M. Hill, S.Y. Tan, Nuts and cardiovascular disease
+prevention, Curr. Atheroscler. Rep. 20 (10) (2018) 48 .
+[22] S. Morgillo, A.M. Hill, A.M. Coates, The effects of nut consumption on
+vascular function, Nutrients 11 (1) (2019) 116 .
+[23] L.E. Theodore, N.J. Kellow, E.A. McNeil, E.O. Close, E.G. Coad,
+B.R. Cardoso, Nut consumption for cognitive performance: a systematic
+review, Adv. Nutr. 12 (3) (2020) 777 –792.
+[24] Y. Kim, J.B. Keogh, P.M. Clifton, does nut consumption reduce mortality
+and/or risk of cardiometabolic disease? An updated review based on
+meta-analyses, Int. J. Environ. Res. Public Health. 16 (24) (2019) 4957 .
+[25] E. Viguiliouk, C.W. Kendall, S. Blanco Mejia, A.I. Cozma, V. Ha,
+A. Mirrahimi, et al., Effect of tree nuts on glycemic control in diabetes: a
+systematic review and meta-analysis of randomized controlled dietary
+trials, PLoS One 9 (7) (2014) e103376 .
+[26] D. Moher, A. Liberati, J. Tetzlaff, D.G. Altman, Preferred reporting items
+for systematic reviews and meta-analyses: the PRISMA statement,
+J Clin. Epidemiol. 62 (10) (2009) 1006 –1012.
+[27] J.C. Gutierrez, K. Hwang, The toxicity of methotrexate in male fertility
+and paternal teratogenicity, Expert Opin. Drug Metab. Toxicol. 13 (1)
+(2017) 51 –58, 2017 .
+[28] J.A.C. Sterne, J. Savovi /C19c, M.J. Page, R.G. Elbers, N.S. Blencowe, I.
+Boutron et al., RoB 2: a revised tool for assessing risk of bias in
+randomised trials, BMJ 366 (201) l4898.
+[29] J.A. Sterne, M.A. Hern /C19an, B.C. Reeves, J. Savovi /C19c, N.D. Berkman,
+M. Viswanathan, et al., ROBINS-I: a tool for assessing risk of bias in non-
+randomised studies of interventions, BMJ 355 (2016) i4919 .
+[30] I.R. White, J. Thomas, Standardized mean differences in individually-
+randomized and cluster-randomized trials, with applications to meta-
+analysis, Clin. Trials. 2 (2) (2005) 141 –151.
+[31] S. McGrath, X. Zhao, R. Steele, B.D. Thombs, A. Benedetti, Estimating
+the sample mean and standard deviation from commonly reported
+quantiles in meta-analysis, Stat. Methods Med. Res. 29(9) 2520 –2537.
+[32] W.A. Robbins, L. Xun, L.Z. FitzGerald, S. Esguerra, S.M. Henning,
+C.L. Carpenter, Walnuts improve semen quality in men consuming a
+Western-style diet: randomized control dietary intervention trial, Biol.
+Reprod. 87 (4) (2012) 101 .
+[33] A. Salas-Huetos, R. Moraleda, S. Giardina, E. Anton, J. Blanco, J. Salas-
+Salvad/C19o, et al., Effect of nut consumption on semen quality and
+functionality in healthy men consuming a Western-style diet: a
+randomized controlled trial, Am. J. Clin. Nutr. 108 (5) (2018) 953 –962.
+[34] A. Salas-Huetos, M. Arvizu, L. Mínguez-Alarc /C19on, M. Mitsunami,
+J. Ribas-Maynou, M. Yeste, et al., Women's and men's intake of omega-3
+fatty acids and their food sources and assisted reproductive technology
+outcomes, Am. J. Obstet. Gynecol. 227 (2) (2022) 246, e1 –e11.
+[35] T. Y €orüsün, Y. Akdevelio /C21glu, R.O. Karabacak, N. Bozkurt, N. S ¸ anlıer,
+S. Yes¸il, et al., Nutritional factors related to male fertility: Turkish
+sample, Afr. J. Reprod. Health 24 (2) (2020) 85 –95.
+[36] K. Skoracka, A.E. Ratajczak, A.M. Rychter, A. Dobrowolska, I. Krela-
+Ka/C19
+zmierczak, Female fertility and the nutritional approach: the most
+essential aspects, Adv. Nutr. 12 (6) (2021) 2372 –2386.
+[37] P.L. Lutsey, L.M. Steffen, J. Stevens, Dietary intake and the development
+of the metabolic syndrome, Circulation 117 (6) (2008) 754 –761.
+[38] J. Whittaker, Dietary trends and the decline in male reproductive
+health, Hormones 22 (2) (2023) 165 –197.
+[39] A. Salas-Huetos, M. Bull /C19o, J. Salas-Salvad /C19o, Dietary patterns, foods and
+nutrients in male fertility parameters and fecundability: a systematic
+review of observational studies, Hum. Reprod. Update 23 (4) (2017)
+371–389.
+[40] Y. Chung, P. Melo, O. Pickering, R. Dhillon-Smith, A. Coomarasamy,
+A. Devall, The association between dietary patterns and risk of
+miscarriage: a systematic review and meta-analysis, Fertil. Steril. 120
+(2) (2023) 333 –357.
+[41] S.L. Mumford, R.W. Browne, K. Kim, C. Nichols, B. Wilcox, R.M. Silver,
+et al., Preconception plasma phospholipid fatty acids and fecundability,
+J. Clin. Endocrinol. Metabol. 103 (12) (2018) 4501 –4510.
+[42] J.E. Chavarro, J.W. Rich-Edwards, B.A. Rosner, W.C. Willett, Dietary
+fatty acid intakes and the risk of ovulatory infertility, Am. J. Clin. Nutr.
+85 (1) (2007) 231 –237.
+[43] M. Kornsteiner-Krenn, K.H. Wagner, I. Elmadfa, Phytosterol content and
+fatty acid pattern of ten different nut types, Int. J. Vitam. Nutr. Res. 83
+(5) (2013) 263 –270.
+[44] E. Ros, L.C. Tapsell, J. Sabat /C19e, Nuts and berries for heart health, Curr.
+Atheroscler. Rep. 12 (6) (2010) 397 –406.
+[45] B.R. Cardoso, G.B.S. Duarte, B.Z. Reis, S.M.F. Cozzolino, Brazil nuts:
+nutritional composition, health bene ﬁts and safety aspects, Food Res.
+Int. 100 (Pt 2) (2017) 9 –18.
+[46] G. Petrovi /C19c-Oggiano, J. Debeljak-Marta /C20ci/C19c, S. Rankovi /C19c, B. Pokimica,
+A. Miri /C19c, M. Glibeti /C19c, et al., The effect of walnut consumption on n-3
+fatty acid pro ﬁle of healthy people living in a non-Mediterranean West
+Balkan country, a small scale randomized study, Nutrients 12 (1) (2020)
+192.
+[47] V. Esmaeili, A.H. Shahverdi, M.H. Moghadasian, A.R. Alizadeh, Dietary
+fatty acids affect semen quality: a review, Andrology 3 (3) (2015)
+450–461.
+[48] N.M. Gulaya, V.M. Margitich, N.M. Govseeva, V.M. Klimashevsky,
+I.I. Gorpynchenko, M.,I. Boyko, Phospholipid composition of human
+sperm and seminal plasma in relation to sperm fertility, Arch. Androl.
+46 (3) (2001) 169 –175.
+[49] M.R. Safarinejad, Effect of omega-3 polyunsaturated fatty acid
+supplementation on semen pro ﬁle and enzymatic anti-oxidant capacity
+of seminal plasma in infertile men with idiopathic
+oligoasthenoteratospermia: a double-blind, placebo-controlled,
+randomised study, Andrologia 43 (1) (2011) 38 –47.
+[50] D. Sanocka, M. Kurpisz, Reactive oxygen species and sperm cells,
+Reprod. Biol. Endocrinol. 2 (2004) 12 .
+[51] J.C. Martínez-Soto, J.C. Domingo, B. Cordobilla, M. Nicol /C19as,
+L. Fern /C19andez, P. Albero, et al., Dietary supplementation with
+docosahexaenoic acid (DHA) improves seminal antioxidant status and
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+12
+
+PDF PAGE 13
+decreases sperm DNA fragmentation, Syst. Biol. Reprod. Med. 62 (6)
+(2016) 387 –395.
+[52] C.J. Byrne, S. Fair, A.M. English, S.A. Holden, J.R. Dick, P. Lonergan, et
+al., Dietary polyunsaturated fatty acid supplementation of young post-
+pubertal dairy bulls alters the fatty acid composition of seminal plasma
+and spermatozoa but has no effect on semen volume or sperm quality,
+Theriogenology 90 (2017) 289 –300.
+[53] Z. Yu, V.S. Malik, N. Keum, F.B. Hu, E.L. Giovannucci, M.J. Stampfer, et
+al., Associations between nut consumption and in ﬂammatory
+biomarkers, Am. J. Clin. Nutr. 104 (3) (2016) 722 –778.
+[54] M. Cof/C19an, S. Rajaram, A. Sala-Vila, C. Valls-Pedret, M. Serra-Mir, I. Roth,
+et al., Effects of 2-year walnut-supplemented diet on in ﬂammatory
+biomarkers, J. Am. Coll. Cardiol. 76 (19) (2020) 2282 –2284.
+[55] E. Patterson, R. Wall, G.F. Fitzgerald, R.P. Ross, C. Stanton, Health
+implications of high dietary omega-6 polyunsaturated fatty acids,
+J. Nutr. Metab. 2012 (2012) 539426 .
+[56] M.E. Clementi, G. Lazzarino, B. Sampaolese, A. Brancato, G. Tringali,
+DHA protects PC12 cells against oxidative stress and apoptotic signals
+through the activation of the NFE2L2/HO-1 axis, Int. J. Mol. Med. 43
+(6) (2019) 2523 –2531.
+[57] W. Zhu, Y. Ding, W. Kong, T. Li, H. Chen, Docosahexaenoic Acid
+(DHA) provides neuroprotection in traumatic brain injury models via
+activating Nrf2-ARE signaling, In ﬂammation 41 (4) (2018)
+1182–1193.
+[58] M. Shaaker, A. Rahimipour, M. Nouri, K. Khanaki, M. Darabi, L. Farzadi,
+et al., Fatty acid composition of human follicular ﬂuid phospholipids
+and fertilization rate in assisted reproductive techniques, Iran Biomed.
+J. 16 (3) (2012) 162 –168.
+[59] B. Gonçalves, T. Pinto, A. Aires, M.C. Morais, E. Bacelar, R. Anjos, et al.,
+Composition of nuts and their potential health bene ﬁts-an overview,
+Foods 12 (5) (2023) 942 .
+[60] N.G. Tas¸,V .G €okmen, Phenolic compounds in natural and roasted nuts
+and their skins: a brief review, Curr. Opin. Food Sci. 14 (2017)
+103–109.
+[61] US Department of Agriculture (USDA) and US Department of Health
+and Human Services (HHS), Dietary Guidelines for Americans, 2020,
+2025, https://www.dietaryguidelines.gov/sites/default/ﬁles/2020-12/
+Dietary_Guidelines_for_Americans_2020-2025.pdf. (Accessed 1 July
+2023).
+[62] C. Mora-Esteves, D. Shin, Nutrient supplementation: improving male
+fertility fourfold, Semin. Reprod. Med. 31 (4) (2013) 293 –300.
+[63] A. Agarwal, M. Rana, E. Qiu, H. AlBunni, A.D. Bui, R. Henkel, Role of
+oxidative stress, infection and in ﬂammation in male infertility,
+Andrologia 50 (11) (2018) e13126 .
+[64] J. Wojsiat, J. Korczy /C19nski, M. Borowiecka, H.M. _Zbikowska, The role of
+oxidative stress in female infertility and in vitro fertilization, Postepy
+Hig. Med. Dosw. 71 (0) (2017) 359 –366.
+[65] A. Agarwal, S. Gupta, R.K. Sharma, Role of oxidative stress in female
+reproduction, Reprod. Biol. Endocrinol. 3 (2005) 28 .
+[66] S. Bisht, M. Faiq, M. Tolahunase, R. Dada, Oxidative stress and male
+infertility, Nat. Rev. Urol. 14 (8) (2017) 470 –485.
+[67] S.J. Chen, J.P. Allam, Y.G. Duan, G. Haidl, In ﬂuence of reactive oxygen
+species on human sperm functions and fertilizing capacity including
+therapeutical approaches, Arch. Gynecol. Obstet. 288 (1) (2013)
+191–199.
+[68] J. Zhao, Q. Zhang, Y. Wang, Y. Li, Whether sperm deoxyribonucleic acid
+fragmentation has an effect on pregnancy and miscarriage after in vitro
+fertilization/intracytoplasmic sperm injection: a systematic review and
+meta-analysis, Fertil. Steril. 102 (4) (2014) 998 –1005.e8.
+[69] F. Dimitriadis, H. Borgmann, J.P. Struck, J. Salem, T.H. Kuru,
+Antioxidant supplementation on male fertility-a systematic review,
+Antioxidants (Basel) 12 (4) (2023) 836 .
+[70] A. Farkouh, A. Agarwal, T.A.A. Hamoda, P. Kavoussi, R. Saleh, A. Zini,
+et al., Controversy and consensus on the management of elevated sperm
+DNA fragmentation in male infertility: a global survey, current
+guidelines, and expert recommendations, World J. Mens Health 41 (4)
+(2023) 809 –847.
+[71] G.D. Jones, B. Droz, P. Greve, P. Gottschalk, D. Poffet, S.P. McGrath, et
+al., Selenium de ﬁciency risk predicted to increase under future climate
+change, Proc. Natl. Acad. Sci. USA. 114 (11) (2017) 2848 –2853.
+[72] C.R. Dahlen, L.P. Reynolds, J.S. Caton, Selenium supplementation and
+pregnancy outcomes, Front. Nutr. 9 (2022) 1011850 .
+[73] I.H. Qazi, C. Angel, H. Yang, E. Zoidis, B. Pan, Z. Wu, et al., Role of
+selenium and selenoproteins in male reproductive function: a review of
+past and present evidences, Antioxidants (Basel) 8 (8) (2019) 268 .
+[74] D. Allouche-Fitoussi, H. Breitbart, The role of zinc in male fertility, Int.
+J. Mol. Sci. 21 (20) (2020) 7796 .
+[75] T.B. Garner, J.M. Hester, A. Carothers, F.J. Diaz, Role of zinc in female
+reproduction, Biol. Reprod. 104 (5) (2021) 976 –994.
+[76] N. Saadati, F. Haidari, M. Barati, R. Nikbakht, G. Mirmomeni, F. Rahim,
+The effect of low glycemic index diet on the reproductive and clinical
+proﬁle in women with polycystic ovarian syndrome: a systematic
+review and meta-analysis, Heliyon 7 (11) (2021) e08338 .
+[77] I.M. Agbaje, D.A. Rogers, C.M. McVicar, N. McClure, A.B. Atkinson,
+C. Mallidis, et al., Insulin dependant diabetes mellitus: implications for
+male reproductive function, Hum Reprod 22 (7) (2007) 1871 –1877.
+[78] M. Farazi, M.J. Houghton, M. Murray, G. Williamson, A systematic
+review of the inhibitory effect of extracts from edible parts of nuts on
+α-glucosidase activity, Food Funct 13 (2023) .
+[79] E. Fitzgerald, K. Lambert, J. Stanford, E.P. Neale, The effect of nut
+consumption (tree nuts and peanuts) on the gut microbiota of humans: a
+systematic review, Br. J. Nutr. 125 (5) (2021) 508 –520.
+[80] X. Li, Y. Wang, J. Zhou, Z. Wang, Y. Wang, J. Zheng, et al., Mixed nuts
+with high nutrient density improve insulin resistance in mice by gut
+microbiota remodeling, Food Funct 13 (19) (2022) 9904 –9917.
+[81] M. Cozzolino, A. Vitagliano, L. Pellegrini, M. Chiurazzi, A. Andriasani,
+G. Ambrosini, et al., Therapy with probiotics and synbiotics for
+polycystic ovarian syndrome: a systematic review and meta-analysis,
+Eur. J. Nutr. 59 (7) (2020) 2841 –2856.
+[82] D. Santi, F. Lotti, C. Sparano, G. Rastrelli, A.M. Isidori, R. Pivonello, et
+al., Does an increase in adipose tissue 'weight' affect male fertility? A
+systematic review and meta-analysis based on semen analysis
+performed using the WHO 2010 criteria, Andrology (2023). May 25 .
+[83] A. Armstrong, M. Berger, Z. Al-Sa ﬁ, Obesity and reproduction, Curr.
+Opin. Obstet. Gynecol. 34 (4) (2022) 184 –189.
+[84] S.K. Nishi, E. Viguiliouk, S. Blanco Mejia, C.W.C. Kendall, R.P. Bazinet,
+A.J. Hanley, et al., Are fatty nuts a weighty concern? A systematic
+review and meta-analysis and dose-response meta-regression of
+prospective cohorts and randomized controlled trials, Obes. Rev. 22
+(11) (2021) e13330 .
+[85] C.J. Nikodijevic, Y.C. Probst, S.-Y. Tan, E.P. Neale, The effects of tree
+nut and peanut consumption on energy compensation and energy
+expenditure: a systematic review and meta-analysis, Adv. Nutr. 14 (1)
+(2023) 77 –98.
+[86] P. Casas-Agustench, P. L /C19opez-Uriarte, M. Bull /C19o, E. Ros, A. G /C19omez-Flores,
+J. Salas-Salvad /C19o, Acute effects of three high-fat meals with different fat
+saturations on energy expenditure, substrate oxidation and satiety, Clin.
+Nutr. 28 (1) (2009) 39 –45.
+B.R. Cardoso et al. Advances in Nutrition 15 (2024) 100153
+13

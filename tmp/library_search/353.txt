@@ -1,0 +1,418 @@
+PDF PAGE 1
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+International Journal of Primatology, Vol. 22, No. 3, 2001
+Semifree-ranging Tufted Capuchins (Cebus apella)
+Spontaneously Use Tools to Crack Open Nuts
+Eduardo B. Ottoni1,2 and Massimo Mannu1
+Received November 12, 1999; revision February 22, 2000; accepted May 16, 2000
+Naturalistic studies on tool use by nonhuman primates have focused almost
+exclusively on Old World monkeys or hominoids. We studied the cracking of
+Syagrus nuts with the aid of stones by a group of semifree-ranging capuchins
+living in a reforested area (Tietˆe Ecological Park, S˜ao Paulo, Brazil). Our data
+are from direct observation and from mapping nut-cracking site utilization.
+All adults, subadults and juveniles (plus one infant) crack nuts, but individual
+differences in frequency and proﬁciency are marked. Juveniles do most of
+the nut-cracking, but adults are, on average, more efﬁcient; the frequency of
+inept stone manipulation decreases with age. About 10% of the nut-cracking
+episodes were watched by other individuals—mostly infants and juveniles,
+suggesting a role for observational learning, even if restricted to stimulus en-
+hancement.
+KEY WORDS: capuchin; foraging; tool use.
+Experimental studies and naturalistic observations on the use of tools by
+nonhuman primates brought important insights on the evolution of primate
+cognition and challenged the notion of the unique nature of human techno-
+logical capacities. Until recently, the studies were focused almost exclusively
+on Old World monkeys or apes (McGrew, 1992).
+Reports on the spontaneous use of tools by capuchins, date back to the
+writings of Gonzalo Fern´andez de Oviedo in 1526 (cited by Urbani, 1998),
+1Department of Experimental Psychology—Institute of Psychology, University of S˜ao Paulo,
+S˜ao Paulo, Brazil.
+2Correspondence concerning this article should be addressed to Eduardo B. Ottoni, Depto. de
+Psicologia Experimental, Instituto de Psicologia, Universidade de S˜ao Paulo, Av. Prof. Mello
+Moraes 1721, Bloco A, Cidade Universit´aria, CEP 05508-900, S˜ao Paulo, SP , Brazil; e-mail:
+ebottoni@usp.br.
+347
+0164-0291/01/0600-0347$19.50/0 C° 2001 Plenum Publishing Corporation
+
+PDF PAGE 2
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+348 Ottoni and Mannu
+and Erasmus Darwin (1794; Visalberghi, 1990) described the use of stones in
+nut-cracking by a captive. Other anecdotes are in the literature (Cooper and
+Harlow, 1961; Boinski, 1988; Chevalier-Skolnikoff, 1990; Fernandes, 1991)
+from captivity and natural settings.
+Many laboratory experiments on tool use in problem-solving have been
+carried out with capuchins (Westergaard and Fragaszy, 1987; Anderson,
+1990; Visalberghi, 1990; Westergaard and Suomi, 1993), and some
+(Visalberghiet al., 1995) involve interspeciﬁc comparisons with chimpanzees,
+bonobos and orangutans, which indicated a gap between monkey and ape
+understanding of causal relationships.
+Very few studies were conducted in the species’ natural environment
+or under semicaptive conditions (Perondi et al., 1995), and there are only
+sparse reports on spontaneous tool use by capuchins in the wild. Phillips
+(1998) observed a few occurrences of the use of leaves as cups to retrieve
+water from tree cavities by some individuals in a group of white-fronted
+capuchins (Cebus albifrons trinitatis).
+Spontaneous nut-cracking by a population of Cebus apella was inde-
+pendently reported by Izawa and Mizuno (1977) and Struhsaker and Leland
+(1977) and consisted, in this case, of beating the nuts of the palm ( Astro-
+carium chambira) against the joints of a bamboo tree (Bambusa guadua)o r
+beating two nuts against one another. A similar behavior was exhibited by
+captives (Ferreira et al., 1996).
+Cracking Syagrus nuts with stones has been reported by people living
+near free-ranging capuchin populations, and its indirect evidence—the nut-
+cracking sites, usually composed of some piled stones and broken nutshells—
+were observed and described by Mannu and Ottoni (1996), Rocha et al .
+(1996: Syagrus romanzofﬁana), and Langguth and Alonso (1997:S. oleracea).
+We provide a general description and some demographic aspects of
+the spontaneous use of tools in the cracking of Syagrus nuts by a semifree-
+ranging group of tufted capuchins ( Cebus apella). Our long-term research
+aims are the relations between tool use and social dynamics: between
+individual learning and the eventual processes of social information
+transfer.
+METHODS
+Study Area
+The Ecological Park of the Tietˆe River (S˜ao Paulo, SP , Brazil) is 14 km
+2
+and is one of the major areas in the region for the release of illegally captured
+and then conﬁscated animals. It is the present home of four tufted capuchin
+
+PDF PAGE 3
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+Capuchin Nut-Cracking 349
+(Cebus apella) groups, three of which live on islands. The fourth group—
+the subjects of the present study—lives in semifree-ranging conditions in
+a reforested area 180,000 m
+2. It contains a few small buildings and three
+ponds, and its vegetation includes many tree species, ﬂower bushes, and four
+palm tree species, includingSyagrus romanzofﬁana, whose nuts are eaten by
+the capuchins. Syagrus nuts are small (diameter… 1.5 cm) oval hard-shelled
+coconuts.
+Subjects
+The subjects had lived in the park for about seven years. The older
+adults (two males and three females) were released in the park islands after
+conﬁscation by the IBAMA (federal wildlife agency) and formed the group
+spontaneously, after escaping the islands by swimming. All other individuals
+were born there.
+The group comprised (in October 1998) 18 individuals: four adult males
+(two of them castrated, one of which was probably the former alpha male),
+three adult females, two subadult (5–8 years old) males, one subadult female,
+four juveniles (2–5 years old) and four infants. Another adult male died at
+the beginning of the study, and his data are not included in analyses. We
+collected the data between August 1997 and October 1998.
+The group is daily provisioned, but the capuchins do not limit them-
+selves to the provided food (mainly fruits, eggs and hasty pudding). Instead,
+they forage through the whole area, consuming naturally available items.
+Sometimes they stay away from the food trough for‚2 days, and part of the
+provisions usually rots there, which suggests that they might survive without
+provisioning.
+Procedure
+We observed their nut-cracking activity directly and indirectly. In the
+latter case, we cleaned once a week all identiﬁed nut cracking sites, comprised
+of mounds of‚2 rocks (or, less frequently, of rocks and pieces of wood or old
+cement pavements), inspected all remnants of Syagrus nuts, and registered
+their maturation state.
+For the direct observation, we employed an all-occurrences procedure
+(Martin and Bateson, 1993): along 132 observation hours we registered any
+events of stone or nut manipulation or both: date/time, subject, site, ma-
+terials, observation by other individuals and some postural aspects of the
+nut-cracking behaviour.
+
+PDF PAGE 4
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+350 Ottoni and Mannu
+RESULTS
+The group spent most of their activity time foraging and moving from
+one food source to another. Besides provisions supplied in the morning
+at the trough, they searched for and consumed a large array of seasonally
+variable, naturally available food items, including plant parts, small animals,
+eggs and larvae. Both search and consumption frequently involved complex
+manipulatory behavior. For instance in the exploration of tree trunks and
+branches with the apparent aim of locating areas where the bark is loose
+due to the presence of larvae, we observed quick ﬁngertip tapping. We had
+previously observed this during the manipulation of a wooden box in a ﬁeld
+experiment (Perondi et al., 1995). It seems to be quite similar to percussive
+foraging (Ericksonet al., 1998) during the exploratory behaviour of aye-ayes
+(Daubentonia madagascariensis).
+Nut-Cracking
+Twice, an adult female plucked a green Syagrus nut, beat it repeatedly
+against the tree trunk, orally peeled the epicarp of one extremity of the nut,
+picked a hole in it with a canine tooth, and drank the liquid endosperm.
+Consumption of the solid endosperm from mature nuts required far
+more elaborated procedures. Mature nuts were usually cracked open with
+the aid of two stones, one with a horizontal surface, laid on the substrate
+(the anvil) and the other, smaller, held in the hands (the hammer). In a few
+occasions, the anvil was a root or a half-buried piece of old cement pavement,
+and a piece of wood was once used as a hammer. Hammer stones were usually
+held in both hands (they seem to be quite heavy for the monkeys), raised
+quickly to the level of the head and then slammed against the nut on the anvil.
+The tail is held stifﬂy propped against the ground, acting as a third supporting
+point (Fig. 1). In some occasions, the monkey actually jumped upwards,
+but the tail tip maintained contact with the ground. Whereas hammering
+involves mainly strength and bodily equilibrium, positioning the nut on the
+anvil requires careful manipulation (Fig. 2), especially on sloping anvils.
+Nut-Cracking Sites
+We deﬁned a nut-cracking site as any hammer-anvil set whose use in
+nut-cracking had either been directly observed or inferred from associated
+nutshell remnants and scratches on the stones. Since the anvils are usu-
+ally difﬁcult or impossible for the capuchins to carry, nut-cracking sites are
+
+PDF PAGE 5
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+Capuchin Nut-Cracking 351
+Fig. 1. Nut-cracking posture.
+Fig. 2. Adult male positioning a nut for cracking (from VHS videotape).
+
+PDF PAGE 6
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+352 Ottoni and Mannu
+Fig. 3. Individual frequencies of observed nut-cracking episodes.
+somewhat stable—the ones with buried anvils being the most stationary ones.
+By July 1998, we had mapped 136 nut-cracking sites, with a mean of 37.2
+(rD 15–52) sites conﬁrmed active at any given month during February–July,
+1998.
+The Demographics of Nut Cracking
+We observed all subjects manipulating nuts and/or stones at the nut
+cracking sites‚1 time. All except three of the four infants actually cracked
+nuts. Individual and sex-age class differences in frequency are great.
+(Fig. 3.)
+Juveniles account for more than half of the nut cracking-episodes (ND
+164) in which the individual could be properly identiﬁed (286 out of 299
+episodes), followed by adult males (ND 54), the subadult female (ND 22),
+subadult males (ND 20), infants (one of them, N D 15) and adult females
+(ND 11;´
+2D 232:2, 5 d.f., p < 0:0001). The average numbers of episodes
+per individual in the different sex-age classes is shown in Fig. 4.
+Sex differences are less clear than age differences: among the adults,
+males were signiﬁcantly more active than females with respect to nut-crack-
+ing (goodness-of-ﬁt, ´
+2D 17:86, 1 d.f., p < 0:0001), as Visalberghi (1987)
+observed in captive subjects (1987), but the subadult female accounted for
+more nut-cracking episodes than the 2 subadult males combined.
+
+PDF PAGE 7
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+Capuchin Nut-Cracking 353
+Fig. 4. Nut-cracking episodes: average number of episodes per individual in each sex-age class.
+There are also individual diferences in proﬁciency, for example, the
+number of successful nut-cracking bouts—episodes in which consumption of
+endosperms was actually observed—divided by the total number of episodes
+(X 100), yielded a rate of 30% for Quinzinho and 8% for Pedro.
+Nut-Cracking Observation by Other Individuals
+Nut-cracking episodes provide opportunities for observational learn-
+ing: about 17% of episodes (52 occurrences) were watched from •1mb y
+other capuchin (two simultaneous observers: 6 occurrences; three simulta-
+neous observers: 2 occurrences). In some of these events, infant or juvenile
+observers manipulated the stones or ate leavings at the cracking site, usually
+after the nut-cracker left.
+The nut-cracking models were juveniles (N D 18), adults (N D 17),
+subadults (ND 10), the infant Frank (N D 5) and 2 unidentiﬁed individu-
+als. The average number of occurrences per individual in the different age
+classes is shown in Fig. 5.
+The observers were infants (N D 24), juveniles (N D 21), subadults
+(ND 8) or adults (ND 6; 3 unidentiﬁed;´
+2D 26:75, 3 d.f., p< 0:0001). The
+average values per individual in the different age classes (Fig. 5) indicate
+that observation was mainly an activity of younger individuals. This could
+be due to a more intense exploratory activity, or to a greater tolerance of
+nut-crackers to their presence.
+
+PDF PAGE 8
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+354 Ottoni and Mannu
+Fig. 5. Nut-cracking models and observers: average number of episodes per individual in
+each age class.
+Conversely, approaching adults tend to displace younger monkeys, and
+this makes them less probable observers of nut-cracking episodes. In the
+context of an experiment on induced tool use by capuchins (Perondi et al.,
+1995), we observed that the arrival of adult males to the apparatus usually
+disrupted the manipulatory activity of subadults and juveniles, which could
+constitute a serious barrier to social information transfer between the sex-
+age classes.
+Inept Manipulation of Hammers and Anvils
+We classiﬁed 38 episodes of stone manipulation (not included in the
+previous analyses) as inept for involving a wrong (non-productive) crack-
+ing procedure, in a manner very similar to that which Visalberghi (1987)
+observed in an experiment with captive capuchins, and Matsuzawa (1994)
+and Inoue-Nakamura and Matsuzawa (1997) reported among wild infant
+chimpanzees. In some cases, the hammer was struck against the bare anvil;
+in others, the subject went to a cracking site, manipulated the hammer for a
+while, then left.
+The prevalence of juveniles (N D 21) in the absolute frequencies of
+inept manipulation episodes was expected, since they are the most active
+nut-crackers (infants, ND 12; subadults, ND 2; adults, ND 2; unidentiﬁed,
+ND 1), but if the values are divided by the total number of hammer-anvil ma-
+nipulation episodes (nD 347: nut-cracking [nD 299]C other fruit-cracking
+[nD 10]C inept manipulation [nD 38]), we obtain the proportional values
+
+PDF PAGE 9
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+Capuchin Nut-Cracking 355
+Fig. 6. Proportion of inept stone manipulation episodes in the total number of nut-cracking site
+manipulation episodes for each age class.
+shown in Fig. 6, which point to a gradual decrease with age in the rate of
+inept manipulation (goodness-of-ﬁt:´2D 39:04, 3 d.f., p< 0:0001).
+DISCUSSION
+Tufted capuchins (Cebus apella) are a generalist and opportunist species
+with a very diversiﬁed diet including not only fruits, leaves, ﬂowers, buds
+and other plant parts but also arthropods, eggs and small vertebrates. To
+be located, consumed or both many of their food items require sophisti-
+cated manipulation techniques, whose acquisition may involve mechanisms
+of social information transfer (King, 1991). Our study is the ﬁrst to go be-
+yond anecdotal reports and to provide information on sex-age differences
+in spontaneous capuchin tool use in a naturalistic setting.
+Anderson (1990) observed capuchin stone nut-cracking in the labora-
+tory and suggested this could, to some extent, be an artifact of captivity, not
+to be expected in the wild due to the arboreal lifestyle of capuchins. How-
+ever, arboreality is a matter of degree: in some more open environments,
+like the Cerrado (Brazilian bush savannah) or the Caatinga (northeastern
+Brazilian dry thornbush), or even in the rain forest (P . Izar, J. R´ımoli, per-
+sonal communications), capuchins may spend considerably more time on
+the ground. Our observations of their nut cracking body postures–as well
+as their dexterity when they walk bipedally while carrying stones or other
+objects in their hands–suggest that capuchins are well adapted for terrestrial
+activities.
+
+PDF PAGE 10
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+356 Ottoni and Mannu
+Conversely, considering both the cognitive abilities and motor skills of
+capuchins, Visalberghi (1978) predicted that tufted capuchins would be likely
+to show innovative behavior and tool use for cracking nuts, if observed in
+ﬁeld sites where nuts and stones were available.
+Westergaard (1994) used Oswaldt’s classiﬁcation system to compare the
+tool-kits of captive and wild capuchins, Tanzanian chimpanzees and Tasma-
+nian aborigines, concluding that, though capuchins have smaller tool-kits,
+like chimpanzees and aborigines, captive capuchins have tool-kits that in-
+clude instruments, weapons, facilities, and subsistents produced by reduc-
+tion and replication. He pointed out that additional research was needed to
+determine if, like humans, capuchins can produce tools by linkage and con-
+junction. Since hammers and anvils are physically distinct forms combined
+to perform a particular purpose, they fulﬁll the deﬁnition of linkage.
+Langguth and Alonso (1997) consider that cracking of Syagrus nuts
+might indicate use of a less preferred resource in times of food scarcity.
+Since it is not the case in our study, we hypothesize that the occurrence
+of nut-cracking depends on a trade-off between predation risk, the kind
+of vegetation (determining the rates of terrestriality) and food availability.
+Accordingly, under favorable conditions, nut-cracking may occur even with
+other food sources available.
+Our qualitative observations on the frequently synchronized onset of
+nut-cracking bouts suggest that there may be a social facilitation effect: indi-
+viduals seem to be more prone to crack nuts when others are already doing
+it, which would generate a dillution effect, diminishing individual predation
+risks.
+Juveniles seem to be the most active nutcrackers, perhaps because they
+have restricted access to more desirable (more easily processed) food items,
+or, being more dispersed, nuts are less subject to dominant adult monopoly.
+Conversely, manipulatory activity seems to be very attractive to juvenile ca-
+puchins, even when there is no contingency between manipulation and food
+acquisition (Visalberghi, 1988; Fragaszy and Adams-Curtis, 1997). Further
+juveniles are generally bolder explorers, while dominants tend to expose
+themselves less to the risks of terrestrial activity.
+Proﬁciency in nut-cracking apparently takes years to achieve and pos-
+sibly not all individuals attain it fully, as suggested by the data on inept
+manipulation. These results are analogous to those on chimpanzees (Inoue-
+Nakamura and Matsuzawa, 1997), which, though having already acquired
+the basic actions for nut-cracking by 2.5 years, do not combine them in an
+appropriate sequence until 3.5 years old.
+As with chimpanzees, infant capuchins are highly tolerated by adults,
+and episodes involving the observation of older, more proﬁcient individuals
+by younger ones, sometimes followed by manipulation of the stones by the
+
+PDF PAGE 11
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+Capuchin Nut-Cracking 357
+youngster, point to a possibly role for some kind of observational learning,
+albeit restricted to stimulus enhancement, as a starting point of a long process
+of individual improvement by trial-and-error.
+ACKNOWLEDGMENTS
+The research was supported by an FAPESP Research Grant (#97/
+14443). The authors wish to thank the Technical Director Priscilla T. Oliveira,
+the veterinarian Liliane Milanelo, and all the staff of the Ecological Park of
+the Tietˆe River, for their support, and Dr. Patricia Izar for her manifold
+contributions.
+REFERENCES
+Anderson, J. R. (1990). Use of objects as hammers to open nuts by capuchins monkeys (Cebus
+apella). Folia Primatologica, 54(3-4), 138–145.
+Boinski, S. (1988). Use of a club by a wild white-faced capuchin (Cebus capucinus) to attack a
+venomous snake (Bothrops asper). American Journal of Primatology, 54, 86–99.
+Chevalier-Skolnikoff, S. (1990). Tool use by wildCebus monkeys at Santa Rosa National Park,
+Costa Rica. Primates, 31(3), 375–383.
+Cooper, L. R. & Harlow, H. F. (1961). Note on a Cebus monkeys’ use of a stick as a weapon.
+Psychological Reports, 8, 418.
+Erickson, C. J., Nowicki, S., Dollar, L. & Goehring, N. (1998) Percussive foraging: stimuli
+for prey location by aye-ayes ( Daubentonia madagascariensis). International Journal of
+Primatology, 19(1), 111–122.
+Fernandes, M. E. B. (1991). Tool use and predation of oysters (Crassostrea rhizophorae)b ya
+tufted capuchin, Cebus apella apella, in brackish water mangrove swamp. Primates, 32(4),
+529–531.
+Ferreira, R. G., Cavalcanti, G. C. & Souto, A. (1996). A utiliza¸c˜ao espontˆanea de objeto como
+instrumento em macaco-prego ( Cebus apella ) [Spontaneous use of objects as tools by
+capuchins]. Anais de Etologia, 14, 385.
+Fragaszy, D. M. & Adams-Curtis, L. E. (1997). Developmental changes in manipulation in
+tufted capuchins (Cebus apella) from birth through 2 years and their relation to foraging
+and weaning. Journal of Comparative Psychology, 111(2), 201–211.
+Inoue-Nakamura, N. & Matsuzawa, T. (1997). Development of stone tool use by wild chim-
+panzees (Pan troglodytes). Journal of Comparative Psychology, 111(2), 159–173.
+Izawa, K. & Mizuno, A. (1977). Palm-fruit cracking behavior of wild black-capped capuchin
+(Cebus apella). Primates, 18(4), 773–792.
+King, B. J. (1991) Social information transfer in monkeys, apes and hominids. Yearbook of
+Physical Anthropology, 34, 97–115.
+Langguth, A. & Alonso, C. (1997). Capuchin monkeys in the Caatinga: tool use and food habits
+during drought. Neotropical Primates, 5(3), 77–78.
+Mannu, M. & Ottoni, E. B. (1996). Observa¸c˜oes preliminares das t´ecnicas de forrageamento
+e uso espontˆaneo de ferramentas por um grupo de macacos-prego ( Cebus apella )e m
+condi¸c˜oes de semi-cativeiro [Preliminary observations on foraging techniques and tool
+use by a semi-captive capuchin group]. Anais de Etologia, 14, 384.
+Martin, P . & Bateson, P . (1993). Measuring behaviour—an introdutory guide . (2nd ed.).
+Cambridge, UK: Cambridge University Press.
+
+PDF PAGE 12
+P1: FRC
+International Journal of Primatology [ijop] PP063-295782 April 23, 2001 9:18 Style ﬁle version Nov. 19th, 1999
+358 Ottoni and Mannu
+Matsuzawa, T. (1994). Field experiments on use of stone tools by chimpanzees in the wild. In
+R. W. Wrangham, W. C. McGrew, F. B. M. de Waal, & P . G. Heltne (Eds.), Chimpanzee
+Cultures (pp. 351–370). Cambridge, MA: Harvard University Press.
+McGrew, W. C. (1992). Chimpanzee material culture: implications for human evolution .
+Cambridge, UK: Cambridge University Press.
+Perondi, M. A. M., Izar, P . & Ottoni, E. B. (1995). Uso de ferramentas por macacos-prego (Cebus
+apella) em condi¸c˜oes de semi-cativeiro: observa¸c˜oes preliminares [Tool use in capuchin
+monkeys under semi-captivity conditions: preliminary observations]. Anais de Etologia ,
+XII, 416.
+Phillips, K. A. (1998). Tool use in wild capuchin monkeys (Cebus albifrons trnitatis). American
+Journal of Primatology, 46, 259–261.
+Rocha, V . J., Reis, N. R. & Sekiama, M. L. (1996). Preda¸c˜ao de sementes de Syagrus romanzof-
+ﬁana por Cebus apella atrav´es da utiliza¸c˜ao de “ferramentas”, na regi˜ao de Londrina-PR
+[Predation of S. romanzofﬁana nuts by C. apella by means of “tool” use in the area of
+Londrina, PR]. Resumos do XXI Congresso Brasileiro de Zoologia, 217.
+Struhsaker, T. T. & Leland, L. (1977). Palm-nut smashing by Cebus apella apella in Colombia.
+Biotropica, 9(2), 124–126.
+Urbani, B. (1998). An early report on tool use by neotropical primates. Neotropical Primates,
+6(4), 123–124.
+Visalberghi, E. (1987). Acquisition of nut-cracking behaviour by 2 capuchin monkeys ( Cebus
+apella). Folia Primatologica, 49, 168–181.
+Visalberghi, E. (1988). Responsiveness to objects in two social groups of tufted capuchin mon-
+keys (Cebus apella). American Journal of Primatology, 15, 349–360.
+Visalberghi, E. (1990). Tool use inCebus . Folia Primatologica, 54, 146–154.
+Visalberghi, E., Fragaszy, D. M. & Savage-Rumbaugh, S. (1995). Performance in a tool-using
+task by common chimpanzees ( Pan troglodytes), bonobos ( Pan paniscus), an orangutan
+(Pongo pygmaeus), and capuchin monkeys ( Cebus apella). Journal of Comparative Psy-
+chology, 109(1), 52–60.
+Westergaard, G. C. & Fragaszy, D. M. (1987). The manufacture and use of tools by capuchin
+monkeys (Cebus apella). Journal of Comparative Psychology, 101(2), 159–168.
+Westergaard, G. C. & Suomi, S. J. (1993). Use of a tool-set by capuchins monkeys. Primates,
+34(4), 459–462.
+Westergaard, G. C. (1994). The subsistence technology of capuchins. International Journal of
+Primatology, 15(6), 899–906.

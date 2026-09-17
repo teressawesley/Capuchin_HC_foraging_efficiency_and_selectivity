@@ -1,0 +1,1384 @@
+PDF PAGE 1
+American Journal of Primatology 74:273–286 (2012)
+RESEARCH ARTICLE
+How Different Are Robust and Gracile Capuchin Monkeys? An Argument for the
+Use of Sapajus and Cebus
+JESSICA W. LYNCH ALFARO 1∗,J O S´ED ES O U S AES I L V AJ R2, AND ANTHONY B. RYLANDS 3
+1 Institute for Society and Genetics, University of California, Los Angeles, California
+2 Museu Paraense Em´ılio Goeldi, Bel´em, Par ´a, Brazil
+3 Conservation International, Arlington, Virginia
+Capuchin monkey behavior has been the focus of increasing numbers of captive and ﬁeld studies in
+recent years, clarifying behavioral and ecological differences between the two morphological types: the
+gracile and the robust capuchins (also referred to as untufted and tufted). Studies have tended to focus
+on the gracile species Cebus capucinus (fewer data are available for C. albifrons , C. olivaceus ,a n d
+C. kaapori )a n do n Cebus apella , a name that has encompassed all of the robust capuchins since the
+1960s. As a result, it is difﬁcult to ascertain the variation within either gracile or robust types. The
+phylogenetic relationships between gracile and robust capuchins have also, until now, remained ob-
+scure. Recent studies have suggested two independent Pliocene radiations of capuchins stemming from
+a common ancestor in the Late Miocene, about 6.2 millions of years ago (Ma). The present-day gracile
+capuchins most likely originated in the Amazon, and the robust capuchins in the Atlantic Forest to the
+southeast. Sympatry between the two types is explained by a recent expansion of robust capuchins into
+the Amazon (ca. 400,000 years ago). Morphological data also support a division of capuchins into the
+same two distinct groups, and we propose the division of capuchin monkeys into two genera, Sapajus
+Kerr, 1792, for robust capuchins and Cebus Erxleben, 1777, for gracile capuchins, based on a review of
+extensive morphological, genetic, behavioral, ecological, and biogeographic evidence. A m .J .P r i m a t o l .
+74:273–286, 2012. C⃝ 2012 Wiley Periodicals, Inc.
+Key words: behavioral ecology; biogeography; molecular biology; morphology; taxonomy
+INTRODUCTION
+There is a long history of utter confusion re-
+garding the systematics of the capuchin monkeys,
+much of which was, as pointed out by Hill [1960], re-
+solved by the thorough review of Hershkovitz [1949].
+Elliot [1913] provided a taxonomic key that divided
+the species into tufted (or crested) and untufted (not
+crested) groups. Subsequent major revisions main-
+tained this division, but all were confounded to a
+greater or lesser degree by the taxonomy, confused
+identiﬁcations and nomenclature, and an immensely
+confusing variability in coat colors and color pat-
+terns. Hershkovitz [1949] provided a taxonomy of
+the untufted species which has withstood the test
+of time, although he expressed his doubts about the
+validity of a number of named taxa, and as he sus-
+pected, some of these have since been found to be not
+valid [Boubli et al., 2012; Ruiz-Garc ´ıa et al., 2012].
+Hershkovitz [1949] did not review the tufted ca-
+puchins, leaving this to Remington Kellogg, who
+never published his ﬁndings. Kellogg did correspond
+extensively, however, with W. C. Osman Hill, who
+published Kellogg’s taxonomy with what information
+he had in Volume IV, Part A of his monograph se-
+ries Primates: Comparative Anatomy and Taxonomy
+[1960]. A partial insight into Hershkovitz’s views on
+the taxonomy of the capuchin monkeys prior to his
+death in 1997 is provided by Aquino and Encarnaci´on
+[1994], who mapped the Peruvian forms.
+The taxonomy arising from Hershkovitz’s [1949]
+review and from Hill’s [1960] conclusions con-
+cerning the ﬁndings of Kellogg was as fol-
+lows: Untufted group—the white-faced capuchin
+monkey Cebus capucinus [Linnaeus, 1758], the
+white-fronted capuchin C. albifrons [Humboldt,
+Contract grant sponsor: NSF; Contract grant number: BCS
+083337.
+∗Correspondence to: Jessica Lynch Alfaro, 1321 Rolfe Hall,
+Institute for Society and Genetics, University of California,
+Los Angeles, CA 90095. E-mail: jlynchalfaro@ucla.edu
+Received 13 November 2011; revised 2 December 2011; revision
+accepted 3 December 2011
+DOI 10.1002/ajp.22007
+Published online in Wiley Online Library (wileyonlinelibrary.
+com).
+C⃝ 2012 Wiley Periodicals, Inc.
+
+PDF PAGE 2
+274 / Alfaro et al.
+1812], and the weeper or wedge-capped capuchin
+C. nigrivittatus Wagner, 1848, today referred to
+as C. olivaceus Schomburgk, 1848 [see Rylands,
+1999]; Tufted group—the brown or tufted capuchin
+C. apella [Linnaeus, 1758]. All of the capuchin mon-
+keys consistently have been recognized as belonging
+to just one genus, Cebus [see Fragaszy et al., 2004a],
+and the considerable phenotypic diversity within
+each of the four species was described by Hershkovitz
+[1949] and Hill [1960] as the result of subspeciﬁc
+variation.
+The division of the untufted and tufted ca-
+puchins was well-resolved by Hershkovitz [1949,
+1955]. Cebus xanthosternos of the tufted group is
+sometimes indicated as being an exception in lack-
+ing tufts, but does in fact have two small backward
+pointing tufts when inspected more carefully [Silva,
+2001]. With age, the untufted capuchins, especially
+the females, tend to develop a certain bushiness on
+the face and head, which in some cases includes tufts,
+notable, for example, in the females of C. albifrons
+[illustrated in Hill, 1960; Napier & Napier, 1967].
+One evident feature that clearly separates the two
+species groups, well-illustrated by Hill [1960], is that
+the tufted capuchins are more compact and robust
+in their tail, limbs, jaw, and skull, and the untufted
+capuchins are less robust, more slender, and longer-
+limbed (see Fig. 1). For this reason, they are now
+more generally categorized as either robust (tufted)
+or gracile (untufted) capuchin monkey groups.
+The most recent appraisals of capuchin mon-
+key systematics have been carried out by Torres de
+Assumpc¸ ˜ao [1983], who studied the tufted capuchin
+group for a doctoral thesis published in part posthu-
+mously [see Rylands et al., 2005; Torres, 1988], by
+Silva [2001], who studied both tufted and untufted
+capuchin monkeys, also for a doctoral thesis, and
+by Groves [2001] for his book Primate Taxonomy .
+T o r r e sd eA s s u m p c¸ ˜ao [1983] and Groves [2001] ex-
+amined mainly fur color and patterns; Silva [2001]
+in addition made a thorough analysis of cranial mor-
+phology. As a result of some genetic studies [Seu ´anez
+et al., 1986, e.g.] and the revisions of Groves [2001,
+2005] and Silva [2001], a number of the subspecies
+of Hill [1960] are now classiﬁed as species [Rylands
+et al., 2000]. A new gracile species Cebus kaapori was
+described by Queiroz [1992]. The number of tufted
+species was subsequently augmented with the redis-
+covery of the previously enigmatic blonde capuchin
+monkey, Cebus ﬂavius (Schreber, 1774), by Oliveira
+and Langguth [2006].
+Capuchins form a monophyletic clade, estimated
+to have diverged from squirrel monkeys ( Saimiri)a t
+13.8 millions of years ago (Ma) (12.1–16.1 Ma) [Chiou
+et al., 2011] or 15.5 Ma (12.5–19.6 Ma) [Lynch Alfaro
+et al., 2012]. Clearly, robust and gracile capuchins
+share many synapomorphic changes in comparison
+to their sister taxon, the squirrel monkey; most no-
+t a b l yal a r g ei n c r e a s ei nb o d ys i z e( c a .3k gv s .8 0 0g ) ,
+Fig. 1. Silhouettes of Cebus (top) and Sapajus (bottom). Draw-
+ings by Amisha Gadani.
+a semi-prehensile tail, a higher encephalization quo-
+tient for at least C. apella (2.54 for C. capucinus ,
+3.49 for C. apella , and 2.63–2.80 for Saimiri [Jeri-
+son, 1973; Milligan, 2010]), increased manual dex-
+terity and food processing skills, and a delayed life
+history with signiﬁcantly increased longevity [Fra-
+gaszy et al., 2004a].
+An examination of capuchin monkey diversity,
+however, reveals far more genetic and morphological
+difference between robust and gracile species than
+within either group [Lynch Alfaro et al., 2012; Silva,
+2001]. Contra Hershkovitz [1949] and Hill [1960]
+who lumped all robust capuchins as C. apella,t h e r e
+may be more genetic and species diversity in the ro-
+bust group compared to the gracile [Lynch Alfaro
+et al., 2012; Silva, 2001]. On the other hand, recent
+studies of diversity in gracile capuchins [Boubli et al.,
+2012; Ruiz-Garc ´ıa et al., 2010, 2012] suggest that
+untufted species’ diversity has been underestimated
+A m .J .P r i m a t o l .
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+Sapajus and Cebus / 275
+in large part by lumping together the paraphyletic
+and discontinuously distributed capuchins from the
+Amazon, Andes, Trinidad, and western Ecuador un-
+der the taxon C. albifrons.
+Our understanding of differences between the
+gracile and robust capuchin species is limited be-
+cause the behavior of many capuchin species and
+subspecies has never been studied. Until now there
+have been relatively few systematic behavioral com-
+parisons across multiple species, but these kinds of
+comparisons are included here, that is, C. nigritus
+versus C. libidinosus for socioecology [Izar et al.,
+2012]; gracile versus robust species for anointing be-
+haviors [Lynch Alfaro et al., 2012]; C. nigritus and C.
+capucinus for tool use [Garber et al., 2012]; C. ﬂav-
+ius and C. libidinosus for stone tool use [Emidio &
+Ferreira, 2012]; and gracile versus robust species for
+sexual behavior [Matthews, 2012]. Here we review
+morphological, biogeographic, ecological, and behav-
+ioral differences that distinguish the robust from the
+gracile capuchin monkeys.
+MORPHOLOGICAL VARIATION
+The tufted, or crested, capuchins stand out as
+being signiﬁcantly more robust in terms of cra-
+nial and dental characteristics [Ford & Corruccini,
+1985; Jungers & Fleagle, 1980], with both cranial
+and postcranial specializations for the exploitation
+of hard and tough foods [Wright et al., 2009]. Sex-
+ual dimorphism in cranial characters is more pro-
+nounced in robust than gracile capuchins [Master-
+son, 1997; Silva, 2001]. Robust capuchin males have
+a sagittal crest that is lacking in gracile capuchins
+[Silva, 2001]. The sagittal crest is an adaptation for
+durophagy, providing a greater area for attachment
+of the temporalis muscle for biting and chewing. Ro-
+bust capuchins also have thickened corpora, larger
+ascending rami, and shorter mandibles compared
+to gracile capuchins [Bouvier, 1986; Daegling, 1992;
+Fragaszy et al., 2004a; Silva, 2001]. A larger zygo-
+matic arch provides a greater area of attachment for
+the masseter and the ability to resist greater loading,
+and further reﬂects adaptations for crushing hard
+objects [Bouvier, 1986; G. Jones in Fragaszy et al.,
+2004a]. Byron [2009] compared C. apella to C. oli-
+vaceus, C. albifrons,a n dC. capucinus and found that
+C. apella had a signiﬁcantly more robust mandibu-
+lar and temporal fossa morphology as well as more
+complex sagittal sutures than other Cebus species;
+these differences were interpreted as adaptations to
+C. apella ’s durophagous diet. Similarly, the larger
+muscle mass of the masseter and the temporalis
+muscles in C. apella compared to C. capucinus and
+C. albifrons are functionally attributed to a more
+resistant diet [Taylor & Vinyard, 2009]. In a study
+of cranial variation across three species of robust
+capuchins, Masterson [2001] reported that C. nigri-
+tus and C. robustus were both signiﬁcantly larger
+than, and had signiﬁcantly larger dental arcades,
+increased prognathism, and larger absolute cranium
+size compared to C. libidinosus. This is probably also
+the case in comparison to C. apella (sensu Silva,
+2001), and especially C. cay , with adult crania that
+are so small they look like the juvenile ones in other
+robust species [Silva, personal observation].
+With regard to postcranial functional morphol-
+ogy, robust capuchins have shorter forelimbs and rel-
+atively shorter hands and feet compared to gracile
+capuchins. Body proportion differences are present
+early in development, and C. albifrons and C. apella
+show divergent growth trajectories of limb length
+as a function of body mass [Jungers & Fleagle,
+1980]. C. albifrons is longer-limbed in proportion to
+body mass than C. apella throughout development,
+and this difference increases as growth progresses
+[Young, 2005]. Ford & Hobbs [1996] presented pre-
+liminary results that C. olivaceus (n = 2 specimens)
+is the gracile capuchin most similar to the robust
+capuchins in postcranial morphology.
+Silva [2001] concluded from his analysis of ca-
+puchin external morphology (see below) that ca-
+puchins should be divided into two subgenera:
+Sapajus Kerr, 1792, corresponding to the robust
+forms [Cebus (Sapajus) xanthosternos, Cebus (Sapa-
+jus) robustus, Cebus (Sapajus) macrocephalus, Cebus
+(Sapajus) apella, Cebus (Sapajus) libidinosus, Cebus
+(Sapajus) cay, Cebus (Sapajus) nigritus], and Cebus
+for the gracile forms [ Cebus (Cebus) capucinus, Ce-
+bus (Cebus) albifrons, Cebus (Cebus) olivaceus,a n d
+Cebus (Cebus) kaapori].
+The name Sapajus was ﬁrst used as a subgenus
+by Kerr [1792] for the form S[imia] Sapajus capuci-
+nus albulus , which Hershkovitz [1949] concluded
+was “if identiﬁable, a synonym of Cebus apella ”
+(p.346). Von Pusch [1941] subsequently used the
+name for his systematic arrangement of the genus
+Cebus, which he deﬁned as having three subgen-
+era: Saimiri Voigt, 1831; Cebus Erxleben, 1777; and
+Sapajus Kerr, 1792 [Hill 1960]. According to Von
+Pusch [1941], Sapajus comprised albifrons (with one
+subspecies) and apella (with 17 subspecies). Here we
+follow Silva [2001] in distinguishing the robust ca-
+puchin species using the name Sapajus,b u ta tt h e
+generic rather than the subgeneric level. The type
+species for Sapajus is Simia apella Linnaeus, 1758,
+and for Cebus is Simia capucina Linnaeus, 1758.
+Through qualitative analyses of 2,369 museum
+specimens from 412 localities, supplemented with
+observations of over 1,000 living animals in the wild
+and in captivity, Silva [2001] found the following
+characteristics to demonstrate a clear division in
+morphology between all tufted, robust Sapajus and
+all untufted, gracile Cebus species (see Figs. 2 and 3
+for cranial differences):
+Shape of the frontal bone: Wide and ﬂat in Cebus,
+but projecting forward and up in Sapajus.
+Am. J. Primatol.
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+276 / Alfaro et al.
+Fig. 2. Frontal view of crania of adult male Cebus (left)and Sapajus (right), annotated with key distinguishing differences. Modiﬁed
+from Silva [2001]. Drawings by Jair da Silva.
+Zygomaxillary suture: In Cebus, the suture between
+the maxilla and zygomatic bone is found approxi-
+mately in the center of the margin of the inferior
+orbit, and in Sapajus it is clearly lateral to the
+center of the margin of the inferior orbit. This is
+another invariable trait within each group that
+easily distinguishes Sapajus from Cebus.
+Nasal aperture: The nasal aperture is approximately
+as tall as it is wide in Cebus, and taller than it is
+wide in Sapajus.
+Shape of the wings of the vomer: Subdivided in Ce-
+bus, and fused in Sapajus.
+Opening to the auditory meatus: The openings are
+relatively large and positioned lower in Sapajus
+species, and are small and laterally positioned in
+Cebus. This difference is consistent for all Cebus
+versus Sapajus, and is a good way to distinguish
+between the two quickly.
+Canine shape: Regarding the canine length and the
+diameter of the base in relation to the thickness of
+the mandible, Cebus has long and slender canines,
+and Sapajus has relatively shorter, more robust
+canines.
+Shape of the base of the mandible: There is little
+variation among Cebus species; all species have a
+straight mandible base. The base of the mandible
+is curved and irregular in all Sapajus, with more
+variation in shape across species.
+Shape of the ascending ramus of the mandible: At a
+90◦ angle in Cebus, but convex and projected back
+and down in Sapajus.
+Silhouette: Looking at living capuchin monkeys from
+a side view, all Sapajus species have short limbs in
+proportion to body length, giving them a “compact”
+body shape, whereas all Cebus species have longer
+limbs in proportion to body length, giving them a
+more “lanky” silhouette (see Fig. 1).
+Silva [2001] also found that the following qualitative
+characteristics were uniform across Cebus and dif-
+ferent but variable in Sapajus (see Fig. 4 for species
+variation in face shape and pattern):
+Crown in adult phase: Tuft absent in all Cebus (at
+least in adult males; some female C. olivaceus and
+C. albifrons have tufts); present in varying degrees
+and shapes in Sapajus (sometimes absent in S.
+macrocephalus).
+Sideburns: None of the Cebus species has a dark
+preauricular stripe on the fur in the equivalent
+of “sideburns” [Groves, 2001], and all Sapajus
+species have either black or brown fur along the
+side of their faces in front of the ear (the only ex-
+ception is S. cay that displays variation in hav-
+ing the darkened stripe—and this species is far
+from sympatry with any gracile species [Silva,
+2001]).
+A m .J .P r i m a t o l .
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+Sapajus and Cebus / 277
+Fig. 3. Lateral view of crania of adult male Cebus (left)and Sapajus (right), annotated with key distinguishing differences. Modiﬁed
+from Silva [2001]. Drawings by Jair da Silva.
+Outer eyebrows: Cebus lacks a dark brown stripe
+above and in front of the ear (a stripe from the
+lateral forehead in a curve around to the cheek
+exaggerating the eyebrows); all Sapajus have this
+trait, either continuous with the dark crown (in
+most species) or discontinuous with the crown in
+S. xanthosternos. This character also appears vari-
+able for the blonde capuchin, Sapajus ﬂavius ,n o t
+included in Silva’s study.
+Beard shape: None of the Cebus species has a beard,
+and Sapajus species do have beards, ranging from
+short to long.
+There are also several characters that distinguish
+adult male Cebus and Sapajus from each other
+[Silva, 2001]:
+Cranium shape: More rounded and bulging in Cebus,
+and larger compared to Sapajus in the medial and
+superior regions. The cranium in Cebus has a nar-
+row base and a wide crown. In contrast, the base of
+the cranium is enlarged in Sapajus, and the crown
+of the head is narrower, with greater postorbital
+constriction.
+Sagittal crest: Absent in Cebus, present in Sapajus
+but differing in prominence from small to large by
+species.
+Skull height: Taller in Sapajus, in large part as a re-
+sult of the sagittal crest that is present in Sapajus
+and absent in Cebus. However, the region around
+the vertebral column is more developed in Cebus,
+diminishing somewhat the overall difference in
+skull height.
+Supraorbital ridges: Brow ridges (or supraorbital
+ridges) are more robust and expand up into the
+forehead in Sapajus; they are a well-developed
+nearly horizontal ridge in Cebus [see Groves,
+2001].
+Orbits: The orbits are both taller and wider in Cebus
+compared to Sapajus.
+Zygomatic arch: Sapajus species have zygomatic
+arches that are much more robust and arched,
+making them wider than those in Cebus.
+Mandible: Larger and thicker in adult male Sapajus
+compared to adult male Cebus.
+Size of foramen magnum: The diameter of the fora-
+men magnum is much larger in Cebus compared to
+Sapajus. The size of the occipital condyles is also
+larger and they project further in all directions in
+Cebus.
+In a geographic analysis of morphological vari-
+ation found in Sapajus, Silva [2001] found that
+tufted capuchins sympatric with Cebus showed the
+Am. J. Primatol.
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+278 / Alfaro et al.
+Fig. 4. Adult male facial variation across different capuchin monkey species. Top row, left to right: C. albifrons, C. olivaceus, C. kaapori,
+C. capucinus; bottom row, left to right: Sapajus nigritus, S. xanthosternos, S. ﬂavius, S. apella. Drawings by Amisha Gadani.
+most difference in characters, that is, robustness in
+characters associated with increased durophagy. He
+suggested that this difference was a result of charac-
+ter displacement and niche partitioning between Ce-
+bus and Sapajus. Silva’s [2001] morphometric anal-
+ysis across Sapajus species suggested a hierarchy
+of Sapajus species relationships, and he subdivided
+them into three geographical groups:
+(1) Amazonian species ( S. macrocephalus and S.
+apella)—At present, there is no genetic evidence
+that supports the distinction between these two
+species [Lynch Alfaro et al., 2012].
+(2) Species from the center of South America from
+the Cerrado (bush savanna of Central Brazil)
+and the Atlantic Forest north of the Rio Doce
+(S. libidinosus, S. cay, S. robustus, S. xanthoster-
+nos).
+(3) Species from the Atlantic Forest south of the Rio
+Doce (S. nigritus).
+These divisions map well to the genetic variation
+found across Sapajus by Lynch Alfaro et al. [2012];
+the phylogeographic data suggest that S. nigritus
+has been diversifying the longest as a species, and
+is sister to all other robust capuchins. S. robustus
+and S. xanthosternos f o r mac l a d e ,a n dw i t h i nt h a t
+clade, S. cay, S. libidinosus, S. apella ,a n d S. macro-
+cephalus form a less genetically diverse subclade.
+PHYLOGENETICS AND EVOLUTIONARY
+HISTORY OF THE CAPUCHINS
+Lynch Alfaro et al. [2012] sequenced the mi-
+tochondrial cytochrome b gene from 57 capuchin
+monkey specimens representing several species of
+both robust and gracile types of known provenance
+across their distribution: C. olivaceus, C. capucinus ,
+C. albifrons , S. apella , S. macrocephalus , S. xan-
+thosternos, S. robustus , S. nigritus , S. cay ,a n d S.
+libidinosus. C. kaapori ,a n d S. ﬂavius were not in-
+cluded in this sample and require further investi-
+gation. Using a Bayesian discrete-states diffusion
+model, they reconstructed the most probable his-
+tory of invasion across Central and South Amer-
+ica. Their work showed that capuchin monkeys con-
+tained two well-supported monophyletic clades that
+corresponded exactly to Silva’s [2001] morphologi-
+cally distinct “gracile” Cebus and “robust” Sapajus
+groups [Lynch Alfaro et al., 2012]. The time-tree
+analysis estimated that Cebus and Sapajus diverged
+from one another during the Late Miocene (approxi-
+mately 6.2 Ma) with a subsequent Plio-Pleistocene
+diversiﬁcation in each of the two clades (starting
+at ca. 2.7 Ma for Sapajus and ca. 2.1 Ma for Ce-
+bus) [Lynch Alfaro et al., 2012]. Bayesian analysis
+of phylogeographic diffusion history indicated that
+Sapajus spent most of its evolutionary history con-
+ﬁned to the Atlantic Forest, and that the current
+A m .J .P r i m a t o l .
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+Sapajus and Cebus / 279
+wide-ranging sympatry of Cebus and Sapajus across
+much of the Amazon Basin resulted from a single
+rapid Late Pleistocene (ca. 400 thousands of years
+ago [ka]) invasion of Sapajus from the Atlantic For-
+est into the Cerrado and the Amazon.
+These new data clarifying the biogeographical
+history of capuchins suggest a Late Miocene geo-
+graphical isolation of the gracile and robust forms.
+Each form diversiﬁed independently, but during
+the Pleistocene, the robust Sapajus expanded its
+range from the Atlantic Forest into both the drier
+regions, such as the Cerrado and Caatinga (xero-
+phytic forest and scrub of Northeast Brazil), and
+also to the Amazon, where it has now substan-
+tially encroached upon what was previously the ex-
+clusive range of the gracile Cebus. Lynch Alfaro
+et al. [2012] argued that, based on their ﬁndings,
+the genus Cebus as currently recognized should be
+split into two to reﬂect the Miocene divergence and
+two subsequent independent Pliocene radiations: Ce-
+bus from the Amazon and Sapajus from the Atlantic
+Forest.
+ECOLOGICAL DIFFERENCES FOR CEBUS
+AND SAPAJUS IN SYMPATRY
+The phylogeographic results shed light on long-
+standing questions about capuchin ecology, partic-
+ularly in the Amazon where Sapajus and Cebus
+are found in sympatry (see Fig. 5). For C. alb-
+ifrons, the relatively recent arrival by Sapajus may
+mean on-going competition for habitat and feed-
+ing resources, and a gradual reduction in range
+through competitive exclusion. Different outcomes
+seem to have occurred in different parts of the Ama-
+zon where both types of capuchins are found. It may
+be that the distribution of C. albifrons once extended
+throughout the Amazon and it has been extirpated
+gradually from the south and east (the direction
+Sapajus was predicted to have come from in Lynch
+Alfaro et al. [2012]). This might explain the ab-
+sence of Cebus in eastern Amazonia; some other
+Amazonian primates such as Saimiri, Saguinus,
+and Alouatta range throughout the expanse of the
+tropical rainforest [Hershkovitz, 1977, 1984; Hill,
+1962; Thorington, 1985]. However, there are other
+Amazon primate taxa that do not have representa-
+tives in eastern Amazonia, such as Pithecia, Ate-
+les, Callicebus,a n d Lagothrix. What is unusual
+for Cebus is the disjunct distribution of C. kaa-
+pori in the far northeast Amazon, suggesting that
+there may have been a wider continuous distri-
+bution for Cebus in the past but that now many
+populations in the intermediate areas have been
+extirpated. However, other Guianan primates also
+have sister species that crossed the Rio Amazonas
+at its lowest reaches ( Saguinus midas /Saguinus
+niger and Chiropotes chiropotes/Chiropotes satanas),
+Fig. 5. Superimposed distributions of Cebus and Sapajus to
+show the wide area encompassed where the two genera are
+found in sympatry. Blue = Cebus only; Yellow = Sapajus only;
+Green = Sympatric or overlapping distribution of both Cebus
+and Sapajus. Note that there is local variation in the pres-
+ence of either type of capuchin within the “green” distribution
+area.
+so this question requires further paleogeographic
+exploration.
+Habitat use and degree of overlap between S.
+apella and C. albifrons are variable across areas of
+sympatry. The gracile capuchins, with larger group
+sizes and larger home ranges, are generally found
+at lower densities than the robust species when the
+two types are found in sympatry [see, e.g., Bennett
+et al., 2001; Terborgh, 1983]. A study by Haugaasen
+and Peres [2005, 2009] of primate assemblages in
+ﬂooded and unﬂooded forest found that, of 12 pri-
+mate species, S. macrocephalus was the only true
+habitat generalist, with high population density in
+all kinds of forest; C. albifrons was found at a lower
+density than S. macrocephalus in terra ﬁrme for-
+est, and rarely observed in the ﬂooded forests, ex-
+cept at the height of the fruiting season. The dif-
+ference in population density in the two species
+was considered a result of the heavy reliance of
+C. albifrons on widely dispersed fruits such as ﬁgs
+[Haugaasen & Peres, 2005; Terborgh, 1983]. In a
+survey of the R ´ıo Curaray in the Peruvian Amazon,
+Am. J. Primatol.
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+280 / Alfaro et al.
+Heymann et al. [2002] found only C. albifrons on
+the north side of the river and S. macrocephalus
+on the south side, but suggested the difference
+was ecological (with C. albifrons restricted to the
+ﬂoodplain or riverine forest on the north of the
+river). In El Tuparro National Park, Colombia, De-
+ﬂer [1985] described only C. albifrons as using sea-
+sonally inundated forest, but S. macrocephalus and
+C. albifrons otherwise used similar forest, though
+their distributions were mutually exclusive. Deﬂer
+[1985] considered historical precedence and compet-
+itive exclusion as explanations for the capuchins’
+contiguous and non-overlapping distributions in the
+region.
+Phylogenetic analyses by Boubli et al. [2012]
+show that, like Amazonian Sapajus, C. olivaceus is
+a relatively recent radiation, with initial diversiﬁ-
+cation around 700 ka in the northern Venezuelan
+Amazon. Outcomes regarding habitat sharing be-
+tween C. olivaceus and S. apella are also variable.
+In Suriname, S. apella has a more generalized use of
+forest and edge habitats, and C. olivaceus prefers
+high terra ﬁrme rainforest, avoiding forest edge
+[Mittermeier and Van Roosmalen, 1981]. On Marac ´a
+Island in the northern Brazilian Amazon, Mendes
+Pontes [1997] found much overlap in habitat prefer-
+ences between C. olivaceus and S. apella in terra
+ﬁrme forest, but S. apella was more of a habitat
+generalist, using the emergent canopy and the un-
+derstory, while C. olivaceus was more restricted to
+intermediate levels of the forest. In Guyana, Suss-
+man and Phillips-Conroy [1995] suggested that C.
+olivaceus had more limited habitat preferences and
+lower population density than S. apella where they
+occurred together. Lehman [2000] found in a survey
+of 16 sites in Guyana that the only negative associ-
+ation in primate species’ occurrence was between S.
+apella and C. olivaceus . In particular, C. olivaceus
+sightings were greatly reduced in areas where they
+co-existed with S. apella; Lehman’s explanation was
+scramble competition rather than intergroup com-
+petition between the two species. Oliveira et al.’s
+[2009] survey of Sarac ´a-Taq ¨uera National Forest,
+Par ´a, Brazil, found S. apella to be the most abun-
+dant primate, and they never directly observed C.
+olivaceus, despite reports of it living in the area and
+C. olivaceus museum specimens from there. Surveys
+in northern French Guiana showed that in 15 of
+16 sites where both capuchin species were present,
+S. apella was more abundant than C. olivaceus .
+S. apella was recorded in all habitat types, but C.
+olivaceus only in upland forests [de Thoisy et al.,
+2005].
+C. kaapori has been observed only in tall pri-
+mary terra ﬁrme forest [Carvalho et al., 1999; Lopes
+& Ferrari, 1996; Silva & Cerqueira, 1998] and never
+in secondary forest, ﬂooded forest, or open vegeta-
+tion. In contrast, in areas of sympatry in the east-
+ern Amazon, S. apella is common in most kinds of
+habitats, including heavily degraded areas [Silva &
+Cerqueira, 1998]. C. kaapori tends to live in small
+groups at low population densities [Carvalho, 2003;
+Carvalho et al., 1999; Lopes & Ferrari, 1996; Silva &
+Cerqueira, 1998]; the low densities are attributed in
+part to interspeciﬁc competition with S. apella [see
+Carvalho et al., 1999].
+What might be the advantage that allows Sapa-
+jus to consistently exhibit higher population densi-
+ties than Cebus in areas of sympatry? The answer
+may well lie in the morphological and behavioral
+adaptations to durophagy shown by Sapajus. Sapa-
+jus species as a group are hard nut/palm fruit spe-
+cialists [Haugaasen & Peres, 2009; Janson, 1986a,b;
+Spironello, 1991, 2001; Terborgh, 1983]. On Marac ´a
+Island,S .a p e l l a ate unripe fruit more than ripe
+fruit and exploited many more palm species than
+C. olivaceus , which fed on ripe fruits in almost 90%
+of the feeding records [Mendes Pontes, 1997]. At
+Manu, S. macrocephalus efﬁciently exploited palm
+nuts for food during the dry season—adult and ju-
+venile S. macrocephalus could crush and open any
+palm nut with one bite; whereas C. albifrons adults
+would spend 5–10 min to open damaged nuts and
+were unable to open intact nuts at all [Terborgh,
+1983].
+Territoriality and ranging behavior also appear
+different between the two capuchin genera in ar-
+eas of sympatry. In Manu, Peru, S. macrocephalus
+groups primarily used a core area, with a rela-
+tively small home range, large overlap between
+groups, and peaceful interactions across groups [Ter-
+borgh, 1983]. In contrast, C. albifrons groups aggres-
+sively defended a much larger, nearly exclusive ter-
+ritory and traveled longer distances, spending days
+in a particular part of the home range until the
+food sources were exhausted, and then moving on
+[Terborgh, 1983]. This difference in ranging was em-
+phasized in the dry season when food was scarce:
+S. macrocephalus specialized on palm fruits and
+pith in a core area, while C. albifrons ranged more
+widely to ﬁnd ripe fruit [Terborgh, 1983]. Deﬂer
+(1979b) in Colombia found more tolerance between
+S. macrocephalus males than C. albifrons males
+within groups, and more tolerance across groups, as
+well as a lack of territoriality in S. macrocephalus .
+These differences are evidently ﬁxed, at least for
+C. albifrons . In the Ecuadorian Amazon, Matthews
+[2009] found that where S. macrocephalus is ab-
+sent, C. albifrons did not shift to occupy more of the
+S. macrocephalus niche, but instead showed simi-
+lar ranging, feeding, and intergroup interaction pat-
+terns to those of C. albifrons studied elsewhere.
+C. olivaceus in Venezuela shows similar ranging
+and feeding behavior to C. albifrons [see Robinson,
+1986]. In contrast, Izar et al. [2012] report that
+Sapajus species have a more ﬂexible behavioral re-
+sponse to differences in resource availability and
+distribution.
+A m .J .P r i m a t o l .
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+Sapajus and Cebus / 281
+BEHAVIORAL DIFFERENCES
+Capuchin behavioral ﬂexibility may mask the
+differences between Sapajus and Cebus because both
+are so adaptable to many habitat types and diets.
+There is wide variation in morphology and behavior
+across individuals, by age and sex class, and across
+populations within the same species. There is much
+more to be learned regarding behavioral diversity in
+capuchins; in fact, we are only beginning to scratch
+the surface for most species. For example, Jack et al.
+[2012] present a detailed analysis of natal dispersal
+data in C. capucinus: these authors found that group
+instability through group takeovers, short tenure
+length of a natal male’s father, and small group size
+were all predictors of male natal dispersal, while
+males in stable groups were more likely to remain
+as residents in their natal group. Comparable data
+are lacking for all other capuchin species except per-
+haps for S. nigritus in Iguaz ´u Falls [Janson et al.,
+2011].
+We summarize here some areas where ﬁeld stud-
+ies indicate behavioral differences between Cebus
+and Sapajus, with the caveat that not all species
+of either of the two types have been well-studied for
+any of these behaviors:
+Tool use: One striking, foraging-related difference
+between Cebus and Sapajus is in stone tool use in
+the wild. It would appear to be ubiquitous across
+robust capuchin populations in dry habitats (i.e.,
+S. ﬂavius [see Emidio & Ferreira, 2012]; S. li-
+bidinosus [see Emidio & Ferreira, 2012; Fragaszy
+et al., 2004b; Ottoni & Izar, 2008]; S. xanthoster-
+nos [see Canale et al., 2009]) and can occur even in
+forested areas (Sapajus spp. [see Ottoni & Mannu,
+2001]), but it has not been recorded in other long-
+term studies of Sapajus in rainforest conditions
+(S. nigritus in southeast Brazil [Izar et al., 2012]
+and Argentina [Di Bitetti, 2001]; S. apella in Suri-
+name [Gunst et al., 2010a,b], S. macrocephalus
+in Peru [Janson, 1986a,b] and Colombia [Izawa,
+1979]). This can be explained in part because the
+alluvial ﬂoodplain of the central Amazon has no
+stones available for tool use [Spironello, 1991,
+2001]. However, stone tool use has never been re-
+ported in the wild for any Cebus species, even, for
+example, in a savannah-like habitat where C. alb-
+ifrons used the ground frequently and dedicated
+much effort trying to crack open palm fruits: nev-
+ertheless, it ignored the stones that were avail-
+able [Deﬂer, 1979a]. Garber and Brown [2004]
+and Garber et al. [2012] took an experimental
+approach to compare tool-use of monkeys using
+dowels as probes in the wild, and reported no
+signiﬁcant differences between C. capucinus and
+S. nigritus.
+Anointing: Both Cebus and Sapajus species perform
+anointing behaviors, in which they rub secretions
+of plant or animal matter, or mud, over them-
+selves, sometimes in contact with up to several
+other individuals. Cebus anoints at a higher fre-
+quency than Sapajus, Cebus prefers plant matter
+for anointing and Sapajus prefers arthropods, and
+at least for C. capucinus , anointing has become
+a behavior independent of feeding, while Sapajus
+tends to eat the items with which it anoints [Lynch
+Alfaro et al., this issue].
+Social conventions: Social conventions such as hand
+snifﬁng, sucking body parts, and inserting ﬁn-
+gers into another individual’s mouth have been
+described in C. capucinus ; these behaviors usu-
+ally occur in a reciprocal fashion in a relaxed at-
+mosphere, and traditions may appear and be ex-
+tinguished over a number of years [Perry et al.
+2003a,b]. These social interactions are believed
+to test the strength of social bonds between indi-
+viduals [Perry 2003a,b, 2008]. These kinds of be-
+haviors have also been observed in C. albifrons ,
+but not in S. macrocephalus at the same site;
+as Janson (personal communication) describes it:
+“C. albifrons is engaging in ‘purely social’ rit-
+uals that have been described for [ C.] capuci-
+nus and seem totally alien to Sapajus as I know
+them (e.g., Sapajus don’t stick their ﬁngers up
+each other’s noses . . . .).” In fact, these kinds of
+behaviors have yet to be reported for Sapajus
+anywhere despite several long-term ﬁeld studies
+[Perry, 2011].
+Vocalizations: The description of vocalizations for C.
+albifrons by Deﬂer [1979b] matches closely that
+for C. capucinus [Gros-Louis et al., 2008; Perry,
+2008]. Robinson [1984] also described, albeit a lim-
+ited number, calls for C. olivaceus , which seem to
+correspond to those for the other gracile species. In
+contrast, Di Bitetti [2002] described several quite
+different vocalizations for S. nigritus . For exam-
+ple, the “lost calls” or “arrawh” in C. capucinus
+are ﬂat, atonal calls with lots of noise, uttered
+in 1–3 elements. “Arrh” calls are also found in C.
+albifrons, emitted when individuals are lost from
+the group, and are grouped in 2–4 calls per series
+[Deﬂer, 1979b]. However, the call with the same
+function in S. nigritus in Iguazu, Argentina, is dif-
+ferent; it is a musical long distance whistle series
+that can have 12–14 notes in quick succession [Di
+Bitetti, 2002]. The vocalizations accompanying the
+wheeze dance in C. capucinus include the wheeze,
+grunt, and squeak, and can occur during sexual
+displays or when two individuals reunite [Gros-
+Louis et al., 2008; Perry, 2008]. When Sapajus in-
+dividuals reunite, however, they emit the sirena
+or reunion scream [Di Bitetti, 2001; Lynch Alfaro,
+2008; Matheson et al., 1996]. Sapajus species may
+have additional calls that lack functional equiv-
+alents in Cebus; for example, the “wah wah wah”
+[Di Bitetti, 2001] or “rumble” [Resende et al., 2007]
+vocalization, which adult male Sapajus produces
+in response to explosive sounds such as thunder,
+Am. J. Primatol.
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 10
+282 / Alfaro et al.
+falling trees, or gunshots, has never been reported
+in Cebus.
+Courtship, mating, and postcopulatory display:
+Sapajus displays the richest repertoire of sexual
+and courtship behaviors ever described for non-
+human primates [Fragaszy et al., 2004a]. This in-
+cludes the alpha male’s initial reluctance to mate,
+females’ dogged persistence in soliciting male in-
+terest, mutual gaze between male and female and
+complex courtship signaling prior to mating, mul-
+tiple mounts which can alternate between male-
+on-female and female-on-male mounts, and post-
+copulatory display—a continuation of courtship
+behaviors after copulation [Carosi et al., 2005;
+Fragaszy et al., 2004a; Janson, 1984; Lynch Alfaro,
+2005]. In contrast, C. capucinus females in Santa
+Rosa, Costa Rica, exhibited little proceptive behav-
+ior, but instead tended to look and behave the same
+during fertile and nonfertile periods [Carnegie
+et al., 2005]. C. albifrons females at Tipu-
+tini Biological Station in Ecuador never showed
+the extended proceptivity displays commonly ob-
+served in Sapajus species [Matthews, 2012]. In
+courtship, Sapajus males and females raise their
+brows up and back and “grin,” pulling their lips
+back to expose their teeth in a grimace [Lynch
+Alfaro, 2005], but C. capucinus and C. albifrons
+instead protrude their lips in a “duck face,” which
+continues throughout copulation as well [Man-
+son et al., 1997; Matthews, 2012; Perry, 2008].
+This extreme difference in reproductive signal-
+ing suggests reproductive isolation. Janson [1984,
+1986a,b] reported the difference in sympatric S.
+macrocephalus and C. albifrons in their courtship
+behaviors; Sapajus courtship lasted longer and
+was performed with greater vigor, and Cebus fe-
+males lacked proceptive behaviors. Izar et al.
+[2012] noted that despite other signiﬁcant differ-
+ences in behavior and ecology, S. nigritus in the
+Atlantic Forest and S. libidinosus of the semi-arid
+Cerrado had very similar mating systems, sug-
+gesting that this is a conservative behavioral fea-
+ture in Sapajus.
+Group cohesion or ﬂuidity: Capuchins tend to form
+stable groups across much of their range, but
+more ﬂuid subgrouping or ﬁssion–fusion dynam-
+ics in response to resource availability can occur
+in S. nigritus (Minas Gerais, Brazil [Lynch Alfaro,
+2007]; S ˜ao Paulo, Brazil [Izar & Nakai, 2006]).
+Subgrouping or shifting group membership tends
+to occur in gracile Cebus only when there is an ag-
+gressive male take-over of a group [Perry, 2008]
+or when the group is in the process of permanent
+division into two groups [Robinson, 1988].
+DISCUSSION
+Morphological and taxonomic studies of Sapajus
+have increased the number of recognized species to
+between ﬁve and eight. Silva [2001] recognized S.
+apella, S. macrocephalus , S. libidinosus , S. cay , S.
+xanthosternos, S. robustus ,a n d S. nigritus. Groves
+[2001] decided on a rather different taxonomy: S.
+apella (with six subspecies), S. libidinosus (with four
+subspecies), S. nigritus (with three subspecies), and
+S. xanthosternos . S. ﬂavius , also a valid taxon, was
+re-discovered only in 2006.
+A literature review of the use of species/
+subspecies terms for Cebus in 1-year increments in
+Web of Science revealed that on average about 27%
+of articles in the last 4 years (2008–2011) for robust
+capuchins with Cebus in the title use a subspecies
+name or a species name other than C. apella —the
+73% that use Cebus apella include almost all captive
+studies as well as the ﬁeld studies in the range of C.
+apella sensu stricto. The use of Cebus apella has de-
+clined over time (it was used in 92% of article titles in
+2000–2003, and 88% in 2004–2007), but is still ubiq-
+uitous for captive studies. The long-standing use of
+“Cebus apella ” for all robust capuchins in captivity
+has obfuscated any understanding of tufted capuchin
+behavioral variation.
+The umbrella usage of C. apella means that it
+is impossible to use most of the published karyolog-
+ical data on robust capuchins in a taxonomic frame-
+work. Almost all of the animals used in these studies
+were from zoos, from unknown provenance, and were
+never deposited in museums to allow for subsequent
+determination of taxonomic identity. The karyotypes
+of Cebus and Sapajus differ in fundamental number
+and diploid number, but the data at present do not
+allow for a coherent evolutionary analysis because of
+the blanket use of “C. apella” to describe the samples
+from the robust group.
+Here we advocate the importance of a standard-
+ized use of Sapajus as a genus, and the careful dis-
+crimination of the identities of S. apella , S. macro-
+cephalus, S. libidinosus, S. cay, S. xanthosternos, S.
+robustus, S. nigritus ,a n d S. ﬂavius as valid species
+(or the use of subspecies according to nomenclatu-
+ral preferences) to place ﬁeld observations and ex-
+perimental results in context, allowing us to iden-
+tify the within- and across-genus variation which
+is becoming so evident for capuchin monkeys. Cap-
+tive researchers working with capuchin monkeys of
+unknown origin could now have cytochrome b and
+D-loop sequenced for their study animals and com-
+pare the sequences to published data to ﬁt their
+group on the capuchin tree. Preliminary data from
+Lynch Alfaro (pers. obs.) suggests that the robust
+capuchins from many U.S. laboratories and zoos
+may be S. apella sensu stricto from the Guianas,
+and may be genetically homogeneous, coming to
+the U.S. from relatively few founder populations.
+This suggests that captive studies may be captur-
+ing only a small fraction of the genetic or geographic
+variation found in wild robust capuchins. The
+gracile capuchins are in a similar situation, being
+A m .J .P r i m a t o l .
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 11
+Sapajus and Cebus / 283
+composed of more species than was previously be-
+lieved. C. capucinus evidently comprises two distinct
+species [Ruiz-Garc ´ıa et al., 2012] and C. albifrons
+as currently deﬁned has now been found to be pa-
+raphyletic [Boubli et al., 2012; Lynch Alfaro et al.,
+2012; Ruiz-Garc ´ıa et al., 2010]. To understand the
+phylogeography of variation in the species (and sub-
+species) of capuchins it would be of great value if
+the taxonomic identity of subjects in captive research
+were carefully established.
+Silva’s [2001] assessment of morphological diver-
+sity across Sapajus species alone is that it is equiva-
+lent in magnitude to differences across the tamarin
+(Saguinus)s p e c i e sS. mystax, S. midas, S. inustus, S.
+bicolor,a n d S. oedipus ; among owl monkeys, across
+both the “gray-neck” and “red-neck” species [as char-
+acterized by Hershkovitz, 1983]; across all Saimiri
+species, including both “gothic” and “roman” types;
+within the marmosets, both Mico and Callithrix;a n d
+within the saki monkeys Pithecia,t h ev a r i a t i o nb e -
+tween P. pithecia and P. monachus species groups.
+No genus in the pitheciines or the atelines can be
+distinguished so easily by cranial architecture as can
+the robust and gracile capuchins [Silva, 2001].
+Silva [2001] argues that except in Callicebus [see
+Hershkovitz 1988, 1990] and Saguinus [the mus-
+tached and saddle-back tamarins, see Hershkovitz
+1977], there are no records of extensive sympatry
+within Neotropical primate genera other than for ca-
+puchin monkeys (see Fig. 5). Neotropical primates
+species within genera are generally parapatric or al-
+lopatric, and are morphologically different only in
+the structure and coloration of the fur [see Her-
+shkovitz 1977, 1983, 1984, 1987; de Vivo 1991]. For
+example, in terms of cranial morphology, there are
+no characters that could assign species differences
+with conﬁdence among specimens of Pithecia, Chi-
+ropotes,o r Cacajao without known geographic origin
+and preserved skins [Silva, 2001]. In contrast, sev-
+eral cranial characteristics lead to the easy differ-
+entiation between the gracile and robust capuchins
+even for a skull of unknown provenance that lacks
+any associated pelage data (see Figs. 2 and 3).
+With capuchin monkeys, primatologists have
+a perhaps unparalleled example of two distinct,
+successful radiations of monkeys that share many
+characters of interest with apes and humans: intelli-
+gence, delayed maturation, complex social relation-
+ships, local traditions, manual dexterity, extractive
+foraging, and tool use. Yet, these two groups have
+been evolving independently from one another in the
+Neotropics for ca. 6 Ma, the same time that humans
+and chimpanzees have been evolving independently
+from one another [Carroll, 2003]. It is of enormous in-
+terest to understand the behavioral diversity within
+these two radiations of capuchins, and to understand
+differences and convergences between the two types,
+in our effort to understand capuchins as a model for
+hominid evolution.
+ACKNOWLEDGMENTS
+The UCLA Center for Society and Genetics
+funded in part the International Primatological So-
+ciety symposium on Capuchin Evolution at the meet-
+ings in Kyoto, Japan, in 2010, where the idea came
+about for this special issue on capuchin variation.
+Thanks to Amisha Gadani for the illustrations of ca-
+puchin silhouettes and faces, to Jair da Silva for the
+cranial drawings, to Romari Martinez for early dis-
+cussions, to Kenny Chiou for help with maps and
+shape ﬁles, to M. Alex Reyes for bibliographic assis-
+tance, and to Dorothy Fragaszy, Patricia Izar, and
+Renata Ferreira for their guidance and help. Special
+thanks to Jean P. Boubli for his work as co-editor of
+this issue, and to all the contributors and editors for
+this issue, especially Paul Garber for his patience
+and insight. This research complied with IACUC
+protocols, legal requirements of countries where re-
+search took place, and ASP’s policies on ethical treat-
+ment of non-human primates.
+REFERENCES
+Aquino R & Encarnaci ´on F. 1994. Primates of Peru / Los pri-
+mates del Per ´u. Primate Rep (40):1–127.
+Bennett CL, Leonard S, Carter S. 2001. Abundance, diver-
+sity, and patterns of distribution of primates on the Tapiche
+River in Amazonian Peru. Am J Primatol 54:119–126.
+Boubli JP, Rylands AB, Farias I, Alfaro ME, Lynch Alfaro
+JW. 2012. Cebus phylogenetic relationships: a preliminary
+reassessment of the diversity of the untufted capuchin mon-
+keys. Am J Primatol 74:381–393.
+Bouvier M. 1986. Biomechanical scaling of mandibular di-
+mensions in New World monkeys. Int J Primatol 7:551–
+567.
+Byron CD. 2009. Cranial suture morphology and its relation-
+ship to diet in Cebus. J Hum Evol 57:649–655.
+Canale GR, Guidorizzi CE, Kierulff MCM, Gatto CAFR. 2009.
+First record of tool use by wild populations of the yellow-
+breasted capuchin monkey ( Cebus xanthosternos ) and new
+records for the bearded capuchin ( Cebus libidinosus). Am J
+Primatol. 71:366–372.
+Carnegie SD, Fedigan LM, Ziegler TE. 2005. Behavioral in-
+dicators of ovarian phase in white-faced capuchins ( Cebus
+capucinus). Am J Primatol 67:51–68.
+Carosi M, Linn GS, Visalberghi E. 2005. The sexual behavior
+and breeding system of tufted capuchin monkeys ( Cebus
+apella). Adv Study of Behav 35:105–149.
+Carroll SB. 2003. Genetics and the making of Homo sapiens .
+Nature 422:849–857.
+Carvalho O de, Jr. 2003. Primates in a forest fragment in
+eastern Amazonia. Neotrop Primates 11:100–103.
+Carvalho O de, Jr., Pinto ACB, Galetti M. 1999. New observa-
+tions on Cebus kaapori Queiroz, 1992, in eastern Brazilian
+Amazonia. Neotrop Primates 7:41–43.
+Chiou KL, Pozzia L, Lynch Alfaro JW, Di Fiore A. 2011. Pleis-
+tocene diversiﬁcation of living squirrel monkeys ( Saimiri
+spp.) inferred from complete mitochondrial genome se-
+quences. Mol Phylogenet Evol 59:736–745.
+Daegling DJ. 1992. Mandibular morphology and diet in the
+genus Cebus. Int J Primatol 13:545–570.
+de Thoisy B, Renoux F, Julliot C. 2005. Hunting in north-
+ern French Guiana and its impact on primate communities.
+Oryx 39:149–157.
+Am. J. Primatol.
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 12
+284 / Alfaro et al.
+Deﬂer TR. 1979a. On the ecology and behavior of Cebus alb-
+ifrons in eastern Colombia: I. Ecology. Primates 20:475–490.
+Deﬂer TR. 1979b. On the ecology and behavior of Cebus alb-
+ifrons in eastern Colombia: II. Behavior. Primates 20:491–
+502.
+Deﬂer T. 1985. Contiguous distribution of two species of Ce-
+bus monkeys in El Tuparro National Park, Colombia. Am J
+Primatol 8:101–112.
+Di Bitetti MS. 2001. Home-range use by the tufted capuchin
+monkey ( Cebus apella nigritus ) in a subtropical rainforest
+of Argentina. J Zool 253:33–45.
+Di Bitetti MS. 2002. Food-associated calls in the tufted
+capuchin monkey ( Cebus apella ). Dissertation Abstr Int
+B62:3883.
+Elliot DG. 1913. A review of primates. Monograph series,
+American Museum of Natural History. New York: Ameri-
+can Museum of Natural History.
+Emidio RA, Ferreira RG. 2012. Tool use by capuchin mon-
+keys in the Brazilian Caatinga: variation in energy gain by
+season and by habitat type. Am J Primatol 74:332–343.
+Ford SM, Corruccini RS. 1985. Intraspeciﬁc, interspeciﬁc,
+metabolic, and phylogenetic scaling in platyrrhine primates.
+In: Jungers WL, editor. Size and scaling in primate biology.
+New York: Plenum Press. p 401–435.
+Ford SM, Hobbs DG. 1996. Species deﬁnition and differentia-
+tion as seen in the postcranial skeleton ofCebus. In: Norconk
+MA, Rosenberger AL, Garber, PA, editors. Adaptive radi-
+ations of neotropical primates. New York: Plenum Press.
+p 229–249.
+Fragaszy DM, Visalberghi E, Fedigan L. 2004a. The com-
+plete capuchin: the biology of the genus Cebus. Cambridge:
+Cambridge University Press.
+Fragaszy D, Izar P, Visalberghi E, Ottoni EB, de Oliveira
+MG. 2004b. Wild capuchin monkeys ( Cebus libidinosus)u s e
+anvils and stone pounding tools. Am J Primatol 64:359–366.
+Garber PA, Brown E. 2004. Wild capuchins ( Cebus capucinus)
+fail to use tools in an experimental study. Am J Primatol
+62:165–170.
+Garber PA, Gomes DF, Bicca-Marquez JC. 2012. Experimental
+ﬁeld study of problem-solving using tools in free-ranging
+capuchins (Sapajus nigritus). Am J Primatol 74:344–358.
+Gros-Louis JJ, Perry SE, Fichtel C, Wikberg E, Gilkenson H,
+Wofsy S, Fuentes A. 2008. Vocal repertoire of Cebus capuci-
+nus: acoustic structure, context, and usage. Int J Primatol
+29:641–670.
+Groves CP. 2001. Primate taxonomy. Washington, DC: Smith-
+sonian Institution Press.
+Groves CP. 2005. Order primates. In: Wilson DE, Reeder DM,
+editors. Mammal species of the world: a taxonomic and ge-
+ographic reference, 3rd ed. Baltimore: Johns Hopkins Univ
+Press. p 111–184.
+Gunst N, Boinski S, Fragaszy DM. 2008. Acquisition of for-
+aging competence in wild brown capuchins ( Cebus apella ),
+with special reference to conspeciﬁcs’ foraging artefacts as
+an indirect social inﬂuence. Behaviour 145:195–229.
+Gunst N, Boinski S, Fragaszy DM. 2010a. Development of
+skilled detection and extraction of embedded prey by wild
+brown capuchin monkeys (Cebus apella apella). J Comp Psy-
+chol 124:194–204.
+Gunst N, Leca JB, Boinski S, Fragaszy D. 2010b. The ontogeny
+of handling hard-to-process food in wild brown capuchins
+(Cebus apella apella ): evidence from foraging on the fruit of
+Maximiliana maripa. Am J Primatol 72:960–973.
+Haugaasen T, Peres CA. 2005. Primate assemblage structure
+in Amazonian ﬂooded and unﬂooded forests. Am J Primatol
+67:243–258.
+Haugaasen T, Peres CA. 2009. Interspeciﬁc primate associa-
+tions in Amazonian ﬂooded and unﬂooded forests. Primates
+50:239–251.
+Hershkovitz P. 1949. Mammals of northern Colombia. Pre-
+liminary report No. 4: monkeys (primates), with taxonomic
+revisions of some forms. Proc U. S. Natl Museum 98:323–
+427.
+Hershkovitz P. 1955. Notes on the American monkeys of the
+genus Cebus. J Mammalogy 36:449–452.
+Hershkovitz P. 1977. Living New World monkeys, part 1
+(Platyrrhini), with an introduction to primates. Chicago:
+Chicago University Press.
+Hershkovitz P. 1983. Two new species of night monkeys, genus
+Aotus (Cebidae, Primates): a preliminary report on Aotus
+taxonomy. Am J Primatol 4:209–243.
+Hershkovitz P. 1984. Taxonomy of squirrel monkeys genus
+Saimiri (Cebidae, Platyrrhini): a preliminary report with
+description of a hitherto unnamed form. Am J Primatol
+7:155–210.
+Hershkovitz P. 1987. Taxonomy of South American sakis,
+genus Pithecia (Cebidae, Platyrrhini): a preliminary report
+and critical review with the description of a new species and
+a new subspecies. Am J Primatol 2:387–468.
+Hershkovitz P. 1988. Origin, speciation, and distribution of
+South American Titi monkeys, genus Callicebus (family
+Cebidae, Platyrrhini). Proc Acad Natl Sci Phila 140:240–
+272.
+Hershkovitz P. 1990. Titis, New World monkeys of the genus
+Callicebus (Cebidae, Platyrrhini): a preliminary taxonomic
+review. Chicago: Field Museum of Natural History. 109 p.
+Heymann EW, Encarnaci ´on CF, Canaquin YJE. 2002. Pri-
+mates of the R ´ıo Curaray, northern Peruvian Amazon. Int
+J Primatol 23:191–201.
+Hill WCO. 1960. Primates: comparative anatomy and taxon-
+omy. IV. Cebidae, Part A. Edinburgh: Edinburgh University
+Press.
+Hill WCO. 1962. Primates: comparative anatomy and taxon-
+omy V. Cebidae, Part B. Edinburgh: Edinburgh University
+Press.
+Izar P, Nakai ES. 2006. Fission-fusion in tufted capuchin mon-
+keys (Cebus apella nigritus) in Brazilian Atlantic Forest. Int
+J Primatol 27:226.
+Izar P, Verderane MP, Peternelli-dos-Santos L, Mendonca-
+Furtado O, Presotto A, Tokuda M, Visalberghi E, Fragaszy
+D. 2012. Flexible and conservative features of social sys-
+tems in tufted capuchin monkeys: comparing the socioe-
+cology of Sapajus libidinosus and Sapajus nigritus .A mJ
+Primatol 74:315–331.
+Izawa K. 1979. Foods and feeding behavior of wild black-
+capped capuchin ( Cebus apella). Primates 20:57–76.
+Jack KM, Sheller C, Fedigan LM. 2012. Social factors inﬂu-
+encing natal dispersal in male white-faced capuchins (Cebus
+capucinus). Am J Primatol 74:359–365.
+Janson CH. 1984. Female choice and mating system of the
+brown capuchin monkey Cebus apella (Primates: Cebidae).
+Zeitschrift Fuer Tierpsychologie 65:177–200.
+Janson CH. 1986a. Capuchin counterpoint. Nat Hist 95:44–53.
+Janson CH. 1986b. The mating system as a determinant of
+social evolution in capuchin monkeys ( Cebus). In: Else, JG,
+Lee, PC, editors. Primate ecology and conservation. Cam-
+bridge: Cambridge University Press, UK. p 169–179.
+Janson C, Baldovino MC, Di Bitetti M. 2011. The group life
+cycle and demography of brown capuchin monkeys ( Cebus
+apella nigritus )i nI g u a z ´u National Park, Argentina. In:
+Kappeler P & Watts D, editors. Long-term ﬁeld studies of
+primates. Berlin: Springer Press.
+Jerison, HJ. 1973. Evolution of the brain and intelligence. New
+York: Academic Press.
+Jungers WL, Fleagle JG. 1980. Postnatal growth allometry
+of the extremities in Cebus albifrons and Cebus apella :a
+longitudinal and comparative study. Am J Phys Anthropol
+53:471–478.
+Kerr R. 1792. The animal kingdom, a zoological system of the
+celebrated Sir Charles Linnaeus, Edinburgh. Xii +644pp.
+Lehman S. 2000. Primate community structure in Guyana: a
+biogeographic analysis. Int J Primatol 21:333–351.
+A m .J .P r i m a t o l .
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 13
+Sapajus and Cebus / 285
+Lopes MA, Ferrari SF. 1996. Preliminary observations on the
+Ka’apor capuchin Cebus kaapori Queiroz, 1992 from eastern
+Brazilian Amazonia. Biol Conserv 76:321–324.
+Lynch Alfaro J. 2008. Scream-embrace displays in wild black-
+horned capuchin monkeys. Am J Primatol 70:551–559.
+Lynch Alfaro JW. 2005. Male mating strategies and reproduc-
+tive constraints in a group of wild tufted capuchin monkeys
+(Cebus apella nigritus ). Am J Primatol 67:313–328.
+Lynch Alfaro JW. 2007. Subgrouping patterns in a group of
+wild Cebus apella nigritus . Int J Primatol 28:271–289.
+Lynch Alfaro JW, Boubli JP, Olson LE, Di Fiore A, Wilson
+B, Gutierrez-Espeleta GA, Chiou KL, Schulte M, Neitzel
+S, Ross V, Schwochow D, Nguyen MTT, Farias I, Janson
+CH, Alfaro ME. 2012. Explosive Pleistocene range expan-
+sion leads to widespread Amazonian sympatry between ro-
+bust and gracile capuchin monkeys. J Biogeography 39:272–
+288..
+Lynch Alfaro JW, Matthews L, Boyette AH, Macfarlan SJ,
+Phillips KA, Fal ´otico T, Ottoni E, Verderane M, Izar P,
+Schulte M, Melin A, Fedigan L, Janson C, Alfaro ME. 2012.
+Anointing variation across wild capuchin populations: a re-
+view of material preferences, bout frequency and anointing
+sociality in Cebus and Sapajus. Am J Primatol 74:299–314.
+Manson JH, Perry S, Parish AR. 1997. Nonconceptive sexual
+behavior in bonobos and capuchins. Int J Primatol 18:767–
+786.
+Masterson TJ. 1997. Sexual dimorphism and interspeciﬁc cra-
+nial form in two capuchin species: Cebus albifrons and C.
+apella. Am J Phys Anthropol 104:487–511.
+Masterson TJ. 2001. Geographic cranial variation among
+three subspecies of Cebus apella. Am J Primatol 52:46–47.
+Matheson MD, Johnson JS, Feuerstein J. 1996. Male reunion
+displays in tufted capuchin monkeys ( Cebus apella ). Am J
+Primatol 40:183–188.
+Matthews LJ. 2009. Activity patterns, home range size, and
+intergroup encounters in Cebus albifrons support existing
+models of capuchin socioecology. Int J Primatol 30:709–728.
+Matthews LJ. 2012. Variations in sexual behavior among ca-
+puchin monkeys function for conspeciﬁc mate recognition: a
+phylogenetic analysis and a new hypothesis for female pro-
+ceptivity in tufted capuchins. Am J Primatol 74:287–298.
+Mendes Pontes AR. 1997. Habitat partitioning among pri-
+mates in Marac ´a Island, Roraima, northern Brazilian Ama-
+zonia. Int J Primatol 18:131–157.
+Milligan LA. 2010. Milk composition of captive tufted ca-
+puchins (Cebus apella). Am J Primatol 72:81–86.
+Mittermeier RA, Van Roosmalen MGM. 1981. Preliminary ob-
+servations on habitat utilization and diet in eight Surinam
+monkeys. Folia Primatol 36:1–39.
+Napier JR, Napier PH. 1967. A handbook of living primates.
+London: Academic Press.
+Oliveira MM de, Langguth A. 2006. Rediscovery of Marc-
+grave’s capuchin monkey and designation of a neotype for
+Simia ﬂavia Schreber, 1774 (Primates, Cebidae). Boletim
+do Museu Nacional, nova s ´erie, Rio de Janeiro 523:1–16.
+Oliveira LC, Loretto D, Viana LR, Silva JS, Jr., Fernandes
+W. 2009. Primate community of the tropical rain forests of
+Sarac ´a-Taquera National Forest, Par ´a. Brazil. Braz J Biol
+69:1091–1099.
+Ottoni EB, Izar P. 2008. Capuchin monkey tool use: overview
+and implication. Evol Anthropol 17:171–178.
+Ottoni EB, Mannu M. 2001. Semifree-ranging tufted ca-
+puchins (Cebus apella) spontaneously use tools to crack open
+nuts. Int J Primatol 22:347–358.
+Perry S. 2008. Manipulative monkeys: the capuchins of Lomas
+Barbudal. Cambridge: Harvard University Press. 368 p.
+Perry S. 2011. Social traditions and social learning in capuchin
+monkeys ( Cebus). Philos. Trans R Soc, Lond B Biol Sci.
+366:988–996.
+Perry S, Baker M, Fedigan L, Gros-Louis J, Jack K, MacK-
+innon KC, Manson JH, Panger M, Pyle K, Rose L. 2003a.
+Social conventions in wild white-faced capuchin monkeys—
+evidence for traditions in a neotropical primate. Curr An-
+thropol 44:241–268.
+Perry S, Panger M, Rose LM, Baker M, Gros-Louis J, Jack K,
+MacKinnon KC, Manson J, Fedigan L, Pyle K. 2003b. Tra-
+ditions in wild white-faced capuchin monkeys. In: Fragaszy
+DM, Perry S, editors. The biology of traditions: models and
+evidence. New York: Cambridge Univ. Press. p 391–425.
+Pusch B von. 1941. Der Arten der Gattung Cebus.Z
+S ¨augetierkd 16:183–237.
+Queiroz HL. 1992. A new species of capuchin monkey, genus
+Cebus Erxleben, 1777 (Cebidae: Primates) from eastern
+Brazilian Amazonia. Goeldiana Zoologia 15:1–13.
+Resende BD de, Oliveira DAG, Ramos da Silva ED, Ottoni
+EB. 2007. Capuchin monkey ( Cebus apella) vocalizations in
+response to loud explosive noises. Neotrop Primates 14:25–
+28.
+Robinson JG. 1984. Syntactic structures in the vocalizations
+of wedge-capped capuchin monkeys, Cebus olivaceus .B e -
+haviour 90:46–79.
+Robinson JG. 1986. Seasonal variation in use of time and space
+by the wedge-capped capuchin monkey, Cebus olivaceus :
+implications for foraging theory. Smithsonian Contrib Zool
+(431):1–60.
+Robinson JG. 1988. Demography and group structure in
+wedge-capped capuchin monkeys, Cebus olivaceus .B e -
+haviour 104:202–232.
+Ruiz-Garc´ıa M, Castillo MI, V ´asquez C, Rodriguez K, Pinedo
+M, Shostell J, Leguizamon N. 2010. Molecular phylogenet-
+ics and phylogeography of the white-fronted capuchin ( Ce-
+bus albifrons; Cebidae, Primates) by means of mtCOII gene
+sequences. Mol Phylogenet Evol 57:1049–1061.
+Ruiz-Garc´ıa M, Castillo MI, Ledezma A, Leguizamon N,
+Sanchez R, Chinchilla M, Gutierrez-Espeleta GA. 2012.
+Molecular systematics and phylogeography of Cebus ca-
+pucinus (Cebidae, Primates) in Colombia and Costa Rica
+by means of the mitochondrial COII gene. Am J Primatol
+74:366–380.
+Rylands AB. 1999. The name of the weeper or wedge-capped
+capuchin in the Guianas. Neotrop Primates 7:89–91.
+Rylands AB, Kierulff MCM, Mittermeier RA. 2005. Some
+notes on the taxonomy and distributions of the tufted ca-
+puchin monkeys (Cebus, Cebidae) of South America. Lundi-
+ana 6(suppl.): 97–110.
+Rylands AB, Schneider H, Langguth A. Mittermeier RA,
+Groves CP, Rodriguez-Luna E. 2000. An assessment of the
+diversity of new world primates. Neotrop Primates 8:61–93.
+Seu ´anez HN, Armada JL, Freitas L, da Rocha e Silva R, Pissi-
+natti A, Coimbra-Filho AF. 1986. Intraspeciﬁc chromosome
+variation in Cebus apella (Cebidae, Platyrrhini): the chro-
+mosomes of the yellow-breasted capuchin Cebus apella xan-
+thosternos Wied, 1820. Am J Primatol 10:237–247.
+Silva JS, Jr. 2001. Especiac¸ ˜ao nos macacos-prego e caiararas,
+gˆenero Cebus Erxleben, 1777 (Primates, Cebidae). PhD
+Thesis, Universidade Federal do Rio de Janeiro, Rio de
+Janeiro.
+Silva JS, Jr., Cerqueira R. 1998. New data and a histori-
+cal sketch on the geographical distribution of the Ka’apor
+capuchin, Cebus kaapori Queiroz, 1992. Neotrop Primates
+6:1180–121.
+Spironello WR. 1991. Import ˆancia dos frutos de palmeiras
+(Palmae) na dieta de um grupo de Cebus apella (Cebidae,
+Primates) na Amaz ˆonia Central. In: Rylands A, Bernardes
+AT, editors. A primatologia no Brasil—3. Belo Horizonte,
+Brazil: Sociedade Brasileira de Primatologia. p 285–296.
+Spironello WR. 2001. The brown capuchin monkey ( Cebus
+apella): ecology and home range requirements in Central
+Amazonia. In: Bierregaard RO, Jr., Gascon C, Lovejoy TE,
+Mesquita R, editors. Lessons from Amazonia: the ecology
+and conservation of a fragmented forest. New Haven: Yale
+University Press. p 271–283.
+Am. J. Primatol.
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 14
+286 / Alfaro et al.
+Sussman RW, Phillips-Conroy JE. 1995. A survey of the distri-
+bution and density of the primates of Guyana. Int J Primatol
+16:761–791.
+Taylor AB, Vinyard CJ. 2009. Jaw-muscle ﬁber architecture in
+tufted capuchins favors generating relatively large muscle
+forces without compromising jaw gape. J Hum Evol 57:710–
+772.
+Terborgh J. 1983. Five New World primates: a study in com-
+parative ecology. Princeton: Princeton University Press.
+Thorington Jr. RW. 1985. The taxonomy and distribution of
+squirrel monkeys ( Saimiri). In: Rosenblum LA, Coe CL, ed-
+itors. Handbook of squirrel monkey research. New York:
+Plenum Press. p 1–33.
+Torres C. 1988. Resultados preliminares de reavaliac ¸ ˜ao das
+rac¸as do macaco-prego Cebus apella (Primates: Cebidae).
+Rev Nordest Biol 6:15–28.
+Torres de Assumpc¸ ˜ao C. 1983. An ecological study of the pri-
+mates of southeastern Brazil, with a reappraisal of Cebus
+apella races. PhD Thesis, Edinburgh: University of Edin-
+burgh.
+Wright BW, Wright KA, Chalk J, Verderane MP, Fragaszy D,
+Visalberghi E, Izar P, Ottoni EB, Constantino P, Vinyard
+C. 2009. Fallback foraging as a way of life: using dietary
+toughness to compare the fallback signal among capuchins
+and implications for interpreting morphological variation.
+Am J Phys Anthropol 140:687–699.
+Vivo M de. 1991. Taxonomia de Callithrix, Erxleben, 1777
+(Callitrichidae, Primates). Belo Horizonte, Fundac¸ ˜ao Biodi-
+versitas. 105 p.
+Young JW. 2005. Ontogeny of muscle mechanical advantage
+in capuchin monkeys ( Cebus albifrons and Cebus apella). J
+Zool 267:351–36.
+A m .J .P r i m a t o l .
+ 10982345, 2012, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.22007 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [31/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

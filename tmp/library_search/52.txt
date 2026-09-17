@@ -1,0 +1,1372 @@
+PDF PAGE 1
+ORIGINAL PAPER
+Animal Cognition (2025) 28:86
+https://doi.org/10.1007/s10071-025-02011-7
+Introduction
+Affiliative social interactions can have far-reaching effects 
+on an individual’s health and ultimately fitness, such as 
+higher reproductive success, greater offspring survival and 
+improved longevity (Snyder-Mackler et al. 2020). Natural 
+selection therefore favors individuals that have the ability to 
+effectively compete and cooperate with others, which in turn 
+requires the ability to assess other’s motivations, intentions 
+and skills (Seyfarth and Cheney 2015; Cheney et al. 2016). 
+In many species some individuals have stronger social ties 
+and are better integrated into the social network, result -
+ing in differentiated social networks (Seyfarth and Cheney 
+2012; Silk et al. 2009; Farine and Whitehead 2015; Ostner 
+and Schülke 2018). While in non-human primates, earlier 
+research identified factors such as kinship, cooperation or 
+phenotypic assortment predisposing some individuals to 
+be more valuable social partners than others (Seyfarth and 
+  Claudia Fichtel
+Claudia.fichtel@gwdg.de
+1 Department of Sociobiology/Anthropology, University of 
+Göttingen, Göttingen, Germany
+2 Behavioral Ecology & Sociobiology Unit, German Primate 
+Center, Göttingen, Germany
+3 Institute of Computer Science and Campus Institute Data 
+Science, University of Göttingen, Göttingen, Germany
+4 Department of Molecular Medicine, Sapienza University of 
+Rome, Rome, Italy
+5 Max Planck Institute for Dynamics and Self-Organization, 
+Göttingen, Germany
+Abstract
+Social interactions are crucial for individual health and ultimately fitness, making the choice of social partners evolution -
+arily relevant. Previous research has shown that individuals who succeed in foraging tasks often receive increased affili -
+ation from group members. Similarly, in a social learning context, individuals who possess valuable information become 
+more attractive social partners. Thus, an individual’s role in a foraging context, specifically, whether it is a successful 
+producer, can influence its social relationships. To explore this effect, we examined the interplay between social learning, 
+producing and scrounging behavior, and social relationships in four groups of wild red-fronted lemurs ( Eulemur rufifrons; 
+N = 29). We conducted an open diffusion experiment with food boxes that required animals to learn one of two techniques 
+to open them. 16 individuals learned to open them. Initial success was better predicted by use of individual than social 
+information, i.e., manipulating the food boxes vs. time spent watching successful individuals or scrounging. Older males 
+were less successful than females. Scrounging occurred in about 26% of events. The technique used, age and sex of the 
+producer did not predict the number of scroungers. Less successful individuals and males scrounged more often. Suc -
+cessful individuals received more affiliative behavior during the experimental period than in the pre-experimental period, 
+which returned to baseline levels during the post-experimental period. Thus, red-fronted lemurs recognize and reward 
+competent foraging partners socially during periods where they can benefit from them immediately. Together, these results 
+highlight the importance of foraging competence for social integration and partner choice.
+Keywords Scrounger producer dynamics · Social learning · Social relationships · Red-fronted lemurs · Primates
+Received: 12 June 2025 / Revised: 19 September 2025 / Accepted: 22 September 2025 / Published online: 29 October 2025
+© The Author(s) 2025
+Foraging competence and its impact on social relationships in a 
+socially tolerant wild primate
+Elif Karakoç1,2  · Richard Vogg2,3  · Michele Marziliano2,4  · Jacob von Petersdorff2 · Alexander S. Ecker3,5  ·  
+Peter M. Kappeler2,4  · Claudia Fichtel2
+1 3
+
+PDF PAGE 2
+Animal Cognition (2025) 28:86
+Cheney 2012), more recent work has suggested that specific 
+skills may also make some individuals preferred social part-
+ners (Fruteau et al. 2009; Kulahci et al. 2018; Kulahci and 
+Quinn 2019).
+Specifically, experimental studies with long-tailed 
+macaques (Macaca fascicularis) and vervet monkeys (Chlo-
+rocebus pygerythrus) revealed that low-ranking individuals 
+knowing how to manipulate a food dispenser, providing 
+food for the entire group, received in turn more affiliative 
+interactions from other group members (Stammbach 1988; 
+Fruteau et al. 2009) or from females of the social unit in 
+Guinea baboons ( Papio papio; O’Hearn et al. 2025a). 
+Hence, these non-human primates are able to monitor 
+and recognize the expertise of others and adapt their own 
+behavior in a fine-tuned manner to take advantage of these 
+capabilities (Stammbach 1988). In a similar vein, a study 
+on ring-tailed lemurs ( Lemur catta) showed that individu -
+als in the vanguard of adopting an innovation that allowed 
+them to open a food dispenser also received more affiliation, 
+even though—crucially—no other group member enjoyed 
+a personal food reward (Kulahci et al. 2018). This study 
+suggested that the mere possession of information or being 
+competent can increase an individual’s value as a social 
+partner.
+Competence refers to the skills required in a particular 
+domain, such as foraging, and reflects an individual’s over-
+all ability to succeed in a given domain (Sih et al. 2019). 
+In the context of social learning, competent individuals, i.e. 
+innovators of a new behavior and thus successful individu -
+als, play a key role in information transmission, as interact-
+ing with successful individuals can lead to the learning of 
+new skills by others. Social learning is defined as changes 
+in an individual’s behavior that result from exposure to 
+another individual’s behavior or its products (Heyes 1994). 
+Social relationships, in turn, are crucial for the transmission 
+of information within a group and act as channels for infor-
+mation exchange (Hoppitt et al. 2010; Hoppitt and Laland 
+2011).
+Studying innovation and information transmission in nat-
+ural settings is difficult because the likelihood of witnessing 
+and documenting this process is rather small (Whiten and 
+Mesoudi 2008; Schnoell and Fichtel 2012; Fichtel 2022). 
+To overcome this challenge, many researchers have con -
+ducted social diffusion experiments (Whiten and Mesoudi 
+2008; Whiten et al. 2016). These experiments typically 
+present a food box that can be opened by using one or more 
+techniques. In one variant, the social diffusion paradigm, 
+a demonstrator can be trained in advance to subsequently 
+document the diffusion of the opening technique within 
+a group. In another variant, the open diffusion paradigm, 
+no demonstrator is trained in advance and individuals can 
+simultaneously explore and learn individually how to solve 
+the task (Canteloup et al. 2020, 2021; Barrett et al. 2017; 
+Arbon et al. 2023). In particular, open diffusion experiments 
+enable the investigation of characteristics of innovators 
+who acquire primary knowledge in a natural way that is not 
+influenced by training (Whiten and Mesoudi 2008). Another 
+advantage of open diffusion experiments is that naïve indi -
+viduals are not seeded with a trained technique. Therefore, 
+the natural preference and flexibility towards the solutions 
+can be observed (Arbon et al. 2023).
+In social learning experiments in which several indi -
+viduals can interact at the experimental apparatus, it has 
+been documented that naïve individuals exhibit scroung -
+ing behavior, i.e., they benefit from the efforts of others 
+rather than actively learning by themselves (e.g. Fragaszy 
+and Visalberghi 1989; Beauchamp and Kacelnik 1991). 
+Several studies on birds, for example in pigeons (Giraldeau 
+and Lefebvre 1987; Lefebvre and Helder 1997) and zebra 
+finches (Beauchamp and Kacelnik 1991), have suggested 
+that scrounging can inhibit social learning or that it can 
+inhibit learning in general, as shown for example in great 
+and blue tits ( Parus major, Cyanistes caeruleus; Aplin and 
+Morand-Ferron 2017; Reichert et al. 2021). These studies 
+suggest that individuals who rely on the efforts of others 
+rather than learning by themselves may hinder their own 
+acquisition of skills and competence. However, juvenile 
+scrub jays ( Aphelocoma coerulescen ) performed better 
+in a foraging task when they were able to scrounge from 
+observed models compared to the condition where scroung-
+ing was restricted (Midford et al. 2000).
+In primates, an inhibiting effect of scrounging has been 
+discussed in tufted capuchin monkeys ( Sapajus spp.; Fra-
+gaszy and Visalberghi 1989), but in more recent studies 
+the opposite trend has been suggested. Ottoni et al. ( 2005) 
+argued that scrounging might indirectly enhance learning. 
+Individuals may pay attention to the successful peers to max-
+imize their chances of scrounging, thereby increasing their 
+observation time and subsequently their probability to learn. 
+Indeed, during nut-cracking or tool-using events, tufted, 
+brown, and white-faced capuchin monkeys ( Sapajus spp., 
+Cebus capucinus) paid more attention to competent individ-
+uals (Ottoni et al. 2005; Coelho et al. 2015; Goldsborough 
+et al. 2025). Furthermore, in a study of common marmosets 
+(Callithrix jacchus), Caldwell and Whiten (2003) compared 
+two experimental conditions: in one, naïve individuals could 
+only observe competent conspecifics through a wire mesh, 
+while in the other, they could interact directly with them and 
+scrounge from their efforts. Marmosets which could inter -
+act directly with demonstrators while scrounging performed 
+better at the task than those who could only observe compe-
+tent individuals. This suggests that scrounging in primates 
+does not inhibit social learning, but rather presents an active 
+mechanism facilitating social learning.
+1 3
+86 Page 2 of 15
+
+PDF PAGE 3
+Animal Cognition (2025) 28:86
+Therefore, the role of scrounging in social learning con -
+texts needs to be investigated more comprehensively. Obser-
+vations that competent individuals become more valuable 
+social partners when they possess new information (Kulahci 
+et al. 2018) or provide food that enables others to learn 
+socially (Stammbach 1988; Fruteau et al. 2009; O’Hearn et 
+al. 2025a), raise the question of whether affiliation could 
+be traded as a commodity for gathering new information or 
+scrounging.
+In this study, we investigated the interplay between social 
+learning, scrounging, and social relationships in wild red-
+fronted lemurs ( Eulemur rufifrons). Studying these aspects 
+in their natural habitat allows us to study them under eco -
+logically and evolutionarily valid conditions (Fichtel 2022). 
+Lemurs (Lemuriformes), an adaptive radiation of primates 
+endemic to Madagascar, are interesting in this context 
+because they evolved in isolation from other primates for 
+more than 50 Myr (Everson et al. 2025) and group-living 
+has evolved twice independently (Kappeler and Pozzi 
+2019). They are also considered a model for early primate 
+cognitive evolution (Fichtel and Kappeler 2012; Ho et al. 
+2021). Red-fronted lemurs, in particular, are an interesting 
+study species to investigate the interplay between social 
+learning, scrounging, and social relationships for several 
+reasons. Firstly, red-fronted lemurs have a relatively egali -
+tarian social structure that promotes a high degree of social 
+tolerance (Pereira et al. 1990; Ostner and Kappeler 1999; 
+Fichtel et al. 2018), facilitating social learning (Coelho et 
+al. 2024; Coussi-Korbel and Fragaszy 1995; van Schaik et 
+al. 1999). Secondly, in previous studies we have already 
+investigated the cognitive abilities of red-fronted lemurs in 
+the wild, including social learning and innovation (Schnoell 
+and Fichtel 2012; Schnoell et al. 2014; Huebner and Fich -
+tel 2015; Fichtel 2022), and have documented scrounging 
+behavior in social learning experiments using a social dif -
+fusion paradigm (Schnoell and Fichtel 2012; Schnoell et 
+al. 2014). However, it remains unclear whether scrounging 
+facilitates or inhibits social learning. Thirdly, red-fronted 
+lemurs are known to exchange grooming as a commodity 
+for tolerance (Port et al. 2009), prompting the question of 
+whether they also trade affiliative behavior for opportunities 
+to scrounge or gain access to social information from skilled 
+individuals.
+To address these open questions, we conducted an open 
+social diffusion experiment by presenting four groups of 
+red-fronted lemurs with food boxes that could be opened 
+by using two different techniques (lifting or pushing) to 
+gain access to a food reward (Fig. 1a, b). Specifically, we 
+studied the following questions: (a) Who innovates? Based 
+on our earlier research with red-fronted lemurs (Schnoell 
+and Fichtel 2012), we predicted that juveniles and females 
+would be more likely to innovate. (b) What predicts initial 
+learning, the first successful opening of the food box? Use 
+of individual information by manipulating the food box 
+Fig. 1 A red-fronted lemur using a the pushing and b the lifting tech-
+nique to open the food box. c Demonstration of the experimental setup; 
+an overview of the setup (center) and the camera views; top view can 
+be seen on the upper right, close-up view is middle right, and the wide-
+angle camera view is bottom right
+ 
+1 3
+Page 3 of 15 86
+
+PDF PAGE 4
+Animal Cognition (2025) 28:86
+Experimental food boxes
+We used two-option-food-dispenser (20 × 20 × 30 cm) for 
+this experiment (Fig. 1a, b). The food box consisted of two 
+parts: a wooden foundation with a cavity containing the 
+food reward and an upper box composed of four-square 
+boards and a sliding door aligned in a cube-shaped manner. 
+Individuals could access the food reward by lifting the slid-
+ing front-door or pushing back the box on the foundation 
+(Fig. 1). The sliding door would fall back shut if not held 
+open. Similarly, if the box was opened by pushing, metal 
+springs would return it to its initial position after release. 
+Both techniques were likely to have the same level of dif -
+ficulty. The food box was filled with a mixture of raisins and 
+pieces of peeled oranges as food rewards. The boxes were 
+filled with the same amount of food to ensure that the cavity 
+in the wooden foundation was completely filled.
+Experimental procedure and setup
+At the beginning of each experiment, we set up the food 
+boxes and the cameras at a distance of about 50 m from a 
+study group to avoid animals witnessing experimenters fill-
+ing the food boxes with the food rewards. We then attracted 
+red-fronted lemurs with an acoustic signal produced by a 
+clicker, which is commonly used to train animals, until all 
+individuals of the tested group arrived at the experimen -
+tal site. The researchers wear lab coats when conducting 
+experiments to visually distinguish them from researchers 
+who only conduct behavioral observations. Animals were 
+first habituated to the new food boxes by presenting them 
+with open or half-open food boxes containing the reward 
+for three to four sessions. After the habituation phase, food 
+boxes were presented with closed doors for 10 experimental 
+sessions, depending on the group over a period of four to 
+six weeks (Table S2). Experimental sessions lasted between 
+10 and 30 min (mean ± SD: 13.8 ± 5.1 min) and individu -
+als opened the food boxes on average 33 ± 17 (mean ± SD) 
+times per session. Sessions ended when all individuals lost 
+interest and left the experimental arena for at least one min-
+ute. Experiments were conducted with the utmost care and 
+for the shortest possible duration: four to six weeks per 
+group in this study. Outside the experimental period, we did 
+not use the clicker to attract animals or provide the animals 
+with food. Furthermore, there is always a period of several 
+months, and occasionally several years, without experi -
+ments involving food between experiments.
+or social information, i.e., watching successful individu -
+als or scrounging? Since we have already shown that the 
+use of social information facilitates learning (Schnoell and 
+Fichtel 2012), we predicted that the use of social informa -
+tion also facilitates learning in this experiment. (c) Do red-
+fronted lemurs develop a preference for one technique over 
+another? In our previous studies (Schnoell and Fichtel 2012; 
+Schnoell et al. 2014), only individuals with a seeded dem -
+onstrator developed a preference for the seeded technique. 
+Therefore, we did not predict that red-fronted lemurs would 
+develop a preference for one technique over another. (d) 
+Do individuals become more efficient over time? Here we 
+investigated whether individuals become faster in opening 
+the boxes, suggesting motor learning in applying the open -
+ing techniques. In addition, we investigated, (e) what pre -
+dicts overall success in opening the food boxes?
+Since red-fronted lemurs showed scrounging behavior in 
+previous experiments (Schnoell and Fichtel 2012; Schnoell 
+et al. 2014), we predicted that red-fronted lemurs also show 
+scrounging behavior in this experiment. Specifically, we 
+investigated (f) what characterizes victims of scrounging, 
+i.e., the producer? Since red-fronted lemurs do not have clear 
+intra- and inter-sexual dominance relationships (Ostner and 
+Kappeler 1999), we predicted that neither sex, or age of the 
+producer predicts scrounging frequencies. Next, we investi-
+gated (g) who is scrounging? We predicted that neither sex 
+or age predicts how often an individual scrounges (Schnoell 
+et al. 2014). Since in other studies more competent individu-
+als received more affiliation (Stammbach 1988; Fruteau et 
+al. 2009; Kulahci et al. 2018; O’Hearn et al. 2025a), we also 
+predicted (h) that more successful individuals receive more 
+affiliation during the experimental period.
+Methods
+Field station and subjects
+We conducted this study at the German Primate Center 
+(DPZ) research station in Kirindy Forest, western Madagas-
+car (Kappeler and Fichtel 2012). We conducted the experi-
+ments on four groups of wild red-fronted lemurs ( Eulemur 
+rufifrons), comprising a total of 30 individuals (Table S1, 
+one female left the group at beginning of the experiment). 
+As part of a long-term study (since 1996; Kappeler and 
+Fichtel 2012), the study animals are marked with a collar 
+and a tag for individual identification and are well habitu -
+ated to humans.
+1 3
+86 Page 4 of 15
+
+PDF PAGE 5
+Animal Cognition (2025) 28:86
+Behavioral observations
+In addition, we conducted 30-min continuous focal animal 
+observations of each individual six weeks before, four to six 
+weeks during, and four to six weeks after the experimental 
+period. Observations during the experimental period were 
+always conducted before or after an experiment. Focal ani -
+mals were selected in a random but balanced order and were 
+observed on average for 5.33 ± 1.89 h. We recorded affilia-
+tive behaviors such as grooming, body contact and huddling 
+according to an established ethogram (Pereira and Kappeler 
+1997; Table S3).
+Statistical analysis
+Research question (RQ; b): What predicts initial learning: 
+use of individual or social information?
+Model 1: To investigate factors predicting the probabil -
+ity of learning, we first fitted a binomial GLMM. However, 
+the model produced extremely large coefficient estimates, 
+a symptom of separation in the data, which rendered the 
+model parameters uninterpretable. Therefore, we fitted a 
+Bayesian logistic regression model with a Bernoulli error 
+structure with a logit link function by using the brms pack -
+age in R (Bürkner 2017). We included whether the indi -
+vidual learned to open the food box (yes or no, N = 27 
+individuals) by either technique for each session until they 
+opened the box for the first time as response. As fixed fac -
+tors, we included the cumulative duration of manipulation 
+of the food boxes and the cumulative duration of time spent 
+watching successful individuals and scrounging across ses -
+sions until the first success as well as sex and age. Individual 
+and group identity as well as the number of sessions were 
+included as random factors. Time spent watching successful 
+individuals correlated with time spent scrounging (Pearson 
+correlation: R = 0.74, p < 0.001) but did not result in collin -
+earity (vif = 2.19). We specified weakly informative priors to 
+regularize parameter estimates. Specifically, we assigned a 
+normal (0, 2) prior to the regression coefficients (β) to allow 
+for moderate variation in effect sizes while keeping the esti-
+mates centered around zero. For the standard deviations of 
+the random effects, we used an exponential (1) prior, which 
+constrains values to be positive while discouraging exces -
+sively large variance estimates. The sample size comprised 
+N = 88 data points.
+RQ (c): Do red-fronted lemurs develop a preference for 
+one technique over another?
+To determine whether the observed proportion of tech -
+nique choice significantly differed from chance (prob = 0.5), 
+we used a one-sample proportion test. We calculated the 
+proportion of using the lifting technique in relation to the 
+total number of successful openings with both techniques 
+Video-recordings and temporal video 
+synchronization
+For each session, we set up four food boxes anchored to 
+the ground and recorded the setup using eight GoPro Hero 
+10 cameras (resolution of 1920 × 1080). These included four 
+front-facing ground cameras, two overview cameras on tri -
+pods, and two tree-mounted cameras capturing top views 
+(Fig. 1c). Although the cameras supported voice control, 
+synchronization issues arose due to inconsistent voice rec -
+ognition. Some cameras had to be started manually, result -
+ing in unsynchronized video. Therefore, we used the audio 
+pattern of the clicker sound as a distinct signal for synchro-
+nizing recordings. Using Python with the wave and numpy 
+libraries (Harris et al. 2020), we processed the audio from 
+each camera. Synchronization was achieved by comparing 
+the audio of each camera to a reference camera (started first) 
+using a sliding window and computing absolute differences. 
+The best alignment was identified by the most distinct local 
+minimum, detected using find_peaks from scipy.signal (Vir-
+tanen et al. 2020). We added empty frames at the start of 
+each video based on the calculated offset, aligning all videos 
+(see script at:  h t t p  s : /  / g i t  h u  b . c  o m / r  i c h  a r d  v o g g / g o p r o - s y n c).
+Video annotations
+Synchronized video recordings were annotated using 
+BORIS v.7.13.9 (Friard and Gamba 2016), scoring the fol -
+lowing behaviors:
+1. Manipulating the box (duration): touching the food box 
+with either the hand or any part of the head for at least 
+1 s
+2. Success (count): successful opening of the food box 
+with the individual gaining access to the food reward
+3. The technique used to open the food box
+4. Scrounging (duration): feeding from a food box that 
+another individual had opened for at least 1 s
+5. Observing others (duration): looking at an individual 
+that successfully opened the food box by either tech -
+nique or was manipulating the food box for at least 1 s
+Glossary:
+Learner individual that learned to open the food boxes suc-
+cessfully with either technique
+Producer individual that opened a food box 
+successfully
+Scrounger individual feeding from the food box that 
+another individual opened
+1 3
+Page 5 of 15 86
+
+PDF PAGE 6
+Animal Cognition (2025) 28:86
+the frequency of scrounging as response, the z-transformed 
+number of successes, sex, and log- and z-transformed age as 
+fixed effects. We initially included the interaction between 
+sex and age but dropped it because it was not significant. 
+Since individuals that spent more time at the food boxes 
+had, in principle, more opportunities to scrounge than 
+those that spent less time at the boxes, we included the 
+log-transformed time spent at the boxes as an offset term. 
+Group identity was included as random intercept effect. 
+We included the random slopes of the number of successes 
+and age within group identity. We excluded the correlation 
+among random slopes and intercepts due to convergence 
+issues (Schielzeth and Forstmeier 2009; Barr et al. 2013). 
+The sample size comprised N = 24 data points.
+RQ (h): Do successful individuals receive more 
+affiliation?
+Model 6: We additionally investigated whether more suc-
+cessful individuals (N = 16) received more affiliation, i.e., 
+time spent grooming, being in body contact and huddling 
+(minutes/hour). We calculated affiliation balance by sub -
+tracting the rate of affiliation given from the rate of affili -
+ation received. We used affiliation balance as the response 
+variable in a linear mixed model (LMM). We transformed 
+affiliation balance with the inverse hyperbolic sine, a log-
+like transformation for skewed data that include 0 or nega -
+tives. We included the period (before, during, after the 
+experiment), log-transformed age, and a factor entailing 
+the combination of sex and reproductive status, i.e., male, 
+female, and mother. Females gave birth during the period 
+after the experiment. Since new born infants are highly 
+attractive for group members (Pfaff et al. 2025), mothers 
+might have received more affiliation in the after experimen-
+tal period. Therefore, we controlled for that by using the 
+factor mother for females that have given birth in the after 
+experimental period. We included individual and group 
+identity as random intercept effects, and the random slope of 
+age within group. We removed the correlation between ran-
+dom intercept and slope due to convergence issues (Schiel -
+zeth and Forstmeier 2009; Barr et al. 2013). The sample size 
+comprised N = 48 data points.
+Model implementations:
+All analyses were conducted using R (v. 4.4.2; R Core 
+team 2024). To ease model convergence, we z-transformed 
+continuous variables before including them in all models. To 
+test the significance of fixed effect predictors as a whole, we 
+compared the fit of the full model with that of the null model 
+comprising only random factors (Schielzeth and Forst -
+meier 2009; Forstmeier and Schielzeth 2010). Addition -
+ally, we checked GLMMs for overdispersion by using the 
+‘DHARMa’ package (Hartig 2022). We obtained confidence 
+intervals for all models by means of parametric bootstraps 
+using the function ‘bootMer’ of the package ‘lme4’ (Bates 
+to investigate whether the lifting technique was preferred 
+over the pushing technique. The sample size included N = 16 
+individuals and N = 16 data points.
+RQ (d) Do individuals become more efficient in opening 
+the food boxes over time?
+Model 2: To investigate if individuals (N = 16) became 
+more efficient over time throughout the experimental ses -
+sions, we modeled the latency, i.e., time between the start 
+of the manipulation to the successful opening of the food 
+box, with a Linear Mixed Model (LMM). We included 
+sex, age, used technique and total number of successes as 
+fixed effects. Individual, group, and session identity were 
+included as random intercept effects. To avoid overconfi -
+dent estimates and keep the type I error rate at the nominal 
+level of 0.05, we included random slopes of technique and 
+number of successes within individual identity and of all 
+fixed factors within group and session identity. We excluded 
+the correlations among random slopes and intercepts due 
+to convergence issues. The sample size comprised N = 692 
+data points.
+RQ (e): What predicts overall success in opening the 
+food boxes?
+Model 3: To identify predictors of success, we fitted a 
+Generalized Linear Mixed Model (GLMM) with a nega -
+tive binomial error distribution. The response variable was 
+the total number of successes per individual (N = 16), with 
+sex, age, and their interaction included as fixed effects, and 
+group identity specified as random intercept effects. In addi-
+tion, we included the log-transformed number of sessions 
+individuals joined as an offset term. We included random 
+slopes of fixed effects within group but we excluded the cor-
+relation among random slopes and intercepts due to conver-
+gence issues (Schielzeth and Forstmeier 2009; Barr et al. 
+2013). The sample size comprised N = 16 data points.
+RQ (f): What characterizes victims of scrounging, i.e., 
+the producer?
+Model 4: In this GLMM with a Poisson distribution, 
+we modeled which factors predict how often individuals 
+(N = 15) have been scrounged per opening of the food box. 
+We included the used technique, sex and age of the producer 
+as fixed effects. The random intercept effects were producer 
+and group identity; furthermore, we included the random 
+slopes of technique and sex within producer as well as age 
+within group. We removed the correlation between random 
+intercepts and slopes due to convergence issues (Schielzeth 
+and Forstmeier 2009; Barr et al. 2013). The sample size 
+comprised N = 312 data points.
+RQ (g): Who scrounges?
+Model 5: We fitted a negative binomial GLMM using the 
+package “glmmTMB” (Magnusson et al. 2021) to exam -
+ine which factors predict how often individuals that par -
+ticipated in the experiment (N = 24) scrounged. We included 
+1 3
+86 Page 6 of 15
+
+PDF PAGE 7
+Animal Cognition (2025) 28:86
+effective sample sizes were sufficient (Bulk_ESS > 1500, 
+Tail_ESS > 1500).
+RQ (c): Do red-fronted lemurs develop a preference for 
+one technique over another?
+Out of 16 individuals, eight individuals used the pushing 
+and eight individuals used the lifting technique for the first 
+successful opening. Eight individuals did not show flexibil-
+ity and used the same technique throughout the experiment 
+(three pushing and five lifting), whereas the other eight indi-
+viduals used both techniques. The result of the one-sided 
+proportion test indicates a strong preference for the lifting 
+technique. A significantly greater proportion of individuals 
+preferred the lifting technique: ten used it most of the time, 
+four used the pushing technique most of the time, and two 
+used both techniques equally across sessions (one sample 
+proportion test, N = 16, prob, > 0.5; observed prob. = 0.8165; 
+χ2(1) = 522.88, p < 0.001, 95% CI [0.798, 1.000]).
+RQ (d) Do individuals become more efficient in opening 
+the food boxes over time?
+We found that the latency to open the food boxes was 
+not influenced by cumulative success, sex, age, or used 
+technique (Model 2, likelihood ratio test: full–null model 
+comparison: χ2 = 2.885, df = 4, p = 0.577, Table 2(a)). Hence, 
+individuals did not become more efficient over time and 
+the technique used to open the food box did not influence 
+efficiency, suggesting that both techniques may have been 
+equally difficult for red-fronted lemurs.
+RQ (e): What predicts overall success in opening the 
+food boxes?
+Overall success was predicted by the interaction between 
+sex and age (Model 3; likelihood ratio test: full–null model 
+comparison: χ 2 = 13.118, df = 3, p = 0.004), with increas -
+ing age males were less successful compared to females 
+(Table 2(b); Fig. 2).
+et al. 2015), applying 1000 bootstraps. We checked for col-
+linearity issues by determining variance inflation factors for 
+a standard linear model without random effects using the 
+package ‘car’ (Fox and Weisberg 2019). To estimate model 
+stability, we dropped levels of the random effects one at a 
+time from the dataset and compared the obtained estimates 
+to the estimates obtained for the full dataset.
+Results
+RQ (a): Who innovates?
+In total, 27 out of 29 individuals participated in the 
+experiment, 3 only explored the food boxes, 24 manipulated 
+the boxes, and 16 successfully opened a food box at least 
+once using either technique. The first individuals in each 
+group that learned how to open the food boxes successfully 
+with either technique were two juvenile females, one juve -
+nile male and an adult female. In two groups, innovators for 
+each technique were different individuals (one adult female, 
+one juvenile female, and two juvenile males) whereas for 
+the other two groups, both techniques were discovered for 
+the first time by the same individuals (one adult female and 
+one juvenile female). The first successful use of each tech -
+nique by innovators occurred between the first and fourth of 
+the ten sessions.
+RQ (b): What predicts initial learning: use of individual 
+or social information?
+The Bayesian logistic regression(Model 1) revealed 
+that the probability of learning was predicted by the time 
+spent manipulating the food box (Table 1), but not by the 
+time spent watching successful individuals or scrounging. 
+Similarly, age and sex did not predict learning (Table 1). 
+Thus, individuals who manipulated the food boxes for lon -
+ger were more likely to learn the task. The model showed 
+good convergence (Rhat = 1.00 for all parameters), and 
+Table 1 Results of the Bayesian logistic regression on the effects of 
+scrounging and individual information on the probability of learning 
+the task
+Model Predictor Estimate SE Lower 
+95% 
+CI
+Upper 
+95% 
+CI
+Model 1: 
+Probability 
+of learning
+Intercept −2.49 1.18 −4.98 −0.18
+Time spent 
+manipulating
+2.63 0.84 1.24 4.55
+Time spent 
+scrounging
+0.75 0.87 −0.92 2.53
+Time spent watch-
+ing successful 
+individuals
+−0.79 1.11 −3.00 1.44
+Sex (male) 0.33 1.23 −2.12 2.64
+Age −0.34 0.68 −1.85 0.91
+Table 2 Results of (a) the LMM on the effects of sex, age, used tech -
+nique and success on the latency to succeed and (b) the GLMM on the 
+influence of sex and age on the success
+Model Predictor Estimate SE p-value
+(a) Model 2: 
+Latency to open 
+the food box
+Intercept 2.667 5.254 a
+Sex (male)b 6.349 6.843 0.393
+Age −2.855 6.268 0.656
+Technique 
+(lifting)c
+14.345 17.486 0.429
+Total success 0.797 0.563 0.267
+(b) Model 3: 
+Success
+Intercept 2.105 0.298 a
+Sex (male)b −1.946 0.543 0.001
+Age 0.011 0.250 0.965
+Sex * age −3.198 0.691 0.001
+aNot shown as has no meaningful interpretation
+bFemales
+cPushing technique
+1 3
+Page 7 of 15 86
+
+PDF PAGE 8
+Animal Cognition (2025) 28:86
+using either tactic, with some individuals relying mainly on 
+scrounging and others mainly relying on producing (Fig. 3a). 
+We found that less successful individuals scrounged more 
+often (Model 5, likelihood ratio test: full–null model com -
+parison: χ 2 = 10.92, df = 3, p = 0.027, Table 3(b), Fig. 3b). 
+Males scrounged on average 19.75 ± 29.28 (mean ± SD) 
+more often than females 15.08 ± 21.42 (Table 3(b)). Age did 
+not influence scrounging frequencies (Table 3(b)).
+RQ (h): Do successful individuals receive more 
+affiliation?
+We found that individuals received more affiliation from 
+group members than they gave during the experimental 
+period in comparison to the period before the experiments 
+(Fig. 4, Model 6, Table 3(c), likelihood ratio test: full–null 
+RQ (f): What characterizes victims of scrounging, i.e., 
+the producer?
+Individuals scrounged on average in 26.12 ± 22.26% of 
+successful openings. On average 1.30 ± 0.62 (mean ± SD, 
+range: 1–5) individuals scrounged per event. The number of 
+scroungers per opening did not differ depending on the used 
+techniques (lifting or pushing), sex and age of the producer 
+(Model 4, Table 3(a), likelihood ratio test: full–null model 
+comparison: χ2 = 1.30, df = 3, p = 0.729).
+RQ (g): Who scrounges?
+Three individuals that participated in the experiment 
+never scrounged or opened the food boxes, and only five 
+individuals relied solely on scrounging. All individuals that 
+learned to open the boxes also scrounged, suggesting that 
+they actively switched tactics. There was a strong variation in 
+50
+100
+150
+200
+250
+2468 10 12 14 16 18 20
+50
+100
+150
+200
+250
+2468 10 12 14 16 18 20
+Total successes
+femalemale
+age (years)
+Fig. 2 Effects of sex and age (in years) on the number of successful openings. Dashed lines indicate the regression lines and shaded areas the 95% 
+confidence intervals
+ 
+1 3
+86 Page 8 of 15
+
+PDF PAGE 9
+Animal Cognition (2025) 28:86
+model comparison: χ 2 = 6.789, df = 1, p = 0.009). Sex, and 
+age did not influence affiliation balance (Table 3(c)).
+Discussion
+In this study, we examined the interaction between social 
+learning and scrounging in an open diffusion experiment 
+and its relationship with social relationships in wild red-
+fronted lemurs. Three out of the four innovators were juve -
+niles, though age did not directly affect learning likelihood. 
+Time spent manipulating boxes, and not time spent watch -
+ing successful individuals or scrounging, predicted learning. 
+Opening efficiency did not improve over time. With increas-
+ing age males were less successful compared to females. 
+Scrounging frequency per opening was not influenced by 
+producer’s age, sex or technique used. Independent of age 
+less successful individuals and males scrounged more often. 
+Most interestingly, successful individuals received more 
+affiliative behavior during the experiment in comparison to 
+the period before the experiment. Thus, red-fronted lemurs 
+probably recognized and responded to changes in the forag-
+ing skills of their group members. We discuss these findings 
+in detail below.
+Innovators and preferences for either technique
+Innovators were mainly juveniles and females, aligning 
+with previous findings in the same population of red-fronted 
+Table 3 Results of the GLMMs estimating (a) the effect of technique, 
+sex and age of the provider on the number of scroungers per event, (b) 
+the influence of sex, age, and time spent at the feeding boxes on the fre-
+quency of scrounging, (c) the effect of number of successful openings 
+and age on the frequency of scroungers for learners only, the influence 
+of (d) success or (e) time being scrounged and learning order (early, 
+middle, late learners) on affiliation balance
+Model Predictor Estimate SE P-value
+(a) Model 4: 
+Number of 
+scroungers 
+per opening 
+event
+Intercept 0.309 0.118 a
+Technique (pushing)b −0.071 0.129 0.583
+Sex provider (male)c −0.013 0.114 0.908
+Age provider −0.017 0.020 0.400
+(b) Model 5: 
+Frequency of 
+scrounging
+Intercept −1.209 0.329 a
+Success −0.791 0.334 0.018
+Sex (male)c 1.181 0.510 0.020
+Age −0.042 0.430 0.922
+(c) Model 6: 
+Differences 
+in affilia-
+tion balance 
+between 
+periods
+Intercept −2.745 0.608 a
+Period (during 
+experiment)d
+1.292 0.540 0.023
+Period 
+(post-experiment)d
+0.158 0.595 0.793
+Sex/rep. status 
+(male)e
+0.117 0.521 0.826
+Sex/rep. status 
+(mother)e
+1.644 0.993 0.106
+Age 0.540 0.272 0.135
+aNot shown as has no meaningful interpretation
+blifting technique
+cFemales
+dPeriod (pre-experiment)
+eSex/reproductive status (females)
+Fig.  3 a Scrounging index (N successful openings − N scrounging 
+events divided by the sum of both) for each learner (N = 16) and b 
+frequency of scrounging (back transformed values) as a function the 
+number of successful openings for females (red) and males (blue). 
+The lines represent the regression lines and the shaded areas the 95% 
+intervals
+ 
+1 3
+Page 9 of 15 86
+
+PDF PAGE 10
+Animal Cognition (2025) 28:86
+driving innovations in this species: (1) the availability of 
+spare time and the risk-taking tendencies of juveniles, and 
+(2) the lack of sexual size dimorphism, which likely enables 
+females to access foraging opportunities more readily. The 
+latter aligns with observations in other lemur species (Kap -
+peler 1987; Schnoell and Fichtel 2012; Huebner and Fichtel 
+2015, but see Dean et al. 2011).
+In addition, we found that individuals exhibited flexibil -
+ity in their choice of technique, contrasting with the find -
+ings from a previous social learning experiment involving 
+trained demonstrators (Schnoell and Fichtel 2012). Simi -
+larly, wild jackdaws ( Corvus monedula) exhibited flexibil-
+ity in food preferences of novel food in the absence of a 
+demonstrator in an open-diffusion paradigm (Arbon et al. 
+2023). In our study, some individuals developed a consis -
+tent preference for one technique over the other during the 
+experimental sessions, with ten favoring the lifting tech -
+nique and four favoring the pushing technique. However, 
+since technique choice did not influence how many indi -
+viduals scrounged, these preferences cannot be attributed to 
+attempts to avoid scroungers (but see Sehner et al. 2025). 
+Instead, the observed bias in technique use may reflect the 
+tendency for arbitrary traditions to emerge more easily in 
+small groups (Franz and Matthews 2010). It is possible 
+that an initial slight preference for the lifting technique was 
+lemurs (Schnoell and Fichtel 2012). Since three out of four 
+innovators were juveniles, this may suggest that juveniles 
+have more free time to explore and thus greater opportuni -
+ties to innovate (Kummer and Goodall 1985). Alternatively, 
+their lower competitive abilities compared to adults might 
+force them to access resources in novel ways (Laland and 
+Reader 1999). Similarly, several other studies reported that 
+young primates are more innovative than their older conspe-
+cifics, most likely because juveniles exhibit stronger explor-
+atory and risk-taking tendencies than adults (Boesch and 
+Boesch 1981; Cambefort 1981; Fragaszy and Adams-Curtis 
+1991; Huffman 1996; Itani 1965; Kummer and Goodall 
+1985; Nishida et al. 1983). In contrast, a review study sug -
+gested the opposite trend, that innovators are typically adult 
+males (Reader and Laland 2001). A possible explanation is 
+that males, typically higher in the dominance hierarchy due 
+to sexual size dimorphism, often monopolize food sources, 
+providing them with more opportunities to innovate. Fur -
+thermore, larger body size in some species may lead to 
+greater energetic needs (Bean 1999), potentially motivating 
+males to explore novel foraging strategies more than females 
+(Reader and Laland 2001). However, since red-fronted 
+lemurs exhibit no sexual dimorphism (Kappeler 1991) and 
+live in a matrilineal and egalitarian society (Ostner and Kap-
+peler 1999, 2004), our findings point to two main factors 
+Fig. 4 Differences in the trans-
+formed affiliation balance during 
+the pre-, experiment, and post-
+experimental period. Indicated are 
+the median (horizontal lines) and 
+quartiles (boxes). The red crosses 
+represent the fitted model and its 
+confidence limits (conditional on 
+all covariates and factors centered 
+to a mean of zero)
+ 
+1 3
+86 Page 10 of 15
+
+PDF PAGE 11
+Animal Cognition (2025) 28:86
+and females (Canteloup et al. 2021). Since vervet monkeys 
+exhibit sexual size dimorphism, with males being bigger 
+than females and a propensity to dominate females (Saccà et 
+al. 2022), the variation in success might be due to a greater 
+potential to monopolize access to food (Canteloup et al. 
+2021). However, lemurs do not exhibit sexual size dimor -
+phism. Females are dominant over males in ring-tailed 
+lemurs but not in red-fronted lemurs (Kappeler et al. 2022). 
+Therefore, the female-biased success in ring-tailed lemurs 
+may be due to the ability of dominant females to monopolize 
+food resources. However, the higher success rate of older 
+females in red-fronted lemurs cannot be explained by their 
+greater ability to monopolize resources through dominance.
+Who scrounges?
+Scrounging occurred in about a quarter of successful open -
+ings with one to five individuals scrounging from the same 
+box at a time. Scrounging was not influenced by producer’s 
+age, sex or technique used. Only five individuals relied 
+solely on scrounging, while both learners and non-learners 
+scrounged. Thus, scrounging cannot be considered as an 
+alternative strategy to producing. Males who were over -
+all less successful at opening the boxes than females also 
+scrounged more often. Individuals that learned to open 
+the food boxes by themselves actively switched between 
+scrounging and producing. Less successful individu -
+als scrounged more often. Although scrounging does not 
+appear to be an alternative to production, it may be a com -
+pensatory strategy to maximize an individual’s gains. In 
+some species it has been suggested that dominant or more 
+competitive individuals scrounge more often because they 
+are better at displacing others at food resources (Lendvai et 
+al. 2006; Lee and Cowlishaw 2017; Cram et al. 2023). In 
+contrast, in rooks (Corvus frugilegus), dominant individuals 
+produced more often because they were able to monopo -
+lize the food resource, but mixed tactics of producing and 
+scrounging were guided by tolerance among paired birds 
+(Jolles et al. 2013). In our experiment, on average more than 
+one red-fronted lemurs scrounged simultaneously. As red-
+fronted lemurs do not exhibit clear dominance relationships 
+(Ostner and Kappeler 1999), but rather high levels of social 
+tolerance, with individuals feeding in close proximity at a 
+valuable food resource with little or no aggression (Fichtel 
+et al. 2018), this social tolerance may explain the observed 
+scrounging pattern.
+Links between affiliative relationships and success, 
+and scrounging
+In this study, we found that successful red-fronted lemurs 
+received more affiliation during the experimental period 
+amplified through social facilitation and individual rein -
+forcement, leading it to become both the most commonly 
+used and the preferred technique among most individuals. 
+However, additional network biased diffusion analyses are 
+indicated to confirm this assumption (Canteloup et al. 2020; 
+Hasenjager et al. 2021).
+What predicts initial learning: use of individual or 
+social information?
+The probability of learning to open the food box was pre -
+dicted by the use of individual information, i.e., the time 
+spent manipulating the boxes, but not by the use of social 
+information, i.e., the time spent watching successful indi -
+viduals or scrounging. Hence, scrounging did neither hinder 
+nor facilitate initial learning in red-fronted lemurs. In princi-
+ple, scrounging can be used to gather social information on 
+how to solve the task as suggested for common marmosets 
+(Caldwell and Whiten 2003). Scrounging can also inhibit 
+social learning or learning in general (Giraldeau and Lefe -
+bvre 1987; Beauchamp and Kacelnik 1991; Reichert et al. 
+2021; Lefebvre and Helder 1997). For example, scroungers 
+tended to learn a task more slowly in great tits ( Parus 
+major; Aplin and Morand-Ferron 2017) or in mixed-species 
+flocks of great and blue tits ( Cyanistes caeruleus; Reichert 
+et al. 2021). However, as this analysis focused on the impact 
+of scrounging on initial learning success, it is possible that 
+social information obtained during scrounging or time spent 
+observing successful individuals is associated with the pref-
+erences for specific techniques within groups. As mentioned 
+above, since some individuals preferentially used one of the 
+two techniques, further analyses are required to investigate 
+whether the spread of using a specific technique is associ -
+ated with the scrounging network. In addition, the time spent 
+watching successful individuals did not predict initial suc -
+cess. Since the time spent watching successful individuals 
+correlated with the time spent scrounging, it is possible that 
+scroungers watched successful individuals to seek scroung-
+ing opportunities, which is difficult to demonstrate.
+Efficiency and success in opening the food boxes
+The latency to open a food box did not decrease over the 
+course of the experiment, regardless of the technique used, 
+suggesting that no additional learning was required to open 
+the boxes more efficiently and that both techniques may have 
+been equally difficult to open. Females were more success-
+ful than older males, consistent with earlier studies on red-
+fronted lemurs (Schnoell and Fichtel 2012) and ring-tailed 
+lemurs (Kappeler 1987). In another open diffusion task in 
+wild vervet monkeys, males and higher-ranking individu -
+als were more successful than lower ranking individuals 
+1 3
+Page 11 of 15 86
+
+PDF PAGE 12
+Animal Cognition (2025) 28:86
+and learning in red-fronted lemurs. Initial learning was not 
+predicted by social information gathered from watching or 
+scrounging from successful individuals, but rather by indi -
+vidual information gathered from manipulating food boxes. 
+Social rewards were directed towards those who were suc -
+cessful, suggesting that red-fronted lemurs probably recog -
+nized changes in the foraging skills of their group members, 
+thereby improving social relationships within this tolerant 
+primate species.
+Supplementary Information  The online version contains 
+supplementary material available at  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 1  0 0 7 1 - 0 
+2 5 - 0 2 0 1 1 - 7.
+Acknowledgements We are grateful to our team in Madagascar for 
+support during this study, and Roger Mundry for statistical advice. We 
+also thank the MEDD Madagascar, the MZBA of the University of 
+Antananarivo, and the CNFEREF Morondava for authorizations of 
+this study. This publication was funded by the Deutsche Forschun -
+gsgemeinschaft (DFG, German Research Foundation)—Project-ID 
+454648639—SFB 1528. This study greatly benefited from discus -
+sions with the RTG Curiosity, which is from discussion with the RTG 
+Curiosity, which is funded by the Deutsche Forschungsgemeinschaft 
+(DFG, German Research Foundation)—GRK2906—project number 
+502807174. Finally, we thank two anonymous reviewers and Neeltje 
+Boogert for constructive comments on this MS.
+Author contributions CF, PMK, EK conceived the study; RV , MM, 
+JP-C conducted the study; EK, CF, RV , MM, JP-C analyzed the data; 
+EK, CF drafted the MS, and all authors reviewed the MS.
+Data availability The data of this study have been deposited in  h t t p  s : /  / 
+fi  g  s h  a r e  . c o m  / s /  7 3 e  9 1 0 a 9 9 d b 9 a 6 0 0 5 6 9 3.
+Declarations
+Competing interests The authors declare no competing interests.
+Ethical approval This study adhered to the ASAB/ABS Guidelines for 
+the Treatment of Animals in Behavioural Research and Teaching and 
+to the legal requirements of the country (Madagascar) in which the 
+study was carried out. The protocol for this research was approved 
+by the Malagasy Ministry of the Environment, Water, and Forests 
+(064,22/MEDD/SG/DGGE/DAPRNE/SCBE.Re).
+Open Access   This article is licensed under a Creative Commons 
+Attribution-NonCommercial-NoDerivatives 4.0 International License, 
+which permits any non-commercial use, sharing, distribution and 
+reproduction in any medium or format, as long as you give appropri -
+ate credit to the original author(s) and the source, provide a link to the 
+Creative Commons licence, and indicate if you modified the licensed 
+material. You do not have permission under this licence to share 
+adapted material derived from this article or parts of it. The images or 
+other third party material in this article are included in the article’s Cre-
+ative Commons licence, unless indicated otherwise in a credit line to 
+the material. If material is not included in the article’s Creative Com -
+mons licence and your intended use is not permitted by statutory regu-
+lation or exceeds the permitted use, you will need to obtain permission 
+directly from the copyright holder. To view a copy of this licence, visit  
+h t t p  : / /  c r e a  t i  v e c  o m m o  n s .  o r g  / l i  c e n  s e s /  b y  - n c - n d / 4 . 0 /.
+than before. These findings are in line with other stud -
+ies showing that skilled individuals become more valu -
+able social partners when they possess new information 
+(Kulahci et al. 2018) and provide food that allows others to 
+scrounge (Stammbach 1988; Fruteau et al. 2009; O’Hearn 
+et al. 2025a). In these earlier studies, increased affiliation 
+was recorded either about one hour after the experiment (in 
+long-tailed macaques, Stammbach 1988 and vervet mon -
+keys, Fruteau et al. 2009) or for a period of two to three 
+days (in ring-tailed lemurs, Kulahci et al. 2018). This resem-
+bles our recordings during the experimental period where 
+we recorded affiliation outside the experiments. However, 
+affiliation returned to baseline levels during the post-exper-
+imental period, which lasted four to six weeks after the 
+food boxes were no longer presented. Similarly, in Guinea 
+baboons, affiliation returned to baseline levels in the post-
+experimental period which lasted for a similar amount of 
+time to our study (about two weeks; O’Hearn et al. 2025a). 
+Together, these results suggest that non-human primates 
+recognize and socially reward competent foraging partners 
+during periods where they can benefit from them immedi -
+ately, either by gaining information or food. This suggests 
+an outcome-based process (O’Hearn et al. 2025a, b). As 
+soon as direct benefits were no longer available, affiliation 
+returned to baseline levels in both our red-fronted lemurs 
+and in Guinea baboons. As suggested by O’Hearn et al. 
+(2025a, b), a persisting higher affiliation with the specialists 
+during the post-experimental period might have indicated 
+that animals engage in a general competence-based attribu-
+tion of skills. However, these experiments do not allow to 
+discern whether non-human primates attribute general com-
+petence to others gained by behavioral matching, halo effect 
+and trait reasoning, where indirect experience informs the 
+assessment of competence (Hermes et al. 2016; Keupp and 
+Herrmann 2024; O’Hearn et al. 2025a, b). In particular, it 
+would have been useful in our study to distinguish whether 
+affiliation is traded as a commodity to obtain information 
+or to scrounge. Since the time spent observing successful 
+individuals correlates with the time spent scrounging, it was 
+not possible to clarify whether individuals traded affilia -
+tion for proximity to others in order to gather information, 
+indicating a competence-based process, or for tolerance of 
+scrounging, indicating an outcome-based process.
+Conclusions
+Understanding how individuals navigate social interactions 
+and exploit social information provides insights into the 
+evolutionary significance of behavioral flexibility and social 
+competence (Kulahci and Quinn 2019; Cram et al. 2023). 
+Our findings highlight the interplay between social behavior 
+1 3
+86 Page 12 of 15
+
+PDF PAGE 13
+Animal Cognition (2025) 28:86
+dynamics in the human–honeyguide mutualism. Proc R Soc B 
+290:20232024.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 8  / r s  p b . 2 0 2 3 . 2 0 2 4
+Dean LG, Hoppitt W, Laland KN, Kendal RL (2011) Sex ratio 
+affects sex-specific innovation and learning in captive ruffed 
+lemurs ( Varecia variegata and Varecia rubra). Am J Primatol 
+73(12):1210–1221
+Everson KM, Pozzi L, Barrett MA, Blair ME, Donohue ME, Kappeler 
+PM, Kitchener AC, Lemmon AR, Lemmon EM, Pavón-Vázquez 
+CJ, Radespiel U, Randrianambinina B, Rasoloarison RM, Rasolo-
+harijaona S, Roos C, Salmona J, Yoder AD, Zenil-Ferguson R, 
+Zinner D, Weisrock DW (2025) Multiple bursts of speciation in 
+Madagascar’s endangered lemurs. Nat Commun 16:7070
+Farine DR, Whitehead H (2015) Constructing, conducting and inter -
+preting animal social network analysis. J Anim Ecol 84(5):1144–
+1163.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 1 1  / 1 3  6 5 - 2 6 5 6 . 1 2 4 1 8
+Fichtel C (2022) Cognition in wild lemurs. Curr Opin Behav Sci 
+45:101135
+Fichtel C, Schnoell A V , Kappeler PM (2018) Measuring social toler-
+ance: an experimental approach in two lemurid primates. Ethol -
+ogy 124(1):65–73.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 1 1  / e t  h . 1 2 7 0 6
+Forstmeier W, Schielzeth H (2010) Cryptic multiple hypotheses test -
+ing in linear models: overestimated effect sizes and the winner’s 
+curse. Behav Ecol Sociobiol 65(1):47–55.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 
+7  / s 0  0 2 6 5 - 0 1 0 - 1 0 3 8 - 5
+Fox J, Weisberg S (2019) An R companion to applied regression, 3rd 
+edn. Sage Publications
+Fragaszy DM, Adams-Curtis LE (1991) Generative aspects of manipu-
+lation in tufted capuchin monkeys ( Cebus apella). J Comp Psy -
+chol 105(4):387
+Fragaszy DM, Visalberghi E (1989) Social influences on the acquisi -
+tion of tool-using behaviors in tufted capuchin monkeys ( Cebus 
+apella). J Comp Psychol 103(2):159–170.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 3 
+7  / 0 7  3 5 - 7 0 3 6 . 1 0 3 . 2 . 1 5 9
+Franz M, Matthews LJ (2010) Social enhancement can create adaptive, 
+arbitrary and maladaptive cultural traditions. Proc R Soc Lond B 
+Biol Sci 277(1698):3363–3372.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 8  / r s  p b . 2 0 1 
+0 . 0 7 0 5
+Friard O, Gamba M (2016) BORIS: a free, versatile open-source 
+event-logging software for video/audio coding and live observa -
+tions. Methods Ecol Evol 7(11):1325–1330
+Fruteau C, V oelkl B, van Damme E, Noë R (2009) Supply and demand 
+determine the market value of food providers in wild vervet mon-
+keys. Proc Natl Acad Sci U S A 106(29):12007–12012.  h t t p  s : /  / d o 
+i  . o  r g /  1 0 . 1  0 7 3  / p n  a s . 0 8 1 2 2 8 0 1 0 6
+Giraldeau LA, Lefebvre L (1987) Scrounging prevents cultural trans -
+mission of food-finding behaviour in pigeons. Anim Behav 
+35(2):387–394.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / S 0  0 0 3 - 3 4 7 2 ( 8 7 ) 8 0 2 6 2 - 2
+Goldsborough Z, Carlson M, Reetz L, Crofoot MC, Barrett BJ (2025) 
+Development and social dynamics of stone tool use in white-
+faced capuchin monkeys. bioRxiv.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 0 1  / 2 0  2 5 
+. 0 4 . 0 8 . 6 4 7 7 8 5
+Hartig F (2022) DHARMa: residual diagnostics for hierarchical 
+(multi-level/mixed) regression models. R package version 0.4. 6.
+Harris CR, Millman KJ, Van Der Walt SJ, Gommers R, Virtanen P, 
+Cournapeau D et al (2020) Array programming with NumPy. 
+Nature 585(7825):357–362
+Hasenjager MJ, Leadbeater E, Hoppitt W (2021) Detecting and quanti-
+fying social transmission using network-based diffusion analysis. 
+Journal of Animal Ecology 90:8–26.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 1 1  / 1 3  6 
+5 - 2 6 5 6 . 1 3 3 0 7
+Hermes J, Behne T, Studte K, Zeyen A-M, Gräfenhain M, Rakoczy H 
+(2016) Selective cooperation in early childhood – how to choose 
+models and partners. PLoS ONE 11(8):e0160881.  h t t p  s : /  / d o i  . o  r g /  
+1 0 . 1  3 7 1  / j o  u r n a l . p o n e . 0 1 6 0 8 8 1
+References
+Aplin LM, Morand-Ferron J (2017) Stable producer–scrounger 
+dynamics in wild birds: sociability and learning speed covary 
+with scrounging behaviour. Proc R Soc Lond B Biol Sci 
+284(1852):20162872
+Arbon JJ, Hahn LG, McIvor GE, Thornton A (2023) Competition and 
+generalization impede cultural formation in wild jackdaws. Proc 
+R Soc Lond B Biol Sci 290(2004):20230705.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  
+0 9 8  / r s  p b . 2 0 2 3 . 0 7 0 5
+Barr DJ, Levy R, Scheepers C, Tily HJ (2013) Random effects struc -
+ture for confirmatory hypothesis testing: keep it maximal. J Mem 
+Lang 68(3):255–278
+Barrett BJ, McElreath RL, Perry SE (2017) Pay-off-biased social 
+learning underlies the diffusion of novel extractive forag -
+ing traditions in a wild primate. Proc R Soc Lond B Biol Sci 
+284(1856):20170358.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 8  / r s  p b . 2 0 1 7 . 0 3 5 8
+Bates D, Mächler M, Bolker B, Walker S (2015) Fitting linear mixed-
+effects models using lme4. J Stat Softw 67(1):1–48.  h t t p  s : /  / d o i  . o  r 
+g /  1 0 . 1  8 6 3  7 / j  s s . v 0 6 7 . i 0 1
+Bean A (1999) Ecology of sex differences in great ape foraging. In: 
+Lee PC (ed) Comparative primate socioecology. Cambridge Uni-
+versity Press, Cambridge, pp 339–362
+Beauchamp G, Kacelnik A (1991) Effects of the knowledge of part -
+ners on learning rates in zebra finches Taeniopygia guttata. Anim 
+Behav 41(2):247–253.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / S 0  0 0 3 - 3 4 7 2 ( 0 5 ) 8 
+0 4 7 6 - 2
+Boesch C, Boesch H (1981) Sex differences in the use of natural ham-
+mers by wild chimpanzees: a preliminary report. J Hum Evol 
+10(7):585–593.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / S 0  0 4 7 - 2 4 8 4 ( 8 1 ) 8 0 0 4 9 - 8
+Bürkner PC (2017) brms: an R package for Bayesian multilevel mod -
+els using Stan. J Stat Softw 80:1–28
+Caldwell CA, Whiten A (2003) Scrounging facilitates social learn -
+ing in common marmosets, Callithrix jacchus . Anim Behav 
+65(6):1085–1092.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 6  / a n  b e . 2 0 0 3 . 2 1 4 5
+Cambefort JP (1981) A comparative study of culturally transmitted 
+patterns of feeding habits in the chacma baboon Papio ursinus 
+and the vervet monkey Cercopithecus aethiops. Folia Primatol 
+36(3–4):243–263
+Canteloup C, Hoppitt W, Van De Waal E (2020) Wild primates copy 
+higher-ranked individuals in a social transmission experiment. 
+Nat Commun 11(1):459.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 3 8  / s 4  1 4 6 7 - 0 1 9 - 1 4 
+2 0 9 - 8
+Canteloup C, Cera MB, Barrett BJ, Van De Waal E (2021) Processing 
+of novel food reveals payoff and rank-biased social learning in a 
+wild primate. Sci Rep 11(1):9550.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 3 8  / s 4  1 5 9 
+8 - 0 2 1 - 8 8 8 5 7 - 6
+Cheney DL, Silk JB, Seyfarth RM (2016) Network connections, 
+dyadic bonds and fitness in wild female baboons. R Soc Open 
+Sci 3(7):160255
+Coelho CG, Falótico T, Izar P, Mannu M, Resende BD, Siqueira 
+JO, Ottoni EB (2015) Social learning strategies for nut-crack -
+ing by tufted capuchin monkeys ( Sapajus spp.). Anim Cogn 
+18(4):911–919
+Coelho CG, Garcia-Nisa I, Ottoni EB, Kendal RL (2024) Social 
+tolerance and success-biased social learning underlie the cul -
+tural transmission of an induced extractive foraging tradi -
+tion in a wild tool-using primate. Proc Natl Acad Sci U S A 
+121(48):e2322884121.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 7 3  / p n  a s . 2 3 2 2 8 8 4 1 2 1
+Coussi-Korbel S, Fragaszy DM (1995) On the relation between social 
+dynamics and social learning. Anim Behav 50(6):1441–1453.  h t t 
+p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / 0 0  0 3 - 3 4 7 2 ( 9 5 ) 8 0 0 0 1 - 8
+Cram DL, Lloyd-Jones DJ, van der Wal JE, Lund J, Buanachique 
+IO, Muamedi M, Nanguar CI, Ngovene A, Raveh S, Boner W, 
+Spottiswoode CN (2023) Guides and cheats: producer–scrounger 
+1 3
+Page 13 of 15 86
+
+PDF PAGE 14
+Animal Cognition (2025) 28:86
+house sparrow. Anim Behav 72:747–752.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 
+6  / j .  a n b  e h a  v . 2 0  0 5  . 1 0 . 0 3 2
+Magnusson A, Skaug HJ, Nielsen A, Berg CW, Kristensen K, Maechler 
+M, van Benthem K, Bolker B (2021) glmmTMB: generalized lin-
+ear mixed models using template model builder. R package ver -
+sion 1.1.4.  h t t p  s : /  / C R A  N .  R - p  r o j e  c t .  o r g  / p a c k a g e = g l m m T M B
+Midford PE, Hailman JP, Woolfenden GE (2000) Social learning of a 
+novel foraging patch in families of free-living Florida scrub-jays. 
+Anim Behav 59(6):1199–1207
+Nishida T, Wrangham RW, Goodall J, Uehara S (1983) Local differ -
+ences in plant-feeding habits of chimpanzees between the Mahale 
+Mountains and Gombe National Park, Tanzania. J Hum Evol 
+12(5):467–480
+O’Hearn WJ, Beckmann J, Fersen LV , Pesco FD, Mundry R, Keupp S, 
+Diakhate N, Niederbremer C, Fischer J (2025a) Increased female 
+competition for males with enhanced foraging skills in Guinea 
+baboons. Proc R Soc B.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 8  / r s  p b . 2 0 2 4 . 2 9 2 5
+O’Hearn W, Hirel M, Keupp S, Fischer J (2025b) Social evaluation of 
+skill and competence in primates. Neurosci Biobehav Rev.  h t t p  s : 
+/  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  n e u  b i o  r e v .  2 0  2 5 . 1 0 6 3 4 6
+Ostner J, Kappeler P (1999) Central males instead of multiple pairs in 
+redfronted lemurs, Eulemur fulvus rufus (Primates, Lemuridae)? 
+Anim Behav 58:1069–1078.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 6  / a n  b e . 1 9 9 9 . 1 
+2 2 2
+Ostner J, Kappeler PM (2004) Male life history and the unusual adult 
+sex ratios of redfronted lemur, Eulemur fulvus rufus , groups. 
+Anim Behav 67(2):249–259.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  a n b  e h a  v . 2 
+0  0 3  . 0 5 . 0 1 2
+Ostner J, Schülke O (2018) Linking sociality to fitness in primates: a 
+call for mechanisms. In: Naguib M, Barrett L, Healy SD, Podos 
+J, Simmons LW, Zuk M (eds) Advances in the study of behavior, 
+vol 50. Academic Press, pp 127–175
+Ottoni EB, De Resende BD, Izar P (2005) Watching the best nutcrack-
+ers: what capuchin monkeys ( Cebus apella) know about others’ 
+tool-using skills. Anim Cogn 8(4):215–219
+Pereira M, Kappeler PM (1997) Divergent systems of agonstic behav-
+iour in lemurid primates. Behaviour 134:225–274
+Pereira ME, Kaufman R, Kappeler PM, Overdorff DJ (1990) Female 
+dominance does not characterize all of the Lemuridae. Folia Pri -
+matol 55:96–103
+Pfaff A, Fichtel C, Kappeler PM (2025) Infants as social magnets: the 
+influence of births on social interactions in redfronted lemurs 
+(Eulemur rufifrons). Am J Primatol 87(8):e70067
+Port M, Clough D, Kappeler PM (2009) Market effects offset the recip-
+rocation of grooming in free-ranging redfronted lemurs, Eulemur 
+fulvus rufus. Anim Behav 77(1):29–36
+R Core Team (2024) R: A Language and Environment for Statistical 
+Computing. R Foundation for Statistical Computing, Vienna, 
+Austria. https://www.R-project.org/
+Reader SM, Laland KN (2001) Primate innovation: sex, age and social 
+rank differences. Int J Primatol 22(5):787–805.  h t t p  s : /  / d o i  . o  r g /  1 0 
+. 1  0 2 3  / A :  1 0 1 2 0 6 9 5 0 0 8 9 9
+Reichert MS, Morand-Ferron J, Kulahci IG, Firth JA, Davidson GL, 
+Crofts SJ, Quinn JL (2021) Cognition and covariance in the pro -
+ducer–scrounger game. J Anim Ecol 90(11):2497–2509
+Saccà T, Gort G, van de Waal E, Hemelrijk CK (2022) Male intra -
+sexual aggression and partial dominance of females over males in 
+vervet monkeys. Front Ecol Evol 10:930266
+Schielzeth H, Forstmeier W (2009) Conclusions beyond support: over-
+confident estimates in mixed models. Behav Ecol 20(2):416–420
+Schnoell A V , Fichtel C (2012) Wild redfronted lemurs (Eulemur rufi-
+frons) use social information to learn new foraging techniques. 
+Anim Cogn 15(4):505–516.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 1  0 0 7 1 - 0 1 
+2 - 0 4 7 7 - y
+Schnoell A V , Dittmann MT, Fichtel C (2014) Human-introduced long-
+term traditions in wild redfronted lemurs? Anim Cogn 17:45–54
+Heyes CM (1994) Imitation and culture: Longevity, fecundity and 
+fidelityin social transmission. Behavioural Aspects of Feeding. 
+Chur, Switzerland, Harwood 271–287
+Ho CLA, Fichtel C, Huber D (2021) The gray mouse lemur (Microce-
+bus murinus) as a model for early primate brain evolution. Curr 
+Opin Neurobiol 71:92–99
+Hoppitt W, Laland KN (2011) Detecting social learning using net -
+works: a users guide. Am J Primatol 73(8):834–844.  h t t p  s : /  / d o i  
+. o  r g /  1 0 . 1  0 0 2  / a j  p . 2 0 9 2 0
+Hoppitt W, Boogert NJ, Laland KN (2010) Detecting social transmis-
+sion in networks. J Theor Biol 263(4):544–555.  h t t p  s : /  / d o i  . o  r g /  1 0 
+. 1  0 1 6  / j .  j t b i . 2 0 1 0 . 0 1 . 0 0 4
+Huebner F, Fichtel C (2015) Innovation and behavioral flexibil -
+ity in wild redfronted lemurs ( Eulemur rufifrons). Anim Cogn 
+18:777–787
+Huffman MA (1996) Acquisition of innovative cultural behaviors in 
+nonhuman primates: a case study of stone handling, a socially 
+transmitted behavior in Japanese macaques. In: Heyes CM, Galef 
+BG Jr (eds) Social learning in animals: the roots of culture. Aca -
+demic Press, pp 267–289
+Itani J (1965) On the acquisition and propagation of a new food habit 
+in the troop of Japanese monkeys at Takasakiyama. In: Imanishi 
+K, Altmann SA (eds) Japanese monkeys: a collection of transla -
+tions. University of Alberta Press, Edmonton, pp 52–65
+Jolles JW, Ostojić L, Clayton NS (2013) Dominance, pair bonds and 
+boldness determine social-foraging tactics in rooks, Corvus fru-
+gilegus. Anim Behav 85:1261–1269.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  a n 
+b  e h a  v . 2 0  1 3  . 0 3 . 0 1 3
+Kappeler PM (1987) The acquisition process of a novel behavior pat -
+tern in a group of ring-tailed lemurs ( Lemur catta ). Primates 
+28(2):225–228.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / B F  0 2 3 8 2 5 7 1
+Kappeler PM (1991) Patterns of sexual dimorphism in body weight 
+among prosimian primates. Folia Primatol 57:132–146
+Kappeler PM, Fichtel C (2012) A 15-year perspective on the social 
+organization and life history of sifaka in Kirindy Forest. In: Kap-
+peler PM, Watts DP (eds) Long-term field studies of primates. 
+Springer, Berlin, Heidelberg, pp 101–121
+Kappeler PM, Pozzi L (2019) Evolutionary transitions toward pair liv-
+ing in nonhuman primates as stepping stones toward more com -
+plex societies. Sci Adv 5(12):eaay1276.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 2 6  / s 
+c  i a d v . a a y 1 2 7 6
+Kappeler PM, Fichtel C, Radespiel U (2022) The island of female 
+power? Intersexual dominance relationships in the lemurs of 
+Madagascar. Front Ecol Evol 10:858859
+Keupp S, Herrmann E (2024) Domain-specific inferences about con -
+specifics’ skills by chimpanzees. Sci Rep 14(1):21996.  h t t p  s : /  / d o i  
+. o  r g /  1 0 . 1  0 3 8  / s 4  1 5 9 8 - 0 2 4 - 7 3 3 4 0 - 9
+Kulahci IG, Quinn JL (2019) Dynamic relationships between infor -
+mation transmission and social connections. Trends Ecol Evol 
+34(6):545–554
+Kulahci IG, Ghazanfar AA, Rubenstein DI (2018) Knowledge -
+able lemurs become more central in social networks. Curr Biol 
+28(8):1306-1310.e2.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 1 6  / j .  c u b . 2 0 1 8 . 0 2 . 0 7 9
+Kummer H, Goodall J (1985) Conditions of innovative behavior in pri-
+mates. Philos Trans R Soc Lond B Biol Sci 308(1135):203–214
+Laland KN, Reader SM (1999) Foraging innovation is inversely related 
+to competitive ability in male but not in female guppies. Behav 
+Ecol 10:270–274.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 3  / b e  h e c o / 1 0 . 3 . 2 7 0
+Lee AE, Cowlishaw G (2017) Switching spatial scale reveals domi -
+nance-dependent social foraging tactics in a wild primate. PeerJ 
+5:e3462.  h t t p  s : /  / d o i  . o  r g /  1 0 . 7  7 1 7  / p e  e r j . 3 4 6 2
+Lefebvre L, Helder R (1997) Scrounger numbers and the inhibition of 
+social learning in pigeons. Behav Processes 40(3):201–207
+Lendvai ÁZ, Liker A, Barta Z (2006) The effects of energy reserves 
+and dominance on the use of social-foraging strategies in the 
+1 3
+86 Page 14 of 15
+
+PDF PAGE 15
+Animal Cognition (2025) 28:86
+Stammbach E (1988) Group responses to specially skilled individuals 
+in a Macaca fascicularis group. Behaviour.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 
+6 3  / 1 5  6 8 5 3 9 8 8 X 0 0 3 6 8
+Van Schaik CP, Deaner RO, Merrill MY (1999) The conditions for tool 
+use in primates: implications for the evolution of material culture. 
+J Hum Evol 36(6):719–741
+Virtanen P, Gommers R, Oliphant TE, Haberland M, Reddy T, Courna-
+peau D et al (2020) Scipy 1.0: fundamental algorithms for scien -
+tific computing in Python. Nat Methods 17(3):261–272
+Whiten A, Mesoudi A (2008) Establishing an experimental science of 
+culture: animal social diffusion experiments. Philos Trans R Soc 
+Lond B Biol Sci 363(1509):3477–3488.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 9 8  / 
+r s  t b . 2 0 0 8 . 0 1 3 4
+Whiten A, Caldwell CA, Mesoudi A (2016) Cultural diffusion in 
+humans and other animals. Curr Opin Psychol 8:15–21.  h t t p s :   /  / d 
+o  i . o  r  g  /  1 0  . 1 0   1  6  / j . c o p  s y c .  2 0 1  5 . 0 9 . 0 0 2
+Publisher's Note Springer Nature remains neutral with regard to juris-
+dictional claims in published maps and institutional affiliations.
+Sehner S, Ratsoavina F, Fichtel C (2025) Social tolerance mediates 
+social learning in wild red-fronted lemurs (Eulemur rufifrons) and 
+ring-tailed lemurs (Lemur catta). bioRxiv.  h t t p  s : /  / w w w  . b  i o r  x i v .  o r 
+g  / c o  n t e  n t /  1 0 . 1  1 0  1 / 2  0 2 5 .  0 9 .  1 8 .  6 7 7 0 7 3 v 1
+Seyfarth RM, Cheney DL (2012) The evolutionary origins of friend -
+ship. Annu Rev Psychol 63:153–177.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 4 6  / a n  n 
+u r  e v -  p s y c  h -  1 2 0 7 1 0 - 1 0 0 3 3 7
+Seyfarth RM, Cheney DL (2015) Social cognition. Anim Behav 
+103:191–202
+Sih A, Sinn DL, Patricelli GL (2019) On the importance of individual 
+differences in behavioural skill. Anim Behav 155:307–317
+Silk JB, Beehner JC, Bergman TJ, Crockford C, Engh AL, Moscovice 
+LR et al (2009) The benefits of social capital: close social bonds 
+among female baboons enhance offspring survival. Proc R Soc 
+Lond B Biol Sci 276(1670):3099–3104
+Snyder-Mackler N, Burger JR, Gaydosh L, Belsky DW, Noppert GA, 
+Campos FA et al (2020) Social determinants of health and sur -
+vival in humans and other animals. Science 368(6493):eaax9553.  
+h t t p  s : /  / d o i  . o  r g /  1 0 . 1  1 2 6  / s c  i e n c e . a a x 9 5 5 3
+1 3
+Page 15 of 15 86

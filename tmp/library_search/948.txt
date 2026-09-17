@@ -1,0 +1,1420 @@
+PDF PAGE 1
+Optimal foraging when regulating intake
+of multiple nutrients
+STEPHEN J. SIMPSON*, RICHARD M. SIBLY† , KWANG PUM LEE*,
+SPENCER T. BEHMER* & DAVID RAUBENHEIMER*‡
+*Department of Zoology and University Museum of Natural History, University of Oxford
+ySchool of Animal and Microbial Sciences, University of Reading
+zSchool of Biological Sciences, University of Auckland
+(Received 26 August 2003; initial acceptance 22 October 2003;
+ﬁnal acceptance 12 March 2004; published online 29 September 2004; MS. number: 7831)
+There is growing evidence that, rather than maximizing energy intake subject to constraints, many
+animals attempt to regulate intake of multiple nutrients independently. In the complex diets of animals
+such as herbivores, the consumption of nutritionally imbalanced foods is sometimes inevitable, forcing
+trade-offs between eating too much of nutrients present in the foods in relative excess against too little of
+those in deﬁcit. Such situations are not adequately represented in existing formulations of foraging theory.
+Here we provide the necessary theory to ﬁt this case, using an approach that combines state-space models
+of nutrition with Tilman’s models of resource exploitation (Tilman 1982, Resource Competition and
+Community Structure , Princeton: Princeton University Press). Our approach was to construct a smooth
+ﬁtness landscape over nutrient space, centred on a ‘target’ intake at which no ﬁtness cost is incurred, and
+this leads to a natural classiﬁcation of the simple possible ﬁtness landscapes based on Taylor series
+approximations of landscape shape. We next examined how needs for multiple nutrients can be assessed
+experimentally using direct measures of animal performance as the common currency, so that the
+nutritional strategies of animals can be mapped on to the performance surface, including the position of
+regulated points of intake and points of nutrient balance when fed suboptimal foods. We surveyed
+published data and conducted an experiment to map out the performance landscape of a generalist leaf-
+feeding caterpillar, Spodoptera littoralis .
+/C2112004 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+The ultimate reason why animals feed is to provision
+themselves with nutrients that will maximize Darwinian
+ﬁtness, subject to the physical, physiological and ecolog-
+ical constraints associated with ﬁnding, ingesting and
+processing foods ( Schoener 1971; Stephens & Krebs
+1986; Houston & McNamara 1999 ). Although energy/
+nutrient intake has often been used as a surrogate for
+ﬁtness in optimal foraging theory, it is clearly a special
+case, since ﬁtness maximization and energy intake max-
+imization subject to constraints are in general not equiv-
+alent (reviewed by Illius et al. 2002 ). This applies
+a forteriori when maximization of ﬁtness requires the
+ingestion of multiple nutrients.
+There is growing evidence that at least some animals
+regulate intake of multiple nutrients independently and,
+instead of maximizing intake, avoid ingesting surpluses
+and deﬁcits relative to regulated points (e.g. Kyriazakis
+et al. 1991; Raubenheimer & Simpson 1997; Berthoud &
+Seeley 2000; Simpson & Raubenheimer 2001a ). Some of
+the best-documented examples come from work on
+locusts, animals that, ironically, have a reputation for
+insatiability. A locust nymph provided with nothing to do
+other than eat high-quality food and rest spends only
+about 10–15% of its time feeding ( Simpson & Rauben-
+heimer 2000 ), but if the food is serially diluted up to
+ﬁvefold with indigestible bulk, it increases its food con-
+sumption in direct proportion, and as a result maintains
+a constant nutrient intake ( Raubenheimer & Simpson
+1993). Such compensatory responses demonstrate that
+even if the insects were ‘hardwired’ to leave time for other
+activities and to minimize time spent feeding so as to avoid
+Correspondence: S. J. Simpson, Department of Zoology, University of
+Oxford, South Parks Road, Oxford OX1 3PS, U.K. (email: stephen.
+simpson@zoo.ox.ac.uk). R. M. Sibly is at the Division of Zoology,
+School of Animal & Microbial Sciences, PO Box 228, University of
+Reading, Reading RG6 6AJ, U.K. D. Raubenheimer is at the School of
+Biological Sciences, University of Auckland, Private Bag 92019,
+Auckland, New Zealand.
+1299
+0003–3472/04/$30.00/0 /C2112004 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+ANIMAL BEHAVIOUR, 2004, 68, 1299–1311
+doi:10.1016/j.anbehav.2004.03.003
+
+PDF PAGE 2
+predation, and accepting that time is required for the
+efﬁcient digestion of food, the locusts were clearly regulat-
+ing intake rather than maximizing consumption. Further
+evidence that nutrient regulation, not maximization, is the
+central principle comes from the fact that locusts will mix
+nutritionally complementary foods to maintain their in-
+take of protein, carbohydrate and salt at a multidimension-
+al ‘intake target’ ( Trumper & Simpson 1993; Chambers
+et al. 1995 ). In addition, if fed foods containing either
+protein or carbohydrate, but not both, and so made
+selectively deﬁcient in one of these nutrients, when sub-
+sequently offered a range of foods locusts distribute their
+feeding so as to redress the accumulated nutrient imbal-
+ance ( Simpson et al. 1988; Simpson & White 1990;
+Raubenheimer & Tucker 1997). They will also keep protein
+and carbohydrate intake constant by responding to
+changes in the relative frequency of occurrence of two
+nutritionally complementary foods in their environment
+(Behmer et al. 2001), and to changing the spacing between
+complementary foods ( Behmer et al. 2003 ).
+Maintaining nutrient intake requires upregulation when
+nutrients are in deﬁcit in the food, and downregulation
+when they are in excess. When intake of more than one
+nutrient is regulated there is also the need to trade off
+ingesting surpluses of some nutrients against deﬁcits of
+others when restricted to imbalanced diets ( Raubenheimer
+& Simpson 1993; Simpson & Raubenheimer 1993 ). The
+physiological mechanisms underlying such responses are
+well understood for insects, and increasingly so for other
+organisms ( Berthoud & Seeley 2000; Simpson & Rauben-
+heimer 2000). The existence of these mechanisms, as well
+as the robustness of the behavioural outcomes, implies
+that selection has operated on these animals to avoid both
+nutrient surpluses and deﬁcits. Fitness is thus expected to
+be maximal at the intake target and to fall away from this
+with ingested surpluses and deﬁcits.
+It follows that for functional models of foraging to be
+generally applicable, they should include terms for ﬁtness
+costs associated with both excesses and deﬁcits, and be
+able to deal with multiple nutrient dimensions. The most
+widely applied models in optimal foraging theory do not
+include terms for costs of nutrient surpluses, which is
+surprising, since the numerous intrinsic and extrinsic
+(ecological) costs of food intake are well documented
+(Illius et al. 2002; Yearsley et al. 2002 ). Nor do they
+capture the multidimensionality of nutrition, tending
+rather to focus on a single currency, typically energy. It
+is widely considered that this is sufﬁcient to represent the
+diets of granivores, nectarivores, scavengers, deposit
+feeders and predators, but it does not adequately represent
+the complex diets of many omnivores and herbivores (e.g.
+Stephens & Krebs 1986; Simpson & Raubenheimer 1993;
+Bowen et al. 1995; Diaz 1995; Hanley 1997; Rauben-
+heimer & Simpson 1999; Illius et al. 2002 ). In some
+optimal foraging theory models, other nutrients have
+been included as linear constraints on energy intake (e.g.
+Pulliam 1975; Belovsky 1981, 1990 ), but this precludes
+ﬁtness from changing gradually with intake of the con-
+straining nutrient. An alternative approach for dealing
+with the need for multiple nutrients has been to base
+models on the principle of the complementarity of foods
+(Rapport 1970; Covich 1972; Schmitz et al. 1998 ). How-
+ever, this locates the analysis at the wrong level, since
+foods are not a currency in their own right, but vehicles
+for nutrients, which are the primary currencies.
+Our aim here is ﬁrst to enumerate for a two-dimensional
+nutrient space the possible simple ﬁtness landscapes for
+the case that ﬁtness costs increase continuously and
+smoothly with distance from the optimal point of intake.
+We show how an animal’s needs for multiple nutrients
+can be assessed experimentally using direct measures of
+animal performance as the common currency, and a ﬁtness
+landscape can then be constructed over nutrient intake
+space. Such a description can then be used to test the
+prediction that animals have evolved nutrient acquisition
+strategies that maximize ﬁtness, for instance that when
+provided with nutritionally complementary foods they
+will select the mixture that brings them to a point of
+intake corresponding to the summit of the ﬁtness land-
+scape. We next explore these issues by surveying pub-
+lished data and reporting the results of a new experiment,
+on the leaf-feeding caterpillar Spodoptera littoralis . Our
+approach is descriptive in the ﬁrst instance, but we argue
+that it will lead ultimately to models that can both explain
+and predict foraging decisions.
+THEORY
+In this section we construct and classify simple linear and
+quadratic ﬁtness landscapes and locate the optimal strat-
+egies within them. Our approach is to construct each
+ﬁtness landscape around a ‘target’ intake, which by
+deﬁnition is the point at which no ﬁtness cost is incurred.
+Relative to this point, ﬁtness is reduced with both nutrient
+deﬁcits (as in conventional models) and surpluses. There is
+no reason, however, to suppose the cost functions relating
+deﬁcits and surpluses to distance from the target are either
+the same, or necessarily independent, and they are
+therefore distinguished but allowed to interact. Following
+Tilman (1982) , we assume that ﬁtness costs increase
+gradually (i.e. continuously and smoothly) with distance
+from the target. It follows that ﬁtness costs in the
+neighborhood of the target have a Taylor series expansion
+in terms of surpluses and deﬁcits and their interactions,
+their squares, and so on.
+In mathematical notation, writing S for surplus, D for
+deﬁcit and ‘ a’ for the associated coefﬁcients we have for
+the case of a single nutrient that:
+Fitness costsZa
+1SCa2DCa3S2Ca4D2C. ð1Þ
+Equation (1) can readily be extended to the case of two
+nutrients, which for concreteness we shall take to be protein
+and carbohydrate (the two nutrient groups most strongly
+regulated by insect herbivores). In this case interac-
+tion terms ( S
+protein ! Dcarbohydrate, Dprotein ! Dcarbohydrate,
+Sprotein ! Scarbohydrate and Dprotein ! Scarbohydrate) must also
+be included. Such terms indicate the extent to which the
+costs of an excess or deﬁcit of one nutrient depend upon
+the simultaneous presence of an excess or deﬁcit of the
+other nutrient. Thus, for example, the ﬁtness cost of an
+ANIMAL BEHAVIOUR, 68, 61300
+
+PDF PAGE 3
+ingested excess of carbohydrate might increase with the
+extent to which protein is undereaten.
+In this formulation, the nature of the ﬁtness landscape
+will be determined by details of the dependences of ﬁtness
+costs on surpluses and deﬁcits. We now consider various
+possibilities in order of complexity. Figure 1 shows the
+three simplest scenarios. The corresponding ﬁtness con-
+tours in a two-dimensional nutrient space are shown in
+the left-hand column of Fig. 2 a–c. The thick lines in the
+plots in the right-hand column of Fig. 2 a–c show the
+optimal strategy for each case, i.e. the ‘ridge’ derived by
+joining the points of maximum ﬁtness achievable by
+animals conﬁned to a single food, where foods are
+represented as lines (‘rails’) radiating out from the origin
+with a slope equal to the ratio of carbohydrate to protein
+they contain. Where linear ﬁtness costs predominate over
+quadratic and interaction costs ( Fig. 1 a), the ﬁtness
+contours are straight parallel lines in each of the quad-
+rants round the target intake ( Fig. 2 a). The optimal
+strategies (thick lines, Fig. 2 a) correspond with feeding
+to either a horizontal or a vertical line that passes through
+the target, except where the feeding rail and the ﬁtness
+contour are coincident.
+The next simplest possibility is that quadratic ﬁtness
+costs predominate over linear and interaction costs, as in
+Fig. 1 b, c. If for each nutrient the cost of a deﬁcit is the
+same as that of a surplus (symmetrical costs, Fig. 1b), then
+the optimal strategy is to feed to an elliptical ridge
+(Fig. 2 b). However there is no a priori reason to suppose
+that the ﬁtness costs are symmetrical. Figure 2c shows the
+ﬁtness contours for the case of asymmetrical costs
+(Fig. 1 c). The ﬁtness contours are now elliptical within,
+but not across each quadrant, and the ﬁtness ridge is
+described by different ellipses in the upper left and lower
+right quadrants. An interesting feature that emerges from
+this analysis is that the asymmetrical nature of the ﬁtness
+costs generally induces a bending outwards in the ﬁtness
+ridge at the target. This does not occur if the ﬁtness costs
+are symmetrical (contrast Fig. 2 b, c).
+So far ( Fig. 2 a–c) we have considered cases in which
+there are no interaction costs. In these cases, the ﬁtness
+effects of one resource are independent of the ﬁtness
+effects of others, and joint effects are obtained as the
+simple sum of individual effects. We now go on to
+consider how landscape shapes are affected by interac-
+tions between resources. Figure 2 d shows an example of
+addition of an interaction cost to the symmetrical qua-
+dratic costs of Fig. 2b. Here, the costs of ingested deﬁcits of
+either nutrient are ameliorated by surpluses of the other,
+such as might occur when the two nutrients are partly
+substitutable. This tilts the elliptic ﬁtness contours as in
+Fig. 2 d, and the optimal strategies become more linear
+than in Fig. 2 b. In the limiting case the ﬁtness contours
+become parallel straight lines ( Fig. 3 ), indicating that
+0 200
+Protein eaten
+100
+Fitness cost
+100
+0
+50
+Carbohydrate eaten
+Protein Carbohydrate(a)
+(b)
+(c)
+0 200 100
+100
+0
+50
+0 200 100
+100
+0
+50
+0 200 100
+100
+0
+50
+0 200 100
+100
+0
+50
+0 200 100
+100
+0
+50
+Figure 1. Three simple possibilities for the dependence of ﬁtness costs on surpluses and deﬁcits for protein and carbohydrate. The target intake
+of each nutrient is taken to be 100 units. (a) Linear costs; (b) symmetrical quadratic costs (by symmetrical costs we mean that the costs of
+surpluses are the same as those of deﬁcits); (c) asymmetrical quadratic costs.
+SIMPSON ET AL.: FORAGING FOR MULTIPLE NUTRIENTS 1301
+
+PDF PAGE 4
+Protein eaten
+Carbohydrate eaten
+T
+T
+4020
+80100
+60
+251020
+T
+2 5 10
+20
+2510
+20
+(a)
+(b)
+(c)
+(d)
+0 200 100
+200
+0
+100
+0 200 100
+200
+0
+100
+0 200 100
+200
+0
+100
+0 200 100
+200
+0
+100
+0 200 100
+200
+0
+100
+0 200 100
+200
+0
+100
+0 200 100
+200
+0
+100
+0 200 100
+200
+0
+100
+T
+Figure 2. Implications for optimal strategy of the ﬁtness costs shown in Fig. 1. Dashed lines in the left-hand panels are ﬁtness contours.
+Numbers beside the ﬁtness contours indicate the ﬁtness cost on that contour. Only contours near the target intake, T, are shown. In the right-
+hand graphs thin lines represent selected feeding rails (food compositions), and thick lines optimal strategies, where maximum ﬁtness is
+obtained. (a) Linear costs, as in Fig. 1a. The ﬁtness contours are straight parallel lines in each of the quadrants around the target intake, T. (b)
+Symmetrical quadratic costs, as in Fig. 1 b. The ﬁtness contours are ellipses, and the optimal strategies (thick lines) are also ellipses. (c)
+Asymmetrical quadratic costs, as in Fig. 1c. The ﬁtness contours are ellipses in each of the quadrants around T, and the optimal strategies are
+also ellipses in each quadrant. (d) Symmetrical quadratic with interaction costs. The ﬁtness contours are now tilted ellipses, and the optimal
+strategies are more linear than in (b). The quadratic component of the ﬁtness cost is the same as in (b).
+ANIMAL BEHAVIOUR, 68, 61302
+
+PDF PAGE 5
+protein and carbohydrate are in terms of ﬁtness gains
+(although not necessarily physiologically) completely
+substitutable ( Tilman 1982; Stephens & Krebs 1986 ). In
+this case ﬁtness costs depend on the weighted sum of the
+quantities of protein and carbohydrate consumed. If the
+total is less than the target there is a deﬁcit, if more
+a surplus; but for summed intakes equal to the target
+intake, there is a ﬂat summit ridge in the ﬁtness plane and
+the target is met at all points on this summit ridge. An
+example is given in Fig. 3 .
+If there are no interaction costs, as in Fig. 2a–c, then the
+optimal strategies intersect the axes at the coordinates of
+the target, i.e. at 100 units in the ﬁgures. However if there
+are interaction costs this is no longer the case, as can be
+seen in Figs 2d and 3 . Interaction costs might also be
+added to the linear costs case of Fig. 2 a, but this does not
+affect the conclusions. Interaction costs on their own are
+implausible and are not presented.
+In summary, the main results are: (1) linear costs
+generally imply optimal strategies on horizontal or verti-
+cal lines through the target or, in some regions of nutrient
+space, on food rails (as in Fig. 2 a); (2) symmetrical
+quadratic costs produce ellipsoidal optimal strategies as
+in Fig. 2 b; (3) asymmetrical costs imply that the optimal
+strategy is discontinuous on the two sides of the target
+as in Fig. 2 c; (4) if there are no interaction costs, as in
+Fig. 2 a–c, then the optimal strategies intersect the axes at
+the coordinates of the target; and (5) the addition of an
+interaction term to quadratic costs changes this so that
+optimal strategies no longer intersect the axes at the
+coordinates of the target and can lie on a straight line,
+as in Fig. 3 .
+EXAMPLES FROM PUBLISHED DATA
+Figure 4 shows some published examples of intake data
+in two-dimensional nutrient spaces with associated
+performance consequences. The points labelled ‘regulated
+intake’ indicate bicoordinate nutrient intakes to which
+animals regulated when provided with one of several
+different complementary food pairings (see Raubenheimer
+& Simpson 1997 ). The most extensive studies indicating
+such regulation have been undertaken on the grass-
+specializing African migratory locust, Locusta migratoria
+(Simpson & Raubenheimer 2000 ). In each case in Fig. 4 it
+is apparent that animals performed best (by the measured
+criteria) at the regulated point of intake, and performance
+fell smoothly with distance away from this ‘target’. The
+shape of the array for Locusta (Fig. 4 a) appears to be
+ellipsoidal, as in Fig. 2 b, and intake on the protein axis is
+about equal to the protein coordinate of the intake target,
+as expected in the absence of interaction costs. The
+decline in performance as one moves along the array
+away from the target is roughly ellipsoidal, the steeper
+decline to the left indicating that protein deﬁcits are more
+serious than carbohydrate deﬁcits in terms of locust
+survival. The situation for the highly polyphagous desert
+locust, Schistocerca gregaria (Fig. 4b) is rather similar except
+that the array resembles a tilted ellipse ( Fig. 2d), indicating
+the presence of linear interaction costs. This is also
+indicated by the fact that intake on the protein axis is
+higher than the protein coordinate of the intake target. As
+for Locusta, the performance declines are ellipsoidal, with
+steeper decline to the left indicating that protein deﬁcits
+are more serious than carbohydrate deﬁcits. The array of
+layer hens, Gallus gallus domesticus (Fig. 4 e) is similar to
+that of Schistocerca but the information available is more
+limited. The array of Locusta for salt mixture versus
+macronutrients ( Fig. 4 c) is vertical above the regulated
+intake point, indicating that salt overload is insigniﬁcant
+compared with protein/carbohydrate imbalance (cf.
+Fig. 2 a). The array of the pea aphid, Acyrthosiphon pisum
+(Fig. 4d) is close to horizontal between amino acid intakes
+of 1 and 8 mg, indicating that in this range amino acid
+imbalance is unimportant compared to imbalance of
+carbohydrate (cf. Fig. 2 a).
+Hence, examples are seen of both horizontal and
+vertical arrays, compatible with the linear costs of
+Fig. 1 a, together with cases that suggest quadratic costs
+both with and without interaction costs. Were arrays to be
+extended to encompass more markedly unbalanced foods,
+these relationships would break down in certain cases,
+indicating strongly nonlinear interaction costs at these
+extremes. For example, foods lacking protein cannot
+sustain survival in growing locusts, aphids or hens, and
+intake is commensurately low. A salt-free diet is also fatal
+to developing locusts.
+In Schistocerca and the layer hen the arrays resembled
+the tilted ellipses of Fig. 2 d, rather than the ordinary
+ellipses of Fig. 2 b, indicating the existence of linear
+interaction costs, and it would be interesting to know
+what mechanism could be responsible. This question can
+be examined by comparing the optimal strategy curves in
+Fig. 2 b, d, and noting that, far from the target, animals
+represented by Fig. 2 d pay fewer ﬁtness costs than would
+be paid by Fig. 2 b animals with the same intakes. One
+possibility is that animals responding as in Fig. 2 b are
+generalist feeders, and that the costs of surpluses are
+2 51020
+Protein eaten
+Carbohydrate eaten
+0 200 100
+200
+0
+100
+Figure 3. As in Fig. 2 d, but with increased interaction costs the
+ﬁtness contours become straight parallel lines.
+SIMPSON ET AL.: FORAGING FOR MULTIPLE NUTRIENTS 1303
+
+PDF PAGE 6
+discounted in generalists because they have a higher
+chance than specialists of ﬁnding a food providing
+a complementary nutrient ( Simpson et al. 2001; Rauben-
+heimer & Simpson 2003 ). A mechanistic explanation for
+why animals conforming to the pattern in Fig. 2 d overeat
+protein on low-carbohydrate, high-protein foods relative
+to those following the pattern in Fig. 2b might be that the
+former have a greater capacity to deaminate protein than
+the latter. This could simultaneously reduce the surplus of
+amino acids in the blood, and provide reduced carbon to
+supplement the carbohydrate deﬁcit incurred on the
+excess protein foods. At the other extreme, although they
+cannot convert carbohydrate to protein, when conﬁned to
+high-carbohydrate, low-protein diets, animals conforming
+to Fig. 2 d may have a greater capacity to store excess
+ingested carbohydrate as lipid ( Raubenheimer & Simpson
+2003).
+EXPERIMENT
+A limitation of the examples in Fig. 4 is the incomplete
+coverage of performance data across nutrient space. In an
+attempt to obtain better coverage we carried out an
+experiment using ﬁnal-stage larval Spodoptera littoralis ,
+a generalist leaf-feeding caterpillar.
+Sampling the performance landscape more fully re-
+quires measuring the consequences of restriction to
+different regions of intake in the nutrient plane. It is
+straightforward to restrict animals to suboptimal balances
+of intake by providing diets that differ from the target
+nutrient ratio. It is also possible to achieve experimentally
+restricted intake within a given nutrient ratio by limiting
+the amount of food provided or, alternatively, by manip-
+ulating nutrient density of the foods (our chosen method
+for this experiment). Far more difﬁcult, however, is to
+force animals to overeat a food (and hence cross the ﬁtness
+hill and descend the other side) without resorting to
+invasive techniques, which greatly complicate the mea-
+surement of performance. In the present experiment, we
+attempted to achieve this by providing a subset of the
+animals from each P:C ratio treatment with foods that
+were unusually nutrient dense, but not so concentrated
+that they would be rejected. Such foods might be less
+phagostimulatory than less-concentrated foods ( Simpson
+(a)
+Protein eaten (mg)
+0 50 100 150 200 0 50 100 150 200 0 50 100 150 200 250
+Carbohydrate eaten (mg)
+0
+50
+100
+150
+200
+Carbohydrate eaten (mg)
+0
+50
+100
+150
+200
+(56) (65)
+(95)
+(81)
+(78)
+(75)
+(50)
+(b)
+Protein eaten (mg)
+(58)
+(82)
+(95)
+(95)
+(91)
+(80)
+(70)
+(c)
+Protein + carbohydrate eaten (mg)
+Salt mixture eaten (mg)
+0
+5
+10
+15
+20
+25
+30
+(125)
+(140)
+(138)
+Regulated
+intake Regulated
+intake
+Regulated
+intake
+Amino acid eaten (µg)
+012345678 1 0 2 0 0 3 04 05 06 07 0
+Carbohydrate eaten (µg)
+0
+20
+40
+60
+80
+100
+120
+140 (d)
+(65)
+(67)
+(87)
+(80) (76)
+(75)
+(75)
+(e)
+Protein eaten (g)
+Carbohydrate eaten (g)
+0
+10
+20
+30
+40
+50
+60
+70
+(960)
+(1076)
+(1050)
+(1032)
+(1006)
+Regulated
+intake
+Figure 4. Examples of intake arrays with associated performance measurements. (a) and (b) Protein and carbohydrate intake in two species of
+locust, Locusta migratoria and Schistocerca gregaria, respectively (data from Raubenheimer & Simpson 1999, 2003 ). (c) Intake of salt versus
+protein C carbohydrate in Locusta (data from Trumper & Simpson 1993 ). (d) The array for pea aphids, Acyrthosiphon pisum (data from
+Abisgold et al. 1994). (e) The array for layer hens,Gallus gallus domesticus (Shariatmadari & Forbes 1993). ‘Regulated intake’ indicates the point
+to which animals regulated when provided with complementary food pairings (such regulation has not been measured for aphids, hence the
+lack of a point labelled as the target). Other points of intake lie on lines (‘rails’) radiating out from the origin at an angle that represents the ratio
+of the two nutrient groups in each food. Values beside intake points represent performance measures for the same insects. The performance
+measures recorded were: % survival in (a) and (b); dry mass growth (mg) in (c) (data not available for three points); dry mass growth (mg) in
+(d), and carcass dry mass (g) at the end of the experiment in (e).
+ANIMAL BEHAVIOUR, 68, 61304
+
+PDF PAGE 7
+& Raubenheimer 1996 ), but could none the less result in
+the ingestion of excess nutrient because they elicit lower
+levels of inhibitory feedbacks from stretch receptors in the
+gut per unit of nutrient eaten than do more concentrated
+foods ( Simpson 1995 ). To moderate any acute effects of
+the highly concentrated foods, we simultaneously pro-
+vided the insects in these treatments with a moderately
+concentrated food. In this way, we hoped to coerce, rather
+than force, the animals to overingest nutrient, and
+measure the associated ﬁtness consequences.
+Methods
+Final-instar larvae were provided with one of 35 foods
+varying in protein and digestible carbohydrate concentra-
+tion and ratio. In an additional ﬁve treatments larvae were
+allowed to select between complementary food resources
+(henceforth, the self-selecting treatment), to establish
+whether and to which point they would regulate their
+intake of protein and carbohydrate.
+Caterpillars were reared on a wheat-germ based, semi-
+artiﬁcial diet until the ﬁnal (sixth) larval stadium. For no-
+choice treatments, 350 newly moulted sixth-instar larvae
+were weighed to the nearest 0.1 mg and each was placed
+in its own 9-cm-diameter petri dish with a preweighed
+block (weighing ca. 1.5 g) of one of 35 chemically deﬁned
+diets. Foods contained one of ﬁve ratios of protein (a 3:1:1
+mix of casein, peptone and albumen) to digestible carbo-
+hydrate (sucrose): 5:1, 2:1, 1:1, 1:2 or 1:5. Foods also
+differed in their concentration of protein C carbohydrate
+through the addition of indigestible cellulose. There were
+seven such dilutions: P C C Z 42, 33.6, 25.2 or 16.8% by
+dry mass. In an attempt to cause the caterpillars to
+overingest nutrient, we included an additional three
+treatments per protein:carbohydrate ratio where insects
+were provided with a pair of foods, one of which was
+highly and the other moderately concentrated (see above):
+P C C Z 63% C 42%; 84% C 42%; 84% C 63%. Remain-
+ing dietary ingredients (salts, vitamins, cholesterol and
+linoleic acid) totalled 4% dry weight in all foods. Dry
+ingredients were suspended at a 1 to 6 ratio in 1% agar
+solution. Insects were maintained at 27 G 5
+/C14 C under
+a 14:10 light:dark photoregime.
+In the self-selecting treatments, 60 newly moulted,
+ﬁnal-instar larvae were each provided with a pair of
+nutritionally complementary food blocks, containing the
+following protein to carbohydrate ratios (%P:%C): 35P:7C
+with 21P:21C; 28P:5.6C with 21P:21P; 28P:5.6C with
+16.8P:16.8C; 21P:4.2C with 21P:21C; or 21P:4.2C with
+16.8P:16.8C.
+Food was replaced each day and uneaten food was
+removed and dried to constant mass. We calculated
+consumption as the difference between initial food mass
+(estimated from initial wet mass) and ﬁnal dry mass.
+Insects were maintained until pupation, with the time of
+pupation being recorded to the nearest 6 h. Pupae were
+wet-weighed and wet mass growth across the stadium was
+calculated. Growth rate was measured as wet mass growth/
+stadium duration. Those insects that died were recorded
+but removed from analyses of intake and growth.
+Results
+Mean points of intake on the 35 single-diet treatments
+were spread across nutrient space in a pattern that
+reﬂected both the ratio of macronutrients in the diet
+and their concentration ( Fig. 5 a). For presentation, we
+chose as a performance measure % survival within
+a treatment multiplied by mean rate of development
+(wet mass grown divided by stadium duration). This
+enabled the combined effects of two of the major
+determinants of ﬁtness in Lepidoptera (e.g. Honek 1993 )
+to be superimposed as a performance value on the intake
+plot in Fig. 5a. For statistical testing, however, we analysed
+survival and growth rate separately, to distinguish the
+individual contributions of these variables to any effects
+on the performance index. We return to the individual
+contributions of growth and development time in a later
+section.
+It is evident from Fig. 5 a that we were successful in our
+aim of extending the data coverage of nutrient space. In
+particular, the caterpillars had only a partial capacity to
+compensate for dilution of the diet with cellulose, which
+therefore served as a constraint to nutrient intake. Addi-
+tionally, and importantly, the animals on the excess-
+carbohydrate foods overingested nutrients, providing us
+with an opportunity to assess the costs of ingested
+nutrient excesses.
+When following the intake points along the line for the
+1:5 ratio of protein to carbohydrate ( Fig. 5a), it is apparent
+that performance rose with increasing nutrient intake up
+to the point for the 42% P C C concentration (where it
+reached a maximum still 30% below that seen at the
+overall peak of the landscape), but increased consumption
+beyond this resulted in declining performance (survival:
+c
+3
+2 Z 18.2, P ! 0.001; growth rate: F3,33 Z 1.68, NS). This
+provides clear evidence for costs of carbohydrate excesses,
+independent of protein deﬁcit. Intake along the 1:2 diet
+rail also showed increasing, then declining performance
+(survival: c
+3
+2 Z 9.9, P ! 0.02; growth rate: F3,33 Z 0.66,
+NS). On the remaining food ratios (1:1, 2:1 and 5:1
+%P:%C) there is also evidence for a fall in performance
+at the highest nutrient intakes: this downturn becomes
+increasingly pushed up against a maximal intake within
+each rail. It proved impossible to get the larvae to eat more
+than a certain total amount of nutrients on these higher-
+protein ratio foods. This clumping of intake points for the
+most concentrated foods on each rail indicates a strictly
+imposed intrinsic (behavioural) constraint to nutrient
+intake. Forcing animals to ingest in excess of this would
+require invasive techniques with associated problems of
+interpreting ﬁtness responses (see above).
+The performance surface plotted in Fig. 5a has a summit
+ridge running diagonally from approximately 100 mg P ,
+200 mg C to 250 mg P , 50 mg C, interpolating within
+which leads to a predicted summit point in the region of
+170 mg P , 125 mg C. The next question was whether
+caterpillars provided with the opportunity to regulate
+their intake of carbohydrate and protein defended a point
+of intake, and whether this point lay in the region of the
+peak on the performance landscape. Earlier work had
+shown that ﬁnal-stadium S. littoralis provided with food
+SIMPSON ET AL.: FORAGING FOR MULTIPLE NUTRIENTS 1305
+
+PDF PAGE 8
+0 50 100 150 200 250 300
+Carbohydrate eaten (mg)
+0
+100
+200
+300
+400
+500
+(a)
+15
+20
+25
+35
+3016.9
+23.6
+28.4
+23.4
+39.5
+36.2
+26.7
+18.5
+25.2
+24.6
+13.6
+7.2
+28.0
+29.7
+24.3
+26.7
+16.7
+31.8
+39.9
+26.4 37.831.5 36.7
+38.4
+39.3
+32.9
+35.0
+Regulated intake point
+35.7
+37.0
+33.6
+9.6
+34.0
+32.8
+19.5
+19.3
+10
+5
+%P:%C 1:5 1:2
+Protein eaten (mg)
+1:1
+2:1
+5:1
+(b)
+50 100 150 200 250
+50
+100
+150
+200
+250
+1
+24 5
+3
+Protein eaten (mg)
+Carbohydrate eaten (mg)
+Figure 5. (a) Results of an experiment in which Spodoptera littoralis were fed chemically deﬁned diets over the ﬁnal larval stadium. Thirty-ﬁve
+treatment groups were provided with a single food and were thus restricted in their intake to the ratio of protein to carbohydrate present in the
+food, while ﬁve treatments were able to select between complementary food pairings. See text for details of treatment regimes. Points on the
+graph represent nutrient intake (bicoordinate meanG SE for 10 caterpillars), while the number beside each point gives performance calculated
+as the mean wet-mass growth rate of the insects (mg grown/day) multiplied by % surviving to pupation. The point labelled ‘regulated intake
+point’ is the combined mean for the 58 caterpillars (N Z 11 or 12 per treatment) that were provided with one of the ﬁve choice treatments (see
+Fig. 5b for individual treatment values). Performance contours were ﬁtted to the surface using SigmaPlot. Note how the performance surface is
+consistent with a tilted ellipse, indicative of quadratic costs with an interaction term, and how the regulated point of intake measured from self-
+selecting larvae lies within the region of the summit on the ﬁtness surface. The short-dashed line indicates the values for the treatments in
+which the total of protein and carbohydrate in the diet was 42%. This concentration provided near maximal performance within each
+protein:carbohydrate ratio. The long-dashed line shows the upper limit to nutrient intake, beyond which insects would not go. (b) MeanG SE
+points of intake for the ﬁve choice treatments, as well as the overall mean (B) used inFig. 5a. Treatments are numbered according to the order
+of presentation in theMethods. Each mean value differed highly signiﬁcantly from the expected intake were insects to have fed indiscriminately
+between the two foods (MANCOVA contrasts between observed and expected values for protein and carbohydrate intake, with insect mass at
+the beginning of the stadium as a covariate, gave F
+2,104 ranging from 35.62 to 60.45, all P ! 0.0001). Pairwise contrasts among observed
+ANIMAL BEHAVIOUR, 68, 61306
+
+PDF PAGE 9
+pairings in which one food contained protein but no
+carbohydrate, and the other carbohydrate but no protein,
+regulated their intake to a protein to carbohydrate ratio of
+65:35 (Simpson et al. 1988 ). We thus provided larvae with
+one of ﬁve different complementary food pairings, all of
+which encompassed the predicted position of the intake
+target, but in each case would require a unique combina-
+tion of consumption of the two foods to reach a given
+point of protein–carbohydrate intake. Were larvae to have
+apportioned their feeding between the two dishes indis-
+criminately, the ﬁve treatment groups would have arrived
+at quite different points of nutrient intake. Instead, intake
+points converged in nutrient space, indicating strong
+regulation of both nutrients ( Fig. 5 b). This point lay at
+150 mg P , 125 mg C, on the ridge of the performance
+landscape close to the predicted position of the summit
+point ( Fig. 5 a).
+Having established the position of maximal perfor-
+mance through coincidence between two independent
+measures, growth and survivorship on the one hand, and
+dietary selection behaviour on the other, we could next ﬁt
+the Taylor series expansion model. Fixing the intake target
+at 150 mg P , 125 mg C and ﬁtting a quadratic model with
+interaction terms (as beﬁts the shape of the landscape,
+a tilted ellipse) gives the following.
+Fitness ðgrowth!survivalÞZ34:2 /C255 0:00141 PD
+2
+/C255 0:00073 PS2 /C255 0:00204 CD2
+/C255 0:00031 CS2C0:0005 PD!CD /C255 0:00095 PD!CS
+/C255 0:0027 PS!CDC0:0004 PS!CS
+where P is protein and C carbohydrate, D is deﬁcit and S is
+surplus, relative to the intake target. Statistical results are
+provided in Table 1.
+GENERAL DISCUSSION
+Our approach has features in common with that in-
+troduced by Tilman and colleagues into the resource
+exploitation literature, following earlier work by Monod
+(1950). In a theoretical synthesis, Tilman (1982) consid-
+ered the link between the availability of multiple resources
+and the growth rate of the population of consumers of
+those resources. Increasing availability produces a graded
+increase in population growth rate (see e.g. Figure 2 in
+Tilman 1982 ). When organisms require more than one
+resource there are a number of ways in which they could
+jointly affect population growth rate (cf. Ricklefs & Miller
+1999). Tilman (1982) classiﬁed resources as essential if
+they limit population growth rate independently of one
+another, so that the effects of one have no interaction
+with the effects of others, and substitutable if one resource
+may be substituted for another.
+Since population growth rate is often used as a ﬁtness
+measure, there has been a need to apply a version of
+Tilman’s resource exploitation theory, which had mainly
+plants in mind, to the analysis of the foraging patterns of
+animals with multiple nutrient requirements. Indeed,
+efforts have been made to integrate consumer resource
+theory with optimal foraging theory. For example, Tilman
+(1988) plotted hypothetical ﬁtness landscapes, superim-
+posed a linear consumption constraint, and then identi-
+ﬁed the strategy with highest ﬁtness that satisﬁes the
+consumption constraint. Vincent et al. (1996) provided
+a mathematical formulation of Tilman’s graphical models
+based on Holling’s (1959) disc equation and broadened
+the models to include aspects of community ecology
+(density-dependent habitat selection) as well as optimal
+foraging theory. More recently, Whelan et al. (2000) built
+upon these models by incorporating modulation of di-
+gestive physiology in response to consumer resource
+dynamics and season.
+Our approach has been to construct a ﬁtness landscape
+around a ‘target’ intake, at which minimal ﬁtness cost is
+incurred. Following Tilman (1982) , we suppose that
+ﬁtness costs change gradually with nutrient imbalances,
+and this leads to a natural classiﬁcation of possible ﬁtness
+landscapes based on Taylor series approximations of
+landscape shape. In some cases there are no interaction
+costs (Fig. 2a–c), in others the presence of interactions can
+result in resources being substitutable ( Fig. 3 ). The sim-
+plest possible landscapes are pyramids ( Fig. 2 a), corre-
+sponding to linear costs, and these generally produce
+optimal strategies on horizontal or vertical lines through
+the target. Symmetrical quadratic costs produce ellipsoidal
+optimal strategies as in Fig. 2 b, and asymmetrical costs
+imply that the optimal intake array is concave in shape,
+bending outward in the neighbourhood of the target, as in
+points of protein and carbohydrate intake following MANCOVA were as follows: treatment 1 versus 2 (F2,51 Z 2.05, P Z 0.139); treatment 1
+versus 3 ( F2,51 Z 3.11, P Z 0.053); treatment 1 versus 4 ( F2,51 Z 9.12, P Z 0.0004); treatment 1 versus 5 ( F2,51 Z 6.97, P Z 0.002);
+treatment 2 versus 3 ( F2,51 Z 0.18, P Z 0.834); treatment 2 versus 4 ( F2,51 Z 4.22, P Z 0.02); treatment 2 versus 5 ( F2,51 Z 3.05,
+P Z 0.056); treatment 3 versus 4 ( F2,51 Z 4.67, P Z 0.014); treatment 3 versus 5 ( F2,51 Z 3.60, P Z 0.0344); treatment 4 versus 5
+(F2,51 Z 0.12, P Z 0.890). When the required Bonferroni correction is made to the criticalP value (0.05/10 Z 0.005), the only differences that
+are signiﬁcant are between treatments 1 and 4 and 1 and 5.
+Table 1. Taylor series expansion model ﬁtted to the data in Fig. 5a,
+with intake target at 150 mg protein and 125 mg carbohydrate
+Predictor Coefﬁcient SE TP
+Constant 34.193 1.144 29.88 !0.0005
+PD2 /C255 0.00141 0.000237 /C255 5.94 !0.0005
+PS2 /C255 0.00073 0.000995 /C255 0.73 0.471
+CD2 /C255 0.00204 0.000457 /C255 4.47 !0.0005
+CS2 /C255 0.00031 0.000069 /C255 4.43 !0.0005
+PD!CD 0.00050 0.000739 0.67 0.508
+PD!CS /C255 0.00095 0.000345 /C255 2.77 0.010
+PS!CD /C255 0.0027 0.001484 /C255 1.81 0.081
+PS!CS 0.0004 0.8100 0.00 1.000
+P Z protein, C Z digestible carbohydrate, D Z deﬁcit of intake
+relative to the intake target, S Z surplus intake. R2 Z 0.848; overall
+signiﬁcance of the regression model: F8,26 Z 18.15, P ! 0.0005.
+SIMPSON ET AL.: FORAGING FOR MULTIPLE NUTRIENTS 1307
+
+PDF PAGE 10
+Fig. 2 c. If there are no interaction costs, as in Fig. 2 a–c,
+then the optimal strategies intersect the axes at the
+coordinates of the target; the addition of interaction to
+quadratic costs changes this so that optimal strategies no
+longer intersect the axes at the coordinates of the target.
+The available data ( Figs 4, 5 ) ﬁt well with this classiﬁ-
+cation of ﬁtness landscapes. There are examples of both
+horizontal and vertical arrays, compatible with the linear
+costs of Fig. 2 a, and cases that correspond to quadratic
+costs. Three cases suggest the existence of interactions
+(Fig. 4 b, e, Fig. 5 ).
+Substitutable resources were deﬁned graphically by
+Tilman (1982) as in our Fig. 3 , but this and his use of
+the term ‘essential resources’ are, in reality, not clear. For
+example, if forced to balance undereating carbohydrate
+against overeating protein by being restricted to a diet
+with a higher than optimal ratio of protein to carbohy-
+drate, locusts, caterpillars and aphids have the capacity to
+deaminate protein to gain limiting carbon skeletons for
+growth and to fuel respiration ( Raubenheimer & Simpson
+1993, 2003; Thompson & Redak 2000; Wilkinson et al.
+2001). In other words, protein (or amino acids in the case
+of aphids) can be substituted for carbohydrate, although
+the reverse is not the case. Nevertheless, if provided with
+pure protein or amino acids, all aphids die, and locusts
+either die or suffer in their growth and development. Also,
+if provided with the opportunity to regulate intake of both
+nutrient groups by selecting between complementary
+foods, these animals will do so. Hence, at the level of
+the regulatory systems for feeding behaviour the two
+macronutrients are not substitutable, but under severe
+dietary imbalance they are rendered partially, and asym-
+metrically, substitutable by postingestive physiological
+processes. It therefore seems preferable when dealing with
+animal foraging strategies to make a distinction in terms
+of the presence or absence of interaction costs as we have
+done here, rather than essentiality of resources.
+Nonalignment of Regulation Points
+In our experiment on S. littoralis , the point of regulated
+protein and carbohydrate intake coincided with the
+summit of the performance landscape ( Fig. 5 a). Were this
+not to be the case, it would indicate one of two things:
+either the ﬁtness landscape had been mismeasured, or the
+animals truly were behaving maladaptively. Considering
+the ﬁrst of these, it may be that the chosen performance
+measures were not on their own sufﬁciently strong
+determinants of ﬁtness under natural conditions. They
+might, for example, exclude ecological costs such as time-
+and/or consumption-dependent mortality from preda-
+tion, parasitism or disease ( Bernays 1997; Lima 1998;
+Hutchings et al. 2000 ), which have become incorporated
+into the operation of regulatory mechanisms over evolu-
+tionary time. This is a useful feature as it provides an
+opportunity in our models to test directly for the appro-
+priateness of the chosen currency, rather than merely
+assume it. Indeed, it might be argued that once likely
+laboratory measures have been exhausted, the extent and
+direction of any remaining misalignment of laboratory-
+derived ﬁtness surfaces and points of regulated intake
+could be used to predict such ecological costs.
+A second reason why the regulated intake point may
+not align with the performance peak is that there is
+a mismatch between evolved regulatory mechanisms
+and the current environment; that is, even though
+animals are regulating their nutrient intake, they are
+doing so to a region in nutrient space that is maladaptive
+in a changed environment. For example, the regulated
+point may include a component for ‘anticipated’ nutrient
+expenditure, which is harmful if not used. Such cases
+might explain why humans ( I.A.R.C. 2002 ), and some
+animals kept under captivity (e.g. Schwitzer & Kaumanns
+2001), fail to downregulate intake in response to lowered
+exercise levels: it is not that there is a failure to regulate
+intake, but the regulatory system has evolved to anticipate
+a present or future level of energy expenditure, which if
+not used is deposited as fat, with associated ﬁtness costs.
+A more extreme but related scenario would be that in
+which a change in environment results in the loss of the
+ability to regulate nutrient intake at all, by distorting or
+circumventing the operation of regulatory mechanisms.
+An example of this would be the recently hypothesized
+positive feedback driving obesity in modern humans, in
+which the tendency to overeat fat and carbohydrate
+caused by the extremely high nutrient density and
+palatability of modern processed foods, relative to our
+ancestral diet, interacts with the powerful leverage over
+intake exerted by the mechanisms regulating protein
+intake ( Simpson et al. 2003 ). In this context, note that
+the only way we could cause our caterpillars to ‘go over
+the top’ was to provide them with extremely nutrient-
+dense foods, and only then for carbohydrate.
+Description versus Prediction
+It is apparent that our approach relies on providing
+a detailed description of the shape of the ﬁtness landscape
+(or at least measures of performance variables that serve as
+ﬁtness surrogates), before predicting optimal behaviour, or,
+in reverse, a detailed description of nutritional regulation is
+needed to predict the shape of the ﬁtness landscape. We
+would argue that, in the ﬁrst instance, this is necessary if
+the aim of the modelling exercise is to explain behaviour as
+well as to predict it. (Here we fully concur with Illius et al.’s
+(2002, page 468) view that ‘The heuristic value of models
+lies not in their ability to make accurate predictions, but in
+their ability to make predictions for the right reasons.’)
+Studies over recent years have shown that the position of
+the intake target and the extent to which animals will
+overeat nutrients in excess against others in deﬁcit (‘rules
+of compromise’ as deﬁned by Raubenheimer & Simpson
+1993) cannot yet be predicted a priori. That said, ecological
+and life history correlates have begun to emerge from
+comparative analysis of these variables for different species
+and phenotypes ( Simpson & Raubenheimer 1993; Simp-
+son et al. 2001; Raubenheimer & Simpson 2003 ). Once
+such more general patterns have been established, it will
+become possible to construct predictive models on the
+basis of less complete information.
+ANIMAL BEHAVIOUR, 68, 61308
+
+PDF PAGE 11
+P:C ratio 5:1P:C ratio 1:2
+5
+10
+15
+20
+25
+30
+35
+40
+45
+5
+10
+15
+20
+25
+30
+35
+40
+45
+5
+10
+15
+20
+25
+30
+35
+40
+45
+5
+10
+15
+20
+25
+30
+35
+40
+45
+5
+10
+15
+20
+25
+30
+35
+40
+45
+40
+80
+120
+160
+200
+240
+280
+1234567 1234567 1234567 1234567 1234567
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+0.18
+0.2
+0.22
+40
+80
+120
+160
+200
+240
+280
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+0.18
+0.2
+0.22
+40
+80
+120
+160
+200
+240
+280
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+0.18
+0.2
+0.22
+40
+80
+120
+160
+200
+240
+280
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+0.18
+0.2
+0.22
+40
+80
+120
+160
+200
+240
+280
+0.04
+0.06
+0.08
+0.1
+0.12
+0.14
+0.16
+0.18
+0.2
+0.22
+P:C ratio 1:5 P:C ratio 1:1 P:C ratio 2:1
+Growth rate (mg/day)
+x % survival
+Growth (mg)
+x % survival
+Development time
+(per day) x % survival
+Performance measure
+Dietary dilution (1 = most dilute, 7 = most concentrated)
+Figure 6. Plots in which the performance index fromFig. 5a (growth rate ! % survival) is broken down into growth ! % survival and the reciprocal of development time ! % survival. Data
+are means for the 35 treatment groups in which caterpillars were restricted to a diet of ﬁxed P:C ratio and nutrient density. Caterpillars were allowedto self-select among complementary foods.
+The point to which they regulated their nutrient intake is indicated with dotted vertical lines (i.e. a ratio of 1.2:1 and a dilution value of 4 (42% prot ein C carbohydrate)).
+SIMPSON ET AL.: FORAGING FOR MULTIPLE NUTRIENTS 1309
+
+PDF PAGE 12
+Time and Toxins
+As presented, our models do not deal explicitly with time
+costs. That time costs shape patterns of foraging, ingestion,
+postingestive processing, growth and development is
+likely to be true ( Illius et al. 2002 ), although it need not
+be, nor can the form of the cost functions be predicted in
+advance (e.g. time minimization, rate maximization, etc.);
+rather, it is an empirical question (e.g. Herbers 1981 ). At
+least under laboratory conditions, animals such as our
+herbivorous insects readily pay substantial time costs to
+regulate nutrient intake, for example locusts eat ﬁve times
+more of a ﬁvefold diluted diet ( Raubenheimer & Simpson
+1993), although work on other animals has shown that
+under natural conditions foraging patterns are inﬂuenced
+by level of predation risk ( Lima 1998 ).
+By using growth rate in our performance index in
+Fig. 5a, we have implicitly assumed costs for development
+time. One way of exploring these costs is to consider
+growth and development time separately. This is done for
+the caterpillar experiment in Fig. 6 , where it can be seen
+that for low P:C ratios (1:5 and 1:2) growth and the
+reciprocal of stadium duration were closely correlated,
+such that diets sustaining high growth also produced
+short development times. However, at higher P:C ratios,
+the two variables became uncoupled. Growth was highest
+very close to the regulated intake point, whereas de-
+velopment time continued to fall as diets were made more
+protein biased. Except for a possible indirect effect of
+development time on survival, this indicates that cater-
+pillars regulated their protein and carbohydrate intake to
+maximize growth, irrespective of development time.
+The other temporal aspect that we have not addressed
+here is changes over time in the position of the intake
+target. We have presented the intake target as a point,
+integrated over a particular period during an animal’s life.
+In reality, the intake target moves, tracking a trajectory
+over physiological, developmental, seasonal and evolu-
+tionary timescales ( Simpson & Raubenheimer 1993; Rau-
+benheimer & Simpson 1999 ). As the target shifts, so too
+will the ﬁtness landscape. A recent advance in formalizing
+changing cost–beneﬁt functions of food intake over an
+animal’s life history is the model of Yearsley et al. (2002) ,
+and integration of our approach with theirs seems to offer
+considerable potential.
+Another cost of feeding that we have omitted from the
+present analyses, but which is readily incorporated, is the
+deleterious effect of toxins, such as plant secondary
+metabolites ( Simpson & Raubenheimer 2001b; Behmer
+et al. 2002 ).
+From Individuals to Ecological Niches
+Lastly, ﬁtness landscapes can also be interpreted in
+terms of ecological niches. Fitness is often measured by
+population growth rate (pgr); thus ﬁtness landscapes can
+be viewed as pgr landscapes. Following Birch (1953) ,
+Maguire (1973) , Hutchinson (1978) and Tilman (1982) ,
+Caughley et al. (1988) , Sibly & Hone (2002) and Sibly et al.
+(2003) have argued that populations persist where
+pgr R 0, thus the pgr Z 0 contour in nutrient space
+deﬁnes aspects of the organism’s ecological niche.
+Our hope is that laboratory measurements of ecological
+niches can be used to provide the basis for predictions
+about the habitats in which organisms will be found in
+the ﬁeld.
+Acknowledgments
+We are grateful to Miguel Rodriguez-Girones for com-
+ments on the model. Thanks also to the two referees for
+their perceptive and very helpful comments.
+References
+Abisgold, J. D., Simpson, S. J. & Douglas, A. E. 1994. Nutrient
+regulation in the pea aphid Acyrthosiphon pisum : application of
+a novel geometric framework to sugar and amino acid consump-
+tion. Physiological Entomology, 19, 95–102.
+Behmer, S. T., Raubenheimer, D. & Simpson, S. J. 2001.
+Frequency-dependent food selection in locusts: a geometric
+analysis of the role of nutrient balancing. Animal Behaviour , 61,
+995–1005.
+Behmer, S. T., Simpson, S. J. & Raubenheimer, D. 2002. Herbivore
+foraging in chemically heterogeneous environments: nutrients
+and secondary metabolites. Ecology, 83, 2489–2501.
+Behmer, S. T., Cox, E., Raubenheimer, D. & Simpson, S. J. 2003.
+Food distance and its effect on nutrient balancing in a mobile
+insect herbivore. Animal Behaviour, 66, 665–675.
+Belovsky, G. E. 1981. Food selection by a generalist herbivore: the
+moose. Ecology, 62, 1020–1030.
+Belovsky, G. E. 1990. How important are nutrient constraints in
+optimal foraging models or are spatial/temporal factors more
+important? In: Behavioural Mechanisms of Food Selection (Ed. by
+R. N. Hughes), pp. 255–278. Berlin: Springer-Verlag.
+Bernays, E. A. 1997. Feeding by lepidopteran larvae is dangerous.
+Ecological Entomology, 22, 121–123.
+Berthoud, H.-R., Seeley, R. J. (Eds) . 2000. Neural and Metabolic
+Control of Macronutrient Intake ,. Boca Raton: CRC Press.
+Birch, L. C. 1953. Experimental background to the study of the
+distribution and abundance of insects. I. The inﬂuence of
+temperature, moisture and food on the innate capacity for
+increase of three grain beetles. Ecology, 34, 698–711.
+Bowen, S. H., Lutz, E. V. & Ahlgren, M. O. 1995. Dietary protein
+and energy as determinants of food quality: trophic strategies
+compared. Ecology, 76, 899–907.
+Caughley, G., Grice, D., Barker, R. & Brown, R. 1988. The edge of
+the range. Journal of Animal Ecology , 57, 771–785.
+Chambers, P. G., Simpson, S. J. & Raubenheimer, D. 1995.
+Behavioural mechanisms of nutrient balancing in Locusta migra-
+toria nymphs. Animal Behaviour, 50, 1513–1523.
+Covich, A. 1972. Ecological economics of seed consumption
+by Peromyscus: a graphical model of resource substitution.
+Transactions of the Connecticut Academy of Arts and Sciences , 44,
+71–93.
+Diaz, J. A. 1995. Prey selection by lacertid lizards: a short review.
+Herpetological Journal, 5, 245–251.
+Hanley, T. A. 1997. A nutritional view of understanding and
+complexity in the problem of diet selection by deer (Cervidae).
+Oikos, 79, 209–218.
+Herbers, J. M. 1981. Time resources and laziness in animals.
+Oecologia, 49, 252–262.
+ANIMAL BEHAVIOUR, 68, 61310
+
+PDF PAGE 13
+Holling, C. S. 1959. Some characteristics of simple types of
+predation and parasitism. Canadian Entomologist, 91, 385–398.
+Honek, A. 1993. Intraspeciﬁc variation in body size and fecundity in
+insects: a general relationship. Oikos, 66, 483–492.
+Houston, A. I. & McNamara, J. 1999. Models of Adaptive Behaviour .
+Cambridge: Cambridge University Press.
+Hutchings, M. R., Kyriazakis, I., Papachristou, T. G., Gordon,
+I. J. & Jackson, F. 2000. The herbivore’s dilemma: trade-offs
+between nutrition and parasitism in foraging decisions. Oecologia,
+124, 242–251.
+Hutchinson, G. E. 1978. An Introduction to Population Ecology . New
+Haven: Yale University Press.
+Illius, A. W., Tolkamp, B. J. & Yearsley, J. 2002. The evolution of the
+control of food intake. Proceedings of the Nutrition Society , 61,
+465–472.
+I.A.R.C. (International Agency for Research on Cancer, WHO).
+2002. Weight Control and Physical Activity Handbook, Vol. 6 .
+Lyon: IARC Press.
+Kyriazakis, I., Emmans, G. C. & Whittemore, C. T. 1991. The
+ability of pigs to control their protein intake when fed three
+different ways. Physiology and Behavior , 50, 1197–1203.
+Lima, S. L. 1998. Stress and decision making under the risk of
+predation: recent developments from behavioral, reproductive,
+and ecological perspectives. Advances in the Study of Behavior , 27,
+215–290.
+Maguire, B. 1973. Niche response structure and the analytical
+potentials of its relationship to the habitat. American Naturalist ,
+107, 213–246.
+Monod, J. 1950. La technique de culture continue; theorie et
+applications. Annales Institute Pasteur , 79, 390–410.
+Pulliam, R. H. 1975. Diet optimisation with nutrient constraints.
+American Naturalist, 109, 765–768.
+Rapport, D. J. 1970. Optimal foraging for complementary resources.
+American Naturalist, 116, 324–346.
+Raubenheimer, D. & Simpson, S. J. 1993. The geometry of com-
+pensatory feeding in the locust. Animal Behaviour, 45, 953–964.
+Raubenheimer, D. & Simpson, S. J. 1997. Integrative models of
+nutrient balancing: application to insects and vertebrates. Nutri-
+tion Research Reviews , 10, 151–179.
+Raubenheimer, D. & Simpson, S. J. 1999. Integrating nutrition:
+a geometrical approach. Entomologia Experimentalis et Applicata ,
+91, 67–82.
+Raubenheimer, D. & Simpson, S. J. 2003. Nutrient balancing in
+grasshoppers: behavioural and physiological correlates of diet
+breadth. Journal of Experimental Biology , 206, 1669–1681.
+Raubenheimer, D. & Tucker, D. 1997. Pairing of visual cues with
+the separate consumption of protein and carbohydrate. Animal
+Behaviour, 54, 1449–1459.
+Ricklefs, R. E. & Miller, G. L. 1999. Ecology. 4th edn. New York:
+W. H. Freeman.
+Schmitz, O. J., Cohon, J. L., Rothley, K. D. & Beckerman, A. P.
+1998. Reconciling variability and optimal behaviour using multiple
+criteria in optimization models. Evolutionary Ecology, 12, 73–94.
+Schoener, T. W. 1971. Theory of feeding strategies. Annual Review
+of Ecology and Systematics , 2, 369–404.
+Schwitzer, C. & Kaumanns, W. 2001. Body weights of ruffed
+lemurs (Varecia variegata) in European zoos with reference to the
+problem of obesity. Zoo Biology, 20, 261–269.
+Shariatmadari, F. & Forbes, J. M. 1993. Growth and food intake
+responses to diets of different protein contents and a choice
+between diets containing two concentrations of protein in
+broiler and layer strains of chicken. British Poultry Science , 34,
+959–970.
+Sibly, R. M. & Hone, J. 2002. Population growth rate and its
+determinants: an overview. Philosophical Transactions of the Royal
+Society of London, Series B , 357, 1153–1170.
+Sibly, R. M., Hone, J., Clutton-Brock, T. (Eds) . 2003. Wildlife
+Population Growth Rates . Cambridge: Cambridge University Press.
+Simpson, S. J. 1995. The control of meals in chewing insects. In:
+Regulatory Mechanisms in Insect Feeding (Ed. by R. F. Chapman &
+J. de Boer), pp. 137–156. New York: Chapman & Hall.
+Simpson, S. J. & Raubenheimer, D. 1993. A multi-level analysis of
+feeding behaviour: the geometry of nutritional decisions. Philo-
+sophical Transactions of the Royal Society of London, Series B , 342,
+381–402.
+Simpson, S. J. & Raubenheimer, D. 1996. Feeding behaviour,
+sensory physiology and nutrient feedbacks: a unifying model.
+Entomologia Experimentalis et Applicata , 80, 55–64.
+Simpson, S. J. & Raubenheimer, D. 2000. The hungry locust.
+Advances in the Study of Behavior , 29, 1–44.
+Simpson, S. J. & Raubenheimer, D.2001a. A framework for the study
+of macronutrient intake in ﬁsh.Aquaculture Research, 32, 421–432.
+Simpson, S. J. & Raubenheimer, D. 2001b. The geometric analysis
+of nutrient-allelochemical interactions: a case study using locusts.
+Ecology, 82, 422–439.
+Simpson, S. J. & White, P. R. 1990. Associative learning and locust
+feeding: evidence for a ‘learned hunger’ for protein. Animal
+Behaviour, 40, 506–513.
+Simpson, S. J., Simmonds, M. S. J. & Blaney, W. M. 1988. A com-
+parison of dietary selection behaviour in larval Locusta migratoria
+and Spodoptera littoralis. Physiological Entomology, 13, 225–238.
+Simpson, S. J., Raubenheimer, D., Behmer, S. T., Whitworth, A. &
+Wright, G. A. 2001. A comparison of nutritional regulation in
+solitarious- and gregarious-phase nymphs of the desert locust
+Schistocerca gregaria. Journal of Experimental Biology, 205, 121–129.
+Simpson, S. J., Batley, R. & Raubenheimer, D. 2003. Geometric
+analysis of macronutrient intake in humans: the power of protein?
+Appetite, 41, 123–140.
+Stephens, D. W. & Krebs, J. R. 1986. Foraging Theory . Princeton,
+New Jersey: Princeton University Press.
+Thompson, S. N. & Redak, R. A. 2000. Interactions of dietary
+protein and carbohydrate determine blood sugar level and
+regulate nutrient selection in the insect Manduca sexta L.
+Biochimica Biophysica Acta , 1523, 91–102.
+Tilman, D. 1982. Resource Competition and Community Structure .
+Princeton, New Jersey: Princeton University Press.
+Tilman, D. 1988. Plant Strategies and the Dynamics and Structure of
+Plant Communities . Princeton, New Jersey: Princeton University
+Press.
+Trumper, S. & Simpson, S. J. 1993. Regulation of salt intake by
+nymphs of Locusta migratoria . Journal of Insect Physiology , 39,
+857–864.
+Vincent, T. L. S., Scheel, D., Brown, J. S. & Vincent, T. L. 1996.
+Trade-offs and coexistence in consumer-resource models: it all
+depends on what and where you eat. American Naturalist , 148,
+1038–1058.
+Whelan, C. J., Brown, J. S., Schmidt, K. A., Steele, B. B. & Wilson,
+M. F. 2000. Linking consumer-resource theory and digestive
+physiology: application to diet shifts.Evolutionary Ecology Research,
+2, 911–934.
+Wilkinson, T. L., Minto, L. B. & Douglas, A. E. 2001. Amino acids as
+respiratory substrates in aphids: an analysis of Aphis fabae reared
+on plants and diets. Physiological Entomology, 26, 225–228.
+Yearsley, J., Hastings, I. M., Gordon, I. J., Kyriazakis, I. & Illius,
+A. W. 2002. A lifetime perspective on foraging and mortality.
+Journal of Theoretical Biology , 215, 385–397.
+SIMPSON ET AL.: FORAGING FOR MULTIPLE NUTRIENTS 1311

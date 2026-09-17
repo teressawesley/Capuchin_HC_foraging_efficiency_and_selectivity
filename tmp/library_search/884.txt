@@ -1,0 +1,1143 @@
+PDF PAGE 1
+American Journal of Primatology 73:1239–1249 (2011)
+RESEARCH ARTICLE
+Sex Differences in the Stone Tool-Use Behavior of a Wild Population of Burmese
+Long-Tailed Macaques ( Macaca fascicularis aurea )
+MICHAEL D. GUMERT 1/C3, LOW KUAN HOONG 1, AND SUCHINDA MALAIVIJITNOND2
+1Division of Psychology, School of Humanities and Social Sciences, Nanyang Technological University, Singapore, Singapore
+2Primate Research Unit, Department of Biology, Faculty of Science, Chulalongkorn University, Bangkok, Thailand
+We investigated sex differences in how Burmese long-tailed macaques ( Macaca fascicularis aurea) used
+stone tools to open shelled food items along the shores of two islands in Laemson National Park, Thailand.
+Over a 2-week period in December 2009, we collected scan and focal samples on macaques when they were
+visible along the shores and mangroves. We found females used stones more often while feeding and used
+smaller tools than males. Females also processed sessile oysters more than males, whereas males processed
+unattached foods more than females. It was unclear w hich sex was overall more proﬁcient at stone tool
+use, but males did perform signiﬁcantly better at opening unattached food items with large pounding
+stones. Females also struck food items more times during tool-use bouts and at a faster rate, but no
+signiﬁcant difference was found in average tool-use bout duration. Males processed foods slightly faster
+within a tool-use bout, but we were unable to detect a signiﬁcant difference in the rate of food processing
+while foraging with tools. In summary females chipped open sessile oysters with an axing technique more
+than males, while males used larger stones to pound open unattached shelled food more often than
+females. Despite using pounding more than females, males also regularly utilized the axing technique on
+sessile oysters. Our results are the ﬁrst assessment of sex differences in macaque stone tool use, providing
+a basis for comparison with tool use in other primates, and to nonfunctional forms of stone use in other
+macaques. Am. J. Primatol. 73:1239–1249, 2011.
+r 2011 Wiley Periodicals, Inc.
+Key words: stone tools; lithic technology; material culture; sex differences; long-tailed macaques;
+Thailand
+INTRODUCTION
+Human ancestors are generally characterized as
+having a division of labor between the sexes, where
+food is reciprocally shared and bonds form around
+the trade of food-related services [Isaac, 1978; Kuhn
+& Stiner, 2006; Leakey & Lewin, 1977; Wrangham,
+2009]. According to these theories, males most
+contributed to the communities’ food supply through
+hunting, and females most contributed by gathering
+small foods and cooking. The differences in labor
+pertaining to food extraction would likely have
+impacted the types of tools used by males and
+females, but ﬁnding evidence of sex-speciﬁc tool
+usage is difﬁcult to attain from archeological data
+[Kuhn & Stiner, 2006].
+Tool use in living nonhuman primates provides
+an opportunity to observe sex differences in how tools
+are used, providing a comparative perspective for
+understanding human sex differences. However, a
+notable difference in the feeding patterns of monkeys
+and apes is that feeding activity is primarily indivi-
+dualistic and lacks the communal input that humans
+exhibit (i.e. except for the communal hunting of
+chimpanzees) [Boesch, 1994; Stanford, 1999]. Despite
+this major difference, a limited record has shown
+signiﬁcant sex differences in the habitual tool use of
+chimpanzees and capuchins [Boesch & Boesch, 1984;
+Lonsdorf et al., 2004; Moura & Lee, 2010; Spagnoletti
+et al., 2011], and these biases could have formed the
+foundation on which the historical sex-based division
+of labor in human communities evolved.
+The sex differences in chimpanzee and capuchin
+stone tool use are not uniform. In chimpanzees
+(Pan troglodytes ), females in wild populations
+generally use stone hammers and termite ﬁshing
+wands more frequently and with greater skill than
+males [Boesch & Boesch, 1981, 1984; Lonsdorf, 2005;
+McGrew, 1979, 1992]. In addition, females acquire
+tool-use skills earlier in life and are more attentive to
+Published online 8 September 2011 in Wiley Online Library (wiley
+onlinelibrary.com).
+DOI 10.1002/ajp.20996
+Contract grant sponsors: The Centenary Academic Development
+Project of Chulalongkorn University; The Academic Fund of the
+School of Humanities of Social Sciences at Nanyang Technolo-
+gical University; Ministry of Education in Singapore; Contract
+grant number: RG07/95.
+/C3Correspondence to: Michael D. Gumert, Division of Psychology,
+School of Humanities and Social Sciences, Nanyang Technolo-
+gical University, Singapore 639798, Singapore.
+E-mail: gumert@ntu.edu.sg
+rr 2011 Wiley Periodicals, Inc.
+
+PDF PAGE 2
+observing tool use during their development than are
+males [Lonsdorf, 2005; Lonsdorf et al., 2004].
+In contrast, a male bias in tool use has been observed
+in wild and captive capuchins, where males exhibit
+more frequent and proﬁcient tool use than females
+(Cebus libidinosus and C. nigritus ) [Falo´tico &
+Ottoni, 2010; Fragaszy et al., 2004, 2010; Jalles-
+Filho, 1995; Jalles-Filho et al., 2001; Moura & Lee,
+2010; Ottoni & Izar, 2008; Ottoni & Mannu, 2001;
+Spagnoletti et al., 2011; Visalberghi et al., 2010].
+This variation across species indicates that well-
+conserved sex differences in tool use do not exist
+across tool-using primates, suggesting the speciﬁc
+conditions affecting a species might have a large
+inﬂuence.
+Sex differences in chimpanzee tool use are
+suggested to occur for a few reasons. McGrew
+[1992] hypothesized that female chimpanzees rely
+more on tool use than males because of energetic
+needs, suggesting the nutritional costs and beneﬁts
+that each sex must face may establish sex differences
+in tool use. This functional explanation [Tinbergen,
+1963] is based on the socioecological hypothesis that
+access to food is the main factor limiting female
+behavioral strategies [van Schaik, 1989; Wrangham,
+1980]. A proximate and developmental explanation
+[Tinbergen, 1963] suggests male chimpanzees are
+more attracted to social activity than feeding and
+therefore are more easily distracted from engaging in
+tool use [Boesch & Boesch, 1984; Lonsdorf, 2005;
+Lonsdorf et al., 2004]. Developmentally, this reduces
+a male’s opportunity to acquire tool skills because
+they more often select social activity over tool use
+during their maturation [Lonsdorf et al., 2004].
+Proximately, social interests disrupt tool bouts in
+males more frequently than females because males
+more often cease tool-use activities to follow their
+male associates [Boesch & Boesch, 1984]. These
+explanations are not mutually exclusive and account
+for the sex differences at different levels.
+Different factors affect the sex differences found
+in bearded capuchin stone tool use. The main factor
+driving differences in the stone tool-use patterns of
+bearded capuchin is regarded to be sexual dimorph-
+ism in body size. Female capuchins have only 60% of
+the body mass of males ( # 5 3.5 kg, ~ 5 2.1 kg), and
+thus larger males can more easily wield heavy stone
+tools effectively [Fragaszy et al., 2010; Spagnoletti
+et al., 2011; Visalberghi et al., 2010]. Chimpanzees
+are much larger than capuchins ( /C2430–40 kg) and
+have a lower degree of sexual dimorphism (80–85%
+the mass of a male) [Pusey et al., 2005; Smith &
+Jungers, 1997]. Consequently, capuchins are using
+stone tools that are relatively much larger compared
+with their body size, than chimpanzees, requiring
+greater effort and utilization of strength for a
+capuchin to successfully use stones. Males being
+signiﬁcantly larger than females are less constrained
+by this physical limitation, evidenced in that males
+use heavier stones when processing nuts that require
+greater force to open [Spagnoletti et al., 2011].
+In contrast, there is no apparent sex difference in
+the weight of tools used for softer nuts, owing to
+relaxed strength demands because less force is
+required [Spagnoletti et al., 2011]. Strength limita-
+tions between male and female capuchins play a large
+role in how each sex uses stones. However, strength
+may not account for all aspects of the male sex bias
+because some preliminary studies indicate male
+biases also exist in probing and digging, two tasks
+which do not necessarily require greater strength and
+large tools [Falo´tico & Ottoni, 2010; Moura & Lee,
+2010].
+Macaques have not been considered as tool users,
+but a recently discovered population of the Burmese
+subspecies of long-tailed macaques (Macaca fascicularis
+aurea) is changing this view [Malaivijitnond et al.,
+2007]. These macaques use stone tools to crack open
+nuts and a wide variety of shelled marine organisms
+in intertidal zones on islands and coastal regions of
+peninsular Thailand and Myanmar [Carpenter,
+1887; Gumert et al., 2009; Gumert et al., in review;
+Malaivijitnond et al., 2007]. These macaques custo-
+marily [McGrew & Marchant, 1997] use stone tools,
+and on one island where studies have recently been
+conducted, tool use occurs daily along the shores, and
+over 80% of adult and adoloscent macaques use stone
+tools to process food [Gumert et al., in review].
+Although tool use in macaques has not been
+studied very intensively yet, a nonfunctional form of
+stone handling has been studied in Japanese maca-
+ques (Macaca fuscata), since it was ﬁrst discovered in
+1979 [Huffman, 1984]. The behavior is primarily a
+play behavior, but several patterns of stone use have
+been observed that are similar to functional tool use
+(e.g. stone pounding, clapping, and ﬂinting) and can
+occur within a feeding context [Huffman et al., 2010;
+Leca et al., 2007a; Nahallage & Huffman, 2007a,b].
+Owing to the similarity to tool use, the capacity to
+perform nonfunctional stone handling has been
+suggested to be an important basis for the evolution
+of stone tool use in macaques, although no studied
+models of macaque tool use were available at the
+time these assertions were presented [Huffman &
+Quiatt, 1986]. Research on individual variation in
+stone handling across Japan has not shown any
+stable sex differences across ten groups in stone use
+patterns [Leca et al., 2007a]. However, in a different
+study on a single group, adult females handled stones
+less frequently and performed fewer types of pat-
+terns [Nahallage & Huffman, 2007a]. Developmental
+changes do occur in stone use [Leca et al., 2007b],
+and learning the behavioral acts appears to be
+socially mediated [Huffman, 1984, 1996; Huffman
+et al., 2008; Nahallage & Huffman, 2007b].
+No reports of sex differences in macaque tool use
+have been published. The only reported study
+showed variation in the tool-use styles and grips
+Am. J. Primatol.
+1240 / Gumert et al.
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+used across food types. Macaques use an axing
+technique to chip open sessile oysters that are
+attached to a substrate (e.g. rock or tree buttress),
+and a pounding technique to smash open unattached
+food items brought to an anvil [Gumert et al., 2009
+for video examples]. The axing technique tends to be
+mainly employed with precisions grips, whereas
+pound hammering is nearly always controlled by a
+power grip [Gumert et al., 2009]. In addition, axe
+hammering is performed across a wider range of
+motion, whereas pound hammering is directed
+horizontally below the body toward an anvil the
+macaque is sitting or standing on [Gumert et al.,
+2009]. More recent studies are ﬁnding less distinct
+variations within the axing and pounding styles, and
+these appear based on individual differences and
+toughness of shells [Gumert, unpublished data].
+This population of macaques provides an
+opportunity to expand comparative studies on sex
+differences in the tool-use abilities of wild primates.
+Tool-use skills in capuchins and chimpanzees are
+considered analogous behavioral traits that formed
+through convergent evolutionary processes [van
+Schaik et al., 1999]. Macaques would provide a third
+taxonomic comparison and we can predict that as
+catarrhine primates, macaques and chimpanzees
+should possess a set of more homologous traits
+that are important in determining their tool-using
+behavior. These traits might include greater simila-
+rities in their nervous system, hand anatomy, and
+behavioral dispositions. We therefore can predict that
+some aspects of sex differences affecting tool-use are
+phylogenetically linked and thus may be more similar
+between macaques and chimpanzees than capuchins.
+Phylogenetic distance will not be the only factor
+though, as we expect behavioral traditions to be highly
+affected by local conditions, including physical and
+ecological constraints [van Schaik et al., 1999]. We
+expect body size will play an important role in
+determining sex differences. Similar to capuchins,
+female Burmese long-tailed macaques are around 60%
+of the mass of a male ( # 5 7.33 kg, ~ 5 4.54 kg)
+[Hamada, unpublished data], and thus we predict
+males to use heavier stone tools more frequently and
+effectively. Moreover, other factors, such as differences
+between the sexes in foraging strategies, character-
+istics of the tools available, types of food processed, and
+predation risks, may also be important determinants
+for sex-differences in how tools are used.
+In this article, we present results from a short
+2-week study on sex differences in tool use among
+long-tailed macaques living on Piak Nam Yai and
+Thao Islands in Laemson National Park, Thailand.
+We observed tool-use behavior on the shores of the
+islands and used behavioral sampling methods to
+collect data on their tool-use activities. We used our
+data to test for differences between males and
+females in the frequency and characteristics of their
+tool-use, and also explored age differences to identify
+developmental changes in sex differences. We tested
+for differences by examining the frequency in which
+tools were used during feeding, the type of foods
+used, and the size of stones selected. We further
+compared differences in proﬁciency by assessing tool
+bout characteristics (i.e. number of strikes, bout
+duration, and strike rate) and efﬁciency in tool use
+(i.e. rate of cracking and success). We present our
+ﬁndings in the context of the sex differences
+observed in other primate tool users.
+METHODS
+Study Site and Subjects
+Research was carried out on the long-tailed
+macaques living in Laemson National Park in
+Ranong Province, Thailand. We conducted our study
+by observing macaques on Piak Nam Yai (N 9 135
+0,
+E981280) and Thao Islands (N9 1340, E98 1290). Piak
+Nam Yai is a small 1.7-km 2 island approximately
+750 m off of the coast of west Thailand. Thao Island
+is a 1.5-km 2 island that is approximately 1,300 m
+from the coast, and is separated from Piak Nam Yai
+by only a small channel (50–100 m). Several habitats
+exist on the islands, including rocky shores, man-
+groves, sandy beaches, mudﬂats, freshwater stream-
+beds, and mountainous tropical forest. Piak Nam Yai
+is more mountainous and rocky, whereas Thao
+Island is primarily mangrove with some rock out-
+croppings and a sandy beach. Piak Nam Yai contains
+nine groups of long-tailed macaques, which vary in
+size between 12 and 40 individuals [Gumert et al., in
+review], whereas Thao Island contains at least one
+group of 20–30 animals.
+Observations occurred between December 8 and
+22, 2009. We used a boat to circle the island
+repeatedly between the hours of 7 a.m.–10 a.m. and
+4 p.m.–6 p.m., and stopped to observe macaques
+whenever they were visible on the shore and using
+stone tools. Observations were conducted between
+10 and 60 m from coastline. We kept sufﬁcient
+distance in order to not disturb their behavior
+because these macaques were not habituated to close
+human presence and ran away if the boat approached
+too closely. The macaques were most easily obser-
+vable when engaging in tool use on the shores and
+mangroves. As a result, our data are not representa-
+tive of the overall living activities of these macaques.
+Despite this, our data should be a useful test of tool
+activity. This is because most tool use occurs on the
+shores based on evidence that tool-use debris was
+much more commonly observed on the coastlines,
+than in surveys into the mainland. Furthermore,
+all tool use on marine organisms must occur on or
+near the shores. Our data therefore provide a
+sufﬁcient preliminary test of sex differences in
+macaque tool use.
+Am. J. Primatol.
+Macaque Sex Differences in Tool Use / 1241
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+Behavioral Sampling
+We used two sampling methods to collect
+behavioral data—scan sampling and focal sampling
+[Altmann, 1974; Martin & Bateson, 2007]. Scan
+sampling was used to determine the general activity
+budgets and time spent engaged in tools use, whereas
+focal sampling was used to acquire more speciﬁc data
+on the characteristics of tool-use bouts. When
+observing macaques, scan samples were performed
+once every 10–15 min, while 5-min focal samples
+were conducted continuously when subjects were
+available. Scoring was performed by recording
+observations into a digital audio recorder and later
+transcribing the data into score sheets.
+During scan samples, we scored feeding activity,
+tool use, social behavior, resting, traveling, and
+distance to nearest partner. When tool use was
+observed in a scan, we recorded hand use, tool size,
+and food type. In focal samples, we recorded all tool-
+use activity and scored the size of tool, type of food,
+bout duration, number of strikes, and success of
+bout. A bout was deﬁned as the time from which an
+individual began using a tool (i.e. starts striking)
+until the point in time where the individual either
+consumed (i.e. successful) or discarded/left the food
+item (i.e. unsuccessful).
+Tool size was visually estimated using binocu-
+lars by comparing the size of the tool to the hand size
+of the macaque using the tool. Tool size was
+therefore a relative measure of the stone compared
+with the size of the hand of the macaque being
+observed, and not an absolute measure of the actual
+weight or size of the stone. A small tool was hand size
+or smaller (i.e. approx 30–150 g), a medium tool was
+1–2 times the size of the hand (i.e. approx 150–400 g),
+and a large tool was greater than twice the size of
+single hand (i.e. approx 4400 g with max size up to
+5 kg).
+Foods were categorized into three basic cate-
+gories: attached oysters, loose oysters, and other
+shelled foods. Attached foods were sessile rock
+oysters ( Saccostrea cucullata ) that were cemented
+to an immovable substrate (e.g. rock or tree
+buttress). Loose oysters included rock oysters, or
+clusters of rock oysters that were already broken
+away from rocks, as well as oysters attached to small
+rocks that the macaques could carry and move. All
+other shelled foods were nonsessile or moveable food
+items that included snails (e.g. Thais spp., Nerita
+spp., and other gastropods), crabs ( Thalamita spp.,
+Grapsus spp., Scylla spp., etc.), bivalves (e.g. Gafrar-
+ium spp., Viridis spp., Asaphis spp. etc.), and nuts
+(e.g. Terminalia catappa and other types .). In
+addition to the listed species, some observations
+contained unidentiﬁed foods, as we could not always
+identify prey species during our observation. When
+this occurred, the item was scored as either attached
+or unattached.
+In this study, we did not have time to individu-
+ally identify the macaques, and thus each sampled
+animal was categorized only by sex and age (i.e. adult
+and immature). The immature class included juve-
+niles and adolescents, and infants (0–1 year) were not
+studied. Lacking individual recognition, we used the
+following methods to ensure that a macaque was
+not scored twice during a single scan or focal
+sample cycle, limiting the possibility of over-repre-
+senting certain individuals in the data set. For scan
+samples, we started with the animal in the farthest
+left of our ﬁeld of vision, and moved from this
+position to the right scanning each individual until
+we had scored the individual in the farthest right of
+our ﬁeld of vision. Similarly, focal samples were
+collected using the same basic method, starting with
+the animal at the farthest left, and then moving from
+left to right until all animals were sampled. Since
+animals were more likely to move and change
+position during the longer duration of our 5-min
+focal samples, we kept track of the spatial locations
+of each animal on the shore, ensuring that an animal
+was not double-sampled in a single cycle. When only
+a few animals were present, only one 5-min focal
+sample cycle was performed in a 30-min period per
+individual.
+Data Analysis
+We pooled all feeding scan samples ( N 5 392)
+and tool-use bouts in focal samples ( N 5 352) for
+analysis. Data pooling can violate statistical assump-
+tions, but for this study, we were unable to
+individually identify animals and thus were limited
+in this respect. In data sets where intrasubject
+variation exceeds between-subject variation, or
+sample sizes are equal, data pooling does not bias
+results [Leger & Didrichsons, 1994]. We thus
+assumed these parameters to be true of our data
+set, but present our data with the knowledge that
+there are limitations and a greater risk of Type 1
+error. We moreover, used the sampling methods
+described above to minimize the effects of over-
+representing any single individual in the data set.
+Data were placed into spreadsheets and input
+into PSAW 18.0 (SPSS, 2009). Scan sampling data
+were used to assess differences in the frequency of tool
+use during feeding, preferences for the types of foods
+processed with tools and tool-size preferences. We
+pooled all tool-use bouts from focal samples and used
+this data set to compare differences in the number of
+strikes per bout, duration of bouts, strike rate, and
+success. Focal data were also used to assess rates of
+food processing while foraging with tools. Compari-
+sons were performed using ANOVA, MANOVA,
+ANCOVA, and t-test statistical tests. Our ANCOVA
+designs tested the dependent variables of strike rate,
+bout duration, and number of strikes per bout, while
+sex, age, and food type were input as factor. We
+Am. J. Primatol.
+1242 / Gumert et al.
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+controlled for tool size as a covariate. Alpha was set at
+Po0.05, and Bonferonni corrections (i.e. P 5 0.05/]
+of comparisons in family) were used when multiple
+t-tests were used on the same data set.
+Permissions and Ethical Considerations
+The National Park, Wildlife, and Plant Con-
+servation Department of Thailand, the National
+Research Council of Thailand, and the Laemson
+National Park Ofﬁce permitted our research on
+macaque tool use in Thailand. Our methods were
+evaluated and approved by the IUCAC of Nanyang
+Technological University in Singapore. The data we
+collected for this study were purely observational,
+and we adhered to the American Society of Prima-
+tologists principles for the ethical treatment of
+primates during our work.
+RESULTS
+Differences in Tool-Use During Feeding
+A2 /C22 ANOVA was used to assess sex and age
+differences in the proportion of feeding scan samples
+where tools were used. Our results showed that in 392
+feeding scans, females more frequently used tools than
+males did ( # 5 0.53; ~ 5 0.72) ( F 5 6.787; df 5 388.3;
+P 5 0.010), and that adults used tools more frequently
+than immature individuals (adult 5 0.65, imma-
+ture 5 0.53) (F 5 4.477; df 5 388.3; P 5 0.035). We also
+compared 284 samples with only adult males and
+females, and found a signiﬁcant difference between
+them ( # 5 0.55; ~ 5 0.76) (independent t-test:
+t 5 /C03.819; df 5 282; Po0.001). In this data set,
+females used tools more often than males; and adults
+more than immatures.
+Differences in Food Preferences
+Using a MANOVA design, we used all tool-use
+scans samples where food was identiﬁed ( N 5 188) to
+compare the frequency of processing three food types
+(i.e. attached oysters, loose oysters, and all other
+loose food items), testing for sex and age differences.
+We found signiﬁcant sex differences in our data for
+food preferences in adults (Wilk’s Lambda:
+F 5 21.968; df 5 185.2; Po0.001; Fig. 1). Adult
+females extracted attached oysters in signiﬁcantly
+more tool-using scan samples than did adult males
+(# 5 0.40; ~ 5 0.81) (
+F 5 42.066; df 5 186.1;
+Po0.001). In contrast, adult males extracted sig-
+niﬁcantly more loose oysters ( # 5 0.28; ~ 5 0.06)
+and other unattached shelled foods ( # 5 0.32;
+~ 5 0.13) in tool-using scan samples than did adult
+females (loose oysters: F 5 20.118; df 5 186.1;
+Po0.001; other unattached shelled foods:
+F 5 10.396; df 5 186.1; P 5 0.001). We did not ﬁnd
+signiﬁcant differences in food preferences when
+comparing across age classes.
+Differences in Tool Size
+Figure 2 shows sex difference found in tool size.
+We found that males used large (i.e. 42 times hand
+size) tools signiﬁcantly more often than females
+(# 5 0.44; ~ 5 0.02) ( t 5 8.413; df 5 186; Po0.001),
+while females used small tools (i.e. rhand size)
+signiﬁcantly more often than did males ( # 5 0.31;
+~ 5 0.72) ( t 5 /C06.104; df 5 186; Po0.001). We did
+not ﬁnd a signiﬁcant difference for medium tools (i.e.
+between 1 and 2 times hand size) ( # 5 0.25;
+~ 5 0.24) ( t 5 0.062; df 5 186; P 5 0.951). Within
+sex, the sizes of tools males and females selected
+also signiﬁcantly differed ( #: F 5
+3.792; df 5 240.2;
+P 5 0.024; ~: F 5 100.844; df 5 240.2; Po0.001).
+Females used small tools signiﬁcantly more than
+any other tool size, whereas males used larger tools
+signiﬁcantly more than medium tools, but no other
+signiﬁcant differences were found (Tukey post hoc:
+Po0.05).
+Using a size index measure as a dependent
+variable that treated the tool size category as a
+ratio variable between 1 and 3 (i.e. smallest to
+largest), we used a 2 /C22 ANOVA to assess sex and
+age differences. This analysis also showed a sex
+difference for males selecting larger tools
+(F 5 22.838; df 5 241.3; Po0.001), but no signiﬁcant
+age difference was detected ( F 5 1.952; df 5 241.3;
+P 5 0.064). We did ﬁnd a signiﬁcant interaction
+between age and sex ( F 5 2.288; df 5 241.3;
+P 5 0.045). The interaction showed that adult and
+immature females selected tools of nearly the same
+size, but that adult males selected larger tools than
+immature males (Fig. 3).
+Fig. 1. Sex differences in food preferences across three food
+types.
+Am. J. Primatol.
+Macaque Sex Differences in Tool Use / 1243
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+Differences in Tool Bout Characteristics
+After pooling 352 tool-use bouts extracted from
+our focal sample set, we tested for differences in tool-
+bout characteristics (i.e. number of strikes per bout,
+bout duration, and strike rate). In an ANCOVA
+design, we entered sex, age, and food type as ﬁxed
+factors and tool size as a covariate. We found that tool
+size was correlated with strikes per bout, and that sex
+and food type signiﬁcantly affected the number of
+strikes per bout. Females struck their food items
+more times per bout than males ( F 5 25.031;
+df 5 341.8; Po0.001; Fig. 4), but we could not ﬁnd a
+difference between adults and immature individuals
+(F 5 2.086; df 5 341.8; P 5 0.694). More strikes were
+used on attached foods per bout than unattached
+foods ( F 5 16.552; df 5 341.8; Po0.001; Fig. 4).
+Lastly, tool size was found to signiﬁcantly relate to
+number of strikes, with more strikes occurring for
+smaller tools (F 5 6.406; df 5 341.8; P 5 0.012; Fig. 5).
+Using the same factorial design to test for
+differences in bout duration, we found no signiﬁcant
+differences for any factors . Most tool-use bouts were
+t y p i c a l l yv e r ys h o r t( M e a n5 3.95 s; SD 5 5.44). Since
+w ec o u l dn o tﬁ n das e xd i f f e r e n c ei nb o u td u r a t i o n ,w e
+consequently found differences in strike rate in a third
+factorial ANCOVA. Females struck at a faster rate than
+males (F 5 6.699; df5 343.8;Po0.010), and unattached
+foods were struck at a slower rate than attached food
+(F 5 22.182; df5 343.8; P 5 0.001; Fig. 6). We found an
+interaction between age and food type for strike rate
+(F 5 6.121; df 5 343.8; P 5 0.014), showing that imma-
+ture individuals struck faster at attached foods than
+adults, but that immature macaques struck at a slower
+rate on unattached food than adults.
+Differences in Feeding Efﬁciency With Tools
+We tested for the efﬁciency of cracking, asses-
+sing the degree of success and the speed macaques
+Fig. 2. Sex difference in preference for three categories of tools
+size. Small 5 smaller or equal to the size of the hand,
+Medium 5 greater than 1 time the size of the hand, but less
+than 2 times as large, Large 5 greater than 2 times the size of the
+hand.
+Fig. 3. An interaction was found between sex and age on tool size
+preference. Males were found to vary across age but females
+were not.
+Fig. 4. Difference in number of strikes per bout between sexes
+and food categories.
+Am. J. Primatol.
+1244 / Gumert et al.
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+opened and acquired foods while using tools. In bouts
+where we could observe feeding success (i.e. consume
+the food or not), there was very little variation and
+no signiﬁcant sex difference could be found
+(# 5 0.97, ~ 5 0.93) ( t 5 1.110, df 5 273, P 5 0.268).
+The small margin of unsuccessful bouts observed
+was entirely the result of some unsuccessful
+attempts at cracking unattached foods, as 100% of
+all attached oysters bouts observed resulted in
+successful feeding. Although both sexes were highly
+successful at cracking unattached foods, we found
+that males were signiﬁcantly more successful when
+compared with females ( # 5 0.94, ~ 5 0.80)
+(t 5 2.499, df 5 126, P 5 0.014).
+We further examined differences between males
+and females in the number of items cracked per
+second during the time they were engaged in tool
+use, and the number of items cracked per minute
+during time periods in focal samples where they were
+feeding and foraging with a tool. We found that while
+engaged in tool use, males cracked more items per
+second than females did ( # 5 0.45 items/sec;
+~ 5 0.32 items/sec) ( t 5 2.238; df 5 64; P 5 0.029).
+However, we found no evidence that males obtained
+more cracked items during their feeding activity
+than females, as we detected no signiﬁcant difference
+in the number of items cracked per minute during
+focal samples ( # 5 1.46 items/min; ~ 5 1.42 items/
+min) ( t 5 0.161; df 5 64; P 5 0.873). Males and
+females appeared to collect and consume similar
+amounts of tool-processed foods when foraging with
+tools, although males processed food slightly more
+quickly during the actual tool-using process.
+DISCUSSION
+Our study provides the ﬁrst assessment of
+possible sex differences in the tool-use patterns of
+long-tailed macaques living along the Andaman Sea.
+In a 2-week period in December 2009, during the dry
+season in Thailand, we found that when macaques
+feed on the shores and mangroves, females used tools
+more often than males. Furthermore, we found
+evidence that males and females showed varying
+preferences for the food sources extracted with tools.
+Females extracted sessile oysters more fre-
+quently than males, whereas males extracted
+unattached items more than females. Sex differences
+were also found for the size of the tool selected, with
+females preferring small hand-sized tools and males
+using larger tools more frequently than females. Less
+clear sex differences emerged when examining the
+characteristics of tool-use bouts. Males were more
+successful than females at pounding open unat-
+tached food items, and females were found to strike
+more often and at a faster rate during tool-use than
+males. Male tool bouts were shorter than females,
+but their overall food intake while using a tool was
+not found to differ from females. Neither sex showed
+any large differences in their proﬁciency and
+efﬁciency at processing foods with stone tools, except
+that males may have been more proﬁcient at
+pounding open loose food items.
+We also found few differences across age class.
+We found that adults used tools more frequently
+than immature individuals, but could not ﬁnd
+differences in food choice. The only relationship we
+Fig. 5. The change in strike rate for males and females across
+tool size.
+Fig. 6. Differences in strike rate between sexes and food
+categories.
+Am. J. Primatol.
+Macaque Sex Differences in Tool Use / 1245
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+found with tool size was an interaction, which
+showed that adult males used larger tools more
+often than younger males, but no change in size
+preference was observed across age for females. This
+is indicative that the male preference for larger tool
+size relates to the sexual dimorphism found in adult
+animals, because the difference is not found in young
+males and females, which are of more similar size.
+We also found a signiﬁcant interaction effect
+with age, showing that immature animals struck
+faster on sessile foods than adults, but struck slower
+than adults on unattached foods. This suggests that
+very fast striking on sessile foods, and very slow
+striking on loose items may indicate underdevelop-
+ment of the axing and pounding skills, respectively.
+Adult animals should be able to more efﬁciently
+handle larger pounding stones than immature
+macaques because of their body size, taking less
+time between each strike. In contrast, axing may
+begin as a fast, uncontrolled striking, due to lack of
+skill and ability to ﬁrmly grasp the tool. In adults,
+axing is slowed down, possibly due to better grip and
+control.
+Our study was limited in scope for several
+reasons. First, our data covered only a 2-week period,
+and so was unable to observe changes in sex
+differences throughout the year. Perhaps there is
+seasonal variation in the tool behavior of either sex,
+as weather conditions, water depth, fruit masts, and
+availability of food sources (e.g. sea almond masts,
+changes in oyster abundance, etc) change throughout
+the year. Moreover, we did not assess changes in the
+tool-using behavior of females across their reproduc-
+tive cycles. We also remain unable to track macaques
+on the island, due to the mountainous terrain and
+cliff faces they inhabit, and thus have no data on
+their inland tool use. Finally, our study lacks
+identiﬁed subjects, which was a result of not having
+enough time to complete the task in a 2-week period.
+During a study recently conducted on other
+aspects of tool use in this population between
+January and June 2011, we observed females con-
+sistently using tools when bearing young, and when
+being heavily courted by males. Moreover, oysters
+have remained proliﬁcally fed on between the
+months of December and May. Furthermore, the
+researcher of that study (M.D.G.) identiﬁed animals
+and can now individually recognize 148 individuals
+out of approximately 200 macaques living on Piak
+Nam Yai Island [Gumert et al., in review]. Further
+analysis will be completed later in 2011.
+Comparison With Macaque Stone Handling
+The closest behavior to stone tool-use in any
+other macaque species is the nonfunctional stone
+handling of Japanese macaques [Huffman & Quiatt,
+1986; Huffman et al., 2010]. Our results on stone tool
+use differed from the sex and age differences found
+in stone handling studies in two ways.
+First, in a study of ten groups of Japanese
+macaques, no clear adult sex differences were found,
+and only one of the groups showed a bias, with
+adolescent (4–6 years) and young adult (7–10 years)
+males engaging in more frequent stone handling
+than females of the same age classes [Leca et al.,
+2007a,b]. Another study on the same group showed
+adult females performed fewer acts of stone handling
+and fewer patterns than other age-sex classes
+[Nahallage & Huffman, 2007a]. In our study, both
+males and females used tools frequently (i.e. in over
+1/2 of feeding scans), but females used tools
+signiﬁcantly more often than males.
+Second, studies have also found that stone
+handling is more pervasive in young Japanese
+macaques, but it becomes more complex with age
+[Leca et al., 2007a,b; Nahallage & Huffman,
+2007a,b]. Unlike stone handling, stone tool use is,
+predictably, more common in adult long-tailed
+macaques. Tool use is a more complex behavioral
+pattern though, consistent with the increasing
+complexity found in stone handling patterns. The
+major reason stone handling occurs more frequently
+in younger Japanese macaques is that it is largely a
+form of play [Huffman, 1984].
+We have not systematically studied nonfunc-
+tional stone handling in our project, but we have
+made ad libitum notes when noticed. We have
+observed in our study population of tool-using
+macaques several of the types of stone handling
+patterns described by Leca et al. [2007a,b] and
+Nahallage and Huffman [2007a,b]. However, non-
+functional stone handling does not seem to be as
+pervasive or common as reported in Japanese
+macaques. Stone handling has only been seen to
+occur in young animals, approximately aged
+6 months to 5 or 6 years of age, with proﬁcient stone
+tool use emerging as early as 1 year of age. Further
+work will be needed to investigate the role of stone
+handling in the development of tool-using skills.
+Comparative studies between naturally emerging
+functional and nonfunctional stone use in macaques
+may be highly relevant to understanding the evolu-
+tion and development of stone tool use.
+Comparison With Chimpanzees and Capuchins
+Our results on sex differences do not fully
+overlap with previous ﬁndings on sex-differences in
+the tool-use of chimpanzee or capuchins; however,
+we did ﬁnd some similarities. We observed a female
+bias in frequency of tool use, as in chimpanzees
+[Boesch & Boesch, 1984; Lonsdorf et al., 2004], and
+we found a male bias for using larger tools, as in
+capuchin stone tool use [Fragaszy et al., 2010].
+Female chimpanzees are further reported to be more
+efﬁcient in their tool-using abilities, but we could not
+Am. J. Primatol.
+1246 / Gumert et al.
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+ﬁnd any clear sex differences in efﬁciency in our
+study of macaques. Males processed food more
+quickly during individual tool bouts, but overall
+males were not found to crack more items per
+minute than females during their time spent fora-
+ging with tools.
+As with capuchins, more frequent use of large
+pounding tools by macaque males is likely the result
+of the constraints smaller-bodied primates face due
+to a larger tool-to-body size ratio and/or tool-to-hand
+size ratio. Since male macaques are about 150% the
+size of females, they may have signiﬁcant advantages
+for being able to carry, control and skillfully use
+larger tools. When the tool size constraint was
+removed and we assessed only hand-sized tools, the
+male bias was no longer observable, and we rather
+found that females used small tools more frequently.
+Similarly, in bearded capuchins, when the need
+for a large tool is removed to crack low resistance
+nuts, males and females use similarly sized tools
+[Spagnoletti et al., 2011]. Size may not be the only
+factor in a male bias in capuchin tool use though
+because some preliminary studies show male
+capuchins also more frequently use smaller tools
+for probing and digging [Falo ´tico & Ottoni, 2010;
+Moura & Lee, 2010]. If conﬁrmed in further study,
+this would be inconsistent with the body size
+hypothesis as a complete explanation for a male bias.
+Although phylogenetic similarity may offer a
+possible explanation for the similarity between
+macaques and chimpanzees in frequency of female
+tool use, with a sample of only three species this
+remains inconclusive and speculative. In chimpan-
+zees, the female bias in tool use is associated with sex
+differences in the dependence on different food
+sources [McGrew, 1992], as well as males being more
+distracted than females from tool use by social
+activities [Boesch & Boesch, 1984; Lonsdorf, 2005;
+Lonsdorf et al., 2004]. Differences in attraction to
+social activity over foraging might also be playing a
+role in the macaque female bias we found in tool use;
+however, in long-tailed macaques, females are
+typically more gregarious and spend more time in
+social activity than males [Gumert, 2010].
+We found that females relied more heavily on
+attached oysters than males, suggesting a sex
+difference in foraging strategy. Females, being more
+constrained by reproductive costs [Trivers, 1972],
+might focus on a more sessile, easily captured food
+than males. Oyster foraging requires carrying a
+small tool and moving from oyster to oyster.
+In contrast, pounding requires the collection of loose
+foods and transporting them to large tools with
+anvils by carrying the food in the hands or food
+pouches. This method allows a large amount of food
+to be cracked in a single tool-use episode, but
+may also require greater effort and risk during
+the collection phase. Collection of loose shells in
+the intertidal zones requires greater exploratory
+behavior that involves ﬂipping over heavy rocks,
+reaching deeply in the mud, and foraging in the
+shallow waters, potentially exposing the individual to
+greater risks.
+Differential vulnerability to predation can also
+play a role in establishing sex differences in tool
+activity. For example, in capuchins, it is reported
+that females engage in food pounding less often than
+males [Boinski et al., 2000]. Food pounding is not
+tool use, but is a similar behavior that is also highly
+conspicuous and noisy because it involves banging a
+hard-cased nut on a rock anvil or tree buttress. It is
+suggested that females refrain from this activity to
+avoid predation, thus remaining more cryptic. This
+same limitation could also be one constraint on
+female capuchin tool use, however a very small
+sample size showed that tool-using capuchins show
+no sex differences in vigilance while feeding with
+tools [Spagnoletti et al., 2011].
+In the macaques we studied, natural predation
+risks along the shores appeared minimal, and thus
+would unlikely have historically put any signiﬁcant
+constraints on macaque tool use. We occasionally
+heard snake alarms, and observed very large reticu-
+lated pythons ( Python reticulatus ) and venomous
+mangrove vipers ( Trimeresurus purpureomaculatus )
+along the shores and mangroves that could kill
+macaques. Macaques rarely alarmed at raptors, and
+the majority of raptors were sea eagles ( Haliaeetus
+leucogaster), which prey on ﬁsh. Since 2008 though,
+humans farm developers on Piak Nam Yai have
+introduced hunting dogs ( Canis familiaris ), which
+are affecting the shore usage and group composition
+of the groups having the greatest overlap with the
+disturbance [Gumert et al., in review]. If continued,
+the anthropogenic disturbance could impact each sex
+differently and potentially have detrimental impacts
+on their ‘‘fragile’’ traditions [van Schaik, 2002].
+Macaque Tool Use and Human Sex Differences
+The chimpanzee model of tool use has been used
+to help inform the evolution of tool use in humans,
+and it suggests that primate tool use began as a form
+of solitary processing of encased foods that was
+probably female biased [Boesch & Boesch, 2000;
+McGrew, 1981, 1992; Teleki, 1974]. It has been
+argued that female gathering techniques have played
+a key role in the evolution of human traits such as
+tool use [Zilman, 1981], and the female bias found in
+chimpanzee stone pounding and termite ﬁshing is
+considered evidence that the earliest forms of
+primate tool use were related to female gathering
+techniques [McGrew, 1981, 1992]. Our preliminary
+results in macaques are consistent with the hypoth-
+esis that primate tool use ﬁrst emerged through the
+individualistic extraction of plant foods and small
+invertebrates, and that females utilized it more
+frequently. If future work conﬁrms the female bias
+Am. J. Primatol.
+Macaque Sex Differences in Tool Use / 1247
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 10
+in macaques as a consistent sex-difference, it would
+indicate that the basis for a sex division of labor
+based on specialized gathering techniques in females
+may go deeper than our shared ancestry with apes
+and rather back to a common ancestor that was a
+generalist cercopithecine. Similar to our ﬁndings in
+macaques, women from modern human coastal
+communities living in traditional styles are more
+invested in shellﬁsh gathering than males and use
+small hand tools during collection [Bird & Bliege-
+Bird, 2002; Crook, 1992].
+Macaque females use tools more than males,
+while males tend to use larger tools than females.
+The sex differences we observed in macaque stone
+tool use share some common patterns with chim-
+panzees, capuchins, and even humans. There are
+also marked differences in how long-tailed macaques
+and other species use tools, suggesting that tool
+traditions may be affected by a variety of conditions
+including phylogeny, body size, environmental fac-
+tors, social constraints, tool characteristics, and
+foraging strategies. Future studies should investi-
+gate sex differences in tool-use, within and between
+species, under varying ecological and social condi-
+tions, and using standardized measures. Such re-
+search may allow us to reach better conclusions on
+how and why male and female tool-use traditions
+vary in response to their local conditions, and may
+provide a comparative basis for understanding the
+cultural and biological components affecting human
+sex divisions of labor in modern humans and our
+hominin ancestors.
+ACKNOWLEDGMENTS
+We greatly appreciate to have been permitted by
+the National Park, Wildlife, and Plant Conservation
+Department of Thailand and the Ofﬁce of the
+National Research Council of Thailand to conduct
+research at Laemson National Park. Our research
+was performed with proper ethical considerations, as
+our observational methods were reviewed and
+approved by the NTU-Institutional Animal Care &
+Use Committee (IACUC) (ref ]: ARF SBS/NIE-A
+0058). We thank the personnel at Laemson National
+Park for assisting our work, and special thanks to
+Haromai Raksa for his boat services during the
+project.
+REFERENCES
+Altmann J. 1974. Observational study of behavior: Sampling
+methods. Behaviour 49:227–265.
+Bird DW, Bliege Bird R. 2002. Children on the reef: Slow
+learning or strategic foraging. Human Nature 13:269–297.
+Boesch C. 1994. Cooperative hunting in wild chimpanzees.
+Animal Behavior 48:653–667.
+Boesch C, Boesch H. 1981. Sex differences in the use of natural
+hammers by wild chimpanzees: a preliminary report.
+Journal of Human Evolution 10:585–593.
+Boesch C, Boesch H. 1984. Possible causes of sex differences in
+the use of natural hammers by wild chimpanzees. Journal of
+Human Evolution 13:415–440.
+Boesch C, Boesch-Ancherman H. 2000. The chimpanzees of
+the Taı¨ forest: behavioral ecology and evolution. New York,
+NY: Oxford University Press.
+Boinski S, Quatrone RP, Swartz H. 2000. Substrate and tool
+use by brown capuchins in suriname: ecological contexts
+and cognitive bases. American Anthropologists 102:
+741–761.
+Carpenter a. 1887. Monkeys opening oysters. Nature 36:53.
+Crook Jr MR. 1992. Oyster sources and their prehistoric use
+on the Georgia coast. Journal of Archaeological Science
+19:483–496.
+Falo´tico T, Ottoni E. 2010. Stick tool use by capuchin monkeys
+in Serra Da Capivara, Brazil. Primate Research 26:426.
+Fragaszy D, Izar P, Visalberghi E, Ottoni EB, de Oliviera MG.
+2004. Wild capuchin monkeys ( Cebus libidinosus) use anvils
+and stone pounding tools. American Journal of Primatology
+64:359–366.
+Fragaszy D, Liu Q, English K, Simpson K. 2010. Energy
+expenditure and gain from nut-cracking in wild capuchin
+monkeys ( Cebus libidinosus ) in Piaui, Brazil. Primate
+Research 26:397.
+Gumert MD. 2010. Dominance and reciprocity in the grooming
+relationships of female long-tailed macaques ( Macaca
+fascicularis) in Indonesia. In: Gursky-Doyen S,
+Supriatna J, editors. Indonesian primates. New York, NY:
+Springer. p 309–242.
+Gumert MD, Kluck M, Malaivijitnond S. 2009. The physical
+characteristics and usage patterns of stone axe and pound-
+ing hammers used by long-tailed macaques in the Andaman
+Sea region of Thailand. American Journal of Primatology
+71:594–608.
+Huffman MA. 1984. Stone play of Macaca fuscata in
+Arashiyama B troop: transmission of a non-adpative
+behavior. Journal of Human Evolution 13:725–735.
+Huffman MA. 1996. Acquisition of innovative cultural beha-
+viors in nonhuman primates: a case study of stone handling,
+a socially transmitted behavior in Japanese macaques. In:
+Heyes CM, Galef Jr BG, editors. Social learning in animals:
+The roots of culture. San Diego, CA: Academic Press, Inc.
+p 267–289.
+Huffman MA, Quiatt D. 1986. Stone handling by Japanese
+macaques ( Macaca fuscata ): Implications for tool use of
+stones. Primates 27:413–423.
+Huffman MA, Nahallage CAD, Leca J-B. 2008. Cultured
+monkeys, social learning cast in stones. Current Directions
+in Psychological Science 17:410–414.
+Huffman MA, Leca JB, Nahallage CAD. 2010. Cultured
+Japanese macaques—a multidisciplinary approach to stone
+handling behavior and its implications for the evolution of
+behavioral traditions in non-human primates. In: Nakagawa N,
+Nakamichi M, Sugira H, editors. The Japanese macaques.
+Tokyo: Springer. p 191–221.
+Isaac G. 1978. The food-sharing behavior of protohuman
+hominids. Scientiﬁc American 238:90–108.
+Jalles-Filho E. 1995. Manipulative propensity and tool use in
+captive yellow-breasted capuchin monkeys. Current Anthro-
+pology 36:664–667.
+Jalles-Filho E, Cunhab RGTD, Salmc RA. 2001. Transport of
+tools and mental representation: is capuchin monkey
+previous tool behaviour a useful model of Plio-Pleistocene
+hominid technology? Journal of Human Evolution
+40:365–377.
+Kuhn SL, Stiner MC. 2006. What’s a mother to do? The
+division of labor among neandertals and modern humans in
+Eurasia. Current Anthropology 47:953–980.
+Leakey RE, Lewin R. 1977. Origins: what new discoveries
+reveal about the emergence of our species and its possible
+future. New York: E.P. Dutton.
+Am. J. Primatol.
+1248 / Gumert et al.
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 11
+Leca J-B, Gunst N, Huffman MA. 2007a. Japanese macaque
+cultures: inter- and intra-troop behavioural variability of
+stone handling patterns across 10 troops. Behaviour
+144:251–281.
+Leca JB, Gunst N, Huffman MA. 2007b. Age-related differ-
+ences in the performances, diffusions, and maintenance of
+stone handing, a behavioral tradition in Japanese macaques.
+Journal of Human Evolution 53:691–708.
+Leger DW, Didrichsons IA. 1994. An assessment of data
+pooling and some alternatives. Animal Behaviour
+48:823–832.
+Lonsdorf EV. 2005. Sex differences in the development of
+termite-ﬁshing skills in the wild chimpanzees, Pan troglo-
+dytes schweinfurthii , of Gombe National Park, Tanzania.
+Animal Behaviour 70:673–683.
+Lonsdorf EV, Eberly LE, Pusey AE. 2004. Sex differences in
+learning in chimpanzees. Nature 428:715–716.
+Malaivijitnond S, Lekprayoon C, Tandavanittj N, Panha S,
+Cheewatham C, Hamada Y. 2007. Stone-tool usage by Thai
+long-tailed macaques (Macaca fascicularis). American Journal
+of Primatology 69:227–233.
+Martin P, Bateson P. 2007. Measuring behaviour: an intro-
+ductory guide. Cambridge, UK: Cambridge University
+Press.
+McGrew WC. 1979. Evolutionary implications of sex differ-
+ences in chimpanzee predation and tool-use. In:
+Hamburg DA, McCown ER, editors. The Great Apes. Menlo
+Park, CA: Benjamin/Cummings. p 441–463
+McGrew WC. 1981. The female chimpanzee as a human
+evolutionary prototype. In: Dahlberg F, editor. Woman the
+gatherer. New Haven: Yale University Press. p 35–73.
+McGrew WC. 1992. Chimpanzee material culture: implications
+for human evolution. Cambridge: Cambridge University
+Press.
+McGrew WC, Marchant LF. 1997. Using the tools at hand:
+manual laterality and elementary technology in Cebus spp.
+and Pan spp. International Journal of Primatology
+18:787–809.
+Moura AC de A, Lee P. 2010. Wild capuchins show male-biased
+feeding tool use. International Journal of Primatology
+31:457–470.
+Nahallage CAD, Huffman MA. 2007a. Age-speciﬁc functions
+of stone handling, a solitary object play behavior, in
+Japanese macaques ( Macaca fuscata ). American Journal of
+Primatology 69:267–281.
+Nahallage CAD, Huffman MA. 2007b. Acquisition and devel-
+opment of stone handling behavior in infant Japanese
+macaques. Behaviour 144:1193–1215.
+Ottoni E, Izar P. 2008. Capuchin monkey tool use: overview
+and implications. Evolutionary Anthropology: Issues, News,
+and Reviews 17:171–178.
+Ottoni EB, Mannu M. 2001. Semifree-ranging tufted capu-
+chins ( Cebus apella ) spontaneously use tools to crack open
+nuts. International Journal of Primatology 22:347–358.
+Pusey A, Oehlet GW, Williams JM, Goodall J. 2005. The
+inﬂuence of ecological and socialfactors on body mass of wild
+chimpanzees. International Journal of Primatology 26:3–31.
+Smith RJ, Jungers WL. 1997. Body mass in comparative
+primatology. Journal of Human Evolution 32:523–559.
+Spagnoletti N, Visalberghi E, Ottoni E, Izar P, Fragaszy D.
+2011. Stone tool use by adult wild bearded capuchin
+monkeys (Cebus libidinosus ). Frequency, efﬁciency and tool
+selectivity. Journal of Human Evolution 61:97–107.
+Stanford CB. 1999. The hunting apes: meat eating and the
+origins of human behavior. Princeton, NJ: Princeton
+University Press.
+Teleki G. 1974. Chimpanzee subsistence technology: materials
+and skills. Journal of Human Evolution 3:575–594.
+Tinbergen N. 1963. On aims and methods of ethology.
+Zeitschift fur Tierpsychologie 20:410–433.
+Trivers RL. 1972. Parental investment and sexual selection.
+In: Campbell B, editor. Sexual selection and the descent of
+Man, 1871–1971. Chicago: Aldine. p 136–179.
+van Schaik CP. 1989. The ecology of social relationships
+amongst female primates. In: Standen V, Foley R, editors.
+Comparative socioecology: the behavioural ecology of
+humans and other mammals. Boston: Blackwell Science
+Publications. p 195–218.
+van Schaik CP. 2002. Fragility of traditions: the disturbance
+hypothesis for the loss of local traditions in orangutans.
+International Journal of Primatology 23:527–538.
+van Schaik CP, Deaner RO, Merrill MY. 1999. The conditions
+for tool use in primates: implications for the evolution
+of material culture. Journal of Human Evolution
+36:719–741.
+Visalberghi E, Spagnoletti N, Fragaszy D. 2010. The role of
+body size in nut cracking in bearded capuchin monkeys.
+Primate Research 26:245.
+Wrangham RW. 1980. An ecological model of female-bonded
+primate groups. Behaviour 75:262–299.
+Wrangham RW. 2009. How cooking made us human: catching
+ﬁre. New York, NY: Basic Books.
+Zilman AL. 1981. Women as shapers of the human adaptation.
+In: Dahlberg F, editor. Woman the gatherer. New Haven:
+Yale University Press. p 75–120.
+Am. J. Primatol.
+Macaque Sex Differences in Tool Use / 1249
+ 10982345, 2011, 12, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.20996 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

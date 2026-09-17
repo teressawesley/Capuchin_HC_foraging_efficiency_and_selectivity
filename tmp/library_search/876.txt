@@ -1,0 +1,1545 @@
+PDF PAGE 1
+Cross-Site Differences in Foraging Behavior of White-
+Faced Capuchins (Cebus capucinus)
+Melissa A. Panger,1* Susan Perry,2 Lisa Rose,3 Julie Gros-Louis,4 Erin Vogel,5
+Katherine C. Mackinnon,6 and Mary Baker7
+1Department of Anthropology, George Washington University, Washington, DC 20052
+2Department of Anthropology, University of California at Los Angeles, Los Angeles, California 90095
+3Department of Anthropology and Sociology, University of British Columbia, Vancouver V6T 1Z1, Canada
+4Department of Psychology, University of Pennsylvania, Philadelphia, Pennsylvania 19104
+5Department of Ecology and Evolution, SUNY Stony Brook, Stony Brook, New York 11794
+6Department of Anthropology, University of California at Berkeley, Berkeley, California 94720
+7Department of Anthropology, Pomona College, Claremont, California 91711
+KEY WORDS traditions; social learning; New World monkey; tool use; interpopulation
+variation
+ABSTRACT Researchers have identiﬁed a variety of
+cross-site differences in the foraging behavior of free-rang-
+ing great apes, most notably among chimpanzees ( Pan
+troglodytes) and more recently orangutans ( Pongo pyg-
+maeus), that are not due to obvious genetic or ecological
+differences. These differences are often referred to as “tra-
+ditions.” What is not known is whether this high level of
+interpopulation variation in behavior is limited to homi-
+noids. In this study, we use long-term data from three
+Costa Rican ﬁeld sites that are geographically close and
+similar ecologically to identify potential foraging tradi-
+tions in white-faced capuchins ( Cebus capucinus). Forag-
+ing traditions are predicted in Cebus because of many
+behavioral and morphological convergences between this
+genus and the great apes. The processing techniques used
+for the same food species were compared across sites, and
+all differences found were classiﬁed as present, habitual,
+or customary. Proximity data were also analyzed to deter-
+mine if social learning mechanisms could explain varia-
+tion in foraging behavior. Of the 61 foods compared, we
+found that 20 of them are processed differently by capu-
+chins across sites. The differences involve pound, rub, tap,
+“fulcrum,” “leaf-wrap,” and “army ant following.” For most
+of the differences with enough data to analyze, the aver-
+age proximity score of the “matched” dyads (two individ-
+uals within a group who shared a “different” processing
+technique) was statistically higher than the average prox-
+imity score of the remaining “unmatched” dyads. Am J
+Phys Anthropol 119:52–66, 2002.
+© 2002 Wiley-Liss, Inc.
+Interpopulation variability in behavior, most no-
+tably among chimpanzees ( Pan troglodytes) and or-
+angutans (Pongo pygmaeus) (Boesch, 1996a,b; Boe-
+sch and Boesch-Achermann, 2000; Boesch and
+Tomasello, 1998; McGrew, 1992, 1998; van Schaik et
+al., 1999; Whiten et al., 1999), has received a great
+deal of research attention recently among primatolo-
+gists. The general tenet of this research is that cross-
+site variability in behavior not due to obvious ge-
+netic or environmental differences is a result of
+social learning processes (i.e., such site-speciﬁc for-
+aging techniques are “traditions;” Heyes, 1993;
+Mundinger, 1980). Although behaviors that are sim-
+ilar across sites and those that occur because of
+some environmental inﬂuence may be the result of
+social learning (Huffman and Hirata, in prepara-
+tion), identifying cross-site differences in behavior
+not readily attributable to environmental or genetic
+differences is a valuable “ﬁrst step” in providing
+evidence of potential traditions in free-ranging pop-
+ulations.
+Using these criteria, the identiﬁed foraging be-
+haviors argued to be traditional in chimpanzees and
+orangutans primarily involve difﬁcult-to-access food
+resources, and thus entail complex manipulative be-
+Grant sponsor: Alberta Heritage Scholarship Fund; Grant sponsor:
+Area de Conservacio´n Guanacaste; Grant sponsor: Area de Conserva-
+cio´n Tempisque; Grant sponsor: Costa Rican National Park Service;
+Grant sponsor: Earthwatch; Grant sponsor: Leakey Foundation;
+Grant sponsor: Organization for Tropical Studies; Grant sponsor:
+National Geographic Society; Grant sponsor: NIH-MIRT; Grant spon-
+sor: National Science Foundation; Grant sponsor: Natural Sciences
+and Engineering Research Council of Canada; Grant sponsor: Royal
+Anthropological Institute; Grant sponsor: Sigma Xi; Grant sponsor:
+University of Alberta; Grant sponsor: UC-Berkeley Department of
+Anthropology; Grant sponsor: UCLA; Grant sponsor: UCLA Council
+on Research; Grant sponsor: UC-Riverside Graduate Division; Grant
+sponsor: University of Michigan Alumnae Society; Grant sponsor:
+University of Michigan Rackham Graduate School; Grant sponsor:
+University of Pennsylvania; Grant sponsor: UREP; Grant sponsor:
+Center for the Advanced Study of Human Paleobiology; Grant spon-
+sor: George Washington University.
+*Correspondence to: Melissa Panger, Department of Anthropology,
+2110 G St., NW, George Washington University, Washington, DC
+20052. E-mail: panger@gwu.edu
+Received 16 July 2001; accepted 5 February 2002.
+DOI 10.1002/ajpa.10103
+Published online in Wiley InterScience (www.interscience.wiley.
+com).
+AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY 119:52– 66 (2002)
+© 2002 WILEY-LISS, INC.
+
+PDF PAGE 2
+haviors (e.g., object and tool use). For example, in
+free-ranging orangutans, probing and scraping tools
+are habitually used in some geographic areas, but
+are not used in others (Fox et al., 1998; van Schaik
+et al., 1996, 1999). Among chimpanzees, behaviors
+vary across geographic areas, e.g, the use of ham-
+mers and anvils to crack open hard-shelled nuts
+(Boesch and Boesch, 1990; Boesch and Boesch-
+Achermann, 2000; Boesch et al., 1994; Inoue-Naka-
+mura and Matsuzawa, 1997; McGrew, 1992; Sakura
+and Matsuzawa, 1991); the cracking of hard-shelled
+fruits against substrates (Boesch, 1996b; Goodall,
+1986; Matsuzawa and Yamakoshi, 1996; Nishida,
+1987); and ant dipping and termite ﬁshing (Boesch
+and Boesch, 1990; McGrew, 1992, 1998; Sugiyama,
+1997). In all, researchers from seven long-term
+chimpanzee ﬁeld sites recently identi ﬁed 39 behav-
+ioral pattern differences among their study popula-
+tions, 18 of which involved food processing tech-
+niques (all entailing object or tool use; Whiten et al.,
+1999).
+These food- and nonfood-related behavioral differ-
+ences have been argued to be especially important
+for lending insight into the evolution of human cul-
+ture, including material culture (Boesch, 1996b;
+Boesch and Tomasello, 1998; McGrew, 1992, 1998;
+Sakura and Matsuzawa, 1991; Sugiyama, 1997; van
+Schaik et al., 1999). Although cross-site differences
+in foraging and other types of behavior have been
+found in a variety of animal species (Bonner, 1980;
+Galef, unpublished data; Hall, 1963; Huffman, 1996;
+Huffman and Hirata, unpublished data; Itani, 1958;
+Kawamura, 1959; Lefebvre and Palameta, 1988;
+Watanabe, 1994; Wolfe, 1981), the number and
+types of differences are argued to be unique to chim-
+panzees and orangutans (Boesch and Tomasello,
+1998; Whiten et al., 1999). What is not currently
+known is whether or not this high level of cross-site
+variability in foraging behavior is actually unique to
+hominoids. The primary aim of this paper was to
+determine whether or not capuchins (members of
+the New World monkey genus Cebus) exhibit tradi-
+tions in a foraging context comparable to what has
+been described in great apes.
+WHY CAPUCHINS ARE PREDICTED TO
+EXHIBIT FORAGING TRADITIONS
+There are many reasons to suspect that capuchins
+might exhibit the types of foraging traditions previ-
+ously only described in great apes. For example,
+capuchins have long life-history variables, large
+brain size relative to body size, and a high level of
+sensorimotor intelligence when compared to other
+monkeys; and they have an omnivorous diet (includ-
+ing vertebrate prey), and rely heavily on extractive
+foraging techniques (Anderson, 1996; Antinucci,
+1989; Fragaszy et al., 1990; Fragaszy and Bard,
+1997; Gibson, 1986; Panger, 1998; Parker, 1990;
+Parker and Gibson, 1977; Reader, in preparation;
+Visalberghi and McGrew, 1997). Furthermore, capu-
+chins (Cebus spp.), along with the great apes, are the
+most proliﬁc nonhuman primate tool-users (Ander-
+son, 1996; Boinski et al., 2000; McGrew and March-
+ant, 1997). Relative to most Old World monkeys,
+capuchins are extraordinarily tolerant of others for-
+aging in close proximity, allowing them to sit in
+contact with them and even touch and sniff the food
+being processed (Perry and Rose, 1994, and unpub-
+lished data). Thus capuchins exhibit all of the socio-
+ecological features (extractive foraging, dexterous
+manipulation, and tolerant gregariousness) that van
+Schaik et al. (1999) proposed as necessary precur-
+sors to the evolution of material culture in primates.
+Tool- and object-use behaviors in capuchins
+Capuchins use tools extensively under captive and
+semifree-ranging conditions (Anderson, 1990;
+Anderson and Henneman, 1994; Antinucci and Vis-
+alberghi, 1986; Gibson, 1990; Jalles-Filho, 1995;
+Klu¨ver, 1933; Ottoni and Mannu, 2001; Urbani,
+1999; Visalberghi, 1987, 1988, 1990; Visalberghi
+and Vitale, 1990; Westergaard, 1995; Westergaard
+and Fragaszy, 1987; Westergaard and Suomi,
+1993a,b, 1994a,b,c, 1995; Westergaard et al., 1995,
+1997). Several reports indicate that tool use, along
+with a variety of object-use behaviors, is also a likely
+part of the normal behavioral repertoire of many
+free-ranging capuchins (i.e., use of a club, Boinski,
+1988; use of probing tools, Chevalier-Skolnikoff,
+1990; hammer and anvil use, Fernandes, 1991;
+Boinski et al., 2000; use of leaf containers, Phillips,
+1998; and pounding/rubbing objects against a sub-
+strate, Boinski et al., 2000; Izawa and Mizuno, 1977;
+Panger, 1998; Struhsaker and Leland, 1977; Ter-
+borgh, 1983). Although there may be species-level
+differences in capuchin tool-using abilities (our
+knowledge, especially from captive studies, is
+heavily biased towards C. apella ), it is clear from
+ﬁeld reports that C. apella , C. capucinus , and C.
+albifrons can and do use tools under free-ranging
+conditions.
+As with apes (e.g., Boesch and Boesch, 1990;
+Goodall, 1964; McGrew, 1992, 1993), most of these
+highly manipulative behaviors occur in a foraging
+context, and are used to access dif ﬁcult-to-process
+foods (Boinski et al., 2000; Panger, 1998, 1999; Ter-
+borgh, 1983). Therefore, capuchins exhibit many of
+the foraging behaviors identi ﬁed as “cultural tradi-
+tions” in free-ranging chimpanzees and orangutans
+(van Schaik et al., 1999; Whiten et al., 1999). In fact,
+early reports of complex foraging techniques used by
+free-ranging capuchins led Nishida (1987) to state,
+“Judging from their sophistication, these techniques
+may very probably be cultural behaviors. ”
+Capuchin social dynamics
+In addition to exhibiting types of foraging behav-
+iors that vary across sites in hominoids, capuchins
+also exhibit social dynamics conducive to social
+learning processes (Boesch and Tomasello, 1998;
+Coussi-Korbel and Fragaszy, 1995; van Schaik et al.,
+VARIATION IN CAPUCHIN FORAGING BEHAVIOR 53
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+1999). Capuchins live in multimale/multifemale
+groups; they engage in high levels of alloparenting,
+such that immatures have ready access to a variety
+of role models; and they tend to be extraordinarily
+tolerant of the close proximity of group members
+while foraging (S. Perry, unpublished data). Food
+sharing, rare among nonhuman primates, has been
+reported in capuchins (de Waal et al., 1993; Perry
+and Rose, 1994; Westergaard and Suomi, 1997).
+This level of tolerance allows group members to
+cofeed in proximity to each other on a regular basis.
+Therefore, the social context is ripe and the oppor-
+tunities exist for capuchins to learn speciﬁc foraging
+behaviors from other group members.
+Social learning processes in capuchins
+Speciﬁcally regarding social learning processes,
+the overriding (although debatable) view in the lit-
+erature is that monkeys, including capuchins, are
+unable to truly imitate (Adams-Curtis, 1990; Byrne,
+1994; Fragaszy and Visalberghi, 1989, 1990, 1996;
+Galef, 1992; Heyes, 1993; Visalberghi and Fragaszy,
+1990; Visalberghi, 1987, 1997; Visalberghi and Li-
+mongelli, 1996; Visalberghi and Trinca, 1988;
+Whiten, 1989, 1996), while the ability of hominoids
+to truly imitate is open for debate (Boesch, 1996a;
+Byrne, 1996; Custance et al., 1999; Heyes, 1998;
+Inoue-Nakamura and Matsuzawa, 1997; Russon,
+1996; Russon and Galdikas, 1992; Tomasello, 1990;
+Whiten and Ham, 1992). Both capuchins and great
+apes, however, are clearly capable of other forms of
+social learning (e.g., at least emulation and simple
+imitation; Custance et al. 1999). Thus, although
+there appear to be differences in the overall intellec-
+tual abilities of hominoids and capuchins, both types
+of primates are capable of complex social learning
+(Langer, 2000; Parker and McKinney, 1999; Visal-
+berghi and Limongelli, 1996).
+Therefore, primarily due to their diet, sensorimo-
+tor abilities, foraging behavior, and social dynamics,
+capuchins are expected to show levels of cross-site
+variability in foraging behavior comparable to the
+differences found in chimpanzees and orangutans.
+The primary aim of this paper was to determine
+whether or not capuchins exhibit such traditions in
+a foraging context. Since the data presented here
+were not collected speci ﬁcally for this purpose, we
+are not able to address speci ﬁc questions regarding
+the origin of possible traditions within our study
+populations. Therefore, conclusions regarding the
+social learning processes (e.g., emulation, imitation,
+orenvironmental facilitation; see Custance et al.,
+1999; Hall, 1963; Heyes, 1993; Parker, 1996; Whiten
+and Ham, 1992) responsible for the transmission
+and acquisition of potential foraging traditions in
+capuchins are beyond the scope of this project, al-
+though possible reasons for any differences found
+are discussed.
+METHODS
+Study sites
+Data were compiled by researchers from three
+long-term white-faced capuchin ( Cebus capucinus )
+study sites located in the tropical dry forests of the
+Guanacaste Province in Northwestern (NW) Costa
+Rica (Lomas Barbudal (LV) Biological Reserve, Palo
+Verde (PV) National Park, and Santa Rosa (SR)
+National Park; Fig. 1, Table 1). These sites were
+chosen because of their geographic proximity to each
+other (therefore, capuchins from each site are as-
+sumed to be similar genetically) and their ecological
+similarity (Janzen, 1983). Supplemental data from
+other long-term capuchin sites were used when ap-
+propriate; however, unless otherwise stated, the in-
+formation provided below comes from the three
+main dry forest sites just listed.
+The tropical dry forests of NW Costa Rica typically
+receive 1,000 –2,500 mm of rain per year and expe-
+rience two distinct seasons annually: a wet season
+(June–November) and a dry season (December –
+May). During the dry season, little to no rain falls
+and temperatures can reach 40°C. Up to 80% of the
+trees in these areas are deciduous, and they lose
+their leaves completely during the dry season (for
+forest phenology and plant composition, see Frankie
+et al., 1974). The forests typically lack a clear verti-
+cal structure, and the trees are normally no higher
+than 25 m. The relatively low canopy and decreased
+foliage during the dry season allow for exceptional
+visibility. For details on Lomas Barbudal, see
+Frankie et al. (1988); for Palo Verde, see Panger
+(1997, 1998); and for Santa Rosa, see Fedigan et al.
+(1996) and Hartshorn (1983).
+Data comparison
+Processing techniques. Although the three
+study sites are similar ecologically, the diets of even
+neighboring capuchin troops can vary (Chapman
+and Fedigan, 1990; Rose, 1998). Therefore, compar-
+isons (unless otherwise indicated) were limited to
+species that appear on the food lists of at least 2 of
+the 3 main study sites (Table 2). This enabled us to
+compare how the same food species were processed
+across sites. After a list of “overlapping” plant and
+animal food species was compiled, brief qualitative
+descriptions of how each species is processed by the
+capuchins at each site (where it is eaten) were pro-
+vided by the researchers referred to in Table 1. It
+should be noted that detailed data collection on food
+processing techniques was only a focus at PV (dur-
+ing Panger ’s 1995 –1996 study) and at LB (during
+Gros-Louis and Vogel’s 2000 ﬁeld season and Perry’s
+2001 ﬁeld season). Therefore, the descriptions from
+the study sites are qualitative, and only broad cross-
+site differences are noted.
+Because only broad differences were noted, most
+of the processing differences that we found involve
+obvious differences in manipulative behavior, i.e.,
+“object-use” behaviors, tool use, and other obvious
+54 M.A. PANGER ET AL.
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+manipulative behaviors (Table 3). In ﬁnal compari-
+sons, if a food was not processed in one of these
+ways, it was included in the default category “eat”
+(Table 4). A processing technique at a particular site
+was considered “different” from those at the other
+site(s) if it involved one of the “noneat” categories,
+and the same food was processed by“eat” at another
+site. Thus, for example, if a particular food species
+was processed using “pound” at two sites, but was
+processed using “eat” at another, the “pound” tech-
+nique was considered “different.”
+We are aware that our data are limited, especially
+in regard to the PV data (which are based on the
+observations of one researcher, M.A.P., over an 11-
+month period). In light of the old but true adage,
+“absence of evidence is not evidence of absence, ” we
+looked for obvious patterns in our data that might be
+due to differential observation time at each site.
+Additionally, because geographic proximity has the
+potential to inﬂuence cross-site variability, we com-
+pared our study sites in regard to the number of
+between-site differences in food processing tech-
+niques.
+Use categories. Once broad differences in pro-
+cessing techniques were noted, information on the
+number of individuals who exhibited the indicated
+behavior at the speciﬁc site(s) where it occurred was
+provided if possible. Similar categories to those de-
+scribed by Whiten et al. (1999) were used: “custom-
+ary,” if the behavior is exhibited by all members of at
+least one age/sex class; “habitual,” if the behavior is
+not customary but is exhibited by more than one
+individual; and “present,” if the behavior has been
+observed but is neither customary nor habitual. The
+data in Results were checked over several times by
+all of the authors to insure their accuracy, and sup-
+plemental information were provided by additional
+capuchin researchers when possible.
+Social network data. Because the acquisition of
+traditions requires that individuals observe the be-
+Fig. 1. Map of study sites. Individual maps are not to scale. Letters represent core areas of differentCebus capucinus study groups
+discussed in this paper. Santa Rosa: Ce, Cerco de Piedra; L, Los Valles; N, Nancite; S, Sendero; Lomas Barbudal: A, Abby; R, Rambo;
+Palo Verde: LT, Lagoon; ST, Station; WH, Water Hole.
+VARIATION IN CAPUCHIN FORAGING BEHAVIOR 55
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+havior of others, we wanted to see if individuals who
+exhibited customary or habitual behavior patterns
+were also those that shared social networks (or at
+least were often found in proximity to each other).
+We used proximity scan data that were collected at
+the end of 10-min focal periods to indicate potential
+social networks. Detailed data regarding proximity
+data and speci ﬁc processing techniques were only
+available from the main study troop at PV, which
+was composed of 17 individuals (4 adult males, 4
+adult females, 2 subadult males, 1 subadult female,
+3 juveniles, and 3 infants).
+At PV, each individual withi n3mo ft h e focal
+animal was recorded during each proximity scan.
+There were 91 different dyad combinations possible
+for the individuals in this group (excluding infants).
+The number of scan samples that each individual
+was found in proximity to a speci ﬁc dyad partner
+was divided by the total number of scan samples
+collected for both individuals in that dyad (i.e., the
+scans for each individual in a dyad were pooled).
+These percentages represent each dyad ’s proximity
+score. We will refer to the dyads composed of two
+individuals who share a speci ﬁc “different” process-
+ing technique at PV as “matched dyads.” Note that
+the matched dyads differ for each food species com-
+pared, depending on the individuals who exhibited
+the speci ﬁc processing technique being analyzed.
+Mann-Whitney U-tests were run (using STATIS-
+TICA, 1998 edition) to compare the proximity scores
+of matched dyads (for each relevant food species) to
+the proximity scores of remaining dyads. Alpha was
+set at P /H110050.05. The genealogies at PV are not
+known, and therefore, proximity measures along
+kinship lines could not be explored.
+RESULTS
+Foraging behaviors
+Number and types of differences found. There
+was a total of 49 plant (two encompassing different
+parts of the same species) and 12 animal foods that
+overlapped between at least two sites (see Table 2).
+Of the 61 foods that overlapped, 20 (16 plants and 4
+animals) were processed differently at minimally
+one of the sites by at least one individual (Table 4).
+Three of these foods were only eaten rarely at one of
+the compared study sites, so processing techniques
+may have been missed because of limited observa-
+tion opportunities.
+The processing differences associated with 17
+foods involved “pound” and/or “rub;” 2 involved “tool
+use” (i.e., wrapping a noxious object in a leaf before
+rubbing it against a substrate); 2 involved “tap;” 1
+involved “fulcrum,” and 1 involved following army
+ants to access ﬂushed-out insects. Seven foods were
+processed differently at LB; 8 foods were processed
+differently at PV; and 13 foods (two encompassing
+different parts of the same species) were processed
+differently at SR. In all, 39 different processing tech-
+niques were identiﬁed from all three sites (i.e., all of
+the techniques in bold listed in Table 4). Of these 39
+processing technique differences, 5 are “present;” 26
+are “habitual;” and 8 ﬁt the “customary” category.
+TABLE 1. Study site information
+Study site
+Geographic
+coordinates
+Capuchin
+density Troop size
+Capuchin
+adult sex
+ratio (male
+to female)
+Researchers
+providing data for
+this project
+Contact
+hours1
+Troop(s)
+studied
+Lomas Barbudal 10 ° 30/H11032N, 85° 22/H11032W 23.7/km2 20–372 1:22 S. Perry3 7,721 Abby ’s
+Rambo’s
+E. Vogel4 1,875 Abby ’s
+J. Gros-Louis5 2,425 Abby ’s
+Rambo II’s
+Palo Verde 10 ° 19/H11032–10° 24/H11032N,
+85° 18/H11032–85° 25/H11032W
+69.4/km2 19 (average)6 1:1.26 M. Panger7 1,200 Lagoon
+Station
+Water Hole
+Santa Rosa 10 ° 45/H11032–11° 00/H11032N,
+85° 30/H11032–85° 45/H11032W
+84.8/km2 18 (average)8 1:1.38 L. Rose9 3,185 Cerco de Piedra
+Los Valles
+Nacite
+K.C. MacKinnon
+10 1,515 Cerco de Piedra
+Los Valles
+Sendero
+1 Contact hours refer to total number of hours a researcher spent watching monkeys at respective study sites. Contact hours were not
+necessarily distributed equally among study troops.
+2 Information from Chapman et al. (1989).
+3 S. Perry has been collecting capuchin data at LB since 1990.
+4 E. Vogel’s data are from a 6.5-month study in 2000. Food processing data were not collected systematically during all of the contact
+hours reported.
+5 J. Gros-Louis has worked at LB since 1991.
+6 Information from Panger (1997).
+7 M. Panger spent 11 continuous months working at PV.
+8 Information from Fedigan et al. (1996).
+9 L. Rose worked at SR, noncontiguously, over a span of 7 years.
+10 K.C. MacKinnon worked a total of 21 months during 3 separate years at SR.
+56 M.A. PANGER ET AL.
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+Additionally, there were 6 foods that involved minor
+variations in processing techniques across at least
+two sites. Neither distance between sites nor differ-
+ent observation times at each site seemed to
+strongly in ﬂuence the number of food-processing
+technique differences across sites.
+It should be noted that “fulcrum” and “tool use ”
+were not initially included in the processing tech-
+niques used by SR capuchins to process Pithecello-
+bium saman and Automeris spp. caterpillars, respec-
+tively. However, they were later included based on
+information provided by additional researchers.
+Linda Fedigan (personal communication) reported
+seeing monkeys processing P. saman pods using
+“fulcrum” behaviors several years ago at SR (for a
+description of the behavior, see Panger, 1998). Ad-
+ditionally, R. O’Malley (personal communication) re-
+cently observed a few monkeys using the leaf-wrap-
+ping behavior to process Automeris caterpillars at
+SR (see below).
+Overall, most differences in foraging techniques
+across our study sites involved dif ﬁcult-to-process
+foods (e.g., embedded foods and foods protected by
+noxious substances). This is somewhat obvious,
+since easy-to-eat foods, such as small fruits, can
+simply be picked, placed into the mouth, and
+chewed; there is not much room for variation (espe-
+cially at the level of our comparison). However, it
+should be noted that not all complex processing tech-
+niques varied across the three sites. For example,
+accessing seeds fromLuehea candida fruits is a com-
+plicated task that requires dexterous bimanual co-
+ordination (for description, see Panger, 1998). How-
+ever, the processing technique used with L. candida
+varies little across the three main study sites. In all,
+8 foods from our list of 61 overlapping food species
+that were dif ﬁcult to process (i.e., they were pro-
+cessed using a“noneat” category) were not processed
+differently across sites.
+Description of differences found
+Object-use behaviors. Most of the foraging tech-
+niques that differed across sites involved object-use
+behaviors, speci ﬁcally “pound” and “rub.” Many of
+the assumed functions of “pound” and “rub” overlap.
+The assumed functions of these behaviors were: to
+break into hard fruits or other plant parts ( Annona
+reticulata, Apeiba tibouru, Manilkara chicle, Quer-
+cus spp., Randia armata, Stemmedenia donnell-
+smithii, Sterculia apetala , and tree branches); to
+soften fruits prior to ingestion ( Cercropia peltata ,
+Genipa americana , and Mangifera indica ); to (un-
+TABLE 2. List of species 1 (or common name) of food found on food lists of at least two of the main study sites 2
+Food species (plants)
+Sites
+Food species (plants)
+Sites
+LB3 PV4 SR5 LB PV SR
+Acacia spp. (fruit) * * Luehea speciosa **
+Acacia spp. (adults/larvae in thorns) * * * Maclura tinctoria **
+Acrocomia vinifera ** Mangifera indica **
+Allophyllus occidentalis *** Manilkara chicle ***
+Annona reticulata *** Muntingia calabura **
+Apeiba tibouru ** Passiﬂora spp. **
+Ardisia revoluta ** Pithecellobium saman ***
+Astronium graveolens ** Psychotria sp. * *
+Bactris minor ** Quercus sp. * *
+Bauhinia spp. * * Randia sp. * * *
+Bromelia pinguin (fruit) * * Sciadodendron excelsum **
+Bromelia pinguin (pith) * * Simarouba glauca **
+Bursera simaruba ** Sloanea terniﬂora **
+Byrsonima crassifolia ** Spondias mombin ***
+Carica papaya ** Stemmandenia donnell-smithii ***
+Casearia spp. * * * Sterculia apetala **
+Cassia grandis ** Tabebuia ochracea ***
+Cecropia peltata *** Trichilia trifolia **
+Cochlospermum vitifolium (ﬂowers) * *
+Food species (animals)
+Combretum farinosum * * Insects in branches * * *
+Curatella americana ** “Army ant following” *
+Diospyros nicaraguensis * * Snails * * *
+Enterolobium cyclocarpum * * Bird eggs * * *
+Ficus spp. * * Automeris spp. caterpillars * * *
+Genipa americana * * Other large caterpillars * * *
+Guazuma ulmifolia * * Squirrels and coatis * * *
+Guettarda macrosperma * * * Grasshoppers * * *
+Jacquinia pungens *** Polistes nests * * *
+Lasiacis ruscifolia *** Polybia nests * * *
+Licania arborea * * Termites * * *
+Luehea candida * * * Butter ﬂies * * *
+1 Detailed descriptions of how each food species is processed at each site are available upon request from the corresponding author.
+2 LB, Lomas Barbudal; PV, Palo Verde; SR, Santa Rosa; *site where food species is eaten by monkeys.
+3 Total LB food list includes approximately 120 species (S. Perry and E. Vogel, personal communication).
+4 PV food list includes approximately 52 species (Panger, 1997).
+5 SR food list includes approximately 100 species (MacKinnon, 1995; L. Rose, personal communication).
+VARIATION IN CAPUCHIN FORAGING BEHAVIOR 57
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+successfully) remove hair from mammalian prey
+(squirrels and coatis); to remove noxious substances
+or biting insects from foods ( Acacia spp. fruits and
+thorns, Automeris caterpillar, Sloanea terni ﬂora,
+Sterculia apetala , and Tabebuia ochracea ); and to
+detach fruit from fruit bunches ( Bactris minor). In
+the case of Sterculia apetala, the monkeys at both
+LB and PV rubbed the fruits, but they used the rub
+behavior at different stages of the food processing
+procedure. At LB, monkeys opened hard-husked
+fruits with their teeth, and then rubbed the fruit
+within the husks against tree branches. At PV, the
+fruit husks themselves were occasionally rubbed
+against tree branches; once the husks were opened
+(normally using teeth), the monkeys simply ate the
+fruit inside without rubbing it.
+Fulcrum (see Table 3 for de ﬁnition) was used to
+process Pithecellobium saman fruits at PV and SR.
+The fruits are broken open by monkeys to access
+bruchid beetle larvae that live inside the fruits.
+“Leaf wrap.” Another processing technique that
+appears on our list of differences involves monkeys
+wrapping objects ( Automeris caterpillars and Sloa-
+nea terniﬂora fruits) in leaves before rubbing them
+against a substrate (a type of tool use). Both Autom-
+eris caterpillars and Sloanea terni ﬂora fruits have
+chemical or mechanical defenses that can cause pain
+and/or discomfort when touched. Therefore, the
+monkeys are most likely using the leaves to protect
+their hands when rubbing the objects to remove
+noxious substances. At SR, most individuals rub
+Sloanea fruits and Automeris caterpillars directly
+against a substrate without wrapping them in
+leaves ﬁrst, and the “leaf-wrapping” behavior has
+only been seen a few times with each of these foods
+(L. Rose, personal observation; R. O ’Malley, per-
+sonal communication).
+“Tap.” “Tap” is another foraging technique that
+varies among the three main study sites. Thebehav-
+ior is presumably used to check for fruit ripeness (as in
+the case of Mangifera indica and Stemmedenia don-
+nell-smithii fruits) and to search for insects in
+branches and/orPithecellobium samanfruits (see Vis-
+alberghi and Ne´el, unpublished ﬁndings). The mon-
+keys at LB were only recently seen tapping branches.
+Researchers have been looking for “tap” at LB since
+1993, although systematic data collection on the be-
+havior started in 2000. “Branch tapping” was not re-
+ported at LB before 2000. During the 2000 and 2001
+LB ﬁeld seasons, however, the behavior was exhibited
+often by several individuals. The potential for method-
+ological bias makes it difﬁcult to conﬁrm the absence of
+“branch tap” at LB prior to 2000, but the behavior has
+apparently become more common at the site since
+1993. Overall, tapping is seen across all age/sex classes
+(excluding infants); however, the highest rate is found
+among adult females (MacKinnon, 1995; Panger, un-
+published data; S. Perry, unpublished data) whose
+total tapping rate averages 1.55 bouts/hr at PV (Pan-
+ger, unpublished data).
+“Army ant following.” The ﬁnal foraging tech-
+nique that appears on our list of cross-site differ-
+ences is “army ant following.” This behavior involves
+a troop of capuchins closely following foraging col-
+umns of army ants and catching animal prey (pri-
+marily insects and occasionally small vertebrates)
+ﬂushed out by the swarm of traveling ants (similar
+behaviors were reported in a variety of bird genera;
+Rettenmeyer, 1983). This behavior is seen often at
+SR, and each bout may last for up to an hour. Al-
+though army ants are common at both LB and PV,
+the monkeys there were never seen to forage in
+association with ant swarms. “Army ant following ”
+was also seen by M. Baker (unpublished data) at her
+TABLE 3. Description of food processing techniques that varied across study sites
+Processing technique Description
+“Army ant following” Several members of a group closely follow foraging columns of army ants and catch animal prey
+(primarily insects and occasionally small vertebrates) ﬂushed out by swarm of traveling ants.
+Fulcrum use An individual applies force on an object working against a substrate (which was used as a fulcrum). This
+is a type of object use. 1
+“Leaf wrap” An individual wraps an object in a leaf and then rubs the leaf (containing the object) against a ﬁxed
+substrate (e.g., tree branch or rock). This is a type of tool use. 2
+Pound3 An individual hits an object against a ﬁxed substrate (e.g., tree branch or rock) with either one or two
+hands. This is a type of object use. 1
+Rub3 An individual slides an object against a ﬁxed substrate (e.g., tree branch or rock) with one or two hands.
+This is a type of object use. 3
+Tap An individual uses its ﬁngertips to tap against an object. A tap normally involves a rhythmic series of
+rapid taps on one object with the ﬁngers of one hand.
+1 Object use is de ﬁned as any time an individual manipulates (to alter) a detached object relative to a ﬁxed substrate or medium
+(Panger, 1998; Parker and Gibson, 1977).
+2 Tool use is deﬁned as “[T]he external employment of an unattached environmental object to alter more efﬁciently the form, position,
+or condition of another object, another organism, or the user itself when the user holds or carries the tool during or just prior to use ”
+(Beck, 1980).
+3 Although we assign “assumed functions” to the pound and rub behaviors in the text, in reality it is very dif ﬁcult to determine the
+motivation for every pound and rub bout. Both “pound” and “rub” are commonly reported in both captive and free-ranging capuchins
+(for captive Cebus, Antinucci and Visalberghi, 1986; Fragaszy and Adams-Curtis, 1991; Visalberghi, 1988; Visalberghi and Vitale,
+1990); for free-ranging Cebus, Boinski et al., 2000; Izawa and Mizuno, 1977; Panger, 1998; Struhsaker and Leland, 1977; Terborgh,
+1983). There is a possibility that pound and rub are default behaviors that are turned to by capuchins whenever they run into difﬁculty
+processing food (juvenile capuchins will also occasionally pound “inappropriate,” nonfood items against substrates, e.g., stones).
+58 M.A. PANGER ET AL.
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+C. capucinus site in Curu´, Costa Rica. At Curu´, the
+monkeys not only catch the prey ﬂushed out by the
+ants, but also occasionally take prey already caught by
+the ants (and consume both the ants and their prey).
+Social networks
+To statistically compare proximity scores of the
+dyads who used a unique processing technique
+(“matched dyads”) to proximity scores of the remain-
+ing dyads, there had to be more than one matched
+dyad associated with the speci ﬁc food species in-
+volved in the analysis. There were four food species
+from Table 4 at PV that met this criterion. In all four
+of these cases, the matched dyads for each food spe-
+cies had a higher average proximity score than the
+average proximity score of the remaining dyads
+(three of the differences were statistically signi ﬁ-
+cant; see Table 5 and Fig. 2). It should be noted that
+there is much overlap in the individuals who make
+up the “matched” dyads for the different food species
+(i.e., KK-PHIL [KK-PH] are associated with all four
+of the foods; KK-LARRY [KK-LA] and PH-LA are
+associated with three; and KK-PENNY [KK-PN],
+LA-PN, and PH-PN are associated with two). Such
+redundancies might be expected if social learning
+mechanisms play a role in producing shared behav-
+ior patterns, e.g., spending a lot of time in close
+proximity to another particular individual could al-
+low for several opportunities to learn speciﬁc behav-
+ior patterns (not just one) from that individual.
+However, it is possible that one or more of these
+dyads skewed the average proximity scores of the
+matched dyads. Nonetheless, the average proximity
+score for all of the matched dyads (combined) was
+statistically higher than the average proximity score
+for the unmatched dyads, indicating a statistical
+difference (unmatched dyads: N/H1100565; average /H110053.4;
+r /H110050–16.5; SD /H110053.3; matched dyads: N /H1100526;
+average /H110056.7; r /H110050–15; SD /H110053.7; U /H11005307.5, z /H11005
+/H110024.6, P /H110210.001).
+There were four food species with only one
+matched dyad. Although not statistically analyzed,
+the proximity scores for 3 of these 4 matched dyads
+were higher than the averages and medians for the
+remaining dyads (again, see Table 5). The exception
+was for pounding Tabebuia. Two adult females
+TABLE 4. Processing techniques that vary across sites and their use patterns 1
+Food species
+Lomas Barbudal Palo Verde Santa Rosa
+Tech. U.P. Tech. U.P. Tech. U.P.
+Acacia spp. (fruit) Eat C *** Rub H
+Acacia spp. (thorns) Eat C Eat C Rub H
+Annona reticulata Eat (rare) H Pound H Pound H
+Rub P Rub H
+Apeiba tibouru Rub P *** Pound H
+Rub H
+Bactris minor Eat (rare) C Pound H ***
+Cecropia peltata Eat C Eat C Pound C
+Rub C
+Genipa americana Eat C *** Pound C
+Rub C
+Mangifera indica Pound H Rub H ***
+Rub H Tap H
+Tap H
+Manilkara chicle Eat C Pound P Eat H
+Pithecellobium saman Tap P Fulcrum H Rub C
+Fulcrum
+2 H
+Quercus spp. Eat C *** Pound H
+Randia spp. Pound H Pound H Eat H
+Rub P
+Sloanea terniﬂora Rub C *** Leaf wrap P
+Rub C
+Stemmandenia donnell-smithii Pound P Pound H Pound C
+Rub C
+Tap C
+Sterculia apetala Rub (fruit inside of husk) H Rub (husk of fruit) H ***
+Tabebuia ochracea Pound H Pound H Eat H
+Rub C Rub H
+Automeris spp. caterpillar Leaf wrap H Rub H Leaf wrap3 H
+Rub C Rub H
+Insects in branches4 Tap C Pound H Tap H
+Tap C
+Vertebrate prey (squirrels and coatis) Pound H Eat (rare) H Pound H
+Rub H Rub H
+“Army ant following” No No Yes H
+1 Tech., technique; U. P., are patterns. Please see Table 3 and text for de ﬁnitions of speciﬁc processing techniques.*** Foods that do
+not appear on site ’s food list (species may be present at site); techniques in bold indicate “different” techniques. P, “present;” H,
+“habitual;” C, “customary” (see text for de ﬁnitions).
+2 This information based on L. Fedigan (personnal communication).
+3 This information based on R. O ’Malley (personnal communication).
+4 “Tap branch” was only recently seen at LB (see text for discussion).
+VARIATION IN CAPUCHIN FORAGING BEHAVIOR 59
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+(Gina and Keggy) were the only two individuals at
+PV who were observed pounding Tabebuia; these
+females, however, were never recorded in proximity
+to each other during their scan samples.
+Of the 4 troop individuals who did not exhibit any
+of the unique processing techniques (excluding in-
+fants; Bogie, juvenile; Eric, adult male; Indy, adult
+female; and Stoner, subadult female), 3 had the low-
+est proximity scores of all troop individuals (i.e.,
+lowest percent of scans with individuals recorded
+within 3 m). Therefore, there was a general pattern
+(at least at PV): individuals who spent more time
+together shared some of the “different” processing
+techniques; those who spent little time around other
+troop individuals did not.
+DISCUSSION
+What we found in this ﬁrst systematic attempt to
+identify potential intersite differences in the forag-
+ing behavior of capuchins is that hominoids are not
+unique among primates in regard to their degree of
+cross-site differences in foraging behavior. Many of
+the same types of differences argued to be“tradition-
+al” differences in chimpanzees and orangutans have
+now been identi ﬁed in capuchins (see also Perry et
+al., in preparation). Our results indicate that capu-
+chins (speci ﬁcally Cebus capucinus ) vary some of
+their complex foraging techniques across geograph-
+ically close and ecologically similar sites. Of the 61
+food species compared, 20 were processed differently
+across the three study sites. Many of the differences
+involved common behavioral patterns used to pro-
+cess several species (pound, rub, and tap), while
+others involved rarer foraging techniques (fulcrum,
+“leaf-wrapping,” and “army ant following”). Further-
+more, at least at PV, there was a link between prox-
+imity scores and individuals who shared different
+processing techniques (i.e., in most cases, individu-
+als who shared particular processing techniques had
+statistically higher or higher than average proxim-
+ity scores when compared to the remaining dyads).
+There are several parallels between the types of
+intersite foraging differences found in capuchins
+and those reported for chimpanzees and orangutans.
+For example, not only is the high number of differ-
+ences we found across sites comparable to what was
+described for hominoids, but so are the types of
+differences observed. Many of the foraging differ-
+ences identi ﬁed across chimpanzee and orangutan
+populations include tool-use and/or object-use be-
+haviors (e.g., van Schaik et al., 1999; Whiten et al.,
+1999). We also found this to be true among the
+capuchin populations in our study. Additionally,
+many reports of foraging traditions among great
+apes involve the absence of a behavior at one site
+and its presence at another that cannot be easily
+explained by ecological differences. For example,
+probing tools are used by orangutans at Suaq Bal-
+imbing but not by orangutans at other known sites
+(e.g., Fox et al., 1998), and hammers are used by
+chimpanzees in some populations but not at others
+TABLE 5. Comparison of proximity scores between matched and unmatched dyads (PV data) *
+Comparisons involving more than one matched dyad
+Food species (processing technique) Annona reticulata (pound) Mangiferas indica
+(rub)
+Randia spp (pound) Stemm anderi donnell-smithii
+(pound)
+Individuals exhibiting the behavior 2 Gina, KK, Larry, Phil, Penny Benji, KK, Larry, Phil KK, Larry, Mac, Maury,
+Phil, Susie
+KK, Penny, Phil
+Average proximity score for matched dyads 7.11* 7.98* 7.07* 5.63
+Average proximity score for remaining dyads 3.98 4.07 3.78 4.28
+Comparisons involving one matched dyad
+Food species (processing technique) Bactris minor (pound) Pithecellobium saman
+(fulcrum)
+Sterculia apetala
+(rub-husk)
+Tabebuia ochracea (pound)
+Individuals exhibiting the behavior Phil, Penny Keggy, Maury Larry, Mac Gina, Keggy
+Proximity score for matched dyad
+3 6.4/H11011 5.1/H11011 12/H11011 0
+1 See text for deﬁnitions of “matched” and “unmatched” dyads. Selection criteria for“matched dyads” were based on data available as of June 2001. Subsequent data show thatStemm
+anderi donnell-smithii is also “pounded” at LB.
+2 Benji (BN, adult male); Gina (GN, adult female); Keggy (KG, adult female); KK (KK, subadult male); Larry (LA, subadult male); Mac (MC, adult male); Mau ry (MR, adult male);
+Penny (PN, juvenile); Phil (PH, juvenile); Susie (SU, adult female).
+*Statistically signiﬁcant difference; A. reticulata (matched dyads: N /H1100510; r /H110052–12.5; SD /H110053.88; unmatched dyads: N /H1100581; r /H110050–16.5; SD /H110053.56) (U /H11005208.5, z /H11005/H110022.50, P /H110050.013);
+M. indica (matched dyads: N /H110056; r /H110055.1–12.1; SD /H110052.28; unmatched dyads: N /H1100585; r /H110050–16.5; SD /H110053.66) (U /H1100574.0, z /H11005/H110022.90, P /H110050.004); Randia spp. (matched dyads: N /H11005
+15; r /H110052–15; SD /H110053.65; unmatched dyads: N /H1100576; r /H110050–16.5; SD /H110053.49) (U /H11005251.5, z /H11005/H110023.41, p /H110050.001); S. donnell-smithii (matched dyads: N /H110053; r /H110053–7.5; SD /H110052.35;
+unmatched dyads: N /H1100588; r /H110050–16.5; SD /H110053.75).
+4 /H11011, proximity scores higher than total average and median scores for all troop dyads (totals: N /H1100591; r /H110050–16.5; average /H110054.32; median /H110053.2; SD /H110053.71).
+60 M.A. PANGER ET AL.
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 10
+(e.g., Whiten et al., 1999), even though the same
+foods processed using these techniques are found at
+other sites where the behaviors are absent. In our
+study, fulcrum-use, army anting, and leaf-wrapping
+were found at some capuchin sites but were absent
+at others, and ecological differences cannot easily
+account for the variation.
+In other cases, the same general foraging behavior
+can be found across sites, but the behavior is used to
+process different food species. Among chimpanzees,
+Fig. 2. Proximity scores for matched and unmatched dyads ( a–c). Proximity scores /H11005percent of total number of scan samples
+(collected for both individuals in a dyad) that each individual was found in proximity to the speciﬁc dyad partner. Open bars represent
+matched dyads for all “different” processing techniques used at PV (see Tables 4 and 5); solid bars represent dyads composed of
+individuals at PV who were never observed exhibiting any “different” foraging techniques.
+VARIATION IN CAPUCHIN FORAGING BEHAVIOR 61
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 11
+probing tools are used at many known sites, but they
+are not necessarily used to process the same food
+species. For example, chimpanzees in some popula-
+tions use probing tools to access honey, while in
+other populations (where probing tools are used to
+process other food species), tools are not used for
+honey extraction (e.g., McGrew, 1992; Whiten et al.,
+1999). For capuchins, an example of this involves
+“pound.” Pounding objects against a substrate is
+found in all known capuchin populations, but pound
+is not universally used for the same food species
+(e.g., capuchins pound Cecropia peltata fruits at
+some sites, but not at others where the species is
+eaten). Additionally, in both capuchins and chim-
+panzees, a processing technique may be similar
+across sites, but its use pattern may be different
+(e.g., habitual at one site and customary at another).
+An example of this among capuchins is the rubbing
+of Tabebuia ochracea fruits, and for chimpanzees,
+the use of probing tools to extract ﬂuids (Whiten et
+al., 1999).
+These similarities suggest several potential hy-
+potheses. One possibility is that the type of inter-
+population variation in foraging behavior found pre-
+viously in great apes and now in capuchins is not
+necessarily rare among primates (or other animals),
+and that with systematic study, similar types of
+foraging traditions could be found in other taxa (e.g.,
+Galef, in preparation; Mann and Sargeant, unpub-
+lished data). Another possibility is that there are
+characteristics shared between capuchins and great
+apes (speciﬁcally chimpanzees and orangutans) that
+allow for, or at least facilitate, foraging traditions.
+Some likely candidates (which are not mutually ex-
+clusive) are extractive foraging, dexterous manipu-
+lation, tolerant gregariousness, long life-history
+variables, large brain size relative to body size, a
+high level of sensorimotor intelligence, and/or an
+omnivorous diet (including vertebrate prey, e.g.,
+Boesch and Boesch-Achermann, 2000; Coussi-Kor-
+bel and Fragaszy, 1995; Parker and Gibson, 1977;
+Reader, unpublished data; van Schaik et al., 1999).
+Potential explanations for differences found
+Ecological differences. There are several factors
+that may help explain the intersite variation found
+in the foraging behavior of capuchins, chimpanzees,
+and orangutans. For example, ecological differences
+across sites may in ﬂuence foraging patterns. Some
+of the foraging differences found among chimpanzee
+populations can easily be attributed to ecological
+differences between sites (e.g., see Whiten et al.,
+1999); many others among chimpanzees, orangu-
+tans, and capuchins, however, cannot (e.g., see
+McGrew, 1992; van Schaik et al., 1999; Whiten et
+al., 1999; this study). Although obvious ecological
+differences do not account for many of the differ-
+ences seen in foraging patterns, subtle ecological
+differences could potentially in ﬂuence foraging be-
+haviors across sites. Differences in soils and micro-
+climates can inﬂuence food characteristics (e.g., dif-
+ferent growing conditions may make some fruits
+tougher or more noxious, thus in ﬂuencing process-
+ing techniques) and forest composition.
+Detecting subtle ecological differences across sites
+that could in ﬂuence foraging behaviors is admit-
+tedly extremely difﬁcult, but such factors should be
+kept in mind in future primate studies attempting to
+identify behavioral differences due to social learning
+processes. Such data are not currently available for
+the three main capuchin sites in this study, so the
+effects of subtle ecological differences cannot be spe-
+ciﬁcally addressed here.
+Demographic differences. Another potential
+factor that may account for cross-site variation in
+behavior involves demographic differences. Forag-
+ing behavior and diet composition vary across age/
+sex classes intraspeci ﬁcally in many animals, in-
+cluding capuchins, chimpanzees, and orangutans
+(for capuchins, Fragaszy and Boinski, 1995; Rose
+1994, 1998; Panger, unpublished data; for chimpan-
+zees, Boesch and Boesch-Achermann, 2000; McGrew,
+1992; Sugiyama, 1993; Whiten et al., 1999; and for
+orangutans, van Schaik et al., 1996, and for orangu-
+tans, 1999). These differences have most commonly
+been argued to be due to differences in body size
+(especially in sexually dimorphic species), which can
+lead to differences in predation risk (real or per-
+ceived), strength, and ability to socially constrain
+others: all these factors can in ﬂuence foraging pat-
+terns (e.g., Fragaszy and Boinski, 1995; Rose, 1994).
+Differences in metabolic demands (associated with
+such things as gestation and lactation) and variabil-
+ity in foraging skills and ef ﬁciency due to age can
+also affect an individual ’s diet. Such differences in
+diet and foraging behavior across age/sex classes
+may result in “site-level differences” across research
+sites when comparing populations that vary in de-
+mographic composition. For example, several stud-
+ies found that “tap” is largely an adult female be-
+havior in capuchins (e.g., MacKinnon, 1995; Panger,
+unpublished data). Therefore, tap may be found in
+some groups of capuchins and not others simply as a
+result of how many adult females are present.
+Demographic differences are not suspected in this
+study, however, because troop composition across
+the three sites is similar and the pattern of differ-
+ences across the sites does not support variability in
+behavior due to demographic differences (i.e., differ-
+ences found in the processing techniques involving
+pound, rub, tap, tool use, etc. were not skewed to-
+ward one site). Furthermore, L. Rose (personal ob-
+servation) reported that three neighboring groups at
+Santa Rosa that varied in troop size and composition
+did not differ in their food-processing techniques.
+This also appears to be the case at LB, based on
+preliminary analyses. Comparative data across
+neighboring troops at PV are not available at this
+time.
+62 M.A. PANGER ET AL.
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 12
+Idiosyncratic behaviors. Individual variation in
+behavior may also account for some cross-site differ-
+ences. Idiosyncratic behaviors exhibited by a single
+individual could explain the presence of a behavior
+at one site, and its absence at another. For in-
+stance, it is possible that the “patterns ” that we
+see across sites may actually represent coinciden-
+tally clustered individual responses to certain
+foods. Therefore, when we see a few individuals
+processing a particular food in a way different
+from the majority of other individuals, we may
+simply be detecting individual differences (i.e., in-
+dependent innovations discovered through trial
+and error attempts) that appear clumped because
+of sampling error.
+This may account for the tool use (i.e., “leaf-wrap-
+ping”) observed at LB and at SR. At LB, the individ-
+uals who exhibited this behavior were peripheral
+individuals who spent very little time together and
+hence had few (if any) opportunities to learn tool use
+from each other. At SR, the tool-use behavior was
+only seen exhibited by one individual and a few
+individuals, respectively, for Sloanea terniﬂora and
+caterpillars. Therefore, it is plausible that these in-
+dividuals learned the behavior independently
+through trial and error. Furthermore, individual be-
+havioral differences could explain the other
+“present” and “habitual” (if only a few individuals
+exhibited the behavior) differences observed, but it
+cannot easily account for the remaining customary
+and habitual processing techniques that varied
+across study sites. Therefore, individual differences
+in behavior should be considered in future studies of
+this kind, but they cannot easily account for most of
+the differences observed in our study.
+Social learning mechanisms. Additionally, so-
+cial learning processes may also explain intersite
+variability in behavior. There is a multitude of dif-
+ferent social learning processes (all variously de-
+ﬁned and interpreted) discussed in the literature.
+The main types are local enhancement, response
+facilitation, social emulation, and imitation (Custance
+et al., 1999; Whiten, 1989). Although debatable, a
+growing number of researchers argue that capu-
+chins cannot imitate (e.g., Adams-Curtis, 1990; By-
+rne, 1994; Fragaszy and Visalberghi, 1989, 1996;
+Visalberghi and Fragaszy, 1990; Visalberghi, 1987,
+1997; Visalberghi and Limongelli, 1996; Visalberghi
+and Trinca, 1988; but see Custance et al., 1999), and
+that chimpanzees and orangutans can (e.g., Boesch,
+1996a; Custance et al., 1999; Russon, 1996; Russon
+and Galdikas, 1992). There is less debate regarding
+the argument that capuchins, along with great apes,
+are capable of complex forms of social learning (e.g.,
+Custance et al., 1999). Social learning processes (in-
+cluding imitation) are the leading potential causes
+argued to be responsible for many of the cross-site
+differences found among chimpanzee and orangutan
+populations (e.g., McGrew, 1992; Boesch and Toma-
+sello, 1998; van Schaik et al., 1999; Whiten et al.,
+1999). If it is true that capuchins are not capable of
+imitation and that hominoids are, our results sug-
+gest that an ability to imitate may not be a neces-
+sary precursor to the establishment of foraging tra-
+ditions, and that simpler types of social learning
+processes may be enough to produce intraspeci ﬁc
+differences in foraging behavior across populations.
+Arguing for social learning processes requires that
+more than one individual exhibit a certain behavior.
+Therefore, speciﬁcally for capuchins, social learning
+processes cannot help explain the differences we
+found in the techniques used to process Annona
+reticulata, Manilkara chicle, Randia spp., and Sloa-
+nea terniﬂora (because only a single individual was
+observed performing the relevant technique). How-
+ever, social learning processes may help explain
+many of the remaining foraging differences that we
+identiﬁed (those that are customary or habitual).
+This is especially true in light of the proximity score
+analyses we conducted; there seems to be a ﬁt be-
+tween social networks and potential learned behav-
+ior patterns.
+The proximity data from PV, although not conclu-
+sive, suggest that at least some of the cross-site
+processing differences that we found during the
+course of this study are the result of social learning
+processes. The apparent spread of branch-tapping at
+LB, in addition to the possible disappearance of“ful-
+crum” to process Pithecellobium saman pods at SR,
+indicate that some foraging behaviors may appear,
+spread, and then disappear through time in capu-
+chin populations. The pattern of the duration and
+spread of certain behaviors over time within and
+across groups may provide clues to the social learn-
+ing mechanism(s) responsible for the transmission
+of behaviors (Boesch and Tomasello, 1998). It is im-
+possible, however, at this point to determine which
+(if any) social learning processes play a role in the
+variability observed in capuchins, because the data
+currently available are not detailed enough to re-
+solve this issue. Furthermore, because the genealo-
+gies of the capuchins at PV are not known, we can-
+not at this time address issues regarding the
+possible transmission of certain behaviors along kin-
+ship lines.
+Future research that might elucidate the potential
+inﬂuence of social learning processes and cross-site
+differences in primate behavior includes projects
+that focus on the transmission of speci ﬁc foraging
+patterns (e.g., using proximity data to determine
+possible transmission of a behavior from a potential
+model). An understanding of the association pat-
+terns of individuals across age/sex groups would be
+vital for this type of research. Studies that focus on
+changes in behaviors over time within one popula-
+tion, and projects that focus on the demography of
+dispersal and how it might in ﬂuence the spread of
+foraging traditions across groups and study sites,
+would also be helpful.
+VARIATION IN CAPUCHIN FORAGING BEHAVIOR 63
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 13
+CONCLUSIONS
+We have identiﬁed a wide variety of intersite dif-
+ferences in the foraging behavior of C. capucinus
+living in three tropical dry forest sites in Costa Rica,
+although speciﬁc mechanisms explaining variability
+across sites cannot be determined at this time.
+These data illustrate that site-speciﬁc behaviors not
+due to obvious genetic or ecological differences, sim-
+ilar to those found in chimpanzees and orangutans,
+can be found in nonhominoid primates. Whether or
+not such differences will also be found in other pri-
+mate and/or nonprimate species will require further
+research (but see Galef, unpublished data; Mann
+and Sargeant, unpublished data). The results of this
+preliminary study are not meant to be de ﬁnitive;
+instead, they are meant to be a springboard for
+future systematic research of this kind.
+ACKNOWLEDGMENTS
+We thank the participants of the conference on
+animal traditions organized by Drs. Dorothy Fra-
+gaszy and Susan Perry (held November, 2000 in
+Athens, GA), especially Dr. Michael Huffman; we
+also thank Dr. Russ Greenberg, Dr. Clark Spencer
+Larsen, and three anonymous reviewers for valuable
+comments on various versions of this manuscript.
+LITERATURE CITED
+Adams-Curtis LE. 1990. Conceptual learning in capuchin mon-
+keys. Folia Primatol (Basel) 54:129 –137.
+Anderson JR. 1990. Use of objects as hammers to open nuts by
+capuchin monkeys ( Cebus apella ). Folia Primatol (Basel) 54:
+138–145.
+Anderson JR. 1996. Chimpanzees and capuchin monkeys: com-
+parative cognition. In: Russon AE, Bard KA, Parker ST, edi-
+tors. Reaching into thought: the minds of the great apes. Cam-
+bridge: Cambridge University Press. p 23 –56.
+Anderson JR, Henneman MC. 1994. Solutions to a tool-use prob-
+lem in a pair of Cebus apella. Mammalia 58:351–361.
+Antinucci F. 1989. Cognitive structure and development in non-
+human primates. Hillsdale, NJ: Erlbaum.
+Antinucci F, Visalberghi E. 1986. Tool use in Cebus apella: a case
+study. Int J Primatol 7:351 –363.
+Beck B. 1980. Animal tool behavior: the use and manufacture of
+tools by animals. New York: Garland Press.
+Boesch C. 1996a. Three approaches for assessing chimpanzee
+culture. In: Russon AE, Bard KA, Parker ST, editors. Reaching
+into thought: the minds of the great apes. Cambridge: Cam-
+bridge University Press. p 404 –429.
+Boesch C. 1996b. The emergence of cultures among wild chim-
+panzees. Proc Br Acad 88:251 –268.
+Boesch C, Boesch H. 1990. Tool use and tool making in wild
+chimpanzees. Folia Primatol (Basel) 54:86 –99.
+Boesch C, Boesch-Achermann H. 2000. The chimpanzees of the
+Taı¨ Forest: behavioural ecology and evolution. Oxford: Oxford
+University Press.
+Boesch C, Tomasello M. 1998. Chimpanzees and human cultures.
+Curr Anthropol 39:591–614.
+Boesch C, Marchesi P, Marchesi N, Fruth B, Joulian F. 1994. Is
+nut cracking in wild chimpanzees a cultural behaviour? J Hum
+Evol 26:325–338.
+Boinski S. 1988. Use of a club by a wild white-faced capuchin
+(Cebus capucinus ) to attack a venemous snake ( Bothrops as-
+per). Am J Primatol 14:177 –179.
+Boinski S, Quatrone R, Swats H. 2000. Substrate and tool use by
+brown capuchins in Suriname: ecological contexts and cognitive
+bases. Am Anthropol 102:741 –761.
+Bonner JT. 1980. The evolution of culture in animals. Princeton:
+Princeton University Press.
+Byrne RW. 1994. The evolution of intelligence. In: Slater PJB,
+Halliday TR, editors. Behaviour and evolution. Cambridge:
+Cambridge University Press. p 223 –265.
+Byrne RW. 1996. The misunderstood ape: cognitive skills of the
+gorilla. In: Russon AE, Bard KA, Parker ST, editors. Reaching
+into thought: the minds of the great apes. Cambridge: Cam-
+bridge University Press. p 111 –130.
+Chapman CA, Fedigan LM. 1990. Dietary differences between
+neighboring Cebus capucinus groups: local traditions, food
+availability, or response to food pro ﬁtability? Folia Primatol
+(Basel) 54:177–186.
+Chapman C, Chapman L, Glander K. 1989. Primate populations
+in northwestern Costa Rica: potential for recovery. Biotropica
+21:148–152.
+Chevalier-Skolnikoff S. 1990. Tool use by wild Cebus monkeys at
+Santa Rosa National Park, Costa Rica. Primates 31:375 –383.
+Coussi-Korbel S, Fragaszy DM. 1995. On the relation between
+social dynamics and social learning. Anim Behav 50:1441 –
+1453.
+Custance D, Whiten A, Fredman T. 1999. Social learning of an
+artiﬁcial fruit task in capuchin monkeys (Cebus apella). J Comp
+Psychol 113:13–23.
+de Waal FBM, Luttrell LM, Canﬁeld ME. 1993. Preliminary data
+on voluntary food sharing in brown capuchin monkeys. Am J
+Primatol 29:73–78.
+Fedigan LM, Rose LM, Avila RM. 1996. See how they grow:
+tracking capuchin monkey populations in a regenerating Costa
+Rican dry forest. In: Norconck M, Rosenberger A, Garber P,
+editors. Adaptive radiations of neotropical primates. New York:
+Plenum Press. p 289 –307.
+Fernandes MEB. 1991. Tool use and predation of oysters ( Cras-
+sostrea rhizophorea ) by the tufted capuchin, Cebus apella
+apella, in brackish water mangrove swamp. Primates 32:529 –
+531.
+Fox EA, Sitompul AF, van Schaik CP. 1998. Intelligent tool use in
+wild Sumatran orangutans. In: Parker ST, Mitchell RW, Miles
+RL, editors. The mentality of gorillas and orangutans: compar-
+ative perspectives. Cambridge: Cambridge University Press. p
+99–116.
+Fragaszy DM, Adams-Curtis LE. 1991. Generative aspects of
+manipulation in tufted capuchin monkeys ( Cebus apella ).
+J Comp Psychol 105:387 –397.
+Fragaszy DM, Bard K. 1997. Comparison of development and life
+history in Pan and Cebus. Int J Primatol 18:683 –701.
+Fragaszy DM, Boinski S. 1995. Patterns of individual diet choice
+and efﬁciency of foraging in wedge-capped capuchin monkeys
+(Cebus olivaceus). J Comp Psychol 109:339 –348.
+Fragaszy DM, Visalberghi E. 1989. Social in ﬂuences on the ac-
+quisition and use of tools in tufted capuchin monkeys ( Cebus
+apella). J Comp Psychol 103:159 –170.
+Fragaszy DM, Visalberghi E. 1990. Social processes affecting the
+appearance of innovative behaviors in capuchin monkeys. Folia
+Primatol (Basel) 54:155–165.
+Fragaszy DM, Visalberghi E. 1996. Social learning in monkeys:
+primate “primacy” reconsidered. In: Heyes CM, Galef BG, edi-
+tors. Social learning in animals: the roots of culture. San Diego:
+Academic Press. p 65 –84.
+Fragaszy DM, Robinson J, Visalberghi E. 1990. Variability and
+adaptability in the genusCebus. Folia Primatol (Basel) 54:113–
+118.
+Frankie GW, Baker HG, Opler PA. 1974. Comparative phenolog-
+ical studies of trees in tropical wet and dry forests in the
+lowlands of Costa Rica. J Ecol 62:881 –919.
+Frankie GW, Vinston SB, Newstrom LE, Barthell JF. 1988. Nest
+site and habitat preferences of Cintris bees in the Costa Rican
+dry forest. Biotropica 20:301 –310.
+Galef BG. 1992. The question of animal culture. Hum Nat 3:157–
+178.
+Gibson KR. 1986. Cognition, brain size and the extraction of
+embedded food resources. In: Else JG, Lee PC, editors. Primate
+ontogeny, cognition and social behaviour. Cambridge: Cam-
+bridge University Press. p 93 –103.
+64 M.A. PANGER ET AL.
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 14
+Gibson KR. 1990. Tool use, imitation, and deception in a captive
+cebus monkey. In: Parker ST, Gibson KR, editors. “Language”
+and intelligence in monkeys and apes. Cambridge: Cambridge
+University Press. p 205 –218.
+Goodall J. 1964. Tool-using and aimed throwing in a community
+of free-living chimpanzees. Nature 201:1264 –1266.
+Goodall J. 1986. The chimpanzees of Gombe: patterns of behavior.
+Cambridge, MA: Belknap Press of Harvard University. p 673.
+Hall KRL. 1963. Observational learning in monkeys and apes.
+Br J Psychol 54:201 –226.
+Hartshorn GS. 1983. Plants. In: Janzen DH, editor. Costa Rican
+natural history. Chicago: University of Chicago Press. p 118 –
+157.
+Heyes CM. 1993. Imitation, culture, and cognition. Anim Behav
+46:999–1010.
+Heyes CM. 1998. Theory of mind in nonhuman primates. Behav
+Brain Sci 21:101–114.
+Huffman MA. 1996. Acquisition of innovative cultural behaviors
+in nonhuman primates: a case study of stone handling, a so-
+cially transmitted behavior in Japanese macaques. In: Heyes
+CM, Galef BG, editors. Social learning in animals: the roots of
+culture. San Diego: Academic Press. p 267 –289.
+Inoue-Nakamura N, Matsuzawa T. 1997. Development of stone
+tool use by wild chimpanzees (Pan troglodytes). J Comp Psychol
+111:159–173.
+Itani J. 1958. On the acquisition and propagation of new food
+habits in the troop of Japanese monkeys at Takasakiyama.
+Primates 1:84 –98.
+Izawa K, Mizuno A. 1977. Palm-fruit cracking behavior of wild
+black-capped capuchin (Cebus apella). Primates 18:773–792.
+Jalles-Filho E. 1995. Manipulative propensity and tool use in
+capuchin monkeys. Curr Anthropol 36:664 –667.
+Janzen D, editor. 1983. Costa Rican natural history. Chicago:
+University of Chicago Press.
+Kawamura S. 1959. The process of subculture propagation among
+Japanese macaques. Primates 2:43 –60.
+Klu¨ver H. 1933. Behavior mechanisms in monkeys. Chicago: Uni-
+versity of Chicago Press.
+Langer J. 2000. The descent of cognitive development. Dev Sci
+3:361–379, 385–388.
+Lefebvre L, Palameta B. 1988. Mechanisms, ecology, and popu-
+lation difussion of socially learned, food- ﬁnding behavior in
+feral pigeons. In: Zentall T, Galef BG, editors. Social learning:
+psychological and biological perspectives. Hillsdale, NJ: Erl-
+baum. p 141–164.
+MacKinnon KC. 1995. Age differences in foraging patterns and
+spatial associations of white-faced capuchin monkeys ( Cebus
+capucinus) in Costa Rica. M.A. thesis. Department of Anthro-
+pology, University of Alberta.
+Matsuzawa T, Yamakoshi G. 1996. Comparison of chimpanzee
+material culture between Bossou and Nimba, West Africa. In:
+Russon AE, Bard KA, Parker ST, editors. Reaching into
+thought: the minds of the great apes. Cambridge: Cambridge
+University Press. p 211 –232.
+McGrew WC. 1992. Chimpanzee material culture: implications
+for human evolution. Cambridge: Cambridge University Press.
+McGrew WC. 1993. The intelligent use of tools: twenty proposi-
+tions. In: Gibson KR, Ingold T, editors. Tools, language and
+cognition in human evolution. Cambridge: Cambridge Univer-
+sity Press. p 151 –170.
+McGrew WC. 1998. Culture in nonhuman primates? Annu Rev
+Anthropol 27:301–328.
+McGrew WC, Marchant LF. 1997. Using the tools at hand: man-
+ual laterality and elementary technology inCebus spp. and Pan
+spp. Int J Primatol 18:787 –810.
+Mundinger PC. 1980. Animal cultures and a general theory of
+cultural evolution. Ethol Sociobiol 1:183 –223
+Nishida T. 1987. Local traditions and cultural transmission. In:
+Smuts BB, Seyfarth RM, Wrangham RW, Struhsaker TT, edi-
+tors. Primate societies. Chicago: University of Chicago Press. p
+462–474.
+Ottoni EB, Mannu M. 2001. Semi-free ranging tufted capuchin
+monkeys (Cebus apella) spontaneously use tools to crack open
+nuts. Int J Primatol.
+Panger MA. 1997. Hand preference and object-use in free-ranging
+white-faced capuchins ( Cebus capucinus) in Costa Rica. Ph.D.
+thesis. University of California, Berkeley.
+Panger MA. 1998. Object-use in free-ranging white-faced capu-
+chins (Cebus capucinus) in Costa Rica. Am J Phys Anthropol
+106:311–321.
+Panger MA. 1999. Capuchin object manipulation. In: Dolhinow P,
+Fuentes A, editors. The nonhuman primates. Mountain View,
+CA: Mayﬁeld Publishing Co. p 115 –120.
+Parker ST. 1990. Why big brains are so rare: energy costs of
+intelligence and brain size in anthropoid primates. In: Parker
+ST, Gibson KR, editors. “Language” and intelligence in mon-
+keys and apes. New York: Cambridge University Press. p 129–
+154.
+Parker ST. 1996. Apprenticeship in tool-mediated extractive for-
+aging: The origins of imitation, teaching, and self-awareness in
+great apes. In: Russon AE, Bard KA, Parker ST, editors. Reach-
+ing into thought: the minds of the great apes. Cambridge:
+Cambridge University Press. p 348 –370.
+Parker ST, Gibson KR. 1977. Object manipulation, tool use and
+sensorimotor intelligence as feeding adaptations inCebus mon-
+keys and great apes. J Hum Evol 6:623 –641.
+Parker ST, McKinney ML. 1999. Origins of intelligence: the evo-
+lution of cognitive development in monkeys, apes, and humans.
+Baltimore: Johns Hopkins University Press.
+Perry S, Rose LM. 1994. Begging and transfer of coati meat by
+white-faced capuchin monkeys, Cebus capucinus. Primates 35:
+499–415.
+Perry S, Baker M, Fedigan L, Gros-Louis J, Jack K, MacKinnon
+KC, Manson J, Panger M, Pyle K, Rose L. In preparation. Social
+Conventions in Wild C. capucinus.
+Phillips KA. 1998. Tool use in wild capuchin monkeys ( Cebus
+albifrons trinitatis). Am J Primatol 46:259 –261.
+Rettenmeyer CW. 1983. Eciton burchelli and other army ants
+(Hormiga arriera, army ants). In: Janzen D, editor. Costa Rican
+natural history. Chicago: University of Chicago Press. p 716 –
+718.
+Rose LM. 1994. Sex differences in diet and foraging behavior in
+white-faced capuchins, Cebus capucinus. Int J Primatol 15:63–
+82.
+Rose LM. 1998. Behavioral ecology of white-faced capuchins ( Ce-
+bus capucinus) in Costa Rica. Ph.D. thesis. Washington Uni-
+versity, St. Louis.
+Russon AE. 1996. Imitation in everyday use: matching and re-
+hearsal in the spontaneous imitation of rehabilitant orangu-
+tans (Pongo pygmaeus). In: Russon AE, Bard KA, Parker ST,
+editors. Reaching into thought: the minds of the great apes.
+Cambridge: Cambridge University Press. p 152 –176.
+Russon AE, Galdikas BMF. 1992. Imitation in ex-captive oran-
+gutans (Pongo pygmaeus). J Comp Psychol 107:147 –161.
+Sakura O, Matsuzawa T. 1991. Flexibility of wild chimpanzee
+nut-cracking behavior using stone hammers and anvils: an
+experimental analysis. Ethology 87:237 –248.
+Struhsaker T, Leland L. 1977. Palm-nut smashing by Cebus
+apella in Columbia. Biotropica 9:124 –126.
+Sugiyama Y. 1993. Local variation of tools and tool use among
+wild chimpanzee populations. In: Berthelet A, Chavaillon J,
+editors. The use of tools by human and non-human primates.
+Oxford: Claredon Press. p 175 –187
+Sugiyama Y. 1997. Social tradition and the use of tool-composites
+by wild chimpanzees. Evol Anthropol 6:23 –27.
+Terborgh J. 1983. Five New World primates: a study in compar-
+ative ecology. Princeton: Princeton University Press.
+Tomasello M. 1990. Cultural transmission in the tool use and
+communicatory signaling of chimpanzees? In: Parker ST, Gib-
+son KR, editors. “Language” and intelligence in monkeys and
+apes: comparative developmental perspectives. Cambridge:
+Cambridge University Press. p 274 –311.
+Urbani B. 1999. Spontaneous use of tools by wedge-capped capu-
+chin monkeys (Cebus olivaceus). Folia Primatol (Basel) 70:172–
+174.
+van Schaik CP, Fox EA, Sitompul AF. 1996. Manufacture and use
+of tools in wild Sumatran orangutans: implications for human
+evolution. Naturwissenschaften 83:186 –188.
+VARIATION IN CAPUCHIN FORAGING BEHAVIOR 65
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 15
+van Schaik CP, Deaner RO, Merrill MY. 1999. The conditions for
+tool use in primates: implications for the evolution of material
+culture. J Hum Evol 36:719 –741.
+Visalberghi E. 1987. Acquisition of nut-cracking behaviour by 2
+capuchin monkeys ( Cebus apella ). Folia Primatol (Basel) 49:
+168–181.
+Visalberghi E. 1988. Responsiveness to objects in two social
+groups of tufted capuchin monkeys ( Cebus apella). Am J Pri-
+matol 15:349 –360.
+Visalberghi E. 1990. Tool use in Cebus. Folia Primatol (Basel)
+54:146–154.
+Visalberghi E. 1997. Success and understanding in cognitive
+tasks: a comparison between Cebus apella and Pan troglodytes.
+Int J Primatol 18:811 –830.
+Visalberghi E, Fragaszy DM. 1990. Do monkeys ape? In: Parker
+ST, Gibson KR, editors. “Language” and intelligence in mon-
+keys and apes: comparative developmental perspectives. Cam-
+bridge: Cambridge University Press. p 247 –273.
+Visalberghi E, Limongelli L. 1996. Acting and understanding:
+tool use revisted through the minds of capuchin monkeys. In:
+Russon AE, Bard KA, Parker ST, editors. Reaching into
+thought: the minds of the great apes. Cambridge: Cambridge
+University Press. p 57 –79.
+Visalbeghi E, McGrew WC. 1997. Cebus meets Pan. Int J Prima-
+tol 18:677–681.
+Visalberghi E, Trinca L. 1989. Tool use in capuchin monkeys:
+distinguishing between performing and understanding. Pri-
+mates 30:511–521.
+Visalberghi E, Vitale AF. 1990. Coated nuts as an enrichment
+device to elicit tool use in tufted capuchins ( Cebus apella). Zoo
+Biol 9:65–71.
+Wanatabe K. 1994. Precultural behavior of Japanese macaques:
+longitudinal studies of the Koshima troops. In: Gardner RA,
+Gardner BT, Chiarelli B, Plooij FX, editors. The ethological
+roots of culture. Dordrecht: Kluwer. p 81 –94.
+Westergaard GC. 1995. The stone-tool technology of capuchin
+monkeys: possible implications for the evolution of symbolic
+communication in hominids. World Archaeol 27:1 –9.
+Westergaard GC, Fragaszy DM. 1987. The manufacture and use
+of tools by capuchin monkeys ( Cebus apella). J Comp Psychol
+101:159–168.
+Westergaard GC, Suomi SJ. 1993a. Use of a tool-set by capuchin
+monkeys (Cebus apella). Primates 34:459 –462.
+Westergaard GC, Suomi SJ. 1993b. Hand preference in the use of
+nut-cracking tools by tufted capuchin monkeys ( Cebus apella).
+Folia Primatol (Basel) 61:38 –42.
+Westergaard GC, Suomi SJ. 1994a. Aimed throwing of stones by
+tufted capuchin monkeys (Cebus apella). Hum Evol 9:323–329.
+Westergaard GC, Suomi SJ. 1994b.The use and modi ﬁcation of
+bone tools by capuchin monkeys. Curr Anthropol 35:75 –77.
+Westergaard GC, Suomi SJ. 1994c. Asymmetrical manipulation
+in the use of tools by tufted capuchin monkeys ( Cebus apella).
+Folia Primatol (Basel) 63:96 –98.
+Westergaard GC, Suomi SJ. 1995. The manufacture and use of
+bamboo tools by monkeys: possible implications for the devel-
+opment of material culture among East Asian hominids. J
+Archaeol Sci 22:677–681.
+Westergaard GC, Suomi SJ. 1997. Transfer of tools and food
+between groups of tufted capuchins ( Cebus apella). Am J Pri-
+matol 43:33–41.
+Westergaard GC, Greene JA, Babitz MA, Suomi SJ. 1995. Pestle
+use and modiﬁcation by tufted capuchins ( Cebus apella). Int J
+Primatol 16:643–651.
+Westergaard GC, Lundquist AL, Kuhn HE, Suomi SJ. 1997.
+Ant-gathering with tools by captive tufted capuchins ( Cebus
+apella). Int J Primatol 18:95 –103.
+Whiten A. 1989. Transmission mechanism in primate cultural
+evolution. Trends Ecol Evol 4:61 –62.
+Whiten A. 1996. Imitation, pretense, and mindreading: secondary
+representation in comparative primatology and developmental
+psychology? In: Russon AE, Bard KA, Parker ST, editors.
+Reaching into thought: the minds of the great apes. Cambridge:
+Cambridge University Press. p. 300 –324.
+Whiten A, Ham R. 1992. On the nature and evolution of imitation
+in the animal kingdon: reappraisal of a century of research. In:
+Slater PJB, Rosenblatt JS, Beer C, Milinski M, editors. Ad-
+vances in the study of behavior, volume 21. San Diego: Aca-
+demic Press. p 239 –283.
+Whiten A, Goodall J, McGrew WC, Nishida T, Reynolds V, Sug-
+iyama Y, Tutin CEG, Wrangham RW, Boesch C. 1999. Cultures
+in chimpanzees. Nature 399:682 –685.
+Wolfe LD. 1981. Display behavior in three troops of Japanese
+macaques (Macaca fuscata). Primates 22:24 –32.
+66 M.A. PANGER ET AL.
+ 10968644, 2002, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.10103 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

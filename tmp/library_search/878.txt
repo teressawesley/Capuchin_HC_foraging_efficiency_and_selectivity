@@ -1,0 +1,1098 @@
+PDF PAGE 1
+Behavioral 
+Ecology
+The official journal of  the
+ISBE
+International Society for Behavioral Ecology
+Behavioral Ecology (2021), 32(4), 599–608. doi:10.1093/beheco/arab001
+ 
+Address correspondence to A. N. DePasquale. E-mail: allegra.depasquale@
+ucalgary .ca; A. D. Melin. E-mail: amanda.melin@ucalgary .ca 
+© The Author(s) 2021. Published by Oxford University Press on behalf  of  the International Society for Behavioral Ecology . 
+All rights reserved. For permissions, please e-mail: journals.permissions@oup.com
+Original Article
+Testing the niche differentiation hypothesis 
+in wild capuchin monkeys with polymorphic 
+color vision
+Allegra N. DePasquale,a,  Shasta E. Webb,a Rachel E. Williamson,a Linda M. Fedigan,a and 
+Amanda D. Melina,b,  
+aDepartment of Anthropology and Archaeology, University of Calgary, 2500 University Dr NW, Calgary, 
+AB T2N 1N4, Canada and bDepartment of Medical Genetics, Cumming School of Medicine, University 
+of Calgary, 3330 Hospital Dr NW, Calgary, AB T2N 4N1, Canada
+Received 2 July 2020; revised 15 November 2020; editorial decision 6 January 2021; accepted 12 January 2021; Advance Access publication 22 March 2021.
+The polymorphic color vision system present in most North, Central, and South American monkeys is a textbook case of balancing 
+selection, yet the mechanism behind it remains poorly understood. Previous work has established task-specific foraging advantages 
+to different color vision phenotypes: dichromats (red-green colorblind) are more efficient foraging for invertebrates, while trichromats 
+(color “normal” relative to humans) are more efficient foraging for “reddish” ripe fruit, suggesting that niche differentiation may un-
+derlie the maintenance of color vision variation. We explore a prediction of the niche differentiation hypothesis by asking whether 
+dichromatic and trichromatic capuchin monkeys (Cebus imitator) diverge in their foraging activity budget, specifically testing whether 
+dichromats forage more frequently for invertebrates and trichromats forage more frequently for “reddish” ripe fruit. To assess this, 
+we analyze a large data set of behavioral scan samples (n = 21 984) from 48 wild adult female capuchins of known color vision geno-
+type, dominance rank, and reproductive status, together with models of food conspicuity. We find no significant differences between 
+dichromats and trichromats in the frequency of scans spent foraging for different food types but do find that nursing females forage 
+less overall than cycling females. Our results suggest that the potential for color-vision-based niche differentiation in foraging time 
+may be curtailed by the energetic requirements of reproduction, behavioral synchrony caused by group living, and/or individual pref-
+erences. While niche differentiation in activity budgets by color vision type is not apparent, fine-scale niche differentiation may be 
+occurring. This research enhances our understanding of the evolutionary processes maintaining sensory polymorphisms.
+Key words:  activity budgets, balanced polymorphism, balancing selection, foraging ecology, opsin gene, sensory ecology
+INTRODUCTION
+Balancing selection plays an important role in preserving pheno-
+typic diversity within populations, which can lead to the persistence 
+of  genetic polymorphisms over long stretches of  time. Examples 
+span a wide variety of  taxa and include the major histocompat-
+ibility complex in vertebrates (Hedrick 1998) and complemen-
+tary sex determinism in hymenopterans (Cho et  al. 2006). These 
+polymorphisms can be maintained through at least four major 
+processes: 1)  heterozygote advantage, in which heterozygotes 
+have higher fitness than homozygotes; 2)  frequency dependence, 
+in which the fitness of  a phenotype is linked to its prevalence in 
+a population; 3)  mutual benefit of  association, in which different 
+phenotypes benefit from associating with one another; and 4) niche 
+differentiation, in which each phenotype occupies a distinct eco-
+logical niche, thereby increasing the fitness of  distinct phenotypes 
+by decreasing competition (Hartl and Clark 1997; Hedrick 2006; 
+Llaurens et al. 2017). Understanding the processes of  balancing se-
+lection contributes to our understanding of  adaptive variation—a 
+major goal common to  biological subfields. However, our under -
+standing as to how these mechanisms function to maintain genetic 
+polymorphisms in wild animal populations remains limited.
+We can improve our understanding of  balancing selection by 
+investigating systems where the variation is straightforward and 
+well characterized. The polymorphic color vision system of  mon-
+keys in the Americas (Infraorder Platyrrhini) meets both criteria 
+and is a well-suited system in which to investigate how balancing 
+selection operates (Kawamura et al. 2012; Brent and Melin 2014). 
+Multiple variants of  the gene underlying red-green color vision are 
+widespread in platyrrhines (Mollon et al. 1984; Jacobs 1998, 2009; 
+V orobyev 2004). In this system, individuals within the same species 
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 2
+Behavioral Ecology
+and social group may differ in color vision due to the presence of  
+a single, polymorphic, middle–long-wave sensitive (M/LWS) opsin 
+gene located on the X chromosome. When combined with the auto-
+somal short-wave sensitive (S) opsin (Jacobs 2008), the result is par -
+tially sex-linked trichromacy: heterozygous females are trichromats, 
+while homozygous females and all males are dichromats—effec-
+tively red-green colorblind. This system has persisted over deep 
+evolutionary time in most platyrrhine genera. The longstanding 
+persistence of  this opsin variation, its existence in diverse branches 
+of  the platyrrhines, and genetic evidence of  balancing selection on 
+opsin genes (Hiwatashi et al. 2010) suggest that it is adaptive and 
+actively maintained by natural selection. The exact mechanism, 
+however, has been the subject of  considerable debate.
+For years, the heterozygote advantage hypothesis was con-
+sidered the most likely mechanism maintaining color vision pol-
+ymorphism in platyrrhines. It posits that opsin variation persists 
+due to overdominance by heterozygote (trichromatic) females, that 
+is, that trichromats are better suited to their environment than are 
+dichromats (Mollon et  al. 1984). Direct tests of  this hypothesis, 
+however, have yielded mostly equivocal or unsupportive results 
+(V ogel et al. 2007; Melin et al. 2009; Fedigan et al. 2014; but see 
+Green 2014), highlighting the need to investigate other hypoth-
+eses. The niche differentiation hypothesis posits that each color vi-
+sion phenotype occupies a distinct foraging niche in their shared 
+environment; niche differentiation would allow for higher fitness 
+of  all phenotypes by reducing intragroup feeding competition, ul-
+timately leading to the persistence of  allelic variation as each color 
+vision phenotype occupies a distinct fitness peak according to their 
+visual ecology . The possibility of  niche differentiation as a mech-
+anism maintaining polymorphic color vision was suggested first 
+by Mollon et  al. (1984), who hypothesized that niche specializa-
+tion may occur via habitat partitioning. In later iterations of  this 
+hypothesis, research groups, including Jacobs (1994), Regan et  al. 
+(2001), and Osorio et al. (2004), among others, have suggested that 
+dichromats and trichromats may specialize on different food re-
+sources due to phenotype-specific differences in foraging efficiency , 
+which may lead to frequency-dependent selection or niche differ -
+entiation. Such polymorphic resource specialization, in which dif-
+ferent morphs within the same species utilize different resources, 
+can be found in diverse vertebrate taxa, including African finches 
+(Smith 1987), Cocos finches (Werner and Sherry 1987), Arctic 
+charr (Snorrason et  al. 1994), and tiger salamanders (Whiteman 
+et al. 1996). Intriguingly , evidence of  task-specific foraging advan-
+tages in wild platyrrhines based on color vision type (Melin et  al. 
+2007, 2017) may set the stage for niche differentiation in activity 
+budget if  time allocation to different food types follows detection or 
+selection advantages.
+Previous work in both wild and captive settings has shown that 
+dichromatic and trichromatic platyrrhines have task-specific advan-
+tages in foraging efficiency . Trichromatic monkeys have higher ef-
+ficiency for reddish (conspicuous) food items, including many red, 
+orange and yellow fruit and flowers (Smith et al. 2003; Melin et al. 
+2017; Hogan et al. 2018), while dichromats have higher efficiency 
+in capturing surface-dwelling invertebrates (Melin et  al. 2007; 
+Caine et  al. 2010; Smith et  al. 2012), likely due to an advantage 
+of  red-green colorblindness in breaking camouflage (Morgan et al. 
+1992). Expanding on this, an analysis of  capuchin dietary fruit 
+color finds 70–80% of  the frugivorous diet is modeled to be dis-
+criminable to trichromats, while less than a third is discriminable 
+to dichromats (Melin, Hiramatsu, et  al. 2014). Such task-specific 
+foraging advantages could enable color vision polymorphism to be 
+maintained via niche differentiation if, for example, if  dichromats 
+and trichromats  forage predominantely on disparate food items. 
+The only study to date to investigate color-vision-based niche differ-
+entiation found no evidence of  niche differentiation in gross-scale 
+foraging time, though small sample size and subjective fruit clas-
+sification may have limited the results (Melin et  al. 2008). Given 
+recent evidence of  fine-scale niche differentiation in a diverse array 
+of  other animal taxa, including Arctic charr (Hawley et al. 2016), 
+tree lizards (Lattanzio and Miles 2016), and African cichlids (Ford 
+et al. 2016), this hypothesis warrants further attention.
+Here, we use a large, multiyear data set of  behavioral scan data 
+from wild, adult female white-faced capuchins, combined with the 
+quantitative classification of  fruit conspicuity to assess the influence 
+of  color vision phenotype on foraging activity budgets. Differences 
+in activity budgets may emerge from differences in foraging effi-
+ciency in at least two ways. First, individuals may spend more time 
+on tasks for which they are less efficient in order to achieve suffi-
+cient intake of  this resource type (resource limitation). Second, in-
+dividuals may spend more time engaging in tasks for which they 
+are more efficient in order to maximize energy and/or nutrient 
+gain (niche specialization). A  third option is that activity budgets 
+do not vary by color vision type, perhaps due to constraints asso-
+ciated with movement, group cohesion, social dominance, or phys-
+iological demands. For example, reproductive status and social 
+dominance have been shown to influence primate foraging patterns 
+(Hemingway 1999; V ogel 2005; McCabe and Fedigan 2007). We 
+predict that monkeys with different color vision phenotypes will en-
+gage more frequently in the foraging activities for which they are 
+more efficient (niche specialization hypothesis). Specifically , we 
+predict that dichromats will forage more frequently for surface-
+dwelling, camouflaged invertebrates (P1) and trichromats will 
+forage more frequently for conspicuous fruits (P2), reflecting their 
+higher efficiencies for these food types.
+MATERIALS AND METHODS
+Study site
+We conducted research in Sector Santa Rosa (SSR), Área de 
+Conservación Guanacaste, Costa Rica. SSR is a UNESCO World 
+Heritage Site (10°45’ to 11°00’ N and 85°30’ to 85° 45’ W). This 
+site is in the northwestern part of  the country , near the Nicaraguan 
+border and the city of  Liberia, the capital of  Guanacaste province. 
+SSR consists of  highly seasonal tropical dry forest. Most annual 
+rain (800–2600  mm) falls during a cool, wet season lasting from 
+May until December. This is followed by a hot, dry season with 
+widespread defoliation from January until April. Temperatures 
+peak around 34 °C during the late dry season. Fruit abundance is 
+also highly seasonal at this site, reaching its lowest from October to 
+March (Carnegie, Fedigan, and Melin 2011).
+Study animals
+White-faced capuchins (Cebus imitator) are medium (3–5 kg), omniv-
+orous primates that live in multimale, multifemale groups of  12–35 
+individuals (Fedigan and Jack 2001; Fedigan and Jack 2011; Perry 
+et  al. 2012; Melin et  al. 2020). Capuchin diets are highly diverse 
+and consist of  anywhere from 20% to 85% fruits and 25% to 60% 
+invertebrates, including caterpillars, grasshoppers, and cockroaches 
+(Y oung 2005; Melin et al. 2008). White-faced capuchins are known 
+for their complex foraging techniques  and relatively large brains 
+600
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 3
+DePasquale et al. • Testing color-vision-based niche differentiation in capuchins
+(Melin, Y oung, et al. 2014). The Santa Rosa capuchins have been 
+studied for >35 years and are well habituated and individually rec-
+ognizable (Fedigan and Jack 2012; Melin, et  al. 2020). Like most 
+other platyrrhine primates, white-faced capuchins have allelic 
+trichromacy . In this species, three opsin alleles with different peak 
+sensitivities are present at the M/LWS locus: 532 (green sensi-
+tive), 543 (yellow sensitive), and 561 (red sensitive; Hiramatsu et al. 
+2005). All individuals in this study population have been geno-
+typed, and all observers were unaware of  individual color vision 
+phenotypes at the time of  data collection (Melin, Hiramatsu, et al. 
+2014). Of  our 152 genotyped individuals, 109 are dichromats and 
+43 are trichromats. To remove confounding variation due to age 
+and sex, we analyze data from the 48 genotyped adult females: 17 
+dichromats and 31 trichromats. Color vision phenotype and geno-
+type breakdowns for adult females by group are shown in Table 1; 
+we have only one dichromatic phenotype in our adult female pop-
+ulation—the red-shifted (561) phenotype.
+Behavioral data collection
+Data for this project were collected during by four researchers over 
+11 years: 2007–2008 (A.D.M.), 2016 (S.E.W .), 2017 (R.E.W .), and 
+2018 (S.E.W .) during all-day (dawn to dusk) follows. Our data set 
+spans wet and dry seasons approximately equally . Data were col-
+lected from four social groups in 2007–2008 (Guanacaste [GN], 
+Los Valles [LV], Exclosure [EX], and Cerco de Piedro [CP]) and 
+four social groups in 2016–2018 (GN, LV , AD, and RM). AD and 
+RM resulted from a fission event of  CP group in 2013. We report 
+data for all adult females across these groups (n = 48). We used 
+instantaneous scan sampling to record the behavior of  all visible 
+individuals every 30 min within a 10-min window . Foraging be-
+haviors include both feeding and searching; invertebrate foraging 
+is distinguished from fruit foraging by the context of  the behavior 
+(i.e., in a fruiting tree or not) as well as by the behaviors themselves: 
+investigating leaves and bark while moving through the environ-
+ment at a moderate pace is indicative of  invertebrate foraging, 
+while scanning the nearby branches in a fruit patch is indicative 
+of  fruit foraging (Supplementary Table 1). For feeding, we also 
+recorded the relevant taxon and part being consumed (Altmann 
+1974; Melin et  al. 2018). To examine possible confounds of  re-
+productive status and dominance, we classified all adult females 
+as pregnant, nursing, or cycling by back calculating from known 
+births, assuming a 158-day gestation period and a year of  lacta-
+tion, following Carnegie, Fedigan, and Ziegler (2011). Lactation 
+records were cross-validated by notes on infant suckling behavior. 
+If  an infant disappeared within the first year of  life, we assumed 
+the cessation of  lactation and resumption of  cycling. We calculated 
+dominance using rankings of  mature individuals (≥6  years old) 
+collected collaboratively by the Santa Rosa Primate Field Project 
+year-round. Rankings are based on the frequency and direction 
+of  agonistic interactions between dyads in the same group; males 
+and females are ranked separately (Bergstrom and Fedigan 2010). 
+Ranks were scaled between 1 and 0 to account for group size differ-
+ences, and these were converted to an ordinal variable (Levy et al. 
+2020) with the levels low (scaled rank ≤0.33), mid (scaled rank be-
+tween 0.34 and 0.66), and high (scaled rank >0.66) to account for 
+the relatively relaxe dominance hierarchies characteristic of  this 
+species (Bergstrom and Fedigan 2010).
+To classify color conspicuity of  different fruits (n = 64 species) as 
+conspicuous only to trichromats, conspicuous to both trichromats 
+and the red-shifted dichromatic phenotype, cryptic to all pheno-
+types, or dark, we used fruit reflectance data and capuchin visual 
+space color models (Melin, Hiramatsu, et  al. 2014; Melin et  al. 
+2017). We use reflectance spectrometry methods and capuchin-
+specific color space models that allow us to objectively classify fruits 
+as cryptic or conspicuous to color vision phenotypes of  Cebus im-
+itator rather than subjective classifications based on the human 
+visual system. A fourth category , “dark,” consists of  fruits that are 
+similarly visible to both dichromat and trichromat phenotypes due 
+to strong luminance contrasts. Detailed methods are provided in 
+Melin, Hiramatsu, et  al. (2014) and Melin et  al. (2017). In brief, 
+we measured reflectance spectra of  five ripe fruits of  each fruit spe-
+cies, as well as surrounding upper and lower leaves, using a port-
+able spectrometer, together with irradiance spectra collected in the 
+forest. Reflectance spectra across individual fruits were averaged 
+before calculating species chromaticity values. Variation around 
+the species mean for fruits and for leaves was low (standard devi-
+ation ranged from 0.0004 to 0.11 across fruits) and did not affect 
+conspicuity categorization, that is, each individual fruit of  a given 
+species would have been assigned the same chromaticity category . 
+These spectra were used to calculate chromaticity values—modeled 
+as the ratio of  quantum catches for the different L, M, and S al-
+leles found in our study population. Chromaticity values were as-
+sessed under a “forest shade” illuminant. Given the phenomenon 
+of  color constancy in vertebrate visual systems and consistency of  
+the color contrast of  fruits and leaves across different illuminants 
+(e.g., open, shaded, and closed canopy) in Santa Rosa, we do not 
+anticipate the diurnal illuminant used to strongly affect our re-
+sults (Neumeyer 1998; Ebner 2007; Melin, Hiramatsu, et al. 2014; 
+Melin et al. 2017). A machine-learning approach was then used to 
+determine if  simulated trichromat and dichromat phenotypes could 
+accurately discriminate between fruits and leaves, thus eliminating 
+any human bias or a priori cutoff values. For two species, Cissus 
+verticillata and Paullinia cururu, reflectance data were not available. 
+Table 1
+Frequency of  each genotype and phenotype by social group of  adult female white-faced capuchins in SSR, Costa Rica. λ max refers to 
+the peak wavelength sensitivities of  each M/LWS cone. Because this analysis only includes females, two M/LWS alleles are present. 
+Only one dichromatic genotype (red shifted, RR) is found in our adult female study population. Due to a group fission event that 
+occurred after the 2007–2008 season, three individuals from CP group occur in multiple study groups: two in RM, and one in AD
+Frequency per group
+Peak sensitivity (λ max) of  cone photopigment(s) Genotype Phenotype AD CP EX GN LV RM
+532–561 (Widest separation) GR Trichromat 5 0 1 6 2 4
+532–543 (Green shifted) GY Trichromat 0 0 1 3 2 0
+543–561 (Red shifted) RY Trichromat 0 0 1 2 4 0
+561–561 (Red shifted) RR Dichromat 2 6 0 5 3 4
+601
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 4
+Behavioral Ecology
+We classified these species with fruits that appear visually similar to 
+human trichromacy and for which we do have data (Table 2).
+Unfortunately , methods of  estimating color conspicuity and 
+crypsis are not readily transferable from fruits to invertebrates. 
+While some exceptions may exist, we take advantage of  the fact 
+that almost all of  the palatable invertebrates eaten by primates and 
+gleaned from surfaces are well camouflaged as a defense mech-
+anism (Stevens and Merilaita 2011; Ruxton et al. 2019; Goodman 
+2020), and we classify all gleaned prey as camouflaged.
+Data analysis
+We grouped the data by rotation (n = 147), consisting of  2–5 con-
+secutive days of  data collection on the same social group. Animals 
+were excluded from the analysis if  they had less than three scan 
+records per rotation. We analyzed all data using R statistical soft-
+ware (R Core Team 2020; RStudio Team 2019) and the package 
+lme4 (Bates et al. 2015). We fit a series of  generalized linear mixed 
+models with a Poisson distribution to determine the significant pre-
+dictors, if  any , of  different foraging activities. In all models, color 
+vision phenotype, social dominance rank, and reproductive status 
+were designated as fixed effects, while monkey ID nested within 
+social group was included as a random effect. In all models, we 
+also included average maximum temperature (degree Celsius), av-
+erage minimum temperature, and average rainfall (centimeters) as 
+fixed effects to control for the pronounced seasonality characteristic 
+of  SSR, which is known to affect the behavior of  all individuals 
+(Campos and Fedigan 2009). Finally , we used log-transformed total 
+behavioral scans per monkey per rotation as an offset variable to 
+control for differences in observational effort per individual per ro-
+tation, that is, variation in how often any one animal was sampled 
+during the scan data collection for each group rotation.
+Our first model tested for differences in total foraging scans 
+(including scans recorded as visually foraging, extractive inver -
+tebrate foraging, fruit foraging, surface-dwelling invertebrate 
+foraging, and “other” foraging) by fitting a model with total 
+scans in any foraging behavior (Supplementary Table 1) as 
+the response variable and all behavioral scans recorded as the 
+offset. We then tested for differences in the frequency of  fruit 
+and invertebrate foraging behavior between color vision pheno-
+types. First, we tested for differences in total fruit foraging by 
+designating total scans fruit foraging as the response variable and 
+all behavioral scans as the offset. To evaluate whether there were 
+differences in scans devoted to gleaning surface-dwelling inverte-
+brates, we modeled number of  scans invertebrate foraging as the 
+response variable with all behavioral scans as the offset. Finally , 
+we ran a model to test for differences in the number of  scans 
+devoted to conspicuous fruit foraging, with all behavioral scans 
+as the offset. In this model, we used scans foraging for fruits that 
+are conspicuous to trichromats only as the response variable. To 
+ascertain the strength of  each fixed effect, we ran chi-square 
+tests for each model using the drop1 function in the R package 
+lme4 (Bates et al. 2015). We also computed estimated marginal 
+means for each model using the emmeans function in the R 
+package emmeans (Lenth et  al. 2020). We conducted pairwise 
+comparisons between trichromats and dichromats and included 
+a Tukey honest significant difference adjustment to account for 
+running multiple tests on the same data and used this to visu-
+alize model results. Model results are summarized in Table 3. 
+All code for these analyses can be found at https://github.com/
+allegradepasquale/scan_niche_divergence_analysis .
+Table 2
+Fruit conspicuity categorizations for 64 dietary fruits included 
+in this study . Categorizations are based on fruit reflectance and 
+subsequent chromatic discrimination modeling for each color 
+vision phenotype from Melin et al. (2014)
+Fruit taxon Family Color category
+Sciadodendron excelsum Araliaceae Dark
+Spondias mombin Anacardiaceae Conspicuous (tri only)
+Sapranthus palanga Annonaceae Cryptic
+Annona reticulata Annonaceae Conspicuous (tri only)
+Stemmadenia obovata Apocynaceae Conspicuous (both)
+Acrocomia aculeata Areacaceae Conspicuous (tri only)
+Cordia guanacastensis Boraginaceae Conspicuous (tri only)
+Cordia panamensis Boraginaceae Cryptic
+Bromelia pinguin Bromeliaceae Conspicuous (both)
+Bromelia plumieri Bromeliaceae Conspicuous (tri only)
+Bursera simaruba Burseraceae Conspicuous (tri only)
+Holocereus costaricensis Cactaceae Conspicuous (tri only)
+Hirtella racemosa Chrysobalanaceae Cryptic
+Curatella americana Dilleniaceae Conspicuous (tri only)
+Doliocarpus dentatus Dilleniaceae Conspicuous (tri only)
+Davilla kunthii Dilleniaceae Conspicuous (tri only)
+Diospyros salicifolia Ebenaceae Conspicuous (tri only)
+Sloanea terniflora Elaeocarpaceae Conspicuous (both)
+Erythroxylum havanense Erythroxylaceae Conspicuous (tri only)
+Sapium glandulosum Euphorbiaceae Conspicuous (tri only)
+Margaritaria nobilis Euphorbiaceae Cryptic
+Sebastiana pavoniana Euphorbiaceae Conspicuous (both)
+Hymanea coubaril Fabaceae Conspicuous (tri only)
+Vachellia collinsi Fabaceae Conspicuous (tri only)
+Quercus oleoides Fagaceae Cryptic
+Zuelania guidonia Flacourtiaceae Conspicuous (both)
+Casearia arguta Flacourtiaceae Conspicuous (both)
+Muntingia calabura Flacourtiaceae Conspicuous (tri only)
+Casearia sylvestris Flacourtiaceae Conspicuous (tri only)
+Byrsonima crassifolia Malpighiaceae Conspicuous (both)
+Bunchosia ocellata Malpighiaceae Conspicuous (tri only)
+Malvaviscus arboreus Malvaceae Conspicuous (tri only)
+Miconia argentea Melastomataceae Conspicuous (tri only)
+Mouriri myrtilloides Melastomataceae Dark
+Trichilia martiana Meliaceae Conspicuous (tri only)
+Trichilia glabra Meliaceae Conspicuous (both)
+Ficus cotinifolia Moraceae Conspicuous (tri only)
+Ficus hondurensis Moraceae Conspicuous (tri only)
+Ficus ovalis Moraceae Conspicuous (both)
+Maclura tinctoria Moraceae Cryptic
+Ficus goldmanii Moraceae Cryptic
+Trophis racemosa Moraceae Conspicuous (tri only)
+Ficus obtusifolia Moraceae Cryptic
+Castilla elastica Moraceae Conspicuous (tri only)
+Ficus morazaniana Moraceae Cryptic
+Psidium guajava Myrtaceae Conspicuous (tri only)
+Karwinskia calderoni Rhamnaceae Dark
+Krugiodendron ferreum Rhamnaceae Conspicuous (tri only)
+Genipa americana Rubiaceae Conspicuous (both)
+Randia monantha Rubiaceae Conspicuous (tri only)
+Guettarda macrosperma Rubiaceae Conspicuous (tri only)
+Alibertia edulis Rubiaceae Conspicuous (tri only)
+Dipterodendron costaricense Sapindaceae Conspicuous (tri only)
+Allophylus occidentalis Sapindaceae Conspicuous (tri only)
+Paullinia cururu Sapindaceae Conspicuous (tri only)
+Manilkara chicle Sapotaceae Conspicuous (tri only)
+Simarouba glauca Simaroubaceae Dark
+Guazuma ulmifolia Sterculiaceae Dark
+Jacquinia nervosa Theophrastaceae Conspicuous (both)
+Luehea candida Tiliaceae Conspicuous (tri only)
+Luehea speciosa Tiliaceae Conspicuous (tri only)
+Apeiba tibourbou Tiliaceae Conspicuous (tri only)
+Cecropia peltata Urticaceae Conspicuous (tri only)
+Cissus verticillata Vitaceae Dark
+602
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 5
+DePasquale et al. • Testing color-vision-based niche differentiation in capuchins
+RESULTS
+In total, we analyzed 21 984 individual scans for 48 adult females. 
+Color vision phenotype was not a significant predictor of  the pro-
+portion of  the activity budget devoted to foraging behavior, that is, 
+the total number of  foraging scans (χ  2 = 1.217, degrees of  freedom 
+[df] = 1, P = 0.270), or of  the total scans spent foraging for fruit, 
+controlling for all scans they were observed (χ  2 = 1.759, df  = 1, P 
+= 0.185). Contrary to our prediction, color vision phenotype was 
+not a significant variable in explaining the variation in foraging ac-
+tivity budget for surface-dwelling invertebrates (χ  2 = 0.484, df  = 
+1, P = 0.487) or conspicuous fruit (χ  2 = 1.596, df  = 1, P = 0.206). 
+Dichromats did not forage more frequently for surface-dwelling 
+invertebrates (Figure 1c) and trichromats did not forage more fre-
+quently for conspicuous fruits (Figure 1d). We computed estimated 
+marginal means for color vision phenotype, including a Tukey 
+honest significant difference test, and compared them using z-tests. 
+(Figure 1a–d).
+Reproductive status was a significant predictor of  total overall 
+foraging scans (χ  2 = 7.789, df  = 2, P = 0.020) but not of  scans re-
+corded in specific foraging activities: surface-dwelling invertebrate 
+foraging (χ  2 =3.879, df  = 2, P = 0.144), general fruit foraging (χ  2 
+= 4.120, df  = 2, P = 0.127), or conspicuous fruit foraging (χ  2 = 
+1.872, df  = 2, P = 0.392). Estimated marginal means for each re-
+productive state are shown in Figure 1e–h. Nursing females foraged 
+significantly less than cycling females (cycling–nursing: estimate = 
+0.091, standard error [SE] = 0.037, P = 0.034; nursing–pregnant: 
+estimate = −0.087, SE = 0.040, P = 0.081; pregnant–cycling: es-
+timate = 0.00515, SE = 0.0424, P = 0.9919). Social dominance 
+was not a significant predictor for three of  the four variables con-
+sidered here: total foraging (χ  2 = 1.860, df  = 2, P = 0.395); total 
+fruit foraging (χ  2 = 2.203, df  = 2, P = 0.332); and surface-dwelling 
+invertebrate foraging (χ  2 = 3.102, df  = 2, P = 0.212). However, 
+dominance category was a significant predictor of  conspicuous fruit 
+foraging (χ  2 = 12.300, df  = 2, P = 0.002). There was no difference 
+between high-, mid-, and low-ranking individuals in total foraging 
+scans, total fruit foraging, or invertebrate foraging, but high-ranking 
+individuals foraged less frequently for conspicuous fruits (high–low: 
+estimate = −0.158, SE = 0.071, P = 0.069; high–mid: −0.270, SE 
+= 0.084, P = 0.004; low–mid: estimate = −0.112, SE = 0.087, P 
+= 0.405; Supplementary Figure 1). When we ran the conspicuous 
+fruit foraging model with an interaction between dominance cate-
+gory and color vision phenotype to determine if  color vision and 
+dominance could be influencing one another, this interaction was 
+not significant (χ  2 = 1.960, df  = 2, P = 0.375). We similarly ran 
+the conspicuous fruit foraging model with an interaction between 
+reproductive status and color vision phenotype, which also was not 
+significant (χ  2 = 0.395, df  = 2, P = 0.821).
+DISCUSSION
+We predicted task-specific differences in foraging activity budgets 
+based on color vision phenotype—specifically that dichromats would 
+forage more frequently for cryptic invertebrates and trichromats 
+would forage more frequently for conspicuous resources due to pre-
+vious findings indicating a trichromat advantage when foraging for 
+conspicuous fruits and flowers, and a dichromat advantage when 
+foraging for camouflaged invertebrates (Caine and Mundy 2000; 
+Smith et  al. 2003, 2012; Melin et  al. 2007, 2017; Caine et  al. 
+2010). Contrary to our predictions, we found that dichromats and 
+trichromats did not differ in either of  these variables. These find-
+ings are consistent with past research using a far more limited data 
+set that found no broad-scale differences in capuchin foraging ac-
+cording to color vision type (Melin et al. 2008). This indicates that, 
+despite the discrete differences in invertebrate and fruit-foraging 
+Table 3
+Summary of  generalized linear mixed models predicting four variables: number of  scans spent in all foraging states, number of  
+scans spent fruit foraging, number of  scans spent surface-dwelling invertebrate foraging, and number of  scans spent conspicuous 
+fruit foraging. Asterisks denote statistical significance (P < 0.05)
+Model name Fixed effect χ  2 df P value
+Total foraging model Color vision phenotype 1.217 1 0.270
+Dominance 1.860 2 0.395
+Reproductive status 7.789 2 0.020*
+Max temperature (°C) 23.465 1 <0.001*
+Min temperature (°C) 6.166 1 0.013*
+Rainfall (cm) 3.124 1 0.077
+Total fruit foraging model Color vision phenotype 1.759 1 0.185
+Dominance 2.203 2 0.332
+Reproductive status 4.120 2 0.127
+Max temperature (°C) 7.579 1 0.006*
+Min temperature (°C) 42.779 1 <0.001*
+Rainfall (cm) 0.416 0.519
+Surface-dwelling invertebrate foraging model Color vision phenotype 0.484 1 0.487
+Dominance 3.102 2 0.212
+Reproduction 3.879 2 0.144
+Max temperature (°C) 0.071 1 0.790
+Min temperature (°C) 30.063 1 <0.001*
+Rainfall (cm) 0.203 1 0.653
+Conspicuous fruit foraging model Color vision phenotype 1.596 1 0.206
+Dominance 12.300 2 0.002*
+Reproductive status 1.872 2 0.392
+Max temperature (°C) 1.526 1 0.217
+Min temperature (°C) 40.364 1 <0.001*
+Rainfall (cm) 1.636 1 0.201
+603
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 6
+Behavioral Ecology
+efficiency previously reported between dichromats and trichromats 
+in our study population (Melin et al. 2007, 2010, 2017), the hypo-
+thesis that this results in divergent activity budgets can be robustly 
+rejected. Dichromats and trichromats do not appear to have dis-
+tinct foraging activity budgets. This may reflect constraints on time 
+allocation due to living in a cohesive social group or to individual-
+level differences that shape diet and behavior.
+Our finding that reproductive status is a significant predictor 
+of  overall foraging scans is consistent with previous evidence that 
+pregnant and nursing females of  some species spend less time in 
+foraging states, and more time resting, than cycling conspecifics 
+(Rose 1994; Hemingway 1999; Vasey 2002; McCabe and Fedigan 
+2007). Given the high energetic costs of  reproduction in primates, 
+particularly during lactation, this finding is unsurprising. Sexually 
+mature female mammals are predicted to face the greatest pressure 
+to avoid feeding competition and separate their niches from other 
+group members as their reproductive success hinges most directly 
+on food resources (Wrangham 1980; Ruckstuhl and Neuhaus 2002; 
+Watts 2005; Breed et  al. 2006; Hierlihy et  al. 2013). Rather than 
+switching food resources to avoid competition, our results indicate 
+that females engage in an energy-minimizing strategy to cope with 
+reproductive costs. This strategy likely outweighs any potential ef-
+fect of  color vision on foraging time. Thus, the potential for niche 
+differentiation in activity budget due to color vision type is likely 
+constrained in part by reproductive costs.
+We find that social dominance significantly impacts conspic-
+uous fruit foraging and that this pattern is primarily driven by 
+high-ranking individuals foraging less frequently for conspicuous 
+fruit. This finding was unexpected, and we hypothesize that it 
+could be an artifact of  faster patch processing time in small food 
+patches by dominant monkeys. Through dominance-biased priority 
+of  access, high-ranking individuals are often able to monopolize 
+small, high-value resources, such as ripe fruit patches (Tilson and 
+Hamilton 1984; Janson 1985; van Schaik and van Noordwijk 1988; 
+Stockley and Bro‐Jørgensen 2011; Dorning and Harris 2017). In 
+white-faced capuchins, high-ranking females have been shown to 
+have higher efficiency in ripe fruit patches (V ogel 2005). While 
+it is puzzling that a dominance effect is not found in our overall 
+fruit foraging model, it is likely related to the fact that most of  the 
+“conspicuous” fruit species in this analysis are smaller tree spe-
+cies (Supplementary Figure 2); these “small patch” species are the 
+most likely to be monopolizable by dominant individuals (V ogel 
+2005). Our results suggest that an efficiency advantage of  being 
+high-ranking translates into fewer scans observed foraging on small, 
+conspicuous resources than that of  mid- or low-ranking individuals, 
+likely because these lower-ranking individuals need more time to 
+locate fruit in a slightly depleted food patch, making these lower-
+ranking individuals more likely to be observed while foraging for 
+conspicuous fruits.
+Constraints on niche differentiation in foraging 
+activity budget
+Our results highlight possible constraints of  living in small, co-
+hesive, and socially hierarchical groups where the ability to 
+search for disparate resources is likely curtailed by the need for 
+frequent and cohesive group movement in search of  food, as well 
+as by vigilance behaviors (Isbell and Y oung 1993; Molvar and 
+Bowyer 1994; Osorio et al. 2004; Majolo et al. 2008; Aivaz and 
+4.5
+Total foraging Total fruit foraging Invertebrate foraging Conspicuous fruit foraging
+(a) (b) (c) (d)
+(e) (f) (g) (h)
+3.0 1.00 2.00
+1.75
+1.50
+1.25
+1.00
+2.00
+1.75
+1.50
+1.25
+1.00
+0.75
+0.50
+0.25
+0.00
+1.00
+Phenotype DichromatT richromat
+0.75
+0.50
+0.25
+0.00
+2.5
+2.0
+1.5
+1.0
+3.0
+Reproductive status CyclingP regnant Nursing
+*
+P = 0.034
+2.5
+2.0
+1.5
+4.0
+3.5
+3.0
+4.5
+Estimated marginal means4.0
+3.5
+3.0
+Figure 1
+Foraging activity budget of  white-faced capuchin monkeys by color vision phenotype and reproductive status. We present estimated marginal means of  
+number of  scans per rotation spent in all foraging states (A/E; includes visual foraging, extractive invertebrate foraging, surface-dwelling invertebrate foraging, 
+fruit foraging, and foraging “other”), total fruit foraging (B/F), surface-dwelling invertebrate foraging (C/G), and fruit foraging only for conspicuously colored 
+fruits (D/F). Estimated marginal means are generated from models including dominance, reproductive status, maximum and minimum daily temperature, 
+and rainfall to isolate the effect of  color vision phenotype. Asterisks denote statistical significance.
+604
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 7
+DePasquale et al. • Testing color-vision-based niche differentiation in capuchins
+Ruckstuhl 2011; Olson et  al. 2015). The costs of  group living 
+are well recognized, though most studies to date have exam-
+ined the effect of  group size on intragroup feeding competition, 
+with larger groups exhibiting greater competition and greater 
+daily travel length (Janson and Goldsmith 1995; Chapman and 
+Chapman 2000a, 2000b). Rather than offsetting the costs of  
+group living by fissioning into smaller subgroups, as is character -
+istic of  African elephants and spotted hyenas, as well as the pri-
+mate genera Pan  and Ateles (members of  which inhabit the same 
+habitats as Cebus), capuchin groups remain cohesive year-round, 
+regardless of  seasonal fluctuations in habitat-wide fruit availa-
+bility (Chapman 1990). This may limit their ability to diverge 
+significantly in activity budgets due to pressures of  maintaining 
+group coordination, ultimately leading to a large degree of  be-
+havioral synchrony (Kavanagh 1978; Harrison 1985; Agetsuma 
+1995; King and Cowlishaw 2009). Our results additionally 
+highlight individual-level constraints due to reproduction, as 
+seen in the depressed foraging activity of  nursing capuchins, as 
+well as to other aspects of  biology , including thermoregulation. 
+Temperature, a significant variable in all of  our models, impacts 
+foraging activity budgets (Campos and Fedigan 2009; Bergstrom 
+2015). Given the intense seasonality characteristic of  our field 
+site, monkeys spend much time resting in the hot, dry season as 
+a means of  thermoregulating. Half  of  our data points each year 
+are from the hot dry season in SSR. Combining this impact with 
+increased resting time due to reproduction, as well as the need 
+to achieve a nutritionally balanced diet, likely constrains the po-
+tential for color vision phenotype to significantly affect activity 
+budget (Felton et al. 2009).
+Comments on hypotheses of balancing selection
+While niche differentiation is not evident in the variables ana-
+lyzed here, we cannot rule out the possibility that finer-scale diet 
+differentiation is occurring at the level of  net food intake. For ex-
+ample, research in wild montane ungulates (Hobbs 1983), gener -
+alist grasshoppers (Behmer and Joern 2008), and sympatric mule 
+and white-tailed deer populations (Berry et  al. 2019) all suggest 
+that differentiation in nutritional intake may underlie such phe-
+nomena as species coexistence and ecological invasion. Dichromats 
+and trichromats may occupy distinct nutritional niches due to dif-
+ferences in intake rates of  different food types (Melin et  al. 2007, 
+2010, 2017), and their constituent nutrients, even though the results 
+of  this study indicate that foraging activity budgets may not differ. 
+Furthermore, it should be noted that diet is only a single axis of  the 
+ecological niche; differentiation in habitat use due to lighting con-
+ditions that facilitate foraging efficiency is another axis that should 
+be considered (Yamashita et al. 2005; Caine et al. 2010; Freitag and 
+Pessoa 2012).
+It also remains plausible that niche differentiation is not a mech-
+anism favoring the maintenance of  color vision polymorphism. 
+Future studies should address the possibility of  mutual benefit 
+of  association in platyrrhines, which posits that dichromats and 
+trichromats have equal fitness by living in mixed color vision phe-
+notype groups, likely due to both resource and predator detection 
+benefits (Caine 2002; Pessoa et  al. 2014). The mutual benefit of  
+association hypothesis has been previously supported in sifakas 
+with polymorphic color vision (V eilleux et  al. 2016), where it was 
+found that individuals in mixed-phenotype, dichromat–trichromat 
+groups had higher body mass and longer fruit foraging times than 
+dichromat-only groups. It may be fruitful to examine foraging 
+outcomes and vigilance behaviors between dichromat-only and 
+dichromat–trichromat groups. Lastly , Green (2014) reports results 
+in support of  the heterozygote advantage hypothesis in tufted cap-
+uchin monkeys (genus Sapajus), suggesting that this mechanism may 
+also require further attention.
+CONCLUDING REMARKS
+The hypotheses for balancing selection that emphasize foraging 
+differences are inherently confounded by the complex interactions 
+between multimodal foraging and social learning. Monkeys with 
+different color vision types may achieve similar foraging activity 
+budgets through various mechanisms of  behavioral compensa-
+tion. For example, dichromats have been suggested to compensate 
+for the lack of  visual information by using olfactory informa-
+tion: they sniff fruits significantly more than trichromats (Melin 
+et al. 2019). Capuchins are highly intelligent, social animals and 
+learn many of  their foraging behaviors from observing conspe-
+cifics. Dichromats may learn from an early age how to locate fruit 
+without red-green color vision, and trichromats may learn how 
+to glean invertebrates despite an impeded ability to break visual 
+camouflage.
+Despite decades of  research, the adaptive value of  polymorphic 
+color vision continues to invite future study . While it is clear at this 
+point that broad-scope differentiation in foraging activity budgets 
+likely does not underlie the maintenance of  this variation, fine-scale 
+niche differentiation and mutual benefit of  association both warrant 
+further investigation. Understanding color vision polymorphism and 
+its behavioral correlates will help us understand the fundamental ev-
+olutionary processes of  balancing selection and adaptation. Due to 
+this widespread applicability , researchers from overlapping fields such 
+as behavioral ecology , evolutionary biology , and animal behavior all 
+stand to benefit from future investigations into this fascinating system.
+SUPPLEMENTARY MATERIAL
+Supplementary data are available at Behavioral Ecology online.
+FUNDING
+This work was supported by the Wenner-Gren Foundation, the Leakey 
+Foundation (A.D.M.), the National Sciences and Engineering Council 
+of  Canada Discovery Grant, the Canada Research Chairs Program 
+(A.D.M.  and L.M.F .), the Vanier Canada Graduate Scholarship, the 
+American Society of  Primatologists General Small Grant, and the Alberta 
+Children’s Hospital Research Institute (S.E.W .).
+We thank R. Blanco Segura and M. M. Chavarria and staff from the Área 
+de Conservación Guanacaste and Ministerio de Ambiente y Energía. 
+Warmest thanks also to A.  Guadamuz, A.  Blauel, S.  Chevez, R.  Lopez, 
+J.  Hogan, U.  Kalbitzer, B.  Klug, M.  Lemmon, M.  Myers, N.  Parr, 
+L.  Weckman, K.  Kries, N.  Carrethers, N.Ferrero, and N.  Beeby . Photos 
+belong to F .  Campos, E.  Sargeant, and A.  Melin. This research adhered 
+to the laws of  Costa Rica, the United States, and Canada and complied 
+with protocols approved by the Área de Conservación Guanacaste and by 
+the Canada Research Council for Animal Care through the University of  
+Calgary’s Life and Environmental Care Committee.
+Data availability: Analyses reported in this article can be reproduced 
+using the data provided by DePasquale et  al. (2021). All code for these 
+analyses can be found at https://github.com/allegradepasquale/
+scan_niche_divergence_analysis. 
+Handling editor: Marie Herberstein  
+605
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 8
+Behavioral Ecology
+REFERENCES
+Agetsuma  N. 1995. Foraging synchrony in a group of  Yakushima ma-
+caques (Macaca fuscata yakui). Folia Primatol. 64(4):167–179. doi: 
+10.1159/000156850.
+Aivaz AN, Ruckstuhl KE. 2011. Costs of  behavioral synchrony as a poten-
+tial driver behind size-assorted grouping. Behav Ecol. 22(6):1353–1363. 
+doi: 10.1093/beheco/arr141.
+Altmann  J. 1974. Observational study of  behavior: sampling methods. 
+Behaviour. 49:227–267.
+Bates D, Maechler M, Bolker B, Walker S. 2015. Fitting linear mixed-effects 
+models using lme4. J Stat Softw . 67(1):1–48. doi: 10.18637/jss.v067.i01.
+Behmer ST , Joern A. 2008. Coexisting generalist herbivores occupy unique 
+nutritional feeding niches. Proc Natl Acad Sci USA. 105:1977–1982.
+Bergstrom ML. 2015. Seasonal effects on the nutrition and energetic con-
+dition of  female white-faced capuchin monkeys [PhD thesis]. [Calgary 
+(Canada)]: University of  Calgary . doi:  10.11575/PRISM/27720.
+Bergstrom ML, Fedigan LM. 2010. Dominance among female white-faced 
+capuchin monkeys (Cebus capucinus): hierarchical linearity , nepotism, 
+strength and stability . Behaviour. 147(7):899–931.
+Berry SL, Shipley LA, Long RA, Loggers C. 2019. Differences in dietary 
+niche and foraging behavior of  sympatric mule and white-tailed deer. 
+Ecosphere, 10(7):e02815. doi: 10.1002/ecs2.2815.
+Breed GA, Bowen WD, McMillan JI, Leonard ML. 2006. Sexual segrega-
+tion of  seasonal foraging habitats in a non-migratory marine mammal. 
+Proc Biol Sci. 273:2319–2326.
+Brent LJ, Melin AD. 2014. The genetic basis of  primate behavior: genetics 
+and genomics in field-based primatology . Int J Primatol. 35:1–10.
+Caine NG. 2002. Seeing red: consequence of  individual differences in color 
+vision in callitrichid primates. In: Miller,  LE, editor. Eat or be eaten: 
+predator sensitive foraging among primates. Cambridge: Cambridge 
+University Press. p. 58–73. doi:  10.1017/CBO9780511610233.005.
+Caine  NG, Mundy  NI. 2000. Demonstration of  a foraging advantage for 
+trichromatic marmosets (Callithrix geoffroyi) dependent on food colour. Proc 
+Biol Sci. 267:439–444.
+Caine  NG, Osorio  D, Mundy  NI. 2010. A foraging advantage for di-
+chromatic marmosets (Callithrix geoffroyi) at low light intensity . Biol Lett. 
+6:36–38.
+Campos FA, Fedigan LM. 2009. Behavioral adaptations to heat stress and 
+water scarcity in white-faced capuchins (Cebus capucinus) in Santa Rosa 
+National Park, Costa Rica. Am J Phys Anthropol. 138:101–111.
+Carnegie  SD, Fedigan  LM, Melin  AD. 2011. Reproductive seasonality in 
+female capuchins (Cebus capucinus) in Santa Rosa (Area de Conservación 
+Guanacaste), Costa Rica. Int J Primatol. 32(5):1076–1090. doi: 10.1007/
+s10764-011-9523-x.
+Carnegie  SD, Fedigan  LM, Ziegler  TE. 2011. Social and environmental 
+factors affecting fecal glucocorticoids in wild, female white-faced capu-
+chins (Cebus capucinus). Am J Primatol. 73:861–869.
+Chapman CA. 1990. Ecological constraints on group size in three species 
+of  neotropical primates. Folia Primatol (Basel). 55:1–9.
+Chapman  CA, Chapman  LJ. 2000a. Constraints on group size in red 
+colobus and red-tailed guenons: examining the generality of  the ec-
+ological constraints model. Int J Primatol. 21(4):565–585. doi: 
+10.1023/A:1005557002854.
+Chapman  CA, Chapman  LJ. 2000b. Determinants of  group size in pri-
+mates: the importance of  travel costs. In: Boinski  S, Garber  PA, edi-
+tors. On the move: how and why animals travel in groups. Chicago (IL): 
+University of  Chicago Press. p. 24–41.
+Cho S, Huang ZY , Green DR, Smith DR, Zhang J. 2006. Evolution of  the 
+complementary sex-determination gene of  honey bees: balancing selec-
+tion and trans-species polymorphisms. Genome Res. 16:1366–1375.
+DePasquale  AN, Webb  SE. 2021. Testing the niche differentiation hypo-
+thesis in wild capuchin monkeys with polymorphic color vision. Behav 
+Ecol. doi: 10.5061/dryad.g1jwstqq4.
+Dorning  J, Harris  S. 2017. Dominance, gender, and season influence 
+food patch use in a group-living, solitary foraging canid. Behav Ecol. 
+28(5):1302–1313. doi: 10.1093/beheco/arx092.
+Ebner M. 2007. Color constancy .  Hoboken, NJ: John Wiley & Sons.
+Fedigan  LM, Jack  K. 2001. Neotropical primates in a regenerating Costa 
+Rican dry forest: a comparison of  howler and capuchin population pat-
+terns. Int J Primatol.  22(5):689–713.
+Fedigan LM, Jack KM. 2011. Two girls for every boy: The effects of  group 
+size and composition on the reproductive success of  male and female 
+white-faced capuchins. Am J Phys Anthropol. 144:317–326.
+Fedigan LM, Jack KM. 2012. Tracking neotropical monkeys in Santa Rosa: 
+lessons from a regenerating Costa Rican dry forest. In: Kappeler  PM, 
+Watts  DP , editors. Long-term field studies of  primates. New Y ork: 
+Springer. p. 165–184. doi: 10.1007/978-3-642-22514-7_8.
+Fedigan  LM, Melin  AD, Addicott  JF , Kawamura  S. 2014. The heterozy-
+gote superiority hypothesis for polymorphic color vision is not supported 
+by long-term fitness data from wild neotropical monkeys. PLoS One. 
+9:e84872.
+Felton  AM, Felton  A, Lindenmayer  DB, Foley  WJ. 2009. 
+Nutritional goals of  wild primates. Funct Ecol. 23(1):70–78. doi: 
+10.1111/j.1365-2435.2008.01526.x.
+Ford AGP , Rüber L, Newton J, Dasmahapatra KK, Balarin JD, Bruun K, 
+Day  JJ. 2016. Niche differentiation facilitated by fine-scale ecolog-
+ical partitioning in a recent cichlid fish adaptive radiation. Evolution. 
+70(12):2718–2735.
+Freitag FB, Pessoa DM. 2012. Effect of  luminosity on color discrimination 
+of  dichromatic marmosets (Callithrix jacchus). J Opt Soc Am A Opt Image 
+Sci Vis. 29:A216–A222.
+Goodman A. 2020. Correlation between substrate selection and body color 
+of  neotropical katydids (Orthoptera: Tettigoniidae). Ecol Entomol. doi: 
+10.1111/een.12942
+Green  AT . 2014. Consequences of  color vision variation on performance 
+and fitness in capuchin monkeys [Unpublished PhD thesis]. [Missoula 
+(MT)]: University of  Montana.
+Harrison MJS. 1985. Time budget of  the green monkey , Cercopithecus sabaeus: 
+some optimal strategies. Int J Primatol. 6(4):351–376. doi: 10.1007/
+BF02736383.
+Hartl DL, Clark GC. 1997. Principles of  population genetics. Sunderland 
+(MA): Sinauer Associates.
+Hawley KL, Rosten CM, Christensen G, Lucas MC. 2016. Fine-scale be-
+havioural differences distinguish resource use by ecomorphs in a closed 
+ecosystem. Sci Rep. 6:24369.
+Hedrick PW . 1998. Balancing selection and MHC. Genetica. 104:207–214.
+Hedrick  PW . 2006. Genetic polymorphism in heterogeneous environ-
+ments: the age of  genomics. Annu Rev Ecol Evol Syst. 37(1):67–93. doi: 
+10.1146/annurev .ecolsys.37.091305.110132.
+Hemingway CA. 1999. Time budgets and foraging in a Malagasy primate: 
+do sex differences reflect reproductive condition and female dominance? 
+Behav Ecol Sociobiol. 45(3):311–322. doi: 10.1007/s002650050566.
+Hierlihy  CA, Carcía-Collazo  R, Chavez  Tapia  CB, Mallory  FF . 2013. 
+Sexual dimorphism in the lizard Sceloporus siniferus support for the intra-
+specific niche differentiation and sexual selection hypotheses. Salamandra 
+49:1–6.
+Hiramatsu  C, Tsutsui  T , Matsumoto  Y , Aureli  F , Fedigan  LM, 
+Kawamura  S. 2005. Color-vision polymorphism in wild capuchins 
+(Cebus capucinus) and spider monkeys (Ateles geoffroyi) in Costa Rica. Am J 
+Primatol. 67:447–461.
+Hiwatashi  T , Okabe  Y , Tsutsui  T , Hiramatsu  C, Melin  AD, Oota  H, 
+Schaffner CM, Aureli F , Fedigan LM, Innan H, et al. 2010. An explicit 
+signature of  balancing selection for color-vision variation in new world 
+monkeys. Mol Biol Evol. 27:453–464.
+Hobbs  NT , Baker  DL, Gill  RB. 1983. Comparative nutritional ecology 
+of  montane ungulates during winter. J Wildl Manag. 47(1):1–16. doi: 
+10.2307/3808046.
+Hogan  JD, Fedigan  LM, Hiramatsu  C, Kawamura  S, Melin  AD. 2018. 
+Trichromatic perception of  flower colour improves resource detection 
+among New World monkeys. Sci Rep. 8:10883.
+Isbell  LA, Y oung  TP . 1993. Social and ecological influences on activity 
+budgets of  vervet monkeys, and their implications for group living. Behav 
+Ecol Sociobiol. 32(6):377–385. doi: 10.1007/BF00168821.
+Jacobs  GH. 1994. Variations in primate color vision: mechanisms and 
+utility . Evol Anthropol. 3(6):196–205. doi: 10.1002/evan.1360030606.
+Jacobs  GH. 1998. A perspective on color vision in platyrrhine monkeys. 
+Vision Res. 38:3307–3313.
+Jacobs  GH. 2008. Primate color vision: a comparative perspective. Vis 
+Neurosci. 25:619–633.
+Jacobs  GH. 2009. Evolution of  color vision in mammals. Philos Trans R 
+Soc B Biol Sci. 364(1531):2957–2967. doi: 10.1098/rstb.2009.0039.
+Janson  C. 1985. Aggressive competition and individual food consumption 
+in wild brown capuchin monkeys (Cebus apella). Behav Ecol Sociobiol. 
+18(2):125–138. doi: 10.1007/BF00299041.
+Janson  CH, Goldsmith  ML. 1995. Predicting group size in primates: 
+foraging costs and predation risks. Behav Ecol. 6(3):326–336. doi: 
+10.1093/beheco/6.3.326.
+606
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 9
+DePasquale et al. • Testing color-vision-based niche differentiation in capuchins
+Kavanagh M. 1978. The diet and feeding behavior of  Cercopithecus aethiops 
+tantalus. Folia Primatol. 30(1):30–63. doi: 10.1159/000155854.
+Kawamura  S, Hiramatsu  C, Melin  AD, Schaffner  CM, Aureli  F , 
+Fedigan  LM. 2012. Polymorphic color vision in primates: evolu-
+tionary considerations. In: Hirai  H, Imai  H, Go  Y , editors. Post-
+genome biology of  primates. Tokyo (Japan): Springer. p. 93–120. doi: 
+10.1007/978-4-431-54011-3_7.
+King  AJ, Cowlishaw  G. 2009. All together now: behavioural syn-
+chrony in baboons. Anim Behav . 78(6):1381–1387. doi: 10.1016/j.
+anbehav .2009.09.009.
+Lattanzio  MS, Miles  DB. 2016. Trophic niche differentiation among 
+color morphs that exhibit alternative mating tactics. R Soc Open Sci. 
+3(4):150531. doi: 10.1098/rsos.150531.
+Lenth  R, Singmann  H, Love  J, Buerkner  P , Herve  M. 2020. emmeans: 
+estimated marginal means, aka least-squares means (V ersion 1.4.7) 
+[Computer software]. Available from: https://CRAN.R-project.org/
+package=emmeans. Accessed 4 June 2020.
+Levy  EJ, Zipple  MN, McLean  E, Campos  FA, Dasari  M, Fogel  AS, 
+Franz M, Gesquiere LR, Gordon JB, Grieneisen L, et al. 2020. A com-
+parison of  dominance rank metrics reveals multiple competitive land-
+scapes in an animal society . Proc Royal Soc. 287(1934):20201013.  
+Llaurens  V , Whibley  A, Joron  M. 2017. Genetic architecture and bal-
+ancing selection: the life and death of  differentiated variants. Mol Ecol. 
+26:2430–2448.
+Majolo B, de Bortoli Vizioli A, Schino G. 2008. Costs and benefits of  group 
+living in primates: group size effects on behaviour and demography . Anim 
+Behav . 76(4):1235–1247. doi: 10.1016/j.anbehav .2008.06.008.
+McCabe GM, Fedigan LM. 2007. Effects of  reproductive status on energy 
+intake, ingestion rates, and dietary composition of  female Cebus capucinus 
+at Santa Rosa, Costa Rica. Int J Primatol. 28(4):837–851. doi: 10.1007/
+s10764-007-9159-z.
+Melin  AD, Chiou  KL, Walco  ER, Bergstrom  ML, Kawamura  S, 
+Fedigan  LM. 2017. Trichromacy increases fruit intake rates of  
+wild capuchins (Cebus capucinus imitator). Proc Natl Acad Sci USA. 
+114:10402–10407.
+Melin AD, Fedigan LM, Hiramatsu C, Hiwatashi T , Parr N, Kawamura S. 2009. 
+Fig foraging by dichromatic and trichromatic Cebus capucinus in a tropical dry 
+forest. Int J Primatol. 30(6):753–775. doi: 10.1007/s10764-009-9383-9.
+Melin  AD, Fedigan  LM, Hiramatsu  C, Kawamura  S. 2008. Polymorphic 
+color vision in white-faced capuchins (Cebus capucinus): is there foraging 
+niche differentiation among phenotypes? Behav Ecol Sociobiol. 
+62(5):659–670. doi: 10.1007/s00265-007-0490-3.
+Melin  AD, Fedigan  LM, Hiramatsu  C, Sendall  CL, Kawamura  S. 2007. 
+Effects of  color vision phenotype on insect capture by a free-ranging pop-
+ulation of  white-faced capuchins, Cebus capucinus. Anim Behav . 73(1):205–
+214. doi: 10.1016/j.anbehav .2006.07.003.
+Melin AD, Fedigan LM, Y oung HC, Kawamura S. 2010. Can color vision 
+variation explain sex differences in invertebrate foraging by capuchin 
+monkeys? Curr Zool. 56(3):300–312.
+Melin  AD, Hiramatsu  C, Parr  NA, Matsushita  Y , Kawamura  S, 
+Fedigan  LM. 2014. The behavioral ecology of  color vision: consid-
+ering fruit conspicuity , detection distance and dietary importance. Int J 
+Primatol. 35(1):258–287. doi: 10.1007/s10764-013-9730-8.
+Melin  AD, Hogan  JD, Campos  FA, Wikberg  E, King‐Bailey  G, Webb  S, 
+Kalbitzer U, Asensio N, Murillo‐Chacon E, Hernandez SC, et al. 2020. 
+Primate life history , social dynamics, ecology , and conservation: contri-
+butions from long-term research in Área de Conservación Guanacaste, 
+Costa Rica. Biotropica. doi: 10.1111/btp.12867.
+Melin  AD, Nevo  O, Shirasu  M, Williamson  RE, Garrett  EC, Endo  M, 
+Sakurai  K, Matsushita  Y , Touhara  K, Kawamura  S. 2019. Fruit scent 
+and observer colour vision shape food-selection strategies in wild capu-
+chin monkeys. Nat Commun. 10:2407.
+Melin  AD, Webb  SE, Williamson  RE, Chiou  KL. 2018. Data collec-
+tion in field primatology: a renewed look at measuring foraging be-
+havior. In: Kalbitzer  U, Jack  KM, editors. Primate life histories, 
+sex roles, and adaptability: essays in honour of  Linda M.  Fedigan. 
+New Y ork: Springer International Publishing. p. 161–192. doi: 
+10.1007/978-3-319-98285-4_9.
+Melin AD, Y oung HC, Mosdossy KN, Fedigan LM. 2014. Seasonality , ex-
+tractive foraging and the evolution of  primate sensorimotor intelligence. 
+J Hum Evol. 71:77–86.
+Mollon  JD, Bowmaker  JK, Jacobs  GH. 1984. Variations of  colour vision 
+in a New World primate can be explained by polymorphism of  retinal 
+photopigments. Proc R Soc Lond B Biol Sci. 222:373–399.
+Molvar EM, Bowyer RT . 1994. Costs and benefits of  group living in a re-
+cently social ungulate: the Alaskan moose. J Mammal. 75(3):621–630. 
+doi: 10.2307/1382509.
+Morgan  MJ, Adam  A, Mollon  JD. 1992. Dichromats detect color-
+camouflaged objects that are not detected by trichromats. Proc Biol Sci. 
+248(1323):291–295.
+Neumeyer  C. 1998. Comparative aspects of  color constancy . In Walsh  V , 
+Kulikowski J, editors. Perceptual constancy: why things look as they do. 
+Cambridge (UK): Cambridge University Press. p. 323–351.
+Olson RS, Haley PB, Dyer FC, Adami C. 2015. Exploring the evolution of  
+a trade-off between vigilance and foraging in group-living organisms. R 
+Soc Open Sci. 2:150135.
+Osorio D., Smith AC., V orobyev M., Buchanan-Smith HM.2004. Detection 
+of  Fruit and the Selection of  Primate Visual Pigments for Color Vision. 
+The American Naturalist, 164(6), 696–708.  
+Perry S, Godoy I, Lammers W . 2012. The Lomas Barbudal Monkey Project: 
+two decades of  research on Cebus capucinus. In: Kappeler PM, Watts DP , 
+editors. Long-term field studies of  primatesSpringer. p. 141–163. doi: 
+10.1007/978-3-642-22514-7_7.
+Pessoa  DM, Maia  R, de  Albuquerque  Ajuz  RC, De  Moraes  PZ, 
+Spyrides MH, Pessoa VF . 2014. The adaptive value of  primate color vi-
+sion for predator detection. Am J Primatol. 76:721–729.
+R Core Team. 2020. R: a language and environment for statistical com-
+puting. Vienna (Austria): R Foundation for Statistical Computing. 
+Available from: https://www .R-project.org/. Accessed 1 June 2020.
+Regan BC, Julliot C, Simmen B, Viénot F , Charles-Dominique P , Mollon JD. 
+2001. Fruits, foliage and the evolution of  primate colour vision. Philos 
+Trans R Soc Lond B Biol Sci. 356:229–283.
+Rose LM. 1994. Sex differences in diet and foraging behavior in white-faced 
+capuchins (Cebus capucinus). Int J Primatol. 15(1):95–114. doi: 10.1007/
+BF02735236.
+RStudio Team. 2019. RStudio: integrated development for R. Boston: RStudio, 
+Inc. Available from: http://www .rstudio.com/. Accessed Jun 1 2020.
+Ruckstuhl  KE, Neuhaus  P . 2002. Sexual segregation in ungulates: a com-
+parative test of  three hypotheses. Biol Rev Camb Philos Soc. 77:77–96.
+Ruxton  GD, Allen  WL, Sherratt  TN, Speed  MP . 2019. Avoiding attack: 
+the evolutionary ecology of  crypsis, aposematism, and mimicry . Oxford: 
+Oxford University Press.
+Smith TB. 1987. Bill size polymorphism and intraspecific niche utilization 
+in an African finch. Nature. 329(6141):717–719. doi: 10.1038/329717a0.
+Smith  AC, Buchanan-Smith  HM, Surridge  AK, Osorio  D, Mundy  NI. 
+2003. The effect of  color vision status on the detection and selection of  
+fruits by tamarins (Saguinus spp.). J Exp Biol. 206(18):3159–3165. doi: 
+10.1242/jeb.00536.
+Smith  AC, Surridge  AK, Prescott  MJ, Osorio  D, Mundy  NI, Buchanan-
+Smith  HM. 2012. Effect of  color vision status on insect prey capture 
+efficiency of  captive and wild tamarins (Saguinus spp.). Anim Behav , 
+83(2):479–486. doi: 10.1016/j.anbehav .2011.11.023.
+Snorrason  SS, Skúlason  S, Jonsson  B, Malmquist  HJ, Jónasson  PM, 
+Sandlund  OT , Lindem  T . 1994. Trophic specialization in Arctic charr 
+Salvelinus alpinus (Pisces; Salmonidae): morphological differentiation and 
+ontogenetic niche shifts. Biol J Linn Soc. 52(1):1–18. doi: 10.1111/
+j.1095–8312.1994.tb00975.x.
+Stevens M, Merilaita S. 2011. Animal camouflage: mechanisms and func-
+tion.  Cambridge: Cambridge University Press.
+Stockley P , Bro-Jørgensen J. 2011. Female competition and its evolutionary 
+consequences in mammals. Biol Rev Camb Philos Soc. 86:341–366.
+Tilson  RL, Hamilton  WJ. 1984. Social dominance and feeding pat-
+terns of  spotted hyaenas. Anim Behav . 32(3):715–724. doi: 10.1016/
+S0003-3472(84)80147-5.
+van Schaik CP , van Noordwijk MA. 1988. Scramble and contest in feeding 
+competition among female long-tailed macaques (Macaca fascicularis). 
+Behaviour. 105(1/2):77–98.
+Vasey N. 2002. Niche separation in Varecia variegata rubra and Eulemur fulvus 
+albifrons: II. Intraspecific patterns. Am J Phys Anthropol. 118:169–183.
+V eilleux CC, Scarry CJ, Di Fiore A, Kirk EC, Bolnick DA, Lewis RJ. 2016. 
+Group benefit associated with polymorphic trichromacy in a Malagasy 
+primate (Propithecus verreauxi). Sci Rep. 6:38418.
+V ogel ER. 2005. Rank differences in energy intake rates in white-faced cap-
+uchin monkeys, Cebus capucinus: the effects of  contest competition. Behav 
+Ecol Sociobiol. 58(4):333–344. doi: 10.1007/s00265-005-0960-4.
+V ogel ER, Neitz M, Dominy NJ. 2007. Effect of  color vision phenotype on 
+the foraging of  wild white-faced capuchins, Cebus capucinus. Behav Ecol. 
+18(2):292–297. doi: 10.1093/beheco/arl082.
+607
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026
+
+
+PDF PAGE 10
+Behavioral Ecology
+V orobyev  M. 2004. Ecology and evolution of  primate color vision. 
+Clin Exp Optom. 87(4–5):230–238. doi: 10.1111/j.1444-0938.2004.
+tb05053.x.
+Watts DP . 2005. Sexual segregation in nonhuman primates. In: Rukstuhl K, 
+Neuhaus P , editors. Sexual segregation in vertebrates: ecology of  the two 
+sexes. Cambridge (UK): Cambridge University Press.
+Werner  TK, Sherry  TW . 1987. Behavioral feeding specialization in 
+Pinaroloxias inornata, the “Darwin’s Finch” of  Cocos Island, Costa Rica. 
+Proc Natl Acad Sci USA. 84:5506–5510.
+Whiteman  HH, Wissinger  SA, Brown  WS. 1996. Growth and 
+foraging consequences of  facultative paedomorphosis in the tiger 
+salamander,Ambystoma tigrinum nebulosum. Evol Ecol. 10(4):433–446. doi: 
+10.1007/BF01237728.
+Wrangham  RW . 1980. An ecological model of  female-bonded primate 
+groups. Behaviour. 75(3–4):262–300.
+Yamashita N, Stoner KE, Riba-Hernández P , Dominy NJ, Lucas PW . 2005. 
+Light levels used during feeding by primate species with different color 
+vision phenotypes. Behav Ecol Sociobiol. 58(6):618–629. doi: 10.1007/
+s00265-005-0936-4.
+Y oung  HC. 2005. Sharp spines and toxic stings: how white-faced capu-
+chins (Cebus capucinus) overcome the defence mechanisms of  invertebrates 
+in Costa Rica [MA thesis]. [Calgary (Canada)]: University of  Calgary .
+608
+Downloaded from academic.oup.com/beheco/article/32/4/599/6179892 by University Konstanz user on 21 August 2026

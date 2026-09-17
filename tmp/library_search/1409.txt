@@ -1,0 +1,1041 @@
+PDF PAGE 1
+Abstract Chimpanzees ( Pan troglodytes ) are the most
+proficient and versatile users of tools in the wild. How such
+skills become integrated into the behavioural repertoire of
+wild chimpanzee communities is investigated here by draw-
+ing together evidence from three complementary approaches
+in a group of oil-palm nut- ( Elaeis guineensis) cracking
+chimpanzees at Bossou, Guinea. First, extensive surveys
+of communities adjacent to Bossou have shown that pop-
+ulation-specific details of tool use, such as the selection of
+species of nuts as targets for cracking, cannot be explained
+purely on the basis of ecological differences. Second, a
+16-year longitudinal record tracing the development of nut-
+cracking in individual chimpanzees has highlighted the
+importance of a critical period for learning (3–5 years of age),
+while the similar learning contexts experienced by sib-
+lings have been found to result in near-perfect (13 out of
+14 dyads) inter-sibling correspondence in laterality. Third,
+novel data from field experiments involving the introduc-
+tion of unfamiliar species of nuts to the Bossou group il-
+luminates key aspects of both cultural innovation and trans-
+mission. We show that responses of individuals toward the
+novel items differ markedly with age, with juveniles being
+the most likely to explore. Furthermore, subjects are highly
+specific in their selection of conspecifics as models for
+observation, attending to the nut-cracking activities of in-
+dividuals in the same age group or older, but not younger
+than themselves. Together with the phenomenon of inter-
+community migration, these results demonstrate a mecha-
+nism for the emergence of culture in wild chimpanzees.
+Keywords Chimpanzees (Pan troglodytes verus) · Tool
+use · Social transmission · Culture
+Introduction
+Over the decades that followed the discovery of termite-
+fishing at Gombe (Goodall 1964), examples of tool-use
+reported in wild chimpanzee populations have steadily in-
+creased in number. Long-term research at various sites
+around Africa has highlighted considerable variation among
+communities in the nature of objects that chimpanzees use
+as tools as well as the items in the environment that serve
+as targets toward which the tools are directed (Boesch and
+Boesch-Achermann 2000; Nishida 1990; Goodall 1986).
+Patterns in the presence or absence of distinctive tool us-
+ing traditions at particular sites are now seen as defining
+features of unique chimpanzee cultures (McGrew 1992;
+Whiten et al. 1999; Yamakoshi 2001). A recent survey of
+geographic variation in orangutans’ (Pongo pygmaeus) tool
+use and social signals has identified a corresponding pat-
+tern (van Schaik et al. 2003), and mountain gorillas ( Go-
+rilla gorilla beringei ) are also known to exhibit not only
+individual but also regional variation in food processing
+skills (Byrne and Byrne 1993). However, the basis upon
+which such site-to-site differences are maintained is still a
+controversial issue (Tomasello 1994). While ecological fac-
+tors
+are likely to account for at least some of the variation
+observed (Baldwin et al. 1981), the question remains whether
+population-specific traditions are maintained through in-
+ter-population genetic differences or some form of post-
+natal learning. Furthermore, if individual learning is in-
+volved, is it reliant upon information being passed from
+one member of a group to another in a social context, or is
+the skill acquired independently by every individual dur-
+ing ontogenesis (Kummer 1971)? So far, answers to ques-
+tions probing the potential for transmission of traditions
+among wild populations of chimpanzees have only been
+Dora Biro · Noriko Inoue-Nakamura · Rikako Tonooka ·
+Gen Yamakoshi · Claudia Sousa · Tetsuro Matsuzawa
+Cultural innovation and transmission of tool use in wild chimpanzees: 
+evidence from field experiments
+Anim Cogn (2003) 6 : 213–223
+DOI 10.1007/s10071-003-0183-x
+Received: 1 August 2002 / Revised: 25 June 2003 / Accepted: 26 June 2003 / Published online: 29 July 2003
+ORIGINAL ARTICLE
+D. Biro (✉ ) · N. Inoue-Nakamura · R. Tonooka · G. Yamakoshi ·
+T. Matsuzawa
+Primate Research Institute, Kyoto University, Kyoto, Japan
+e-mail: dora.biro@zoology.oxford.ac.uk
+C. Sousa
+Departamento de Antropologia, 
+Faculdade de Ciencias Sociais e Humanas, 
+Universidade Nova de Lisboa, Portugal
+Present address:
+D. Biro 
+Animal Behaviour Research Group, Department of Zoology, 
+University of Oxford, South Parks Road, Oxford, OX1 3PS, UK
+© Springer-Verlag 2003
+
+PDF PAGE 2
+available through inference from the geographical distri-
+bution of particular tool-using behaviours (Boesch et al.
+1994; McGrew et al. 1997; Whiten et al. 1999). Studies
+which trace the appearance of a novel tradition and its sub-
+sequent spread within a community have been extremely
+rare (Boesch 1995). Here we present the first attempt at
+drawing together evidence from a variety of different sources
+to construct a model for the establishment and mainte-
+nance of cultural traditions unique to particular wild chim-
+panzee
+communities. Our conclusions are based on data
+collected from three complementary sources: (1) exten-
+sive field surveys charting the regional distribution of a
+specific tool-using behaviour, (2) long-term records track-
+ing the developmental course of individual acquisition of
+the skill, and (3) a field experiment demonstrating aspects
+of innovation and transmission through observational
+learning.
+Methods
+Study sites and populations
+The long-term study of chimpanzees at Bossou (7°39 ′N, 8°30′W),
+Guinea, West Africa began in 1976 (Sugiyama 1981, 1984), since
+which time the size of the community has remained relatively sta-
+ble, currently numbering 19 individuals (lowest: 16, highest: 23),
+of whom 12 are females and 7 are males. The core area of the com-
+munity’s range encompasses 5–6 km
+2 composed of primary and
+secondary forest, surrounded on all sides by dry savannah which
+the chimpanzees have never been seen to traverse.
+Neighbouring groups inhabit the Nimba Mountains to the
+south-east: the nearest community so far identified occupies the
+forest bordering the village of Seringbara, only 6 km away. The
+study of chimpanzees at another Nimba site, near the village of
+Yeale (Cote d’Ivoire; 12 km to the south-east of Bossou), is now
+also underway (Yamakoshi and Matsuzawa 1993; Humle and Mat-
+suzawa 2001). In addition, the presence of chimpanzees at Diecke
+forest, at a distance of 50 km to the west, has recently been con-
+firmed (Matsuzawa et al. 1999). It is suspected that immigration
+between Bossou and Nimba has been possible until the recent past
+(with the last recorded immigration to Bossou, with high probabil-
+ity from Nimba, having occurred in 1982; Sugiyama 1984), whereas
+that between Bossou and Diecke has been prevented by the lack of
+continuous vegetation for decades (at least 50 years).
+Data collection
+Evidence of nut-cracking was collected at all four sites, either
+through direct observation or by locating traces of the behaviour
+such as broken shells scattered near pairs of stones. In the case of
+trace evidence, strict criteria (e.g. the presence of chimpanzee
+knuckle or footprints no more than 5 m from the site of nut-crack-
+ing) were applied before assigning the findings to chimpanzee ac-
+tivity (Humle and Matsuzawa 2001). The species of nuts cracked
+was determined in each case. The vegetation was surveyed and lo-
+cal guides questioned as to the availability of hard-shelled nuts in
+each community’s home range.
+Intensive study of nut-cracking was conducted at Bossou, be-
+ginning in 1988. Observations were carried out in a small clearing
+in the forest (“outdoor laboratory”; Matsuzawa 1994) located on
+the summit of Mont Gban, south of the village of Bossou. The
+clearing was roughly rectangular, 7 × 20 m, with dense forest on
+three sides, and a wall on the fourth constructed from branches and
+leaves behind which the experimenters hid, out of view of the
+chimpanzees. Several paths used regularly by the chimpanzees to
+traverse Mont Gban converged in this clearing, such that parties of
+chimpanzees visited the outdoor laboratory regularly, on average
+once a day. When stones and nuts were made available by the ex-
+perimenters, the chimpanzees stopped to crack in the majority of
+cases.
+Through the years we recorded nut-cracking ability (or lack
+thereof) in every member of the community along with the identity
+of the hand used to hold the hammer stone while performing the
+behaviour. Data were collected in the dry season, December to
+February, over a total of 20–30 h of observation each year.
+Introduction of novel nuts
+Along with the familiar piles of stones and oil-palm nuts ( Elaeis
+guineensis), we provided the group at Bossou with exposure to
+hitherto unfamiliar coula (Coula edulis) and panda (Panda oleosa)
+nuts (Fig. 1) in the outdoor laboratory. The novel nuts were pre-
+sented on a daily basis over a 2-week period during the regular
+field season (see above). Coula nuts were provided in 4 years:
+1993, 1996, 2000, and 2002. Panda nuts were presented in 2000.
+All the materials necessary for nut-cracking at the outdoor lab-
+oratory were provided by the experimenters. A total of 48 individ-
+ually numbered stones were used, the largest weighing 5 kg, the
+smallest 0.2 kg (mean 1.2 kg, SD 1.0). These were collected from
+various locations around Bossou, and care was taken to ensure that
+no other hard objects were available at the site. Oil-palm nuts were
+provided in 12 small piles of 40–50 nuts each (approx. 500 g per
+pile), scattered around the clearing. Piles were replenished follow-
+ing each visit by the chimpanzees to the outdoor laboratory (be-
+tween once and twice a day, on average). Panda nuts were first pre-
+sented 3 at a time, arranged in a row 10 cm apart, then in a pile of
+10 in a conspicuous location near the centre of the clearing. Coula
+nuts were provided in two piles of 30 nuts each (containing ap-
+proximately equal proportions of both ripe and unripe exemplars),
+resembling in size the piles formed by the other two kinds of nuts.
+As neither panda nor coula nuts are naturally available at Bossou,
+they were instead collected at and brought from Diecke forest and
+the Nimba mountains, respectively. Nuts continued to be presented
+daily, until all members of the community had visited the outdoor
+laboratory and thus had access to the novel nuts over at least four
+sessions in each year that the experiments were conducted.
+From behind the man-made wall of vegetation at one end of the
+outdoor laboratory (at a distance of approximately 20 m from the
+cracking site), we were able to note the responses of individuals to
+the unfamiliar nuts. Besides live observation, all visits by the
+214
+Fig. 1 Photograph showing the three species of hard-shelled nut
+used in the study. From left to right: oil-palm nuts (Elaeis guineen-
+sis), coula nuts (Coula edulis), and panda nuts (Panda oleosa). For
+each species, three stages are shown: A fruit, B hard-shelled con-
+tents of fruit before cracking, andC after cracking, with edible ker-
+nels visible
+
+PDF PAGE 3
+chimpanzees to the outdoor laboratory were videotaped from dif-
+ferent angles by two or three video cameras simultaneously (Sony
+Digital Handicam, DCR-VX1000).
+Results
+Survey of neighbouring communities
+Chimpanzee communities at three of the four sites exam-
+ined (Bossou, Yeale, and Diecke) were found to include
+individuals who used a pair of stones as hammer and anvil
+to crack open hard-shelled nuts (Humle and Matsuzawa
+2001). However, as Table 1 shows, the range of target nut
+215
+Table 1 Species of nuts cracked by wild chimpanzees at Bossou,
+Seringbara, Yeale, and Diecke. – indicates that the target nut spe-
+cies is not available at the site, while No indicates that no evidence
+of cracking by the chimpanzees has so far been found even though
+the nuts are available
+Site Distance Species of nut
+from 
+Bossou Oil-palm Coula Panda 
+(Elaeis (Coula (Panda 
+guineensis) edulis) oleosa)
+Bossou 7°39′N 8°30′W – Yes – –
+Seringbara 7°38′N 8°25′W 6 km No – –
+Yeale 7°32′N 8°25′W 12 km Yes Yes No
+Diecke 7°38′N 8°55′W 50 km No Yes Yes
+Name Sex Age Mother Year observed
+88 90 91 92 93 94 95 96 97 98 99 00 02 03
+Tua M Adult N.A. ? L L L L L L L L L L L L L
+Kai F Adult N.A. ? R R R R R R R R R R R R R
+Kie
+a F 27 Kai ? R R – – – – – – – – – – –
+Kakurua F 16 Kie ? A R – – – – – – – – – – –
+Nina F Adult N.A. ? X X X X X X X X X X X X X
+Na
+a M 17 Nina ? R R R R R R – – – – – – –
+Ntoa F 9.5 Nina – – – – – X X X R R R R – –
+Fana F Adult N.A. ? L L L L L L R R R R R R R
+Foaf M 22 Fana ? R R R R R R R R R R R R R
+Fotayu F 11 Fana – – – X X X AR R R R R R R R
+Fokaiye M 1.5 Fotayu – – – – – – – – – – – – X X
+Fanle F 5.5 Fana – – – – – – – – – X X X R R
+Jire F Adult N.A. ? L L L L L L L L L L L L L
+Ja
+a F 19 Jire ? R R R R – – – – – – – – –
+Jokrob F (3) Jire – X X X – – – – – – – – – –
+Julua F 9 Jire – – – – – X X X X r r r – –
+Jeje M 5 Jire – – – – – – – – – X X X X X
+Jimatou M 0.5 Jire – – – – – – – – – – – – – X
+Velu F Adult N.A. ? R R R R R R R R R R R R R
+Vube
+a F 20 Velu ? L – – – – – – – – – – – –
+Vuia M 16 Velu ? X X L L L L L L L L – – –
+Vuavua F 11 Velu – – – X X X AL L L L L L L L
+Veve F 1.5 Vuavua – – – – – – – – – – – – X X
+Yo F Adult N.A. ? L L L L L L L L L L L L L
+Yunro
+a F 18 Yo ? X X X l – – – – – – – – –
+Yelab M (0.5) Yo – X – – – – – – – – – – – –
+Yoroa M 11 Yo – – – X X X X L L L L L L L
+Pama F Adult N.A. ? X X X X X X X X X X X X X
+Puru
+a M 22 Pama R R R – – – – – – – – – – –
+Pilia F 15.5 Pama ? X R R R R R R R R R R – –
+Pokrua M 6.5 Pili – – – – – – – – X X X X – –
+Poni M 10 Pama – – – – X X X R R R R R R R
+Peley F 4.5 Pama – – – – – – – – – – X X AL L
+a Individual disappeared prior to January 2003
+b Individual confirmed dead
+Table 2 Longitudinal record of stone-tool use by chimpanzees at
+Bossou, Guinea. Individuals are sorted according to matrilinial
+kinship. Oil-palm nut-cracking ability (or lack thereof) and hand
+used to hold hammer stone recorded for all individuals since 1988
+(L Always uses left hand for hammer; R always uses right hand for
+hammer; A ambidextrous use of hammer; l uses left hand to pound
+nut without a hammer; r uses right hand to pound nut without a
+hammer; X no successful hammer use but eating nuts cracked by
+others; ? data unavailable due to lack of observation; - data un-
+available as subject had not yet been born, had disappeared, or
+died; N.A. not available; age represents estimate as of January
+2003; figures in brackets represent age at which individual died)
+
+PDF PAGE 4
+species for the behaviour is unique in each community.
+Raw materials necessary for oil-palm nut-cracking – dried
+nuts and stones – are available at Bossou, Seringbara, and
+Yeale (density of oil-palm trees at the three sites: 7.2/km
+2,
+1.0/km2, 4.2/km 2, respectively; Humle 2003), however,
+only the chimpanzees of Bossou and Yeale are known to
+perform the behaviour. In addition, the panda nut is avail-
+able at Yeale and Diecke (rare in Yeale and 5/200 trees in
+Diecke; T Humle, H Takemoto, personal communication),
+yet only at the latter site have traces of cracking been
+found (Matsuzawa et al. 1999). Meanwhile, the coula nut is
+available at the same pair of sites (at a density of 5.0/km 2
+in Yeale, and in clumped patches near the edge of the for-
+est in Diecke), and is cracked at both.
+Longitudinal record of skill acquisition
+Table 2 presents a summary of data gathered for individ-
+ual nut-cracking activity for all the chimpanzees sighted
+at Bossou over a period of 16 years. Such a long-term
+record has allowed us to highlight aspects of the skill on
+the individual level. We have identified a sensitive period
+in acquisition between the ages of 3 and 5 years (Matsu-
+zawa 1994; Inoue-Nakamura and Matsuzawa 1997). Dur-
+ing this time the infant remains in close proximity of the
+mother, who in turn serves as the primary model for the
+infant’s observation of nut-cracking activity performed by
+conspecifics, particularly in the early stages of acquisi-
+tion. If not learnt by the end of this period, the skill will
+not be acquired and individuals instead become habitual
+scroungers of others’ abandoned half-cracked nuts. Be-
+tween the ages of 8 and 14 years, performance gradually
+reaches an asymptote, with highly skilled individuals of-
+ten requiring no more than a couple of blows of the ham-
+mer to extract the edible kernels (Fig. 2). Besides the ne-
+cessity to co-ordinate three objects in a specific spatial
+and temporal order (Matsuzawa 1996), several other char-
+acteristics of stone-tool use obey general rules, such as the
+tendency to select anvils heavier than hammers (average
+weights 2.6 kg and 1.0 kg, respectively). However, indi-
+viduals have also demonstrated considerable flexibility in
+the selection of tools (Sakura and Matsuzawa 1991), such
+as the use of a metatool, or tool-for-another-tool, where a
+third stone is used as a prop for a slanted anvil (Matsu-
+zawa 1991). Taken together, these features make oil-palm
+nut-cracking using a pair of stones one of the most com-
+plex forms of tool use observed in the wild.
+Once acquired, the behaviour takes on a highly stereo-
+typed appearance (Fig. 3). Bossou chimpanzees demon-
+strate perfect laterality in nut-cracking, with all individu-
+als using either the left or the right hand on every occasion
+(Sugiyama et al. 1993; the only exception being Fana
+who, in 1996, switched from left-handed to right-handed
+cracking, following the onset of paralysis of the left arm).
+Of the ten mother-offspring relationships where the crack-
+ing hand of both the mother and the offspring was known,
+in only four cases did we find correspondence in laterality
+(binomial test: P =0.205). In contrast, the degree of inter-
+sibling agreement in laterality is striking (Matsuzawa
+1999). Currently, 13 of 14 comparisons of siblings where
+two or more offspring of the same mother survived to ac-
+quire nut-cracking skills demonstrate correspondence in
+laterality: a statistically significant departure from ran-
+domness (binomial test: P >0.001). Only a single individ-
+ual (Peley) has developed divergent preferences in the
+identity of the cracking hand from that of his siblings, all
+of whom are descended from a non-nut-cracking mother
+(Pama).
+Introduction of novel panda and coula nuts
+Cracking of novel nuts
+Individuals who comprised the group at the time of the
+study each year were divided into three age groups for the
+purposes of analysis: adults (based on the earliest age at
+which first parturition has been observed at Bossou: 9 years
+and above), juveniles (5–8 years), and infants (based on
+age at weaning: 0–4 years). Chimpanzees’ responses to
+the unfamiliar nuts were classified into one of three gen-
+eral categories. First, “ignore” described individuals who
+displayed no visible signs of interest towards the nuts:
+they neither approached them, nor looked at or handled
+them in any way. Second, “explore” comprised the behav-
+iour of individuals who looked at closely, handled, sniffed,
+mouthed, or bit into nuts. Finally, “crack” included all at-
+tempts when a nut was placed on an anvil stone and when
+a hammer was used to deliver blows in the manner used
+for oil-palm nuts, whether or not the cracking efforts were
+eventually successful. Table 3 shows the proportions of
+group
+members exhibiting the three different types of re-
+sponses in each year when the experiments were conducted.
+In the case of coula nuts, the behaviour of one individ-
+ual was of particular interest: an adult female named Yo
+(estimated age in 2002: 40 years) who, from the very first
+presentation of coula proceeded to crack the nuts with all
+216
+Fig. 2 Average number of hammer blows required to crack a sin-
+gle oil-palm nut as a function of age. Data collected in 1999 by
+D.B. and T.M. Filled circles represent the performance of individ-
+ual chimpanzees who were able to crack nuts, while open circles
+show age distribution of individuals who were never seen to suc-
+ceed at cracking. Error bars are standard errors of the mean
+
+PDF PAGE 5
+217
+the signs of familiarity – that is without any form of ex-
+ploratory behaviour (Matsuzawa and Yamakoshi 1996).
+The hard shell of coula nuts is covered by a thin layer of
+dried fruit and there is no obvious indication that an edi-
+ble part is concealed below both of these layers. Never-
+theless, Yo never tried to bite or chew the outer layer; in-
+stead she cracked to extract the kernel. Furthermore, she
+showed a clear preference for dark-coloured, ripe coula
+nuts (which are customarily cracked at other sites) over
+green, unripe ones, carefully removing all of the former from
+the mixed piles, and cracking them all before moving on
+to the latter. All other individuals who eventually went on
+to crack coula nuts did so after extensive sniffing and han-
+dling.
+While in the initial series of presentation adult mem-
+bers of the group, with the notable exception of Yo, did not
+crack coula nuts – and of the remaining adults only half
+showed any interest in the novel items – all of the juve-
+niles proceeded to either crack or explore them. Through
+the years of repeated presentation, such high levels of in-
+terest were sustained in this age group (at least 60% of ju-
+veniles cracking in each of the following years), while the
+percentage of adults attempting to crack coula gradually
+rose from 11% in 1993 to 33% in 1996, 40% in 2000, and
+67% in 2002. This was partly due to juveniles who had al-
+ready cracked in previous years growing up to adulthood,
+and partly to adults who had shown only exploratory be-
+haviours in the first year or two eventually moving on to
+cracking (among the nine individuals who were already in
+the adult category in 1993, this was a significant increase:
+Cochran’s Q =9.75, df =3, P =0.021). By the years 2000
+and 2002, coula nuts had become popular targets for crack-
+ing, so much so that several individuals altogether aban-
+doned oil-palm nut-cracking in the outdoor laboratory, fo-
+cusing instead on the limited number of available coula
+nuts.
+Results from the panda nut experiment presented a
+contrast to the above. Of the 13 individuals who were able
+to crack oil-palm nuts in 2000, only four attempted to
+crack the hitherto unfamiliar nuts. Two (including Yo) were
+adult females and two were juveniles. All four displayed
+exploratory behaviours of sniffing and mouthing before
+cracking, and after succeeding to crush the shell, the ker-
+nel was again sniffed then cautiously chewed. The only
+other three individuals who showed any interest in panda
+nuts were youngsters (two juveniles and one infant), two
+of whom were unable to crack nuts by themselves; they
+sniffed and held panda nuts in their hands before dropping
+and abandoning them. The remaining 13 chimpanzees
+Fig. 3a–d Sequence of actions in a typical bout of nut cracking.
+An adult male, Na, first places a single oil-palm nut on an anvil
+stone using his left hand (a). He then uses a hammer stone, held in
+the right hand, to pound the nut repeatedly ( b). Once the outer
+shell is broken, he retrieves the kernel with the left hand ( c) and
+eats it (d). While members of the Bossou community include both
+left- and right-handed nut-crackers, for any one chimpanzee the
+use of the left and right hands in the four stages of nut-cracking il-
+lustrated here show perfect concordance across bouts (photos
+taken in Jan. 1995)
+
+PDF PAGE 6
+never approached or investigated panda nuts. This lack of
+interest was soon assumed by the two adult females as well,
+who after a single successful bout of panda-nut-cracking
+abandoned all further cracking efforts during subsequent
+sessions. Only in the two juveniles’ case did cracking at-
+tempts continue, even though no further nuts were cracked.
+Perhaps the most relevant analysis in the case of the
+panda experiment is the comparison with the initial pre-
+sentation of coula nuts. For this analysis, we selected all
+of those individuals within the group who were present
+both during the coula 1993 and the panda 2000 studies,
+and were already within the juvenile or adult categories
+during both, thus creating a matched group (i.e. infants, at
+most 1.5 years old during coula 1993, and adults and ju-
+veniles who disappeared before panda 2000 were ex-
+cluded). Although in both experiments an equal number
+of such individuals attempted to crack the novel nuts (2 of
+10 subjects), when the proportion of individuals showing
+any kind of interest in the two species is examined the dif-
+ference is significant, with more individuals cracking or
+exploring coula nuts than panda nuts, as opposed to ig-
+noring them (Cochran’s Q =4, df =1, P =0.046).
+Observation of nut-cracking conspecifics
+Individuals who made cracking attempts at unfamiliar ob-
+jects often elicited great interest in conspecifics (Fig. 4).
+Occasionally a whole group would gather around a single
+nut-cracking individual. Whether some individuals were
+preferentially selected as models for observation was anal-
+ysed by noting the identity of observers and the targets of
+their observation. Observation of one group member by
+another was said to take place when the latter approached
+the former to within a distance of 1 m and remained with
+gaze fixed upon the target individual’s face or hands for at
+least 3 continuous seconds. Rates of observation were cal-
+culated as the number of bouts of observation per hour of
+nuts being handled or cracked by at least one of two or
+more individuals present in the outdoor laboratory.
+We recorded a total of 203 observation bouts across four
+experiments (oil-palm, coula, and panda in 2000, and coula
+in 2002). Adult observers directed their observations to-
+wards related individuals (siblings, offspring, mother) in
+218
+Table 3 Responses of chim-
+panzees in three different age
+classes to oil-palm nuts as well as
+to the presentation of novel spe-
+cies of nuts. N Number of indi-
+viduals within a particular age
+group in given year. Values show
+number of individuals in each age
+group who attempted to crack the
+nuts (Crack), those who displayed
+an interest in the nuts, including
+handling intact nuts or eating left-
+overs cracked by others but did
+not attempt to crack themselves
+(Explore), and those who were
+never observed to show any inter-
+est in the nuts (Ignore). Values in
+brackets are proportions of the to-
+tal number of individuals in the
+respective age group
+a Letters indicate authors’ initials:
+DB Dora Biro, NI Noriko Inoue-
+Nakamura, RT Rikako Tonooka,
+GY Gen Yamakoshi, CS Claudia
+Sousa, TM Tetsuro Matsuzawa
+Age Nut/year Data collected by a N Crack Explore Ignore
+group
+Adult Oil-palm 2000 TM, DB, CS 10 8 (0.80) 2 (0.20) 0 (0.00)
+Coula 1993 TM, NI, RT, GY 9 1 (0.11) 4 (0.44) 4 (0.44)
+Coula 1996 TM, NI 9 3 (0.33) 0 (0.00) 6 (0.67)
+Coula 2000 TM, DB, CS 10 4 (0.40) 3 (0.30) 3 (0.30)
+Coula 2002 TM, DB, CS 9 6 (0.67) 1 (0.11) 2 (0.22)
+Panda 2000 TM, DB, CS 10 2 (0.20) 0 (0.00) 8 (0.80)
+Juvenile Oil-palm 2000 TM, DB, CS 6 5 (0.83) 1 (0.17) 0 (0.00)
+Coula 1993 TM, NI, RT, GY 4 2 (0.50) 2 (0.50) 0 (0.00)
+Coula 1996 TM, NI 5 3 (0.60) 0 (0.00) 2 (0.40)
+Coula 2000 TM, DB, CS 6 4 (0.66) 2 (0.33) 0 (0.00)
+Coula 2002 TM, DB, CS 4 3 (0.75) 0 (0.00) 1 (0.25)
+Panda 2000 TM, DB, CS 6 2 (0.33) 2 (0.33) 2 (0.33)
+Infant Oil-palm 2000 TM, DB, CS 4 0 (0.00) 4 (1.00) 0 (0.00)
+Coula 1993 TM, NI, RT, GY 4 0 (0.00) 0 (0.00) 4 (1.00)
+Coula 1996 TM, NI 4 0 (0.00) 0 (0.00) 4 (1.00)
+Coula 2000 TM, DB, CS 4 0 (0.00) 4 (1.00) 0 (0.00)
+Coula 2002 TM, DB, CS 5 1 (0.20) 2 (0.40) 2 (0.40)
+Panda 2000 TM, DB, CS 4 0 (0.00) 1 (0.25) 3 (0.75)
+Fig. 4 An adult female, Yo, cracks newly-introduced coula nuts
+while two juveniles observe her actions closely. Yo was the only
+member of the group to crack coula nuts without initial sniffing or
+other exploratory behaviours. Her cracking often attracted the at-
+tention of chimpanzees from all age classes. Note the row of three
+panda nuts in the lower left corner ( left arrow), which Yo com-
+pletely ignored on this occasion. The pile of coula nuts is visible
+on the right (up arrow)
+
+PDF PAGE 7
+12.9% of cases (4 of 31 observations), juveniles in 13.3%
+of cases (13 of 98 observations) and infants in 55.4%
+cases (41 to 74 observations). Infants thus chose related
+individuals for observation significantly more often than
+adults or juveniles did (
+χ2 =41.088, df =2, P <0.0001). For
+both juveniles and infants, the related individual chosen
+for observation was predominantly the mother (84.6%
+and 90.2% of observations of related individuals, respec-
+tively), rather than a sibling.
+Adults served as the targets of observation in 170 cases,
+juveniles in 33, while infants were never observed. Data
+for rates of observation of individuals (square root trans-
+formed to meet assumptions of normality and homogene-
+ity of variance) was analysed using a General Linear Model
+(rate of observation = observer’s age + nut species), re-
+vealing a significant effect of age on the rate at which in-
+dividuals in the three different age classes served as tar-
+gets of observation (F
+2,7 =21.36, P =0.001), but not of nut
+species (F2,7 =1.11, P =0.383). Figure 5 shows that adults
+were not only the most likely to be the targets of observa-
+tion but also the least likely to be observers themselves.
+On the other hand, juveniles were rarely targets but often
+observers, both of adults and of other juveniles. A one-
+way ANOV A showed that the rates of observations tar-
+geted towards individuals in the same age class or older
+were significantly higher than those targeted towards younger
+conspecifics (F1,34 =20.91, P <0.001). In general, the data
+clearly show that the chimpanzees paid attention to the
+nut-cracking activities of individuals in the same age class
+or older, but not younger than themselves.
+Discussion
+The cracking of hard-shelled nuts using a pair of stones as
+hammer and anvil is one of the most complex tool-using
+skills found in the wild, which so far appears to be re-
+stricted to certain West African chimpanzee communities
+(Boesch et al. 1994; McGrew et al. 1997). At Bossou,
+Guinea, it was first discovered in 1978 (Sugiyama and
+Koman 1979) and has been studied extensively since
+1988 (Matsuzawa 1994; Matsuzawa et al. 2001). At this
+site, the community’s relative isolation may have facili-
+tated the emergence of a particular constellation of behav-
+ioural traditions; in other words, the establishment of
+Bossou chimpanzees’ own unique culture. How might the
+cracking of oil-palm nuts using stone anvils and hammers
+have entered the behavioural repertoire of the Bossou
+community and what ensures its continued existence? We
+examined three separate yet complementary lines of evi-
+dence in order to provide a model for the emergence and
+maintenance of such tool-using traditions in wild chim-
+panzee communities. Our approach combines data from
+an extensive geographical survey, longitudinal records of
+skill acquisition by individuals, and field experiments ex-
+amining innovation and social transmission in the selec-
+tion of targets for tool use. We will discuss the results ob-
+tained through these approaches below, focusing on (1)
+ecological contributions to regional variation in wild chim-
+panzees’ tool use, (2) intra-community transmission of tool
+use and aspects of learning on the individual level, and (3)
+processes underlying inter-community transmission.
+Ecological factors are not sufficient to explain 
+regional variation in nut-cracking
+Members of two of three recently discovered communi-
+ties adjacent to Bossou (Yeale and Diecke) include indi-
+viduals who use a pair of stones as hammer and anvil to
+crack open hard-shelled nuts; however, the species of nut
+chimpanzees use as targets of the behaviour differ among
+these neighbouring groups. Our survey of the vegetation
+in the home ranges of all four communities revealed no
+clear relationship between the presence of one or more of
+219
+Fig. 5 Individuals in different age classes as targets of observation
+by conspecifics. Incidents of one chimpanzee observing another
+handling or cracking oil-palm, coula, and panda nuts were recorded.
+Observers were also assigned to one of the three age classes: adult,
+juvenile and infant. Values were calculated as occurrences per
+hour. Total time only concluded periods where either exploratory
+behaviours or nut-cracking attempts were being directed towards
+the nuts with at least two chimpanzees present in the outdoor lab-
+oratory. Data collected in 2000 ( oil-palm, coula00, panda) and
+2002 (coula02) by D.B. and T.M.
+
+PDF PAGE 8
+three species of nuts (oil-palm, panda, coula) at a site and
+the target species used in nut-cracking. Of the 12 possibil-
+ities for nut-cracking (4 sites × 3 species of nut), in four
+cases the behaviour is ecologically impossible (coula and
+panda absent at Bossou and Seringbara), while of the re-
+maining eight possibilities, five are taken (oil-palm nut-
+cracking at Bossou, oil-palm- and coula-cracking at Yeale,
+and coula- and panda-cracking at Diecke) and three are
+not (oil-palm at Seringbara and Diecke, panda at Yeale).
+Hence, it is reasonable to conclude that ecological differ-
+ences alone – such as the availability of target items – are
+not sufficient to explain why members of some communi-
+ties use particular species of nuts as targets for nut-crack-
+ing, while others do not. What other determinants are there
+for these behavioural differences and how are novel nut-
+cracking habits incorporated into and maintained in a
+group’s repertoire? We investigated these questions through
+focusing in detail on the developmental processes of ac-
+quisition.
+Development of nut-cracking skill relies 
+on individual learning aided by observation
+Long-term records have allowed us to highlight various
+aspects of the nut-cracking skill, such as a sensitive period
+for the acquisition of the motor pattern involved in the ac-
+tivity, and the presence of perfect handedness in every in-
+dividual. Furthermore, we found that all siblings, apart
+from a single exception, exhibited identical handedness in
+nut-cracking, while no such patterns were identified between
+mothers and their offspring. Instead, all possible combina-
+tions in mother-infant comparisons of laterality (left vs right,
+right vs left, right vs right, and left vs left) were exhibited.
+In addition, both of the non-nut-cracking mothers in the
+group produced several offspring who were able to crack
+nuts, and the single juvenile who had not fully acquired
+the behaviour prior to her disappearance at the age of 7
+(although she frequently manipulated both nuts and stones)
+had a nut-cracking mother. These observed patterns invite
+speculation as to the factors contributing to the develop-
+ment of the skill.
+Young chimpanzees remain in close proximity of the
+mother until the age of 4–5 years, continuing to suckle for
+as long as the first 4 years. During this period, the mother’s
+behaviour toward her offspring is characterised by high
+levels of tolerance. Infants are often seen to take newly-
+extracted kernels from the mother’s hand and interact
+with the stones used by her for cracking; in fact, such
+episodes represent 1-year-old infants’ first steps toward
+nut-cracking. Although adults at Bossou do not engage in
+direct teaching (cf. two reported cases in Boesch 1991),
+they thus provide the setting within which individual
+learning occurs, aided by observation. Infants are allowed
+to freely explore the nuts, kernels, and stone tools used, as
+well as to observe closely each stage of the nut-cracking
+process. It is important to note that during this early stage
+of learning, the infants are never directly reinforced by
+food for their attempts, yet the latter continue for years
+before the first kernel is autonomously extracted (Matsu-
+zawa et al. 2001). The motivation that drives the infants to
+carry on despite the lack of direct reward is a truly in-
+triguing issue to consider. Matsuzawa et al. (2001) have
+described the process as “Education by master-apprentice-
+ship”, and stress that infant chimpanzees are driven not by
+a motivation for food but to produce a copy of the mother’s
+actions. In this they are both motivated and aided by a strong
+affectionate bond with the mother, through her continuing
+tolerance toward them. de Waal (2001) coined the term
+“Bonding and identification-based observational learn-
+ing” (BIOL) to refer to a similar mechanism whereby the
+infants’ learning is “born out of the desire to be like oth-
+ers” (p 231). These mechanisms thus emphasise a role for
+models whom the infants observe and attempt to copy. In
+the early years of the infants’ life the mother provides the
+most important model for observation, while as the in-
+fants grow, they begin more and more to observe other
+members of the community as well, including both related
+and unrelated individuals within the group (see Hirata and
+Celli 2003; Sousa et al. 2003; and Hayashi and Matsu-
+zawa 2003, this issue, for studies exploring this topic within
+a captive setting).
+What roles do these models play in infants’ acquisition
+and what information is transmitted from the model to the
+observer? Detailed accounts at Bossou of the develop-
+mental processes involved in infant chimpanzees’ acquisi-
+tion of the nut-cracking skill (Inoue-Nakamura and Mat-
+suzawa 1997; Matsuzawa 1994) do not point towards im
+i-
+tative learning as the underlying mechanism. Young chim-
+panzees
+go through several stages of manipulating nuts
+and stones, first as single objects then in various combi-
+nations, and only gradually come to approximate the cor-
+rect sequence of actions. Hence, the observed models’
+role is likely to lie in providing the observer with infor-
+mation about the objects necessary and/or about the out-
+come of a successful bout of nut cracking – the former an
+example of stimulus or local enhancement, the latter a
+more sophisticated “emulation” learning (Tomasello 1996;
+see also Whiten and Ham 1992, for a taxonomy of social
+learning terms).
+Returning to the question of inter-sibling correspon-
+dence in laterality, a number of different explanations are
+possible. Given the absence of clear patterns in mother-in-
+fant laterality, imitation or mirror-image imitation of the
+mother are unlikely to be involved. An intriguing possi-
+bility is that older siblings themselves make important mod-
+els
+for observation, however, our data shows that these in-
+dividuals are less likely to be observed by their younger
+siblings than are mothers or even unrelated members of
+the group. We favour an explanation more in line with the
+learning mechanisms outlined above: the possibility that
+some aspect of the conditions provided by each mother –
+under which her infants’ learning takes place – may be
+identical in the case of each of her offspring, and encour-
+age a particular hand being favoured in the infants’ ham-
+mering. (Note that the single individual to exhibit lateral-
+ity divergent from his siblings was born to a non-nut-crack-
+ing
+mother!) Between-mother variation may then account
+220
+
+PDF PAGE 9
+for the patterns in mother-infant comparisons of laterality.
+What features might comprise such relevant aspects of the
+setting within which infants’ learning takes place should
+be elucidated in the future.
+Inter-community transmission through immigration 
+and subsequent spread of knowledge: the emergence 
+of “cultural zones”
+Our field experiments, which introduced to the Bossou group
+species of nuts cracked at neighbouring sites but unavail-
+able locally, produced some interesting results relevant to
+the issue of cultural transmission between chimpanzee
+communities. In the case of coula nuts, a female named
+Yo stood out from the group as the only individual who
+proceeded to crack these nuts from the earliest presenta-
+tion, with all the signs of familiarity. This suggested to us
+that Yo was an immigrant female, having arrived at
+Bossou as an adolescent prior to 1976 from a site such as
+neighbouring Yeale, where coula nut-cracking was part of
+the community’s cultural repertoire. It is remarkable that
+she recognised the nut, presumably unseen for up to 20
+years, and immediately set out to crack it without hesita-
+tion. It is also interesting that not only Yo, but also other
+members of the community who were observed to crack
+coula nuts, favoured them to the extent of temporarily
+abandoning oil-palm nut-cracking altogether. This was in
+spite of the fact that coula nuts are both tougher to break
+open (Boesch and Boesch 1983), and that their nutritional
+value is lower (energy content per 100 g of kernel of oil-
+palm: 663 kcal, coula: 356 kcal; Matsuzawa 1999; Boesch
+and Boesch 1983) than oil-palm nuts’. It is possible that
+novelty effects in combination with the perception of
+coula nuts as a limited resource among the more abundant
+oil-palm nuts may have been responsible.
+In contrast, panda nuts are intermediate in nutritional
+value (407 kcal per 100 g) yet they are the hardest of the
+three nuts to crack: Boesch and Boesch (1983) report that
+in approximately 90% of cases panda nut-cracking at Tai
+Forest is accomplished with the aid of stone rather than
+wooden hammers, while the opposite is true for coula nuts
+which are predominantly cracked by wooden hammers. In
+addition, these authors found that the impulse needed to
+crack a single panda nut is approximately three times that
+required for coula (when using stone hammer on stone
+anvil, as at Bossou). The two Bossou females whom we
+observed to crack and taste panda nuts may have aban-
+doned their efforts following this first encounter as a re-
+sult of having gauged the value of these nuts as low com-
+pared to the effort invested and given the alternative nuts
+available. Panda nut-cracking did not continue beyond the
+first session in the case of adults, and in the case of juve-
+niles became sporadic and was soon also abandoned.
+The most conspicuous contrast to emerge from our be-
+havioural observation during the coula and panda experi-
+ments was the absence in the case of panda nuts of a knowl-
+edgeable adult, possessing the equivalent of Yo’s apparent
+familiarity with coula nuts. This may be accounted for by
+the low likelihood of immigration from far-away Diecke,
+the nearest site at which panda nut-cracking has so far been
+confirmed. The impact that this difference had on the over-
+all rates, age-class distribution, and persistence of panda
+and coula nut-cracking within the community is perhaps
+best explained in terms of the reactions of individuals to
+others’ cracking attempts. Aiming to address the question
+of how newly-introduced tool-using skills may spread within
+the community, we examined social aspects of the chim-
+panzees’ responses to the novel nuts.
+Our analysis of “observing behaviour” revealed that
+individuals were likely to pay close attention to the nut-
+cracking efforts of conspecifics in the same age group or
+older, but not younger than themselves. It should be noted
+that the juvenile as well as the adult group included suc-
+cessful crackers of the unfamiliar nuts and would there-
+fore have provided similarly numerous, efficient, and
+salient models – yet we recorded only a single occasion
+where a juvenile was observed by an adult (the mother).
+The most general trend that emerged from this analysis
+was thus the tendency for chimpanzees to pay attention to
+the tool-using activities of conspecifics in their own age
+group or older, but not younger.
+The contrast between the ways members of the Bossou
+community reacted to the two species of novel nuts is of
+fundamental relevance to the issue of tool-using traditions
+in wild chimpanzee communities. We surmise that in the
+presence of a “reliable” model such as an adult keenly en-
+gaged in the handling of an unfamiliar object, new behav-
+ioural traits such the cracking of novel nuts will spread
+rapidly and predictably within a community. On the other
+hand, in the absence of such models, hesitant and short-
+lived attempts by members of a group are not sufficient to
+ensure the quick spread of a behaviour among essentially
+neophobic individuals. Our results therefore support the
+hypothesis that observational learning plays a pivotal role
+in individuals’ acquisition of population-specific behaviours
+such as nut-cracking. This is consistent with the “culture”
+interpretation, whose key prerequisite it is that a behav-
+iour that is shared by members of a community be passed
+from generation to generation through non-genetic chan-
+nels (Matsuzawa 1999; see also McGrew 1998 for a his-
+torical review). If a model’s behaviour indeed facilitates
+subsequent attempts in observers, then cultural innova-
+tions are likely to spread horizontally (e.g. between unre-
+lated juvenile playmates) or vertically/orthogonally down-
+wards (e.g. from mother to offspring or from juvenile to
+unrelated infant, respectively), but not, in this case, up-
+wards. Without the influence of immigrant adults, new
+cultural traditions such as the incorporation of novel tar-
+gets for tool use are likely to be introduced into chim-
+panzee communities by juvenile members of the group,
+who appear to be less conservative in their food choice
+and more motivated to innovate. These dual aspects of in-
+novation and transmission are thus jointly responsible for
+the existence of unique behavioural traits within commu-
+nities, and the rates at which they take place will in turn
+influence the speed with which cultural traditions are as-
+similated over time.
+221
+
+PDF PAGE 10
+Finally, it is important to note that our experiments
+dealt not with the introduction of an entirely novel behav-
+iour into the community, but the adaptation of an existing
+tool-using skill to novel target items. We observed trans-
+mission among adult members of the group, who were
+well past the end of the sensitive period during which the
+motor patterns involved in nut-cracking emerge (despite
+the fact that some adults were relatively young due to our
+classification based on reproductive age). It is possible that
+such generalisation of an existing skill is supported by dif-
+ferent learning mechanisms than the acquisition of novel
+actions. Precisely which aspects of a behaviour are trans-
+mitted before and after the end of the sensitive period re-
+main to be elucidated.
+Our data thus illuminates both inter-community and
+transgenerational aspects of cultural propagation. The three-
+way approach we have employed – extensive regional
+survey, intensive developmental tracking, and a field ex-
+periment introducing novel target items for tool use –
+clearly emphasises the role of observational learning both
+in introducing and maintaining behavioural traditions in
+wild chimpanzee communities. Through immigration, so-
+cial transmission, and subsequent “education” through gen-
+erations, sets of neighbouring chimpanzee communities can
+come to comprise “cultural zones” characterised by the
+possession of certain shared behavioural traditions. The
+observation that communities that share migrants do not
+necessarily possess identical sets of behavioural traditions
+further highlights the importance of within-community
+propagation following introduction.
+Acknowledgements We thank the Direction National de la Re-
+cherche Scientifique et Technique, République de Guinée, for
+permission to conduct field work at Bossou. The research was sup-
+ported by Grants-in-Aid for scientific research from the Ministry
+of Education, Science, Sports, and Culture of Japan (grants
+07102010, 12002009, 10CE2005, and the 21COE program). We
+would like to express our gratitude to the following people who
+have been involved in research at Bossou over the years and thus
+contributed to the data reported here: Tatyana Humle, Hiroyuki
+Takemoto, Satoshi Hirata, and Gaku Ohashi for sharing their data
+on the geographical distribution and abundance of the three species
+of nuts; and Takao Fushimi, Osamu Sakura, Masako Myowa-Ya-
+makoshi, Satoshi Hirata, Maura Celli, Tomomi Ochiai, and Misato
+Hayashi for assistance in collecting longitudinal data on laterality
+and on the development of nut-cracking in infants. We are also
+grateful to Yukimaru Sugiyama who began the study of wild chim-
+panzees at Bossou, to Guanou Goumy, Tino Camara, Paquilé
+Cherif, and Pascal Goumy for assistance in the field, and to W.C.
+McGrew and three anonymous referees for helpful comments on
+an earlier version of the manuscript.
+References
+Baldwin JP, Sabater Pi J, McGrew WC, Tutin CEG (1981) Com-
+parisons of nests made by different populations of chimpanzees
+(Pan troglodytes). Primates 22:474–486
+Boesch C (1991) Teaching among wild chimpanzees. Int J Prima-
+tol 41:530–532
+Boesch C (1995) Innovation in wild chimpanzees (Pan troglodytes).
+Int J Primatol 16:1–16
+Boesch C, Boesch H (1983) Optimisation of nut-cracking with nat-
+ural hammers by wild chimpanzees. Behaviour 83:265–286
+Boesch C, Boesch-Achermann H (2000) The chimpanzees of the
+Tai forest: behavioural ecology and evolution. Oxford Univer-
+sity Press, Oxford
+Boesch C, Marchesi P, Marchesi N, Fruth B, Joulian F (1994) Is
+nut-cracking in wild chimpanzees a cultural behavior? J Hum
+Evol 26:325–338
+Byrne RW, Byrne JME (1993) Complex leaf-gathering skills of
+mountain gorillas ( Gorilla g. beringei ): variability and stan-
+dardization. Am J Primatol 31:241–261
+Goodall J (1964) Tool-using and aimed throwing in a community
+of free-living chimpanzees. Nature 201:1264–1266
+Goodall J (1986) The chimpanzees of Gombe: patterns of behav-
+ior. Harvard University Press, Cambridge, Mass
+Hayashi M, Matsuzawa T (2003) Cognitive development in object
+manipulation by infant chimpanzees. Anim Cogn (in press)
+Hirata S, Celli ML (2003) Role of mothers in the acquisition of
+tool use behaviours by captive infant chimpanzees. Anim Cogn
+(in press)
+Humle T (2003) Culture and variation in wild chimpanzee behav-
+iour: a study of three communities in West Africa. Ph.D. Dis-
+sertation, University of Stirling, Stirling
+Humle T, Matsuzawa T (2001) Behavioural diversity among the
+wild chimpanzee populations of Bossou and neighbouring ar-
+eas, Guinea and Cote d’Ivoire, West Africa. Folia Primatol 72:
+57–68
+Inoue-Nakamura N, Matsuzawa T (1997) Development of stone
+tool use by wild chimpanzees ( Pan troglodytes). J Comp Psy-
+chol 111:159–173
+Kummer H (1971) Primate societies. University of Chicago Press,
+Chicago
+Matsuzawa T (1991) Nesting cups and metatools in chimpanzees.
+Behav Brain Sci 14:570–571
+Matsuzawa T (1994) Field experiments on use of stone tools by
+chimpanzees in the wild. In: Wrangham R, McGrew W, de
+Waal F, Heltne P (eds) Chimpanzee cultures. Harvard Univer-
+sity Press, Cambridge, Mass., pp 351–370
+Matsuzawa T (1996) Chimpanzee intelligence in nature and cap-
+tivity: isomorphism of symbol use and tool use. In: McGrew
+WC, Marchant LF, Nishida T (eds) Great ape societies. Cam-
+bridge University Press, Cambridge, pp 196–209
+Matsuzawa T (1999) Communication and tool-use in chimpanzees:
+cultural and social contexts. In: Hauser M, Konishi M (eds)
+The design of animal communication. MIT Press, Cambridge,
+Mass., pp 645–671
+Matsuzawa T, Yamakoshi G (1996) Comparison of chimpanzee
+material culture between Bossou and Nimba, West Africa. In:
+Russon AE, Bard K, Parker S (eds) Reaching into thought: the
+minds of the great apes. Cambridge University Press, Cam-
+bridge, pp 211–232
+Matsuzawa T, Takemoto H, Hayakawa S, Shimada M (1999)
+Diecke forest in Guinea. Pan Afr News 6:10–11
+Matsuzawa T, Biro D, Humle T, Inoue-Nakamura N, Tonooka R,
+Yamakoshi G (2001) Emergence of culture in wild chim-
+panzees: education by master-apprenticeship. In: Matsuzawa T
+(ed) Primate origins of human cognition and behavior. Springer,
+Tokyo Berlin Heidelberg, pp 557–574
+McGrew WC (1992) Chimpanzee material culture: implications
+for human evolution. Cambridge University Press, Cambridge
+McGrew WC (1998) Culture in non-human primates? Annu Rev
+Anthropol 27:301–328
+McGrew WC, Ham RM, White LJT, Tutin CEG, Fernandez M
+(1997) Why don’t chimpanzees in Gabon crack nuts? Int J Pri-
+matol 18:353–374
+Nishida T (1990) The chimpanzees of the Mahale Mountains: sex-
+ual and life history strategies. Tokyo University Press, Tokyo
+Sakura O, Matsuzawa T (1991) Flexibility of wild chimpanzee
+nut-cracking behavior using stone hammers and anvils: an ex-
+perimental analysis. Ethology 87:237–248
+Schaik CP van, Ancrenaz M, Borgen G, Galdikas B, Knott CD,
+Singleton I, Suzuki A, Utami SS, Merrill M (2003) Orangutan
+cultures and the evolution of material culture. Science 299:102–
+105
+222
+
+PDF PAGE 11
+Sousa C, Okamoto S, Matsuzawa T (2003) Behavioural develop-
+ment in a matching-to-sample task and token use by an infant
+chimpanzee reared by his mother. Anim Cogn (in press)
+Sugiyama Y (1981) Observations on the population dynamics and
+behavior of wild chimpanzees at Bossou, Guinea, in 1976–
+1980. Primates 22:435–444
+Sugiyama Y (1984) Population dynamics of wild chimpanzees at
+Bossou, Guinea, in 1979–1980. Primates 25:391–400
+Sugiyama Y, Koman J (1979) Tool-using and making behavior in
+wild chimpanzees at Bossou, Guinea. Primates 20:513–524
+Sugiyama Y, Fushimi T, Sakura O, Matsuzawa T (1993) Hand
+preference and tool use in wild chimpanzees. Primates 34:151–
+159
+Tomasello M (1994) The question of chimpanzee culture. In:
+Wrangham R, McGrew W, de Waal F, Heltne P (eds) Chim-
+panzee cultures. Harvard University Press, Cambridge, Mass,
+pp 301–317
+Tomasello M (1996) Do apes ape? In: Heyes CM, Galef BG (eds)
+Social learning in animals: the roots of culture. Academic Press,
+San Diego, Calif., pp 319–346
+Waal FBM de (2001) The ape and the sushi master. Basic Books,
+New York
+Whiten A, Ham R (1992) On the nature and evolution of imitation
+in the animal kingdom: reappraisal of a century of research.
+Adv Stud Behav 21:239–283
+Whiten A, Goodall J, McGrew WC, Nishida T, Reynolds V, Sugi-
+yama Y, Tutin CEG, Wrangham RW, Boesch C (1999) Cul-
+tures in chimpanzees. Nature 399:682–685
+Yamakoshi G (2001) Ecology of tool use in wild chimpanzees: to-
+ward reconstruction of early hominid evolution. In: Matsuzawa
+T (ed) Primate origins of human cognition and behavior.
+Springer, Tokyo Berlin Heidelberg, pp 537–556
+Yamakoshi G, Matsuzawa T (1993) Preliminary surveys of the
+chimpanzees in the Nimba Reserve, Cote d’Ivoire (in Japanese
+with English summary). Primate Res 9:13–17
+223

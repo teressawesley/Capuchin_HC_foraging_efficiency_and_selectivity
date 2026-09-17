@@ -1,0 +1,710 @@
+PDF PAGE 1
+rsbl.royalsocietypublishing.org
+Review
+Cite this article: Jordan LA, Ryan MJ. 2015
+The sensory ecology of adaptive landscapes.
+Biol. Lett. 11: 20141054.
+http://dx.doi.org/10.1098/rsbl.2014.1054
+Received: 11 December 2014
+Accepted: 5 May 2015
+Subject Areas:
+behaviour
+Keywords:
+adaptive landscape, fitness surface, behavioural
+plasticity, perception, sensory ecology
+Author for correspondence:
+Lyndon A. Jordan
+e-mail: lyndonjordan@gmail.com
+An invited review to commemorate
+350 years of scientific publishing at
+the Royal Society.
+Animal behaviour
+The sensory ecology of adaptive
+landscapes
+Lyndon A. Jordan and Michael J. Ryan
+Department of Integrative Biology, The University of Texas at Austin, Austin, TX 78712, USA
+In complex environments, behavioural plasticity depends on the ability of an
+animal to integrate numerous sensory stimuli. The multidimensionality of
+factors interacting to shape plastic behaviour means it is difficult for both
+organisms and researchers to predict what constitutes an adaptive response
+to a given set of conditions. Although researchers may be able to map the
+fitness pay-offs of different behavioural strategies in changing environments,
+there is no guarantee that the study species will be able to perceive these
+pay-offs. We thus risk a disconnect between our own predictions about
+adaptive behaviour and what is behaviourally achievable given the umwelt
+of the animal being studied. This may lead to erroneous conclusions about
+maladaptive behaviour in circumstances when the behaviour exhibited is
+the most adaptive possible given sensory limitations. With advances in the
+computational resources available to behavioural ecologists, we can now
+measure vast numbers of interactions among behaviours and environments
+to create adaptive behavioural surfaces. These surfaces have massive heuris-
+tic, predictive and analytical potential in understanding adaptive animal
+behaviour, but researchers using them are destined to fail if they ignore
+the sensory ecology of the species they study. Here, we advocate the contin-
+ued use of these approaches while directly linking them to perceptual space
+to ensure that the topology of the generated adaptive landscape matches
+the perceptual reality of the animal it intends to study. Doing so will
+allow predictive models of animal behaviour to reflect the reality faced by
+the agents on adaptive surfaces, vastly improving our ability to determine
+what constitutes an adaptive response for the animal in question.
+1. A complex problem
+Understanding how plasticity in behaviour is generated through the interaction
+between genetic, epigenetic and environmental factors is a major research area
+in behavioural ecology [1 – 3]. Despite decades of research, characterizing the
+ways animals respond to their environments remains a challenge for behaviour-
+al ecologists. The incredible complexity of interactions among phenotypes, their
+development and the environment in which they reside means that accurately
+predicting how an animal will respond under a given set of conditions is only
+rarely possible and never straightforward. The limitations occur on two fronts:
+first, as researchers, we may be unable to measure or observe the internal and
+external aspects of the animal’s environment that influence its behaviour [4].
+Second, even if we are able to identify factors of the environment that are
+known to influence behaviour, then we need also to understand the umwelt
+of the animal—how it perceives the world around it as a function of its sensory
+abilities. The multidimensionality of potential interactions among factors that
+influence behaviour means that making predictions about the optimality, adap-
+tive value and evolutionary trajectories of behavioural phenotypes is a
+formidable challenge, to say nothing of the difficulty in measuring how animals
+perceive these factors. Nevertheless, it is a challenge that must be met if we are
+ultimately to understand the evolution of behaviour. In this review, we discuss
+& 2015 The Author(s) Published by the Royal Society. All rights reserved.
+
+PDF PAGE 2
+how modern analytical approaches may combine studies of
+optimality, sensory ecology and behavioural plasticity to
+meet this challenge.
+2. Considering the umwelt of our study species
+The field of sensory ecology has made great inroads into
+understanding how variation in the sensory abilities among
+individuals and species influences animal behaviour [5,6].
+Although traditionally focused on the mechanistic bases
+of sensory biology [7–9], the field of sensory ecology increas-
+ingly incorporates evolutionary theory into analyses of sensory
+biology, examining the phylogenetic, developmental and
+allocation trade-offs inherent in sensory systems [4]. These
+considerations are especially pertinent when considering
+behavioural plasticity in response to variable environments.
+To maximize fitness across all contexts, the optimal behaviour-
+al strategy would of course be to perceive and respond to
+information about the environment with perfect accuracy.
+Yet, the perceptual space or umwelt of an animal—the world
+that it can access through its own sensory systems—may
+place bounds on its ability to adaptively respond to environ-
+mental stimuli. Similarly, in cases where an individual is
+able to perceive differences in relevant ecological factors, it
+may lack the behavioural plasticity required to effectively
+respond to these factors. Turning a blind eye (or deaf ear, or
+anosmic nose) to the ability of the individual to perceive
+and respond to its environment will lead to a disconnect
+between our predictions of adaptive animal behaviour
+and the sensory reality defined by the umwelt of our
+study species. Underlying sensory limitations may lead us to
+conclude that animals are making maladaptive transitions
+among behavioural states when they are actually acting opti-
+mally given the information they are able to collect from their
+environments. Alternatively, in some cases, organisms have
+access to perceptual space that is inaccessible to humans;
+birds and bees [4,5] can see UV light [6], and bats can hear
+ultrasound [7], potentially clouding our ability to make reason-
+able predictions about adaptive animal behaviour based on
+our own experience.
+A good example of the limitations sensory biology may
+place on behaviour is seen in the relationship between temp-
+erature, sex determination and adaptive sex allocation. For
+some fish [10] and many reptiles [11], sex is determined
+by the ambient temperature during early development
+(temperature-dependent sex determination, TSD). This can
+facilitate adaptively plastic allocation of offspring sex if
+brood sex ratio can be manipulated to favour the rarer sex.
+A recent study on painted turtles ( Chrysemys picta ) demon-
+strated that females choose nest sites with temperatures that
+will give rise to an adaptive offspring sex ratio [12]. This
+result may lead to predications about optimal sex allocation
+in other related taxa. Yet, most studies have failed to convin-
+cingly demonstrate that females choose nests that result in
+optimal sex ratios [12]. Indeed, the variation in environment
+that potentiates adaptive sex allocation may render popu-
+lations susceptible to maladaptive sex ratios if these cannot
+be accurately perceived or predicted [13]. Although there is
+a clear benefit of sensing both the population sex ratio and
+the likely nest temperatures to optimally adjust sex ratios,
+there is a paucity of evidence that this actually occurs. Argu-
+ments about adaptive nest site choice based on temperature
+must therefore be tempered by the fact that it is far from
+clear that animals with TSD can always sense temperature
+or population sex ratio.
+Sexual selection by mate choice is another, and an
+especially intriguing, domain where perceptual biology
+plays a significant role [14]. A controversy in sexual selection
+is the degree to which females base their mate choice on traits
+that are correlated with heritable variation for offspring sur-
+vivorship [15]. Despite well-developed theory, the evidence
+for a ‘good genes’ effect is sparse, and when it does occur,
+the effect is small [16]. The reasons for the paucity of evidence
+and effect, despite decades of research on good-genes mate
+choice, are varied. For example, there could be lack of herita-
+ble variation for survivorship, and direct benefits could be far
+more important than indirect benefits in driving the evol-
+ution of preferences [17]. Another possibility is that females
+might not always have perceptual access to underlying
+genetic variation, either because there is no phenotype –
+genotype correlation, or the correlation is so subtle that it
+cannot be perceived. This might be why the two most suc-
+cessful demonstrations of genetically based mate choice are
+associated with perceptual pathways known to be both acces-
+sible to choosers and indicative of genotype: choice for
+conspecifics versus heterospecifics [14], and choice for MHC
+compatibility [18]. In the former case, we know that there is
+strong linkage between the species-specific courtship traits
+and the genetic identity of the species; even humans are
+able to identify species of many birds, frogs, crickets and fire-
+flies by their courtship signals. In the latter, choice for
+compatible MHC genes appears to be based exclusively on
+odour cues [18,19]. There is no reason to think that all traits
+in all modalities will show the same statistical linkage with
+underlying genetic variation, and that this meaningful
+variation (i.e. the phenotype – genotype correlation) will be
+equally accessible in all modalities. Thus, arguments about
+optimal mate choice, even when based on theoretical
+ground as well traversed as good genes hypotheses, may
+break down when sensory ecology is ignored.
+More generally, across modalities and taxa, we find
+examples of sensory limitations or errors leading to subopti-
+mal or maladaptive behaviour [4]. In many bird species,
+photoperiod cues influence laying date, which may be adap-
+tive if they align with later life-history events such as nesting
+time, but which can become maladaptive under the novel
+environmental conditions generated, for instance, by anthro-
+pogenic disturbance [20]. Similarly, for many invertebrates,
+anthropogenic sources of light can lead to navigation errors.
+Moths fly to the black-lights of entomologists as well as to
+urban lights [21], and mayflies lay their eggs on dry asphalt
+roads because they perceive the reflected polarized light as
+a water surface [22]. Perceptual limitations may also be
+directly exploited to manipulate the behaviour of con- and
+heterospecifics [14]. Male goodeid fishes have yellow bands
+that mimic worms, attracting females in search of prey, and
+male characin swordtails have a lure on the pectoral spine
+that resembles an ant; water mites drum the water’s surface
+to mimic the vibrations of their copepod prey, and moths
+mimic the echolocation calls of predatory bats to freeze
+their females in fright in order to gain sexual access (reviewed
+in [14]). Even in systems as seemingly robust as kin recog-
+nition in eusocial insects, perceptual limitations can lead to
+maladaptive responses. Workers of the killer bee Apis
+mellifera scutellata mistake the pheromonal bouquet of the
+rsbl.royalsocietypublishing.orgBiol. Lett.11: 20141054
+2
+
+PDF PAGE 3
+Cape honeybee A. mellifera capensis for that of their own
+queen, rearing the larvae of these unrelated individuals and
+reducing their inclusive fitness to zero. In these cases, a cue
+has the potential to lead to an adaptive response in a plastic
+behavioural trait, but incorrect perception of the cue leads to
+maladaptive behaviour [23].
+3. Adaptive behaviour on ‘powerfully seductive’
+landscapes
+How then can we incorporate the nuance generated by vari-
+ation among individuals and species in their ability to even
+detect the parameters of our models? Although the complexity
+of relationships among factors influencing behaviour means
+that simple linear predictions become impossible, more soph-
+isticated approaches to understanding adaptive behaviour in a
+complex world may be applied. Faced with comparable com-
+plexity in examinations of gene frequencies or phenotypes
+across generations, population geneticists and evolutionary
+biologists map fitness outcomes in multidimensional space
+using approaches based on genotype (e.g. adaptive landscapes
+[24]) or phenotype space (e.g. Pareto fronts [25]). As visual and
+heuristic models of evolutionary processes, fitness landscapes
+can be ‘powerfully seductive’ [26] owing to the appeal and
+intuitive understanding of terms such as peaks, ridges and
+valleys to describe fitness consequences of different allele
+frequencies or gene-by-environment interactions. These visual
+models provide us insights into the qualitative directions in
+which selection may push populations or phenotypes. Apply-
+ing equivalent approaches to the study of animal behaviour
+holds great potential to predict or assess ‘adaptive’ behaviour,
+as they allow us to make predictions across a range of contexts,
+extrapolating into areas of unmeasured space, for example in
+the form of nutrient spaces [27] or landscapes of fear [28,29].
+Moreover, the topology of the behavioural pay-off surfaces
+can be manipulated to reflect the sensory ecology of the
+animal being studied, potentially by directly combining
+perceptual space with adaptive space.
+A major point to consider is how the original implemen-
+tation of fitness surfaces and adaptive landscapes differs from
+any application of surfaces in behavioural studies. The funda-
+mental difference comes in the perceptual capacity of the
+agents (alleles versus behaving organisms) on these surfaces.
+On Wrightian adaptive landscapes, evolutionary processes
+such as natural selection, drift and migration may change
+allele frequencies and cause populations to move through fit-
+ness peaks and troughs on the landscape [30], yet the process
+is blind because populations at any position on the surface
+cannot shift to maxima through any volitional process. Move-
+ment on these landscapes therefore represents the ultimate
+case of perceptual limitation—alleles are more or less fre-
+quent in the next generation, but themselves are inviolate
+‘billiard balls’ knocked about by selection [31]. Contrast this
+with behaving animals in fluctuating environmental con-
+ditions, which have the ability to perceive, to a greater or
+lesser extent [28], the pay-offs of different behavioural strat-
+egies. In this model, landscapes can be considered visual
+matrices where peaks and troughs represent direct/immedi-
+ate (as opposed to indirect/generational) pay-offs as fitness
+proxies for reproductive success or energetic gains. The indi-
+vidual agents on these surfaces therefore have the potential to
+move about in real time, shifting directly to pay-off optima
+without moving through troughs of low fitness. Male spiders
+choosing among female mates, for example, respond to chan-
+ging competitive contexts by rapidly switching their choices
+to increase the reproductive pay-offs under the new social
+conditions [32]. This capacity hinges on the individual’s
+ability to perceive and assess the pay-offs of a particular
+behaviour in a given context, which can only be assessed
+with a detailed understanding of the perceptual and cogni-
+tive abilities of the animal being studied. Studies into
+behavioural optimality must therefore also assess the capacity
+of the behaving agent to distinguish among local and global
+optima. While this is a mathematically straightforward exer-
+cise, it may be beyond the abilities of study organisms in
+complex environments. Any study into the optimality of
+behaviour across environmental contexts therefore naturally
+dovetails with an assessment of perceptual and cognitive
+biology [33], but novel approaches may be required to
+successfully join these fields.
+4. Successful use of surfaces in behavioural
+ecology
+Pay-off surfaces have already been used successfully in be-
+havioural ecology, for example, in the implementation of
+nutrient spaces to predict adaptive foraging behaviour [27].
+On these surfaces, the axes represent the amount of protein
+and carbohydrate, respectively, in sources of food. The ani-
+mals used in these studies have ‘protein targets’, amounts
+of protein that they must reach in order to be satiated, and
+by plotting the ratio of protein to carbohydrate in nutrient
+space, testable predictions can be made about the foraging
+strategy animals will use. The high coherence between pre-
+dictions and observed behaviour is a strong indication that
+the foraging animals are able to perceive the differing
+amounts of protein and carbohydrate in their food sources,
+i.e. they are able to perceive the surface on which their behav-
+iour is being plotted. This may not always be a reasonable
+assumption, as we now outline using a very similar foraging
+problem based on food colour.
+Many animals feed on food sources that differ in colour,
+and the colour of food sources represents some aspect of
+their nutritional value (e.g. Sylvia warblers and fruit colour
+[34]). When foraging animals need to balance their intake
+of different nutrients, it is intuitive and informative to use
+landscapes to visualize the fitness outcomes of differing fora-
+ging strategies [27]. As autumnal leaves senesce, they lose
+up to 70% of their nitrogen [35,36], which then decreases
+their nutritional value to herbivores. A visually spectacular
+correlate of this senescence (for the human umwelt at least)
+is a colour change from green to yellow to red, allowing us
+to create a hypothetical landscape with axes representing
+the nutritional pay-offs of probabilistic foraging on leaves
+of various colours. From this landscape, we might predict
+the adaptive optima for foraging on leaves of differing col-
+ours (figure 1 a). But this exercise would ignore a caution
+long ago raised by Lord Rayleigh: the assumption that the
+world we can see and measure as scientists is in any way
+similar to that perceived by the animals we study ‘is a
+good deal to take for granted’ [37]. In fact, the evolutionary
+basis for this colour transition and the consequences for
+herbivores have been hotly debated since Hamilton &
+Brown [38] suggested that autumnal coloration is a case of
+rsbl.royalsocietypublishing.orgBiol. Lett.11: 20141054
+3
+
+PDF PAGE 4
+aposematic coloration, deterring aphids from feeding on leaves
+in autumn (see also [39,40]). This claim led to the essential
+question posed by Chittka & Doring [35]: can aphids perceive
+these allegedly aposematic ‘signals’, keeping in mind that no
+herbivorous insect studied to date has red colour receptors
+[36]? These researchers demonstrated that the yellow color-
+ation of leaves actually acts as a super-normal stimulus
+because, to the visual receptors of aphids, yellow appears
+‘very’ green and is more attractive to most species of aphids
+than green, whereas red colours appear dull to the aphid
+[35]. If we construct a landscape based on increasing toxicity
+or reduced nutrient value, and hence lower fitness of feeding
+on yellow or red leaves, we might generate figure 1 a in
+which fitness peaks occur when a higher proportion of green
+leaves are eaten. On observing that aphids feed more readily
+on yellow leaves, and therefore sit lower on the fitness land-
+scape, we may assume that the aphids currently reside on a
+suboptimal point on the landscape, and that selection would
+drive behaviour to feed primarily on green leaves. But, of
+course, to an aphid, a yellow leaf looks greener than a green
+one! As such, the fitness ‘optima’ perceived by the organism
+(figure 1 b) is different from that perceived by the researcher.
+An adaptive behavioural response is therefore out of reach,
+because there is a fundamental disconnect between what we
+can visualize on a foraging fitness landscape and the biological
+reality of the surface that can be perceived by the organism.
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+10 9 8
+leaf colouration index 
+(green > yellow > red)
+proportion of diet
+proportion of diet
+7 6 5 4 3 2 1 00 1 2 3 4 5 6 7 8 9 10
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+10
+89
+7
+leaf colouration index 
+(green > yellow > red)
+6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9 10
+(a)
+(b) nutritional payoff(perceived) nutritional payoff
+Figure 1. A visual nutrient space of autumn leaves. The colour of autumn leaves has been suggested to signal either their toxicity (aposematism) or nutrient value to herbivores
+(e.g. green leaves are higher in nitrogen than yellow or red leaves). (a) Feeding on greener leaves with a higher probability (y-axis) than yellow or red leaves (x-axis) therefore
+leads to higher fitness pay-offs. (b) To the visual system of aphids, however, yellow leaves appear as a super-normal green stimulus, and will potentially be fed on with greater
+probability than other leaves. The fitness surface according to the aphid (b) is therefore very different from the actual fitness surface (a). (Online version in colour.)
+rsbl.royalsocietypublishing.orgBiol. Lett.11: 20141054
+4
+
+PDF PAGE 5
+Signals or cues that are employed to intentionally deceive
+the receiver highlight a more widespread phenomenon in
+which one individual’s adaptive landscape is masked to
+benefit another individual. While the previously discussed
+limitation may be classified simply as an error, this category
+is better described as forced errors. In the context of hetero-
+specific interactions, most predator – prey interactions are
+based on imperfect perception of the landscape in the sense
+that prey that could perfectly assess predation risk may
+never be eaten. This relationship between foraging and pre-
+dation risk has been usefully explored in landscapes
+representing the ‘ecology of fear’ [28,29], again an adaptation
+of the Wrightian landscape. In these landscapes, resource
+matching interacts with predation risk to modify the spatial
+distribution and quitting times of foragers. When habitats
+vary in both their productivity and risk of predation, individ-
+uals are predicted to distribute themselves in a manner that
+maximizes the ratio of reward to risk [28,29]. Yet, for the pre-
+dators, any behaviour that causes foragers to underestimate
+the risk of a particular patch will increase the chances of a
+successful predation event. Thus, there are a number of sen-
+sory pathways that prey may use to detect predation risk,
+and we illustrate how an animal’s perceptual abilities influ-
+ence its perception of such a landscape in figure 2. Studies
+have shown that the presence of predators can influence the
+behaviour of potential prey within the predators’ range,
+(a)( b)
+(c)( d)
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+5.0
+4.5
+4.0
+3.5
+3.0
+2.5
+2.0
+1.5
+1.0
+0.5
+0
+9 8 7 6 5 4 3 2 1 0
+perceived predation riskperceived predation risk
+x coordinates x coordinates
+x coordinates
+y coordinates y coordinates
+y coordinates y coordinates
+x coordinates
+perceived predation risk perceived predation risk
+0 1 2 3 4 5 6 7 8 9
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9
+9 8 7 6 5 4 3 2 1 0 0 1 2 3 4 5 6 7 8 9
+Figure 2. (a) The distribution of a hypothetical predator across space. The presence of predators can create a ‘landscape of fear’ [8], altering the behaviour of p rey.
+The landscape of fear, however, will vary with the ability of prey to perceive the presence of predators, but not all prey and not all sensory modalities sense
+predators in the same way. ( b) The perceived presence of predators by prey that detect predators through the visual modality. Vision gives accurate information
+about the presence of a predator when it is seen. It relies on direct line of sight, so detection rate can be lower than in other modalities (the prey might not see all
+the predators in its visual field) and the size of the detection field is typically smaller than in other modalities, but the information about spatial location is more
+accurate. Note that compared with ( a) the peaks in ( b) are lower (fewer predators are detected than are actually present), the area of the base of the peaks is
+smaller (the visual field does not encompass the entire landscape), but the gradient is still steep (i.e. greater accuracy of information). ( c) The perceived presence of
+predators by prey that detect predators through the auditory modality. Sound gives less accurate information about location than visual cues, but be cause a direct
+line of sight is not required predators can be detected by acoustic cues over a larger distance than visual cues. Sound is only emitted by the predator wh en it moves
+and when it voluntarily makes sound, such as in acoustic communication. Thus, compared with ( b) the height of the peaks ( predators detected) could be lower if
+predators tend to be silent, the areas around the peaks are larger (the acoustic detection field is larger than the visual detection field), and the pea ks are less steep
+(the accuracy of localization information is lower). ( d ) The perceived presence of predators by prey that detect predators through the olfactory modality. Here, we
+assume that odours are deposited by a predator to mark its territory or home range and thus are non-volatile. Odours provide accurate information abou t where an
+individual was but almost no information as to where it is, and this information cannot be detected at any substantial distance from the odour source when odours
+are used for marking (unlike long-distance olfactory communication in moths and some other animals). Thus, compared with ( c) the peaks are high (many prey are
+detected), the area over which prey can be detected is small and restricted to be within the actual range of the predator (unlike with visual and especia lly auditory
+cues when a predator can be detected from a prey outside of its range), and the peaks are not at all steep since the information about the where a predator i s at the
+time the odour cue is sensed in not very accurate. (Online version in colour.)
+rsbl.royalsocietypublishing.orgBiol. Lett.11: 20141054
+5
+
+PDF PAGE 6
+such as restricting foraging activities [28,29]. Figure 2 a illus-
+trates the distribution of a predator species across space. In
+this example, there are three prey species that perceive the
+presence of the predator, each through one of three different
+sensory modalities, vision (figure 2 b), sound (figure 2 c) and
+smell (figure 2 d). These three modalities give very different
+impressions of where predators are in terms of accuracy of
+present location, area over which prey are detected and
+time over which prey are detected. These perceptual differ-
+ences could result in very different adjustments that each
+prey makes to activities that carry high predation risk, such
+as foraging and sexual displays. In particular, using any
+one of these surfaces to predict or assess adaptive responses
+to changes in predator distribution needs be done with
+respect to the relevant sensory pathways with which these
+predators are perceived.
+5. Summary
+As our knowledge of the complex interactions among
+phenotypes, environments and sensory ecology increases, be-
+havioural ecologists increasingly require sophisticated tools
+to assess what constitutes an adaptive response. We have
+focused here on the clear heuristic and predictive power that
+behavioural fitness surfaces may provide, but also emphasize
+the caution that must be applied to ensure a meaningful link
+between the predictions we may generate from such models
+and the biological reality, or umwelt, of the taxon in question.
+With the advent of increased competition for readership from
+online and open access journals, many editors lean towards
+papers with increased visual impact, and computer generated
+multicoloured surfaces emphatically provide this. Neverthe-
+less, without a proper grounding in the biological reality of
+the organisms being studied, these surfaces risk placing the
+cart-before-the-horse, providing predictions into space that
+cannot be accessed or distinguished by the organism being
+studied. A pressing question we must always ask in the appli-
+cation of fitness landscapes is whether the topology of the
+generated landscape matches the perceptual world of the
+animal it supposes to study. Here, we advocate overlaying tra-
+ditional adaptive landscapes with the sensory reality of an
+animal’s perceptual space; such an approach could open new
+research avenues and provide powerful predictive tools of
+adaptive behaviour.
+Let us close by saying that even when an organism has
+the sensory ability to assess the environment, the cognitive
+capacity to process this information and the behavioural plas-
+ticity to move to places of higher fitness pay-off, this may not
+occur. In any number of realms, humans are able to accu-
+rately predict the pay-offs of behaviours yet we fail to
+approach behavioural optima. From fisheries management
+to tobacco smoking, humans provide a wonderful illustration
+that even when an organism has near perfect information of
+the pay-off landscape (often by virtue of having created it), it
+cannot be assumed that adaptive peaks will be reached, or
+the ascent even attempted.
+Competing interests.
+We report no competing interests.
+Funding. We received no funding for this study.
+Acknowledgements. We thank Michael Wade, May Dixon, members of
+the Ryan Laboratory and two anonymous reviewers for their helpful
+comments on the manuscript.
+References
+1. DeWitt TJ, Scheiner SM. 2004 Phenotypic plasticity:
+functional and conceptual approaches. Oxford, UK:
+Oxford University Press.
+2. West-Eberhard MJ. 2003 Developmental plasticity
+and evolution. Oxford, UK: Oxford University Press.
+3. Ghalambor CK, Angeloni LM, Carroll SP. 2010
+Behavior as phenotypic plasticity. In Evolutionary
+behavioral ecology (eds DF Westneat, CW Fox),
+pp. 90 – 107. Oxford, UK: Oxford University Press.
+4. Dangles O, Irschick D, Chittka L, Casas J. 2009
+Variability in sensory ecology: expanding the bridge
+between physiology and evolutionary biology.
+Q. Rev. Biol. 84, 51 – 74. (doi:10.1086/596463)
+5. Dusenbery DB. 1992 Sensory ecology: how
+organisms acquire and respond to information .
+New York, NY: WH Freeman.
+6. Chittka L, Thomson JD (eds). 2001 Cognitive ecology
+of pollination: animal behaviour and floral evolution .
+Cambridge, UK: Cambridge University Press.
+7. Barlow HB, Mollon JD. 1982 The senses. Cambridge
+Texts in the Physiological Sciences, vol. 3.
+Cambridge, UK: CUP Archive.
+8. Greenfield MD. 2002 Signalers and receivers:
+mechanisms and evolution of arthropod
+communication. Oxford, UK: Oxford University
+Press.
+9. Barth FG, Schmid A. 2001 Ecology of sensing. Berlin,
+Germany: Springer.
+10. Conover DO. 1984 Adaptive significance of
+temperature-dependent sex determination in a fish.
+Am. Nat. 123, 297 – 313. (doi:10.1086/284205)
+11. Warner D, Shine R. 2008 The adaptive significance
+of temperature-dependent sex determination in a
+reptile. Nature 451, 566 – 568. (doi:10.1038/
+nature06519)
+12. Mitchell TS, Maciel JA, Janzen FJ. 2013 Does sex-
+ratio selection influence nest-site choice in a reptile
+with temperature-dependent sex determination?
+Proc. R. Soc. B 280, 20132460. (doi:10.1098/rspb.
+2013.2460)
+13. Allsop DJ, Warner DA, Langkilde T, Du W, Shine R.
+2006 Do operational sex ratios influence sex allocation
+in viviparous lizards with temperature-dependent sex
+determination? J. Evol. Biol. 19, 1175–1182. (doi:10.
+1111/j.1420-9101.2006.01086.x)
+14. Ryan MJ, Cummings ME. 2013 Perceptual biases
+and mate choice. Annu. Rev. Ecol. Evol. Syst.
+44, 437 – 459. (doi:10.1146/annurev-ecolsys-
+110512-135901)
+15. Kirkpatrick M, Ryan MJ. 1991 The paradox of the lek
+and the evolution of mating preferences. Nature
+350, 33 – 38. (doi:10.1038/350033a0)
+16. Møller AP, Alatalo RV. 1999 Good-genes effects in
+sexual selection. Proc. R. Soc. Lond. B 266, 85 – 91.
+(doi:10.1098/rspb.1999.0607)
+17. Kirkpatrick M, Barton NH. 1997 The strength of
+indirect selection on female mating preferences.
+Proc. Natl Acad. Sci. USA 94, 1282 – 1286. (doi:10.
+1073/pnas.94.4.1282)
+18. Yamazaki K et al . 1976 Control of mating
+preferences in mice by genes in the major
+histocompatibility complex. J. Exp. Med. 144,
+1324– 1335. (doi:10.1084/jem.144.5.1324)
+19. Overath P, Sturm T, Rammensee HG. 2014 Of
+volatiles and peptides: in search for MHC-
+dependent olfactory signals in social
+communication. Cell. Mol. Life Sci. 71, 1 – 14.
+(doi:10.1007/s00018-014-1559-6)
+20. Lowry H, Lil A, Wong B. 2013 Behavioural
+responses of wildlife to urban environments.
+Biol. Rev. 88, 537 – 549. (doi:10.1111/
+brv.12012)
+21. Baker RR, Sadovy Y. 1978 The distance and nature
+of the light-trap response of moths. Nature 276,
+818 – 821. (doi:10.1038/276818a0)
+22. Kriska G, Horva ´ th G, Andrikovics S. 1998 Why do
+mayflies lay their eggs en masse on dry asphalt
+roads? Water-imitating polarized light reflected
+rsbl.royalsocietypublishing.orgBiol. Lett.11: 20141054
+6
+
+PDF PAGE 7
+from asphalt attracts Ephemeroptera. J. Exp. Biol.
+201, 2273 – 2286.
+23. Jordan LA, Allsopp MH, Oldroyd BP, Wossler TC,
+Beekman M. 2008 Cheating honeybee workers
+produce royal offspring. Proc. R. Soc. B 275,
+345 – 351. (doi:10.1098/rspb.2007.1422)
+24. Wright S. 1931 Statistical theory of evolution.
+J. Am. Stat. Assoc. 26, 201 – 208. (doi:10.2307/
+2277618)
+25. Shoval O, Sheftel H, Shinar G, Hart Y, Ramote O,
+Mayo A, Dekel E, Kavanagh K, Alon U. 2012
+Evolutionary trade-offs, Pareto optimality, and
+the geometry of phenotype space. Science 336,
+1157 – 1160. (doi:10.1126/science.1217405)
+26. Jones T. 1995 One operator, one landscape. Santa
+Fe Inst. Tech. Rep. 1995, 95 – 02. SFI working paper:
+1995-02-025.
+27. Simpson SJ, Sibly RM, Lee KP, Behmer ST,
+Raubenheimer D. 2004 Optimal foraging when
+regulating intake of multiple nutrients. Anim.
+Behav. 68, 1299 – 1311. (doi:10.1016/j.anbehav.
+2004.03.003)
+28. van der Merwe M, Brown JS. 2008 Mapping the
+landscape of fear of the cape ground squirrel ( Xerus
+inauris). J. Mammal. 89, 1162– 1169. (doi:10.1644/
+08-MAMM-A-035.1)
+29. Laundre JW et al . 2014 The landscape of fear: the
+missing link to understand top-down and bottom-
+up controls of prey abundance? Ecology 95,
+1141 – 1152. (doi:10.1890/13-1083.1)
+30. Richter H, Engelbrecht A. 2014 Recent advances in
+the theory and application of fitness landscapes .
+Berlin, Germany: Springer.
+31. Bateson G. 1979 Mind and nature: a necessary unity .
+New York, NY: Dutton.
+32. Jordan LA, Kokko H, Kasumovic MM. 2014
+Reproductive foragers: spider males choose mates
+by selecting among available competitive
+environments. Am. Nat. 183, 638 – 649. (doi:10.
+1086/675755)
+33. Mappes J, Stevens M. 2010 Sensory ecology and
+information use. In Evolutionary behavioral ecology
+(eds DF Westneat, CW Fox), pp. 148 – 151. Oxford,
+UK: Oxford University Press.
+34. Schaefer HM, Valido A, Jordano P. 2014 Birds see
+the true colours of fruits to live off the fat of the
+land. Proc. R. Soc. B 281, 20132516. (doi:10.1098/
+rspb.2013.2516)
+35. Chittka L, Do ¨ ring TF. 2007 Are autumn foliage
+colors red signals to aphids? PLoS Biol. 5,
+1640– 1644.
+36. Do ¨ ring TF, Chittka L. 2007 Visual ecology of
+aphids—a critical review on the role of colours in
+host finding. Arthropod-Plant Int. 1, 3 – 16. (doi:10.
+1007/s11829-006-9000-1)
+37. Lord Rayleigh JWS. 1874 Insects and the colours of
+flowers. Nature 11,6 .
+38. Hamilton WD, Brown SP. 2001 Autumn tree colours
+as a handicap signal. Proc. R. Soc. Lond. B 268,
+1489– 1493. (doi:10.1098/rspb.2001.1672)
+39. Archetti M, Brown SP. 2004 The coevolution theory
+of autumn colours. Proc. R. Soc. Lond. B 271,
+1219– 1223. (doi:10.1098/rspb.2004.2728)
+40. Archetti M. 2000 The origin of autumn colours by
+coevolution. J. Theor. Biol. 205, 625 – 630. (doi:10.
+1006/jtbi.2000.2089)
+rsbl.royalsocietypublishing.orgBiol. Lett.11: 20141054
+7

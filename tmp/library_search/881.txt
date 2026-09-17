@@ -1,0 +1,1214 @@
+PDF PAGE 1
+A comparison of bonobo and chimpanzee tool use: evidence
+for a female bias in the Pan lineage
+Thibaud Gruber a, Zanna Clay a, Klaus Zuberbühler a, b, *
+a Centre for Social Learning and Cognitive Evolution and Scottish Primate Research Group, School of Psychology, University of St Andrews
+b Center for Advanced Study, Wissenschaftskolleg zu Berlin, Germany
+article info
+Article history:
+Received 15 February 2010
+Initial acceptance 29 March 2010
+Final acceptance 1 September 2010
+Available online 8 October 2010
+MS. number: 10-001 14R
+Keywords:
+culture
+great ape
+neoteny
+Pan
+primate evolution
+sex difference
+tool use
+Chimpanzees, Pan troglodytes, are the most sophisticated tool-users among all nonhuman primates. From an
+evolutionary perspective, it is therefore puzzling that the tool use behaviour of their closest living primate
+relative, the bonobo,Pan paniscus, has been described as particularly poor. However, only a small number of
+bonobo groups have been studied in the wild and only over comparably short periods. Here, we show that
+captive bonobos and chimpanzees are equally diverse tool-users in most contexts. Our observations illustrate
+that tool use in bonobos can be highly complex and no different from what has been described for chim-
+panzees. The only major difference in the chimpanzee and bonobo data was that bonobos of all age esex
+classes used tools in a play context, a possible manifestation of their neotenous nature. We also found that
+female bonobos displayed a larger range of tool use behaviours than males, a pattern previously described for
+chimpanzees but not for other great apes. Our results are consistent with the hypothesis that the female-
+biased tool use evolved prior to the split between bonobos and chimpanzees.
+/C2112010 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+Chimpanzees, Pan troglodytes , and bonobos, Pan paniscus ,a r e
+particularly relevant for investigations into the origins of the human
+mind. The two species shared a common evolutionary history until
+very recently, and their current phenotypic similarities and differ-
+ences have been the cause of much debate ( Stanford 1998;
+Wrangham & Pilbeam 2001 ). One particularly relevant topic
+concerns tool use. Wild chimpanzees have shown a notable array of
+population-speciﬁc tool use behaviours (Goodall 1986; Whiten et al.
+1999), a manifestation of their‘material culture’ (McGrew 1992). Only
+a small number of comparable observations of bonobo tool use have
+been made in the wild ( Kano 1982; Ingmanson 1996; Hohmann &
+Fruth 2003 ), suggesting that bonobos might differ from chimpan-
+zees and humans in this fundamental way ( McGrew 1998).
+However, a number of isolated reports have described captive
+bonobos as rather skilful tool-users ( Jordan 1982; Toth et al. 1993;
+Gold 2002). Additionally, the two species do not differ in signi ﬁcant
+ways in terms of manipulation skills and motor sequences (Takeshita
+& Walraven 1996 ). In terms of the underlying cognitive abilities,
+interpretations are contradictory. One study found that tool use in
+bonobos was not based on a profound understanding of physical
+causation (Helme et al. 2006), in contrast to chimpanzees (Limongelli
+et al. 1995; Mulcahy & Call 2006a ). However, bonobos, similarly to
+orang-utans, Pongo pygmaeus, have been shown to be capable of
+saving tools for future use (Mulcahy & Call 2006b) and a more recent
+report concluded that captive bonobos have the same understanding
+of the functional properties of tools as all other great apes (Herrmann
+et al. 2008). Thus, the most recent results appear to describe bonobos
+as having equal tool-using capabilities as chimpanzees.
+Reports from the wild suggest a potentially interesting pattern. In
+terms of context, chimpanzee tool use occurs mostly during feeding
+and acquisition of difﬁcult foods (such as hard-shelled fruits or con-
+cealed insects; McGrew 1992). In contrast, bonobo tool use has been
+observed mainly in social situations, such as communication and play,
+but also during cleaning or as protection from rain (Ingmanson 1996),
+a pattern also seen in captivity (de Waal 1986). Currently, however, it
+is not possible to draw any ﬁrm conclusions. Chimpanzees are well
+known for their group- and population-speci ﬁc behavioural differ-
+ences (e.g. Whiten et al. 1999; Crockford et al. 2004 )a n d ,c r u c i a l l y ,
+some chimpanzee groups hardly use tools in the wild, despite decades
+of long-term observations ( Reynolds 2005). The small captive pop-
+ulation of bonobos and the difﬁculties of obtaining data from the wild
+may thus be largely responsible for the reported species differences in
+the wild. For instance, the most extensive study of chimpanzee
+* Correspondence: K. Zuberbühler, School of Psychology, University of St
+Andrews, St Andrews KY16 9JP, U.K.
+E-mail address: kz3@st-andrews.ac.uk (K. Zuberbühler).
+Contents lists available at ScienceDirect
+Animal Behaviour
+journal homepage: www.elsevi er.com/locate/anbehav
+0003-3472/$38.00 /C2112010 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.anbehav.2010.09.005
+Animal Behaviour 80 (2010) 1023e 1033
+
+PDF PAGE 2
+culture was based on long-term data from seven different ﬁeld sites
+(Whiten et al. 1999) while comparable data for bonobos were only
+from two sites ( Hohmann & Fruth 2003 ). Long-term studies with
+chimpanzees have shown that females are more accomplished tool-
+users during food acquisition, a fact with some implications for
+theories of human evolution ( McGrew 1979; Marlowe 2005; Byrne
+2007; Pruetz & Bertolani 2007). So far, no comparable ﬁndings have
+been reported for bonobos, possibly because of the lack of observa-
+tions in the wild. It is therefore unknown whether the female bias
+seen in chimpanzees is a species-speciﬁc peculiarity or whether it is
+present in both species.
+In this study, we compared the tool use behaviour of captive
+chimpanzees and bonobos at various sites. For chimpanzees, we
+relied on the extensive catalogue compiled byBeck (1980),w h i c hw e
+complemented with more recent data. For bonobos, we combined
+the published records (Savage 1976 as quoted in Beck 1980; Jordan
+1982; Gold 2002 ) with our own data collected from ﬁve groups at
+four locations. We were particularly interested in potential sex
+differences in tool use, whether there were idiosyncratic tool use
+behaviours, and to what extent there was ﬂexibility in tool use.
+METHODS
+Subjects
+We collected data from ﬁve bonobo groups, housed at San Diego
+Zoo and San Diego Wild Animal Park, U.S.A., Lola ya Bonobo, DRC, and
+Twycross Zoo, U.K. (two groups). Group sizes ranged fromﬁve to 22.
+Age class categories were derived from Goodall (1986) simpliﬁed to
+four stages: infants (0e5 years), juveniles (childhood to early adoles-
+cence), subadults (late adolescence) and adults. Individuals were
+considered adults if they were either fully grown or had already given
+birth. All bonobos were able to witness tool use behaviour of humans
+on numerous occasions and interactions with human caretakers were
+not uncommon. This was particularly true at Lola ya Bonobo where
+caretakers feed them daily using plastic bottles and demonstrated to
+individuals from a young age how to break open nuts.
+Study Sites
+San Diego Zoo
+Data were collected from the bonobos at San Diego Zoo between
+January and April 2008 with permission from the Animal Care
+Management at San Diego Zoo following approval by its IUCAC
+committee. The group consisted of three adult females, two adult
+males, one subadult female, one juvenile male and one juvenile
+female. The group was housed in a 560 m
+2 outdoor area, connected
+to a heated indoor housing facility, which consisted of one large
+room (136 m
+2) and four smaller rooms (55 m 2 each), which also
+served as sleeping areas at night. Individuals were unable to pass
+between the indoor and outdoor enclosures during the day. The
+composition of the Zoo group was managed with an attempt to
+simulate a ﬁssionefusion social system. Individuals were usually
+fed in a group setting three to four times per day, both indoors and
+outdoors, with a diet of roughly equal proportions of ape biscuits
+and cereals, vegetables, green leaf vegetables and fruits (approxi-
+mately 25 types of food per week). Water was freely available.
+Individuals were also given additional enrichment feeds (such as
+ice lollies and seeds) several times per week. An arti ﬁcial termite
+mound in the outdoor enclosure, ﬁlled daily with honey and human
+baby food, provided additional enrichment.
+San Diego Wild Animal Park
+Data were collected at San Diego Wild Animal Park between
+January and April 2008, with permission from the Animal Care
+Management at San Diego Wild Animal Park and approval by its
+IUCAC committee. The group consisted of three adult females, three
+adult males, one subadult female and one juvenile female. The group
+was housed in an approximately 3000 m
+2 outdoor area, connected to
+a heated indoor housing facility, which consisted of one large room
+(47 m
+2) and four smaller rooms (40 m 2 each) serving as sleeping
+areas at night. Individuals were unable to pass between the indoor
+and outdoor enclosures during the day. The group spent the entire
+observation time together. Individuals were usually fed in a group
+setting three to four times per day, both indoors and outdoors, with
+a diet of roughly equal proportions of ape biscuits and cereals,
+vegetables, green leaf vegetables and fruits, approximately 25
+different types of food per week. Water was freely available. Indi-
+viduals were also given separate supplementary enrichment feeds
+(such as ice lollies and seeds) several times per week.
+Lola ya Bonobo
+Data were collected at the Lola ya Bonobo sanctuary in Kinshasa
+between September and November 2008 and between August and
+November 2009, with permission from ‘L e sA m i sd e sB o n o b o sd u
+Congo’ (ABC) Scientiﬁc Committee and its Scientiﬁc Coordinator. Lola
+ya Bonobo is a facility for orphan bonobos usually seized from the bush
+meat and pet trade. All data were collected in ‘Group 1’, which con-
+sisted of six adult females, three subadult females, three adult males,
+three subadult males and three juvenile males. Four infants were also
+present but their interactions with tools were not taken into account.
+The group was housed in a 10 ha outdoor enclosure during the day and
+in a subdivided indoor facility at night. We only conducted observa-
+tions when bonobos were visible in the open, nonforested areas of the
+enclosure (along the perimeter of the enclosures; approximately 15% of
+the total enclosure area). Despite this relatively small area, the bonobos
+spent most of their time on it (50e60% of daytime; Z. Clay, unpublished
+data), mainly because food was provisioned there. However, we cannot
+rule out that other tool use took place in the forested areas where
+observations were not possible. Individuals were fed a seasonal
+selection of fruits in the morning and vegetables in the afternoon,
+approximately 6 kg per individual per day, as a scatter feed to the entire
+group. At midday, bonobos were provided soy drink, enriched with
+honey, maize and vitamins, by a caregiver using a bottle. Additional
+enrichment food, such as bananas, peanuts and seasonal fruits, were
+provided once or twice per day. Bonobos had access to water from lakes
+and streams during the day. In addition to edible enrichment, bonobos
+were given enrichment items, such as plastic bottles and fruit shells,
+and they had free access to the large forested areas.
+Twycross Zoo
+A fourth set of data was collected at Twycross Zoo from March to
+July 2009 from two separate groups, following approval from the
+Twycross Zoo Research Coordinator and Zoo Management
+Committee and in compliance with the ethical guidelines set out by
+the British and Irish Association of Zoos and Aquariums (BIAZA). The
+ﬁrst group consisted of two adult males, two adult females and one
+subadult female. The second group consisted of three adult females,
+one adult male, one subadult male and one juvenile female. The two
+groups were housed separately in one indoor building (124 m
+2)
+composed of two identically designed heated indoor facilities. On
+each side of the building, the housing facilities for each group were
+composed of one main ‘day room ’ (62 m2)a n dt h r e eo f f - s h o w
+‘feeding rooms’ (22 m2). The two bonobo groups shared the outdoor
+enclosure (588 m 2) through temporal separation, with one group
+typically having access in the morning, and the other one in the
+afternoon. Both groups were fed a range of fruits and vegetables
+twice per day (typically four types of fruits and six to nine types of
+vegetables) in a scatter feed in either their outdoor or indoor
+enclosure. Water was freely available; milk and cordial were
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e10331024
+
+PDF PAGE 3
+provided several times per day. In addition, bonobos received regular
+enrichment feeds, such as seeds or frozen juice blocks, as well as
+access to a diverse array of edible branches and enrichment mate-
+rials (some edible, such as seed boxes, and some inedible, such as
+clothing/papers). Once or twice per week, bonobos were also
+provided additional feeds of live yoghurt, egg, cheese and bread. In
+both groups, an arti ﬁcial termite mound was present in the indoor
+enclosure, although they were not used during the time of this study.
+Data Compilation and Analyses
+At all four facilities, tool use was recorded on an all occurrence
+basis by T.G. and Z.C. during focal animal observations ( Altmann
+1974). At Lola, observation time was balanced across individuals
+(each day, one individual was selected and followed from 0800 to
+1630 hours), which enabled us to conduct systematic comparisons
+between species and between individuals. At San Diego Zoo, San
+Diego Wild Animal Park and Twycross Zoo, observation time was
+unequal, so the data were only used to compile tool use catalogues,
+which were combined with the already published records (Savage
+1976;Jordan 1982; Gold 2002). Data for wild bonobos were compiled
+from the published records ( Ingmanson 1996; Hohmann & Fruth
+2003). The tool use catalogue used to compare the two species was
+largely based on Beck’s( 1 9 8 0 )compilation because it still represents
+the most up-to-date published catalogue for captive chimpanzees.
+Newer catalogues only exist for wild populations (Whiten et al. 2001).
+Minor modiﬁcations in terminology and classi ﬁcations were neces-
+sary to facilitate comparisons. We included all contexts and behav-
+iours described by Beck’s original list to enable the broadest possible
+comparison between the two species (Table 1; see AppendixTable A1
+for deﬁnitions, descriptions and page numbers used by Beck 1980).
+Any report or observation of distinct tool use behaviour in
+captive bonobos or wild chimpanzees was taken as an indication
+that this behaviour was present. Unfortunately, it was not possible
+to compare frequency data in a systematic way, mainly because
+some of the published records did not provide them. Data were
+collected by T.G. (San Diego, Lola) and Z.C. (San Diego, Lola, Twy-
+cross) according to Beck’s (1980) descriptions (Table 1).
+An interobserver reliability test was conducted in which the two
+observers independently coded 21 video clips containing tool use
+behaviours of bonobos at Lola ya Bonobo. The featured tool use
+behaviours represented 18.5% of the entire tool catalogue recorded
+at Lola performed by 10 different individuals (group 1: N ¼ 8; group
+2: N ¼ 2). Reliability in tool classi ﬁcation and recognition of indi-
+viduals was perfect at 100% with no disagreements or omissions.
+We used the results of the surveys to determine whether there
+were systematic differences in tool use behaviour both between the
+two species (chimpanzee versus bonobo) and between habitats (wild
+versus captivity). For this analysis, we determined whether or not
+a tool use behaviour (i.e. each line in Table 1) was present in the four
+groups (wild chimpanzees, wild bonobos, captive chimpanzees,
+captive bonobos). To enable systematic comparisons, we removed all
+tool use behaviours that could not have occurred naturally (e.g. if they
+were part of a speciﬁc experiment). We then conducted Pearson chi-
+square tests to compare the diversity of tool use behaviours in each of
+the four groups and to determine whether species membership or
+habitat had signiﬁcant effects on the observed proportion relative to
+all
+possible tool use behaviours. In a second analysis, we compared the
+two species in captivity per context. This way, we were able to rule out
+that the effects were due to unequal contributions by some contexts
+in terms of the number of observed tool use behaviours. We were
+unable to carry out this analysis with wild populations since the
+bonobo tool set was too small to do statistics.
+To investigate whether there were systematic sex and age differ-
+ences in bonobo tool use, we analysed data collected at Lola ya Bonobo.
+Using univariate analyses of variance, we compared individuals in
+t e r m so ft h e i rc o n t r i b u t i o n st ot h ec a t a l o g u eb o t hf o rt o o lu s eb e h a v -
+iours and tool-related behaviours (e.g. using a hard surface to crack
+a fruit). Data collection started after both observers were able to
+identify individuals without difﬁculties. Experienced ﬁeld assistants
+were always present and could be consulted if there were doubts.
+For each individual we entered sex (male versus female) and age
+class (adult versus nonadult) as ﬁxed factors and tool variety
+(the total number of different tool use behaviours produced by the
+individual) as the dependent variable. One female (MM) was
+excluded from these analyses because she was raised by humans
+before coming to the sanctuary at the age of 18. Weﬁrst determined
+the general effect of sex and age class on the total number of
+observed tool use behaviours, and then conducted the same anal-
+ysis per context. All statistical tests were two tailed and conducted
+with SPSS for Windows Release 17.0 (SPSS Inc., Chicago, IL, U.S.A.).
+RESULTS
+Species Differences
+Following Beck (1980), we discriminated 63 different tool use
+behaviours in 14 contexts, each containing one to nine actions
+(mean /C6 SD ¼ 2.7 /C6 2.4; Table 1 ). Direct comparisons between
+chimpanzees and bonobos, both in the wild and in captivity, were
+possible over 52 behaviours. Eleven tool use behaviours had to be
+excluded because they involved contexts that were not available to
+captive individuals (e.g. hunting, rainstorms) or because they were
+not spontaneous, but arti ﬁcially elicited as part of other ongoing
+behavioural experiments (see italic ﬁelds, Table 1).
+We ﬁrst compared the four data sets in terms of overall differ-
+ences in tool use in the four groups (wild chimpanzees, captive
+chimpanzees, wild bonobos, captive bonobos). Of the 52 tool use
+behaviours, captive chimpanzees produced 47, wild chimpanzees
+44, captive bonobos 42 and wild bonobos eight. Comparisons
+revealed an overall effect of species (
+c1
+2 ¼ 37.01, P < 0.001) and
+habitat ( c1
+2 ¼ 30.14, P < 0.001). However, when analysing the tool
+use behaviour of the two species separately, we found no differ-
+ences between wild and captive chimpanzees ( c1
+2 ¼ 0.79, P ¼ 0.37),
+but a signi ﬁcant difference between captive and wild bonobos
+(c1
+2 ¼ 44.53, P < 0.001). When analysing the two habitat types
+separately, we found no difference between captive chimpanzees
+and bonobos (
+c1
+2 ¼ 1.95, P ¼ 0.16) but a signi ﬁcant difference
+between wild chimpanzees and bonobos ( c1
+2 ¼ 49.85, P < 0.001).
+Thus, the differences reported in the previous analysis resulted
+from the contribution of the wild bonobos only: of all 52 tool use
+behaviours, only eight have so far been reported from wild bonobos
+(compared to 44 in wild chimpanzees). Of all 52 tool use behav-
+iours, only seven were different in captive bonobos and chimpan-
+zees. Of these seven, one (dental autogrooming) was not found in
+captive bonobos, although it has been observed in the wild.
+We then conducted a context analysis and found that the tool
+use catalogue of captive bonobos and chimpanzees was identical
+for nine of 13 possible contexts (‘ Play’, ‘Oddness’, ‘Balancing’,
+‘Propping’, ‘Stacking’, ‘Digging’, ‘Cleaning’, ‘Liquids’, ‘Draping’;
+‘Escape’ was not included as no attempt was ever witnessed). In
+other words, all the behaviours observed in captive chimpanzees
+had also been observed in at least one of the captive bonobo groups.
+Additionally, we found no signi ﬁcant differences in two other
+contexts (‘ Antagonism’: c1
+2 ¼ 1.51, P ¼ 0.22; ‘Food acquisition ’:
+c1
+2 ¼ 0.42, P ¼ 0.52). Tool use was also observed in both captive
+chimpanzees and bonobos during ‘Grooming’, but only wild
+bonobos used tools during dental grooming. The only context that
+differed between chimpanzees and bonobos on the whole was
+‘Baiting’ with no observations in wild or captive bonobos.
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e1033 1025
+
+PDF PAGE 4
+Table 1
+Summary of tool use behaviours observed in wild and captive chimpanzees and bonobos
+Context No. Action Behaviour Chimpanzee Bonobo Comparison
+Wild Captivity Savage
+1976
+Jordan
+1982
+Gold
+2002
+Ingmanson
+1996
+Lola ya
+Bonobo
+Note Captivity
+Antagonism 1 Brandishing tools Agonistic intimidation displays Yes Yes Yes Yes Yes U
+Immature Agonistic intimidation displays Yes Yes * No No #
+Sticks in rainstorm Yes Yes ? No rainstorm witnessed ? n/a
+Wave tools against ﬂies Yes No Yes No Present in the wild No U
+Sticks in play Yes Yes Yes Yes No Present in Twycross and
+San Diego groups
+Yes U
+2 Dragging tools Dragging, rolling, and/or kicking objects during
+display (conspeci ﬁc)
+Yes Yes Yes Yes y Yes Yes Present in Twycross
+and San Diego groups
+Yes U
+Dragging, rolling, and/or kicking objects during
+display (heterospeci ﬁc)
+Yes Yes * No Present in Twycross and
+San Diego groups
+Yes U
+Drag branches during rainstorm Yes Yes ? No rainstorm witnessed ? n/a
+Dragging during social play Yes Yes z Yes Yes Present in Twycross groups Yes U
+3 Unaimed throwing Unaimed throwing in arousal states Yes Yes Yes Yes Present in Twycross groups Yes U
+Unaimed throwing in reaction to other species Yes Yes * Yes Yes U
+Unaimed throwing during social interaction Yes x Yes Yes No Present in Twycross and
+San Diego groups
+Yes U
+Unaimed throwing resulted from frustration Yes x Yes Yes Present in Twycross groups Yes U
+Unaimed throwing during play Yes Yes * Yes Yes Present in Twycross groups Yes U
+4 Aimed throwing Aimed throwing during agonistic interaction Yes Yes Yes Yes Yes Yes U
+Interspeciﬁc aimed throwing Yes Yes Yes Yes Yes U
+Interspeciﬁc aimed throwing (hunting) Yes XX X n/a
+Aimed throwing during social play Yesx Yes Yes Yes Present in Twycross groups Yes U
+5 Dropping Interspeciﬁc dropping Yes Yes No Present in San Diego groups Yes U
+Conspeciﬁc dropping during social play Yes No No No U
+6 Clubbing Conspeciﬁc clubbing during agonistic episodes Yes Yes No No #
+Interspeciﬁc clubbing Yes
+ Yes Yes Yes No Yes U
+Social play conspeci ﬁc clubbing Yes Yes Yes Present in Twycross groups Yes U
+7 Prodding or jabbing Conspeci ﬁc prodding or jabbing during
+agonistic contexts
+Yesx Yes Yes Yes Present in Twycross groups Yes U
+Interspeciﬁc prodding or jabbing Yesx Yes Yes Yes U
+Insect or animal spearing Yes** Yes No No #
+8 Tree pounding Pound on tree buttresses (or equivalent)
+during agonistic displays
+Yes Yes * Yes Present in Twycross and San
+Diego groups
+Yes U
+9 Frustration pounding Pound on objects after unsuccessive attempts Xyy Yes ? ? n/a
+Grooming 1 Dental grooming Dental allogrooming No Yes No No #
+Dental autogrooming Yes Yes zz Yes No Present in the wild No #
+2 Grooming Interspeciﬁc grooming No Yes Yes On dogs and humans Yes U
+Self-grooming using tools Yeszz Yes Yes Yes Yes U
+Escape 1 Escape enclosure Use of sticks as pitons to escape enclosure X Yes ? No attempt of escape
+witnessed
+? n/a
+Play 1 Infant Termite ﬁshing Insert and probe in mounds or nests of
+termites (or equivalent)
+Yes Yes Yes Present in Twycross and
+San Diego groups
+Yes U
+2 Playful pounding Pound objects on others for playful purpose Yes * Yes Yes Present in Twycross groups Yes U
+3 Playful exploration Exploration with stick Yesx Yes Yes Yes U
+Oddness/
+Inaccessibility
+1 Using tool when reluctant
+to touch with hand or
+inaccessible
+Touching inhabitual objects Yes Yes Yes ? Yes U
+Interspeciﬁc touching Yesx Yes Yes Present in San Diego groups Yes U
+Balancing and
+climbing
+1 Secure object Secure object (e.g. suspended food) No Yes Yes ? Yes U
+2 Playful balancing Playful balancing No Yes Yes Present in Twycross groups Yes U
+Propping and
+climbing
+1 Secure suspended food Secure suspended food No Yes Yes ? Yes U
+2 Escape enclosure propping Escape enclosure propping X Yes Yes ? Yes U
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e10331026
+
+PDF PAGE 5
+Stacking 1 Access to suspended
+lures or
+extended vision
+Gain access to suspended lures or
+to extended vision
+No Yes Yes ? Yes U
+2 Escape enclosure
+stacking
+Escape enclosure stacking X Yes ? No attempt of escape
+witnessed
+? n/a
+Food acquisition 1 Termite ﬁshing Insert and probe in mounds or
+nests of termites
+Yes Yes Yes X Present in Twycross and San
+Diego groups
+Yes U
+Perforate termite mound Yes XX No termite mound in captivity X n/a
+2 Ant Dipping Dipping for fossorial ants Yes Yes ? þ No ant trail observed in zoos ? n/a
+Dipping for arboreal ants Yes No ? þ No ant trail observed in zoos ? n/a
+3 Wild: Honey ﬁshing.
+Captivity:
+Artiﬁcial ﬁshing
+Insert tool and probe in
+bee/artiﬁcial nest
+Yes Yes X Present in Twycross and San
+Diego groups
+Yes U
+4 Reaching food or object Reaching and retrieving
+food lures or objects
+No Yes Yes Yes Present in Twycross groups Yes U
+5 Opening tough rinds
+or shells
+Nut cracking Yes Yes Yes Yes U
+Hard-shell fruit cracking Yes No Yes Yes #
+6 Leverage or enlargement
+of openings
+Nest opening Yes Yes Yes ? Yes U
+7 Ant wiping Ant wiping Yes No No No U
+Digging 1 Digging Digging Yes Yes Yes Never eat what is excavated Yes U
+Cleaning 1 Cleaning body Cleaning body, wound or menses Yes Yes Yes Yes Yes Yes U
+2 Cleaning surface Cleaning outer space X Yes Yes Yes Present in Twycross groups Yes U
+Liquids 1 Water sucking Insert tool into concavities or plain
+water and suck water from it
+Yes Yes Yes No Yes U
+2 Leaf sponging Leaf sponging Yes Yes No Present in the wild xx and
+Twycross groups
+Yes U
+3 Fluids absorbing Fluids absorbing Yes No No No U
+4 Containers Fluid container Yes Yes Yes Yes Yes Present in Twycross and
+San Diego groups
+Yes U
+Baiting 1 Baiting Using any kind of object to
+bait animals
+to lure them within reach
+No Yes No No #
+Draping 1 Draping Draping objects on one ’s body Yes Yes Yes No Present in Twycross and San
+Diego groups
+Yes U
+Data for chimpanzees were from Beck (1980) and
+ other sources (see References). Minor modi ﬁcations in terminology and classi ﬁcations were necessary to facilitate comparisons. Data for bonobos were taken from published
+studies (see References) and complemented by our own data. General contexts were divided into different functional categories (‘Action’), which could be further divided into tool use variants (‘Behaviour’). The next two columns
+describe whether wild chimpanzees and captive chimpanzees have been observed with the behaviour. The next columns describe whether the behaviour has been observed in different captive and wild bonobo studies (see text
+for description). Finally, the column Lola ya Bonobo sums up the observations recorded at Lola ya Bonobo sanctuary. The summary of the captive studies is given in the Captivity column. Finally a comparison between
+chimpanzees and bonobos in captivity is given in the last column: a tick indicates the behaviour is similarly present or absent in the captive populations of the two species, a cross indicates otherwise. Yes: behaviour present. No:
+behaviour not present. ?: presence of the behaviour unknown. n/a: comparison not applicable. X: settings not applicable for wild (experimental setting) or captive (hunting) animals. No: behaviours absent in the wild, maybe
+because of a lack of need to develop it. X: behaviours not observed because of experimental settings or natural artefacts not found in captivity. þ: behaviour not observed within observation range in cleared areas but no control
+of the forest areas.
+* Personal observations.
+y Quoting Walraven et al. (1993) .
+z E.g. Jensvold & Fouts (1993) .
+x van Lawick-Goodall (1968) .
+** Pruetz & Bertolani (2007) .
+yy Pounding exists during food acquisition ( Yamakoshi & Sugiyama 1995 ).
+zz Goodall (1986) .
+xx Hohmann & Fruth (2003) .
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e1033 1027
+
+PDF PAGE 6
+Sex Differences
+We compared tool-related behaviours of 1 7 bonobos at Lola
+(eight females; nine males;Table 2). Following Beck (1980), we were
+able to compare the effects of age and sex class for 27 behaviours in
+seven contexts. There was no signi ﬁcant difference in the average
+number of tool use or tool-related behaviours between adult
+(mean /C6 SD ¼ 8. 12/C6 1.30) and nonadult individuals (5.89 /C6 1.15;
+ANOVA: F
+1,15¼ 0.43, P ¼ 0.52; Fig. 1). However, there was a signi ﬁ-
+cant sex effect with females showing a larger average number of
+behaviours (mean /C6 SD ¼ 9.37 /C6 1.33) than males (4.78 /C6 0.55;
+ANOVA: F1,15¼ 8.15, P ¼ 0.014; Fig. 1 ). We found no interaction
+between the two factors (ANOVA: F1,15¼ 0. 19,P ¼ 0.67).
+At the context level, we were able to compare‘Antagonism’, ‘Play’,
+‘Food acquisition’and‘Liquids’. ‘Digging’ was absent in males but present
+in females. The sample size for‘Cleaning’ was too small to allow statis-
+tical analysis; it was observed once in a male and once in a female. We
+found no effect of age class on any of the contexts (ANOVA: ‘Antago-
+nism’: F1,15¼ 4.04, P ¼ 0.057;‘Play’: F1,15¼ 0.50, P ¼ 0.49; ‘Food acqui-
+sition’: F1,15¼ 0.009,P ¼ 0.93;‘Liquids’: F1,15¼ 0.29,P ¼ 0.60). Similarly,
+we found no sex effects for ‘Antagonism’ and ‘Liquids’ (ANOVA:
+‘Antagonism’: F1,15¼ 4.04, P ¼ 0.066; ‘Liquids’: F1,15¼ 1.36, P ¼ 0.26),
+but signiﬁcant effects for play and food (ANOVA: ‘Play’: F1,15¼ 8.91,
+P ¼ 0.01 1;‘Food acquisition’: F1,15¼ 8.02, P ¼ 0.014) owing to females
+having a larger diversity of tool use behaviours than males (females:
+‘Play’:m e a n/C6 SD ¼ 3.00 /C6 1.58;‘Food acquisition’:4 . 0 0/C6 1.41; males:
+‘Play’:1 . 0 0/C6 0.87; ‘Food acquisition’:1 . 0 0/C6 1.24). No signiﬁcant inter-
+actions were found between the main factors in any context (ANOVA:
+‘Antagonism’: F1,15¼ 0.002,P ¼ 0.97;‘Play’: F1,15¼ 0.50,P ¼ 0.49;‘Food
+acquisition’: F1,15¼ 1.12,P ¼ 0.31;‘Liquids’: F1,15¼ 0.73,P ¼ 0.41).
+Speciﬁc Behaviours (Lola ya Bonobo)
+The bonobos at Lola used tools in seven general contexts.‘Play’ and
+‘Food acquisition’ were the most common ones in which tool use
+occurred, with nine and seven different types, respectively. We added
+‘Sex’ as an additional context to Beck’s (1980) classiﬁcation, which
+contained two behaviours: using natural material (e.g. fruits) or arte-
+facts (e.g. bottles) for sexual stimulation. Tool use in a sexual context
+was also observed in San Diego and Twycross (Z. Clay, personal
+observation). We also observed a number of seemingly idiosyncratic
+behaviours in the‘Play’, ‘Cleaning’, ‘Liquids’ and ‘Sex’ contexts (Table 2).
+I nt h ef o l l o w i n g ,w ed e s c r i b es o m eo ft h e s eo b s e r v a t i o n si nm o r ed e t a i l ,
+because they have implications for the underlying cognitive capacities.
+‘Pretend’ milk feeding
+At noon, caretakers feed the bonobos soymilk through the fence
+using plastic bottles. The individuals usually keep the bottles and
+some continue to play with them, for instance by taking them over
+to the nearby lake and repeatedly ﬁlling them and pouring out their
+contents. On one occasion, a subadult female, Nioki, ﬁlled her bottle
+in the lake, but then brought it back to the fence where she had
+previously been fed by a caregiver. She then passed the bottle and
+her arm through the fence, aimed the bottle at herself and started
+pouring water into her mouth. She did not seem to ingest any of the
+water, but instead adopted her typical facial expression while being
+fed by a caretaker, as if pretending to drink soymilk.
+Using fruit shells as containers
+A number of times, bonobos were observed using shells of fruits
+(such as Strychnos) as containers for water or soymilk. One adult
+Table 2
+Summary of the tool use observed at Lola ya Bonobo
+Action Behaviour AF SF AM SM JM
+MM SW OP BD KL SL NO IS LK TT MN KW MA BN MI KG IB KD
+Antagonism Agonistic intimidation
+displays
+Agonistic intimidation displays
+using branch (natural)
+11 1 1 1 1 1 1 1 1 1
+Agonistic intimidation displays
+using bottle (arti ﬁcial)
+11 1 1 1 1 1 1 1 1 1
+Play Playful pounding Mud bashing with stick 1 1
+Conspeciﬁc beating 1
+Interspeciﬁc poking 1
+Playful balancing Bottle balancing 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+Pretending play Fake drinking 1 1 1 1 1 1
+Pretend milk feeding through fence 1
+Playful containers Bottle ﬁlling to play 1 1 1 1
+Pouring water in bottle submerged in lake 1
+Playful rolling Using fruit (coconut) as play tool 1
+Food
+acquisition
+Opening tough
+rinds or shells
+Nut cracking with stone hammer and anvil 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+Nut cracking using concrete as an anvil 1 1 1 1 1 1
+Opening tough
+rinds or shells
+Forest fruit cracking using stone anvil 1 1 1 1 1 1 1
+Forest fruit cracking using branch anvil 1
+Forest fruit cracking using palm trunk 1 1 1 1
+Forest fruit cracking using another fruit 1 1 1 1 1 1 1
+Reaching food
+or object
+Raking objects out of the enclosure 1 1
+Digging Digging Digging with stick 1 1 1 1 1
+Cleaning Cleaning body Using leaves to clean body 1
+Cleaning surface Sweep using palm 1
+Liquids Containers Bottle ﬁlling 1 1 1 1
+Using human-made objects as
+recipients to drink
+11 1
+Using fruit shell as a recipient to drink 1 1 1 1 1 1
+Bottle pouring into another bottle or into lid 1
+Sex Sexual stimulation Genital stimulation using human-made
+object (bottle or can)
+11 1 1
+Using fruit (coconut) as sexual stimulator 1
+Total 21 6 9 8 8 9 1 4 6 5 4 5 6 4 3 4 8 3 6
+See Table 1 for terminology. ‘1’ indicates that the behaviour has been observed. AF: adult females. SF: subadult females. AM: adult males. SM: subadult males. JM: juvenile
+males. Italic: idiosyncratic behaviours. Infants were excluded from the analysis.
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e10331028
+
+PDF PAGE 7
+female, Semendwa, was frequently observed pouring liquid between
+the shells, bottles and lids. This behaviour had no apparent function,
+and we therefore assigned it to the ‘Play’ context, although she
+sometimes used this technique to share milk with her daughter.
+DISCUSSION
+Chimpanzee and Bonobo Tool Use
+The tool use behaviour of nonhuman primates is relevant for
+theories of human evolution ( Washburn 1960; Parker & Gibson
+1979). The natural tool use behaviour of our closest living relatives,
+the chimpanzees and bonobos, plays a key role in this comparison,
+but no systematic comparison has been conducted so far. Previous
+research has shown that, in terms of cognitive and physical abilities
+to use tools, bonobos and chimpanzees do not differ in relevant ways
+(Takeshita & Walraven 1996; Herrmann et al. 2008). Our study is in
+line with these results by demonstrating that, in captivity, bonobos
+and chimpanzees do not differ in their overall diversity of tool use
+behaviours. Bonobos showed a large portfolio of tool use behaviours
+that did not differ from chimpanzees in either quantitative or qual-
+itative terms. This conclusion is based on previously published
+studies and our own data from four captive facilities. Out of 52 tool
+use behaviours, only seven were different between captive bonobos
+and chimpanzees. One of them (dental autogrooming) has been
+observed in wild bonobos, suggesting that it is part of the species ’
+behavioural repertoire. All contexts in which chimpanzees used tools
+were also found in bonobos, with only one exception ( ‘Baiting’).
+The general diversity of tool use behaviours was comparable in the
+two species, although some differences remained in terms of context
+speciﬁcity and functional use. Wild chimpanzees predominantly use
+tools in the context of food acquisition (McGrew 1979; Boesch & Boesch
+1990) while wild bonobos appear to use tools mainly for personal care
+(cleaning, protection from rain) and social purposes (Ingmanson 1996).
+Our observations at Lola ya Bonobo are in line with these observations,
+that is, tool use is not just used to acquire food. Instead, the biggest
+diversity of tool use behaviours was found in the‘Play’ context. Another
+difference was in the use of tools for sexual stimulation, something that
+has been reported for orang-utans but not chimpanzees (van Schaik
+et al. 2003 ). As our study could not compare the frequency of the
+different tool use behaviours, it i sp o s s i b l et h a ts o m em o r es u b t l e
+species differences are also present in terms of usage.
+Observations in the wild and in captivity have led to the hypothesis
+that bonobo tool use has mainly a social function ( de Waal 1986;
+Ingmanson 1996). However, our own observations are not entirely
+consistent with this interpretationdespite the fact that a considerable
+proportion of tool use was observed in the play context. Most play-
+related tool use in bonobos was part of solitary, not social, play.
+Although social games with objects have been observed in bonobos
+interacting with humans (Pika & Zuberbühler 2008), we did not record
+any shared tool use between bonobos in this context. Even though we
+sometimes saw two or more bonobos simultaneously playing with
+bottles, these activities remained solitary. One possible exception was
+a subadult female (Nioki), who was observed to use a stick to beat an
+infant playfully, while both produced laughter, an indicator of friendly
+motivations (Davila Ross et al. 2009 ). However, no exchange of gaze
+was observed between the two individuals, suggesting that the
+behaviour did not serve a joint social purpose (Tomasello et al. 2005).
+We frequently observed playful stick beating in solitary bonobos and
+this was often accompanied by a characteristic‘play face’ (Palagi 2008).
+Solitary play is also common in bonobo infants in the wild, while social
+play is comparably rare (Ingmanson 1996).
+Perhaps the most striking difference that emerged from this
+report
+concerned the observation that, at Lola ya Bonobo, nearly all
+fully grown individuals engaged in tool-based play behaviour, such
+as ‘bottle ﬁlling’, regardless of their age or social position. While
+young chimpanzees spend much time playing, this is not so much
+the case for the adults, especially the males ( de Waal 1982; Goodall
+1986). It has been argued that bonobos have been subjected to an
+evolutionary pressure towards neoteny, in that they have retained
+some juvenile characteristics in adulthood ( Shea 1983; Wrangham
+& Pilbeam 2001; Wobber et al. 2010 ), a hypothesis also supported
+by our own observations. High levels of play are common in adults
+(Palagi 2006; Palagi & Paoli 2007 ) and this study shows that tools
+are an integral part of this behaviour. In chimpanzees, however,
+adult play is very rarely observed ( Pellis & Iwaniuk 2000 ). If adult
+play is observed in wild groups, it does not appear to involve the
+use of tools (T. Gruber, personal observations).
+Flexibility is a key characteristic of higher cognitive capacities,
+something that has been repeatedly demonstrated in chimpanzees
+98N =
+NonadultsAdults
+Number of tool use behaviours
+18
+16
+14
+12
+10
+8
+6
+4
+2
+6
+1 NS
+(a)
+(b)
+98N =
+Sex
+Age class
+MalesFemales
+18
+16
+14
+12
+10
+8
+6
+4
+2
+*
+Figure 1. Box plots presenting the number of tool use behaviours observed at Lola by
+age and sex. Boxes show the median with the upper and lower quartiles; whiskers
+represent data within 1.5 times the interquartile range. In (a) the number of outliers is
+shown by the circle and star. In (b) the asterisk indicates P < 0.05.
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e1033 1029
+
+PDF PAGE 8
+(Bruner 1972; Tomasello & Call 1997). We found a number of seem-
+ingly idiosyncratic behaviours by some individuals at Lola, some of
+which were intriguingly complex. An interesting example was the use
+of fruit shells or skins as containers. These items were not treated as
+fruits, but as items with speci ﬁc functional properties as tools (e.g.
+pepper, Jordan 1982). Another interesting example concerned the
+sequential use of two tools, part of the daily routine for the female
+Semendwa during which she used lids ( Strychnos shells) or plastic
+bottles to transfer water between the different containers. Finally,
+Nioki’s ‘pretend soymilk feeding’, seen by two observers (T.G., Z.C.), is
+equally noteworthy and could be a case of pretence play. Although we
+cannot rule out that Nioki, as well as other individuals who engaged
+in similar behaviour, did not ingest some of the water, most was
+pouring out of their mouths and they often adopted a play face during
+the act, raising doubts that they were interested in the functional
+aspect of the behaviour. Second, in Nioki ’s case, she ﬁrst passed her
+arm with the container through the fence, thereby reproducing the
+movement patterns of the daily soymilk feeding events (see
+Appendix Fig. A1 ). Had she just been interested in drinking, these
+actions could not be explained. These observations illustrate that
+bonobos are no different from chimpanzees in terms of theﬂexibility
+associated with the behaviour, especially in the play context (Jensvold
+&F o u t s1 9 9 3). In line with recent experimental studies ( Mulcahy &
+Call 2006b; Herrmann et al. 2008 ), our observations support the
+hypothesis that the cognitive mechanisms responsible for this ﬂexi-
+bility are shared by both species and have most likely evolved prior to
+their split about 1 million years ago (Won & Hey 2005).
+Female bias in tool use in the Pan genus
+Another key ﬁnding of our study concerned the sex differences in
+bonobo tool use behaviour. Similar to chimpanzees ( McGrew 1979;
+Boesch & Boesch 1990 ), we found that bonobo females were more
+avid tool-users, compared to males, and that they were using a larger
+diversity of tools. At Lola ya Bonobo, females displayed a larger range
+of tools or tool-related behaviours during food acquisition and play
+than males, although both sexes used tools in all contexts apart from
+one. Only females used sticks to dig in the mud. To date, no such bias
+has been found in wild orang-utans ( Fox et al. 2004 ; C. van Schaik,
+personal communication), the only other skilful ape tool-users in the
+wild. Data on gorillas,Gorilla gorilla, whether in the wild (Breuer et al.
+2005; Wittiger & Sunderland-Groves 2007) or in captivity (reviewed
+in Lonsdorf et al. 2009 ), are too limited to draw conclusions. Apart
+from apes, a female bias in tool use has also been found in dolphins
+(Tursiopssp.: Mann & Sargeant 2003). One explanation for the female
+bias is that mothers and daughters tend to remain close until late
+adolescence in both chimpanzees (Lonsdorf et al. 2004) and dolphins
+(Mann 2009), while sons become independent earlier and are thus
+less exposed to their mothers’ skills.
+In wild chimpanzees, the acquisition of tool use behaviour in
+infants appears
+to be partly socially learned from the mother
+(Lonsdorf 2005 ), suggesting that similar processes may be at work
+in bonobos. At Lola ya Bonobo, bonobos typically arrive as orphans
+at a very young age, suggesting that they have had only very limited
+previous exposure to their biological mother and any of her
+acquired skills. At Lola, newly arriving infants are ﬁrst looked after
+by humans, before integration into one of the groups where they
+are sometimes cared for by an existing group member. During this
+process, male and female infants are equally exposed to various tool
+use behaviours of their human and conspeci ﬁc caretakers, indi-
+cating that the observed sex bias in bonobo tool use behaviour
+cannot be explained with differences in rearing conditions. More
+likely, female infant bonobos are more receptive to tool-using
+models, more motivated to interact with artefacts, or they are
+simply more patient. We also found that female bonobos employed
+a larger number of techniques to solve one particular problem than
+males (e.g. opening a hard-shelled fruit), suggesting that they were
+better able to dissociate means from their ends.
+One can only speculate about the functional signi ﬁcance of the
+observed sex difference in the Pan genus. Perhaps females have
+evolved more sophisticated tool skills owing to the higher nutritional
+demands of pregnancy and infant care. If social learning plays a key
+role, the long periods of proximity with the mother, characteristic for
+both species, are likely to be important. Whether female-biased tool
+use was shared with a common ancestor with modern humans is
+difﬁcult to decide and further conclusions will obviously depend on
+ecologically valid observations in the wild, ideally from different
+groups facing different ecological constraints (McGrew 1989).
+Great Apes ’ Tool Use in the Wild
+In our analysis, wild bonobos differed considerably from captive
+groups and from chimpanzees in captivity and the wild. We can
+think of two main lines of explanation. First, bonobos may have lost
+tool use in the wild, not because they are cognitively incapable but
+because all relevant food sources can be acquired without the help
+of artefacts ( McGrew et al. 1997 : hypothesis 8; Hohmann & Fruth
+2003). This hypothesis has also been put forward to explain the
+lack of tool use in the Sonso chimpanzees of Budongo forest
+(Gruber et al. 2009, 2010 ). Although chimpanzees are capable tool-
+users, it is also relevant to point out that some groups only have
+very small repertoires with infrequent use ( Reynolds 2005 ).
+Second, it is also possible that tool use in wild bonobos has simply
+been underestimated because long-term observations are absent
+and because the number of studied groups is still small ( Hohmann
+& Fruth 2003 ). Before ﬁrm conclusions can be made, more data on
+bonobo and gorilla tool use are needed, beyond the existing records
+(bonobos: Kano 1982; Ingmanson 1996; Hohmann & Fruth 2003 ;
+gorillas: Breuer et al. 2005; Wittiger & Sunderland-Groves 2007 ).
+Studies that focus on the cognitive abilities underlying tool use are
+equally relevant. In one of them, gorillas performed as well as
+bonobos, but both species did not appear to understand the
+causality of the task while a chimpanzee and two orang-utans
+appeared to do so ( Mulcahy & Call 2006a). Although this ﬁnding
+matches with the current dichotomy in ape tool use in the wild,
+there are other studies that found no cognitive differences or
+limitations in other aspects of tool use. For example, both gorillas
+and orang-utans are able to represent relevant aspects of experi-
+mental tool tasks ( Mulcahy et al. 2005 ), while both bonobos and
+orang-utans are able to plan ahead by saving tools for a speci ﬁc
+future use ( Mulcahy & Call 2006b). Finally, there does not seem to
+be a profound difference between the great apes in their ability to
+represent
+the functional properties of tools ( Herrmann et al. 2008 ),
+Overall, the data are more compatible with the hypothesis that both
+gorillas and bonobos are able to develop a large portfolio of tool use
+in the wild, but that the environment prevents this development.
+Comparing the impact of habitat differences on the development of
+tool use in all apes is likely to provide progress, as are data on
+populations that spend much time on the ground or forage in open
+savannah-type habitats (e.g. Myers-Thompson 2002). Habitat type
+and use, in other words, are likely to play a key causal role in the
+emergence and maintenance of tool use in wild ape populations.
+Acknowledgments
+We are grateful to the San Diego Zoo and Wild Animal Park and
+the Twycross Zoo for enabling us to carry out this study. At San Diego,
+we thank all the Zoo and Park bonobo caretakers and staff, especially
+the head keepers Mike Bates and Donna Lundy, as well as Kim
+Livingstone and Michelle Stancer for their assistance. At Twycross, we
+thank the Research Coordinator Jackie Hooley as well as the bonobo
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e10331030
+
+PDF PAGE 9
+keepers Donna Smithson, Emma Swaddle and Liz Cubberley. We
+thank the Ministry of Research and the Ministry of Environment in
+the Democratic Republic of Congo for supporting our research in their
+country (research permit: no. MIN.RS/SG/004/2009). We thank our
+host at Lola ya Bonobo www.friendsofbonobos.org,C l a u d i n eA n d r e ,
+Dominique Morel, Valery Dhanani and the animal care-giving staff of
+the sanctuary for their enthusiasm and support of our research: Jean-
+Claude Nzumbi, Stany Mokando, Claude Paluku, Amos Kisungu,
+Philippe Kunaka, N ’dombe Luvualu and Kadogo Manzambi. Our
+special gratitude goes to Brian Hare for supporting us with our
+research and for all his good and valuable advice through all stages of
+this study. This study was funded by the Leverhulme Trust (UK), with
+additional support by the Wissenschaftskolleg zu Berlin.
+References
+Altmann, J. 1974. Observational study of behavior: sampling methods. Behaviour,
+49,2 2 7e267.
+Beck, B. B. 1980. Animal Tool Use . New York: Garland Press.
+Boesch, C. & Boesch, H. 1990. Tool use and tool making in wild chimpanzees. Folia
+Primatologica, 54,8 6 e99.
+Breuer, T., Ndoundou-Hockemba, M. & Fishlock, V. 2005. First observation of tool
+use in wild gorillas. PLoS Biology, 3, 2041e2043.
+Bruner, J.1972. The nature and uses of immaturity.American Psychologist, 27, 687e708.
+Byrne, R. W. 2007. Animal cognition: bring me my spear. Current Biology , 17,
+R164eR165.
+Crockford, C., Herbinger, I., Vigilant, L. & Boesch, C. 2004. Wild chimpanzees
+produce group-speciﬁc calls: a case for vocal learning? Ethology, 110,2 2 1e243.
+Davila Ross, M., Owren, M. J. & Zimmermann, E. 2009. Reconstructing the
+evolution of laughter in great apes and humans. Current Biology, 19,1 1 0 6e1111.
+Fox, E. A., van Schaik, C. P., Sitompul, A. & Wright, D. N. 2004. Intra- and inter-
+populational differences in orangutan ( Pongo pygmaeus ) activity and diet:
+implications for the invention of tool use. American Journal of Physical Anthro-
+pology, 125,1 6 2e174.
+Gold, K. C. 2002. Ladder use and clubbing by a bonobo ( Pan paniscus ) in Apenheul
+Primate Park. Zoo Biology, 21,6 0 7e611.
+Goodall, J. 1986. The Chimpanzees of Gombe: Patterns of Behavior . Cambridge,
+Massachusetts: Harvard University Press.
+Gruber, T., Muller, M. N., Strimling, P., Wrangham, R. W. & Zuberbühler, K. 2009.
+Wild chimpanzees rely on cultural knowledge to solve an experimental honey
+acquisition task. Current Biology, 19, 1806e18 10.
+Gruber, T., Reynolds, V. & Zuberbühler, K. 2010. The knowns and unknowns of
+chimpanzee culture. Communicative and Integrative Biology , 3,1 e3.
+Helme, A. E., Call, J., Clayton, N. S. & Emery, N. J. 2006. What do bonobos
+(Pan paniscus ) understand about physical contact? Journal of Comparative
+Psychology, 120, 294 e302.
+Herrmann, E., Wobber, V. & Call, J. 2008. Great apes ’ (Pan troglodytes, Pan paniscus,
+Gorilla gorilla , Pongo pygmaeus ) understanding of tool functional properties
+after limited experience. Journal of Comparative Psychology , 122, 220 e230.
+Hohmann, G. & Fruth, B. 2003. Culture in bonobos? Between-species and within-
+species variation in behavior. Current Anthropology, 44, 563 e571.
+Ingmanson, E. J. 1996. Tool-using behavior in wildPan paniscus: social and ecological
+considerations. In:Reaching into Thought: the Minds of Great Apes(Ed. by A. E. Russon,
+K. A. Bard & S. T. Parker), pp. 190e210. Cambridge: Cambridge University Press.
+Jensvold, M. L. A. & Fouts, R. S. 1993. Imaginary play in chimpanzees ( Pan
+troglodytes). Human Evolution , 8,2 1 7e227.
+Jordan, C. 1982. Object manipulation and tool-use in captive pygmy chimpanzee
+(Pan paniscus ). Journal of Human Evolution , 11,3 5 e59.
+Kano, T. 1982. The use of leafy twigs for rain cover by the pygmy chimpanzees of
+Wamba. Primates, 19,1 8 7e193.
+van Lawick-Goodall, J. 1968. The behaviour of free-living chimpanzees in the
+Gombe Stream Reserve. Animal Behaviour Monographs , 1,1 6 1e311.
+Limongelli,
+L., Boysen, S. T. & Visalberghi, E. 1995. Comprehension of causeeeffect
+relations in a tool-using task by chimpanzees ( Pan troglodytes ). Journal of
+Comparative Psychology, 109,1 8e26.
+Lonsdorf, E. V. 2005. Sex differences in the development of termite- ﬁshing skills in
+the wild chimpanzees, Pan troglodytes schweinfurthii , of Gombe National Park,
+Tanzania. Animal Behaviour, 70,6 7 3e683.
+Lonsdorf, E. V., Everly, L. E. & Pusey, A. E. 2004. Sex differences in learning in
+chimpanzees. Nature, 428,7 1 5e716.
+Lonsdorf, E. V., Ross, S. R., Linick, S. A., Milstein, M. S. & Melber, T. N. 2009. An
+experimental comparative investigation of tool use in chimpanzees and gorillas.
+Animal Behaviour, 77,1 1 1 9e1 126.
+McGrew, W. C. 1979. Evolutionary implications of sex differences in chimpanzee
+predation and tool use. In: The Great Apes (Ed. by D. A. Hamburg & E. McCown),
+pp. 441e463. Menlo Park, California: Benjamin/Cummings Publishing Company.
+McGrew, W. C. 1989. Why is ape tool use so confusing? In: Comparative Socio-
+ecology: the Behavioural Ecology of Humans and Other Mammals (Ed. by
+V. Standen & R. A. Foley), pp. 457 e472. Oxford: Blackwell Scienti ﬁc.
+McGrew, W. C. 1992. Chimpanzee Material Culture: Implication for Human Evolution .
+Cambridge: Cambridge University Press.
+McGrew, W. C. 1998. Comment to Stanford, 1998. Current Anthropology, 39,4 1 1 .
+McGrew, W. C., Ham, R. M., White, L. J. T., Tutin, C. E. G. & Fernandez, M. 1997.
+Why don ’t chimpanzees in Gabon crack nuts? International Journal of Prima-
+tology, 18,3 5 3e374.
+Mann, J. 2009. Tool use in dolphins. Australasian Science , October,2 0 e22.
+Mann, J. & Sargeant, B. 2003. Like mother, like calf: the ontogeny of foraging
+traditions in wild Indian Ocean bottlenose dolphins ( Tursiops sp.). In: The
+Biology
+of Traditions: Models and Evidence (Ed. by D. M. Fragaszy & S. Perry), pp.
+236e266. Cambridge: Cambridge University Press.
+Marlowe, F. W. 2005. Hunter-gatherers and human evolution. Evolutionary
+Anthropology, 14,5 4 e67.
+Mulcahy, N. J. & Call, J.2006a. Apes save tools for future use.Science, 312, 1038e1040.
+Mulcahy, N. J. & Call, J. 2006b. How great apes perform on a modi ﬁed trap-tube
+task. Animal Cognition , 9,1 9 3e199.
+Mulcahy, N. J., Call, J. & Dunbar, R. I. M. 2005. Gorillas ( Gorilla gorilla) and
+orangutans (Pongo pygmaeus) encode relevant problem features in a tool-using
+task. Journal of Comparative Psychology , 119,2 3 e32.
+Myers-Thompson, J. A. 2002. Bonobos of the Lukuru Wildlife Research Project. In:
+Behavioural Diversity in Chimpanzees and Bonobos (Ed. by C. Boesch, G. Hohmann
+& L. F. Marchant), pp. 61 e70. Cambridge: Cambridge University Press.
+Palagi, E. 2006. Social play in bonobos ( Pan paniscus ) and chimpanzees ( Pan trog-
+lodytes): implications for natural social systems and interindividual relation-
+ships. American Journal of Physical Anthropology , 129,4 1 8e426.
+Palagi, E. 2008. Sharing the motivation to play: the use of signals in adult bonobos.
+Animal Behaviour, 75, 887 e896.
+Palagi, E. & Paoli, T. 2007. Play in adult bonobos ( Pan paniscus ): modality and
+potential meaning. American Journal of Physical Anthropology , 134,2 1 9e225.
+Parker, S. T. & Gibson, K. R.1979. A developmental model for the evolution of language
+and intelligence in early hominids. Behavioral and Brain Sciences, 2,3 6 7e408.
+Pellis, S. M. & Iwaniuk, A. N. 2000. Adult eadult play in primates: comparative
+anal
+yses of its origin, distribution and evolution. Ethology, 106, 1083e1 104.
+Pika, S. & Zuberbühler, K. 2008. Social games between bonobos and humans:
+evidence for shared intentionality? American Journal of Primatology , 70,
+207e210.
+Pruetz, J. & Bertolani, P. 2007. Savanna chimpanzees ( Pan troglodytes verus ) hunt
+with tools. Current Biology, 17,4 1 2e417.
+Reynolds, V. 2005. The Chimpanzees of the Budongo Forest: Ecology, Behaviour, and
+Conservation. Oxford: Oxford University Press.
+van Schaik, C. P., Ancrenaz, M., Borgen, G., Galdikas, B., Knott, C. D., Singleton, I.,
+Suzuki, A., Utami, S. S. & Merrill, M. 2003. Orangutan cultures and the
+evolution of material culture. Science, 299,1 0 2e105.
+Shea, B. T. 1983. Paedomorphosis and neoteny in the pygmy chimpanzee. Science,
+222,5 2 1e522.
+Stanford, C. B. 1998. The social behavior of chimpanzees and bonobos: empirical
+evidence and shifting assumptions. Current Anthropology, 39, 399 e420.
+Takeshita, H. & Walraven, V. 1996. A comparative study of the variety and
+complexity of object manipulation in captive chimpanzees ( Pan troglodytes) and
+bonobos ( Pan paniscus ). Primates, 37, 423 e441 .
+Tomasello, M. & Call, J. 1997.Primate Cognition. New York: Oxford University Press.
+Tomasello, M., Carpenter, M., Call, J., Behne, T. & Moll, H. 2005. Understanding
+and sharing intentions: the origins of cultural cognition. Behavioral and Brain
+Sciences, 28,1 e17.
+Toth, N., Schick, K. D., Savage-Rumbaugh, E. S., Sevcik, R. A. & Rumbaugh, D. M.
+1993. Pan the tool-maker: investigations into the stone tool-making and tool-
+using capabilities of a bonobo ( Pan paniscus ). Journal of Archaeological Science ,
+20,8 1 e91.
+de Waal, F. B. M. 1982. Chimpanzee Politics. New York: Harper.
+de Waal, F. B. M. 1986. Imaginative bonobo games. Zoonooz, 59,6 e10.
+Walraven, V., van Elsacker, L. & Verheyen, R. F. 1993. Spontaneous object
+manipulation in captive bonobos ( Pan paniscus . In: Bonobo Tidings: Jubilee
+Volume on the Occasion of the 150th Anniversary of the Royal Zoological
+Society of Antwerp. Antwerp: Royal Zoological Society of Antwerp.
+Washburn, S. 1960. Tools and human evolution. Scientiﬁc American , 203,6 3 e75.
+Whiten, A., Goodall, J., McGrew, W. C., Nishida, T., Reynolds, V., Sugiyama, Y.,
+Tutin, C. E. G., Wrangham, R. W. & Boesch, C. 1999. Cultures in chimpanzees.
+Nature, 399, 682 e685.
+Whiten, A., Goodall, J., McGrew, W. C., Nishida, T., Reynolds, V., Sugiyama, Y.,
+Tutin, C. E. G., Wrangham, R. W. & Boesch, C. 2001. Charting cultural variation
+in chimpanzees. Behaviour, 138, 1481e1516.
+Wittiger, L. & Sunderland-Groves, J. L. 2007. Tool use during display behavior in
+wild Cross River gorillas. American Journal of Primatology , 69, 1307e1311.
+Wobber, V., Wrangham, R. W. & Hare, B. 2010. Bonobos exhibit delayed devel-
+opment of social behavior and cognition relative to chimpanzees. Current
+Biology, 20, 226 e230.
+Won, Y. & Hey, J. 2005. Divergence population genetics of chimpanzees. Molecular
+Biology and Evolution , 22,2 9 7e307.
+Wrangham, R. W. & Pilbeam, D. 2001. Apes as time machines. In: All Apes Great
+and Small: African Apes (Ed. by B. M. F. Galdikas, N. Briggs, L. K. Sheeran,
+G. L. Shapiro & J. Goodall), pp. 5 e18. New York: Plenum/Kluwer.
+Yamakoshi, G. & Sugiyama, Y. 1995. Pestle-pounding behavior of wild chimpan-
+zees at Bossou, Guinea: a newly observed tool-using behavior. Primates, 36,
+489e500.
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e1033 1031
+
+PDF PAGE 10
+APPENDIX
+Table A1
+Beck’s (1980) classiﬁcation of tool use behaviours per context with associated page numbers
+Context No. Page Action Behaviour Description
+Antagonism 1 79 Brandish tools Agonistic intimidation displays Wild: chimpanzees brandish or wave uprooted
+tools at others, human observers, animals
+(live or model), own mirror images. Captivity:
+at conspeci ﬁcs, humans, animals (live or model)
+Immature agonistic intimidation displays Once brandished twigs towards a young female
+in a miniaturized version of adult male display
+Sticks in rainstorm Brandish sticks during explosive episode of
+excitement and animated locomotion triggered
+by a rainstorm
+Wave tools against ﬂies Wave boughts to disperse swarming ﬂies
+Sticks in play Brandish sticks during play
+2 80 Dragging tools Dragging, rolling, and/or kicking
+objects during display
+Conspeciﬁc dragging, rolling, and/or kicking
+objects during display in the presence
+of conspeci ﬁcs
+Dragging, rolling, and/or kicking
+objects during display
+Heterospeciﬁc dragging, rolling, and/or
+kicking objects during display in the
+presence of baboons
+Drag branches during rainstorm Expression of general excitement rather
+than of social agonism
+Dragging during social play Dragging
+3 81 Unaimed throwing Unaimed throwing in arousal states Throw without aiming during intraspeci ﬁc
+agonistic charging displays and rain dances,
+or when frustrated by unsuccessful attempts
+to gain access to incentives such as estrous females
+Unaimed throwing in reaction to stimuli Throw without aiming during model or
+playback experiments or in the presence
+of other species (baboons, goat, mangoose).
+Captivity: in the presence of hippopotamus
+Unaimed throwing during social interaction Throw without aiming during agonistic
+charging displays in the presence of
+conspeciﬁcs and humans
+Unaimed throwing resulted from frustration Throw without aiming when frustrated from
+unsuccessful attempt to reach food
+Unaimed throwing during play A variety of objects are thrown without
+aiming during play
+4 82 Aimed throwing Aimed throwing during agonistic interaction During ﬁghts, aim and throw tools at conspeci ﬁcs
+Interspeciﬁc aimed throwing Wild: throwing objects at other species.
+Captivity: throwing sticks at other species
+such as humans, a tiger and dogs; and at
+fear-producing stimuli such as reptile models
+Interspeciﬁc aimed throwing (hunting) Throwing sticks at other species during predation
+Aimed throwing during social play Aimed throwing during social play
+5 83 Dropping Interspeciﬁc dropping Wild: drop branch when descent from
+trees is blocked by humans or in presence
+of a leopard model. Captivity: drop tool on human
+Conspeciﬁc dropping during social play Drop branch on conspeci ﬁcs during social play
+6 84 Clubbing Conspeciﬁc clubbing during agonistic episodes Club or hit conspeciﬁ cs during agonistic episodes
+Interspeciﬁc clubbing Club or hit another species
+Social play conspeci ﬁc clubbing Club each other during play
+7 85 Prodding or jabbing Conspeci ﬁc prodding or jabbing
+during agonistic contexts
+Prodding or jabbing during agonistic contexts
+Interspeciﬁc probbing or jabbing Prodding or jabbing other species during
+agonistic contexts
+Insect spearing Spear insects with lengths of straw
+8 100 Tree pounding Pound on tree buttresses during
+agonistic displays
+Pound on tree buttresses (or other noisy object)
+during agonistic displays
+9 100 Frustration pounding Pound on objects after
+unsuccessive attempts
+Pound on objects after unsuccessive attempts
+Grooming 1 91 Dental grooming Dental allogrooming Scrape at or probe in the other ’s teeth
+Dental autogrooming Scrape at or probe in one ’s teeth
+2
+91 Grooming Interspeciﬁc grooming Probe in different body parts of another species
+Self-grooming using tools Self-grooming using tools
+Escape 1 91 Escape enclosure Use of sticks as pitons to escape enclosure Use of sticks as pitons to escape enclosure
+Play 1 91 Infant termite ﬁshing Insert and probe in mounds or nests of termites Insert and probe in mounds or nests of termites
+2 100 Playful pounding Pound objects on others for playful purpose Pound objects on others for playful purpose
+3 101 Playful exploration Exploration with stick Pry in crevices
+Oddness/
+Inaccessibility
+1 94 Using tools when reluctant
+to touch with hand
+Touching inhabitual objects Use of sticks to probe inhabitual, fear
+producing and potentially dangerous objects
+Interspeciﬁc touching Use of sticks to probe another species
+Balancing and
+climbing
+1 95 Secure object Secure object (e.g. suspended food) Use of stick to secure food
+2 95 Playful balancing Playful balancing Use of pole for playful purpose
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e10331032
+
+PDF PAGE 11
+Table A1 (continued )
+Context No. Page Action Behaviour Description
+Propping and
+climbing
+1 96 Secure suspended food Secure suspended food Use of stick to secure food with the topmost
+tip of the stick or pole placed against
+a vertical surface
+2 97 Escape enclosure propping Escape enclosure propping Use of tool as ladder with the topmost tip
+of the stick or pole placed against a vertical
+surface to escape the enclosure
+Stacking 1 97 Gain access to suspended
+lures or to extended vision
+Gain access to suspended lures
+or to extended vision
+Stack objects and climb them so as to reach
+inaccessible goals
+2 98 Escape enclosure stacking Escape enclosure stacking Stacking objects to be able to escape
+Food
+acquisition
+1 85 Termite ﬁshing Insert and probe in mounds
+or nests of termites
+Insert and probe in mounds or nests of termites
+Perforate termite mound Use stick to perforate termite mounds
+2 87 Ant Dipping Dipping for fossorial ants Pull and scrape out handfuls of soil which
+stimulates massed active aggression by
+the soldiers. The ape then selects and/or
+modiﬁes a branch and inserts it into the nest
+Dipping for arboreal ants Insert tool in the nest holes in trunks and branches
+3 89 Wild: honey ﬁshing.
+Captivity:
+artiﬁcial ﬁshing
+Insert tool and probe in
+bee/artiﬁcial nest
+Insert tool and probe in bee/arti ﬁcial nest
+4 93 Reaching food or object Reaching and retrieving food
+lures or objects
+Using tools or a series of tools to reach and
+retrieve food or object
+5 98 Opening tough rinds
+or shells
+Nut cracking Using a rock to smash open nuts on rocks or trees
+Hard-shell fruit cracking Using a rock to smash open hard-shell fruits
+on rock or trees
+6 100 Leverage or enlargement
+of openings
+Nest opening Use stick to open or separate nest from
+branches or enlarge openings or open sturdy
+boxes containing bananas
+7 102 Ant wiping Ant wiping Use a clump of leafy boughs to wipe ants
+Digging 1 101 Digging Digging Digging
+Cleaning 1 102 Cleaning body Cleaning body, wound or menses Cleaning body to wipe blood, feces, urine,
+ejaculate, sticky food residues and juices,
+water, mud
+2 103 Cleaning cages Cleaning outer space Cleaning cages
+Liquids 1 90, 103 Water sucking Insert tool into concavities containing
+water or plain water and suck from it
+Insert tool into concavities containing water
+or plain water and suck from it
+2 103 Leaf sponging Leaf sponging Insert masses of leaves and use them as
+sponges to absorb the water
+3 103 Fluids absorbing Fluids absorbing Sponges to absorb residual ﬂuids and brain
+tissue from the skull of victims, or fruits
+4 103 Containers Fluid container Using any kind of tool as a recipient
+Baiting 1 104 Baiting Baiting Using any kind of object to bait animals
+to lure them within reach
+Draping 1 104 Draping Draping Draping objects on one’ s body
+Figure A1. ‘Pretend’ soymilk drinking by a subadult female (Nioki) at Lola ya Bonobo. Half an hour after the end of the ‘soymilk feeding ’, the female carried an empty bottle, used
+previously by the caretaker, to the nearby lake, ﬁlled it with water, and then brought it back to the fence. She then passed the bottle through the fence and poured water into her
+mouth without ingesting any, while adopting the ‘milk-feeding’ facial expression, as if pretending to drink soymilk. Drawing: Jason Zampol.
+T. Gruber et al. / Animal Behaviour 80 (2010) 1023 e1033 1033

@@ -1,0 +1,698 @@
+PDF PAGE 1
+Pr ovided for non-commer cial r esear ch and educational use.
+Not for r epr oduction, distribution or commer cial use.
+This article was originally published in the Encyclopedia of Evolutionary Biology published by Elsevier , and the
+attached copy is provided by Elsevier for the author’s benefit and for the benefit of the author’s institution, for non-
+commercial research and educational use including without limitation use in instruction at your institution, sending
+it to specific colleagues who you know , and providing a copy to your institution’s administrator .
+All other uses, reproduction and distribution, including without limitation commercial reprints, selling or licensing
+copies or access, or posting on open internet sites, your personal or institution’s website or repository , are prohibited.
+For exceptions, permission may be sought for such use through Elsevier’s permissions site at:
+http://www .elsevier .com/locate/permissionusematerial
+Svensson, E.I. (2016) Adaptive Landscapes. In: Kliman, R.M. (ed.), Encyclopedia of Evolutionary Biology. vol. 1,
+pp. 9–15. Oxford: Academic Press.
+© 2016 Elsevier Inc. All rights reserved.
+
+PDF PAGE 2
+Adaptive Landscapes
+EI Svensson, Lund University, Lund, Sweden
+r 2016 Elsevier Inc. All rights reserved.
+Glossary
+Adaptive landscape The relationship between ﬁtness
+(dependent variable) and genotype (at one or several loci)
+or phenotype. Different de ﬁnitions of adaptive landscapes
+exist; the two most common being either ﬁtness depicted
+against individual genotypes or ﬁtness depicted against
+allele frequencies in the population.
+Adaptive peak A gene or trait combination in the adaptive
+landscape that is connected with high ﬁtness, and
+tends to drive populations to evolve by natural or sexual
+selection.
+Brownian motion (BM) A popular and widely used
+model of phenotypic evolution that is often used as a null
+model or point of departure in phylogenetic comparative
+studies of adaptation. In BM models, interspeci ﬁc variance
+increases linearly over time, due to stochastic processes such
+as mutation accumulation, and variance is thus unbounded.
+Correlational selection Selection for optimal trait (or
+gene) combinations, typically expected to operate around a
+ﬁtness peak in a multidimensional adaptive landscape.
+Epistasis Interactions between alleles at different loci in
+shaping phenotypes. A special case, of particular relevance
+to adaptive landscape theory is ﬁtness epistasis, where the
+phenotype is ﬁtness which is interactively affected by two or
+more loci, resulting in adaptive peaks or valleys. Fitness
+epistasis is conceptually closely related to correlational
+selection.
+Fitness valley Combinations of genes or traits in between
+adaptive peaks that result in low ﬁtness.
+Holey adaptive landscape A special case of adaptive
+landscapes initially modeled and suggested by theoretical
+evolutionary biologist Sergey Gavrilets, where large regions
+of genotype space form selectively neutral ‘ridges’ of high
+ﬁtness, separated by low- ﬁtness genotypes. Genotypes are
+assumed to only take two ﬁtness-values in this model
+(1¼ ‘viable’ and 0 ¼ ‘unviable’). This model of adaptive
+landscape has inspired researchers interested in the
+dynamics of molecular evolution.
+Ornstein–Uhlenbeck (OU) model An alternative model
+of phenotypic evolution to Brownian motion in
+phylogenetic comparative studies of adaptations. In contrast
+to BM models, in OU models the accumulation of
+interspeciﬁc variance is not unbounded, but constrained.
+This re ﬂects the effects of a ‘pullback’ force in BM models,
+which are usually interpreted as the effects of stabilizing
+selection as populations and species climb alternate
+adaptive peaks.
+Peak shift The process by which a population moves from
+one adaptive peak to another in the adaptive landscape, and
+was traditionally thought to be dif ﬁcult or impossible, as
+the population would have to cross a ﬁtness valley in
+between the peaks.
+Shifting Balance Theory (SBT) A controversial model of
+evolution and the problem of peak shift that was initially
+suggested by population geneticist Sewall Wright in 1932. It
+invokes a delicate balance between different evolutionary
+forces in subdivided populations such as genetic drift, local
+selection, and gene ﬂow.
+Stabilizing selection A conservative form of selection that
+favors intermediate trait values or heterozygotes (as in
+overdominant selection). Stabilizing selection is thought to
+be a common mode of selection when populations are at
+their evolutionary equilibria, such as when they are close to
+their adaptive peaks.
+Historical Introduction
+A Central Position in Evolutionary Theory and Population
+Genetics
+Adaptive landscapes hold a central and special position in
+evolutionary theory, particularly in population and quantita-
+tive genetics, but also in some models of macroevolution. The
+adaptive landscape concept was originally formulated by the
+population geneticist Sewall Wright in his now classical paper
+from 1932 entitled ‘The roles of mutation, inbreeding and
+crossbreeding in evolution ’ (Wright, 1932 ; Figure 1 ). An
+adaptive landscape shows the relationship between ﬁtness
+(vertical axis) and one or several traits or genes (horizontal
+axes). An adaptive landscape is therefore a form of response
+surface, describing how dependent variable ( ﬁtness) is causally
+inﬂuenced by one or several predictor variables (traits
+or genes). Evolution by natural selection in the context of
+adaptive landscapes can be viewed as a hill climbing process,
+in which populations climb upwards to the trait or gene
+combination with the highest ﬁtness ( ‘adaptive peaks ’). In
+between the adaptive peaks, there are regions in phenotype or
+genotype space of low ﬁtness ( ‘ﬁtness valleys ’). Adaptive
+landscapes have appeared in the popular science literature on
+evolutionary biology, perhaps most explicitly in Richard
+Dawkin’s book ‘Climbing Mount Improbable, ’ published in
+1996 ( Dawkins, 1996 ). Here, Dawkins, like many others,
+likened evolution by natural selection to a hill climbing pro-
+cess, in which populations and species evolved by climbing
+the closest adaptive peak, even though it is not always the peak
+with the highest overall ﬁtness.
+In the precomputer era, adaptive landscapes were often
+visualized as three-dimensional surface plots with only two
+traits (or genes) as independent variables. Adaptive landscapes
+then mainly served a heuristic function for qualitative
+reasoning, rather than quantitative analysis. With the rapid
+Encyclopedia of Evolutionary Biology, Volume 1 doi:10.1016/B978-0-12-800049-6.00054-8 9
+Author's personal copy
+
+PDF PAGE 3
+development of evolutionary quantitative genetic theory and
+increasing computer power, adaptive landscapes are now one
+of several analytical tools for modern evolutionary biologists.
+However, the adaptive landscape concept has also generated
+many criticisms from both philosophers and evolutionary
+biologists ( Kaplan, 2008 ; Svensson and Calsbeek, 2012 ).
+Inﬂuence on Various Fields of Evolutionary Biology
+Sewall Wright ’s main scienti ﬁc rival at the time when he for-
+mulated the adaptive landscape concept was the British
+mathematical population geneticist Ronald Fisher, who had a
+different view of the evolutionary process ( Provine, 1986 ;
+Frank and Slatkin, 1992 ). Frank and Slatkin (1992) discussed
+the different views of Sewall Wright and Ronald Fisher, and
+they argued that whereas Wright ’s goal was to establish a
+dynamical theory of evolution, Fisher was more interested in
+evolutionary equilibria, as re ﬂected in his formulation of the
+‘Fundamental Theorem of Natural Selection ’, rather than being
+interested in adaptive landscapes.
+The paleontologist George Gaylord Simpson took the
+adaptive landscape concept of Sewall Wright into the ﬁeld of
+macroevolution of phenotypes, and also discussed so-called
+quantum evolution – the rapid appearance of novel traits
+and lineages often seen in fossil record ( Simpson, 1944 ;
+Kirkpatrick, 1982 ). The adaptive landscape does still in ﬂuence
+paleontological research, particularly those who try to interpret
+stratigraphic time series in the fossil record ( Hunt, 2007 ;
+Hunt et al ., 2008 ; Bell, 2012 ). Unlike Sewall Wright, Simpson
+thus focused on quantitative phenotypic traits, regardless of
+their genetic basis, which later in ﬂuenced evolutionary quan-
+titative genetic theory ( Hansen, 1997 ; Arnold et al ., 2001 ). A
+major step forward in evolutionary quantitative genetics was
+achieved by modeling the temporal dynamics of Gaussian
+phenotype distributions and how these distributions change
+over time due to natural selection and genetic drift ( Lande,
+1976). Arnold et al. (2001) argued that the adaptive landscape
+provides a natural conceptual bridge between micro- and
+macro-evolution. In ecology, the adaptive landscape metaphor
+has perhaps been most in ﬂuential in the ﬁelds of adaptive
+radiation and ecological speciation ( Schluter, 2000 ) and in
+analyses of the evolutionary consequences of competition
+(Fear and Price, 1998 ). The adaptive landscape has also been a
+major inﬂuence in experimental evolution studies, particularly
+in studies on microbes such as Escherichia coli (Lenski and
+Travisano, 1994 ; Cooper, 2012 ).
+Another ﬁeld where adaptive landscape theory has been
+strongly in ﬂuential are phylogenetic comparative methods,
+where models are now being developed to test various sce-
+narios of phenotypic evolution and adaptive landscape
+dynamics, including models for evolutionary stasis, peak
+shifts, random bursts, and directional selection ( Uyeda and
+Harmon, 2014 ). An important conceptual insight has been
+that dynamics of phenotypic traits over evolutionary time
+might sometimes better be described by an Ornstein –Uhlen-
+beck (OU) process rather than by the traditional stochastic
+Brownian motion (BM) model ( Hansen, 1997 ). OU models
+are thought to capture stabilizing selection around adaptive
+peaks better than BM models, as there is often a signature of a
+signiﬁcant ‘pullback force ’ that is usually interpreted as the
+signature of stabilizing selection ( Hansen, 1997 ).
+There has recently been increasing interest in applying
+adaptive landscape theory to problems in molecular evolution,
+such as metabolic networks. One key insight that has stimulated
+this interest is that multiple genotypes can give rise to the same
+phenotype(s), implying that they can be more or less neutral
+with respect to ﬁtness. Thus, there might be multiple genetic
+solutions to the same ecological problem facing organisms
+surviving in complex environments. In multidimensional gen-
+otypes, there can often be a series of mutational steps con-
+necting genotypes to each other, and populations can therefore
+traverse extensively in genotype space on nearly-neutral ridges
+(Gavrilets, 2004; Wagner, 2012). With the rapid development
+of molecular biology and related ﬁelds, the adaptive landscape
+has also recently emerged at the intersection between evolu-
+tionary biology and systems biology (Kogenaru et al., 2009)a n d
+has caught the attention of researchers interested in protein
+evolution (Carneiro and Hartl, 2010 ).
+Analytical Approaches and Methods of Study
+There are ﬁve traditional major empirical approaches to study
+adaptive landscapes:
+1. Measuring and quantifying the mode of selection in nat-
+ural populations
+2. Experimental manipulations of individual genotypes,
+phenotypic traits or agents of selection
+3. Experimental evolution
+4. Phylogenetic comparative methods
+5. Inferences from time series in the fossil record.
+All these methods have their pros and cons, and in-depth
+reviews and discussions of each of the approaches can be
+Figure 1 Sewall Wright ’s classical adaptive landscape ﬁgure. The
+contour plots show various genetic combinations of high ﬁtness ( ‘ þ ’
+in ﬁgure), separated by ﬁtness valleys ( ‘ /C0 ’ in ﬁgure). Sewall Wright
+introduced the concept of the adaptive landscape in his 1932-
+publication ( Wright, 1932 ). Reproduced from Skipper, R.A., Dietrich,
+D., 2012. Sewall Wright's Adaptive Landscape: Philosophical
+reﬂections on heuristic value. In: Svensson, E.I., Calsbeek, R., (Eds.),
+The Adaptive Landscape in Evolutionary Biology, Oxford: Oxford
+University Press, pp. 16 –25, with permission from original publisher.
+10 Adaptive Landscapes
+Author's personal copy
+
+PDF PAGE 4
+found elsewhere ( Endler, 1986; Harvey and Pagel, 1991 ; Rose
+and Lauder, 1996 ). Methods 1, 4, and 5 are correlative
+approaches and are inferential, whereas methods 2 and 3
+manipulate either phenotypes, selective environments, or both.
+The analysis and visualization of adaptive landscapes and
+ﬁtness surfaces have become increasingly sophisticated with
+the development of multivariate statistical techniques. Today,
+evolutionary biologists can describe ﬁtness surfaces both in
+terms of elevation and curvature and have developed a rigor-
+ous formal mathematical framework to quantify adaptive
+peaks and ﬁtness valleys as well as interactions between traits
+(‘correlational selection ’) and how they affect ﬁtness ( Arnold
+et al ., 2001 ; Sinervo and Svensson, 2002 ; Blows, 2007 ). The
+development of multivariate statistical methods to analyze
+ﬁtness surfaces now means that evolutionary biologists are no
+longer constrained about thinking about adaptive landscapes
+in only three dimensions, which has been a frequent criticism
+of adaptive landscapes ( Kaplan, 2008 ). The parameters that
+are used to quantify ﬁtness surfaces include directional selec-
+tion gradients ( β), curvilinear, and correlational selection
+gradients (Phillips and Arnold, 1989 ). Fitness is then modeled
+as response surface, which is depicted against one or several
+underlying phenotypic traits (predictor variables).
+Different Versions of Adaptive Landscapes
+Landscape Structure
+Several different types of adaptive landscapes have been
+developed since Wright (1932) , and evolution on these will
+follow very different dynamics ( Skipper and Dietrich, 2012 ;
+Figure 2). ‘Wrightian adaptive landscapes’ are characterized by
+multiple adaptive peaks, and ﬁtness valleys in between them,
+reﬂecting the ﬁtness epistasis that is expected from strong gene
+interactions. ‘Fisherian adaptive landscapes’ are smoother than
+their Wrightian counterparts, and are characterized by a single
+adaptive peak toward which the population moves through the
+action of mass selection in large and panmictic populations. In
+contrast, in the ‘rugged adaptive landscapes ’ envisioned by
+Wright, populations get stuck on local adaptive peaks for a very
+long time, being unable to move across ﬁtness valleys. In ‘holey
+adaptive landscapes,’ evolution can easily proceed along neutral
+or semi-neutral ridges that connect genotypes of approximately
+equal ﬁtness to each other throughout genotype space.
+The target model of adaptation is an application of
+adaptive landscape theory that was initially proposed by Fisher
+(1930), and formally modeled by Orr (1998) to understand
+P ′
+0
+(a) (c)
+(b) (d)
+0 Frequency of Ballele
+1
+1
+1
+1
+1
+0.8
+0.8
+0.8
+0.6
+Wbar
+0.6
+0.6
+0.4
+0.4 0.4
+P1
+P2
+0.2
+0.2
+0.2
+0
+0
+Genotype spaceGenotype space
+Mean population
+fitness (w)
+Fitness
+Fitness
+Frequency of A allele
+Figure 2 Four different adaptive landscape versions that have grown out from various critiques of Sewall Wright ’s original adaptive landscape. (a)
+‘Fisherian’ adaptive landscape with a single ﬁtness peak. (b) ‘Holey adaptive landscape ’, where genotypes can either have high or low ﬁtness, as
+formulated by Gavrilets (2004) . (c) ‘Wrightian’ adaptive landscape with two ﬁtness peaks. (d) ‘Rugged adaptive landscape. ’ Reproduced Skipper, R.
+A., Dietrich, D., 2012. Sewall Wright's Adaptive Landscape: Philosophical re ﬂections on heuristic value. In: Svensson, E.I., Calsbeek, R., (Eds.), The
+Adaptive Landscape in Evolutionary Biology, Oxford: Oxford University Press, pp. 16 –25, with permission from original publisher.
+Adaptive Landscapes 11
+Author's personal copy
+
+PDF PAGE 5
+the genetic architecture of the process of adaptation by natural
+selection toward a ﬁxed optimum. The target model predicts
+an exponential size distribution of the ﬁxed factors involved in
+adaptation, with genes of large effects typically ﬁxed ﬁrst,
+followed by genes of smaller effects as the population
+approaches the optimum ( Orr, 1998 ). The underlying reason
+for this sequence of events leading to the ﬁxation of factors of
+differing size is that early on in the population history, genes
+of major effect are more likely to push the population closer to
+the ﬁtness optimum, but as the optimum is approached, large-
+effect mutations are more likely to lead to ‘overshoot’ of the
+optimum and hence decrease ﬁtness (Fisher, 1930; Orr, 1998).
+Landscape Dynamics
+Natural and sexual selection often ﬂuctuate strongly in natural
+populations when measured across different years or genera-
+tions. These ﬂuctuating selection pressures strongly suggest that
+adaptive peaks and valleys are not stable on microevolutionary
+timescales (Calsbeek et al., 2012). Moreover, adaptive peaks and
+ﬁtness valleys are expected to be even less stable on macro-
+evolutionary timescales, due to major climatic and biotic
+changes ( Hansen, 2012 ). The ecological causes and evolu-
+tionary consequences of such landscape dynamics are largely
+unknown and are subject to much discussion among evolu-
+tionary biologists. A distinction can thus be made between
+‘static’ and ‘dynamic’ adaptive landscapes. Major changes in the
+environment, such as the movement into new ‘adaptive zones’
+are generally considered to be the major explanation for peak
+movements on macroevolutionary timescales, as envisioned by
+Simpson (Simpson, 1944; Hansen, 1997; Arnold et al., 2001).
+On microevolutionary timescales, density- and frequency-
+dependent selection have attracted special interest as mechan-
+isms causing landscape dynamics and the movement
+of adaptive peaks. For instance, under negative frequency-
+dependent selection (NFDS), a rare morph or genotype will
+experience high ﬁtness because of its low frequency, but this
+ﬁtness advantage will disappear as it increases in frequency and
+climbs the closest adaptive peak. Therefore, a ﬁtness peak will
+become a ﬁtness trough, over time and a ﬁtness trough will turn
+into a ﬁtness peak across generations, as the genetic composition
+of the population changes. The adaptive landscape will therefore
+be more similar to an ‘ocean’ with moving waves than a static
+mountain range. Other ecological interactions and processes
+such as coevolutionary arms races and ‘Red Queen ’-dynamics
+can generate similar effects, and Fisher emphasized this aspect
+of the evolutionary process in his ‘Fundamental Theorem of
+Natural Selection’ (Frank and Slatkin, 1992 ). Therefore, under
+NFDS and in similar ecological scenarios, population mean
+ﬁtness will not necessarily increase, even though the ﬁtness
+of some genotypes do increase, which points to the crucial
+distinction between the ﬁtness surface of individuals and the
+mean ﬁtness of the population ( Fear and Price, 1998 ).
+Controversies and Criticisms
+The Problem of Dimensionality
+One misunderstanding by less mathematically inclined phi-
+losophers and historians of science is the frequently repeated
+claim that adaptive landscapes are only meaningful in three
+dimensions and that they cease to exist or are meaningless in
+higher dimensions ( Provine, 1986). This early criticism against
+the adaptive landscape essentially states that since organisms
+and genotypes are multidimensional, and cannot be restricted
+to two traits, the adaptive landscape should be abandoned and
+be replaced with ‘formal modeling ’ (Kaplan, 2008 ). However,
+this criticism misses the fact that the phenotypic adaptive
+landscape in the tradition of evolutionary quantitative genetics
+does have a rigorous mathematical framework in the form of
+the visualization of both ﬁtness surfaces through the estima-
+tion of parameters quantifying the steepness and curvature of
+adaptive peaks and valleys ( Arnold et al., 2001). This statistical
+framework is not restricted to only two traits and constitutes
+exactly the kind of formal modeling that has been requested
+by critics of the adaptive landscape. With the development of
+multivariate statistical tools from matrix algebra, such as
+canonical analysis (CA) and diagonalization techniques, it is
+now possible to model ﬁtness surfaces in more than three
+dimensions and to investigate multiple traits simultaneously
+(Blows and Brooks, 2003 ). The frequently reiterated criticisms
+against the simpli ﬁed three-dimensional ﬁtness surfaces by
+Sewall Wright ( Kaplan, 2008 ) are therefore no longer valid as
+modern mathematical, statistical, and computational tools
+are now regularly used to explore surfaces of increasing
+dimensionality, both at the phenotypic and genotypic levels
+(Gavrilets, 2004 ; Blows, 2007 ).
+Fitness of Individual Genotypes or Allele Frequencies of the
+Population?
+Provine, who published an early and in ﬂuential in-depth
+biography of Sewall Wright ( Provine, 1986 ), criticized the
+adaptive landscape metaphor and pointed to inconsistencies
+of the two different versions of the adaptive landscape: the
+genotypic version versus the one showing population allele
+frequencies. Provine argued these two versions of the adaptive
+landscape suggested by Wright were ‘wholly incompatible, ’
+and that it was only the adaptive landscape of the population
+allele frequencies that was meaningful. Provine further argued
+that the adaptive landscape of individual genotypes should be
+abandoned, as there was no natural way of arranging the
+discrete genotypes on the axes and essentially this version was
+meaningless. However, Gavrilets (2004) criticized Provine ’s
+view and showed that information about the ﬁtnesses of
+individual genotypes could be used to deduce ﬁtness land-
+scapes at the population level (but not the other way around).
+Gavrilets therefore questioned the claim by Provine that these
+two types of adaptive landscapes were wholly incompatible as
+they instead are quite naturally connected through each other,
+as the population mean ﬁtness is obviously in ﬂuenced by
+individual ﬁtnesses, but it is not necessarily the other way
+around ( Fear and Price, 1998 ; Svensson and Calsbeek, 2012 ).
+The adaptive landscape of individual genotypes and the
+adaptive landscape of allele frequencies of the population
+have in ﬂuenced different sub ﬁelds of evolutionary biology.
+The adaptive landscape of gene combinations has been parti-
+cularly important in evolutionary genetics and the under-
+standing of ﬁtness epistasis ( Wolf et al ., 2000 ; Phillips, 2008 )
+and in speciation theory, particularly postzygotic speciation
+12 Adaptive Landscapes
+Author's personal copy
+
+PDF PAGE 6
+and the development of hybrid incompatibility. In contrast,
+the adaptive landscape of allele frequencies has played a more
+prominent role in quantitative genetics and the evolution of
+phenotypic traits.
+The Debate Over the Shifting Balance Theory
+Considerable controversy and debate has been focused on the
+problem of peak shifts and the crossing of ﬁtness valleys in the
+adaptive landscape. Sewall Wright ’s suggested solution to the
+problem of peak shifts and the dilemma for a population that
+has to traverse through a valley of low ﬁtness was outlined in
+his Shifting Balance Theory (SBT) of evolution ( Wright, 1932 ;
+Figure 1 ). Wright argued that in large panmictic populations,
+peak shifts were unlikely to happen, as mass selection would
+predominate and the role of genetic drift would be negligible.
+At the other extreme, in very small populations, genetic drift is
+stronger and such small populations would potentially go
+extinct at a high rate. However, in populations of intermediate
+size that are connected through moderate gene ﬂow, genetic
+drift could interact with local selection and shape evolutionary
+outcomes in a different way than would selection operating
+alone ( Wade and Goodnight, 1998 ). Wright envisioned this
+ecological setting to be most favorable for peak shifts. SBT,
+since it was ﬁrst suggested, has been subject to considerable
+controversy. For a critical perspective on SBT, where the
+authors argue it is unlikely to be important in adaptive evo-
+lution, see Coyne et al. (1997, 2000). For a defense of SBT and
+Wright’s view of peak shifts, see Wade and Goodnight (1998)
+and Goodnight and Wade (2000) . The different views
+expressed by these different authors illustrate a still existing
+and strong division between different branches of population
+genetics, relying either on Sewall Wright ’s or Fisher ’s modeling
+traditions ( Provine, 1986 ; Frank and Slatkin, 1992 ).
+Mathematical Models of Peak Shifts
+Several other mathematical models of how peak shifts could
+happen have been developed. Among these models is the
+insight that peak shifts could more easily happen when
+environments ﬂuctuate, so that ﬁtness valleys may temporarily
+disappear ( Whitlock, 1997 ). Peak shifts can also happen for
+purely intrinsic reasons, without any environmental change,
+through increased genetic variance from inbreeding or devel-
+opmental noise ( Kirkpatrick, 1982 ; Whitlock, 1995 ). Pheno-
+typic plasticity and subsequent genetic accommodation have
+also been shown to be able to bring population closer to the
+domain of attraction of a new adaptive peak ( Price et al .,
+2003).
+Peak shifts could also result from correlated responses to
+selection, if phenotypic traits are genetically correlated with
+each other, as they typically are ( Price et al ., 1993 ). Genetic
+drift alone has also been shown to be able to cause peak shifts,
+although the effective population size ( Ne) has to become
+extremely low for this to plausibly happen ( Lande, 1985 ).
+Finally, the adaptive landscape of the population is in ﬂuenced
+by both the relative ﬁtness of different phenotypes and their
+relative frequency ( Kirkpatrick, 1982 ). As a consequence,
+the adaptive landscape will ‘ﬂatten out ’ compared to the
+individual ﬁtness surface, making ﬁtness valleys shallower and
+potentially easier to cross than one would get the impression
+of if one only looks at individual ﬁtness surfaces ( Fear and
+Price, 1998 ). Taken together, these different models have
+shown that the problem of peak shifts might not be as severe
+as originally thought, and peak shifts can happen through
+several different mechanisms. The plausibility of each of these
+different scenarios is mainly a remaining empirical issue.
+Adaptive Ridges and the Non-Existing Problem of Peak
+Shifts
+An alternative perspective on the peak shift debate is that
+peaks might not exist in real (multidimensional) adaptive
+landscapes, because all such real adaptive landscapes are likely
+to have at least one ridge of high ﬁtness between different
+peaks ( Gavrilets, 2004 ). The increasing number of ridges with
+increasing dimensionality of the adaptive landscape leads to
+something which has been coined the ‘extradimensional
+bypass,’ relative to the situation for three-dimensional adap-
+tive landscapes ( Gavrilets, 2004 ). This view, therefore, does
+not deny the existence of the adaptive landscape, as did some
+early critics of adaptive landscapes, but, according to this view,
+there will exist large selectively neutral or nearly neutral
+regions in genotype space that can connect genotypes of
+approximately equal ﬁtness to each other through networks.
+Thus, it is therefore the structure of the adaptive landscape,
+rather than its existence, that is the focus of this and other
+models of ‘holey adaptive landscapes ’ (Gavrilets, 2004 ). In
+these models, the problem of peak shifts therefore disappears,
+as populations are expected to easily traverse on these adaptive
+ridges throughout more or less the entire genotype space.
+Conclusions and Future Outlook
+The adaptive landscape has stimulated a lot of empirical and
+theoretical research in various sub ﬁelds of evolutionary
+biology, including evolutionary and population genetics,
+quantitative genetics, evolutionary ecology, macroevolution,
+paleontology, and speciation, to only mention a few such
+areas. The adaptive landscape has therefore been a very useful
+concept to evolutionary biologists, judged by the number of
+investigations and articles that has been published and which
+are anchored in the adaptive landscape tradition. It is even
+questionable if certain research ﬁelds would have existed at all
+if the adaptive landscape concept had not been formulated
+by Wright. These ﬁelds include experimental evolution, evo-
+lutionary quantitative genetics, and certain branches and
+models of phylogenetic comparative methods. Judged by this
+enormous interest, the adaptive landscape must surely be one
+of the most successful concepts in evolutionary biology.
+However, the adaptive landscape has also generated con-
+siderable controversy and criticisms, resulting in debates of
+which some have now been settled, whereas others still remain
+unsolved. Whether these debates have been useful to evolu-
+tionary biology or a waste of time is probably a matter
+of different opinion among different researchers. However,
+the adaptive landscape is likely to remain in the center of
+Adaptive Landscapes 13
+Author's personal copy
+
+PDF PAGE 7
+evolutionary biology for decades to come, and there are signs
+that it is now attracting the interest of evolutionary biologists
+working on molecular evolution. Hopefully, future genera-
+tions of evolutionary biologists can learn from these debates
+and avoid repeating misunderstandings and past mistakes
+about adaptive landscapes.
+See also : Adaptation, History of. Coevolutionary Fitness
+Landscapes. Divergence and Diversi ﬁcation, Quantitative Genetics
+of. Ecological Speciation and Its Consequences. Evolutionary
+Biology, History of. Evolvability, Quantitative Genetics of. Founder
+Speciation. Gene Interactions in Evolution. Genotype to Phenotype:
+Insights from Evo-Devo. Macroevolution, Quantitative Genetics and.
+Natural Selection, Introduction to. Natural Selection, Measuring.
+Quantitative Genetic Variation
+References
+Arnold, S.J., Pfrender, M.E., Jones, A.G., 2001. The Adaptive Landscape as a
+conceptual bridge between micro- and macroevolution. Genetica 112 −113, 9 –32.
+Bell, M.A., 2012. Adaptive Landscapes, evolution and the fossil record. In:
+Svensson, E.I., Calsbeek, R. (Eds.), The Adaptive Landscape in Evolutionary
+Biology. Oxford: Oxford University Press.
+Blows, M.W., 2007. A tale of two matrices: Multivariate approaches in evolutionary
+biology. Journal of Evolutionary Biology 20, 1 –8.
+Blows, M.W., Brooks, R., 2003. Measuring nonlinear selection. American Naturalist
+162, 815 –820.
+Calsbeek, R., Gosden, T.P., Kuchta, S.R., Svensson, E.I., 2012. Fluctuating selection
+and dynamic Adaptive Landscapes. In: Svensson, E.I., Calsbeek, R. (Eds.), The
+Adaptive Landscape in Evolutionary Biology. Oxford: Oxford University Press.
+Carneiro, M., Hartl, D.L., 2010. Colloquium papers: Adaptive Landscapes and
+protein evolution. Proceedings of the National Academy of Sciences of the United
+States of America 107 (Suppl. 1), 1747 –1751.
+Cooper, T.F., 2012. Empirical insights into adaptive landscapes from bacterial
+experimental evolution. In: Svensson, E.I., Calsbeek, R. (Eds.), The Adaptive
+Landscape in Evolutionary Biology. Oxford: Oxford University Press, pp. 169 –179.
+Coyne, J.A., Barton, N.H., Turelli, M., 1997. Perspective: A critique of of Sewall
+Wright's shifting balance theory of evolution. Evolution 51, 643 –671.
+Coyne, J.A., Barton, N.H., Turelli, M., 2000. Is Wright's shifting balance process
+important in evolution? Evolution 54, 306 –317.
+Dawkins, R., 1996. Climbing Mount Improbable. New York: Norton.
+Endler, J.A., 1986. Natural Selection in the Wild. Princeton: Princeton University Press.
+Fear, K., Price, T., 1998. The adaptive surface in ecology. Oikos 82, 440 –448.
+Fisher, R.A., 1930. The Genetical Theory of Natural Selection. Oxford: Oxford
+University Press.
+Frank, S.A., Slatkin, M., 1992. Fisher's fundamental theorem of natural selection.
+Trends in Ecology and Evolution 7, 92 –95.
+Gavrilets, S., 2004. Fitness Landscapes and the Origin of Species. Princeton, NJ:
+Princeton University Press.
+Goodnight, C.J., Wade, M.J., 2000. The ongoing synthesis: A reply to Coyne,
+Barton and Turelli. Evolution 54, 317 –324.
+Hansen, T.F., 1997. Stabilizing selection and the comparative analysis of adaptation.
+Evolution 51, 1341 –1351.
+Hansen, T.F., 2012. Adaptive Landscapes and macroevolutionary dynamics. In:
+Svensson, E.I., Calsbeek, R. (Eds.), The Adaptive Landscape in Evolutionary
+Biology. Oxford: Oxford University Press.
+Harvey, P.H., Pagel, M.D., 1991. The Comparative Method in Evolutionary Biology.
+Oxford: Oxford University Press.
+Hunt, G., 2007. The relative importance of directional change, random walks, and
+stasis in the evolution of fossil lineages. Proceedings of the National Academy of
+Sciences of the United States of America 104, 18404 –18408.
+Hunt, G., Bell, M.A., Travis, M.P., 2008. Evolution toward a new adaptive optimum:
+phenotypic evolution in a fossil stickleback lineage. Evolution 62, 700 –710.
+Kaplan, J., 2008. The end of the adaptive landscape metaphor? Biology &
+Philosophy 23, 625 –638.
+Kirkpatrick, M., 1982. Quantum evolution and punctuated equilibria in continous
+genetic characters. American Naturalist 119, 833 –848.
+Kogenaru, M., de Vos, M.G., Tans, S.J., 2009. Revealing evolutionary pathways by
+ﬁtness landscape reconstruction. Critical Reviews in Biochemistry and Molecular
+Biology 44, 169 –174.
+Lande, R., 1976. Natural selection and random genetic drift in phenotypic evolution.
+Evolution 30, 314 –334.
+Lande, R., 1985. Expected time for random genetic drift of a population between
+stable phenotypic states. Proceedings of the National Academy of Sciences of the
+United States of America 82, 7641 –7645.
+Lenski, R.E., Travisano, M., 1994. Dynamics of adaptation and diversi ﬁcation: A
+10 000-generation experiment with bacterial populations. Proceedings of the
+National Academy of Sciences of United States of America 91, 6808 –6814.
+Orr, H.A., 1998. The population genetics of adaptation: The distribution of factors
+ﬁxed during adaptive evolution. Evolution 52, 935 –949.
+Phillips, P.C., 2008. Epistasis − the essential role of gene interactions in the
+structure and evolution of genetic systems. Nature Reviews Genetics 9, 855 –867.
+Phillips, P.C., Arnold, S.J., 1989. Visualizing multivariate selection. Evolution 43,
+1209–1266.
+Price, T., Turelli, M., Slatkin, M., 1993. Peak shifts produced by correlated response
+to selection. Evolution 47, 280 –290.
+Price, T.D., Qvarnstrom, A., Irwin, D.E., 2003. The role of phenotypic plasticity in
+driving genetic evolution. Proceedings of the Royal Society of London Series
+B-Biological Sciences 270, 1433 –1440.
+Provine, W.B., 1986. Sewall Wright and Evolutionary Biology. Chicago: University of
+Chicago Press.
+Rose, M.R., Lauder, G.V., 1996. Adaptation. San Diego: Academic Press.
+Schluter, D., 2000. The Ecology of Adaptive Radiation. Oxford: Oxford University
+Press.
+Simpson, G.G., 1944. Tempo and Mode in Evolution. New York: Columbia
+University Press.
+Sinervo, B., Svensson, E., 2002. Correlational selection and the evolution of
+genomic architecture. Heredity 16, 948 –955.
+Skipper, R.A., Dietrich, D., 2012. Sewall Wright's Adaptive Landscape: Philosophical
+reﬂections on heuristic value. In: Svensson, E.I., Calsbeek, R. (Eds.), The
+Adaptive Landscape in Evolutionary Biology. Oxford: Oxford University Press,
+pp. 16 –25.
+Svensson, E.I., Calsbeek, R.E., 2012. The Adaptive Landscape in Evolutionary
+Biology. Oxford: Oxford University Press.
+Uyeda, J.C., Harmon, L.J., 2014. A novel Bayesian method for inferring and
+interpreting the dynamics of adaptive landscapes from phylogenetic comparative
+data. Systematic Biology 63, 902 –918.
+Wade, M.J., Goodnight, C.J., 1998. The theories of Fisher and Wright in the context
+of metapopulations: When nature does many small experiments. Evolution 52,
+1537–1553.
+Wagner, A., 2012. High-dimensional Adaptive Landscapes facilitate evolutionary
+innovation. In: Svensson, E.I., Calsbeek, R. (Eds.), The Adaptive Landscape in
+Evolutionary Biology. Oxford: Oxford University Press.
+Whitlock, M.C., 1995. Variance-induced peak shifts. Evolution 49, 252 –259.
+Whitlock, M.C., 1997. Founder effects and peak shifts without genetic drift: Adaptive
+peak shifts occur easily when environments ﬂuctuate slightly. Evolution 51,
+1044–1048.
+Wolf, J.B., Brodie III, E.D., Wade, M.J., 2000. Epistasis and the Evolutionary
+Process. New York: Oxford University Press.
+Wright, S., 1932. The roles of mutation, inbreeding, crossbreeding and selection in
+evolution. Proceedings of the Sixth International Congress of Genetics 1,
+356–366.
+Further Reading
+Arnold, S.J., Pfrender, M.E., Jones, A.G., 2001. The Adaptive Landscape as a
+conceptual bridge between micro- and macroevolution. Genetica 112 −113,
+9–32.
+Carneiro, M., Hartl, D.L., 2010. Colloquium papers: Adaptive Landscapes and
+protein evolution. Proceedings of the National Academy of Sciences of the United
+States of America 107 (Suppl. 1), 1747 –1751.
+Dawkins, R., 1996. Climbing Mount Improbable. New York: Norton.
+Fear, K., Price, T., 1998. The adaptive surface in ecology. Oikos 82, 440 –448.
+Frank, S.A., Slatkin, M., 1992. Fisher's fundamental theorem of natural selection.
+Trends in Ecology and Evolution 7, 92 –95.
+14 Adaptive Landscapes
+Author's personal copy
+
+PDF PAGE 8
+Gavrilets, S., 2004. Fitness Landscapes and the Origin of Species. Princeton, NJ:
+Princeton University Press.
+Uyeda, J.C., Harmon, L.J., 2014. A novel Bayesian method for inferring and
+interpreting the dynamics of adaptive landscapes from phylogenetic comparative
+data. Systematic Biology 63, 902 –918.
+Wolf, J.B., Brodie III, E.D., Wade, M.J., 2000. Epistasis and the Evolutionary
+Process. New York: Oxford University Press.
+Wright, S., 1932. The roles of mutation, inbreeding, crossbreeding and selection
+in evolution. Proceedings of the Sixth International Congress of Genetics 1,
+356–366.
+Relevant Websites
+http://beacon-center.org/blog/2012/10/08/evolution-101-ﬁtness-landscapes/
+BEACON.
+http://pleiotropy.ﬁeldofscience.com/2012/07/crossing-valleys-in-ﬁtness-landscapes.
+html
+Pleiotropy.
+http://news.ucdavis.edu/search/news_detail.lasso?id=10451
+UCDavis.
+http://evolution.berkeley.edu/evolibrary/article/evo_53
+University of California Museum of Paleontology.
+https://commons.wikimedia.org/wiki/File:
+Visualization_of_a_population_evolving_in_a_dynamic_ﬁtness_landscape.gif
+http://en.wikipedia.org/wiki/Fitness_landscape#mediaviewer/File:
+Visualization_of_a_population_evolving_in_a_static_ﬁtness_landscape.gif
+https://www.youtube.com/watch?v=4pdiAneMMhU
+Adaptive Landscapes 15
+Author's personal copy

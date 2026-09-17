@@ -1,0 +1,1041 @@
+PDF PAGE 1
+Variability in Food-Processing Behavior Among
+White-Faced Capuchins ( Cebus capucinus )
+in Santa Rosa National Park, Costa Rica
+Robert C. O’Malley1 and Linda Fedigan 2*
+1Department of Anthropology, University of California, Los Angeles, California, USA
+2Department of Anthropology, University of Calgary, Calgary, Alberta T2N 1N4, Canada
+KEY WORDS extractive foraging; manipulation; Cebines; object use
+ABSTRACT Observed patterns of variability in the
+food-processing behavior of white-faced capuchins ( Cebus
+capucinus) across populations may reﬂect foraging tradi-
+tions. However, there has been relatively little attention
+given to intrapopulation variability in food processing
+among groups and age/sex classes, making recent cross-
+population comparisons difﬁcult to interpret. In this paper,
+we provide data on patterns of object use in foraging that
+we observed at Santa Rosa National Park, Costa Rica, for
+comparison with published data from a neighboring
+research site, Palo Verde National Park. We also describe
+the techniques used to process two food items consumed by
+Cebus capucinus at Santa Rosa, and discuss the factors
+that may underlie observed variability . We conducted a
+6-month study on two groups of capuchins in 2001, and col-
+lected data on general activity and feeding patterns, rates
+and forms of object use, and distinctive processing techni-
+ques employed for two speciﬁc foods (Sloanea terniﬂora and
+Luehea candida ). Rates of object-use behavior at Santa
+Rosa were considerably higher than those reported for Palo
+Verde and showed signiﬁcant variation between groups
+and age/sex classes, as did patterns of Sloanea and Luehea
+processing. Observed differences in feeding rates between
+groups may reﬂect food availability or relative proﬁtability ,
+whereas variation between age/sex classes seems to reﬂect
+differences in the physical capabilities, foraging strategies,
+and the relative experience of mature and immature ani-
+mals. Further research is needed to identify how a social
+context may inﬂuence the acquisition of food-processing
+techniques in juveniles and the development of foraging
+traditions in social groups. Am J Phys Anthropol 128:63–
+73, 2005.
+' 2005 Wiley-Liss, Inc.
+Members of the genus Cebus are widely recognized
+as skilled extractive foragers (Izawa and Muzino,
+1977; Parker and Gibson, 1977, 1979; Izawa, 1979;
+Terborgh, 1983; Fragaszy , 1986; Janson and Boinski,
+1992; Visalberghi, 1993a,b; Boinski et al., 2000).
+They are adept at accessing embedded foods and
+bypassing plant and animal defenses in the wild
+(Izawa and Muzino, 1977; Struhsaker and Leland,
+1977; Panger, 1998; Chevalier-Skolnikoff, 1990;
+Boinski et al., 2000; Panger et al., 2002). Many pat-
+terns of food processing observed in wild capuchins
+involve forms of object use, or ‘‘the manipulation
+and alteration of a detached object relative to a ﬁxed
+substrate or medium’’ (Parker and Gibson, 1977).
+Panger (1998) grouped forms of capuchin object use
+into three general categories: ‘‘rubbing,’’ ‘‘pound-
+ing,’’ and ‘‘fulcrum use.’’ She also noted the foods
+processed with such techniques and outlined their
+apparent functions. More recently , researchers from
+three long-term C. capucinus ﬁeld sites in north-
+west Costa Rica (Santa Rosa National Park, Palo
+Verde National Park, and the Lomas Barbudal For-
+est Reserve) compiled data on foraging and food pro-
+cessing (Panger et al., 2002). They identiﬁed 20 food
+species and food types that appear to be processed
+in different ways by capuchins at different sites. All
+variation in processing techniques fell into six broad
+categories (‘‘pound,’’ ‘‘rub,’’ ‘‘tap,’’ ‘‘fulcrum use,’’
+‘‘leaf wrap,’’ and ‘‘army ant following’’). Of these
+categories, three (‘‘pound,’’ ‘‘rub,’’ and ‘‘tap’’) were
+observed at all three sites, although the food items
+processed using these techniques varied between
+sites. Patterns of variation in food processing within
+and across populations may reﬂect social traditions
+(Panger et al., 2002; Fragaszy and Perry , 2003).
+However, foraging and food-processing behavior in
+nonhuman primates is greatly inﬂuenced by envir-
+onmental factors, different physical capabilities,
+foraging strategies, and nutrient requirements
+between age classes and sexes, as well as individual
+differences in skill and temperament (Izawa and
+Mizuno, 1977; Collins and McGrew, 1987; McGrew,
+Grant sponsor: Natural Sciences and Engineering Research Council
+of Canada; Grant sponsor: Canada Research Chair Program; Grant
+sponsor: 2000 Sigma Xi Grant-in-Aid of Research.
+*Correspondence to: Dr. Linda Fedigan, Department of Anthropol-
+ogy , University of Calgary , Calgary , Alberta T2N 1N4, Canada.
+E-mail: fedigan@ucalgary .ca
+Received 16 February 2003; accepted 28 July 2004
+DOI 10.1002/ajpa.20186
+Published online 18 March 2005 in Wiley InterScience
+(www.interscience.wiley .com).
+# 2005 WILEY-LISS, INC.
+AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY 128:63–73 (2005)
+
+PDF PAGE 2
+1992; Boesch and Boesch, 1993; Boinski et al., 2000)
+and variation may simply reﬂect these factors.
+There is a clear need for more detailed informa-
+tion about variability and causes of variability in
+food-processing behavior within groups, to aid in
+understanding how social traditions are estab-
+lished in capuchins (Boinski et al., 2000; Panger
+et al., 2002; Perry et al., 2003). In this paper, we
+describe patterns of object use in foraging by
+white-faced capuchins in Santa Rosa National
+Park, and compare these patterns to those
+reported for capuchins at the neighboring site of
+Palo Verde National Park. We also provide details
+of the food-processing techniques employed for two
+speciﬁc food items at Santa Rosa, and quantify dif-
+ferences in the use of these techniques within and
+across social groups.
+METHODS
+Study site and subjects
+We conducted this research at Santa Rosa
+National Park (Area de Conservacion Guanacaste),
+Costa Rica, where several habituated groups of
+Cebus capucinus have been studied since 1983 (e.g.,
+Chapman, 1987, 1988; Chapman and Fedigan, 1990;
+Fedigan, 1990, 1993; Rose, 1994; MacKinnon, 1995).
+The 10,800-acre park is a mosaic of former pasture-
+land, dry deciduous forest, and semi-evergreen for-
+est (Chapman and Fedigan, 1990; Fedigan et al.,
+1996). In addition to white-faced capuchins, the
+park is home to howler monkeys ( Alouatta palliata )
+and spider monkeys ( Ateles geoffroyi), and to several
+potential or known monkey predators (snakes,
+canids, felids, mustelids, and raptors).
+Our study subjects were the Cerco de Piedra (CP)
+group and the Los Valles (L V) group. The CP group
+included 13–14 individuals (2 adult males, 4 adult
+females, 1 subadult male, 1 subadult female, 3 juve-
+nile females, and 2–3 infants), and the LV group
+numbered 15–18 individuals (5 adult males, 4 adult
+females, 2 subadult males, 1 subadult female, 2 juve-
+nile females, and 1–4 infants). These two groups’
+home ranges overlap, and they come into occasional
+contact. While we did not collect precise data on
+d a i l ym o v e m e n tp a t t e r n sa sp a r to ft h i ss t u d y ,t h e
+home ranges of the two groups are approximately
+1k m
+2 each, and have not changed appreciably for at
+least a decade (Fedigan, unpublished data).
+During a preliminary ﬁeld season in 2000, we
+identiﬁed two food species that warranted particu-
+lar attention because they were often processed
+using some form of object use, and because they
+were frequently consumed by members of both
+groups. Sloanea terniﬂora fruits (Fig. 1) are roughly
+1.5 cm long and thickly covered in reddish-purple
+urticating hairs that can be extremely irritating to
+the eyes and skin. Sloanea is a relatively uncom-
+mon tree in Santa Rosa, and is generally conﬁned
+to intermittent streambeds and other wet areas of
+the park (Hartshorn, 1983; Enquist and Sullivan,
+2001). Luehea candida fruits (Fig. 2) are woody
+pods some 5–8 cm long, which dehisce to release
+small winged seeds when they are mature. Luehea
+candida is a relatively common tree in Santa Rosa
+(Haber and Frankie, 1983; Enquist and Sullivan,
+2001).
+Data collection
+We collected 309.5 hr of quantitative data on all
+members of the CP and LV groups (except infants)
+from February–July 2001. We collected data from
+sunrise to sunset in 2-day blocks, alternating
+between the two groups as much as possible. We
+kept observation times as equivalent as possible
+across subjects within each group. Observation
+conditions were generally very good (within 10 m),
+but we sought to maintain a distance of at least
+3 m to focal subjects. We gathered data using bino-
+culars, a stopwatch, and a Psion Workabout hand-
+held computer. During periods of extremely rapid
+activity, we used a dictaphone and later tran-
+scribed our observations. We also collected some ad
+libitum data via dictaphone, particularly in the
+early weeks of the study .
+Our observation conditions did not allow for a
+strict sampling order, but we avoided repeatedly
+sampling central or conspicuous subjects by moving
+through the dispersed group between focal sessions,
+and by sampling both clearly visible and more
+obscured animals. We also sought to collect a focal
+session from all group members each day before
+beginning a second session with any subject. We tal-
+lied total focal times weekly and monthly in order
+to ensure that the total observed time for each indi-
+vidual in a group remained as equal as possible.
+We collected data in 15-min focal animal sessions
+(Altmann, 1974). If the subject was ‘‘out of sight’’ for
+more than 2.5 min of a focal session, we excluded
+that session from focal analysis (though we included
+data from incomplete sessions in tallies of total
+observed object-use bouts, and in tallies of proces-
+sing bouts used for speciﬁc foods; see below). We col-
+lected detailed data on food-processing techniques
+(Table 1). We scored all data as bouts rather than
+events. A single bout of food processing would often
+involve a very rapid sequence of behaviors (i.e.,
+pound, brieﬂy examine/eat, then pound again) with
+a food item without signiﬁcantly changing the
+orientation of the object, the orientation of the
+hands, or the orientation and posture of the subject.
+If the subject performed an intervening behavior
+from our ethogram, began processing the item using
+a different technique or orientation, or changed its
+hand use or position during processing, that would
+mark the start of a new bout.
+Data analyses
+For analytical purposes, we categorized subjects
+into four classes: adult males, adult females, suba-
+dults, and juveniles. We did not separate subadults
+64 R.C. O’MALLEY AND L. FEDIGAN
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+and juveniles by sex due to very small numbers in
+each category and because prior studies of capu-
+chins (e.g., Fragaszy , 1990; Rose, 1994; MacKinnon,
+1995), found no sex differences in foraging prior to
+adulthood.
+We performed all statistical tests using the SPSS
+10.0 analytical program. Alpha for all tests was set
+at P ¼ 0.05. We conducted analyses to identify sig-
+niﬁcant differences between groups and among age/
+sex classes, as well as any interaction between group
+and age/sex class. Our data were not normally dis-
+tributed, and so all comparisons were made with
+two-way Kruskal-Wallis tests, conducted via normal
+two-factor ANOV A on the ranks of individual fre-
+quencies, rather than the frequencies themselves.
+We modeled our analyses of object-use behavior on
+those of Panger (1998) to allow comparison between
+the two studies. To determine the rate of object use
+for each individual, we divided the total number of
+observed object-use bouts from focal data by the
+number of focal data hours collected from that indi-
+vidual. To determine the proportion of observation
+time spent in object-use behavior by each individual,
+we totaled the duration of all object-use behaviors by
+that individual from focal data, and divided this
+duration by that individual’s total focal observation
+time. We drew on all available data (focals, incom-
+plete focals, and ad libitum data) in calculating
+totals of object-use bouts by food item.
+To obtain rates of consumption for each food, we
+totaled the number of feeding bouts on that food
+(regardless of whether any processing was employed)
+from our focal data for each subject, and divided this
+number by the total focal observation hours for that
+individual. To determine the proportion of Sloanea
+feeding bouts that involved processing, we drew on
+focal samples as well as incomplete focals and ad libi-
+tum sampling. For similar comparisons in Luehea,
+we only drew on focal data and incomplete focal data
+because ad libitum observations of Luehea consump-
+tion were recorded only for bouts involving proces-
+sing. To compare proportions of total bouts for each
+processing technique used for Sloanea and Luehea
+across groups and age/sex classes, we totaled the
+number of bouts using each technique from all avail-
+able data (focals, incomplete focals, and ad libitum
+observations). We included only individuals with at
+least six feeding bouts in our statistical analyses of
+processing techniques.
+RESUL TS
+The overall activity patterns of the CP and LV
+groups (as measured by the percentage of focal
+observation time spent in social, rest, travel, vigi-
+lance, and foraging activities) were very similar
+(O’Malley , 2002). The proportion of focal observation
+time that individuals spent foraging did not differ
+between groups (F
+1,17 ¼ 0.311, P ¼ 0.584), but did
+Fig. 2. Luehea candida pods.
+Fig. 1. Sloanea terniﬂora fruits.
+65V ARIABILITY IN CAPUCHIN FOOD PROCESSING
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+differ signiﬁcantly between age/sex classes (F 3,17 ¼
+4.209, P ¼ 0.021), with juveniles spending a greater
+proportion of their time foraging (58.1%) than suba-
+dults (46.9%), adult females (47.9%), or adult males
+(45.2%). The proportion of observation time spent
+foraging by each age/sex class did not differ signiﬁ-
+cantly between groups (F
+3,17 ¼ 0.699, P ¼ 0.565).
+Object use
+We observed all three types of object use identiﬁed
+by Panger (1998) (‘‘rub,’’ ‘‘pound,’’ and ‘‘fulcrum
+use’’) in foraging contexts. We recorded a total of 592
+object-use bouts involving 13 identiﬁed food items
+and 3 unidentiﬁed food items (Table 2): 91.2% of
+object use bouts involved Sloanea terniﬂora (62.8%)
+or Luehea candida (28.4%). The LV group had a sig-
+niﬁcantly higher rate of object use than the CP
+group (F 1,17 ¼ 17.787, P ¼ 0.001), and differences
+in object-use rates across age-sex classes were also
+signiﬁcant (F 3,17 ¼ 5.165, P ¼ 0.010), with juve-
+niles having a much lower rate of object use than all
+other age/sex classes. Object-use rates by each age/
+sex class did not differ between groups (F 3,17 ¼
+1.616, P ¼ 0.223) (Fig. 3).
+Members of the LV group spent a signiﬁcantly
+higher proportion of their total observed focal time
+in object-use activities than did members of the CP
+group (F 1,17 ¼ 12.259, P ¼ 0.003). Differences in
+the proportion of time spent in object-use activities
+across age-sex classes were also signiﬁcant (F
+3,17 ¼
+3.646, P ¼ 0.034), with juveniles spending a much
+lower proportion of their time engaged in object use.
+The percentage of time spent in object-use activities
+by each age-sex class did not differ signiﬁcantly
+between groups (F 3,17 ¼ 1.129, P ¼ 0.365) (Fig. 4).
+Sloanea terniﬂora processing
+Sloanea terniﬂora fruits were a larger component
+of the LV group’s diet (9.9% of observed foraging
+time) than of the CP group’s diet (1.5% of observed
+foraging time). This was largely due to a single Sloa-
+nea terniﬂora tree in the LV group’s range that pro-
+duced an enormous fruit crop in mid-February 2001.
+The group fed in and around this particular tree for
+several hours a day for nearly 2 weeks. Rates of
+Sloanea feeding bouts/hour were signiﬁcantly
+higher in the LV group than in the CP group (F
+1,17
+¼ 11.610, P ¼ 0.003), but we found no signiﬁcant
+differences among age/sex classes (F 3,17 ¼ 1.027, P
+¼ 0.405), and there was no signiﬁcant interaction
+between age/sex class and group (F 3,17 ¼ 0.575, P
+¼ 0.639) (Table 3).
+Though capuchins sometimes attempted to con-
+sume Sloanea fruits without trying to remove the
+hairs ﬁrst, this appeared to be an unpleasant
+experience for them and usually involved spitting,
+sneezing, grimacing, and rubbing their faces on
+tree bark. We observed signiﬁcant differences in
+the proportions of ‘‘no-process’’ feeding bouts
+between juveniles (20.8%, or 5 of 24 bouts), sub-
+adults (2.5%, or 2 of 81 bouts), adult females
+(0.7%, or 1 of 140 bouts), and adult males (4.0%, or
+TABLE 1. Food processing variables examined for Sloanea terniﬂora and Luehea candida
+Food item Technique Variation Deﬁnition
+Sloanea terniﬂora
+No process Fruit is plucked and brought directly to mouth without any
+additional manipulation or modiﬁcation.
+Pound Fruit is repeatedly hammered against a substrate.
+Body/tail rub Fruit is grasped and vigorously moved over body fur and tail.
+Rub Rub/roll Fruit is vigorously moved backward and forward across
+substrate while applying some degree of pressure.
+Rub and brush Like ‘‘rub/roll,’’ but one hand ﬂails or brushes at fruit as it
+moves across the substrate.
+Luehea candida
+No process Pick and eat Seeds are extracted from detached pod with tongue, teeth, or
+ﬁngers without any additional manipulation or modiﬁcation.
+Eat attached Seeds are extracted from pod with tongue, teeth, or ﬁngers
+without additional manipulation and without
+detaching pod from tree.
+Pound (Basic) pound Pod is grasped and repeatedly hammered against substrate.
+Subject occasionally pauses to pick up seeds from substrate
+with its ﬁngers or mouth, or to pick out seeds from tip of pod
+with its ﬁngers, teeth, and tongue.
+Pound and catch Like ‘‘pound,’’ but one hand is either cupped below or against
+substrate to catch seeds as they fall out.
+Skilled pound Like ‘‘basic pound’’ or ‘‘pound and catch’’ but much more rapid
+and controlled, with no pause in hammering. Subject does
+not stop to pick seeds from tip of pod. ‘‘Skilled pound’’ bouts
+in which one hand was cupped below or against substrate
+were counted as ‘‘pound and catch’’ for analyses
+of that pattern.
+Rub/roll Pod is moved backward and forward across substrate while
+applying some degree of pressure
+Hand pound Grasping pod with one hand and forcibly upending it
+into other hand.
+66 R.C. O’MALLEY AND L. FEDIGAN
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+6 of 151 bouts) (F 3,8 ¼ 9.125, P ¼ 0.006). We
+found no signiﬁcant differences in proportions of
+‘‘no-process’’ feeding bouts between groups (F 1,8 ¼
+0.033, P ¼ 0.861); nor did we ﬁnd a signiﬁcant dif-
+ference across age/sex classes between groups (F 3,8
+¼ 0.261, P ¼ 0.852).
+We observed three general processing techniques
+for Sloanea (Table 4): ‘‘rub,’’ ‘‘pound,’’ and ‘‘body/
+tail rub.’’ ‘‘Rub’’ was the most frequently observed
+technique in all age/sex classes (comprising 94.8%
+of observed Sloanea processing bouts). Only two
+adult males (both in the LV group) used the
+‘‘pound’’ technique. The ‘‘tail/body rub’’ technique
+was used rarely in both groups and in all age/sex
+classes, by a total of 6 individuals. Capuchins
+using the ‘‘rub’’ technique would sometimes use a
+two-handed variation in which the fruit was
+rubbed against a substrate with one hand, while
+the other hand brushed or slapped at the fruit.
+This ‘‘rub and brush’’ variation appeared to reﬂect
+an effort to keep the Sloanea hairs from ﬂying up
+into the subject’s face. Among those ‘‘rub’’ bouts
+where we could distinguish hand-use patterns, this
+‘‘rub and brush’’ variation was used more often by
+TABLE 2. Capuchin object use behavior observed by food type/species
+Food type/species % rub bouts % pound bouts % fulcrum bouts Total bouts
+Sloanea terniﬂora 97.3% 2.7% 0.0% 372
+Luehea candida 29.8% 70.2% 0.0% 168
+Zuelania guidonia 4.3% 0.0% 95.7% 23
+Tabebuia ochracea 83.3% 0.0% 16.7% 6
+Acrocomia vinifera 20.0% 80.0% 0.0% 5
+Caterpillar 100.0% 0.0% 0.0% 3
+Spondias radlkofri 66.7% 0.0% 33.3% 3
+Maniklera chicle 100.0% 0.0% 0.0% 2
+Randia spp. 100.0% 0.0% 0.0% 2
+Ximeria americana 0.0% 100.0% 0.0% 2
+Egg case or cocoon 100.0% 0.0% 0.0% 1
+Simaruba olivaceous 100.0% 0.0% 0.0% 1
+Genipa americana 0.0% 0.0% 100.0% 1
+Unknown 66.7% 33.3% 0.0% 3
+Total 73.0% 22.8% 4.2% 592
+Fig. 3. Mean rates of object use bouts. Numbers in parentheses indicate number of individuals in each age/sex class (AM, adult
+male, 8 þ years old; AF , adult female, 8 þ years old; SU, subadult, 4–8 years old; JU, juvenile, 0.5–4 years old). CP group: AM, mean
+1.82, SD 1.52; AF , mean 0.86, SD 0.56; SU, mean 0.71, SD 0.58; JU, mean 0.16, SD 0.12; LV group: AM, mean 2.81, SD 1.11; AF ,
+mean 3.37, SD 1.36; SU, mean 3.25, SD 1.10; JU, mean 0.83, SD 1.17; Total: AM, mean 2.53, SD 1.20; AF , mean 2.11, SD 1.65; SU,
+mean 2.23, SD 1.62; JU, mean 0.43, SD 0.69.
+67V ARIABILITY IN CAPUCHIN FOOD PROCESSING
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+adult males (57.9%, or 73 of 126 bouts) and adult
+females (75.9%, or 101 of 133 bouts) than suba-
+dults (23.0%, or 17 of 74 bouts) or juveniles (11.8%,
+or 2 of 17 bouts). However, there were no signiﬁ-
+cant differences among age/sex classes or between
+groups (and no signiﬁcant interaction between age/
+sex class and group) in either the proportion of
+‘‘rub’’ bouts or in the proportion of ‘‘rub and brush’’
+bouts.
+Luehea candida processing
+The CP group spent 2.15% of its total forag-
+ing time on Luehea candida , compared to 3.54%
+of total foraging time for the LV group. We detected
+no signiﬁcant differences in rates of Luehea feeding
+bouts between groups (F
+1,17 ¼ 0.850, P ¼ 0.369)
+or age/sex classes (F 3,17 ¼ 2.206, P ¼ 0.125); nor
+did we ﬁnd a signiﬁcant interaction between
+group and age/sex class (F
+3,17 ¼ 1.880, P ¼ 0.174)
+(Table 3).
+Luehea candida pods dehisce as they mature.
+Monkeys could access seeds from dehisced or par-
+tially dehisced pods with their teeth, tongue, or ﬁn-
+gers, sometimes without even detaching the pod from
+the tree. We found signiﬁcant differences in the pro-
+portions of ‘‘no-process’’ feeding bouts among juve-
+niles (96.3%, or 78 of 81 bouts), subadults (70.4%,
+or 88 of 125 bouts), adult females (39.8%, or 43 of
+108 bouts), and adult males (4.0%, or 1 of 25 bouts)
+(F
+3,17 ¼ 11.859, P < 0.001). We found no signiﬁcant
+differences in the proportion of ‘‘no-process’’ feeding
+bouts between groups (F
+1,15 ¼ 0.026, P ¼ 0.874), or
+among age/sex classes across groups (F 3,17 ¼ 1.676,
+P ¼ 0.210).
+We observed three general techniques for process-
+ing Luehea candida pods: ‘‘pound,’’ ‘‘rub,’’ and ‘‘hand
+pound’’ (Table 5). Of all observed Luehea processing
+bouts, 62.4% were ‘‘pound’’ bouts. ‘‘Pound’’ bouts
+were observed more often in adult males and
+females than in either subadults or juveniles. In a
+variation of the ‘‘pound’’ technique that we called
+‘‘pound and catch,’’ one hand would be used to grasp
+the pod while the other was held palm-up at an
+TABLE 3. Mean rate of consumption bouts/hour by food type
+Sloanea terniﬂora Luehea candida
+Group
+Mean
+bouts/hour SD Group
+Mean
+bouts/hour SD
+CP 0.41 0.77 CP 1.00 0.79
+LV 2.28 1.33 LV 1.26 1.37
+Age/sex Age/sex
+AM 2.05 1.04 AM 0.32 0.19
+AF 1.64 1.81 AF 0.94 0.75
+SU 1.42 1.61 SU 2.43 1.60
+JU 0.39 0.71 JU 1.34 0.88
+Fig. 4. Mean proportions of foraging time spent in object use activities. CP group: AM, mean 0.72%, SD 0.005; AF , mean 0.33%,
+SD 0.002; SU, mean 0.30%, SD 0.002; JU, mean 0.08%, SD 0.000; LV group: AM, mean 1.06%, SD 0.005; AF , mean 1.24%, SD
+0.004; SU, mean 1.23%, SD 0.007; JU, mean 0.33%, SD 0.005; Total: AM, mean 0.96%, SD 0.005; AF , mean 0.79%, SD 0.006; SU,
+mean 0.87%, SD 0.007; JU, mean 0.18%, SD 0.003.
+68 R.C. O’MALLEY AND L. FEDIGAN
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+angle beside the substrate to catch seeds as they
+came out. Of those ‘‘pound’’ bouts where we could
+distinguish hand-use patterns, 81.3% involved this
+‘‘pound and catch’’ variation. We observed ‘‘pound
+and catch’’ bouts more often among adult males
+(97.3%, or 36 of 37 bouts) than among adult females
+(73.1%, or 38 of 52 bouts) or subadults (77.3%, or 17
+of 22 bouts). Juveniles were never observed to use
+this variation (0 of 1 bout). In a ‘‘skilled pound’’ var-
+iation (which was not mutually exclusive with
+‘‘pound and catch’’), an individual would hammer
+the pod at a qualitatively more rapid pace, ducking
+its head down to pick up seeds while barely pausing
+in its hammering. At no point would the subject
+need to stop and pick out seeds from the tip of the
+pod with its ﬁngers or teeth, as was often the case
+with regular ‘‘pound’’ bouts. These ‘‘skilled pound’’
+bouts composed 26.3% (or 31 of 118) of all observed
+‘‘pound’’ bouts, and were seen only in four adults
+(the alpha and beta male, and the alpha and beta
+female) of the CP group. ‘‘Rub’’ bouts composed
+26.5% of observed Luehea processing bouts. We
+observed ‘‘rub’’ bouts more often in juveniles and
+subadults than in adult females or adult males. This
+pattern did not appear to be very effective at remov-
+ing seeds from seed pods. Bouts of ‘‘hand pound’’
+composed only 11.1% of all observed Luehea proces-
+sing bouts, and involved an individual grasping a
+detached pod in one hand and forcefully upending it
+into the other hand. We observed this pattern in
+both groups and in adult males, adult females, and
+subadults, but not juveniles. This appeared to be an
+effective method of accessing Luehea seeds, though
+not as effective as ‘‘pound.’’ We found no signiﬁcant
+differences across age/sex classes or between groups
+in the proportion of ‘‘pound’’ or ‘‘rub’’ bouts, or in the
+proportion of ‘‘pound and catch’’ processing bouts;
+nor did we ﬁnd any signiﬁcant interactions between
+age/sex class and group.
+DISCUSSION
+We found signiﬁcant differences in the propor-
+tion of time spent foraging among age/sex classes
+but not between groups. Juveniles spent the high-
+est proportion of their time foraging, and other
+age/sex classes spent relatively equivalent propor-
+tions of their time foraging. High rates of foraging
+among younger primates are generally interpreted
+to reﬂect their lower foraging success and higher
+metabolic demands compared to mature animals
+(e.g., Janson and van Schaik, 1993). The close
+similarity between the two groups’ activity budgets
+presumably reﬂects that the two groups are of
+similar size and composition and live in widely
+overlapping ranges, as they have for more than a
+decade (Chapman and Fedigan, 1990).
+Object use
+Panger (1998) reported that the capuchins at the
+neighboring site of Palo Verde engaged in 0.19 object
+use bouts/hour of observation during her 11-month
+study , compared to 1.63 bouts/hour at Santa Rosa
+for this 6-month study . The monkeys of Palo Verde
+spent 0.4% of their time in object-use activities, com-
+pared to 0.63% by the Santa Rosa monkeys. Also in
+contrast to our results, Panger (1998) reported no
+signiﬁcant differences among age/sex classes in
+either rate of, or percentage of time spent in, object-
+use activities.
+The higher rates of object use that we found in
+our study may in part reﬂect that capuchins are
+more likely to target better-defended food items in
+the dry season that might be ignored in times of
+TABLE 5. Percentage of Luehea processing bouts for each general technique
+Group Total No. pound No. rub No. hand pound % pound % rub % hand pound
+CP 103 55 32 16 53.4% 31.1% 15.5%
+LV 86 63 18 5 73.3% 20.9% 5.8%
+Age/sex Total No. pound No. rub No. hand pound % pound % rub % hand pound
+AM 47 37 7 3 78.7% 14.9% 6.4%
+AF 74 56 1 17 75.7% 1.4% 23.0%
+SU 64 24 39 1 37.5% 60.9% 1.6%
+JU 4 1 3 0 25.0% 75.0% 0.0%
+TABLE 4. Percentage of Sloanea processing bouts for each general technique
+Group Total No. pound No. rub No. body/tail rub % pound % rub % body/tail rub
+CP 88 0 85 3 0.0% 96.6% 3.4%
+LV 294 10 277 7 3.4% 94.2% 2.4%
+Age/sex Total No. pound No. rub No. body/tail rub % pound % rub % body/tail rub
+AM 145 10 132 3 6.9% 91.0% 2.1%
+AF 139 0 137 2 0.0% 98.6% 1.4%
+SU 79 0 75 4 0.0% 94.9% 5.1%
+JU 19 0 18 1 0.0% 94.7% 5.3%
+69V ARIABILITY IN CAPUCHIN FOOD PROCESSING
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+greater food abundance. In a full-year study , object-
+use patterns by the Santa Rosa monkeys might
+have more closely resembled those reported for Palo
+Verde. The overall higher incidence of object-use
+activities at Santa Rosa were driven largely by
+Sloanea processing in the LV group, and to a lesser
+extent by Luehea processing in both study groups.
+As previously noted, one Sloanea tree in the
+LV group’s range produced a particularly abundant
+crop. Boinski et al. (2000) and others (Izawa and
+Mizuno, 1977; Parker and Gibson, 1977) noted that
+rates and patterns of complex food processing are
+highly dependent on local conditions, including the
+availability of foods that can or must be processed,
+the relative proﬁtability of such foods relative to
+what else is available, and the availability of skilled
+models. Interestingly , Chavalier-Skolnikoff (1990)
+observed 20 bouts of tool use in her 5-month study
+at Santa Rosa, though Panger (1998) did not
+observe any in 11 months at Palo Verde. Local con-
+ditions may favor a greater degree of tool and object
+use in foraging by capuchins at Santa Rosa relative
+to other Costa Rican research sites, though this
+hypothesis remains untested. The striking differ-
+ences in frequencies of tool and object use reported
+for these two research sites highlight the difﬁculty
+in making broad generalizations about capuchin
+manipulative tendencies in the wild, even between
+groups living in ecologically and geographically
+similar habitats.
+Neither Sloanea processing nor consumption
+was observed at Palo Verde during the 11 months
+of study by Panger (1998), though Sloanea trees
+are abundant (Panger, personal communication).
+Individual Sloanea trees in Santa Rosa show great
+variability from year to year in crop size, produ-
+cing no crop in some years, and particularly abun-
+dant crops in others (Janzen, personal communica-
+tion). Given that Sloanea is consumed by capu-
+chins at the nearby Lomas Barbudal site (Panger
+et al., 2002), and that capuchins are known to con-
+sume other species of Sloanea in South America
+(Terborgh, 1983), it is possible that Sloanea is part
+of the diet of Palo Verde monkeys but that no trees
+produced abundant crops during the time of the
+study by Panger (1998). Future research at Palo
+Verde is needed to resolve this issue.
+Sloanea terniﬂora processing
+Chapman and Fedigan (1990) found that the
+group that occupied what is now the LV group’s
+range spent more than twice as much of their total
+observed feeding time on Sloanea terniﬂora
+(14.7%) than the CP group did (6.9%). These diet-
+ary differences were still apparent in our study , as
+we found signiﬁcant differences in Sloanea con-
+sumption rates across groups, with the LV group’s
+overall rate more than ﬁve times greater than that
+of the CP group. These ﬁndings may reﬂect differ-
+ences in food availability between the two home
+ranges. In Santa Rosa, Sloanea trees are sufﬁ-
+ciently rare and clustered that they often fail to
+show up in random quadrat surveys of our groups’
+home ranges (e.g., Chapman and Fedigan, 1990;
+Sorensen, 1998; Aureli, personal communication).
+Chapman and Fedigan (1990) estimated the den-
+sity of Sloanea trees in the range of the CP group
+as 0.6/ha (or 53.9 cm diameter at breast height
+(DBH)/ha), and in the LV group as 0.0/ha (or 0.0
+cm DBH/ha), respectively . However, the major
+source of variation in Sloanea availability is not
+the number of trees but the idiosyncratic and sto-
+chastic nature of the fruit crop. As previously
+noted, one large Sloanea terniﬂora tree in the LV
+group’s range produced an enormous crop in mid-
+February 2001, and the group spent several hours
+feeding in and around the tree nearly every day
+for more than 2 weeks. There are also other Sloa-
+nea trees within the LV group range that produced
+standard-sized crops in 2001. In contrast, only one
+of the Sloanea trees within the CP group range
+was observed to produce a fruit crop in 2001,
+though other such trees were present.
+Although we did not document signiﬁcant differ-
+ences in consumption rates of Sloanea between age/
+sex classes, juveniles consumed Sloanea only rarely
+compared to adults (of either sex) or subadults.
+While adults, subadults, and juveniles all had difﬁ-
+culties processing Sloanea, juveniles appeared to
+ﬁnd the task particularly challenging, and would
+frequently break off their processing behavior to
+rub their face, sneeze, or discard the fruit they were
+working with. It may be that juveniles are unable
+to manipulate the fruits as easily as more mature
+animals, particularly in the ‘‘rub and brush’’ hand-
+use pattern. This interpretation is consistent with
+past observations of food processing by capuchins in
+both the wild (Izawa and Muzino, 1977; Boinski
+et al., 2000) and in captivity (Anderson, 1990),
+where younger individuals often appear to lack the
+strength, manual coordination, or understanding of
+a task’s requirements to tackle it effectively .
+The rare consumption of Sloanea by juveniles
+may also reﬂect a form of risk-aversion. There can
+be negative consequences if these fruits are handled
+carelessly , including irritated skin and impaired
+vision if the hairs get into the eyes (O’Malley , perso-
+nal observation). Such problems, though temporary ,
+could have a negative impact on an individual’s
+foraging success and ability to evade predators or
+other threats. Janson and van Schaik (1993) charac-
+terized the juvenile period in primates as one of eco-
+logical risk, and discussed their greater vulnerabil-
+ity (relative to adults) to both starvation during per-
+iods of food scarcity and to predation due to their
+lower physical strength and inexperience in choos-
+ing and processing appropriate foods. These authors
+argued that a ‘‘risk averse’’ strategy of slow develop-
+ment is intended to minimize mortality risk. This
+adaptation is predicted to have a strong inﬂuence
+on juvenile dietary choice, foraging behavior, and
+70 R.C. O’MALLEY AND L. FEDIGAN
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+patterns of association within groups. Our observa-
+tions of Sloanea processing support a risk-aversive
+strategy in juvenile capuchin foraging behavior.
+Despite its apparent value as a food resource, and
+despite being capable (with some difﬁculty) of pro-
+cessing Sloanea using the same technique favored
+by adults, the potential costs of Sloanea fruit pro-
+cessing may deter juveniles from feeding on it as
+frequently as other age/sex classes. A large Ficus
+tree that was less than 20 m from the particularly
+abundant Sloanea tree in the LV group’s range
+came into fruit at roughly the same time. When the
+adults were feeding on Sloanea, juveniles were
+often in this tree consuming ﬁgs.
+We found little variability in Sloanea processing
+techniques across groups or age/sex classes. This
+lack of variability suggests that rubbing Sloanea
+fruits on a substrate is the only viable way to process
+this food for safe consumption. The ‘‘pound’’ tech-
+nique did not appear to be very effective, and the
+‘‘body/tail rub’’ technique may bear its own costs in
+terms of discomfort or irritation from the hairs. Rub-
+bing and pounding objects were commonly observed
+in both captivity and the wild (Izawa and Muzino,
+1977; Struhsaker and Leland, 1977; Boinski et al.,
+2000), and may reﬂect a default response when indi-
+viduals are having difﬁculties (Panger, 1998; Panger
+et al., 2002). Adults of both sexes used the ‘‘rub and
+brush’’ variant more frequently than either sub-
+adults or juveniles. Since adults processed Sloanea
+at higher rates than nonadults, such differences
+may simply reﬂect physical ability , experience, and
+greater opportunity on the part of older animals.
+However, immature capuchins would presumably
+need to learn that Sloanea is edible by watching con-
+speciﬁcs, and it seems likely that observing others
+processing these fruits might serve to channel their
+own efforts. The potential role of the social context
+in the development of Sloanea processing techni-
+ques is explored more thoroughly in a companion
+paper (O’Malley and Fedigan, 2005).
+Luehea candida processing
+Chapman and Fedigan (1990) found that Luehea
+trees were far more common in the range of what is
+now the LV group (5.6/ha, or 255.6 cm DBH/ha)
+than in the range of the CP group (0.6/ha, or
+34.6 cm DBH/ha). The group that occupied the LV
+group’s range at that time spent more than twice as
+much of their total feeding time on Luehea candida
+(5.8%) than did the CP group (2.3%). In the present
+study , we found that rates of Luehea consumption
+did not differ signiﬁcantly between the two groups
+or between age/sex classes. Chapman and Fedigan
+(1990) concluded that the dietary choices of capu-
+chin groups may be determined as much by food
+proﬁtability (how nutritious foods are and how long
+it takes to consume them compared to other items
+simultaneously available) as by food abundance.
+Relative food proﬁtability seems likely to play a role
+in the rate of consumption of Luehea seeds, a diet-
+ary item that can require considerable time and
+effort to extract and that is only seasonably avail-
+able. However, in their study , Chapman and Fedi-
+gan (1990) did not rule out the possibility that group
+differences in diet reﬂect local traditions in food
+choice. The degree of stability in the proportion of
+foraging time spent feeding on Luehea by the CP
+group over a 15-year period (2.3% in 1986 vs. 2.15%
+in 2001), despite changes in forest maturity and
+structure (and presumably food availability and
+proﬁtability) due to ongoing forest regeneration
+(Fedigan et al., 1996), suggests that group dietary
+preferences may be traditional.
+Adult males had the lowest rate of Luehea feed-
+ing bouts, and subadults the highest, though differ-
+ences among age/sex classes were not signiﬁcant.
+Adult males almost always used some form of pro-
+cessing when feeding on Luehea, while juveniles
+almost never processed Luehea, and adult females
+and subadults fell out in between. One explanation
+for this pattern relates to the physical limitations of
+different age/sex classes. Luehea pods are attached
+to their stems quite ﬁrmly , and both subadults and
+adult females sometimes appeared to have difﬁculty
+removing them. Juveniles may lack the strength to
+pull them off with any regularity , or to manipulate
+the pods effectively. Adult male capuchins are both
+larger and stronger than adult females (Fedigan,
+1990), who in turn are larger and stronger than
+immature animals. At the same time, smaller ani-
+mals may have an advantage over larger animals in
+retrieving Luehea seeds without any processing due
+to their smaller ﬁngers. Attempting to consume
+seeds without processing the pods may be a more
+energetically efﬁcient strategy for these age/sex
+classes, whereas adult males can break the stems
+with ease. Differences in physical strength might
+also explain why females engaged in ‘‘hand pound’’
+more than adult males.
+Another factor that could relate to the higher rate
+of ‘‘pound’’ in adult males relative to other age/sex
+classes would be avoidance of predation risk, parti-
+cularly on the part of adult females, as hypothe-
+sized by Boinski et al. (2000) in their discussion of
+capuchin food processing in Suriname. Repeatedly
+pounding a woody pod on a substrate produces con-
+siderable noise, and could signal the presence of a
+capuchin to potential predators. Boinski et al.
+(2000) reported that at their site, both researchers
+and local hunters were easily able to locate capu-
+chin groups by listening for the sound of pounding
+activities. Because of the need to visually monitor
+the food being processed (thus reducing vigilance),
+Luehea ‘‘pounding’’ may involve greater predation
+risk than simply consuming seeds without pro-
+cessing, or using the ‘‘hand pound’’ technique, and
+so adult females favor the latter techniques, though
+they are capable of the former.
+The relatively high percentage of ‘‘rub’’ bouts in
+Luehea processing among subadults and juveniles
+71V ARIABILITY IN CAPUCHIN FOOD PROCESSING
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 10
+may reﬂect that younger individuals lack hands
+large and strong enough to effectively manipulate
+the pods for pounding. They may also fail to com-
+prehend the requirements for successful seed
+extraction (e.g., appropriate use of a substrate, pod
+maturity , and pod orientation). We often observed
+juveniles and subadults trying to remove seeds
+from immature (not yet dehisced) pods without
+success, whereas adults were never observed to
+process immature pods, and would usually brieﬂy
+inspect a pod before trying to break it off its stem.
+Individuals (primarily adult males and females)
+used the ‘‘pound and catch’’ variation frequently
+while pounding Luehea. The ‘‘skilled pound’’ varia-
+tion observed in the CP group was only subtly differ-
+ent from other variations of ‘‘pound,’’ but appeared
+to be considerably more efﬁcient. The only four indi-
+viduals in the CP group observed to use ‘‘skilled
+pound’’ were also the only members of that group to
+use the ‘‘pound and catch’’ variation. As with Sloa-
+nea, the relative frequency of the ‘‘pound and catch’’
+variation across age/sex classes corresponded to a
+higher use of the ‘‘pound’’ technique, and so may
+simply reﬂect greater opportunity and experience on
+the part of older animals. That the ‘‘skilled pound’’
+and ‘‘pound and catch’’ variations were seen only in
+the highest-ranking individuals in the CP group
+suggests that the social context may be important in
+explaining the expression of these patterns. This
+issue is addressed more thoroughly in a companion
+paper (O’Malley and Fedigan, 2005).
+In conclusion, we found signiﬁcant differences in
+rates and time spent in object-use activities between
+groups and age/sex classes at Santa Rosa. Capuchins
+engaged in object-use activities more frequently at
+Santa Rosa than at the nearby site of Palo Verde, and
+such activities were overwhelmingly directed toward
+only two food species. These differences may reﬂect
+differences in food availability , but may also reﬂect
+relative food proﬁtability or local traditions in for-
+aging. Differences inLuehea candidaand Sloanea ter-
+niﬂora processing among age/sex classes may reﬂect
+variation in physical abilities, experience, or foraging
+strategies, but a social component to the development
+of processing techniques is also likely . We concur with
+other researchers (e.g., Boinski et al., 2000; Panger
+et al., 2002) that further research on variability in
+food processing for speciﬁc foods should be underta-
+ken within groups and populations, ideally in conjunc-
+tion with more rigorous documentation of ecological
+variation as well as the social context of complex food
+processing. Such research will become particularly
+valuable, given the growing interest in Cebus as a
+model for understanding the development of non-
+human social traditions (Fragaszy and Perry , 2003).
+ACKNOWLEDGMENTS
+We are grateful to the National Park Service of
+Costa Rica and the staff of Santa Rosa National
+Park for allowing us to conduct this research pro-
+ject. In particular, we thank Roger Blanco Segura
+for his able assistance and advice. We also thank
+K. Jack and S. Carnegie for their help in the ﬁeld,
+as well as J. Addicott and C. Cassidy-St. Clair for
+statistical assistance.
+LITERATURE CITED
+Altmann J. 1974. Observational study of behavior: sampling
+methods. Behaviour 49:227–267.
+Anderson JR. 1990. Use of objects as hammers to open nuts by
+capuchin monkeys ( Cebus apella ). Folia Primatol (Basel)
+54:138–145.
+Boesch C, Boesch H. 1993. Diversity of tool use and tool making
+in wild chimpanzees. In: Berthelet A, Chavaillon J, editors.
+The use of tools by human and nonhuman primates. Oxford:
+Clarendon Press. p 158–168.
+Boinski S, Quatrone R, Swarts H. 2000. Substrate and tool use
+by brown capuchins in Suriname: ecological contexts and cog-
+nitive bases. Am Anthropol 102:741–761.
+Chapman CA. 1987. Flexibility in diets of three species of Costa
+Rican primates. Folia Primatol (Basel) 49:90–105.
+Chapman CA. 1988. Patterns of foraging and range use by three
+species of neotropical primates. Primates 29:90–105.
+Chapman CA, Fedigan LM. 1990. Dietary differences between
+neighboring Cebus capucinus groups: local traditions, food avail-
+ability or responses to food proﬁtability? Folia Primatol (Basel)
+54:177–186.
+Chevalier-Skolnikoff S. 1990. Tool use by wild Cebus monkeys at
+Santa Rosa National Park, Costa Rica. Primates 31:375–383.
+Collins DA, McGrew WC. 1987. Termite fauna related to differ-
+ences in tool-use between groups of chimpanzees ( Pan troglo-
+dytes). Primates 28:457–471.
+Enquist BJ, Sullivan JJ. 2001. V egetative key and descriptions of
+tree species of the tropical dry forests of upland Sector Santa
+Rosa, Area de Conservacion Guanacaste, Costa Rica. Unpub-
+lished manuscript (http://www .nceas.ucsb.edu/ /C24 enquist/Key .
+html).
+Fedigan LM. 1990. Vertebrate predation in Cebus capucinus :
+meat eating in a neotropical monkey . Folia Primatol (Basel)
+54:196–206.
+Fedigan LM. 1993. Sex differences and inter-sexual relations in
+adult white-faced capuchins, Cebus capucinus . Int J Primatol
+14:853–877.
+Fedigan LM, Rose LM, Avila RM. 1996. See how they grow: track-
+ing capuchin monkey ( Cebus capucinus) populations in a regen-
+erating Costa Rican dry forest. In: Norconk M, Rosenberger AL,
+Garber PA, editors. Adaptive radiations of neotropical primates.
+New Y ork: Plenum Press. p 289–307.
+Fragaszy DM. 1986. Time budgets and foraging behavior in
+wedge-capped capuchins ( Cebus olivaceus ): age and sex differ-
+ences. In: Taub DM, King FA, editors. Current perspectives in
+primate social dynamics. New Y ork: Van Nostrand Reinhold Co.
+p 159–174.
+Fragaszy DM. 1990. Sex and age differences in the organization
+of behavior in wedge-capped capuchins, Cebus olivaceus. Behav
+Ecol 1:81–94.
+Fragaszy DM, Perry S. 2003. Towards a biology of traditions.
+In: Fragaszy DM, Perry S, editors. The biology of traditions:
+models and evidence. Cambridge: Cambridge University Press.
+p 1–32.
+Haber WA, Frankie GW . 1983. Luehea candida (Guacimo
+Molenillo, Molenillo). In: Janzen DH, editor. Costa Rican nat-
+ural history . Chicago: University of Chicago Press. p 269–270.
+Hartshorn GS. 1983. Plants. In: Janzen DH, editor. Costa Rican
+natural history . Chicago: University of Chicago Press. p 118–157.
+Izawa K. 1979. Foods and feeding behavior of wild black-capped
+capuchin ( Cebus apella ). Primates 20:57–76.
+Izawa K, Muzino A. 1977. Palm-fruit cracking behavior of wild
+black-capped capuchin (Cebus apella). Primates 18:773–792.
+Janson CH, Boinski S. 1992. Morphological and behavioral
+adaptations for foraging in generalist primates: the case of
+the Cebines. Am J Phys Anthropol 88:483–498.
+72 R.C. O’MALLEY AND L. FEDIGAN
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 11
+Janson CH, van Schaik CP . 1993. Ecological risk aversion in juve-
+nile primates: slow and steady wins the race. In: Pereira ME,
+Fairbanks LA, editors. Juvenile primates. New Y ork: Oxford
+University Press. p 57–73.
+MacKinnon KC. 1995. Age differences in foraging patterns and
+spatial associations of the white-faced capuchin monkey
+(Cebus capucinus ) in Costa Rica [thesis]. Edmonton: Univer-
+sity of Alberta.
+McGrew WC. 1992. Chimpanzee material culture: implications
+for human evolution. Cambridge: Cambridge University Press.
+O’Malley RC. 2002. Variability in foraging and food processing
+techniques among white-faced capuchins ( Cebus capucinus )i n
+Santa Rosa National Park, Costa Rica [thesis]. Edmonton:
+University of Alberta.
+O’Malley RC, Fedigan LM. 2005. Social inﬂuences on food proces-
+sing techniques in white-faced capuchins ( Cebus capucinus ).
+Am J Phys Anthropol .
+Panger MA. 1998. Object-use in free-ranging white-faced capu-
+chins ( Cebus capucinus ) in Costa Rica. Am J Phys Anthropol
+106:311–321.
+Panger MA, Perry S, Rose L, Gros-Louis J, Vogel E, MacKinnon K,
+Baker M. 2002. Cross-site differences in foraging behavior of
+white-faced capuchins (Cebus capucinus). Am J Phys Anthropol
+119:52–66.
+Parker S, Gibson K. 1977. Object manipulation, tool use and
+sensorimotor intelligence as feeding adaptations in Cebus
+monkeys and great apes. J Hum Evol 6:623–641.
+Parker S, Gibson K. 1979. A developmental model for the evolu-
+tion of language and intelligence in early hominids. Behav
+Brain Sci 2:367–408.
+Perry S, Panger M, Rose L, Baker M, Gros-Lous J, Jack K,
+MacKinnon K, Manson J, Fedigan L, Pyle K. 2003. Traditions in
+wild white-faced capuchin monkeys. In: Fragaszy D, Perry S,
+editors. The biology of traditions: models and evidence. Cam-
+bridge: Cambridge University Press. p 391–425.
+Rose LM. 1994. Sex differences in diet and foraging behavior in
+white-faced capuchins ( Cebus capucinus ). Int J Primatol 15:
+95–114.
+Sorensen T. 1998. Tropical dry forest regeneration and its inﬂu-
+ence on three species of Costa Rican monkeys [thesis].
+Edmonton: University of Alberta.
+Struhsaker TT, Leland L. 1977. Palm-nut smashing by Cebus
+a. apella in Colombia. Biotropica 9:124–126.
+Terborgh J. 1983. Five New World primates: a study in com-
+parative ecology . Princeton: Princeton University Press.
+Visalberghi E. 1993a. Capuchin monkeys: a window into tool use
+in apes and humans. In: Gibson KR, Ingold T, editors. Tools,
+language, and cognition in human evolution. Cambridge: Cam-
+bridge University Press. p 138–150.
+Visalberghi E. 1993b. Tool use in a South American monkey
+species: an overview of the characteristics and limits of tool
+use in Cebus apella . In: Berthelet A, Chavaillon J, editors.
+The use of tools by human and non-human primates. Oxford:
+Clarendon Press. p 118–131.
+73V ARIABILITY IN CAPUCHIN FOOD PROCESSING
+ 10968644, 2005, 1, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20186 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

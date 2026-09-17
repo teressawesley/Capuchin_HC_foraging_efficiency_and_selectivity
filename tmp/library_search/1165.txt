@@ -1,0 +1,1793 @@
+PDF PAGE 1
+Behaviour 152 (2015) 425–460 brill.com/beh
+Why do wild bonobos not use tools like
+chimpanzees do?
+T. Furuichia,∗,∗∗, C. Sanz b,c,∗∗, K. Koops d,∗∗, T. Sakamakia, H. Ryu a,
+N. Tokuyamaa and D. Morgan c,e
+a Primate Research Institute, Kyoto University, Inuyama, Aichi 484-5806, Japan
+b Department of Anthropology, Washington University, 1 Brookings Drive,
+Saint Louis, MO 63130, USA
+c Congo Program, Wildlife Conservation Society, B.P. 14537,
+Brazzaville, Republic of Congo
+d Department of Archaeology and Anthropology, University of Cambridge,
+Fitzwilliam Street, Cambridge CB2 1QH, UK
+e Lester E. Fisher Center for the Study and Conservation of Apes, Lincoln Park Zoo,
+North Clark Street, Chicago, IL 60614, USA
+*Corresponding author’s e-mail address: furuichi@pri.kyoto-u.ac.jp
+**Co-ﬁrst authors
+Accepted 17 June 2014; published online 1 September 2014
+Abstract
+One of the most conspicuous behavioural differences among great apes is the paucity of tool use
+among wild bonobos ( Pan paniscus) in comparison to chimpanzees ( Pan troglodytes)w h oa r e
+one of the most proliﬁc and skilled tool users in the animal kingdom. This is in spite of the fact
+that bonobo tool use repertories are as large and diverse as chimpanzees’ in captive settings. In
+this study, we compared tool using behaviours and potential drivers of these behaviours in the
+Wamba bonobo population located in central Democratic Republic of Congo with the Goualougo
+chimpanzee population of northern Republic of Congo. The tool use repertoire of wild bonobos
+was comprised of only 13 behaviours, compared to 42 for chimpanzees. However, the number
+of tool behaviours observed in each study site was similar between bonobos and chimpanzees,
+and many types of tool use for social, self-grooming/stimulation, and comfort/protection functions
+were commonly used by both species. A marked difference is that 25 of 42 tool behaviours
+exhibited by chimpanzees are performed for feeding, in contrast to a single report of bonobos
+using a leaf sponge to drink water. We examined whether the differences in tool use repertoires
+can be explained by the necessity, opportunity, relative proﬁtability, or invention hypotheses. We
+found that habitat composition and ﬂuctuation of fruit production at these two sites were similar,
+particularly when compared with variation observed between sites within each species. Thus it was
+unlikely that the necessity hypothesis explains the lack of tool use for feeding in bonobos. Though
+© Koninklijke Brill NV , Leiden, 2015 DOI 10.1163/1568539X-00003226
+
+PDF PAGE 2
+426 Tool use among Pan species
+further study at Wamba is needed, we did not identify any obvious differences in prey availability
+that would indicate differences in tool using opportunities between the sites. This study could not
+test the relative proﬁtability hypothesis, and further research is needed on whether tool use is the
+most efﬁcient means of calorie or protein intake for wild apes. Bonobos at Wamba formed much
+larger and stable parties than chimpanzees at Goualougo, which was contrary to the prediction
+by the invention hypothesis. Another explanation is that differences in tool use behaviour between
+bonobos and chimpanzees might not be explained by the current ecological or social conditions, but
+rather by circumstances during the Pleistocene Epoch. The observed species differences might also
+reﬂect divergent behavioural predispositions, rather than actual differences in cognitive abilities.
+Keywords
+bonobo, chimpanzee, Pan paniscus, Pan troglodytes, tool use, environmental condition.
+1. Introduction
+Comparisons of bonobo ( Pan paniscus) and chimpanzee ( Pan troglodytes)
+lifestyles have revealed several intriguing differences between these closely
+related apes (Kano, 1992; Fruth et al., 1999). These allopatric species re-
+side in the equatorial forests of Africa, separated by the Congo River. They
+both live in multi-male multi-female groups with male philopatry and a
+ﬁssion-fusion social structure (Kano, 1982a). One of the most conspicuous
+behavioural differences between these apes is the rarity of tool use among
+wild bonobos in comparison to chimpanzees who are one of the most pro-
+liﬁc and skilled tool users in the animal kingdom (McGrew, 1992; Sanz &
+Morgan, 2007; Shumaker et al., 2011). An increased knowledge of the ecol-
+ogy and sociality of wild bonobos and the central subspecies of chimpanzee
+(P . t. troglodytes) now makes it possible to examine the speciﬁc environ-
+mental and social factors which may elicit tool use among chimpanzees
+and bonobos. Such a comparison is particularly informative because chim-
+panzees inhabiting the Congo Basin exist within habitat types that are more
+similar to bonobos than other chimpanzee subspecies residing at the edges
+of the species range. In this study, we compare tool use behaviours and po-
+tential drivers of these behaviours in the Wamba bonobo population located
+in central Democratic Republic of Congo with the Goualougo chimpanzee
+population of northern Republic of Congo.
+Despite years of ﬁeld research at multiple study sites, there are few reports
+of tool use by bonobos in natural settings (Kano, 1982b; Ingmanson, 1996;
+Hohmann & Fruth, 2003a). As we will show in this paper, the species reper-
+toire is comprised of 13 tool use behaviours, compared to more than forty for
+
+PDF PAGE 3
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 427
+chimpanzees (Sanz & Morgan, 2007). In striking contrast to chimpanzees,
+there are no reports of bonobos using tools in a feeding context except using
+a leaf sponge to drink water. This is despite the fact that bonobos are capable
+of using tools to obtain food, as shown by reports from captive populations
+(Jordan, 1982; Gold, 2002; Gruber et al., 2010; Shumaker et al., 2011; Boose
+et al., 2013).
+Ecological and social factors are typically examined in isolation, but it is
+likely that a combination of these factors shape the emergence and mainte-
+nance of tool use in natural settings. Recent studies addressing the drivers
+of tool use cite some iteration of the Necessity and Opportunity Hypotheses,
+which state that tool use is a behavioural response to the absolute abundance
+of ecological resources or opportunities in the environment (Spagnoletti et
+al., 2012; Koops et al., 2013; Sanz et al., 2013b). More speciﬁcally, the
+Necessity Hypothesis posits that tool use is a response to resource scarcity
+which drives its practitioners to exploit novel food items during times of low
+resource availability (Fox et al., 1999). The Opportunity Hypothesis pro-
+poses that repeated exposure to appropriate conditions, such as encounters
+with target items and availability of tool materials, prompts the emergence
+and/or maintenance of tool use behaviours (Fox et al., 1999). Shifting the
+emphasis away from absolute abundance, the Relative Proﬁtability Hypoth-
+esis suggests that tool-assisted feeding strategies targeted at embedded food
+items would be expected when it is more proﬁtable than conventional meth-
+ods of gathering more accessible foods (Rutz et al., 2010; Rutz & St Clair,
+2012). Representing the social forces in the evolution of tool use, the Inven-
+tion Hypothesis states that “behaviours such as tool use are rarely invented,
+and that the spread and maintenance of such behaviours requires sufﬁcient
+opportunities for observational learning via social proximity to conspeciﬁcs”
+(Fox et al., 2004: p. 163). Recent research in both wild and captive settings
+has led to increasing recognition of the role of social transmission in main-
+taining technological traditions (Lonsdorf, 2006; Whiten et al., 2007).
+The aim of this study is to review differences in bonobo and chimpanzee
+tool use repertoires and assess to what extent these differences can be at-
+tributed to necessity, opportunity, relative proﬁtability, or invention (Table 1).
+We address these hypotheses using behavioural observations and ecological
+data from bonobos at Wamba in Democratic Republic of Congo and chim-
+panzees of the Goualougo Triangle in Republic of Congo. (1) The absence
+
+PDF PAGE 4
+428 Tool use among Pan species
+Table 1.
+Hypotheses to explain the difference in tool use for foraging.
+Hypothesis Prediction Data to be examined Results
+(1) Necessity
+hypothesis
+Preferred foods are
+more abundant at
+Wamba
+Total basal area of
+trees per unit area
+Not supported (basal
+area was similar
+between two sites)
+Bonobos at Wamba
+experience a lesser
+degree of seasonal
+resource scarcity
+Pattern and degree of
+ﬂuctuation of fruit
+availability
+Feeding behaviour
+during the season of
+fruit scarcity
+Not fully supported
+(lesser degree of
+ﬂuctuation of fruit
+availability, but the
+difference was small;
+feeding behaviour
+during fruit scarcity
+was similar).
+(2) Opportunity
+hypothesis
+Tool use
+opportunities are
+absent or far less
+abundant at Wamba
+Availability and
+abundance of foods
+potentially eaten with
+tools
+Not fully supported
+(similar foods
+potentially eaten with
+tools existed in both
+sites, but species level
+identiﬁcation or
+quantitative data for
+comparison were not
+available).
+(3) Relative
+proﬁtability
+hypothesis
+Energetic gains of
+tool-assisted
+strategies exceed that
+of conventional
+foraging in
+Goualougo
+Per-unit-time
+energetic gain of
+tool-assisted and
+conventional feeding
+behaviours
+Not examined in this
+study.
+(4) Invention
+hypothesis
+Parties of
+chimpanzees in
+Goualougo are larger
+than those of bonobos
+at Wamba
+Mean party size Not supported (party
+size in Goualougo
+was smaller than that
+at Wamba).
+of tool use for feeding by bonobos would be explained by the Necessity Hy-
+pothesis if their preferred foods are more abundant and if they experience
+a lesser degree of seasonal resource scarcity than chimpanzees. (2) To ex-
+plain the absence of feeding tool use by bonobos, one might also postulate
+
+PDF PAGE 5
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 429
+that tool use opportunities are absent or far less abundant in bonobo habitats
+than chimpanzee habitats, which would support the Opportunity Hypothesis.
+(3) The Relative Proﬁtability Hypothesis predicts that the energetic gains of
+tool-assisted strategies exceed that of conventional feeding. (4) With regard
+to the Invention Hypothesis, one could predict that chimpanzee parties are
+larger and thus provide more opportunities for social transmission of techno-
+logical information among independent individuals. In this manuscript, we
+also summarize and propose additional possible explanations and evolution-
+ary scenarios for the differences in tool use between Pan species.
+2. Methods
+2.1. Wamba, Democratic Republic of the Congo
+The Wamba study area is located in the northern section of the Luo Scientiﬁc
+Reserve (22°34
+′E, 0°01′N), Democratic Republic of the Congo. This area is
+included in the Congo-equatorial climatic zone. The main habitat type is pri-
+mary forest, including some areas of old secondary forest. This habitat type
+occurs on terra ﬁrma and is characterized by species of the Caesalpiniaceae
+family, with some narrow bands of monodominant Gilbertiodendron dew-
+evrei forest occurring along the boundaries of swamp forests. The second
+main habitat type is swamp forest that exists along the Luo River and its trib-
+utaries. Most of the swamp forest is inundated all year, but a part of it near
+the terra ﬁrma is seasonally inundated. This habitat type is characterized by
+a complex mosaic of species, mainly representing the Caesalpiniaceae and
+Euphorbiaceae families. The northern section of the Luo Scientiﬁc Reserve
+contains homesteads, and so this area also includes agricultural complexes
+and young secondary forest (Idani et al., 1994; Hashimoto et al., 1998).
+To monitor fruit abundance, we used ﬁve line transects and reconnaissance
+paths, the total length of which was 22.550 km (Mulavwa et al., 2008). Each
+trail was surveyed twice a month. We recorded the number of clusters of
+fallen fruit that were found within 1 m on each side of the trail, the number
+of fruits in each cluster, species of fruit, and whether they were ripe or
+unripe. The validity of this approach was established by Furuichi et al. (2001)
+who showed that the abundance of chimpanzee fruit foods at Kalinzu in
+Uganda was sufﬁciently evaluated by the number of clusters of ripe fallen
+fruits. Furthermore, Mulavwa et al. (2008) compared the numbers of ripe-
+fruit clusters of all species and the food species of bonobos at Wamba, and
+
+PDF PAGE 6
+430 Tool use among Pan species
+found that these numbers ﬂuctuated proportionately. Therefore, in this study,
+we evaluated abundance of fruit foods based on the number of clusters of
+ripe fallen fruits of all species per km of transect.
+A main study group of bonobos, group E, was habituated to the presence
+of researchers and has been observed since 1976. The group has subse-
+quently split into two groups, E1 and E2. Another group, P, was also ha-
+bituated and has been observed since the 1980’s. Observations were made
+using artiﬁcial provisioning during some part of each year until 1996, but
+currently groups E1 and P are being observed from nest to nest under the
+natural conditions (Kano, 1992; Furuichi et al., 2012). In November 2012,
+group E1 consisted of 31 individuals, including 7 adult males and 9 adult
+females, and an eastern subgroup of P that is also continuously monitored by
+researchers consisted of 26 individuals, including 5 adult males and 7 adult
+females.
+Tool use behaviours have been documented through direct observation
+throughout the study period (Kano, 1982b; Ingmanson, 1996). In this study,
+we report previously unpublished observations of tool use behaviours by
+bonobos at Wamba that were made before the end of 2012.
+We employed the deﬁnition of the 1-h party size proposed by Hashimoto
+et al. (2001) for evaluating party sizes of chimpanzees. While following
+a party, we recorded the names of all bonobos in sight at the beginning
+of each hour and continued recording those bonobos that appeared in the
+party throughout the rest of the hour. Thus, the 1-h party represents the
+minimum number of bonobos that were present in the party during each
+1-h observation. We also recorded the observation time in minutes in each
+1-h segment. We obtained the daily 1-h party size by averaging all those
+observations recorded in a day, excluding those with less than 30 min of
+observation.
+2.2. Goualougo Triangle, Republic of Congo
+The Goualougo Triangle study area is located along the southern boundary of
+the Nouabalé-Ndoki National Park (16°51
+′–16°56′E, 2°05′–3°03′E), Repub-
+lic of Congo. The climate in northern Republic of Congo can be described as
+transitional between the Congo-equatorial and sub-equatorial climatic zones.
+The lowland tropical forests of northern Congo are part of the regional cen-
+tre of endemism Guinea–Congolian that ranges from Nigeria to the Congo
+Basin (White, 1986). The different habitat types in the Goualougo Triangle
+
+PDF PAGE 7
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 431
+have been assessed by ground surveys and satellite imagery classiﬁcation
+(Devos et al., 2008). The main habitat types are mixed-species forest (semi-
+evergreen forest with high heterogeneity of species composition and occurs
+on terra ﬁrma), monodominant G. dewevrei forest (single-species formation
+of G. dewevrei which occurs along watercourses as well as on interﬂuvial
+plateaus), and gallery/swamp forest (consists of diverse ﬂora associated with
+watercourses, that may be permanently or seasonally inundated).
+Relative abundance of preferred chimpanzee foods was systematically
+assessed through establishment of two trail networks to monitor the phe-
+nological states of tree species and strangler ﬁgs known to be consumed by
+apes (Chapman et al., 1994). A total of 607 trees representing 47 species
+were monitored each month in the Goualougo Triangle. The ground under
+each monitored tree was systematically surveyed to determine the abundance
+of mature fruit fall. Relative abundance of fruit was estimated on a scale of
+0 to 4, with higher scores indicating more fruit. In this study, we evaluated
+abundance of fruit foods based on the proportion of monitored trees with
+mature fruit fall.
+Direct observations of the chimpanzees in the Goualougo Triangle have
+been ongoing since February, 1999. Individual chimpanzees were identiﬁed
+from their distinct physical characteristics and these data compiled in a popu-
+lation history database. The main study group is the Moto community which
+consisted of 71 individuals, including 17 adult males and 24 adult females
+(Morgan, 2007).
+Tool use behaviours have been documented through direct observation
+during reconnaissance surveys of chimpanzees since the initiation of re-
+search at this site. In 2003, we also began remote video monitoring of tool
+use sites. For all observations of tool use, observers record the identiﬁca-
+tion of the chimpanzee, type of object used, target of object, actions, context
+and/or goal of the tool use behaviour, and the outcome.
+20-min group scans of party composition and behaviour were recorded
+during chimpanzee encounters. Chimpanzee parties were considered to be all
+individuals travelling, feeding, resting or socializing within 50 m of one an-
+other (deﬁnition adopted from (Wrangham et al., 1992; Wilson et al., 2001)).
+For this study, we included information from the ﬁrst scan conducted each
+hour so as to provide a direct comparison with the 1-h sampling of bonobo
+party size at Wamba. Daily values of party size were based on average sizes
+of all recorded 20-min group scans per day, excluding those with only or-
+phans present.
+
+PDF PAGE 8
+432 Tool use among Pan species
+3. Results
+3.1. Habitat types and climate
+Bonobos and chimpanzees inhabit a wide range of habitats across equatorial
+Africa (Table 2). The habitat types of bonobos range from savannah with
+patches of forest with 1666–1778 mm annual rainfall at Lukuru to rain forest
+with 2733 mm rainfall at Wamba. On the other hand, the habitat types of
+chimpanzees range from grassland and woodland with 954 mm rainfall at
+Assirik to rain forest with 3244 mm rainfall at Seringbara, including semi-
+evergreen forest with 1690 mm rainfall in the Goualougo Triangle. Thus,
+the habitat conditions of bonobos and chimpanzees largely overlap with an
+exception of the driest extreme in chimpanzees.
+Habitat classiﬁcation of satellite imagery showed that the Wamba forest is
+comprised mainly of primary and old secondary forest dominated by repre-
+sentatives of the Caesalpiniaceae family (65.5%), with swamp forest (18.9%)
+and young secondary forest (15.6%) representing a smaller proportion of
+the bonobo range (Hashimoto et al., 1998; Terada et al., unpublished data).
+Mixed species semi-evergreen forest (71.5%) was found to be the dominant
+habitat in the Goualougo Triangle, with monodominant Gilbertiodendron
+dewevrei (Caesalpiniaceae) evergreen (21.7%) and swamp forest (6.1%) also
+represented (Devos et al., 2008).
+3.2. Ape density, home range and habitat use
+Ape densities were nearly identical between the two study sites. At Wamba,
+bonobo densities were reported to be 1.4–2.5 individuals/km2 (excluding in-
+fants) based on home range estimates (Hashimoto et al., 1998). Chimpanzee
+density in the Goualougo Triangle was estimated to be 1.5 chimpanzees/km2
+(excluding infants) from line transect surveys and 2.2 chimpanzees based on
+home range estimates (Morgan et al., 2006). The home ranges of bonobo
+communities at Wamba were estimated to be 12.3–17.8 km
+2 for the E1
+study group and 22.5–31.5 km 2 for the E2 study group (Hashimoto et al.,
+1998). The Moto chimpanzee community range was estimated to be 17.3 to
+19.2 km2 (Morgan et al., 2006). The home ranges of both species were het-
+erogeneous in habitat composition, but with some evidence of preference for
+dry forest habitats by both bonobos and chimpanzees. Both direct observa-
+tions of habituated groups and nest surveys indicated that use of swamps
+by bonobos may exceed visitation to inundated habitats by chimpanzees
+(Hashimoto et al., 1998; Morgan et al., 2006; Mulavwa et al., 2010).
+
+PDF PAGE 9
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 433
+Table 2.
+Environmental conditions of study sites.
+Species Site Country Habitat type Altitude
+(m)
+Annual mean
+rainfall (mm)
+Days
+of
+rain
+No. of dry
+months
+(<100 mm/
+month)
+Temperature (°C) Source
+Mean
+max.
+Mean
+min.
+Pan paniscus Lac
+Tumba-
+Lac Mai
+Ndombe
+hinter-
+land
+DRC Mixed mature
+swampy, mixed
+mature seasonally
+inundated, mixed
+mature terra ﬁrma,
+old-secondary,
+and young
+secondary forest,
+circular patch of a
+forest–savanna
+mosaic
+300–700 Around 1770 in
+the northern
+part/1500–1600
+in the southern
+part
+Minor dry
+seasons in
+February
+and July
+Inogwabini
+et al. (2008);
+Serckx et al.
+(2014)
+Lui
+Kotale
+DRC Primary evergreen
+lowland tropical
+rain forest
+above 2000 Short dry
+season in
+Feb, longer
+one
+between
+May–Aug
+28 21 Beaune et al.
+(2012, 2013);
+Hohmann &
+Fruth
+(2003b)
+Lomako DRC Primary climax,
+evergreen,
+polyspectiﬁc
+rain-forest, with
+smaller areas of
+secondary growth,
+slope forest and
+swamp forest
+390 1960 No con-
+spicuous
+dry season
+27.3 21.2 White
+(1992);
+Myers
+Thompson
+(2002)
+
+PDF PAGE 10
+434 Tool use among Pan species
+Table 2.
+(Continued.)
+Species Site Country Habitat type Altitude
+(m)
+Annual mean
+rainfall (mm)
+Days
+of
+rain
+No. of dry
+months
+(<100 mm/
+month)
+Temperature (°C) Source
+Mean
+max.
+Mean
+min.
+Wamba DRC Predominant
+primary and old
+secondary, with
+young
+secondary,
+agricultural
+ﬁelds, and
+swamp
+around
+390
+2733 ± 283 (in
+2004–2006,
+2008,
+2010–2012)
+1t o2
+months
+mostly
+around
+December
+and
+January
+Monthly
+mean
+31 ± 1.1
+Monthly
+mean
+21.1 ±
+0.4
+Furuichi et
+al.,
+unpublished
+data for
+2004–2012
+Lukuru DRC Dry forest and
+grassland
+564 long-term data
+(1941–1963) at
+proximate sites:
+1666 (Ilebo),
+1778 (Lodja)
+35.5 19.5 Myers
+Thompson
+(2002)
+Pan troglodytes
+verus
+Assirik Senegal Grassland and
+woodland with
+small amounts
+of riverine forest
+and bamboo
+thicket
+100–311 954 (824–1224)
+(in 1976–1979)
+8 4 7 3 52 3M c G r e w e t
+al. (1981);
+Hunt &
+McGrew
+(2002)
+
+PDF PAGE 11
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 435
+Table 2.
+(Continued.)
+Species Site Country Habitat type Altitude
+(m)
+Annual mean
+rainfall (mm)
+Days
+of
+rain
+No. of dry
+months
+(<100 mm/
+month)
+Temperature (°C) Source
+Mean
+max.
+Mean
+min.
+Sering-
+bara
+Guinea Primary tropical
+forest, montane
+forest, riverine
+forest,
+high-altitude
+grasslands
+600–
+1752
+3244 (in 2008) 4 24.5 18.7 Koops
+(2011);
+Koops et al.
+(2012, 2013)
+Bossou Guinea Mosaic of
+primary,
+secondary,
+riverine, and
+scrub forest, as
+well as farmland
+550
+(village)
+2230 (in 1995) 4 26.1
+(1.5 m
+high in
+the
+forest)
+21.0
+(1.5 m
+high in
+the
+forest)
+Yamakoshi,
+1998;
+Takemoto,
+2004
+Taï Côte
+d’Ivoire
+Evergreen
+lowland rain
+forest (with only
+the swamp
+forest along the
+rivulet less
+densely
+forested)
+1829 3 in
+Figure 1.3
+(Boesch &
+Boesch,
+2000)
+30 24 Boesch &
+Boesch
+(2000); Hunt
+&M c G r e w
+(2002)
+Pan troglodytes
+troglodytes
+Lopé Gabon Tropical rain
+forest
+1531 Hunt &
+McGrew
+(2002)
+
+PDF PAGE 12
+436 Tool use among Pan species
+Table 2.
+(Continued.)
+Species Site Country Habitat type Altitude
+(m)
+Annual mean
+rainfall (mm)
+Days
+of
+rain
+No. of dry
+months
+(<100 mm/
+month)
+Temperature (°C) Source
+Mean
+max.
+Mean
+min.
+Noua-
+bale-
+Ndoki
+Congo Swamp forest,
+Gilbertioden-
+dron forest, and
+mixed species
+forest
+1430 December–
+February
+Nishihara
+(1995)
+Goua-
+lougo
+Trian-
+gle
+Congo Predominant
+mixed species
+semi-evergreen
+forest, with
+monodiminant
+Gilbertionden-
+dron dewevrei
+evergreen and
+swamp forest
+1690 ± 27
+(in 2007–2011)
+2–4
+months
+around
+December
+and
+January
+23.7 ±
+0.8
+21.5 ±
+0.6
+Morgan et al.
+(2006); Sanz
+&M o r g a n
+(2013b)
+Pan troglodytes
+schweinfurthii
+Kahuzi-
+Biega
+DRC Bamboo forest
+(37%), primary
+montane forest
+(28%),
+secondary
+montane forest
+(20%), swamp
+(7%)
+2050–
+2350
+1800 Yamagiwa et
+al. (1996);
+Hunt &
+McGrew
+(2002)
+
+PDF PAGE 13
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 437
+Table 2.
+(Continued.)
+Species Site Country Habitat type Altitude
+(m)
+Annual mean
+rainfall (mm)
+Days
+of
+rain
+No. of dry
+months
+(<100 mm/
+month)
+Temperature (°C) Source
+Mean
+max.
+Mean
+min.
+Kalinzu Uganda Medium altitude
+moist evergreen
+forest
+1000–
+1500
+1584 (years:
+1997–1998)
+6 months
+(Jan–Mar,
+Jun–Aug)
+25–28 14–17 Howerd
+(1991);
+Hashimoto
+et al. (1999)
+Kibale Uganda Moist
+semi-deciduous
+forest with
+grassland,
+woodland and
+swamp forest
+1110–
+1590/
+1470–
+1750
+(Kanya-
+wara)
+1475 (in
+1970–1991),
+1749 (in
+1990–2001)
+(Kanyawara);
+1393 ± 200 (in
+1998–2009)
+(Ngogo)
+23 16 Hunt &
+McGrew
+(2002);
+Watts (2012)
+Budongo Uganda Moist,
+semi-deciduous
+tropical rain
+forest and
+grassland
+1100
+(aver-
+age)
+1600 (range
+1240–2187, in
+1993–2000)
+between
+mid-
+December
+and mid-
+February
+(50 mm or
+less per
+month); 4
+months
+with
+<100 mm
+32 19 Wallis
+(2002);
+Reynolds
+(2005)
+
+PDF PAGE 14
+438 Tool use among Pan species
+Table 2.
+(Continued.)
+Species Site Country Habitat type Altitude
+(m)
+Annual mean
+rainfall (mm)
+Days
+of
+rain
+No. of dry
+months
+(<100 mm/
+month)
+Temperature (°C) Source
+Mean
+max.
+Mean
+min.
+Semliki Uganda Dry Combretum
+ghasalense
+savanna and
+Borassus
+aethiopum palm
+savannah with
+gallery forest
+1206 151 5 34 20 Hunt &
+McGrew
+(2002);
+Samson &
+Hunt (2012)
+Gombe Tanzania Alternating
+thick riverine
+forests,
+deciduous
+woodland, and
+hilltop grassland
+1775 152 6 (dry
+season
+from May
+to October)
+28 19 Hunt &
+McGrew
+(2002);
+Wallis
+(2002)
+Mahale Tanzania Semi-deciduous
+savannah
+woodland with
+montane forest
+and continuous
+gallery forest
+780–
+1300
+1836 143 5 29 18 Nishida
+(1990);
+Takasaki et
+al. (1990)
+
+PDF PAGE 15
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 439
+Table 2.
+(Continued.)
+Species Site Country Habitat type Altitude
+(m)
+Annual mean
+rainfall (mm)
+Days
+of
+rain
+No. of dry
+months
+(<100 mm/
+month)
+Temperature (°C) Source
+Mean
+max.
+Mean
+min.
+Kasakati Tanzania Woodland
+(59%), savannah
+(16%), grassland
+(16%), forest
+(10%)
+750 962 (in
+1941–1970
+(Kigoma)
+6 months
+of
+<60 mm
+(1941–
+1970)
+28
+(1941–
+1970 at
+Kigoma)
+19
+(1941–
+1970 at
+Kigoma)
+McGrew et
+al. (1981);
+Moore
+(1992)
+Ugalla Tanzania Woodland
+(91%), swamp
+(5%), bamboo
+(3%)
+900–
+1800
+1012.3 ± 139.1
+(in 1973–1988)
+(Uvinza); 955
+(Issa)
+5.2 ± 0.8
+months
+with
+<60 mm
+(1973–
+1988);
+May–Oct
+with
+<100 mm
+Average
+daily
+max: 34
+(Aug)–
+28
+(Nov)
+Average
+daily
+max:
+17.2
+(Jan)–
+14.4
+(Aug)
+McGrew et
+al. (1981);
+Moore
+(1992);
+Hernandez-
+Aguilar
+(2009)
+
+PDF PAGE 16
+440 Tool use among Pan species
+3.3. Tool use repertoire
+The bonobo tool use repertoire was comprised of 13 different types of tools
+(Table 3), with 10 types of tool use exhibited by the Wamba population.
+Table 3.
+Compilation of tool using behaviours observed in wild bonobos.
+Context Behaviour Code Description Sex of
+performer
+Observed sites
+Wamba Lomako
+Social Play start 2 ∗ Taking a branch, small leafy
+twig or fruit in hand or
+mouth and chasing of others
+in a play context.
+Possession of object
+sometimes changes (sharing
+the same object)
+M, F ++
+Drag
+branch
+3
+∗ Dragging a branch toward
+one or more target
+individual(s) in threat.
+Targets sometimes ignore
+this agonistic approach.
+M, F ++
+Dragging a branch before
+departure or during ranging
+without targeting
+conspeciﬁcs. Usually
+performed by males to
+propose direction of
+ranging.
+Drop
+twigs
+– Clipping twigs or small
+branches and dropping them
+from tree to get attention
+from opposite sex (may be
+to solicit copulation)
+M, F
+∗∗ +−
+Aimed-
+throw
+49 Throwing sticks and
+branches at human
+observers and at other
+bonobos. Bonobos at
+Wamba just drop twigs or
+branches to human
+observers.
+M, F ++
+Leaf-clip
+mouth
+53 Clipping leaves from herbs
+or trees by mouth to get
+attention from play partner.
+M, F −+
+
+PDF PAGE 17
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 441
+Table 3.
+(Continued.)
+Context Behaviour Code Description Sex of
+performer
+Observed sites
+Wamba Lomako
+Leaf-clip
+ﬁngers
+54 Clipping leaves from herbs
+or trees by ﬁnger to solicit
+mates.
+F −+
+Comfort,
+protection
+Leaf-
+umbrella
+or
+rain-hat
+– Detaching small branches
+or twigs and put them on
+their head under heavy rain
+M, F +−
+Leaf
+cover
+– Detaching small branch or
+twig and using it as a cover
+over their nest. Common
+during the rainy season,
+possibly for
+thermoregulation. At
+Wamba one adult male bent
+a small branch to cover his
+body on his day nest
+M, F ++
+Fly-whisk 47 Swatting or whisking away
+sweat bees by waving and
+shaking small, leafy twigs
+F ++
+Self-groom,
+stimulate
+Leaf-
+napkin
+50 Using leaves to wipe faeces
+or urine from one’s own
+body
+M, F +−
+Toothpick – After feeding, using a small
+twig to remove debris from
+between teeth
+M +−
+Stick
+scratch
+– Scratching one’s own back
+with small twig
+M, F +−
+Feeding Leaf-
+sponge
+4
+∗ Dipping water from a tree
+hole using moss. Seemed to
+be equivalent of leaf sponge
+behavior by chimpanzees
+F −+
+Contexts refer to those in Sanz & Morgan (2007). Names and code numbers of behaviours
+refer to those in Whiten et al. (1999), except for what are not observed in chimpanzees
+(marked –). Source of information for Wamba: Kano (1982b, 1997); Ingmanson (1996); this
+study; for Lomako: Hohmann & Fruth (2003a).
+∗Universal chimpanzee tool use behaviours (Whiten et al., 1999).
+∗∗Performance of this behaviour by females was ﬁrst reported by this study.
+
+PDF PAGE 18
+442 Tool use among Pan species
+Table 4.
+Types of tool behaviours observed in chimpanzees and bonobos.
+Number
+of all
+types
+Number of
+types at
+each site
+Context
+Social Comfort, Self-groom, Feeding Other
+protection stimulate
+Chimpanzee 42 6 (Assirik)– 5 4 5 25 3
+22 (Goualougo)
+Bonobo 13 8 (Lomako)– 6 3 3 1 0
+10 (Wamba)
+Data for chimpanzees from Sanz & Morgan (2007).
+Chimpanzees in the Goualougo Triangle exhibited 22 different types of tool
+use, which is approximately half of the species repertoire (Sanz & Morgan,
+2007). The number of tool behaviours found at chimpanzee study sites varied
+from 22 in Goualougo to 6 in Assirik. Hence, the numbers of tool behaviours
+at bonobos study sites (10 in Wamba and 8 in Lomako) are within the range
+of variation in chimpanzees (Table 4) (Sanz & Morgan, 2007). Chimpanzee
+tool use was most common in feeding contexts, but was also exhibited in self
+grooming/stimulation, comfort/protection, and social situations. Bonobo tool
+use mainly had social (self-grooming/stimulation and comfort/protection)
+functions, except for one behaviour for feeding (leaf sponge to drink water).
+Among 13 tool behaviours, 8 were common in chimpanzees and 5 were
+uniquely found in bonobos. Out of 4 chimpanzee universal tool behaviours,
+3 were observed in bonobos (play start, drag branch, leaf-sponge) but 1 was
+not observed (investigatory probe).
+A marked difference in tool behaviours between chimpanzees and bono-
+bos is the very limited tool use for feeding in bonobos (Table 4). In chim-
+panzees, 25 of 42 tool behaviours were performed for feeding (Sanz &
+Morgan, 2007). By contrast, tool use for feeding was observed only once
+in Lomako, in the use of a leaf-sponge (Hohmann & Fruth, 2003a). There-
+fore, what we really need to examine is why wild bonobos do not use tools
+for feeding.
+3.4. Abundance of preferred resources
+Similar to other bonobo and chimpanzee populations, the diet of apes at
+Wamba and Goualougo was primarily comprised of ripe fruits (Kano &
+Mulavwa, 1984; Morgan & Sanz, 2006). As an indication of the overall
+
+PDF PAGE 19
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 443
+abundance of food resources, we compared the total basal area of all trees
+with DBH greater than 5 cm in Wamba and of all trees with DBH greater
+than 10 cm in Goualougo. The basal area for Wamba is 33.27 m2 per hectare
+for primary forest (including old secondary forest), 28.50 for swamp forest,
+21.90 for young secondary forest (calculated from DBH2 in Idani et al.,
+1994) and that for Goualougo is 34.04 m
+2 per hectare (Morgan & Sanz,
+2006). Due to the difference in sampling (inclusion of a larger sample of
+trees than Goualougo), the per-hectare total basal area of trees at Wamba
+must be somewhat overestimated as compared to Goualougo. Therefore, we
+can conservatively conclude that the total basal area in Wamba is not greater
+than at Goualougo.
+Though we do not have comparable data for absolute abundance of ripe
+fruit, we compared the pattern of seasonal ﬂuctuation in abundance using
+parameters that represent proportion of trees with ripe fruit (Figure 1a). The
+monthly proportion of trees with ripe fruit on the ground showed similarly
+stochastic ﬂuctuations between the sites, though the degree of ﬂuctuation
+was greater in Goualougo (Wamba: 5.5 ± 2.0 clusters per km of transect,
+CV = 0.35, N = 61; Goualougo: 5.6 ± 3.2% of monitored trees, CV =
+0.56, N = 67). When fruits were scarce, bonobos at Wamba increased their
+intake of seeds, leaves, and terrestrial herbs (Kano & Mulavwa, 1984), and
+chimpanzees in the Goualougo Triangle similarly compensated by increasing
+their intake of leaves (Morgan & Sanz, 2006; Sanz & Morgan, 2013b).
+Overall, although the degree of ﬂuctuation in availability of ripe fruit
+was greater in Goualougo, similar per-hectare tree basal areas and similar
+tendencies of food shift during fruit scarcity, together with similar density of
+bonobos and chimpanzees mentioned in the previous section, suggests that
+the differences in the food conditions between Wamba and Goualougo were
+much smaller than differences among sites of each species (Table 2).
+3.5. Ecological opportunities for feeding with tools
+In the Goualougo Triangle, tools are used to harvest several species of ter-
+mites (Macrotermes muelleri and M. lilljeborgi), army ants (Dorylus mayri,
+D. rubellus, D. sjoestedti and D. wilverthi), and the honey of stingless bees
+(Trigona spp.). Although we have not yet assessed the availability and dis-
+tribution of these different insect species at Wamba, we conﬁrmed that these
+insects (or their products) are present. Seemingly, there are ample ecologi-
+cal opportunities (i.e., termites, army ants, bees and suitable raw materials)
+
+PDF PAGE 20
+444 Tool use among Pan species
+Figure 1. Comparison of ecological variables at Wamba and Goualougo. (a) Seasonal ﬂuctuation in availability of ripe fruit resources at Wamba
+and Goualougo. Values for Wamba show the number of clusters of ripe fallen fruit per km of transect. Values for Goualougo show proportion
+of food trees with ripe fruit on the ground. (b) Monthly mean of daily party sizes for the E1 group of bonobos at Wamba and chimpanzees at
+Goualougo. Party size included adults, adolescents, and juveniles, but excluded infants.
+
+PDF PAGE 21
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 445
+at Wamba for termite ﬁshing, ant dipping, ant ﬁshing, and honey gathering
+tool use, which is similar to research ﬁndings at Lui Kotale (McGrew et al.,
+2007). We also conﬁrmed the presence of oil palms ( Elaeis guineensis)a t
+Wamba which are the target of pestle pounding and nut cracking by chim-
+panzees at Bossou and other sites (Humle & Matsuzawa, 2004).
+3.6. Opportunities for social transmission of technical information
+As shown in Figure 1b, bonobos at Wamba consistently gathered in larger
+parties than chimpanzees in Goualougo (monthly mean party size at Wamba:
+9.4 ± 2.2 animals, CV = 0.23, N = 50; Goualougo: 3.5 ± 1.3 animals,
+CV = 0.36, N = 97). There was a signiﬁcant difference in party size if we
+compared those in the periods for which data was available for both sites
+(matched-pair t-test, t =− 15.1, df = 38, p< 0.0001). This difference in
+party size was further corroborated by mean nest group size of 9.3 ± 4.9
+(N = 215, range 1, 24) bonobo nests in Wamba (Mulavwa et al., 2010)
+versus 2.75 ± 1.88 (N = 375, range: 1, 12) chimpanzee nests in Goualougo
+(Morgan et al., 2006).
+3.7. Correlations among examined factors
+We examined potential relationships among factors that may inﬂuence tool
+use behaviours: fruit abundance and party size in each site. For Wamba, there
+was no signiﬁcant correlation between these factors ( r = 0.31, n.s.). On the
+other hand for Goualougo, signiﬁcant correlation was found between these
+factors (r = 0.40, n = 48, p< 0.01).
+4. Discussion
+The aim of this study was to review differences in chimpanzee and bonobo
+tool use and examine whether these differences could be attributed to current
+hypotheses outlining various ecological and social factors suggested to be re-
+sponsible for the emergence and maintenance of tool traditions (Table 1). Our
+comparison of tool behaviours between bonobos and chimpanzees revealed
+that the main difference between the two species exists in their repertoires of
+tool use for feeding, which is large and diverse in chimpanzees and nearly
+absent in bonobos. On the other hand, our comparisons of ecological and
+social conditions between Wamba and Goualougo, and comparisons of habi-
+tat conditions across various Pan study sites, suggested that it is difﬁcult to
+explain the differences in tool use repertoires between the two species based
+
+PDF PAGE 22
+446 Tool use among Pan species
+on current ecological or social conditions. Our review of current evidence
+for Pan tool use led us to conclude that understanding the differences in the
+expression of tool use between chimpanzees and bonobos will require alter-
+native ecological, behavioural, or social explanations.
+In the reported difference in tool use between wild bonobos and chim-
+panzees, we may have overemphasized the contrast or false dichotomy be-
+tween the twoPanspecies (Stanford, 1998; Fruth et al., 1999). The size of the
+Wamba tool repertoire was smaller than that of chimpanzees in Goualougo,
+but still within the range of the number of tools used by each chimpanzee
+(Sanz & Morgan, 2007). Although we did not quantify the frequency of
+tool use in this comparison, our impression is that tool use was less fre-
+quently exhibited by bonobos than chimpanzees. This species difference is
+largely due to the fact that wild bonobos do not use tools in feeding, ex-
+cept for an observation of tool use for drinking water by bonobos in Lomako
+(Hohmann & Fruth, 2003a). In Goualougo and in other chimpanzee pop-
+ulations, tool-assisted feeding occurs on a regular basis and can occupy a
+signiﬁcant portion of the daily activity budget (Pandolﬁ et al., 2003; Bogart
+& Pruetz, 2011). Another difference is the absence of investigatory probing
+in bonobos which is a universal behaviour among chimpanzee populations
+(Whiten et al., 2001). Many of the behavioural elements involved in inves-
+tigatory probing can be generalized to tool-assisted feeding situations that
+involve probes or dipping implements, such as termite ﬁshing, ant dipping,
+or ﬂuid dipping (Sanz & Morgan, 2010). It has been well-documented that
+bonobos have the physical and cognitive abilities to exhibit such tool be-
+haviours (Gruber et al., 2010; Boose et al., 2013), and so there may exist
+other factors which elicit these tool use behaviours in wild chimpanzees, but
+not in bonobos.
+For the Necessity Hypothesis to explain the difference in bonobo and
+chimpanzee tool use, we would expect to ﬁnd that bonobos have a more
+stable food resource base than chimpanzees. This would effectively alleviate
+the need for tool-assisted fallback strategies. In support of this, chimpanzee
+tool use was negatively correlated with abundance of ripe fruit at Bossou
+in Guinea (Yamakoshi, 1998). In environments with few typically preferred
+foods, tool use may also be a strategy to harvest staple food items. This may
+be the case for some types of chimpanzee tool use at savannah sites, such
+as the termite gathering of chimpanzees at Fongoli in Senegal (Bogart &
+
+PDF PAGE 23
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 447
+Pruetz, 2011) and possibly the tuber harvesting by chimpanzees at Ugalla in
+Tanzania (Hernandez-Aguilar et al., 2007).
+However, a recent review of studies that have explored the ecological
+dimension of the presence or absence of technology clearly shows that ne-
+cessity may play a less prominent role in prompting and promoting tool use
+than previously suggested (Sanz & Morgan, 2013b). The Necessity Hypoth-
+esis was explicitly tested and a lack of support was cited for nut cracking
+tool use by capuchins at Boa Vista in Brazil (Spagnoletti et al., 2012), tool
+use to extract insects from tree holes and extract seeds from Neesia fruit by
+orangutans across Borneo and Sumatra (Fox et al., 2004), and various forms
+of chimpanzee tool use at Seringbara in Guinea (Koops et al., 2013). The
+Goualougo chimpanzee population also does not seem to compensate for the
+lack of fruit resources by increasing their frequency of tool use for social
+insects or honey (Sanz & Morgan, 2013b). Rather, opportunities to gather
+termites, ants, and honey were available throughout the year to this chim-
+panzee population and enhanced by the use of tool sets (Sanz et al., 2004,
+2010; Sanz & Morgan, 2009). Proﬁles of tool use at the savannah sites of As-
+sirik in Senegal and Ugalla in Tanzania did not ﬁt the traditional predictions
+of the Necessity Hypothesis in that tool use did not increase during periods
+of food scarcity (Hernandez-Aguilar et al., 2007; Bogart & Pruetz, 2011),
+but rather may be a necessary response to the lower overall abundance of
+preferred resources in arid habitats.
+Our comparison between Wamba and Goualougo revealed that availabil-
+ity of ripe fruit, the main food of bonobos and chimpanzees, showed similar
+patterns of seasonal ﬂuctuation, and therefore did not support the Neces-
+sity Hypothesis to explain the Pan difference in tool repertoires for feeding.
+The extent of ﬂuctuation was somewhat greater in Goualougo, suggesting
+that Goualougo chimpanzees might experience more severe periods of fruit
+scarcity. However, Sanz & Morgan (2013b) reported that frequency of tool
+use for feeding by chimpanzees in Goualougo was not related to the pro-
+portion of fruiting trees, suggesting that this degree of difference in seasonal
+ﬂuctuation may not sufﬁciently explain the marked difference in tool use for
+feeding between bonobos at Wamba and chimpanzees at Goualougo. During
+times of fruit scarcity, both apes increased their consumption of terrestrial
+herbaceous vegetation and leaves which ﬁt the proﬁle of traditional fallback
+foods (Marshall & Wrangham, 2007). Recent research also showed that there
+is no substantial difference in the kind and use of fallback food between
+
+PDF PAGE 24
+448 Tool use among Pan species
+chimpanzees and bonobos (Harrison & Marshall, 2011). Furthermore, un-
+published data by KK and DM showed that the density of terrestrial herbs
+was not higher in Wamba than in Goualougo (Wamba: 230 plots of 2 ×
+2m ,1 . 5 1± 2.10 stems of Marantaceae and Zingiberaceae/m
+2; Goualougo:
+7 plots of 5 × 50 m, 2.08 ± 0.74 stems of herbs/m 2). Hence, it is unlikely
+that the availability of fallback foods during fruit scarcity explains the lack
+of tool use for feeding in bonobos.
+According to the Opportunity Hypothesis, tool use is related to the fre-
+quency of encounters with particular tool targets (termites, ants, honey, etc.)
+or tool materials that may vary seasonally or between sites. For example,
+a higher abundance of arboreal insects provided increased opportunities for
+orangutans to invent tool use at Suaq Balimbing compared to other sites (Fox
+et al., 2004). Termite gathering by chimpanzees at Gombe is also thought to
+be opportunistic, as it occurs during the rainy season when termites are more
+accessible (McGrew et al., 1979; McGrew & Collins, 1985). In contrast, ter-
+mite ﬁshing has been documented throughout the year at several sites within
+central Africa (Sabater Pi, 1974, 1979; McGrew et al., 1979; Suzuki et al.,
+1995; Deblauwe, 2009). Termite mounds (Macrotermes) are rare and periph-
+eral to the chimpanzee range at Seringbara in Guinea and no evidence of tool
+use in termite predation has been detected within this population (Koops et
+al., 2013). However, chimpanzees at Seringbara use tools to harvest army
+ants, which are both abundant and widespread across the area (Koops et al.,
+2013).
+Our study revealed that habitat type, vegetation, and seasonal variation in
+climate at Wamba and Goualougo are fairly similar, and we did not identify
+any obvious differences between the sites that would preclude the possibil-
+ity for bonobo tool use for feeding. At the bonobo study site Lui Kotal,
+assessment of opportunities for insectivory revealed that the same tool use
+opportunities were present and in some cases exceeded abundances reported
+from chimpanzee sites (McGrew et al., 2007). A detailed study assessing
+the availability of army ants, termites, nut producing trees and potential tool
+materials at Wamba is currently underway. Furthermore, the range of habitat
+types of chimpanzees and bonobos overlap almost completely from savannah
+to rain forest. Due to such large within-species variation and between-species
+overlap, it is difﬁcult for the Opportunity Hypothesis to explain presence of
+tool use for feeding in all studied chimpanzee populations and almost com-
+plete absence of it in wild bonobos.
+
+PDF PAGE 25
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 449
+The Relative Proﬁtability Hypothesis suggests that tools will be used to
+harvest embedded food items when the energetic beneﬁts outweigh the gains
+from conventional feeding of more easily accessible food items (Rutz et al.,
+2010; Rutz & St Clair, 2012). There are several indications that the en-
+ergetic beneﬁts of tool use exceed those of conventional feeding in birds
+(Tebbich et al., 2002; Rutz et al., 2010). Nut cracking by chimpanzees has
+also been shown to be an energetically proﬁtable behaviour, which can yield
+several thousand calories per day (Gunther & Boesch, 1993). Contradic-
+tory to this Relative Proﬁtability Hypothesis, past research has shown that
+some forms of chimpanzee tool use may not necessarily be the most efﬁ-
+cient means of calorie or protein intake. For example, a detailed review of
+ant-ﬁshing behaviour among chimpanzees at Mahale revealed negligible nu-
+tritional gain from ant-ﬁshing which was suggested to be a ‘leisure’ activity
+(Nishie, 2011). As mentioned above, bonobo tool use occurred mostly in
+the social and self-directed contexts, and therefore we had no information to
+examine the proﬁtability of tool use for feeding in bonobos. A more compre-
+hensive evaluation of bonobo diet and nutritional intake may reveal whether
+or not conventional feeding is more proﬁtable for this species than employing
+tool-assisted strategies.
+With regard to the Invention Hypothesis, it is predicted that more frequent
+or complex tool use will occur in settings with enhanced opportunities for so-
+cial transmission. This hypothesis would explain the absence of tool use in
+bonobos if bonobos gather in smaller parties or have weaker social relations
+within their groups compared to chimpanzees. Our comparison indicated,
+however, that bonobo parties at Wamba were larger than chimpanzee par-
+ties at Goualougo. A recent comparison of many study sites of chimpanzees
+and bonobos indicated that differences in party size between the species are
+not statistically signiﬁcant but that female bonobos attend party gatherings
+much more frequently relative to the very low attendance ratio of female
+chimpanzees (Furuichi, 2009). This seems like a prime social setting for
+the spread of technological traditions in bonobos. Especially, since studies
+have reported a female bias in tool use among wild chimpanzees (McGrew,
+1979; Lonsdorf, 2005) and captive bonobos (Boose et al., 2013), which has
+yet to be documented among wild bonobos. Importantly, it remains to be
+established whether increased gregariousness in bonobos also reﬂects an in-
+crease in close-range social learning opportunities. Moreover, we need to
+assess how levels of gregariousness and party composition, and thus social
+
+PDF PAGE 26
+450 Tool use among Pan species
+learning opportunities, vary across feeding and non-feeding contexts in both
+chimpanzees and bonobos. Priority of access to food resources exhibited by
+bonobo females (Furuichi, 1997; Surbeck & Hohmann, 2013) may reduce
+the need for food gathering with tools. Furthermore, we may want to ques-
+tion whether the party size is indeed an important factor for transmission of
+tool behaviours. Studies from several sites, including Gombe and Goualougo
+(Lonsdorf, 2006; Sanz & Morgan, 2013a), suggested that party sizes while
+termite ﬁshing were relatively small, and the majority of parties were moth-
+ers with dependent offspring. If the transmission of tool behaviours mainly
+occurred between mother and offspring but not among adults, the party size
+may have no inﬂuence on tool behaviours even if the transmission of tech-
+nological information is important for the existence of tool use.
+Thus, as far as we know from the current information, differences in eco-
+logical or social conditions may fail to explain differences in bonobo and
+chimpanzee technological repertoires. It might be because these behaviours
+evolved in past ecological and social conditions that differ from contempo-
+rary settings. A recent study reported that present-day geographical features
+failed to explain the genetic structure of bonobos, and that current genetic
+diversity was formed by paleoenvironmental circumstances during the Pleis-
+tocene (Kawamoto et al., 2013). During the Pleistocene Epoch which began
+2.5 million years ago, forested areas in Africa were reduced to smaller refu-
+gia during glacial periods (Mayr & Ohara, 1986; Plana, 2004). Such environ-
+mental changes became more conspicuous after 1 million years ago, which
+coincides with the divergence of the bonobo and chimpanzee lineages (Won
+& Hey, 2005). The range of ancestral chimpanzees experienced more ex-
+tensive drying and fragmentation of forests during the late Pleistocene than
+the habitat of ancestral bonobos on the left bank of the Congo River where
+large forest refugia were maintained even during dry periods. Therefore,
+tool-assisted feeding might have had greater adaptive value for the ancestors
+of modern chimpanzees who were coping with greater variability in food
+resource availability, more arid habitats, and potentially increased compe-
+tition with other species than past bonobo populations. It is also possible
+that feeding technology evolved independently in the different chimpanzee
+subspecies as they repeatedly experienced dry periods. In their examination
+of tool use patterns among Ugandan chimpanzee populations, Gruber et al.
+(2012) suggested that ancestral chimpanzee populations in the region may
+have coped with harsher environments during the last Ice Age which may
+
+PDF PAGE 27
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 451
+have prompted various behavioural innovations, such as extractive tool use.
+A major problem exists in this explanation however. If the ability for tool use
+evolved only in chimpanzees under certain conditions in the past, and there-
+fore chimpanzees currently living in all types of habitats inherently use tools
+for feeding while bonobos in any type of habitat do not, then why is there
+no substantial difference in the ability for tool use under experimental con-
+ditions? This question needs to be further investigated through comparative
+studies both in the wild and captivity.
+Although further studies are needed, it is possible that the differences
+in tool using propensities between chimpanzees and bonobos in the wild
+reﬂect divergent behavioural predispositions rather than differences in cog-
+nitive abilities. Comparative studies of the physical and cognitive abilities of
+great apes have failed to explain the paucity of tool use by bonobos. Within
+captive settings, bonobo tool use repertoires are as large and diverse as chim-
+panzees (Gruber et al., 2010). This is unlike gorillas, who use tools for
+feeding but acquire the behaviour more slowly and perform it less frequently
+than chimpanzees, suggesting a species difference in predisposition (Boysen
+et al., 1999; Lonsdorf et al., 2009). Even in experimental settings where in-
+dividuals had limited experience with tools, both chimpanzees and bonobos
+demonstrated understanding of tool functional properties (Herrmann et al.,
+2008).
+The species differences in cognition and behavioural propensities between
+chimpanzees and bonobos were aptly expressed in a range of cognitive prob-
+lem solving tasks. Bonobos surpassed chimpanzees in solving tasks related
+to the social world (i.e., theory of mind, understanding of social causal-
+ity), whereas chimpanzees showed more skill in tasks related to the physical
+world (i.e., use of tools, understanding of physical causality) (Herrmann et
+al., 2010). In a comparison of several captive groups, the only major differ-
+ence between chimpanzee and bonobo tool use was that bonobos of all age
+and sex classes used tools in a play context (Gruber et al., 2010). The propen-
+sity of adult bonobos to engage in play is thought to reﬂect their neotenous
+nature, as well as environmental conditions that afford leisure time and a
+behavioural preference for certain types of social interaction.
+As mentioned above, some chimpanzee tool use does not seem to be the
+most effective means of increasing energy intake, but may be performed
+when individuals have leisure time (Nishie, 2011). On the other hand, bono-
+bos spend much of their leisure time in play and play is common among
+
+PDF PAGE 28
+452 Tool use among Pan species
+adults (Enomoto, 1990; Palagi, 2006). Such differences in behavioural pref-
+erence may explain why bonobos are likely to perform like chimpanzees
+in experimental conditions, but do not regularly perform tool use in natural
+settings. This potential difference in behavioural predispositions toward tool
+use could be further investigated by comparing levels of object manipulation
+and exploratory tendency in chimpanzees and bonobos (Koops et al., data
+not shown).
+It has been proposed that we are currently living in the “Anthropocene
+Epoch” which is shaped by human inﬂuences on the environment. Although
+apes have persisted through shifting climatic condition, there is no histor-
+ical analogue for the rate and degree of environmental change caused by
+anthropogenic disturbances. The long-term survival of wild bonobos and
+chimpanzees is increasingly endangered by poaching, habitat destruction and
+conversion, and infectious diseases. The Disturbance Hypothesis suggests
+that ape cultures are fragile and that anthropogenic disturbances may affect
+the social mechanisms which maintain these traditions (van Schaik, 2001).
+Recognizing the conservation value of animal cultures, scientists have sug-
+gested speciﬁc strategies for conserving and managing animals that learn
+socially and share cultures (Whitehead et al., 2004; Laiolo & Jovani, 2007;
+Whitehead, 2010). Such measures must be implemented immediately if we
+hope to continue advancing our understanding of behavioural diversity of
+our closest living relatives.
+Acknowledgements
+We are grateful to the Centre de Recherche en Ecologie et Foresterie and the
+Ministère de Recherche Scientiﬁque (République Démocratique du Congo)
+for the opportunity to conduct ﬁeld studies at Wamba. We especially thank
+I. Monkengo-mo-Mpenge, M. N. Mulavwa, and Mr. Bokasa of these orga-
+nizations for their continued support. We also thank J. Yamagiwa, T. Mat-
+suzawa, G. Idani, C. Hashimoto and other researchers of Kyoto University,
+Japan, for their valuable suggestions and support for our study, and to the
+tracking team and other staff of the Wamba research station for their dedi-
+cation. Our study at Wamba was ﬁnancially supported by the Grant-in-Aid
+for Scientiﬁc Research and Asia–Africa Science Platform Program by Japan
+Society of Promotion of Science, the Environment Research and Technol-
+ogy Development Fund by the Japan Ministry of the Environment, National
+
+PDF PAGE 29
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 453
+Geographic Research and Exploration, and Toyota Foundation. We are also
+deeply appreciative of the opportunity to work in the Nouabalé-Ndoki Na-
+tional Park and especially the Goualougo Triangle. This work would not
+be possible without the continued support of the Ministère de l’Economie
+Forestière et du Développement Durable (République du Congo), Ministère
+de la Recherche Scientiﬁque (République du Congo), and the Wildlife Con-
+servation Society’s Congo Program. Special thanks are due to J. M. Fay, P.
+T e l f e r ,P .E l k a n ,S .E l k a n ,B .C u r r a n ,M .G a t e l y ,E .S t o k e s ,T .B r e u e r ,P .
+Ngouembe and D. Dos Santos. We would also like to recognize the tire-
+less dedication of J. R. Onononga, C. Eyana-Ayina, S. Ndolo, A. Nzeheke,
+W. Mayoukou, M. Meguessa, I. Singono, and the Goualougo tracking team.
+Grateful acknowledgment of funding is due to the U.S. Fish and Wildlife
+Service, National Geographic Society, and Columbus Zoological Park. We
+also acknowledge ﬁnancial support from the McDonald Institute for Archae-
+ological Research (Cambridge), the Lucie Burgers Foundation for Compara-
+tive Behaviour Research (Arnhem, the Netherlands), Homerton College and
+Newnham College (Cambridge) to K.K. Finally, the authors are grateful to
+Stephanie Musgrave and two anonymous reviewers for their helpful com-
+ments on an earlier version of this manuscript.
+References
+Beaune, D., Bollache, L., Fruth, B. & Bretagnolle, F. (2012). Bush pig ( Potamochoerus
+porcus) seed predation of bush mango ( Irvingia gabonensis) and other plant species in
+Democratic Republic of Congo. — Afr. J. Ecol. 50: 509-512.
+Beaune, D., Bretagnolle, F., Bollache, L., Hohmann, G., Surbeck, M., Bourson, C. & Fruth,
+B. (2013). The bonobo–Dialium positive interactions: seed dispersal mutualism. — Am.
+J. Primatol. 75: 394-403.
+Boesch, C. & Boesch-Achermann, H. (2000). The chimpanzees of the Tai forest: behavioral
+ecology and evolution. — Oxford University Press, New York, NY.
+Bogart, S.L. & Pruetz, J.D. (2011). Insectivory of savanna chimpanzees ( Pan troglodytes
+verus) at Fongoli, Senegal. — Am. J. Phys. Anthropol. 145: 11-20.
+Boose, K.J., White, F.J. & Meinelt, A. (2013). Sex differences in tool use acquisition in
+bonobos (Pan paniscus). — Am. J. Primatol. 75: 917-926.
+Boysen, S., Kuhlmeier, V .A., Halliday, P. & Halliday, Y .M. (1999). Tool use in captive goril-
+las. — In: The mentalities of gorillas and orangutans: comparative perspectives (Parker,
+S.T., Mitchell, R.W. & Miles, H.L., eds). Cambridge University Press, Cambridge, p. 179-
+187.
+Chapman, C.A., Wrangham, R. & Chapman, L. (1994). Indices of habitat-wide fruit abun-
+dance in tropical forests. — Biotropica 26: 160-171.
+
+PDF PAGE 30
+454 Tool use among Pan species
+Deblauwe, I. (2009). Temporal variation in insect-eating by chimpanzees and gorillas in
+Southeast Cameroon: extension of niche differentiation. — Int. J. Primatol. 30: 229-252.
+Devos, C., Sanz, C., Morgan, D., Onononga, J.R., Laporte, N. & Huynen, M.C. (2008).
+Comparing ape densities and habitats in northern congo: surveys of sympatric gorillas
+and chimpanzees in the odzala and ndoki regions. — Am. J. Primatol. 70: 439-451.
+Enomoto, T. (1990). Social play and sexual-behavior of the bonobo ( Pan paniscus) with
+special reference to ﬂexibility. — Primates 31: 469-480.
+Fox, E.A., Sitompul, A.F. & van Schaik, C.P. (1999). Intelligent tool use in wild Sumatran
+orangutans. — In: The mentalities of gorillas and orangutans (Parker, S.T., Mitchell, R.W.
+& Miles, H.L., eds). Cambridge University Press, Cambridge, p. 99-116.
+Fox, E.A., van Schaik, C.P., Sitompul, A. & Wright, D.N. (2004). Intra- and interpopula-
+tional differences in orangutan ( Pongo pygmaeus) activity and diet: implications for the
+invention of tool use. — Am. J. Phys. Anthropol. 125: 162-174.
+Fruth, B., Hohmann, G. & McGrew, W.C. (1999). The Pan species. — In: The nonhuman
+primates (Dolhinow, P. & Fuentes, A., eds). Mayﬁeld Publishing, Mountain View, CA,
+p. 64-72.
+Furuichi, T. (1997). Agonistic interactions and matrifocal dominance rank of wild bonobos
+(Pan paniscus) at Wamba. — Int. J. Primatol. 18: 855-875.
+Furuichi, T. (2009). Factors underlying party size differences between chimpanzees and bono-
+bos: a review and hypotheses for future study. — Primates 50: 197-209.
+Furuichi, T., Hashimoto, C. & Tashiro, Y . (2001). Fruit availability and habitat use by chim-
+panzees in the Kalinzu forest, Uganda: examination of fallback foods. — Int. J. Primatol.
+22: 929-945.
+Furuichi, T., Idani, G., Ihobe, H., Hashimoto, C., Tashiro, Y ., Sakamaki, T., Mulavwa, M.N.,
+Yangozene, K. & Kuroda, S. (2012). Long-term studies on wild bonobos at Wamba, Luo
+Scientiﬁc Reserve, D. R. Congo: towards the understanding of female life history in a
+male-philopatric species. — In: Long-term ﬁeld studies of primates (Kappeler, P.M. &
+Watts, D.P., eds). Springer, Berlin, p. 413-433.
+Gold, K.C. (2002). Ladder use and clubbing by a bonobo (Pan paniscus) in Apenheul Primate
+Park. — Zoo Biology 21: 607-611.
+Gruber, T., Clay, Z. & Zuberbuhler, K. (2010). A comparison of bonobo and chimpanzee tool
+use: evidence for a female bias in the Pan lineage. — Anim. Behav. 80: 1023-1033.
+Gruber, T., Potts, K.B., Krupenye, C., Byrne, M.-R., Mackworth-Young, C., McGrew, W.C.,
+Reynolds, V . & Zuberbuhler, K. (2012). The inﬂuence of ecology on chimpanzee ( Pan
+troglodytes) cultural behavior: a case study of ﬁve Ugandan chimpanzee communities. —
+J. Comp. Psychol. 126: 446-457.
+Gunther, M. & Boesch, C. (1993). Energetic costs of nut-cracking behavior in wild chim-
+panzees. — In: Evolution of hands (Chivers, D. & Preuschoft, H., eds). Gustav Fischer,
+Stuttgart, p. 109-129.
+Harrison, M.E. & Marshall, A.J. (2011). Strategies for the use of fallback foods in apes. —
+Int. J. Primatol. 32: 531-565.
+
+PDF PAGE 31
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 455
+Hashimoto, C., Furuichi, T. & Tashiro, Y . (2001). What factors affect the size of chimpanzee
+parties in the Kalinzu Forest, Uganda? Examination of fruit abundance and number of
+estrous females. — Int. J. Primatol. 22: 947-959.
+Hashimoto, C., Furuichi, T., Tashiro, Y . & Kimura, D. (1999). Vegetation of the Kalinzu
+Forest, Uganda: ordination of forest types using principal component analysis. — Afr.
+Stud. Monogr. 20: 229-239.
+Hashimoto, C., Tashiro, Y ., Kimura, D., Enomoto, T., Ingmanson, J., Idani, G. & Furuichi,
+T. (1998). Habitat use and ranging of wild bonobos ( Pan paniscus)a tW a m b a .—I n t .J .
+Primatol. 19: 1045-1060.
+Hernandez-Aguilar, R.A. (2009). Chimpanzee nest distribution and site reuse in a dry habitat:
+implications for early hominin ranging. — J. Hum. Evol. 57: 350-364.
+Hernandez-Aguilar, R.A., Moore, J. & Pickering, T.R. (2007). Savanna chimpanzees use tools
+to harvest the underground storage organs of plants. — Proc. Natl. Acad. Sci. USA 104:
+19210-19213.
+Herrmann, E., Hare, B., Call, J. & Tomasello, M. (2010). Differences in the cognitive skills
+of bonobos and chimpanzees. — PLoS ONE 5: e12438.
+Herrmann, E., Wobber, V . & Call, J. (2008). Great apes’ ( Pan troglodytes, Pan paniscus,
+Gorilla gorilla, Pongo pygmaeus) understanding of tool functional properties after limited
+experience. — J. Comp. Psychol. 122: 220-230.
+Hohmann, G. & Fruth, B. (2003a). Culture in bonobos? Between-species and within-species
+variation in behavior. — Curr. Anthropol. 44: 563-571.
+Hohmann, G. & Fruth, B. (2003b). Lui Kotal — a new site for ﬁeld research on bonobos in
+the Salonga National Park. — Pan Africa News 10: 25-27.
+Howard, P.C. (1991). Nature conservation in Uganda’s tropical forest reserves. — IUCN,
+Gland.
+Humle, T. & Matsuzawa, T. (2004). Oil palm use by adjacent communities of chimpanzees
+at Bossou and Nimba Mountains, West Africa. — Int. J. Primatol. 25: 551-581.
+Hunt, K.D. & McGrew, W.C. (2002). Chimpanzees in the dry habitats of Assirik, Senegal
+and Semliki Wildlife Reserve, Uganda. — In: Behavioural diversity in chimpanzees and
+bonobos (Boesch, C., Hohmann, G. & Marchant, L.F., eds). Cambridge University Press,
+New York, NY, p. 35-51.
+Idani, G., Kuroda, S., Kano, T. & Asato, R. (1994). Flora and vegetation of Wamba forest,
+central Zaire with reference to bonobo (Pan paniscus) foods. — Tropics 3: 309-332.
+Ingmanson, E.J. (1996). Tool-using behaviors in wild Pan paniscus: social and ecological
+considerations. — In: Reaching into thought: the minds of the great apes (Russon, A.E.,
+Bard, K.A. & Parker, S.T., eds). Cambridge University Press, Cambridge, p. 190-210.
+Inogwabini, B.I., Bewa, M., Longwango, M., Abokome, M. & Vuvuet, M. (2008). The bono-
+bos of the Lake Tumba — Lake Maindombe Hinterland: threats and opportunities for
+population conservation. — In: The bonobos: behavior, ecology, and conservation (Fu-
+ruichi, T. & Thompson, J., eds). Springer, New York, NY, p. 273-290.
+Jordan, C. (1982). Object manipulation and tool-use in captive pygmy chimpanzees ( Pan
+paniscus). — J. Hum. Evol. 11: 35-39.
+
+PDF PAGE 32
+456 Tool use among Pan species
+Kano, T. (1982a). The social group of pygmy chimpanzees ( Pan paniscus)o fW a m b a .—
+Primates 23: 171-188.
+Kano, T. (1982b). The use of leafy twigs for rain cover by the pygmy chimpanzees of Wamba.
+— Primates 23: 453-457.
+Kano, T. (1992). The last ape: pygmy chimpanzee behavior and ecology. — Stanford Univer-
+sity Press, Stanford, CA.
+Kano, T. (1997). Leaf-dropping sexual display exhibited by a male bonobo at Wamba. — Pan
+Africa News 4: 3-4.
+Kano, T. & Mulavwa, M. (1984). Feeding ecology of the pygmy chimpanzees (Pan paniscus)
+of Wamba. — In: The pygmy chimpanzee (Susman, R.L., ed.). Plenum, New York, NY,
+p. 233-274.
+Kawamoto, Y ., Takemoto, H., Higuchi, S., Sakamaki, T., Hart, J.A., Hart, T.B., Tokuyama,
+N., Reinartz, G.E., Guislain, P., Dupain, J., Cobden, A.K., Mulavwa, M.N., Yangozene,
+K., Darroze, S., Devos, C. & Furuichi, T. (2013). Genetic structure of wild bonobo popu-
+lations: diversity of mitochondrial DNA and geographical distribution. — PLoS ONE 8:
+e59660.
+Koops, K. (2011). Chimpanzees in the Seringbara region of the Nimba mountains. — In:
+The chimpanzees of Bossou and Nimba (Matsuzawa, T., Humle, T. & Sugiyama, Y ., eds).
+Springer, Tokyo, p. 277-287.
+Koops, K., McGrew, W.C., de Vries, H. & Matsuzawa, T. (2012). Nest-building by chim-
+panzees ( Pan troglodytes verus ) at Seringbara, Nimba mountains: antipredation, ther-
+moregulation, and antivector hypotheses. — Int. J. Primatol. 33: 356-380.
+Koops, K., McGrew, W.C. & Matsuzawa, T. (2013). Ecology of culture: do environmental
+factors inﬂuence foraging tool use in wild chimpanzees, Pan troglodytes verus?—A n i m .
+Behav. 85: 175-185.
+Laiolo, P. & Jovani, R. (2007). The emergence of animal culture conservation. — Trends
+Ecol. Evol. 22: 5.
+Lonsdorf, E.V . (2005). Sex differences in the development of termite-ﬁshing skills in the
+wild chimpanzees, Pan troglodytesschweinfurthii, of Gombe National Park, Tanzania. —
+Anim. Behav. 70: 673-683.
+Lonsdorf, E.V . (2006). What is the role of mothers in the acquisition of termite-ﬁshing
+behaviors in wild chimpanzees ( Pan troglodytes schweinfurthii)? — Anim. Cogn. 9: 36-
+46.
+Lonsdorf, E.V ., Ross, S.R., Linick, S.A., Milstein, M.S. & Melber, T.N. (2009). An exper-
+imental, comparative investigation of tool use in chimpanzees and gorillas. — Anim.
+Behav. 77: 1119-1126.
+Marshall, A.J. & Wrangham, R.W. (2007). Evolutionary consequences of fallback foods. —
+Int. J. Primatol. 28: 1218-1235.
+Mayr, E. & Ohara, R.J. (1986). The biolgeographic evidence supporting the pleistocene forest
+refuge hypothesis. — Evolution 40: 55-67.
+McGrew, W.C. (1979). Evolutionary implication of sex differences in chimpanzee preda-
+tion and tool use. — In: The great apes (Hamburg, DA. & McCown, E.R., eds). Ben-
+jamin/Cummings, Menlo Park, CA, p. 41-463.
+
+PDF PAGE 33
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 457
+McGrew, W.C. (1992). Chimpanzee material culture: implications for human evolution. —
+Cambridge University Press, Cambridge.
+McGrew, W.C. & Collins, D.A. (1985). Tool use by wild chimpanzees ( Pan troglodytes)
+to obtain termites ( Macrotermes herus) in the Mahale Mountains, Tanzania. — Am. J.
+Primatol. 9: 47-62.
+McGrew, W.C., Tutin, C.E.G. & Baldwin, P.J. (1979). Chimpanzees, tools and termites: cross-
+cultural comparisons of Senegal, Tanzania, and Rio Muni. — Man 14: 185-214.
+McGrew, W.C., Baldwin, P.J. & Tutin, C.E.G. (1981). Chimpanzees in a hot, dry and open
+habitat: Mt. Assirik, Senegal, West Africa. — J. Hum. Evol. 10: 237-244.
+McGrew, W.C., Marchant, L.F., Beuerlein, M.M., Vrancken, D., Fruth, B. & Hohmann, G.
+(2007). Prospects for bonobo insectivory: Lui kotal, democratic republic of congo. — Int.
+J. Primatol. 28: 1237-1252.
+Moore, J. (1992). “Savanna” chimpanzees. — In: Topics in Primatology, V ol. 1: human
+origins (Nishida, T., McGrew, W.C., Marler, P., Pickford, M. & de Waal, F.B.M., eds).
+University of Tokyo Press, Tokyo, p. 99-118.
+Morgan, D.B. (2007). Socio-ecology of Chimpanzees ( Pan troglodytes troglodytes)i nt h e
+Goualougo Triangle, Republic of Congo. — PhD thesis, Cambridge University, Cam-
+bridge.
+Morgan, D. & Sanz, C. (2006). Chimpanzee feeding ecology and comparisons with sympatric
+gorillas in the Goualougo Triangle, Republic of Congo. — In: Primate feeding ecology
+in apes and other primates: ecological, physiological, and behavioural aspects (Hohmann,
+G., Robbins, M. & Boesch, C., eds). Cambridge University Press, Cambridge, p. 97-122.
+Morgan, D., Sanz, C., Onononga, J.R. & Strindberg, S. (2006). Ape abundance and habitat
+use in the Goualougo Triangle, Republic of Congo. — Int. J. Primatol. 27: 147-179.
+Mulavwa, M., Furuichi, T., Yangozene, K., Yamba-Yamba, M., Motema-Salo, B., Idani, G.,
+Ihobe, H., Hashimoto, C., Tashiro, Y . & Mwanza, N. (2008). Seasonal changes in fruit
+production and party size of bonobos at Wamba. — In: The bonobos: ecology, behavior,
+and conservation (Furuichi, T. & Thompson, J., eds). Springer, New York, NY, p. 121-
+134.
+Mulavwa, M.N., Yangozene, K., Yamba-Yamba, M., Motema-Salo, B., Mwanza, N.N. &
+Furuichi, T. (2010). Nest groups of wild bonobos at Wamba: selection of vegetation and
+tree species and relationships between nest group size and party size. — Am. J. Primatol.
+72: 575-586.
+Myers Thompson, J.A. (2002). Bonobos of the Lukuru Wildlife Research Project. — In: Be-
+havioural diversity in chimpanzees and bonobos (Boesch, C., Hohmann, G. & Marchant,
+L.F., eds). Cambridge University Press, New York, NY, p. 61-70.
+Nishida, T. (1990). A quarter century of research in the Mahale Mountains: an overview. —
+In: The chimpanzees of the Mahale Mountains: sexual and life history strategies (Nishida,
+T., ed.). University of Tokyo Press, Tokyo, p. 3-35.
+Nishie, H. (2011). Natural history ofCamponotus ant-ﬁshing by the M group chimpanzees at
+the Mahale Mountains National Park, Tanzania. — Primates 52: 329-342.
+Nishihara, T. (1995). Feeding ecology of western lowland gorillas in the Nouabale-Ndoki
+National Park, Congo. — Primates 36: 151-168.
+
+PDF PAGE 34
+458 Tool use among Pan species
+Palagi, E. (2006). Social play in bonobos (Pan paniscus) and chimpanzees (Pan troglodytes):
+implications for natural social systems and interindividual relationships. — Am. J. Phys.
+Anthropol. 129: 418-426.
+Pandolﬁ, S.S., van Schaik, C.P. & Pusey, A.E. (2003). Sex differences in termite ﬁshing
+among Gombe chimpanzees. — In: Animal social complexity: intelligence, culture, and
+individualized societies (de Waal, F.B.M. & Tyack, P.L., eds). Harvard University Press,
+Cambridge, MA, p. 414-418.
+Plana, V . (2004). Mechanisms and tempo of evolution in the African Guineo-Congolian
+rainforest. — Phil. Trans. Roy. Soc. Lond. B 359: 1585-1594.
+Reynolds, V . (2005). The chimpanzees of the Budongo Forest: ecology, behaviour, and con-
+servation. — Oxford University Press, New York, NY.
+Rutz, C., Bluff, L.A., Reed, N., Troscianko, J., Newton, J., Inger, R., Kacelnik, A. & Bearhop,
+S. (2010). The ecological signiﬁcance of tool use in New Caledonian crows. — Science
+329: 1523-1526.
+Rutz, C. & St Clair, J.J.H. (2012). The evolutionary origins and ecological context of tool use
+in New Caledonian crows. — Behav. Proc. 89: 153-165.
+Sabater-Pi, J. (1979). Feeding behaviour and diet of chimpanzees ( Pan troglodytes
+troglodytes) in the Okorobiko Mountains of Rio Muni (West Africa). — Z. Tierpsychol.
+50: 265-281.
+Sabater Pi, J. (1974). An elementary industry of the chimpanzees in the Okorobiko Moun-
+tains, Rio Muni (Republic of Equatorial Guinea), West Africa. — Primates 15: 351-364.
+Samson, D.R. & Hunt, K.D. (2012). A thermodynamic comparison of arboreal and terrestrial
+sleeping sites for dry-habitat chimpanzees ( Pan troglodytes schweinfurthii) at the Toro-
+Semliki Wildlife Reserve, Uganda. — Am. J. Primatol. 74: 811-818.
+Sanz, C. & Morgan, D. (2007). Chimpanzee tool technology in the Goualougo Triangle,
+republic of Congo. — J. Hum. Evol. 52: 420-433.
+Sanz, C.M. & Morgan, D.B. (2009). Flexible and persistent tool-using strategies in honey-
+gathering by wild chimpanzees. — Int. J. Primatol. 30: 411-427.
+Sanz, C. & Morgan, D. (2010). Complexity of chimpanzee tool using behaviors. — In: The
+mind of the chimpanzee: ecological and experimental perspectives (Lonsdorf, E.V ., Ross,
+S.R. & Matsuzawa, T., eds). University of Chicago Press, Chicago, IL, p. 127-140.
+Sanz, C.M. & Morgan, D.B. (2013a). The social context of chimpanzee tool use. — In: Tool
+use in animals (Sanz, C.M., Call, J. & Boesch, C., eds). Cambridge University Press,
+Cambridge, p. 161-175.
+Sanz, C.M. & Morgan, D.B. (2013b). Ecological and social correlates of chimpanzee tool
+use. — Phil. Trans. Roy. Soc. B 368: 20120416.
+Sanz, C., Morgan, D. & Gulick, S. (2004). New insights into chimpanzees, tools, and termites
+from the Congo basin. — Am. Nat. 164: 567-581.
+Sanz, C.M., Schoning, C. & Morgan, D.B. (2010). Chimpanzees Prey on army ants with
+specialized tool set. — Am. J. Primatol. 72: 17-24.
+Serckx, A., Huynen, M.-C., Bastin, J.-F., Hambuckers, A., Beudels-Jamar, R.C., Vimond, M.,
+Raynaud, E. & Kühl, H.S. (2014). Nest grouping patterns of bonobos ( Pan paniscus)i n
+relation to fruit availability in a forest-savannah mosaic. — PLoS ONE 9: e93742.
+
+PDF PAGE 35
+T. Furuichi et al. / Behaviour 152 (2015) 425–460 459
+Shumaker, R.W., Walkup, K.R. & Beck, B.B. (2011). Animal tool behavior: the use and
+manufacture of tools by animals. — Johns Hopkins University Press, Baltimore, MD.
+Spagnoletti, N., Visalberghi, E., Ottoni, E., Izar, P. & Fragaszy, D. (2012). Stone tool use
+in wild bearded capuchin monkeys, Cebus libidinosus: is it a strategy to overcome food
+scarcity? — Anim. Behav. 83: 1285-1294.
+Stanford, C.B. (1998). The social behavior of chimpanzees and bonobos — empirical evi-
+dence and shifting assumptions. — Curr. Anthropol. 39: 399-420.
+Surbeck, M. & Hohmann, G. (2013). Intersexual dominance relationships and the inﬂuence
+of leverage on the outcome of conﬂicts in wild bonobos ( Pan paniscus). — Behav. Ecol.
+Sociobiol.: 1-14.
+Suzuki, S., Kuroda, S. & Nishihara, T. (1995). Tool-set for termite-ﬁshing by chimpanzees in
+the Ndoki forest, Congo. — Behaviour 132: 219-234.
+Takasaki, H., Nishida, T., Uehara, S., Norikoshi, K., Kawanaka, K., Takahata, Y ., Hiraiwa-
+Hasegawa, M., Hasegawa, T., Hayaki, H., Masui, K. & Huffman, M.A. (1990). Summary
+of meteorological data at Mahale research camp, 1973–1988. — In: The chimpanzees of
+the Mahale Mountains: sexual and life history strategies (Nishida, T., ed.). University of
+Tokyo Press, Tokyo, p. 291-300.
+Takemoto, H. (2004). Seasonal change in terrestriality of chimpanzees in relation to micro-
+climate in the tropical forest. — Am. J. Phys. Anthropol. 124: 81-92.
+Tebbich, S., Taborsky, M., Fessl, B. & Dvorak, M. (2002). The ecology of tool-use in the
+woodpecker ﬁnch (Cactospiza pallida). — Ecol. Lett. 5: 656-664.
+van Schaik, C.P. (2001). Fragility of traditions: the disturbance hypothesis for the loss of local
+traditions in orangutans. — Int. J. Primatol. 23: 527-538.
+Wallis, J. (2002). Seasonal aspects of reproduction and sexual behavior in two chimpanzee
+populations: a comparison of Gombe (Tanzania) and Budongo (Uganda). — In: Be-
+havioural diversity in chimpanzees and bonobos (Boesch, C., Hohmann, G. & Marchant,
+L.F., eds). Cambridge University Press, Cambridge, p. 181-191.
+Watts, D.P. (2012). Long-term research on chimpanzee behavioral ecology in Kibale national
+park, Uganda. — In: Long-term ﬁeld studies of primates (Kappeler, P.M. & Watts, D.P.,
+eds). Springer, Heidelberg, p. 313-338.
+White, F. (1986). The vegetation of Africa: a descriptive memoir to accompany the UN-
+ESCO/AETFAT/UNSO vegetation map of Africa. — UNESCO, Paris.
+White, F.J. (1992). Activity budgets, feeding behavior, and habitat use of pygmy chimpanzees
+at Lomako, Zaire. — Am. J. Primatol. 26: 215-223.
+Whitehead, H. (2010). Conserving and managing animals that learn socially and share cul-
+tures. — Learn. Behav. 38: 329-336.
+Whitehead, H., Rendell, L., Osborne, R.W. & Wursig, B. (2004). Culture and conservation of
+non-humans with reference to whales and dolphins: review and new directions. — Biol.
+Conserv. 120: 427-437.
+Whiten, A., Goodall, J., McGrew, W.C., Nishida, T., Reynolds, V ., Sugiyama, Y ., Tutin,
+C.E.G., Wrangham, R.W. & Boesch, C. (1999). Cultures in chimpanzees. — Nature 399:
+682-685.
+
+PDF PAGE 36
+460 Tool use among Pan species
+Whiten, A., Goodall, J., McGrew, W.C., Nishida, T., Reynolds, V ., Sugiyama, Y ., Tutin,
+C.E.G., Wrangham, R.W. & Boesch, C. (2001). Charting cultural variation in chim-
+panzees. — Behaviour 138: 1481-1516.
+Whiten, A., Spiteri, A., Horner, V ., Bonnie, K.E., Lambeth, S.P., Schapiro, S.J. & de Waal,
+F.B.M. (2007). Transmission of multiple traditions within and between chimpanzee
+groups. — Curr. Biol. 17: 1038-1043.
+Wilson, M.L., Hauser, M.D. & Wrangham, R.W. (2001). Does participation in intergroup
+conﬂict depend on numerical assessment, range location, or rank for wild chimpanzees?
+— Anim. Behav. 61: 1203-1216.
+Won, Y .J. & Hey, J. (2005). Divergence population genetics of chimpanzees. — Mol. Biol.
+Evol. 22: 297-307.
+Wrangham, R.W., Clark, A.P. & Isabirye-Basuta, G. (1992). Female social relationships and
+social organization of Kibale Forest chimpanzees. — In: Human origins (Nishida, T.,
+McGrew, W.C., Marler, P., Pickford, M. & de Waal, F.B.M., eds). University of Tokyo
+Press, Tokyo, p. 81-98.
+Yamagiwa, J., Maruhashi, T., Yumoto, T. & Mwanza, N. (1996). Dietary and ranging overlap
+in sympatric gorillas and chimpanzees in Kahuzi-Biega National Park, Zaire. — In: Great
+ape societies (McGrew, W.C., Marchant, L.F. & Nishida, T., eds). Cambridge University
+Press, Cambridge, p. 82-98.
+Yamakoshi, G. (1998). Dietary responses to fruit scarcity of wild chimpanzees at Bossou,
+Guinea: possible implications for ecological importance of tool use. — Am. J. Phys.
+Anthropol. 106: 283-295.

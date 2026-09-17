@@ -1,0 +1,1189 @@
+PDF PAGE 1
+Stone tool use by adult wild bearded capuchin monkeys ( Cebus libidinosus ).
+Frequency, efﬁciency and tool selectivity
+Noemi Spagnoletti a, b, Elisabetta Visalberghi a, *, Eduardo Ottoni c, Patricia Izar c, Dorothy Fragaszy d
+a Istituto di Scienze e Tecnologie della Cognizione, Consiglio Nazionale delle Ricerche, Via Aldrovandi 16B, 00161 Rome, Italy
+b Dipartimento di Biologia Animale e dell ’Uomo, Università La Sapienza di Roma, Rome, Italy
+c Institute of Psychology, Department of Experimental Psychology, University of São Paulo, São Paulo, Brazil
+d Psychology Department, University of Georgia, Athens, GA 30602, USA
+article info
+Article history:
+Received 22 October 2009
+Accepted 9 February 201 1
+Keywords:
+Nut cracking
+Body mass
+Energetic costs
+Hammer selection
+Sexual differences
+abstract
+Chimpanzees have been the traditional referential models for investigating human evolution and stone
+tool use by hominins. We enlarge this comparative scenario by describing normative use of hammer
+stones and anvils in two wild groups of bearded capuchin monkeys (Cebus libidinosus ) over one year. We
+found that most of the individuals habitually use stones and anvils to crack nuts and other encased food
+items. Further, we found that in adults (1) males use stone tools more frequently than females, (2) males
+crack high resistance nuts more frequently than females, (3) ef ﬁciency at opening a food by percussive
+tool use varies according to the resistance of the encased food, (4) heavier individuals are more ef ﬁcient
+at cracking high resistant nuts than smaller individuals, and (5) to crack open encased foods, both sexes
+select hammer stones on the basis of material and weight. These ﬁndings con ﬁrm and extend previous
+experimental evidence concerning tool selectivity in wild capuchin monkeys (Visalberghi et al., 2009b;
+Fragaszy et al., 2010b ).
+Male capuchins use tools more frequently than females and body mass is the best predictor of ef ﬁ-
+ciency, but the sexes do not differ in terms of ef ﬁciency. We argue that the contrasting pattern of sex
+differences in capuchins compared with chimpanzees, in which females use tools more frequently and
+more skillfully than males, may have arisen from the degree of sexual dimorphism in body size of the
+two species, which is larger in capuchins than in chimpanzees. Our ﬁndings show the importance of
+taking sex and body mass into account as separate variables to assess their role in tool use.
+/C211201 1 Elsevier Ltd. All rights reserved.
+Introduction
+Stone pounding was a likely precursor of tool making by hom-
+inins, since the actions of pounding “can lend themselves to the
+application of the same bodily motor actions to different raw
+materials and with novel purposes ” (Davidson and McGrew, 2005 :
+796). Among nonhuman primates living in natural settings, only
+a few populations of chimpanzees routinely use stone tools to crack
+nuts ( Whiten et al., 1999; Boesch and Boesch-Achermann, 2000 ).
+Chimpanzees have been the traditional referential models for those
+investigating human evolution and the features characterizing
+hominins’ use of stone tools, including the origins of sex differences
+in tool use and in the division of labor ( McGrew, 1979; Tooby and
+DeVore, 1987).
+Our goal here is to expand this comparative scenario to include
+Cebus libidinosus, a South American monkey species that last shared
+a common ancestor with the Catarrhini about 35 million years ago
+(Schrago and Russo, 2003 ). A few populations of this species have
+been recently discovered to use tools in the wild ( Fragaszy et al.,
+2004a; Moura and Lee, 2004; Waga et al., 2006; Canale et al.,
+2009; see Ottoni and Izar, 2008 for a review). As argued by
+Haslam et al. (2009) , these ﬁndings may (a) challenge the role of
+continuity in primate tool use, (b) suggest that convergence is
+plausible (probably owing to similar adaptive pressures, foraging
+requirements and/or physiological constraints), and (c) open the
+door to the possibility of repeated gain and loss of tool use among
+extinct primates in multiple lineages over millions of years.
+Speciﬁcally, on the basis of one year of systematic observations of
+stone tool activities by adult capuchins, we examine the frequency
+of tool use, success and stone selectivity in relation to the resistance
+of food targets. These ﬁndings on the spontaneous behavior of wild
+capuchin monkeys, together with those collected in a series of
+parallel ﬁeld experiments (for a review Visalberghi and Fragaszy, in
+* Corresponding author.
+E-mail address: elisabetta.visalberghi@istc.cnr.it (E. Visalberghi).
+Contents lists available at ScienceDirect
+Journal of Human Evolution
+journal homepage: www.elsevier.com/locate/jhevol
+0047-2484/$ e see front matter /C211201 1 Elsevier Ltd. All rights reserved.
+doi:10.1016/j.jhevol.201 1.02.010
+Journal of Human Evolution 61 (201 1) 97 e107
+
+PDF PAGE 2
+press-a), constitute an ample dataset on which to build compari-
+sons with chimpanzees and to interpret the behavior of hominins
+before the occurrence of ﬂaking technology.
+In many chimpanzee populations, several members of a group
+use tools throughout the year (Whiten et al., 1999), thus earning the
+label of “habitual” tool users ( sensu McGrew, 1992). Habitual tool
+use suggests that technology plays a signi ﬁcant role in the ecology
+of the population, as opposed to an incidental activity. Here, we
+provide longitudinal data for a population of wild capuchins,
+showing that they are also habitual tool users.
+In chimpanzees, the use of tools differs markedly between the
+two sexes. Females use both probing tools and stone tools more
+frequently than males (see McGrew, 1992 for a review). For
+example, in Gombe, female chimpanzees engage in termite ﬁshing
+three times more often than males ( McGrew, 1979 ; see also
+Pandolﬁ et al., 2003 for an analysis of the data collected in Gombe
+over 17 years). Females start to ﬁsh for termites at a younger age
+than males (31 vs. 50 months) and achieve higher levels of proﬁ -
+ciency. Moreover, females use a technique similar to their mother’s,
+whereas males do not ( Lonsdorf et al., 2004 ). Females outperform
+males in the two most dif ﬁcult forms of stone tool use that chim-
+panzees practice, namely cracking Coula nuts aloft in the tree and
+cracking Panda nuts (which are the most resistant nuts that
+chimpanzees crack) ( Boesch and Boesch, 1984 ). Finally, females
+crack Coula nuts regardless of whether the nuts are fresh and more
+difﬁcult to crack, or dry and less dif ﬁcult to crack, whereas males
+crack mostly dry, brittle nuts ( Boesch and Boesch, 1984 ). Thus,
+female chimpanzees, across many regions and foraging tasks, use
+tools more often and in some circumstances more skillfully than
+males. This difference has been interpreted as a strategy by which
+females obtain reliable foods, whereas males devote more time to
+social activities and to other forms of foraging, such as hunting
+(Boesch and Boesch, 1984 ).
+Sex differences in tool use in wild capuchins have been little
+investigated. The few studies on tool use carried out so far with
+capuchins provide mixed evidence (see Moura and Lee, 2010 on
+a group of C. libidinosus partially composed of reintroduced indi-
+viduals; Ottoni and Mannu, 2001 on a semi-free ranging group; and
+Fragaszy et al., 2004b for review of studies with captive capuchins).
+Similarly, the results from the studies examining precursors of tool
+use, namely actions combining objects and surfaces (for a review,
+see Fragaszy et al., 2004b ) are contradictory. For example, in
+Fragaszy and Adams-Curtis (1991) and in Byrne
+ and Suomi (1996) ,
+male and female capuchins interact with objects with similar
+degrees of interest, whereas in Visalberghi’s (1988) study males
+score signi ﬁcantly higher than females for the pooled category of
+actions, which include pounding, throwing, and rubbing. Boinski
+et al. (2000) report that wild Cebus apella males process husked
+fruit by pounding them on hard substrates more often than
+females, although no sex difference in skill and coordination is
+apparent. In contrast, wild female wedge-capped capuchins ( Cebus
+olivaceus) devote absolutely more time than males to foraging and,
+while foraging, to banging food items ( Fragaszy, 1990 and unpub-
+lished results). Finally, males are prominent when percussion is
+used as an aggressive display and as a sexual display (Moura, 2007).
+Boinski (2004) argues that percussion by males may attract
+females’ attention, and serve as a signal of male ﬁtness.
+Although the published ﬁndings concerning sex differences in
+tool use and object manipulation in capuchins are contradictory,
+energetic and morphological considerations lead to clear predic-
+tions about sex differences in frequency and performance of tool
+use, and stone selectivity by adult wild capuchins.
+Other factors being equal, the nutritional needs of an animal are
+affected both by reproduction (during the present study seven out
+of eight of our adult females were either pregnant and/or lactating)
+and body mass ( Key and Ross, 1999 ). In primates, the degree of
+sexual dimorphism in body mass varies greatly among species
+(Plavcan, 2004 ) and capuchins are more dimorphic in body mass
+than chimpanzees ( Smith and Jungers, 1997; Key and Ross, 1999;
+Fragaszy et al., 2010a ; see Discussion for details). In particular, the
+body mass of the adult males observed in the present study was
+64% larger than the body mass of the adult females (see Table 1).
+Key and Ross (1999) examined the relationship between energetic
+costs for males and females in 19 nonhuman primate species (not
+including capuchins) and found that when the males ’ body mass
+exceeds females’ body mass by 60% or more, the major determinant
+of sex differences in energetic costs is body mass dimorphism,
+whereas when males are between 30% and 50% larger than females,
+the costs due to reproduction almost balance those of the males ’
+larger body mass.
+Since male capuchins need more energy than females due to the
+males’ larger body mass, our ﬁrst prediction is that adult male
+capuchins will use tools to crack nuts as or more frequently than
+adult females. Second, we predict that heavier (and thus presum-
+ably stronger) individuals (i.e., adult males) will be more efﬁcient at
+cracking nuts (in terms of rate of success, average number of strikes
+per successful nut cracking episode, and average duration per
+successful episode) than smaller individuals (i.e., adult females and
+juveniles of both sexes). However, consideration of the action
+involved in cracking leads to a more reﬁned set of predictions. Some
+species of palm nuts are extremely resistant to cracking
+(Visalberghi et al., 2008 ), and thus the monkeys must strike each
+nut several times to crack it ( Fragaszy et al., 2010a ). Body mass is
+a strong predictor of ef ﬁciency
+ in cracking (measured as the
+number of strikes needed to crack a piassava nut, the most resistant
+species of nuts; Fragaszy et al., 2010a ) and monkeys of both sexes
+prefer to use heavier stones to crack nuts ( Visalberghi et al., 2009b;
+Fragaszy et al., 2010b ).
+Therefore, on the basis of dimorphism in body mass in capuchins
+and energetic considerations, we make three further predictions.
+One is that the resistance of the nut ( Visalberghi et al., 2008 ) will
+affect the rate of success, the average number of strikes per episode,
+and the duration of successful episodes (third prediction). The
+others are that females, to maximize reliability of energetic return,
+will exploit high resistance nuts proportionally less often than males
+(fourth prediction), but will exploit low resistance nuts and other
+encased foods at the same frequency as males ( ﬁfth prediction).
+In wild chimpanzees, deliberate selection of speciﬁc materials to
+use as tools has been inferred by comparing the features of
+hammers and anvils used to crack open nuts of different resistance.
+Boesch and Boesch (1984) proceeded in this way at Taï and inferred
+that high resistance Panda oleosa nuts were more often cracked
+open on stone anvils and stone hammers than with wooden anvils
+and hammers, compared with the less resistant Coula edulis nuts.
+Furthermore, chimpanzees use heavier stone hammers to crack
+open Panda nuts than Coula nuts. Therefore, chimpanzees seem to
+take into account the resistance of nuts when using percussive
+tools. Subsequent direct observations conﬁrmed this pattern of tool
+use in Taï ( Boesch and Boesch-Achermann, 2000 ) as well as in
+Bossou ( Matsuzawa, 1994 ), indicating that chimpanzees “can
+recognize the functions of the tools and which stone or combina-
+tion of stones function best ” (Matsuzawa, 1994 : 361). Recently,
+Visalberghi et al. (2009b) experimentally demonstrated that wild
+capuchins, belonging to the same population investigated in the
+present study, when presented with a concurrent choice of two or
+more stones, selectively used stones of particular material and
+weight to crack low resistance nuts (see also Fragaszy et al., 2010b).
+Therefore, our sixth and last prediction is that capuchins will select
+stone tools based on the material and weight that are adequate to
+overcome the resistance of the food resource at hand.
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e10798
+
+PDF PAGE 3
+Methods
+Site
+The study area is located at Fazenda Boa Vista (FBV) in the
+northeastern Brazilian state of Piauí (9 /C14 390S, 45 /C14 250W), 21 km
+northwest of the town of Gilbués. The physical geography of the
+ﬁeld site is a sandy plain at approximately 420 m above sea level,
+punctuated by sandstone ridges, pinnacles and plateaus, and sur-
+rounded by cliffs composed of sedimentary rock rising steeply from
+20 to 100 m above the plain. The cliff and plateau consist of inter-
+bedded sandstone, siltstone and shale. Boulders often break off of
+these formations and fall to the base of the cliff close to the plain
+(for further information about the geology of FBV, see Visalberghi
+et al., 2007 ). The sandstone cliffs and plateaus are heavily eroded
+and there are ephemeral watercourses that have running water
+only after rainfall. The climate is seasonally dry (average annual
+rainfall 1 156 mm, total rainfall during dry season, April to
+September 230 mm, data from 1971 to 1990, source: Embrapa,
+Brazilian Agricultural Research Corporation).
+FBV presents four types of vegetation physiognomies according
+to the terrain and the proximity to water sources. The sandy plain is
+characterized by a high abundance of palms with subterranean
+stems and trees of medium height such as Eschweilera nana and
+Hymaenaea courbaril . The vegetation by the lowest area of the
+plain, a marsh, is characterized by a higher diversity of trees
+forming gallery forests and a high density of the tall palm tree,
+Mauritia ﬂexuosa. Shrubs and small trees dominate the cliff and the
+talus, whereas herbaceous vegetation dominates on the plateau,
+especially bromeliads and cactus.
+Subjects
+From June 2006 to May 2007, we observed the behavior of 28
+bearded capuchins living in two groups, the Chicão group (CH) and
+the Zangado group (ZA) (eight adult females, seven adult males,
+nine juveniles and four infants). Adult status was conferred on the
+basis of size and behavior for animals of unknown age. At the
+beginning of the study, all adult females except one were either
+pregnant or lactating.
+Behaviors and other measures scored
+Each group was followed from dawn to dusk for seven to ten
+days per month by Noemi Spagnoletti (hereafter N.S.) or Eduardo D.
+Ramos da Silva (hereafter E.D.R.S.), aided by a ﬁeld assistant (see
+below). For 1709 hours, we sampled all episodes of tool use (both
+when in progress or about to begin) until they ended using ad
+libitum sampling. A tool use episode started when the subject (S)
+approached the anvil site (by de ﬁnition, an anvil site is a boulder or
+an exposed stone with a hammer stone on it or within three
+metres; for details see Visalberghi et al., 2007 ) with an encased
+food item and ended when the item was cracked open, or when S
+left the anvil without the hammer stone. When S began to crack
+a new food item, a new episode was recorded. If we were observing
+a tool use episode and another began, we continued to observe the
+ﬁrst episode. During concurrent episodes, the ﬁeld assistant noted
+the identity of the tool user in the second episode and collected the
+same data about it. This led to a total of 1565 tool use episodes that
+were used to analyze tool use frequencies in the two groups. The
+analyses concerning sex differences in frequency of tool use and the
+food exploited were based on the 1310 episodes performed by adult
+capuchins. For the analyses on sex differences in tool use efﬁ ciency,
+we included an additional 47 episodes, which were observed while
+the subjects cracked nuts provided by the observers for purposes of
+photography and videography. N.S. collected detailed data on 844
+episodes that were used for all of the analyses (frequency, efﬁciency
+and selectivity of tool use, see below). E.D.R.S. contributed 513
+episodes collected with ad libitum sampling, while conducting
+a concurrent study using the same behavioral de ﬁnitions ( Ramos
+da Silva, 2008 ).
+Table 1
+Adult subjects, group to which they belong (CH ¼ Chicão group; ZA ¼ Zangado group), body mass, rank, total number of tool use episodes observed, number of incomplete and
+complete episodes involving palm nuts and other food items.
+Group Subject Body mass (kg) Rank # of episodes of tool use
+Total Incomplete Complete Complete and identi ﬁed
+Nuts Other food items Nuts Other food items Low resistance nuts High resistance nuts
+Males CH Chicão 4.4 1 142 130 12 89 12 52 21
+ZA Zangado 4.4 e 1 296 276 20 77 4 29 28
+ZAeCH Mansinho 3.5 4 196 193 3 108 2 65 20
+ZAeCH Dengoso 3.3 3 159 147 12 64 9 21 19
+ZAeCH Jatoba 2.7 6 103 93 10 40 7 13 5
+ZAeCH Teimoso 2.7 3 84 72 12 28 7 10 7
+CH Segundo* 3.6 e 3 14 13 1 7 1 e
+Subtotal 994 924 70 413 41 190 100
+Females CH Dendé 1.9 5 18 15 3 11 3 19 4
+CH Teninha 2.2 3 25 24 1 20 1 11 11
+CH Piassava 1.9 2 55 40 15 24 20 16 1
+CH Chuchu 2.2 3 60 57 3 39 3 19 11
+ZA Moça-Br 1.9 e 2 44 27 17 6 8 1 2
+ZA Moça-Ch 2.2 e 3 141 100 41 29 13 16 6
+ZA Emilia* 2.4 e 4 20 6 14 0 6 ee
+CH Chiquinha* 2.4 3 0 0 0 0 0 ee
+Subtotal 363 269 94 129 54 68 29
+Total 1357 1193 164 542 95 258 129
+The complete episodes were those recorded from the beginning to the end for which success, latency to solution and number of strikes were scored. The complete and
+identiﬁed episodes were those in which the species of the nut was identi ﬁed.
+ZAeCH indicates individuals that during data collection migrated from ZA group to CH group. The weight of each subject was either assessed with a scale (see Fragaszy et al.,
+2010a) or estimated (e). (*) individuals excluded from the statistical analyses concerning success and tool selectivity.
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e107 99
+
+PDF PAGE 4
+As in Resende et al. (2008) , N.S. noted per episode whether the
+(i) food item was cracked (effective nut cracking), (ii) food item was
+not cracked despite the correctness of both the positioning of the
+tool in relation to the food item and the strikes (non-effective nut
+cracking), and (iii) food item was not cracked because the behavior
+was inadequate (simple pounding, i.e., episodes in which the
+monkey pounded the nut on the anvil or on the hammer). When
+possible, N.S. observed the episode from the beginning to the end,
+noted its duration, counted the number of strikes (i.e., the action of
+pounding the food item positioned on the anvil with the hammer)
+performed by the monkey, and the outcome of the episode.
+Episodes for which all of these variables were recorded are labeled
+complete episodes. For the complete episodes resulting in a cracked
+nut and access to the kernel, we scored the number of strikes and
+the time elapsed (in seconds) between the beginning of the episode
+and access to the kernel (duration of episode). When possible, N.S.
+also determined the food exploited and its state at the beginning of
+the episode (intact or partially cracked) on the basis of direct
+observation.
+Finally, N.S. examined the hammer stone used by the subject
+and noted its weight and lithology at the end of the episode, when
+possible. Lithology was assessed on the basis of experience and
+resemblance to the stones available in our collection in FBV. Weight
+was assessed to the nearest 10 g (stones up to 0.5 kg) or the nearest
+20 g (stones from 0.5 kg up to 2.5 kg) using spring scales (Pesola,
+Switzerland). N.S. also noted whether the subject had used a stone
+or an intact palm nut as a “hammer.” Hammer stones were cate-
+gorized as “friable” or “durable.” Visalberghi et al. (2007) report
+that the durable and effective hard stones that capuchins use as
+hammers to crack open palm nuts are quartzite, siltstone and
+ironstone (all of these stones are relatively harder and more dense
+than the prevailing friable sandstone).
+The items processed belong to three major categories: (a) nuts
+with relatively high peak-force-at-failure, namely piassava
+(Orbignya sp.) and catulí ( Attalea sp.), hereafter labeled “high
+resistance” nuts; (b) nuts with relatively low peak-force-at-failure,
+hereafter labeled “low resistance ” nuts, namely catulè ( Attalea
+barreirensis) and tucum ( Astrocaryum campestre) (see Visalberghi
+et al., 2008 for details), and (c) other encased food items whose
+peak-force-at-failure is much lower than that reported for palm
+nuts (e.g., fruta-danta, family Icacinaceae; caju, family Anacardia-
+ceae; caroba, family Bignoniaceae; manioca-brava, family Euphor-
+biaceae). Whereas palm nuts in categories (a) and (b) require
+hammers of speci ﬁc lithology and weight, the other encased food
+items (c) can be cracked open with lighter and more friable stones.
+Analyses
+Since monthly frequencies of tool use did not differ between
+groups (Mann eWhitney U-test ¼ 64, n
+1 ¼12, n2 ¼ 12, p ¼ 0.64, see
+also Spagnoletti, 2009), we pooled the data from the two groups. To
+rule out the possibility that the number of observed episodes
+depended on the different likelihood of observing adult males,
+adult females, and juveniles, we determined whether these sex and
+age classes were similarly “in view ” to the observer. When the
+monkeys were not using tools, N.S. sampled their activity every
+20 min using group scan sampling ( Martin and Bateson, 1993 ; see
+also Spagnoletti, 2009). An index of individual visibility is indicated
+by the number of scans in which each of the 22 tool users was
+observed/total number of scans recorded. These values were not
+signiﬁcantly different among adult males, adult females and juve-
+niles (KruskaleWallis ANOVA, H
+2,22 ¼ 4.48, p ¼ 0.1 1). Moreover, the
+number of tool use episodes and visibility were not signi ﬁcantly
+correlated (Spearman, rs ¼ 0.03, N ¼ 22, p ¼ 0.89). As there was no
+bias in the visibility of males versus females in scan sampling, our
+data can be considered unbiased with respect to the frequencies of
+tool use.
+Analyses concerning frequencies of tool use were run on all the
+adult subjects (seven males and eight females). Analyses of
+performance and selectivity were carried out on six adult males
+and six adult females (see Table 1 ). We used the Mann eWhitney
+test to compare sex differences in frequency of tool use and cate-
+gory of food exploited. The analyses on performance were based on
+mixed model regressions, either linear or logistic, in which the
+subject identities were inserted as random factors ( Rabe-Hesketh
+and Skrondal, 2008 ). We used mixed model logistic regressions to
+test whether ef ﬁciency (i.e., the success to crack open the food
+item) was affected by body mass, sex, individual rank, resistance of
+the nut and weight of the stone. We used mixed model linear
+regression to test whether the number of strikes and duration of
+episodes to crack open nuts was related to body mass, sex, resis-
+tance of the nuts and weight of the stone. In order to explore the
+question of whether adults select hardness and weight of the stone
+hammer, we used mixed model linear regressions to test separately
+the effects of individual body mass and sex, and food resistance on
+the hardness and weight of the hammer stones used. Furthermore,
+we used mixed model linear regressions to test if individual body
+mass and food resistance predict the weight of the hammer stones
+used by males and females separately.
+The individuals of the CH group were weighed in July 2007
+(Table 1 ; for details about the weighing procedure see Fragaszy
+et al., 2010a ). The body mass of the members of ZA group was
+estimated by two independent observers very familiar with both
+groups. To do so, each observer independently paired each indi-
+vidual of ZA group with the individual(s) most similar in body size
+belonging to the CH group. The two estimates per subject obtained
+in this way were averaged.
+In each group, we tested if the number of tool use episodes
+performed by each individual was related to its rank in the group
+dominance hierarchy. Individual rank in each group was estab-
+lished by Verderane (2010) as a part of her study on social rela-
+tionships of the two groups, based on all occurrences of contest
+competition analyzed through the Dominance Directed Tree
+method (Izar et al., 2006 ).
+Since our data did not follow a normal distribution (Lilliefors test,
+p < 0.05) for the analyses concerning sex differences in frequency of
+tool use, we used non-parametric statistics (using STATISTICA 7
+Statsoft). The mixed model regressions were run using Stata 10.1
+(StataCorp, 2007). For all analyses, the signi ﬁcance level was set at
+p < 0.05 and all reported probabilities are two tailed.
+Results
+Frequency of tool use
+During the study period, 22 capuchins (all individuals in both
+groups with the exception of one adult female, one juvenile female
+and the four infants) used stones to crack open nuts or other encased
+foods. We observed 1565 episodes of tool use in the two groups over
+the course of the study (0.92 episodes per hour/per group). Fourteen
+adults (seven males, seven females) performed 84% of the episodes
+(N ¼ 1310) and eight juveniles performed the remaining 16% of the
+episodes ( N ¼ 255). The seven adult males accounted for 73.5%
+(N ¼ 963) and the seven adult females for 26.5% (N ¼ 347) of the tool
+use episodes performed by adults. Tool use episodes primarily
+occurred on sandstone anvils (80%) and log anvils (19%); other
+substrates were rarely used (1%) ( Fig. 1). The monkeys used a stone
+as
+the percussor in 98.5% of the episodes. A palm nut was used as
+percussor in 24 episodes; 15 episodes to crack open another palm
+nut and nine episodes to crack open other food items.
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e10710 0
+
+PDF PAGE 5
+Of the nine juveniles, the two oldest (Tucum, an approximately
+two year-old male and Dita, an approximately three to four year-old
+female, at the beginning of the study) succeeded in opening intact
+nuts. The other juveniles often pounded nuts on hard surfaces and
+had success with tools only when cracking food items other than
+whole nuts, such as partially opened nuts. Finally, one juvenile
+female never used a tool (for further information see Spagnoletti,
+2009). Since juveniles used tools relatively infrequently, we only
+compare the data recorded for adult males and females.
+Sex differences in tool use by adults and food exploited
+As shown in Table 1, 86% of the episodes of tool use performed
+by adults involved palm nuts and 14% involved other food items.
+Adult males accounted for a higher number of nut cracking
+episodes than did adult females (median (interquartile range, IQR):
+130 (87.5) and 27 (29), respectively; Mann eWhitney, U ¼ 8, n
+m ¼ 7,
+nf ¼ 8, p < 0.05); whereas the number of episodes aimed at cracking
+food items other than nuts did not differ between males and
+females (median (IQR): 12 (5.5) and 14 (13), respectively; Man-
+neWhitney, U ¼ 27.5, nm ¼ 7, nf ¼ 8, p ¼ 0.95). For each group, the
+correlation between an individual ’s number of episodes of tool use
+and its social rank was not signi ﬁcant (CH group rs ¼ 0.05, n ¼ 11,
+p ¼ 0.88; ZA group rs ¼/C0 0.8, n ¼ 4, p ¼ 0.2).
+Monkeys used tools more frequently to crack low resistance
+nuts (66% and 70% of the episodes for males and females, respec-
+tively) than high resistance nuts (34% and 30% of the episodes for
+males and females, respectively). Adult males used tools to crack
+high resistance nuts signiﬁcantly more often than did adult females
+(ManneWhitney, U ¼ 5, n
+m ¼ 6, nf ¼ 6, p < 0.04), whereas there was
+no sex difference in the frequency of tool use to crack low resistance
+nuts (ManneWhitney, U ¼ 7, nm ¼ 6, nf ¼ 6, p ¼ 0.093).
+Efﬁciency at cracking nuts
+Table 2 reports the percentage of episodes resulting in success,
+number of strikes and duration of episodes for adult males and
+females to crack low resistance and high resistance nuts. The mixed
+model regression analyses, reported in Table 3, showed that success
+in cracking open nuts is predicted by nut resistance ( z ¼/C0 2.23,
+p < 0.05, N ¼ 423) but not by individual body mass, sex, rank, and
+weight of the hammer stone. Success at cracking high resistance
+nuts was predicted by individual body mass ( z ¼ 2.59, p < 0.01,
+N ¼ 1 10) and hammer weight (z ¼ 2.68, p < 0.01, N ¼ 1 10).
+The number of strikes needed to open nuts varied signiﬁcantly as
+a function of the individual body mass and the resistance of the nut,
+but not to the sex of the individual or the weight of the hammer
+stone ( Table 4 ; Figs. 2 and 3 ). The duration of episodes varied
+signiﬁcantly as a function of the resistance of the nuts, but not to the
+individual body mass, sex, and weight of the hammer stone
+(Table 4). The average duration ( /C6 standard deviation) per piassava
+nut cracking episode, calculated across 37 events for which data are
+available, is 185 /C6 159 s, with the maximum of about 13 minutes.
+Selection of hammer stones by the two sexes
+In most episodes, the monkeys used a hammer stone already
+present on the anvil when they arrived. In only 59 cases (3.4% of the
+episodes), they transported the hammer to the anvil. To crack palm
+nuts, the monkeys used hammers with a median weight of about
+one kilogram [males, 100 e3000 g (median (IQR) ¼ 1059 (23) g);
+N ¼ 373 nut cracking episodes; females 100 e2250 g (median
+(IQR) ¼ 991 (188) g); N ¼ 133 nut cracking episodes]. In contrast, to
+crack other food items, the monkeys used much lighter stones
+[males, 20 e400 g (median (IQR) ¼ 127 (64) g); N ¼ 18 episodes
+performed by ﬁve males; females, 40 e650 g (median (IQR) ¼ 14
+ 8
+(154) g); N ¼ 19 episodes performed by four females). The mixed
+model linear regression showed that the hardness and weight of
+the hammer stone used to crack open food were predicted by the
+resistance of the food item, but not by body mass and sex of the
+individual (Table 5).
+The mixed model linear regression split by sex indicated that the
+resistance of the food predicted the weight of the hammer stones
+Figure 1. An adult male (Jatoba) using a log anvil (left) and a sandstone anvil (right) (Photos by E. Visalberghi).
+Table 2
+Percentage of success, number of strikes and duration of the episode for adult males
+and females to crack low resistance and high resistance nuts.
+Low resistance nuts High resistance nuts
+Males Females Males Females
+Success % 93 87 90 62
+Strikes # 8 /C6 1.4 13 /C6 1.4 12 /C6 1.4 15 /C6 5.1
+Duration (s) 126 /C6 19 146 /C6 24 182 /C6 20 194 /C6 62
+N 190 68 100 29
+N ¼ number of episodes.
+Table 3
+Success, measured as number of strikes needed to crack a nut, in relation to indi-
+vidual’s body mass, sex, and rank, nut resistance, and weight of the hammer stone
+(nut cracking episodes: N ¼ 423).
+Independent variable Coef ﬁcient St. Error z-value p-value
+Body mass (kg) 0.094 0.595 0.16 0.875
+Sex 0.731 0.952 0.77 0.443
+Rank /C0 0.314 0.205 /C0 1.54 0.125
+Nut resistance /C0 0.789 0.354 /C0 2.23 < 0.05
+Weight of the hammer stone (kg) 0.478 0.387 1.24 0.216
+Intercept 2.96 1.302 2.27 0.023
+The overall model was signi ﬁcant (Wald
+c5
+2 ¼ 16, p ¼ 0.0068).
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e107 101
+
+PDF PAGE 6
+used by both sexes and that body mass predicted the weight of the
+hammer stones used by females ( Table 6 ). As shown in Fig. 4 ,
+females used signi ﬁcantly heavier hammers to crack open high
+resistance nuts than low resistance nuts [median (IQR): 1250 (180)
+g and 873 (189) g, respectively; Wilcoxon signed-ranks test, T ¼ 0,
+n ¼ 5, p ¼ 0.043; this analysis is based on the ﬁve females that
+cracked open high resistance palm nuts]. The weight of the
+hammers used by males to crack high resistance and low resistance
+nuts did not signi ﬁcantly differ [median (IQR): 1086 (129) g and
+1035 (154) g, respectively; Wilcoxon signed-ranks test, T ¼ 8, n ¼ 6,
+p ¼ 0.6, see Fig. 4 ].
+Discussion
+Despite their wide geographical distribution and their propen-
+sity to use tools spontaneously in captivity, capuchin monkeys have
+rarely been observed to use tools in the wild ( Visalberghi and
+Fragaszy, 2006 ). Only recently, tool use has been reported for
+a few wild populations living in the northeast region of Brazil, and
+most reports refer to C. libidinosus (Fragaszy et al., 2004b; Moura
+and Lee, 2010 ; for a review see Ottoni and Izar, 2008 ). Our study
+is the ﬁrst to analyze the frequency of tool use, success in the use of
+stone tools and stone selectivity on the basis of systematic ﬁeld
+observations of wild capuchins. We showed that all of the adult
+individuals belonging to two wild groups, except for one female,
+used hammer and anvil tools throughout the year to crack several
+species of palm nuts, as well as other encased foods. Juveniles were
+practicing the same activities, although with less success for their
+efforts. Our ﬁndings indicate that the capuchins at our study site
+fulﬁll both McGrew’s (1992) deﬁnition of habitual tool use (a
+pattern of behavior shown repeatedly by several members of the
+group), and Whiten et al. ’s (1999) deﬁnition of customary tool use
+(behavior that occurs in all or most able-bodied members of at least
+one age-sex class).
+Frequency of tool use
+Our ﬁrst prediction, that males would use tools to crack nuts
+more frequently than females, is supported, and further data
+collected by Sirianni (2010) with focal animal sampling
+conﬁrmed this pattern. This prediction was based on Key and
+Ross’s
+(1999) claim that when males ’ body mass exceeds
+females’ body mass by 60%, males will have greater daily energy
+expenditure than females, even if females must bear the ener-
+getic costs of reproduction. The ﬁnding that males cracked nuts
+(but not other food items) about ﬁve times more than females
+deserves further discussion. In particular, we should consider the
+effort and utility imposed by using a hammer stone in male and
+female capuchins.
+Though the use of tools to crack palm nuts has utility (the
+energetic gain deriving from performing an action) for both sexes,
+the magnitude of utility may differ between males and females. The
+stone’s kinetic energy when the stone contacts the nut is a key
+determining factor for the effectiveness of the strike (along with
+the direction of the force). Kinetic energy is determined by the
+velocity and mass of the stone. When no extra force is added to the
+stone, then velocity is determined by the height to which the stone
+is lifted. Biomechanically, body mass or characteristics that co-vary
+with mass (e.g., body length, strength) affect the kinetic energy
+with which the monkey can strike the nut. Adult female and
+juvenile capuchins have a smaller body size than adult males
+(Fragaszy et al., 2004b, 2010a). Adult males may add kinetic energy
+to the strike in the downward phase, whereas females are less able
+to do this ( Liu et al., 2009 ; see Fig. 5); moreover, males with longer
+limbs and bigger body size can lift the hammer stone higher than
+Table 4
+Number of strikes and latency to solution to crack open nuts in relation to individual ’s body mass and sex, nut resistance, and weight of the hammer stone.
+Independent variable Number of strikes a Latency to solution b
+Coefﬁcient St. Error z-Value p-Value Coef ﬁcient St. Error z-Value p-Value
+Body mass (kg) /C0 2.559 1.026 /C0 2.49 <0.05 /C0 34.480 28.913 /C0 1.19 0.233
+Sex 0.862 2.132 0.40 0.686 40.635 53.210 0.76 0.445
+Nut resistance 6.431 1.199 5.36 <0.001 72.805 15.233 4.78 <0.001
+Weight of the hammer stone (kg) /C0 1.746 1.258 /C0 1.39 0.165 /C0 14.729 15.503 /C0 0.95 0.342
+Intercept 3.292 3.378 0.97 0.330 25.705 61.518 0.42 0.676
+Nut cracking episodes: Na ¼ 314; Nb ¼ 338.
+a The overall model was signi ﬁcant (Wald c4
+2 ¼ 40.58, p ¼ 0.000).
+b The overall model was signi ﬁcant (Wald c4
+2 ¼ 24.18, p ¼ 0.0001).
+Figure 2. Mean number of strikes performed by adults to crack nuts of low resistance
+and high resistance. The bar represents the standard deviation. Figure 3. Mean number of strikes to crack open nuts in relation to body mass.
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e107102
+
+PDF PAGE 7
+females can. Because males can add extra force to the stone in the
+downward direction and can lift the stone higher, they can produce
+more effective strikes. Thus it is likely that the utility of cracking
+palm nuts with tools differs in the two sexes, being more advan-
+tageous for adult males than adult females. Analyses now
+underway of the relation between the work (in its technical sense
+as the kinetic energy added) added to the stone by individual males
+and females and the relative effectiveness of their strikes seems to
+support this view (Liu et al., unpublished results). Therefore,
+differential utilities of nut cracking in the two sexes may well be
+another important factor contributing to the higher frequency with
+which wild capuchin males use hammer stones to crack nuts.
+Capuchins present a different pattern of sex differences in
+percussive tool use than do chimpanzees, which may well be
+related to the utility of nut cracking in males and females of the two
+species. Adult male bearded capuchins in our study groups weigh
+64% more than adult females (3.5 kg vs. 2.1 kg; although published
+data indicate a lesser degree of dimorphism (34.8%) in wild
+C. apella, Ford and Davis, 1992 ). To crack open nuts, adult female
+capuchins at FBV used stones with a median weight of 991 g (i.e.,
+44e52% of their body mass, depending on the individual), whereas
+adult males used stones with a median weight of 1059 g (i.e.,
+24e40% of their body mass, depending on the individual).
+However, when experimentally provided with a 3.5 kg stone, both
+sexes can use it successfully (Liu, unpublished results). Body mass
+estimates for wild populations of Pan troglodytes verus that use
+tools to crack nuts are lacking. However, data obtained from wild
+specimens present in museums indicate that females of this
+subspecies have a median weight of 41.6 kg ( N ¼ 3) and the only
+male specimen has a weight of 46.3 kg ( Smith and Jungers, 1997 ).
+Wild female Pan troglodytes schweinfurthii have somewhat smaller
+body mass than males (Gombe: median weight of 31.3 kg for female
+and 39 kg for males, Pusey et al., 2005 ; Mahale: median weight of
+35 kg for females and 40 kg for males, Uehara and Nishida, 1987 ),
+but in all populations the sex difference is proportionally much
+smaller than for our population of capuchins. The heaviest per-
+cussor used by adult female chimpanzees to crack Panda oleosa nuts
+weighed 12 kg ( Boesch and Boesch, 1984 ), i.e., less than 29% of the
+weight reported for wild Pan troglodytes schweinfurthii females.
+Although an accurate comparison between the effort made by
+C. libidinosus and by Pan troglodytes verus to crack nuts should scale
+body mass to the 0.75 power (following Kleiber, 1961) and requires
+a better dataset for the latter species for body mass and the average
+weight of the hammers used by each sex, it still seems likely that
+cracking nuts requires more effort for female capuchins at FBV than
+female chimpanzees from Taï (for an estimate of nut cracking in one
+male chimpanzee, see Günther and Boesch, 1993 ).
+A further indication that nut cracking at FBV is more effortful for
+capuchins than for chimpanzees at Taï and Bossou comes from the
+fact that chimpanzees adopt a seated posture to crack nuts and
+mostly use one hand ( Matsuzawa, 1994; Boesch and Boesch-
+Achermann, 2000 ), whereas capuchin monkeys adopt a bipedal
+posture and use both hands ( Liu et al., 2009 ). To crack seeds softer
+than palm nuts, capuchins may use a small/light stone and hold it in
+one hand; this occurs both at our site ( Spagnoletti, 2009) and in the
+Serra da Capivara National Park, a site located at a distance of
+460 km from FBV (Falótico, personal communication). Therefore,
+the differential frequencies of nut cracking in male and female
+capuchins and chimpanzees can be accounted for by the degree of
+sexual dimorphism in body mass, as well as by the differential
+utilities of nut cracking (higher for male capuchins than for female
+capuchins; lower for male chimpanzees than for female
+chimpanzees).
+Differential utilities of cracking account also for the different
+patt
+ern with which capuchins of both sexes exploited encased
+foods. As we predicted, females used tools to crack high resistance
+nuts signiﬁcantly less often than males, whereas no sex difference
+was found for frequencies of cracking low resistance nuts and other
+encased foods. Females maximize the reliability of energetic return
+by cracking foods that they were virtually certain to be able to
+crack.
+However, three other factors might also have contributed to sex
+differences in frequency of tool use: male capuchins might have
+better access to anvil site due to their rank, and/or females might
+have a lower propensity to engage in risky activities (nut cracking is
+noisy, occurs on the ground and is easy to locate by predators)
+(Fragaszy, 1986; Rose, 1994 ), and/or males possess a higher
+propensity to perform pounding behaviors than females (as
+described by Visalberghi, 1988). Let us examine whether contri-
+butions by these three factors are supported.
+Table 5
+Hardness and weight of the hammer stone used by adults to crack open all food items in relation to individual ’s body mass and sex, and food resistance.
+Independent variable Hammer stone hardness a Hammer stone weight b
+Coefﬁcient St. Error z-Value p-Value Coef ﬁcient St. Error z-Value p-Value
+Body mass (kg) /C0 0.026 0.974 /C0 0.27 0.788 14.516 40.005 0.36 0.717
+Sex /C0 0.229 0.171 /C0 1.34 0.181 138.118 78.928 1.75 0.08
+Food resistance /C0 0.218 0.030 /C0 7.08 <0.001 332.434 34.645 9.60 <0.001
+Intercept 2.130 0.175 12.18 0.000 /C0 53.631 96.934 /C0 0.55 0.58
+Nut cracking episodes: Na ¼ 493; Nb ¼ 494.
+a The overall model was signi ﬁcant (Wald c3
+2 ¼ 62.24, p ¼ 0.000).
+b The overall model was signi ﬁcant (Wald c3
+2 ¼ 125.89, p ¼ 0.000).
+Table 6
+Weight of the hammer stone used by adult females and adult males to crack open all food items in relation to individual ’s body mass, and food resistance.
+Independent variable Adult females
+a Adult males b
+Coefﬁcient St. Error z-Value p-Value Coef ﬁcient St. Error z-Value p-Value
+Body mass (kg) 681.246 246.332 2.77 <0.05 /C0 1.586 39.806 /C0 0.04 0.968
+Food resistance 387.587 59.65 6.48 <0.001 295.912 42.136 7.02 <0.001
+Intercept /C0 1407.314 514.673 /C0 2.73 0.006 362.921 168.887 2.15 0.032
+Nut cracking episodes: Na ¼ 160; Nb ¼ 494.
+a The overall model was signi ﬁcant (Wald c2
+2 ¼ 54.02, p ¼ 0.000).
+b The overall model was signi ﬁcant (Wald c2
+2 ¼ 49.71, p ¼ 0.000).
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e107 103
+
+PDF PAGE 8
+In FBV, hammers suitable to crack nuts are rare in the landscape
+(Visalberghi et al., 2009a ) and an anvil site usually has only one
+hammer stone ( Visalberghi et al., 2007 ). Thus, the anvil sites are
+a valuable and limited resource, which might elicit both repeated
+use and competition among tool users. The ﬁrst point is supported
+by our observations showing that (a) the episodes of nut cracking
+(N ¼ 1565) occurred in only 122 different anvils (distributed over an
+area of 9 km
+2), and (b) nearly all of the episodes occurred in anvils
+where the hammer stone was already present ( Spagnoletti et al.,
+2010). Competition also occurred since typically an anvil site
+accommodates use by one individual at a time. Usually, while the
+nut cracker is at work, the other individuals “wait” nearby for their
+turn to use the anvil site. Although infants and juveniles are
+generally tolerated by tool users and often exploit the bits of nuts
+that become available on the anvil left from others ’ cracking
+(Visalberghi and Fragaszy, in press-b), adults are less tolerated. Only
+high-ranking individuals may try to displace the nut cracker. The
+nut cracker seems to signal its “possession” of the hammer (see
+Kummer and Cords, 1991) by maintaining contact (sometime with
+a foot) with it during the whole process of extraction. This is
+particularly evident with piassava nuts that have several kernels
+inside and need repeated bouts of handling with teeth and hands
+between strikes. The exploitation of these nuts lasts several
+minutes.
+Do the above results imply that rank affects an individual ’s
+likelihood to use tools leading to the observed sex difference in
+frequency of tool use? Although in both social groups living in FBV
+the frequency of agonistic interactions during nut cracking is higher
+than in other feeding contexts ( Verderane, 2010 ), our ﬁndings
+indicate that social rank and number of tool use episodes are not
+correlated. One dominant male, Zangado, was the most active tool
+user of his group, whereas the other dominant male, Chicão, was
+not. Both the third and the fourth ranking males used tools more
+often than Chicão (see Table 1). Though more difﬁcult to investigate
+given the small number of subjects, sex did not seem to affect
+frequency of tool use in similarly ranking individuals. However, to
+test whether access to the anvil site, and therefore likelihood to use
+tools, differs according to an individual ’s rank and sex, we need to
+examine situations in which several tool users (each carrying a nut)
+are close to the same anvil site with one hammer. This remains to
+be done.
+Though our study did not assess the propensity to engage in
+risky activities, studies exploring the degree of vigilance in the two
+sexes at FBV might be relevant to this issue. If females are less prone
+than males to engage in risky activities that might attract predators,
+such as nut cracking (that predators can easily detect by sound and
+that occurs on the ground from where it is dif ﬁcult to escape), then
+they should be particularly vigilant when engaging in this activity.
+For a small sample of FBV capuchins (two adult males and two adult
+females), vigilance during nut cracking did not differ between sexes
+(Cisco, 2006 ; Liu, unpublished results) and the analysis of activity
+budget revealed that in both groups males were more attentive to
+external events (i.e., more likely to give alarm vocalizations) than
+females (Verderane, 2010). Finally, females are as likely as males to
+be on the ground ( Spagnoletti et al., 2009 ). Therefore, females do
+not seem to be less active nutcrackers as a consequence of higher
+risk avoidance. Future studies should address this issue by inves-
+tigating vigilance in the two sexes during different activities and
+when the monkeys are using different substrates.
+Finally, it can be argued that the baseline rate of pounding
+objects predicts individual differences in the rate of using tools.
+Capuchins bring an object into contact with a surface using
+percussive actions within the ﬁrst year of life and these actions are
+an indispensable element in the development of nut cracking
+(Resende et al., 2008 ). If this is so, and if males are more likely than
+females to pound objects on surfaces, males would also be more
+likely to use percussive tools. In some studies with captive tufted
+capuchins ( C. apella spp.), males were more inclined to engage in
+pounding
+behavior than females (as described by Visalberghi,
+1988). Other studies indicate no sex differences in such activities
+Figure 4. Average weight of the hammer stones used by females and males when
+cracking nuts of high resistance and low resistance.
+Figure 5. An adult male, 4.2 kg (a) and an adult female, 2.2 kg; (b) crack open a piassava nut using a hammer stone weighing 3.5 kg on a log anvil. This stone is much heavier than
+the average hammer stone used by capuchins at FBV (1.1 kg). The male lifts the stone higher than the female. (Photo by E. Visalberghi).
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e107104
+
+PDF PAGE 9
+in captive capuchins ( Fragaszy and Adams-Curtis, 1991; Byrne and
+Suomi, 1996 ). In any case, we cannot examine this prediction
+because we do not yet have data on the rate of pounding food items
+on substrates by the capuchins in FBV. Future studies should
+investigate whether an individual ’s relative frequency of pounding
+behavior in non-tool-using contexts predicts its relative frequency
+of tool use.
+In sum, since social rank and vigilance can be ruled out, and data
+are not yet available to examine the hypothesis linking general
+pounding to use of tools, the differential utility of cracking for the
+two sexes deriving from the dimorphism in body size, seems the
+most plausible explanation for the higher frequency of nut cracking
+episodes by male capuchins. If this explanation is correct, then we
+should see the same pattern in other populations of bearded
+capuchins that use percussive tools, assuming equivalent degrees of
+sexual dimorphism and effort to extract the food. In the Serra da
+Capivara National Park (Piauí), a few hundred kilometers from our
+study site, wild capuchins use stones to crack fruit and seeds much
+less resistant than FBV nuts, and they extract tubers from the
+ground using stones as scraping or excavation tools, in addition to
+using sticks as probing tools and to ﬂush prey ( Falótico and Ottoni,
+2009; Mannu and Ottoni, 2009; Moura and Lee, 2010 ). Moura and
+Lee (2010) report that at this site, male bearded capuchins use tools
+signiﬁcantly more frequently than females, but due to the limited
+number of cases where the sex of the individual is reported (tool-
+using episodes N ¼ 173, episodes pounding with stone N ¼ 26),
+strong conclusions require replication of this ﬁnding. Apparently
+the sexes do not differ in the weight of the stone hammers chosen,
+nor in their ef ﬁciency (Falótico and Ottoni, unpublished results).
+Efﬁciency at cracking nuts
+In an experiment carried out in FBV in which 1 1 capuchins
+cracked whole and partially opened piassava (hard resistance nuts)
+with one stone, body mass was the single best predictor of efﬁ -
+ciency ( Fragaszy et al., 2010a ). The present study, evaluating efﬁ -
+ciency at cracking several species of nuts with a variety of stones,
+provides additional insights. Our second prediction, that heavier
+individuals would be more efﬁ cient, is supported. As in Fragaszy
+et al. (2010a) , larger individuals were more efﬁ cient (with all
+nuts, regardless of resistance), and they also enjoyed a higher rate
+of success in cracking high resistant nuts. However, body mass did
+not affect the duration of cracking episodes leading to cracking
+a nut. Apparently the duration of the episodes reﬂ ects parameters
+other than ef ﬁciency.
+Capuchins were successful in 84% of the episodes with high
+resistance palm nuts (piassava), 91% of the episodes with low
+resistance palm nuts (catulè and tucum), and 99% of the episodes
+involving other encased foods of very low resistance (e.g., caju). The
+piassava nuts have a peak-force-at-failure similar to that reported
+for Panda nuts, the more resistant nuts exploited by the Taï chim-
+panzees ( Boesch and Boesch, 1983 ). High resistance nuts have
+a peak-force-at-failure, which is on average 50% higher than low
+resistance nuts. Our third prediction, that nut resistance would
+affect ef ﬁciency, was supported. Nut resistance signi ﬁcantly
+affect
+ed the proportion of nuts attempted that were cracked, as
+well as the number of strikes to crack palm nuts, and duration of
+the episodes. We also found that monkeys were more successful
+when they used heavier hammers.
+Overall, we found that sex did not signi ﬁcantly affect ef ﬁciency.
+This contrasts with what has been described for chimpanzees
+where females not only perform stone tool use more, but also
+outperform males in the two most dif ﬁcult forms of stone tool use
+that chimpanzees practice ( Boesch and Boesch, 1984 ). This is
+certainly due to the different demands of nut cracking for the two
+species; cracking nuts is proportionally more strenuous for capu-
+chins than for chimpanzees (see above) and therefore body size and
+sometimes hammer weight are crucial factors whereas sex per se is
+not.
+Tool selectivity
+Our sixth prediction was that capuchins would select stone tools
+of suitable material and weight to obtain the food resource at hand.
+Two aspects of our ﬁndings support this prediction. First, monkeys
+of both sexes used heavier stones to crack nuts than to crack other
+encased food items. Second, females (but not males) used heavier
+stones when cracking high resistance nuts than when cracking low
+resistance nuts. The latter ﬁnding may indicate that females crack
+high resistance nuts only when the stone is heavy enough to allow
+success, and/or that only females with heavy body mass try to crack
+high resistance nuts, since in our sample only larger females (of
+about 2 kg) cracked high resistance nuts. In any case, female
+capuchins seem to take into account both the resistance of the nut
+and the weight of the stone when they decide whether or not to try
+to crack a nut. Occasionally, we saw a female arriving with a highly
+resistant nut to an anvil site with a light stone and leaving soon
+afterwards after making only a few strikes.
+Because capuchins tend to repeatedly use anvil sites containing
+stone tools, use of appropriate stones could simply be the
+byproduct of using the anvil sites where an appropriate hammer is
+already present. However, this hypothesis can be rejected.
+Visalberghi et al. (2009b) experimentally demonstrated that
+capuchins reliably choose hammer stones that are heavier and less
+friable when given a choice between two or more stones, and
+Fragaszy et al. (2010b) showed that the monkeys selected heavier
+stones to crack piassava nuts even when the difference in weight
+between the two stones varied in a ratio of 1.35:1. The present
+study shows differential use of heavier stones to crack nuts versus
+other encased food and that females use heavier stones to crack
+more resistant nuts.
+Conclusions
+Our ﬁndings demonstrate that bearded capuchins at FBV are
+habitual tool users and that they select a stone by weight to use as
+a precursor on the basis of the resistance of the encased food. These
+ﬁndings complement other ﬁndings from our team at this site.
+Capuchins use anvil sites repeatedly, they bring stones to anvils,
+they discriminate among nuts, anvil sites and stones, selecting
+speciﬁc combinations that suit current needs, and they position
+nuts systematically ( Visalberghi et al., 2007 , 2009a; Fragaszy et al.,
+2010b,c). This set of skills is unmatched by other monkey species
+that have occasionally been reported to use tools (although crab-
+eating macaques are also promising in this respect, Gumert et al.,
+2009), and fully comparable with what has been reported for
+chimpanzees concerning nut cracking. Phylogeny does not predict
+this pattern and therefore, nut cracking in capuchins likely arose
+independently of similar behaviors in Hominoidea.
+Nut cracking in capuchins offers a valuable opportunity to
+consider the behavioral and ecological correlates of stone tool use
+(Haslam et al., 2009 ). Further studies on the ecology of chimpanzee
+and capuchin populations that use stones as tools with those that
+do not, though living in habitats in which encased foods and per-
+cussors are available, might clarify the ecological factors and
+behavioral factors that contributed to the discovery of percussive
+tool use in these species, and possibly in the human lineage. In the
+case of bearded capuchins, percussive tool use is not restricted to
+populations in marginal habitats or to periods of low food avail-
+ability, as the behavior is present among bearded capuchins across
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e107 105
+
+PDF PAGE 10
+their range ( Ottoni and Izar, 2008 ) and occurs throughout the year
+at consistent rates in the capuchins at FBV ( Spagnoletti et al., 2008;
+Spagnoletti, 2009; Verderane, 2010 ; this study). Thus, the data call
+for alternative models incorporating, for example, dietary diversity
+and morphological characteristics ( Wright et al., 2009 ).
+Because hominins likely used stone hammers to crack open
+encased foods before they used stones to ﬂake (even with the
+simple techniques evident in the Oldowan material), living
+nonhuman primates have been used as models for early hominins.
+In particular, female supremacy in tool use in chimpanzees has
+inspired numerous scenarios of human evolution and of division of
+labor between the sexes (e.g., Isaac, 1978; Kuhn and Stiner, 2006 ).
+Our study suggests a more nuanced situation in capuchins rather
+than a simple sex difference. Adult male capuchins use stone tools
+to crack nuts more frequently than adult female capuchins, but
+body size is a better predictor of ef ﬁciency of tool use than sex.
+Therefore, we suggest that the physical requirement of lifting heavy
+stones to crack nuts favors heavier individuals, who are for the most
+part, males.
+Sexual dimorphism is most probably the primitive condition
+retained by humans from the common ancestors of living African
+apes and humans ( Lockwood et al., 1996 ). In Australopithecus afar-
+ensis and Australopithecus africanus , males seem to be almost
+double the size of females ( McHenry, 1992; McHenry and Berger,
+1998; though Reno et al., 2003 consider skeletal size dimorphism
+in A. afarensis similar to that of contemporary Homo sapiens ).
+Dimorphism in body size, and consequently muscular mass and
+strength, is more marked in our wild capuchin population than in
+humans and in chimpanzees (Fleagle, 1999; Aiello and Wells, 2002).
+Capuchins illustrate how tool use practices can be impacted by
+sexual dimorphism in body size, thus contributing to a compre-
+hensive scenario for the evolution of tool-using skills in the human
+lineage.
+Acknowledgements
+Permission to work in Brazil was granted by IBAMA and CNPq to
+DF and EV. Thanks to Fundação BioBrasil and to the Familia M for
+permission to work at FBV and Jozemar, Arizomar and Junior for
+their assistance in the ﬁeld; Eduardo D. Ramos da Silva and Michele
+P. Verderane for the data and Gabriele Schino for the support in
+statistical analyses; Qing Liu, Elsa Addessi, Valentina Truppa and
+Gloria Sabbatini for comments on this manuscript. We also thank
+David Begun, Editor of the JHE, Bill McGrew, and the other anony-
+mous referee. This research was funded by the National Geographic
+Society, Leakey Foundation, CNPq, FAPESP, CNR, EU-Analogy (STREP
+Contr. No 029088), La Sapienza University of Rome, Ethoikos srl,
+European project IM-CLeVeR FP7-ICT-IP-231722.
+References
+Aiello, L.C., Wells, J.C.K., 2002. Energetics and the evolution of the genus Homo.
+Annu. Rev. Anthropol. 31, 323 e338.
+Boesch, C., Boesch, H., 1983. Optimization of nut-cracking with natural hammers by
+wild chimpanzees. Behaviour 83, 265 e286.
+Boesch, C., Boesch, H., 1984. Possible causes of sex differences in the use of natural
+hammers by wild chimpanzees. J. Hum. Evol. 13, 415 e440.
+Boesch, C.H., Boesch-Achermann, H., 2000. The Chimpanzees of the Taï Forest.
+Oxford University Press, Oxford.
+Boinski, S., 2004. The beats of different drummers: percussion as sexual signaling
+among brown capuchins at Raleighvallen, Suriname. Folia Primatol. 75, 238.
+Boinski, S., Quatrone, R.P., Swartz, H., 2000. Substrate and tool use by brown
+capuchins in Suriname: ecological contexts and cognitive bases. Am. Anthropol.
+102, 741e761.
+Byrne, G., Suomi, S.J., 1996. Individual differences in object manipulation in a colony
+of tufted capuchins. J. Hum. Evol. 31, 259 e267.
+Canale, G.R., Guidorizzi, C.E., Kierulff, M.C.M., Gatto, C., 2009. First record of tool use
+by wild populations of the yellow-breasted capuchin monkey ( Cebus
+xanthosternos) and new records for the bearded capuchin ( Cebus libidinosus ).
+Am. J. Primatol. 71, 1 e7.
+Cisco, E., 2006. Analisi del comportamento di uso di strumenti per la rottura di noci
+in una popolazione di Cebus libidinosus in natura. Facoltà di Scienze matema-
+tiche, ﬁsiche e naturali. Università “La Sapienza ” di Roma.
+Davidson, I., McGrew, W.C., 2005. Stone tools and the uniqueness of human culture.
+J. Roy. Anthropol. Inst. 1 1, 793 e817.
+Falótico, T., Ottoni, E.B., 2009. Capuchin monkeys of caatinga: many tools for many
+things. Abstracts of the 46th Annual Meeting of the Animal Behavior Society.
+Pirenópolis, GO, p. 72.
+Fleagle, J.G., 1999. Primate Adaptation and Evolution, second ed. Academic Press,
+San Diego.
+Ford, S.M., Davis, L., 1992. Systematics and body size: implications for feeding
+adaptations in New World monkeys. Am. J. Phys. Anthropol. 88, 415 e468.
+Fragaszy, D.M., 1986. Time budgets and foraging behavior in wedge-capped capu-
+chins (Cebus olivaceus): age and sex differences. In: Taub, D.M., King, F.A. (Eds.),
+Current Perspectives in Primate Social Dynamics. Van Nostrand Reinhold, New
+York, pp. 159e174.
+Fragaszy, D.M., 1990. Sex and age differences in the organization of behaviour in
+wedge-capped capuchins. Behav. Ecol. 1, 81 e94.
+Fragaszy, D.M., Adams-Curtis, L.E., 1991. Generative aspects of manipulation in
+tufted capuchin monkeys ( Cebus apella). J. Comp. Psychol. 105, 387 e397.
+Fragaszy, D.M., Izar, P., Visalberghi, E., Ottoni, E.B., Oliveira, M.G., 2004a. Wild
+capuchin monkeys ( Cebus libidinosus) use anvils and stone pounding tools. Am.
+J. Primatol. 64, 359 e366.
+Fragaszy, D.M., Fedigan, L., Visalberghi, E., 2004b. The Complete Capuchin: the
+Biology of the Genus Cebus. Cambridge University Press, Cambridge.
+Fragaszy, D.M., Pickering, T., Liu, Q., Izar, P., Ottoni, E., Visalberghi, E., 2010a. Bearded
+capuchin monkeys ’ and a human ’se f ﬁciency at cracking palm nuts with stone
+tools: ﬁeld experiments. Anim. Behav. 79, 321 e3
+32.
+Fragaszy, D.M., Greenberg, R., Visalberghi, E., Ottoni, E., Izar, P., Liu, Q., 2010b. How
+wild bearded capuchin monkeys select stones and nuts to minimize the
+number of strikes per nut cracked. Anim. Behav. 80, 205 e214.
+Fragaszy, D.M., Allen, A., Wright, B., 2010c. Wild bearded capuchin monkeys (Piauí,
+Brazil) position nuts systematically into pits on anvils before striking the nuts
+with stone tools. Am. J. Primatol. 72 (Suppl.), 54 e55.
+Gumert, M.D., Kluck, M., Malaivijitnond, S., 2009. The physical characteristics and
+usage patterns of stone axe and pounding hammers used by long-tailed
+macaques in the Andaman Sea region of Thailand. Am. J. Primatol. 71, 594 e608.
+Günther, M.M., Boesch, C., 1993. Energetic cost of nut-cracking behaviour in wild
+chimpanzees. In: Preuschoft, H., Chivers, D.J. (Eds.), Hands of Primates. Springer,
+New York, pp. 109 e129.
+Haslam, M., Hernandez-Aguilar, A., Ling, V., Carvalho, S., de la Torre, I., De
+Stefano, A., Du, A., Foley, R., Hardy, B., Harris, J., Marchant, L., Matsuzawa, T.,
+McGrew, W., Mercader, J., Mora, R., Petraglia, M., Roche, H., Visalberghi, E.,
+Warren, R., 2009. Primate archaeology. Nature 460, 339 e344.
+Isaac, G., 1978. The food-sharing behavior of protohuman hominids. Sci. Am. 238,
+90e108.
+Izar, P., Ferreira, R.G., Sato, T., 2006. Describing the organization of dominance
+relationships by dominance directed tree method. Am. J. Primatol. 68, 189 e207.
+Key, C., Ross, C., 1999. Sex differences in energy expenditure in non-human
+primates. Proc. R. Soc. Lond. B 266, 2479 e2485.
+Kleiber, M., 1961. The Fire of Life. Wiley, New York.
+Kuhn, S.L., Stiner, M.C., 2006. What ’s a mother to do: a hypothesis about the division
+of labor among Neandertals and modern humans. Curr. Anthropol. 47,
+953e980.
+Kummer, H., Cords, M., 1991. Cues of ownership in long-tailed macaques, Macaca
+fascicularis. Anim. Behav. 42, 529 e549.
+Liu, Q., Simpson, K., Izar, P., Ottoni, E., Visalberghi, E., Fragaszy, E., 2009. Kinematics
+and energetics of nut-cracking in wild capuchin monkeys ( Cebus libidinosus )i n
+Piauí, Brazil. Am. J. Phys. Anthropol. 138, 210 e220.
+Lockwood, C.A., Richmond, B.G., Jungers, W.L., Kimbel, W.H., 1996. Randomization
+procedures and sexual dimorphism in Australopithecus afarensis . J. Hum. Evol.
+31, 537e548.
+Lonsdorf, E.V., Pusey, A.E., Eberly, L., 2004. Sex differences in learning in chim-
+panzees. Nature 428, 715 e716.
+Mannu, M., Ottoni, E.B., 2009. The enhanced tool-kit of two groups of wild bearded
+capuchin monkeys in the caatinga: tool making, associative use, and secondary
+tools. Am. J. Primatol. 71, 242 e251.
+Martin, P., Bateson, P., 1993. Measuring Behaviour: an Introductory Guide, second
+ed. Cambridge University Press, Cambridge.
+Matsuzawa, T., 1994. Field experiments on use of stone tools by chimpanzees in the
+wild. In: Wrangham, R.W., McGrew, W.C., de Waal, F.B.M., Heltne, P.G. (Eds.),
+Chimpanzee Cultures. Harvard University Press, Cambridge, pp. 351 e370.
+McGrew, W.C., 1979. Evolutionary implications of sex differences in chimpanzee
+predation and tool use. In: Hamburg, D.A., McCown, E. (Eds.), The Great Apes.
+Benjamin/Cummings, Menlo Park, pp. 441 e463.
+McGrew, W.C., 1992. Chimpanzee Material Culture. Cambridge University Press,
+Cambridge.
+McHenry, H.M., 1992. Body size and proportions in early hominids. Am. J. Phys.
+Anthropol. 87, 407 e431.
+McHenry, H.M., Berger, L.R., 1998. Body proportions in Australopithecus afarensis and
+A. africanus and the origin of the genus Homo. J. Hum. Evol. 35, 1 e22.
+Mour
+a, A., 2007. Stone banging by wild capuchin monkeys: an unusual auditory
+display. Folia Primatol. 78, 36 e45.
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e107106
+
+PDF PAGE 11
+Moura, A., Lee, P., 2004. Capuchin stone tool use in caatinga dry forest. Science 306,
+1909e1910.
+Moura, A., Lee, P., 2010. Wild capuchins show male-biased feeding tool use. Int. J.
+Primatol. 31, 457 e470.
+Ottoni, E.B., Izar, P., 2008. Capuchin monkey tool use: overview and implication.
+Evol. Anthropol. 17, 171e178.
+Ottoni, E.B., Mannu, M., 2001. Semi free-ranging tufted capuchins ( Cebus apella)
+spontaneously use tools to crack open nuts. Int. J. Primatol. 22, 347 e358.
+Pandolﬁ, S.S., van Schaik, C.P., Pusey, A.E., 2003. Sex differences in termite ﬁshing
+among Gombe chimpanzees. In: de Waal, F.B.M., Tyack, P.L. (Eds.), Animal Social
+Complexity: Intelligence, Culture and Individualized Societies. Harvard
+University Press, Cambridge, pp. 414 e418.
+Plavcan, J.M., 2004. Sexual selection, measures of sexual selection, and sexual
+dimorphism in primates. In: Kappeler, P.M., van Schaik, C.P. (Eds.), Sexual
+Selection in Primates, New and Comparative Perspectives. Cambridge Univer-
+sity Press, Cambridge, pp. 230 e252.
+Pusey, A.E., Oehlert, G.W., Williams, J.M., Goodall, J., 2005. The in ﬂuence of
+ecological and social factors on body mass of wild chimpanzees. Int. J. Primatol.
+26, 3 e31.
+Rabe-Hesketh, S., Skrondal, A., 2008. Multilevel and Longitudinal Modeling Using
+Stata, second ed. Stata Press, College Station.
+Ramos da Silva, E.D., 2008. Escolha de alvos coespeci ﬁcos na observação do uso de
+ferramenta por macaco-prego ( Cebus libidinosus ) selvagens. Tese de Mestrado
+em Psicologia Experimental, Universidade de São Paulo.
+Reno, P.L., Meindl, R.S., McCollum, M.A., Lovejoy, C.O., 2003. Sexual dimorphism in
+Australopithecus afarensis was similar to that of modern humans. Proc. Nat.
+Acad. Sci. 100, 9404 e9409.
+Resende, B.D., Ottoni, E.B., Fragaszy, D.M., 2008. Ontogeny of manipulative behavior
+and nut-cracking in young tufted capuchin monkeys Cebus apella: a perception-
+action perspective. Develop. Sci. 1 1, 828 e840.
+Rose, L.M., 1994. Sex differences in diet and foraging behavior in white-faced
+capuchins ( Cebus capucinus ). Int. J. Primatol. 15, 95 e114 .
+Schrago, C.G., Russo, C.A., 2003. Timing the origin of New World monkeys. Mol. Biol.
+Evol. 20, 1620 e1625.
+Sirianni, G., 2010. Processamento del cibo in una popolazione di Cebus libidinosus
+(Spix, 1823). Master ’s Thesis, Università La Sapienza di Roma.
+Smith, R.J., Jungers, W.L., 1997. Body mass in comparative primatology. J. Hum. Evol.
+32, 523 e559.
+Spagnoletti, N., 2009. Uso di strumenti in una popolazione di Cebus libidinosus allo
+stato selvatico in Piauí, Brasile. Ph.D. Dissertation, Università La Sapienza di Roma.
+Spagnoletti, N., Izar, P., Visalberghi, E., 2008. Effects of food availability on tool use of
+wild bearded capuchin monkey ( Cebus libidinosus ). In: XXII Congress of the
+International Primatological Society (abstract).
+Spagnoletti, N., Izar, P., Visalberghi, E., 2009. Tool use and terrestriality in wild
+bearded capuchin monkey ( Cebus libidinosus ). 3rd Congress of the European
+Federation for Primatology. Folia Primatol. 80, 106 e174.
+Spagnoletti, N., Visalberghi, E., Presotto, A., Izar, P., 2010. Spatial distribution of
+resources for the occurrences of nut cracking with tools in wild bearded
+capuchins ( Cebus libidinosus ). In: XXIII Congress of the International Primato-
+logical
+Society (abstract).
+StataCorp, 2007. Stata Statistical Software: Release 10. Stata Press, College Station.
+Tooby, J., DeVore, I., 1987. The reconstruction of hominid behavioral evolution
+through strategic modeling. In: Kinzey, W.G. (Ed.), The Evolution of Human
+Behavior: Primate Models. SUNY Press, New York, pp. 183 e237.
+Uehara, S., Nishida, T., 1987. Body weights of wild chimpanzees ( Pan troglodytes
+schweinfurthii) of the Mahale Mountains National Park. Am. J. Phys. Anthropol.
+72, 315e321.
+Verderane, M.P., 2010. Socioecologia de macacos-prego ( Cebus libidinosus ) em área
+de ecótono cerrado/caatinga. Ph.D. dissertation, Universidade de São Paulo.
+Visalberghi, E., 1988. Responsiveness to objects in two social groups of tufted
+capuchin monkeys ( Cebus apella). Am. J. Primatol. 15, 349 e360.
+Visalberghi, E., Fragaszy, D., 2006. What is challenging about tool use? The capu-
+chins’ perspective. In: Wasserman, E.A., Zentall, T.R. (Eds.), Comparative
+Cognition: Experimental Explorations of Animal Intelligence. Oxford University
+Press, Oxford, pp. 529 e552.
+Visalberghi, E., Fragaszy, D. The EthoCebus project. Stone tool use by wild capuchin
+monkeys. In: Sanz, C., Call, J., Boesch, C. (Eds.), Multidisciplinary Perspectives on
+the Cognition and Ecology of Tool Using Behaviors. Cambridge University Press,
+Cambridge, in press-a.
+Visalberghi, E., Fragaszy, D. Learning how to forage. Socially biased individual
+learning and “niche construction ” in wild capuchin monkeys. In: de Wall, F.,
+Ferrari, P.F. (eds.), The Primate Mind. Harvard University Press, in press-b.
+Visalberghi, E., Fragaszy, D., Ottoni, E., Izar, P., de Oliveira, M.G., Andrade, F.R.D.,
+2007. Characteristics of hammer stones and anvils used by wild bearded
+capuchin monkeys ( Cebus libidinosus ) to crack open palm nuts. Am. J. Phys.
+Anthropol. 132, 426 e444.
+Visalberghi, E., Sabbatini, G., Spagnoletti, N., Andrade, F.R.D., Ottoni, E., Izar, P.,
+Fragaszy, D., 2008. Physical properties of palm fruits processed with tools by
+wild bearded capuchins ( Cebus libidinosus ). Am. J. Primatol. 70, 884 e891.
+Visalberghi, E., Spagnoletti, N., Ramos da Silva, E.D., de Andrade, F.R., Ottoni, E.,
+Izar, P., Fragaszy, D., 2009a. Transport of hammer tools and nuts by wild
+capuchin monkeys. Primates 50, 95 e104.
+Visalberghi, E., Addessi, E., Truppa, V., Spagnoletti, N., Ottoni, E., Izar, P., Fragaszy, D.,
+2009b. Selection of effective stone tools by wild capuchin monkeys. Curr. Biol.
+19, 213e217.
+Waga, I.C., Dacier, A.K., Pinga, P.S., Tavares, M.C.H., 2006. Spontaneous tool use by
+wild capuchin monkeys ( Cebus libidinosus ) in the cerrado. Folia Primatol. 77,
+337e344.
+Whiten, A., Goodall, J., McGrew, W.C., Nishida, T., Reynolds, V., Sugiyama, Y.,
+Tutin, C.E.G., Wrangham, R.W., Boesch, C., 1999. Cultures in chimpanzees.
+Nature 399, 682 e685.
+Wright, B.W., Wright, K.A., Chalk, J., Verderane, M.P., Fragaszy, D., Visalberghi, E.,
+Izar, P., Ottoni, E.B., Constantino, P., Vinyard, C., 2009. Fallback foraging as a way
+of life: using dietary toughness to compare the fallback signal among capuchins
+and implications for interpreting morphological variation. Am. J. Phys.
+Anthropol. 140, 687 e699.
+N. Spagnoletti et al. / Journal of Human Evolution 61 (201 1) 97 e107 107

@@ -1,0 +1,1364 @@
+PDF PAGE 1
+Habitual tool use on monopolizable resources
+alters group cohesion
+Zoë Goldsborough1,2,3,4,*, Margaret C. Crofoot1,2,3,4, Pranav Minasandra1, Julián León1,5,4, Pedro L.
+Castillo-Caballero4, Evelyn del Rosario-Vargas4, Brendan J. Barrett1,2,3,4,**,
+1 Department for the Ecology of Animal Societies, Max Planck Institute of Animal Behavior,
+78467, Konstanz, Germany
+2 Department of Biology , University of Konstanz, 78464, Konstanz, Germany
+3 Center for the Advanced Study of Collective Behavior, University of Konstanz, 78464,
+Konstanz, Germany
+4 Smithsonian T ropical Research Institute, Ancon, 0843-03092, Panama
+5 Department of Biology , Universidad del Rosario, Bogotá, 111221, Colombia
+Corresponding authors:
+∗ zgoldsborough@outlook.com
+∗∗ bbarrett@ab.mpg.de
+Abstract1
+Tool-aided extractive foraging expands access to novel foods, but its effects on social dynamics are less2
+understood. When tool-use resources are monopolizable, tool use may increase intragroup competition.3
+While intragroup competition encourages reduced cohesion, this comes at the cost of increased vulnerability4
+to predation and intergroup conflict. We examined how use of spatially fixed, monopolizable resources,5
+anvils, influences cohesion by comparing groups of tool-using and non-tool-using white-faced capuchins6
+(Cebus capucinus imitator ) on Jicarón Island in Coiba National Park, Panama. Jicarón lacks terrestrial7
+mammalian predators and stone tool use is locally restricted to a∼2 km stretch of coast. We deployed two8
+grids of camera traps to compare daily activity patterns, and temporal variation in party size, party9
+composition, and spatial cohesion. We compared observed patterns with simulations of groups exhibiting10
+different cohesion regimes. We found that tool-using capuchins showed smaller, less variable party sizes than11
+non-tool-using capuchins. Adult females and adult males were less likely to co-occur in a sequence.12
+Tool-using and non-tool-using capuchins differed in their patterns of spatiotemporal cohesion. Simulations13
+support that these patterns are consistent with the tool-using group engaging in fission-fusion subgrouping.14
+Although only male capuchins use tools, the entire tool-using group shows reduced cohesion, suggesting that15
+increased competition for one sex can have cascading effects within the group. Our findings suggest that16
+habitual tool use relying on monopolizable resources incentivizes lower group cohesion. This creates17
+differences in the social environment of tool-using and non-tool-using animals sharing a habitat, and reveals18
+culture as a potential driver of social organization.19
+Keywords: culture; primates; behavioral ecology; social structure; intragroup competition20
+1
+
+PDF PAGE 2
+Introduction21
+Across human societies, culture (i.e., socially-learned behaviors transmitted across and within generations) is22
+intertwined with social structure. An individual’s learned behavioral repertoire is shaped by their close23
+associations [1, 2] and culture influences how and with whom they associate [3–5]. Culture is also widespread24
+in non-human animals [6–8]. The roles of social tolerance and social demography in the spread of cultural25
+behavior have been considered theoretically [9–11] and experimentally [12–14]. However, the reverse26
+influence, how culture shapes social structure, remains understudied [15]. Most research on this topic has27
+focused on cetaceans [15, 16] with limited empirical evidence for culture affecting social structure. One28
+example is the finding that dolphins who adopted a cultural behavior (a foraging technique of following29
+trawling boats) became temporarily socially segregated from group members who did not adopt [17].30
+Understanding the bi-directional relationship between culture and social bonds is key as both can affect31
+fitness [7, 18–21]. Further, expanding this research to other animal taxa can help identify general32
+mechanisms linking culture and social structure, also informing hypotheses about the role of these processes33
+in hominin evolution. One way to examine the effect of culture on social structure in wild animals is by34
+contrasting comparable groups of the same species with and without a particular cultural trait.35
+Tool use and intragroup competition36
+Percussive tool use is a tradition uniquely suited to this approach, because there is great within- and37
+between-population variation in its expression. Hammerstone and anvil tool use is known to exist in at least38
+four primate taxa chimpanzees (Pan troglodytes) [22], macaques (Macaca fascicularis spp.) [23, 24], robust39
+capuchins (Sapajus spp. [25]), and gracile capuchins (Cebus capucinus imitator ) [26, 27]). While there is40
+variation among taxa in which populations of the same or related species perform percussive tool use [25, 28,41
+29], only gracile capuchins in Coiba National park show this variation at the species level in neighboring42
+groups living on the same islands [26, 27].43
+The presence of hammerstone and anvil tool use may affect social dynamics. A habitual reliance on tool44
+use at fixed anvils creates repeated access to spatially fixed and monopolizable resources. In group-living45
+species, such conditions are predicted to increase intragroup contest competition (i.e., direct competition over46
+monopolizable resources), yet this has rarely been tested empirically. Evidence from bearded capuchin47
+monkeys (Sapajus libidinosus) suggests increased competition in tool-using females, as they showed higher48
+aggression rates at anvil sites, but the social structure of the study population was comparable to49
+non-tool-using populations [30]. This hypothesis has not yet been evaluated in other species, perhaps due to50
+the difficulty of ruling out ecological factors that might explain the lack of tool use and thus identifying51
+appropriate comparisons. If tool use on monopolizable resources can indeed increase intragroup competition,52
+how could this competition be mitigated, and what effect would it have on social dynamics?53
+Group cohesion and fission-fusion dynamics54
+Living in a social group is beneficial in myriad ways, including decreased predation risk, higher discovery55
+rates of novel habitats and resources, and increased mating opportunities [31, 32]. However, living in groups56
+also comes with drawbacks, such as more resource competition within the group, and higher risks of disease57
+[31]. One way to reduce contest competition is by reducing spatial-temporal overlap among group members,58
+thereby decreasing opportunities for direct competition over resources. This is consistent with findings from59
+feral horse populations, where monopolizable resources (e.g., water) increased within-group contest60
+competition and led to reduced social cohesion [33]. However, this reduced cohesion comes at the cost of61
+increased predation vulnerability and intergroup competition. Social groups may balance these tradeoffs of62
+group size via flexible spatiotemporal associations with group-members.63
+The extent of variation in spatiotemporal cohesion of group members are called fission-fusion dynamics—64
+a multi-dimensional, flexible concept reflecting temporal variation in i) spatial cohesion among group65
+members, ii) party size and, iii) party composition [34]. Fission-fusion behavior is characterized by fission (a66
+group splitting into smaller subgroups) and fusion (subgroups merging into a larger group) events [35]. It is67
+flexible and occasionally inconsistent within species [34]. A higher degree of fission-fusion behavior can occur68
+2
+
+PDF PAGE 3
+in response to environment, such as reduced predation risk, or more scarce or dispersed food resources. One69
+study comparing two species ofSapajus capuchins found that the species experiencing less predation and70
+more dispersed, low-quality resources foraged in subgroups more frequently (i.e., showed a higher degree of71
+fission-fusion behavior) than the species with more predation and clumped, high-quality resources [36]. In72
+various primate species, fissioning was found to occur more frequently when food resources were scarce73
+[37–39]. Comparable fission–fusion dynamics are observed across non-primate taxa, where variation in74
+predation risk and resource distribution shapes grouping decisions in ways consistent with ecological75
+constraints models [31, 32, 40].76
+A natural experiment in tool use and social dynamics77
+Disentangling the effects of cultural behavior from ecological variation on social structure is challenging,78
+because both often covary across populations and environments. One system where this can be addressed is79
+white-faced capuchins (Cebus capucinus imitator ) living on Jicarón island, Coiba National Park, Panama.80
+This island and the neighboring island of Coiba are the only two sites in the world where natural populations81
+of gracile capuchins habitually perform percussive hammerstone and anvil tool use [26, 27]. On Jicarón, tool82
+use is further localized to an approximately 2 km stretch of coast, occupied by a maximum of three capuchin83
+groups [41]. Despite there being no physical boundaries, differences in material availability, or other clear84
+ecological differences, habitual hammerstone and anvil tool use does not occur in capuchin groups living in85
+other parts of the island [26]. It is therefore possible to directly compare tool-using and non-tool-using86
+groups of the same species in the same habitat.87
+Both tool-using and non-tool-using groups have minimal predation risk due to an absence of terrestrial88
+predators [42] and show decreased vigilance and neophobia. Capuchins also live at high density [26, 43],89
+which may lead to more relaxed intergroup interactions [44] — though on Barro Colorado Island, capuchins90
+occur at high density yet have more intense intergroup encounters [45]. Predation pressure and intergroup91
+competition are two major factors driving group cohesion [32, 46], and relaxation of these pressures on92
+Jicarón means we expect the capuchins to be overall less socially cohesive than mainland capuchins. In93
+long-term study sites on the mainland, white-faced capuchins are generally described to forage as a cohesive94
+group and resting together (e.g. grooming, playing) at the hottest part of the day [47]. Capuchins might95
+scatter widely while foraging [48, 49], but individuals do not generally travel independently of other group96
+members and remain in contact via frequent vocalizations [49]. As such, they are not described as a species97
+with a high degree of fission-fusion grouping.98
+Due to the variation in tool use behavior within Jicarón island, we can directly assess whether presence of99
+tool use is linked to differences in social dynamics. Because terrestrial predators are absent on Jicarón and100
+both groups experience similar environmental conditions, this system offers a rare opportunity to isolate the101
+potential effects of competition over monopolizable resources. Comparable to findings by [30], there might be102
+increased competition over spatially fixed, usurpable anvil sites, favoring solo foraging or less cohesive103
+grouping to mitigate this competition. The stone tool use on Jicarón appears to be a largely solitary activity104
+[50], and during in-person observations the tool-using group appears very spread out, providing some support105
+for this hypothesis. Furthermore, since tool-use is an exclusively male activity on Jicarón [51], only males106
+would be predicted to experience increased intragroup competition, which could have cascading effects on107
+both within- and between-sex social interactions.108
+Aim109
+Here, we systematically assess this question by comparing one group of tool-using and one group of110
+non-tool-using white-faced capuchins of similar size and composition living on Jicarón island in Coiba111
+National Park, Panama. Both groups border the coast, where similar resources are available (e.g., coastal112
+species like sea almonds, as well as intertidal resources). Using two grids of camera traps, we compare daily113
+activity patterns and fission-fusion dynamics between tool-using and non-tool-using capuchins. Following114
+[34], we quantify the degree of fission-fusion dynamics through temporal variation in three dimensions: 1)115
+party size, 2) party composition, and 3) spatial cohesion. We developed an agent-based group movement116
+model to test specific, quantitative predictions based on our hypotheses. Agents could either move (a)117
+3
+
+PDF PAGE 4
+‘together’ as one group; (b) as two non-interacting ‘subgroups’; or (c) as entirely ‘separate’ entities not118
+influencing each others’ movements. A grid of simulated camera traps then recorded observations of these119
+animals when the animals approached within a threshold distance (specific to each camera trap). We120
+compared metrics computed from real observations with metrics obtained from these simulated camera trap121
+observations. We expect that—if tool use increases intragroup competition—the tool-using group will be less122
+cohesive and/or show more fission-fusion behavior than the non-tool-using group (Fig. 1).123
+more cohesive [one group] less cohesive [subgroups]
+party size &
+composition
+spatiotemporal
+cohesion camera trap
+separate [individuals]
+Figure 1: Overview of measurements of cohesion from camera trap data, with as an example a cohesive group
+moving together (left), a less cohesive group moving in subgroups (middle), and every individual moving
+separately (right). Party size and composition are measured within detections of capuchins by camera traps,
+while spatiotemporal cohesion is assessed by considering the relationship between capuchin detections.
+Results124
+Daily activity patterns125
+The daily activity of tool-using and non-tool-using groups overlapped considerably (coefficient of overlap =126
+0.857, 95 % CI [0.854-0.860]) (Fig. 2). The non-tool-using group showed slightly more activity in the127
+morning, and the tool-using group considerable more activity in the afternoon. A striking difference is the128
+presence of nocturnal terrestrial (after sunset and before sunrise) activity by the tool-using group, which was129
+absent in the non-tool-using group. Six sequences (a sequence is all images from a camera trap triggered130
+within 30 seconds of one another) show capuchins from the tool-using group traveling on the ground between131
+19:00 and 05:00, when it is dark. For the tool-using group, there was also one camera location where132
+capuchin sightings were two times higher in the morning (< 7:00) and evening (> 17:00) than at other133
+cameras, which might be located near a likely sleep-site. For the non-tool-using group there was no single134
+camera location with much greater capuchin activity in the early morning and late evening.135
+(Social) party size136
+Based on identifiable individuals and maximum observed co-occurrence across age–sex classes, we inferred137
+that the two capuchin groups were comparable in size and composition (Table 1). Despite this similarity in138
+group size, we never observed more than 10 individuals together in a sequence in the tool-using group, while139
+in the non-tool-using group the largest party size was 16. Importantly, these values reflect partial detections140
+of parties, as camera traps might capture only a subset of individuals present and under-represent true party141
+size [52]. Since 69% of sequences contained only a single capuchin, we focused on comparing ‘social party142
+4
+
+PDF PAGE 5
+0 5 10 15 20
+0.00 0.01 0.02 0.03 0.04 0.05
+Time of day
+Activity density
+Tool−users mean
+Non−tool−users mean
+Overlap
+Figure 2: Density plots of daily activity of tool-using group (in orange) and non-tool-using group (in green).
+The thick line reflects the model estimates, the shaded gray the area of overlap, and the dotted lines the 95%
+confidence intervals. Circles are used to represent the observations of capuchins during the night.
+size’, where parties of 1 are reflected as a 0, and each number above 0 reflects the number of other partners143
+available, to account for this skew through hurdle-modeling. When comparing the social party size, we found144
+different results for the zero and non-zero component of the model (Fig. 3A & D, for model estimates see145
+Table S1). Singletons were slightly more common in the tool-using group than the non-tool-using group,146
+although there was weak evidence for this effect (i.e., less than 80% of the posterior distribution of the147
+contrast was on one side of 0). The model estimated a 1.8% increase (PP > 0: 0.69, Fig. 3B) in the148
+probability of observing single parties in the tool-using group (estimated probability of 0 = 0.73, 95% CI149
+[0.68, 0.78]) compared to the non-tool-using group (estimate = 0.71, 95% CI [0.66, 0.76]). However, when150
+parties larger than a single individual were observed, they were likely to be larger in the non-tool-using group151
+than the tool-using group. We have strong evidence (PP > 0: 0.96, Fig. 3E) that there are larger social152
+parties in the non-tool-using group (estimate = 1.36, 95% CI [1.09, 1.63]) than in the tool-using group153
+(estimate = 1.05, 95% CI [0.82, 1.28]).154
+To interpret these patterns, we compared the empirical results to the most comparable simulation155
+condition (20 capuchins, 25 cameras). These simulations showed that varying cohesion produces distinct156
+social party size patterns (Fig. 3C & F, for model estimates see Table S2 and for simulation details see157
+Methods). Simulated capuchins moving in two subgroups were considerably more likely to have singleton158
+detections by camera traps than capuchins moving together (PP > 0:≈ 1) . Capuchins moving together159
+were estimated to have higher average social party sizes in detections than those moving in two subgroups160
+(PP > 0: ≈ 1). A broader exploration of simulations varying capuchin number (10–50) and camera coverage161
+(4–81 cameras) produced qualitatively similar trends (Figs. S2-S5).162
+5
+
+PDF PAGE 6
+0.66
+0.69
+0.72
+0.75
+0.78
+Tool−users Non−tool−users
+Grid location
+Probability of 0
+(single party)
+(A)
+−0.4
+0.0
+0.4
+0.8
+0.0 0.2 0.5 0.8 1.0
+Density
+βhu (Tool−users)
+(B)
+0.4
+0.6
+0.8
+1.0
+Separate Sub−groups Together
+Condition
+Probability of 0
+(single party)
+(C)
+1.00
+1.25
+1.50
+Tool−users Non−tool−users
+Grid location
+Mean social party size
+(if >0)
+(D)
+−1.0
+−0.5
+0.0
+0.0 0.2 0.5 0.8 1.0
+Density
+βµ (Tool−users)
+(E)
+1
+2
+3
+4
+5
+Separate Sub−groups Together
+Condition
+Mean social party size
+(if >0)
+(F)
+Figure 3: Model estimates from hurdle-Poisson models comparing mean social party size between the tool-
+using and non-tool-using group in the real data (panels A and D) and between varying levels of cohesiveness
+in simulated data (panels C and F). The top (panels A-C) show model estimates of the zero (hu) component
+of the models, and the bottom (panels D-F) the non-zero (mu) component. Points reflect averages estimated
+by the model, and the whiskers the 95% credible interval. Panels B and E show the posterior distributions of
+the MCMC-estimated contrasts for the hu and mu components corresponding to panels A and D, with 80%
+and 95% credible intervals.
+Party composition163
+Due to camera traps’ limited view and the quick passage of many individuals, reliable aging and sexing of164
+individual capuchins was not feasible in all sequences. Adult sex was most reliably classified (sex assigned to165
+93% of observed adults), and as such we focused on presence of adult males and adult females to compare166
+party composition. Adult females were more likely to be seen together in the non-tool-using group than in167
+the tool-using group (for model estimates see Table S3). Our model estimated a higher mean number of168
+adult females present in a sequence in the non-tool-using group (0.36, 95% CI [0.31, 0.42]) than in the169
+tool-using group (0.27, 95% CI [0.22, 0.31]), and evidence for this effect was strong (PP > 0: 0.98). Adult170
+males were also more likely to be seen together in the non-tool-using group than in the tool-using group (see171
+Table 4 for model estimates). Our model comparing the number of adult males estimated strong evidence172
+(PP > 0: ≈ 1) for a higher mean number of adult males present in a sequence in the non-tool-using group173
+(0.32, 95% CI [0.26, 0.38]) than in the tool-using group (0.18, 95% CI [0.15, 0.22]). Both models estimated a174
+different relationship between the number of adult females and number of adult males present for the175
+tool-using and non-tool-using group (see Fig. S6). In the non-tool-using group the models estimated a176
+positive relationship: the more adult males were observed, the more adult females were observed. In the177
+tool-using group, the relationship was negative: the more adult males observed, the fewer adult females.178
+6
+
+PDF PAGE 7
+Spatial cohesion179
+Co-occurrences180
+When the time between subsequent detections was high and the distance too great for a capuchin to have181
+been able to cross it in that time, these “co-occurrences” likely do not reflect the same party being captured.182
+We therefore used a threshold of detections >150 m apart within 1 minute, which would require movement183
+speeds of ∼9 km/h, well above observed white-faced capuchin travel speeds of∼0.3–2 km/h during active184
+movement bouts [53]). When such co-occurrences occurred within a group’s known range, we interpreted185
+them as evidence of subgrouping events. Since we hypothesize the tool-using group is less cohesive to avoid186
+competition over anvil sites, we considered whether anvils are actually used at the same time. We looked for187
+such evidence of subgrouping in the tool-use group by taking a sample of camera traps on anvil sites in their188
+known range and using a cut-off time of 60 seconds at 150 meters between sightings to identify189
+co-occurrences. Over a 20-month period, we found 217 such co-occurrences (Fig. S7).190
+Spatiotemporal cohesion191
+We assessed spatiotemporal cohesion by focusing on distance (in meters) and time (in seconds) between192
+subsequent capuchin sightings within the same day, reflecting how capuchins trigger cameras as they move193
+through the grid space. Different spatiotemporal patterns emerged for the tool-using and non-tool-using194
+group (Fig. 4, see Table S5 for model estimates). If the distance between subsequent sightings was 0 meters,195
+the next capuchin sighting was at the same camera. Non-tool-using capuchins were more likely to trigger the196
+same camera again than tool-using capuchins (Fig. 4C). We found strong evidence (PP > 0:≈ 1, Fig. 4D)197
+for the probability of a subsequent sighting at the same camera being higher in the non-tool-using group198
+(estimated probability of 0 = 0.35, 95% CI [0.28, 0.43]) than the tool-using group (estimated probability of 0199
+= 0.29 95% CI [0.21, 0.35]). If the subsequent sighting was at a different camera (distance > 0), the distance200
+to the new camera was slightly higher in the tool-using group (264 m, 95% CI [238 m, 294 m]) than the201
+non-tool-using group (244 m, 95% CI [218 m, 269 m]), though evidence for this effect was moderate (PP >0:202
+0.82, Fig. 4F & G). For both tool-users and non-tool-users, increased time between subsequent sightings was203
+associated with greater distances between the cameras being triggered. However, tool-users showed more204
+sightings short in time but further in space than the non-tool-users, resulting in different patterns in the link205
+between distance and time (Fig. 4A).206
+To interpret these patterns, we again compared to the most similar condition in agent-based simulations207
+(20 capuchins, 25 cameras). Here too, we found that varying levels of cohesion result in distinguishable208
+variation in the relationship between distance and time between subsequent sightings (Fig. 4B, see Table S6209
+for model estimates). Simulated capuchins moving together had a higher probability of subsequent detections210
+at the same camera than capuchins moving in two subgroups (PP > 0:≈ 1), Fig. 4E), while capuchins211
+moving in subgroups had higher distances between subsequent detections not at the same camera (PP > 0:212
+≈ 1), Fig. 4H). Varying capuchin number (10–50) and camera coverage (4–81 cameras) led to qualitatively213
+similar trends (Figs. S8 & S9). The different spatiotemporal patterns of the tool-using and non-tool-using214
+capuchins are also visible in our animation of capuchin sightings (online supplement).215
+7
+
+PDF PAGE 8
+0
+200
+400
+600
+800
+0 2 4 6
+log(time) between sightings
+Predicted distance between sightings
+Non−tool−users Tool−users
+(A)
+0
+30
+60
+90
+0 2 4 6 8
+log(time) between sightings
+Separate Sub−groups Together
+(B)
+0.25
+0.30
+0.35
+0.40
+Tool−users Non−tool−users
+Grid location
+Probability of 0
+(same camera)
+(C)
+−2.0
+−1.5
+−1.0
+−0.5
+0.0
+0.0 0.2 0.5 0.8 1.0
+Density
+βhu (Tool−users)
+(D)
+0.4
+0.6
+0.8
+Separate Sub−groups Together
+Condition
+Probability of 0
+(same camera)
+(E)
+220
+240
+260
+280
+Tool−users Non−tool−users
+Grid location
+Distance
+(different camera)
+(F)
+−0.4
+−0.2
+0.0
+0.2
+0.4
+0.0 0.2 0.5 0.8 1.0
+Density
+βµ (Tool−users)
+(G)
+30
+40
+50
+Separate Sub−groups Together
+Condition
+Distance
+(different camera)
+(H)
+Figure 4: Model estimates from hurdle-gamma models comparing the interaction of distance and time between
+subsequent capuchin sightings for the tool-using and non-tool-using group in the real data and for varying
+levels of cohesiveness in simulated data. Panels A and B show the interaction between distance and time,
+where lines reflect the model estimates, the shaded area the 95% credible interval, and points raw data.
+Panels C-E show model estimates of the zero (hu) component of the models, and the panels F-H the non-zero
+(mu) component. Here points reflect averages estimated by the model, and the whiskers the 95% confidence
+interval. Panels D and G show the posterior distributions of the MCMC-estimated contrasts for the hu and
+mu components corresponding to panels C and F, with 80% and 95% credible intervals.
+8
+
+PDF PAGE 9
+Discussion216
+We investigated whether increased intragroup competition from habitual tool use in white-faced capuchins is217
+linked to reduced group cohesion. Using two grids of camera traps, we compared the social cohesion of one218
+group of tool-using and one group of non-tool-using white-faced capuchins sharing the same habitat and219
+located 3 km apart on the same island. We found that, despite large overlap in daily activity patterns and220
+only 3 kilometers of distance between them, there are marked differences in group cohesion between the221
+tool-using and non-tool-using groups.222
+We measured cohesion following [34] as temporal variation in i) party size, ii) party composition and iii)223
+spatial cohesion. The tool-using group had a higher probability of singleton detections, and smaller observed224
+party sizes than the non-tool-using capuchins. Simulations show that these patterns emerge with reduced225
+cohesion (subgrouping), and these relationships were robust across a wide range of group sizes and camera226
+configuration. The differences in party composition between the two groups—despite comparable group227
+composition—also supported the hypothesis of a more cohesive non-tool-using group and a tool-using group228
+which is less cohesive. In any one observation, capuchin parties in the tool-using group had fewer adult males,229
+fewer adult females, and fewer adult males and females together than parties in the non-tool-using group.230
+Patterns of spatiotemporal cohesion further supported this interpretation. For the non-tool-users, capuchin231
+detections often occurred at cameras neighboring the camera of the previous sighting, in line with cameras232
+being triggered by a group traveling in a specific direction. In contrast, for the tool-using group, we see that233
+subsequent detections are not usually at a neighboring camera, but rather somewhere else on the grid entirely,234
+as expected when capturing several subgroups rather than one big group, as supported by our simulations.235
+An advantage of using two comparable grids of camera traps is that they allow direct comparison of236
+cohesion between the tool-using and non-tool-using groups under similar sampling conditions. However,237
+because these grid cameras do not capture tool use itself, they do not directly link reduced cohesion to its238
+hypothesized driver: competition over tool-use sites. The numerous simultaneous sightings at different anvils239
+within the tool use group’s range provide direct behavioral evidence of spatially separated subgroups and are240
+consistent with the interpretation that competition over tool-use sites promotes fission–fusion dynamics in241
+the tool-using group. While the non-tool-using group shows social cohesion comparable to that described for242
+the species, the tool-using group exhibits a more fission–fusion-like structure than is typically described for243
+white-faced capuchins in long-term field studies. Importantly, reduced cohesion was not limited to the males244
+that perform tool use. Differences in party composition and female co-occurrence suggest that altered245
+grouping patterns extend across the group, indicating that the effects of this behavioral tradition may246
+cascade beyond the individuals directly engaging in tool use.247
+Tool use linked to reduced group cohesion248
+Our findings provide evidence for a potential link between habitual tool use at fixed, monopolizable resources249
+and reduced group cohesion. The tool-using group and non-tool-using groups inhabit the same habitat with250
+comparable resource availability. Yet they differ behaviorally: the tool-using group has a habitual stone tool251
+use tradition which has persisted over two decades [26]. Here, we show that the social cohesion of these two252
+groups also differs. On Jicarón, where predators are absent and capuchins are more terrestrial [42], the253
+selective pressure to maintain tight social cohesion may be relaxed. However, because both groups share this254
+environment, predation cannot explain the observed between-group differences. Instead, these differences are255
+consistent with a role of habitual tool use on monopolizable resources in shifting social organization towards256
+being less cohesive and more fission-fusion-like. In the tool-using group’s range, at least 10 heavily used anvil257
+sites near sea almond or coconut trees are fixed and monopolizable, previously hypothesized to generate258
+intragroup contest competition [26], as observed in bearded capuchins [30]. Such competition can be259
+mitigated through agonistic displacement, as seen in mainland white-faced capuchins where higher ranking260
+individuals secure greater energy intake than lower ranking individuals by displacing them from feeding261
+patches [54]. However, on Jicarón, direct agonistic interactions at anvils are incredibly rare [50, 51]. The262
+intensity of intragroup competition can also be mitigated via reduced group cohesion [55–57], which appears263
+to be the case on Jicarón, where competition over anvils may be reduced through spatial separation.264
+Comparative data from mainland and other island populations will be necessary to disentangle the relative265
+9
+
+PDF PAGE 10
+contributions of tool use, predation pressure, and island ecology to variation in capuchin group cohesion.266
+Differences in space use could influence camera detections and therefore represent an alternative267
+explanation for some observed patterns. Mainland white-faced capuchins in neotropical dry forests in Costa268
+Rica occupy home ranges with median estimates of 1.82km2 [58], with slightly lower estimates from the269
+tropical moist forests of Barro Colorado Island, Panama [45, 59]. We lack precise data on the home range270
+sizes of capuchin groups on Jicarón, but the minimum extent appears comparable to in other tropical moist271
+forests (at least 1km2)[45, 59]. Nevertheless, differences in home range configuration and movement272
+patterns, potentially associated with concentrated use of anvil sites and intertidal foraging by tool users [41],273
+could influence detection patterns and mean that our grids sampled different portions of each group’s range.274
+This is supported by the presence of nocturnal detections in the tool-using grid, absent in the non-tool-using275
+grid, indicating that we likely sampled sleep sites in the former, and/or that they have different nocturnal276
+behavior. More generally, variation in space use, resource distribution, and social cohesion are likely277
+interconnected, and future work integrating spatial ecology with behavioral observations will be needed to278
+disentangle these effects.279
+Previous studies have shown that fission-fusion dynamics are highly flexible [34] and can vary seasonally,280
+for instance in response to fluctuations in food availability [37–39]. Tool use on Jicarón also has a seasonal281
+component [26]; we observe peaks in tool use frequencies in the transitions between wet and dry season (see282
+[50]) The camera traps used in this study were deployed for 7 months, overlapping in time with at least one283
+of the peaks in tool use activity. As such, the reduced cohesion we observed by the tool-using group may284
+reflect their grouping dynamics only during this time period of increased competition. It is possible that285
+cohesion increases when tool use frequency decreases. Further research is needed over larger timescales to286
+shed light on seasonal components of grouping dynamics, also taking into account fluctuations in availability287
+of other food resources which may affect intragroup competition and cohesion for tool-using and288
+non-tool-using capuchins on Jicarón alike.289
+Cascading effects of a sex-biased tool use tradition290
+Despite tool use on Jicarón being restricted to males [51]—and thus only males experiencing contest291
+competition at anvils—our results suggest the whole tool-using group shows reduced group cohesion. This292
+has several important implications for their social system and behavior. First, in well-studied populations of293
+white-faced capuchins at mainland sites,females are typically philopatric while males typically disperse [47],294
+leading to social bonds of females being having large impacts on coalition formation, foraging access, and295
+survival [60] . While we did not measure detailed social behavior in this study, we do see that adult females296
+are much less likely to co-occur in the tool-using group than in the non-tool-using group and thus seemingly297
+have fewer opportunities for social contact. This would be a fruitful area for future research. Second, the298
+male-exclusive nature of tool use in this population combined with reduced cohesion likely results in some299
+degree of sexual segregation in space, at least at anvil sites, where females are observed less frequently than300
+other age-sex classes [51]. This segregation, combined with the reduced group cohesion, affects social learning301
+opportunities for immature individuals who are still dependent on their mothers, as it limits their302
+observations of tool use and interactions with male group members. Our previous research found that social303
+attention during tool use events is relatively rare [50], yet the persistence of the tool use tradition for at least304
+20 years suggests young individuals are capable of acquiring the behavior.305
+Implications for intergroup dynamics306
+The reduced group cohesion in the tool-using capuchins may make them less competitive during intergroup307
+conflicts. In mainland sites, white-faced capuchins are known to be xenophobic with hostile intergroup308
+encounters [47, 53, 61]. On Jicarón, we know little about the nature of interactions between groups, personal309
+observations suggest intergroup competition may be more relaxed, as on other islands [62, 63]. Due to the310
+small size of the island and its genetic isolation, it is possible the capuchins have a high degree of inbreeding,311
+and, as a result are less capable of differentiating in-group from out-group members, resulting in lower312
+out-group aggression [64]. However, higher relatedness would account for differences in behavior between313
+capuchins on Jicarón and mainland capuchins, not between tool-using and non-tool-using capuchins within314
+10
+
+PDF PAGE 11
+Jicarón island. More information is needed to assess whether intergroup conflicts on Jicarón is comparable to315
+that observed in mainland populations, and to test if the tool-using group suffers a competitive disadvantage316
+from reduced group cohesion. The observed difference in group cohesion within such a small geographic scale317
+(a 20 km2 island) also raises interesting questions regarding dispersal. While the details of the dispersal318
+system on Jicarón are still unclear [26], dispersal between the tool-using and non-tool-using group is likely319
+possible, as they are only 3 kilometers apart. As such, a non-tool-using capuchin migrating into the tool-using320
+group would not only be faced with the novel behavior of tool use, but also a less cohesive social group than321
+it was used to. Whether migrants would adapt to the cohesiveness of their new social group is a question that322
+has not previously been explored, but could provide fascinating insights into the flexibility of social systems.323
+Estimating cohesion using camera traps324
+Estimating group cohesion from camera trap data presents several challenges. Detection is constrained by325
+camera-specific fields of view, and identification of individuals is often limited by image quality. This326
+challenge is compounded in arboreal species such as capuchins, where a lack of detections by ground-level327
+cameras does not necessarily indicate true absence. Arboreal camera traps on Jicarón indicate diel variation328
+in arboreality in non-tool-using capuchins [42, 65], suggesting that patterns of vertical space use may further329
+influence detection probabilities. Placing arboreal camera traps in the tool-using group’s range would be330
+necessary to assess whether such patterns differ between groups. Improved individual identification, for331
+example using deep-learning approaches, could further enable reconstruction of social networks from camera332
+trap data, as demonstrated in other primate systems [66, 67]. While we accounted for some of this variation333
+statistically (e.g., by including camera identity as a random effect and focusing on numbers of individuals334
+detected), camera trap data alone cannot definitively resolve whether observed patterns reflect true335
+differences in cohesion or sampling artifacts.336
+To address these limitations of camera traps, we combined empirical data with agent-based simulations337
+that explicitly model how groups with different levels of cohesion would be detected by a grid of camera338
+traps. These simulations provide a mechanistic link between underlying social structure and observed339
+spatiotemporal detection patterns, allowing us to interpret empirical differences in terms of variation in340
+cohesion rather than sampling bias alone. Importantly, the simulations also revealed that the ability to341
+distinguish a cohesive group from sub-groups depends on sampling intensity: under lower camera coverage,342
+detection patterns increasingly overlap (Figs. S2, S3, & S8). More broadly, this approach demonstrates how343
+integrating camera trap data with process-based simulations adds rigor, and can extend the inference space344
+of camera trap studies, particularly for species where direct observation of group structure is difficult.345
+Conclusion346
+Our results suggest that habitual tool use at fixed, monopolizable resources is associated with reduced social347
+cohesion in wild white-faced capuchins. By comparing two groups of the same species sharing the same348
+environment, but differing from one another in their tool-use behavior, we provide evidence that tool use349
+itself could drive this difference in social cohesion. Given that group-living is a balancing act of advantages350
+and disadvantages, this reduced group cohesion can likely only emerge in specific environments where the351
+costs of fissioning are low, such as environments with few predators. On Jicarón, the absence of predators352
+may allow the benefits of fissioning to use tools without competition to outweigh the costs of reduced353
+cohesion. While tool use is restricted to males, its effects on social cohesion appear to extend beyond males,354
+influencing group-wide dynamics, including adult social bonds and juvenile learning opportunities. Future355
+research should aim to better contextualize the observed patterns by comparing island to mainland groups to356
+assess the influence of island-living on group cohesion, and by conducting longer-term monitoring to capture357
+potential seasonal variation in both tool use and cohesion. Studying these dynamics provides rare empirical358
+insight into the bidirectional relationship between culture and social structure, highlighting how culturally359
+mediated behaviors might reshape patterns of social association.360
+11
+
+PDF PAGE 12
+Methods361
+Site362
+Jicarón island (20 km2) is located in Coiba National Park, an UNESCO World Heritage site 60 kilometers off363
+the Pacific coast of Panama. It is uninhabited and only sees infrequent human activity in the form of364
+scientific research and, rarely, ecotourism.365
+Capuchins on Jicarón use hammerstones and anvils to access a variety of resources, ranging from fruits366
+like sea almonds (Terminalia catappa), coconuts (Cocos nucifera) and palm fruits (Bactris major ) to367
+invertebrates like Halloween crabs (Gecarcinus quadratus), hermit crabs (Coenobita compressus), and nerite368
+snails (Nerita sp.)[26]. Habitual stone tool use is limited to a∼2 km stretch of coast inhabited by an369
+estimated 3 social groups [41]. Of these three groups, only one shows tool use at high accumulation sites (i.e.,370
+anvils). The other two neighboring groups have been observed to use tools in the intertidal zone and riparian371
+banks primarily producing ephemeral sites (C. Monteza-Moreno, pers. comm., 2023; B. Barrett pers.372
+observation).373
+The group of capuchins who use tools at anvil sites, referred to as the ‘tool-using group’, have been374
+performing hammerstone and anvil tool use since at least 2004 [26]. They have been monitored using375
+unbaited camera traps since 2017, with most sampling efforts focusing on 12 frequently used anvil sites.376
+Grid deployment377
+To compare the cohesion of the tool-using group to a non-tool-using group, we placed two grids of 26 camera378
+traps with 100 meter spacing in both the tool-using group’s range and at a location on the other side of the379
+island (approximately 3 kilometers away) between May 2022 and January 2023. We planned the grid380
+placement by creating a 100-meter raster and overlaying this over satellite imagery of the field site (inR381
+using the packagessf [68], raster [69] and mapview [70]). We had some information on the tool using382
+group’s home range, due to the high sampling since 2017, and placed the grid to fall within their expected383
+range. For the non-tool-using group, we had very limited information on their movement patterns, and thus384
+placed a grid in an area where we had previously captured photos of capuchins during camera trap surveys.385
+After placement we evaluated whether we captured a single group or the boundary between several groups386
+(see detailed methods below). We selected this area to be as far away from the tool-using group’s range as387
+possible, while still sharing similar features (bordering the coast near streams and sea almond trees), and388
+oriented both grids to be parallel to the coast.389
+From the 100 meter raster, we generated coordinates of 40 possible camera locations using the center390
+coordinates of each cell, of which 30 were preferred placement locations and 10 back up locations. Due to the391
+steep topography on Jicarón, we aimed to have a range of randomly selected, equally spaced possible camera392
+locations, and see how many were physically reachable. The placement went as followed: we navigated to a393
+predesignated grid location stored on a handheld GPS (Garmin GPSMAP66i), and located a tree on which394
+the camera could be mounted, ideally within 15 meters of the intended GPS coordinates. Each camera was395
+placed on a tree at knee height (around 0.6 meters), facing a random direction (not facing into a hill or other396
+obstacle). Cameras were tested using the Walktest function to see if it would trigger from movement on the397
+ground. In the end, we successfully placed 26 cameras in the tool-using group’s range, and 26 cameras in the398
+non-tool-using group. Each grid camera was placed on average 10.63 meters (range 0.96-31.41) from the399
+intended point, on a tree facing a random direction. All cameras were still cameras (Reconyx Hyperfire400
+HF2X), and programmed to take to take 20 pictures per trigger with no delays between-triggers (approx. 1 s401
+between images).402
+Annotation403
+Following collection of all cameras, triggers within 30 seconds of one another were clustered together into a404
+single sequence. Each sequence was coded on www.agouti.eu [71], coding how many animals were present405
+and of which species. For each capuchin present, we determined their age and sex when possible, attempted406
+to assign an individual ID, and coded their behavior following the ethogram standard to our project [72].407
+12
+
+PDF PAGE 13
+Three cameras had malfunctioned or were not placed correctly, resulting in 24 cameras in the tool-using408
+group, amounting to 4508 trapping days, with a mean of 187.8 days per camera (range 44-256). In the409
+non-tool-using group, we ended with 25 cameras, amounting to 5330 trapping days, with a mean of 213.2410
+days per camera (range 96-260). For all analyses presented here, we only considered sequences containing411
+capuchins (n = 3807).412
+Group size of tool-using and non-tool-using group413
+Before proceeding with analyses, we had to verify that the grids actually each captured a single social group.414
+Due to the long-term monitoring of the tool-using group, we can reliably identify most group members,415
+allowing us to be confident that nearly all of our cameras in their range only captured known individuals.416
+Two grid cameras placed on what we expected was the edge of their range had some triggers of unfamiliar417
+individuals not belonging to the tool-using group. We excluded all sequences with clearly unfamiliar418
+individuals from analyses (3 sequences in the tool-user grid and 2 sequences in the non-tool-using grid),419
+resulting in a total of 3802 sequences for analyses.420
+For the non-tool-using capuchins, we identified as many individuals as possible based on visual421
+appearance (n =14). We then constructed a social network using thesna package [73] based on the422
+co-occurrences of these identifiable individuals in the same sequence (Fig. S1). Since all identified and423
+repeatedly sighted adult males and females were connected to one another in the resulting social network, we424
+are confident that the non-tool-using grid captures a single social group of capuchins.425
+Our estimates of the size and composition of both capuchin groups are based on a) identifiable426
+individuals, b) the maximum number of capuchins observed in a sequence, and c) the maximum number of427
+individuals of a particular age-sex class observed together in a sequence. Due to the nature of data from428
+camera traps and its inherent uncertainty from the limited visual field, plus the difficulty of identifying429
+juvenile capuchins from images alone, we cannot provide exact estimates of the group size. However, based430
+on this method, the tool-using group and non-tool-using group sampled with the grid appear to be of431
+comparable size and group composition Table 1.432
+Statistical analyses433
+We ran all analyses in R v. 4.3.1 [74]. All Bayesian models were fit via thebrm function in thebrms package434
+v. 2.16.1 [75]. To evaluate the credibility of the difference between categories we used thehypothesis435
+function in brms and estimated means on the response scale using theemmeans package [76]. We considered436
+what proportion of the posterior probability (PP) of the contrast was greater than 0, using a cut-off of 0.95437
+and above to reflect strong evidence for an effect, 0.80 and above as moderate evidence, and below 0.80 as438
+weak evidence. For each model, we performed a prior predictive simulation to compare our chosen priors to439
+default priors, and to evaluate parameter identifiability. For the final models, we ran three chains of 3000440
+iterations each, with a 1500 iterations warm-up per chain. Our models were stable with Pareto k estimates441
+below 0.7 and large effective sample sizes (Bulk_ESS and Tail_ESS over 1000 for all estimates [75] and Rhat442
+values ≤ 1.01 [77]. We visually assessed model fit and confirmed our choice of priors using the posterior443
+predictive check function.444
+Table 1: Estimated average group size and composition of the tool-using group and non-tool-using group
+sampled by grid cameras.
+Tool-using group Non-tool-using group
+Adult females 5–6 5–6
+Adult males 5–6 5–6
+Subadults 3–5 2–3
+Juveniles 7–10 7–9
+T otal 20–27 19–24
+13
+
+PDF PAGE 14
+Intra-diel activity445
+We quantified intra-diel activity of the tool-using and non-tool-using groups using Bayesian hierarchical446
+generalized additive models (GAMs), following the method described by [78]. For each group, we modeled447
+the probability of activity (detecting a capuchin on a camera trap) as a cyclic smooth function of time of day448
+(0-23 h) using a binomial likelihood and a circular spline (bs = “cc”), with camera trap location included as a449
+random intercept. We generated posterior predictions over a fine temporal grid while marginalizing over450
+camera traps, and computed the coefficient of overlap [79] by applying the posterior-draw-wise minimum451
+function to the two predicted activity curves. This created a posterior distribution of overlap values ranging452
+from 0 (no overlap in activity) to 1 (complete overlap). Additionally, we considered the locations of the first453
+and last sightings of the day, to examine if sleep sites of the capuchins were likely captured in our grid.454
+Party size455
+With the term ‘party size’ we refer to the number of capuchins captured in a sequence together. Data was456
+heavily 1-inflated — 69.02% of sequences only contained a single capuchin. Capturing larger parties of457
+capuchins was rare at both sites. To account for this skew in analyses, we subtracted 1 from the party size to458
+create a variable where 0’s reflect captures of individuals alone (no social partners), and numbers above459
+reflect the number of partners present. We refer to this variable as ‘social party size’ in order to differentiate460
+it from the normally used ‘party size’ for the total number of individuals present. To compare mean social461
+party size between the tool-using and non-tool-using group, we ran a hurdle Poisson GLMM (model462
+sps_bm1a). For the non-zero component of the model, the outcome was the number of partners in the463
+sequence (total number of capuchins minus 1), and the predictor variables the grid location (tool-using or464
+non-tool-using group, with non-tool-using as reference) as well as a random effect for each camera. For the465
+zero-component of the model, we included the predictors of grid location and varying effects of camera466
+location, under the assumption that both could affect single capuchin detection frequency.467
+Party composition468
+We were unable to reliably estimate age or sex in 25.88% of the capuchins observed, mostly because only part469
+of the capuchin was visible, or because it was not possible to determine if they were subadult or juvenile.470
+Adults were easiest to identify — we reliably classified their sex in 93.22% of cases. Therefore, to compare471
+party composition between the tool-using and non-tool-using group, we focused on adult males and adult472
+females as these age-sex classes could be identified most reliably. As these variables contained many zeros473
+(ranging from 70-74%), and these zeros could both reflect true absence as well as be a result of sampling, we474
+used zero-inflated models, since these models assume the presence of both ‘true’ and ‘sampling’ zeros. To475
+compare the number of adult females in a party between the tool-using and non-tool-using group, we ran a476
+zero-inflated Poisson GLMM (model pc_bm1). The outcome was the number of adult females in a sequence,477
+and the predictors grid location and an interaction of grid location with the number of adult males in a478
+sequence. Camera location was fit as a random effect. We ran another zero-inflated Poisson GLMM (model479
+pc_bm2) with the same structure except the number of adult males as the outcome, and the number of adult480
+females as a predictor.481
+Spatial cohesion482
+To compare covariance in time as well as space between the grid locations, we focused on subsequent483
+capuchin sightings within the same day. Assuming both cohesive and less cohesive capuchin groups likely484
+sleep together at night, we first separated all detections by day. Within a day, we assigned an increasing485
+number to each observation of capuchins (so the first observation of the day a 1, the second a 2, and so on).486
+The first sighting of a day served as the starting point. From this we calculated for each subsequent sighting487
+i) how far away in space this observation was from the previous observation (0 meters for the same camera,488
+and otherwise the distance between the cameras in meters) and ii) how far away in time this observation was489
+from the previous (how many seconds passed). We then assessed the relationship between time and space490
+between sightings for the tool-using and non-tool-using group separately, assuming that a cohesive group and491
+14
+
+PDF PAGE 15
+less cohesive group would show different patterns. In a cohesive group, subsequent sightings would be492
+expected to mostly occur close in both time and space to the previous sighting. In contrast, a fission–fusion493
+group would also show subsequent sightings that are close in time but far apart in space. To test this494
+hypothesis, we ran a hurdle gamma GLMM (model_spacetime). The outcome was the distance between495
+subsequent sightings (in meters) and the predictors an interaction of grid location and the time in seconds496
+(on the log-scale) between sightings, as well as camera location as a random effect.497
+Furthermore, when individuals of the same group are detected close in time but far apart in space at498
+cameras at a great distance, this can indicate that they have fissioned into sub-parties. Triggers of 150499
+meters apart within 1 minute would be very unlikely to originate from one cohesive group of capuchins, given500
+that observed capuchins’ travel speed (0.3-2 km/h; [53]) are far lower. We identified what we term as501
+‘co-occurrences’ by extrapolating this conservative rule (so 300 meters in 2 minutes, and so on) and flagging502
+observations that occurred within these criteria. Given the importance of being certain that both triggers503
+came from individuals from the social group, rather than two distinct groups being captured, we focused on504
+camera traps placed inside the tool-using group’s range, where we have never observed unknown individuals.505
+Since we hypothesize that competition over anvil sites is driving the reduced cohesion in the tool-using group,506
+we only included anvil sites. For this, we used our wider dataset (described here [41]), coded in Agouti in the507
+same manner as the grid data. We focused on a sub-sample of the data, only including sequences that508
+contained capuchins at anvil sites. We also filtered to a period when all camera traps were coded, and at509
+least four camera traps at anvil sites were deployed at the same time, resulting in inclusion of 34 camera510
+traps deployed at anvil sites in the tool-using group’s range between July 2017 and March 2019. Lastly, we511
+visualized capuchin sightings within 10 days at the two grids. We selected a period when both grids had512
+multiple capuchin sightings within a day, and animated these sightings using thegganimate package [80].513
+Simulations514
+To simulate camera trap observations of collectively moving groups with different levels of cohesion, first, we515
+set up a100 × 100 arena with a reflecting boundary. Agents were initialized at uniformly random locations in516
+a 2 × 2 box around a randomly chosen location in the arena. The movement of agents followed the Vicsek517
+model, a commonly used model of collective movement [81]. The agents moved at a speed of 0.03 units per518
+iteration, and could interact with other individuals in a radius of 1 unit. We used a constant Vicsekη noise519
+parameter of 0.1. Group cohesion was controlled by using a pre-specified adjacency matrixA, wherein Aij520
+was 1 if individualsi and j could interact, and 0 otherwise. We ran the models for 5,000 iterations. We521
+performed 100 such repeats of each model.522
+8 different camera traps setups were chosen. These represented varying camera trap densities, populating523
+the arena with22, 32, 42 · · · 92 cameras respectively. Each camera was assigned a random sighting radius524
+between 0.3 and 1.0 units. When any individual was present within a camera’s sighting radius, a sighting was525
+recorded at that camera for that timestep.526
+We explored three different group cohesion conditions. In the first batch of simulations, we set all527
+elements of the adjacency matrix to 1 (i.e., all agents could interact with each other), resulting in one528
+cohesively moving group. In the second batch of simulations, adjacency matrix values were 1 between all529
+individuals in the first and second halves of the group respectively, but 0 across these two halves (i.e., there530
+were two interacting subgroups, but interactions between members of these subgroups was not possible). In531
+the third batch of simulations, all adjacency matrix values were set to 0 (i.e., individuals moved532
+independently of each other). This was repeated for groups of sizes 10, 20, 30, 40 and 50 individuals.533
+As a result, a total of3 × 100 × 5 = 1 , 500 trajectories were generated. We then used the above mentioned534
+eight camera trap setups to generate observations based on all these trajectories, resulting in535
+1, 500 × 8 = 12 , 000 simulated camera trap datasets.536
+15
+
+PDF PAGE 16
+Ethics statement537
+Data for this study were collected as minimally invasively as possible. We obtained permission for this study538
+from the relevant authority Ministerio de Ambiente, Panama (scientific permit no. SE/A-37-17, SC/A-23-17,539
+SE/A-98-19, SE/A-6-2020, ARB-158-2022, and corresponding renewals and addenda). As this was a camera540
+trapping study without environmental modification or the use of lures, a STRI IACUC was not required.541
+Data availability542
+Details of model output are available in supplementary material. All code and data necessary to replicate543
+analyses can be found at544
+https://edmond.mpg.de/previewurl.xhtml?token=1346491d-540f-4f2d-bacf-0f0de26cec78.545
+Author contributions546
+Conceptualization (ZG, MCC, BJB); Data curation (ZG, BJB); Formal Analysis (ZG, BJB, PM); Funding547
+acquisition (ZG, MCC, BJB); Investigation (ZG, JL, PLC, EDR, BJB); Methodology (ZG, MCC, BJB, PM);548
+Project administration (ZG, MCC, BJB); Resources (MCC, BJB); Supervision (MCC, BJB); Validation (ZG,549
+BJB, PM); Visualization (ZG); Writing – original draft (ZG); Writing – review & editing (ZG, MCC, BJB,550
+JL, PM).551
+Acknowledgments552
+We wish to thank Eliecer Vega-Patiño for assistance with fieldwork, and Claudio Monteza-Moreno for his553
+invaluable help in project conceptualization, coordination, and data collection. We are also grateful to Lucia554
+Torrez and Katrin Dieter for logistical support, and STRI for hosting this research. We wish to thank Imran555
+Razik for illustrating Figure 1. This study was supported through various funding sources: funds from the556
+Max Planck Institute, a grant from the National Science Foundation (grant no. NSF BCS 1514174), a557
+Packard Foundation Fellowship (grant no. 2016-65130), a Smithsonian Tropical Research Institute558
+Short-term Fellowship, a Coss Award for International Field Research through UC Davis and an L.S.B.559
+Leakey Foundation grant awarded to B.J.B, the Alexander von Humboldt Professorship endowed by the560
+Federal Ministry of Education and Research to M.C.C, and a grant awarded to B.J.B and Z.G. by the561
+Deutsche Forschungsgemeinschaft (DFG, German Research Foundation) under Germany’s Excellence562
+Strategy—EXC 2117–422037984.563
+Supporting Information564
+Animation of capuchin sightings : https://keeper.mpdl.mpg.de/d/ad41ce04639143589f79/565
+Fig. S1 : Social network of the non-tool-using group.566
+T able S1: Posterior mean model estimates of modelsps_bm1a.567
+T able S2: Posterior mean model estimates of modelsps_sim.568
+Fig. S2 : Variability in party size model estimates (hu-component) with varying number of camera traps in569
+simulation.570
+Fig. S3 : Variability in party size model estimates (mu-component) with varying number of camera traps in571
+simulation.572
+Fig. S4 : Variability in party size model estimates (hu-component) with varying number of capuchins in573
+simulation.574
+Fig. S5 : Variability in party size model estimates (mu-component) with varying number of capuchins in575
+simulation.576
+T able S3: Posterior mean model estimates of modelpc_bm1.577
+16
+
+PDF PAGE 17
+T able S4: Posterior mean model estimates of modelpc_bm2.578
+Fig. S6 : Model estimates from modelpc_bm1 of relationship between number of adult females and number579
+of adult males occurring together in a sequence.580
+Fig. S7 : Co-occurrences of capuchin sightings at anvil sites in the tool-using group.581
+T able S5: Posterior mean model estimates of modelspacetime_bm.582
+T able S6: Posterior mean model estimates of modelspacetime_sim.583
+T able S7: Model estimates from hurdle-Gamma models comparing space and time between subsequent584
+capuchin sightings from real data and simulation.585
+Fig. S8 : Variability in spatiotemporal model estimates with varying number of cameras.586
+Fig. S9 : Variability in spatiotemporal model estimates with varying number of capuchins.587
+References588
+1. DellaPosta, D., Shi, Y. & Macy, M. Why Do Liberals Drink Lattes? eng.AJS; American journal of589
+sociology 120, 1473–1511.issn: 0002-9602. doi:10.1086/681254 (Mar. 2015).590
+2. Osgood, D. W., Ragan, D. T., Dole, J. L. & Kreager, D. A. Similarity of Friends Versus Nonfriends in591
+Adolescence: Developmental Patterns and Ecological Influences.Developmental psychology 58,592
+1386–1401.issn: 0012-1649. doi:10.1037/dev0001359 (July 2022).593
+3. Axelrod, R. The Dissemination of Culture: A Model with Local Convergence and Global Polarization.594
+The Journal of Conflict Resolution 41, 203–226.issn: 0022-0027 (1997).595
+4. Kossinets, G. & Watts, D. J. Origins of Homophily in an Evolving Social Network.American Journal of596
+Sociology 115, 405–450.issn: 0002-9602. doi:10.1086/599247 (Sept. 2009).597
+5. Fu, F., Nowak, M. A., Christakis, N. A. & Fowler, J. H. The Evolution of Homophily. en.Scientific598
+Reports 2, 845. issn: 2045-2322. doi:10.1038/srep00845 (Nov. 2012).599
+6. Laland, K. N. & Hoppitt, W. Do animals have culture? en.Evolutionary Anthropology: Issues, News,600
+and Reviews 12. _eprint: https://onlinelibrary.wiley.com/doi/pdf/10.1002/evan.10111, 150–159.issn:601
+1520-6505. doi:https://doi.org/10.1002/evan.10111 (2003).602
+7. Aplin, L. M. Culture and cultural evolution in birds: A review of the evidence.Animal Behaviour 147.603
+Place: Netherlands, 179–187.issn: 1095-8282(Electronic),0003-3472(Print).604
+doi:10.1016/j.anbehav.2018.05.001 (2019).605
+8. Whiten, A. The burgeoning reach of animal culture. en.Science 372. issn: 0036-8075, 1095-9203.606
+doi:10.1126/science.abe6514 (Apr. 2021).607
+9. Cantor, M. et al. Social network architecture and the tempo of cumulative cultural evolution.608
+Proceedings of the Royal Society B: Biological Sciences 288, 20203107. doi:10.1098/rspb.2020.3107609
+(Mar. 2021).610
+10. Whitehead, H. & Lusseau, D. Animal social networks as substrate for cultural behavioural diversity.611
+Journal of Theoretical Biology 294, 19–28.issn: 0022-5193. doi:10.1016/j.jtbi.2011.10.025 (Feb.612
+2012).613
+11. Smolla, M. & Akçay, E. Cultural selection shapes network structure.Science Advances 5, eaaw0609.614
+doi:10.1126/sciadv.aaw0609 (Aug. 2019).615
+12. Aplin, L. et al. Experimentally induced innovations lead to persistent culture via conformity in wild616
+birds. Nature 518, 538–541.issn: 0028-0836. doi:10.1038/nature13998 (Feb. 2015).617
+13. Jones, T. B., Aplin, L. M., Devost, I. & Morand-Ferron, J. Individual and ecological determinants of618
+social information transmission in the wild.Animal Behaviour 129, 93–101.issn: 0003-3472.619
+doi:10.1016/j.anbehav.2017.05.011 (July 2017).620
+14. Coelho, C. G., Garcia-Nisa, I., Ottoni, E. B. & Kendal, R. L. Social tolerance and success-biased social621
+learning underlie the cultural transmission of an induced extractive foraging tradition in a wild622
+tool-using primate. Proceedings of the National Academy of Sciences 121, e2322884121.623
+doi:10.1073/pnas.2322884121 (Nov. 2024).624
+17
+
+PDF PAGE 18
+15. Cantor, M. & Whitehead, H. The interplay between social networks and culture: theoretically and625
+among whales and dolphins. en.Philosophical Transactions of the Royal Society B: Biological Sciences626
+368, 20120340. issn: 0962-8436, 1471-2970. doi:10.1098/rstb.2012.0340 (May 2013).627
+16. Cantor, M. et al. Multilevel animal societies can emerge from cultural transmission. en.Nature628
+Communications 6, 8091. issn: 2041-1723. doi:10.1038/ncomms9091 (Sept. 2015).629
+17. Louise Chilvers, B. & Corkeron, P. J. Trawling and bottlenose dolphins’ social structure.Proceedings of630
+the Royal Society of London. Series B: Biological Sciences 268, 1901–1905.631
+doi:10.1098/rspb.2001.1732 (Sept. 2001).632
+18. Biro, D. et al. Cultural innovation and transmission of tool use in wild chimpanzees: evidence from field633
+experiments. eng. Animal Cognition 6, 213–223.issn: 1435-9448. doi:10.1007/s10071-003-0183-x634
+(Dec. 2003).635
+19. Izar, P. et al. Stone tools improve diet quality in wild monkeys. en.Current Biology 32, 4088–4092.e3.636
+issn: 0960-9822. doi:10.1016/j.cub.2022.07.056 (Sept. 2022).637
+20. Silk, J. B. Social Components of Fitness in Primate Groups.Science 317, 1347–1351.638
+doi:10.1126/science.1140734 (Sept. 2007).639
+21. Kajokaite, K., Whalen, A., Koster, J. & Perry, S. Social integration predicts survival in female640
+white-faced capuchin monkeys.Behavioral Ecology 33, 807–815.issn: 1465-7279.641
+doi:10.1093/beheco/arac043 (July 2022).642
+22. Sugiyama, Y. & Koman, J. Tool-Using and -Making Behavior in Wild Chimpanzees at Bossou, Guinea.643
+Primates 20, 513–524 (1979).644
+23. Gumert, M. D. & Malaivijitnond, S. Marine prey processed with stone tools by burmese long-tailed645
+macaques (Macaca fascicularis aurea) in intertidal habitats. en.American Journal of Physical646
+Anthropology 149, 447–457.issn: 1096-8644. doi:https://doi.org/10.1002/ajpa.22143 (2012).647
+24. Muhammad, R. et al. Influence of COVID-19 on the emergence of stone-tool use behavior in a648
+population of common long-tailed macaques (Macaca fascicularis fascicularis) in Thailand. en.649
+American Journal of Primatology 86, e23580. issn: 1098-2345. doi:10.1002/ajp.23580 (2024).650
+25. Ottoni, E. B. & Izar, P. Capuchin monkey tool use: Overview and implications. en.Evolutionary651
+Anthropology: Issues, News, and Reviews 17, 171–178.issn: 1520-6505.652
+doi:https://doi.org/10.1002/evan.20185 (2008).653
+26. Barrett, B. J., Monteza-Moreno, C. M., Dogandžić, T., Ibáñez, A. & Crofoot, M. C. Habitual654
+stone-tool-aided extractive foraging in white-faced capuchins, Cebus capucinus. en.Royal Society Open655
+Science 5, 181002. doi:https://doi.org/10.1098/rsos.181002 (2018).656
+27. Monteza-Moreno, C. M. et al. White-Faced Capuchin, Cebus capucinus imitator, Hammerstone and657
+Anvil Tool Use in Riparian Habitats on Coiba Island, Panama. en.International Journal of Primatology658
+41, 429–433.issn: 0164-0291, 1573-8604. doi:10.1007/s10764-020-00156-5 (June 2020).659
+28. Kalan, A. K. et al. Environmental variability supports chimpanzee behavioural diversity. en.Nature660
+Communications 11, 4451. issn: 2041-1723. doi:10.1038/s41467-020-18176-3 (Sept. 2020).661
+29. Bunlungsup, S. et al. Morphological characteristics and genetic diversity of Burmese long-tailed662
+Macaques (Macaca fascicularis aurea). en.American Journal of Primatology 78. _eprint:663
+https://onlinelibrary.wiley.com/doi/pdf/10.1002/ajp.22512, 441–455.issn: 1098-2345.664
+doi:10.1002/ajp.22512 (2016).665
+30. Verderane, M. P., Izar, P., Visalberghi, E. & Fragaszy, D. M. Socioecology of wild bearded capuchin666
+monkeys (Sapajus libidinosus): an analysis of social relationships among female primates that use tools667
+in feeding. en.Behaviour 150, 659–689.issn: 0005-7959, 1568-539X. doi:10.1163/1568539X-00003076668
+(Jan. 2013).669
+31. Krause, J. & Ruxton, G. D.Living in Groups en. isbn: 978-0-19-850818-2 (OUP Oxford, Oxford,670
+England, Oct. 2002).671
+18
+
+PDF PAGE 19
+32. Kelley, J. L., Morrell, L. J., Inskip, C., Krause, J. & Croft, D. P. Predation Risk Shapes Social672
+Networks in Fission-Fusion Populations. en.PLOS ONE 6, e24280. issn: 1932-6203.673
+doi:10.1371/journal.pone.0024280 (Aug. 2011).674
+33. Rubenstein, D. I. Behavioural ecology of island feral horses. en.Equine Veterinary Journal 13. _eprint:675
+https://beva.onlinelibrary.wiley.com/doi/pdf/10.1111/j.2042-3306.1981.tb03443.x, 27–34.issn:676
+2042-3306. doi:10.1111/j.2042-3306.1981.tb03443.x (1981).677
+34. Aureli, F. et al. Fission-Fusion Dynamics New Research Frameworks.Current Anthropology 49,678
+627–654.issn: 0011-3204. doi:10.1086/586708 (2008).679
+35. Kummer, H. Primate Societies: Group Techniques of Ecological Adaptation isbn: 978-1-315-12741-5.680
+doi:10.4324/9781315127415 (Routledge, New York, NY, 1971).681
+36. Izar, P. et al. Flexible and conservative features of social systems in tufted capuchin monkeys:682
+comparing the socioecology of Sapajus libidinosus and Sapajus nigritus. en.American Journal of683
+Primatology 74, 315–331.issn: 1098-2345. doi:10.1002/ajp.20968 (2012).684
+37. Wrangham, R. W. & White, F. J. Feeding Competition and Patch Size in the Chimpanzee Species Pan685
+Paniscus and Pan Troglodytes.Behaviour 105, 148–164.issn: 0005-7959, 1568-539X.686
+doi:10.1163/156853988X00494 (1988).687
+38. Matthews, J. K., Ridley, A., Kaplin, B. A. & Grueter, C. C. Ecological and reproductive drivers of688
+fission-fusion dynamics in chimpanzees (Pan troglodytes schweinfurthii) inhabiting a montane forest. en.689
+Behavioral Ecology and Sociobiology 75, 23. issn: 1432-0762. doi:10.1007/s00265-020-02964-4 (Jan.690
+2021).691
+39. Pinacho-Guendulain, B. & Ramos-Fernández, G. Influence of Fruit Availability on the Fission–Fusion692
+Dynamics of Spider Monkeys (Ateles geoffroyi). en.International Journal of Primatology 38, 466–484.693
+issn: 1573-8604. doi:10.1007/s10764-017-9955-z (June 2017).694
+40. Lehmann, J., Korstjens, A. H. & Dunbar, R. I. M. Fission–fusion social systems as a strategy for coping695
+with ecological constraints: a primate case. en.Evolutionary Ecology 21, 613–634.issn: 1573-8477.696
+doi:10.1007/s10682-006-9141-9 (Sept. 2007).697
+41. Goldsborough, Z. et al. Coupling of Coastal Activity with Tidal Cycles is Stronger in Tool-using698
+Capuchins (Cebus capucinus imitator).Royal Society Open Science 10, 230355.699
+doi:https://doi.org/10.1098/rsos.230355 (Sept. 2023).700
+42. Monteza-Moreno, C. M., Crofoot, M. C., Grote, M. N. & Jansen, P. A. Increased terrestriality in a701
+Neotropical primate living on islands with reduced predation risk. en.Journal of Human Evolution 143,702
+102768. issn: 00472484. doi:10.1016/j.jhevol.2020.102768 (June 2020).703
+43. Milton, K. & Mittermeier, R. A. A brief survey of the primates of Coiba Island, Panama. en.Primates704
+18, 931–936.issn: 0032-8332, 1610-7365. doi:10.1007/BF02382942 (Oct. 1977).705
+44. Tinsley Johnson, E.et al. High density of white-faced capuchins (Cebus capucinus) and habitat quality706
+in the Taboga Forest of Costa Rica. en.American Journal of Primatology 82, e23096. issn: 1098-2345.707
+doi:10.1002/ajp.23096 (2020).708
+45. Crofoot, M. Mating and feeding competition in white-faced capuchins (Cebus capucinus): the709
+importance of short- and long-term strategies. en.Behaviour 144, 1473–1495.issn: 0005-7959,710
+1568-539X. doi:10.1163/156853907782512119 (Jan. 2007).711
+46. Smith, J. E., Kolowski, J. M., Graham, K. E., Dawes, S. E. & Holekamp, K. E. Social and ecological712
+determinants of fission–fusion dynamics in the spotted hyaena.Animal Behaviour 76, 619–636.issn:713
+0003-3472. doi:10.1016/j.anbehav.2008.05.001 (Sept. 2008).714
+47. Fragaszy, D. M., Visalberghi, E. & Fedigan, L. M.The Complete Capuchin: The Biology of the Genus715
+Cebus en. isbn: 978-0-521-66768-5 (Cambridge University Press, Cambridge, UK, June 2004).716
+48. Perry, S. Intergroup encounters in wild white-faced capuchins (Cebus capucinus). en.International717
+Journal of Primatology 17, 309–330.issn: 1573-8604. doi:10.1007/BF02736624 (June 1996).718
+19
+
+PDF PAGE 20
+49. Phillips, K. A. Resource patch size and flexible foraging in white-faced capuchins (Cebus capucinus). en.719
+International Journal of Primatology 16, 509–519.issn: 1573-8604. doi:10.1007/BF02735800 (June720
+1995).721
+50. Goldsborough, Z. et al. Development and social dynamics of stone tool use in white-faced capuchin722
+monkeys. en. Animal Behaviour. Status: In Press (2026).723
+51. Goldsborough, Z., Crofoot, M. C. & Barrett, B. J. Male-biased stone tool use by wild white-faced724
+capuchins (Cebus capucinus imitator).American Journal of Primatology 86, e23594.725
+doi:10.1002/ajp.23594 (2024).726
+52. Van Leeuwen, K. L., Matsuzawa, T., Sterck, E. H. M. & Koops, K. How to measure chimpanzee party727
+size? A methodological comparison. en.Primates 61, 201–212.issn: 1610-7365.728
+doi:10.1007/s10329-019-00783-4 (Mar. 2020).729
+53. Crofoot, M. C. The cost of defeat: Capuchin groups travel further, faster and later after losing conflicts730
+with neighbors. en.American Journal of Physical Anthropology 152, 79–85.issn: 1096-8644.731
+doi:10.1002/ajpa.22330 (2013).732
+54. Vogel, E. R. Rank differences in energy intake rates in white-faced capuchin monkeys, Cebus capucinus:733
+the effects of contest competition. en.Behavioral Ecology and Sociobiology 58, 333–344.issn: 1432-0762.734
+doi:10.1007/s00265-005-0960-4 (Aug. 2005).735
+55. Asensio, N., Korstjens, A. H., Schaffner, C. M. & Aureli, F. Intragroup Aggression, Fission-Fusion736
+Dynamics and Feeding Competition in Spider Monkeys.Behaviour 145, 983–1001.issn: 0005-7959.737
+doi:10.1163/156853908784089234 (2008).738
+56. Dittus, W. P. J. Group fission among wild toque macaques as a consequence of female resource739
+competition and environmental stress.Animal Behaviour 36, 1626–1645.issn: 0003-3472.740
+doi:10.1016/S0003-3472(88)80104-0 (Nov. 1988).741
+57. Leighton, M. & Leighton, D. R. The Relationship of Size of Feeding Aggregate to Size of Food Patch:742
+Howler Monkeys (Alouatta palliata) Feeding in Trichilia cipo Fruit Trees on Barro Colorado Island.743
+Biotropica 14, 81–90.issn: 0006-3606. doi:10.2307/2387735 (1982).744
+58. Jacobson, O. T.et al. A new approach to geostatistical synthesis of historical records reveals capuchin745
+spatial responses to climate and demographic change. en.Ecology Letters 27. _eprint:746
+https://onlinelibrary.wiley.com/doi/pdf/10.1111/ele.14443, e14443.issn: 1461-0248.747
+doi:10.1111/ele.14443 (2024).748
+59. Tórrez-Herrera, L. L., Davis, G. H. & Crofoot, M. C. Do Monkeys Avoid Areas of Home Range Overlap749
+Because They Are Dangerous? A Test of the Risk Hypothesis in White-Faced Capuchin Monkeys750
+(Cebus capucinus). en.International Journal of Primatology 41, 246–264.issn: 1573-8604.751
+doi:10.1007/s10764-019-00110-0 (Apr. 2020).752
+60. Perry, S. Female-female social relationships in wild white-faced capuchin monkeys, Cebus capucinus.753
+American Journal of Primatology 40, 167–182.issn: 1098-2345.754
+doi:10.1002/(SICI)1098-2345(1996)40:2<167::AID-AJP4>3.0.CO;2-W (1996).755
+61. Crofoot, M. C., Gilby, I. C., Wikelski, M. C. & Kays, R. W. Interaction location outweighs the756
+competitive advantage of numerical superiority in Cebus capucinus intergroup contests.Proceedings of757
+the National Academy of Sciences 105, 577–581. doi:10.1073/pnas.0707749105 (Jan. 2008).758
+62. Wallace, R. A. en. inSocial Behavior (eds Bateson, P. P. G. & Klopfer, P. H.) 167–204 (Springer US,759
+Boston, MA, 1978).isbn: 978-1-4684-2901-5. doi:10.1007/978-1-4684-2901-5_8.760
+63. Stamps, J. A. & Buechner, M. The Territorial Defense Hypothesis and the Ecology of Insular761
+Vertebrates. The Quarterly Review of Biology 60, 155–181.issn: 0033-5770. doi:10.1086/414314 (June762
+1985).763
+64. Nevison, C. M., Barnard, C. J. & Hurst, J. L. The consequence of inbreeding for modulating social764
+relationships between competitors.Applied Animal Behaviour Science 81, 387–398.issn: 0168-1591.765
+doi:10.1016/S0168-1591(02)00278-2 (May 2003).766
+20
+
+PDF PAGE 21
+65. Fox-Rosales, L. A. et al. Niche expansion of capuchin monkeys to forest floor on guild-reduced islands767
+increases interspecific spatio-temporal overlap. en.Biotropica 56, e13315. issn: 0006-3606, 1744-7429.768
+doi:10.1111/btp.13315 (May 2024).769
+66. McCarthy, M. S. et al. An assessment of the efficacy of camera traps for studying demographic770
+composition and variation in chimpanzees (Pan troglodytes). en.American Journal of Primatology 80,771
+e22904. issn: 1098-2345. doi:https://doi.org/10.1002/ajp.22904 (2018).772
+67. McCarthy, M. S.et al. Camera traps provide a robust alternative to direct observations for constructing773
+social networks of wild chimpanzees. en.Animal Behaviour 157, 227–238.issn: 0003-3472.774
+doi:10.1016/j.anbehav.2019.08.008 (Nov. 2019).775
+68. Pebesma, E. et al. sf: Simple Features for R R package version 1.0-19,776
+https://cran.r-project.org/web/packages/sf/index.html. Nov. 2024.777
+69. Hijmans, R. J. et al. raster: Geographic Data Analysis and Modeling R package version 3.6-31,778
+https://cran.r-project.org/web/packages/raster/index.html. Jan. 2025.779
+70. Appelhans, T., Detsch, F., Reudenbach, C. & Woellauer, S.mapview: Interactive Viewing of Spatial780
+Data in R R package version 2.11.2.9001, https://r-spatial.github.io/mapview/. 2024.781
+71. Casaer, J., Milotic, T., Liefting, Y., Desmet, P. & Jansen, P. Agouti: A platform for processing and782
+archiving of camera trap images. en.Biodiversity Information Science and Standards 3, e46690. issn:783
+2535-0897. doi:10.3897/biss.3.46690 (Sept. 2019).784
+72. Barrett, B. J., Goldsborough, Z., Carlson, M. & Dogandžić, T.Coiba Capuchin Agouti Scoring785
+Instructions en. Mar. 2025. doi:10.17617/3.IDD7FC.786
+73. Butts, C. T. sna: Tools for Social Network Analysis R package version 2.8,787
+https://CRAN.R-project.org/package=sna. Sept. 2024.788
+74. R-Core-Team. R: A language and environment for statistical computing https://www.R-project.org/.789
+2022.790
+75. Bürkner, P.-C. brms: An R Package for Bayesian Multilevel Models Using Stan. en.Journal of791
+Statistical Software 80, 1–28.issn: 1548-7660. doi:10.18637/jss.v080.i01 (Aug. 2017).792
+76. Lenth, R. V. et al. emmeans: Estimated Marginal Means, aka Least-Squares Means R package version793
+1.10.7, https://cran.r-project.org/web/packages/emmeans/index.html. Jan. 2025.794
+77. Vehtari, A., Gelman, A., Simpson, D., Carpenter, B. & Bürkner, P.-C. Rank-normalization, folding, and795
+localization: An improved R for assessing convergence of MCMC.Bayesian Analysis 16.796
+arXiv:1903.08008 [stat]. issn: 1936-0975. doi:10.1214/20-BA1221 (June 2021).797
+78. Iannarilli, F., Gerber, B. D., Erb, J. & Fieberg, J. R. A ’how-to’ guide for estimating animal diel798
+activity using hierarchical models. eng.The Journal of Animal Ecology 94, 182–194.issn: 1365-2656.799
+doi:10.1111/1365-2656.14213 (Feb. 2025).800
+79. Ridout, M. S. & Linkie, M. Estimating overlap of daily activity patterns from camera trap data. en.801
+Journal of Agricultural, Biological, and Environmental Statistics 14, 322–337.issn: 1085-7117,802
+1537-2693. doi:10.1198/jabes.2009.08038 (Sept. 2009).803
+80. Pedersen, T. & Robinson, D. gganimate: A Grammar of Animated Graphics R package version804
+1.0.9.9000, https://github.com/thomasp85/gganimate. 2024.805
+81. Vicsek, T., Czirók, A., Ben-Jacob, E., Cohen, I. & Shochet, O. Novel Type of Phase Transition in a806
+System of Self-Driven Particles.Physical Review Letters 75, 1226–1229.807
+doi:10.1103/PhysRevLett.75.1226 (Aug. 1995).808
+21
+
+PDF PAGE 22
+Supporting Information
+Goldsborough, Z, Crofoot, M. C., Minasandra, P., León, J., Castillo-Caballero, P. L., del Rosario-Vargas, E.,
+and Barrett, B. J. Habitual tool use on monopolizable resources alters group cohesion. 2026.
+Animation of capuchin sightings :
+https://keeper.mpdl.mpg.de/d/ad41ce04639143589f79/
+1 Supplemental methods
+Figure S1: Social network of the non-tool-using group. Each node is an individual, and node color reflects
+the age-sex category (pink for adult females, blue for adult males, green for subadults and juveniles). If a
+line connects two individuals, they were observed in the same sequence, the thickness of the line reflects the
+frequency of individuals co-occurring.
+2 Supplemental results
+2.1 Models estimating party size
+S1
+
+PDF PAGE 23
+Table S1: Posterior mean model estimates of Model sps_bm1a, a hurdle Poisson GLMM (BayesR2 = 0.06)
+comparing mean social party size between the tool-using (TU) and non-tool-using group (NTU, the reference
+category). The link for the non-zero component of the model (mu) is log, and for the zero component (hu)
+logit.
+Estimate Est. Error CI_95_low CI_95_high
+Multilevel Hyperparameters
+locationfactor (levels: 49)
+sd(mu_Intercept) 0.39 0.07 0.28 0.54
+sd(hu_Intercept) 0.51 0.08 0.38 0.69
+Regression Coefficients
+mu_Intercept 0.30 0.10 0.09 0.50
+hu_Intercept 0.91 0.12 0.67 1.16
+mu_gridtypeTU -0.26 0.15 -0.55 0.03
+hu_gridtypeTU 0.09 0.18 -0.26 0.45
+Table S2: Posterior mean model estimates of Model sps_sim, a hurdle Poisson GLMM (BayesR2 = 0.40)
+comparing mean social party size in simulated data of 20 capuchins moving through a grid of 25 camera traps
+in three conditions reflecting varying cohesiveness (moving separate, in two subgroups, or together, where
+separate is the reference category). The link for the non-zero component of the model (mu) is log, and for
+the zero component (hu) logit.
+Estimate Est. Error CI_95_low CI_95_high
+Multilevel Hyperparameters
+camera_id (levels: 75)
+sd(mu_Intercept) 0.39 0.05 0.31 0.50
+sd(hu_Intercept) 0.28 0.04 0.21 0.36
+Regression Coefficients
+mu_Intercept -0.76 0.18 -1.14 -0.41
+hu_Intercept 5.42 0.10 5.23 5.61
+mu_condition_subgroups 1.76 0.20 1.38 2.16
+mu_condition_together 2.34 0.20 1.96 2.75
+hu_condition_subgroups -5.84 0.11 -6.07 -5.61
+hu_condition_together -6.32 0.12 -6.56 -6.09
+S2
+
+PDF PAGE 24
+64 81
+25 36 49
+4 9 16
+separate subgroups together separate subgroups together
+separate subgroups together
+0.00
+0.25
+0.50
+0.75
+1.00
+0.00
+0.25
+0.50
+0.75
+1.00
+0.00
+0.25
+0.50
+0.75
+1.00
+Condition
+Probability of zero (hu)
+Number of capuchins = 20, number of cameras varies
+Hurdle−Poisson model: Hurdle component: probability of singleton
+Figure S2: Variability in model estimates of probability of a social party size of 0 (singleton) in the simulated
+data with varying camera traps (4-81) but same number of capuchins (20).
+S3
+
+PDF PAGE 25
+64 81
+25 36 49
+4 9 16
+separate subgroups together separate subgroups together
+separate subgroups together
+0
+5
+10
+0
+5
+10
+0
+5
+10
+Condition
+Predicted count (mu)
+Number of capuchins = 20, number of cameras varies
+Hurdle−Poisson model: Count component: size of party if > 1
+Figure S3: Variability in model estimates of social party size if >0 in the simulated data with varying camera
+traps (4-81) but same number of capuchins (20).
+S4
+
+PDF PAGE 26
+40 50
+10 20 30
+separate subgroups together separate subgroups together
+separate subgroups together
+0.2
+0.4
+0.6
+0.8
+1.0
+0.2
+0.4
+0.6
+0.8
+1.0
+Condition
+Probability of zero (hu)
+Number of cameras = 25, number of capuchins varies
+Hurdle−Poisson model: Hurdle component: probability of singleton
+Figure S4: Variability in model estimates of probability of a social party size of 0 (singleton) in the simulated
+data with varying number of capuchins (10-50) but same number of cameras (25).
+S5
+
+PDF PAGE 27
+40 50
+10 20 30
+separate subgroups together separate subgroups together
+separate subgroups together
+0
+5
+10
+0
+5
+10
+Condition
+Predicted count (mu)
+Number of cameras = 25, number of capuchins varies
+Hurdle−Poisson model: Count component: size of party if > 1
+Figure S5: Variability in model estimates of social party size if >0 in the simulated data with varying number
+of capuchins (10-50) but same number of cameras (25).
+S6
+
+PDF PAGE 28
+2.2 Models estimating party composition
+Table S3: Posterior mean model estimates of Model pc_bm1, a hurdle Poisson GLMM (BayesR2 = 0.04)
+comparing the number of adult females in a party between the tool-using (TU) and non-tool-using group
+(NTU, the reference category). All estimates are on the log scale.
+Estimate Est. Error CI_95_low CI_95_high
+Multilevel Hyperparameters
+locationfactor (levels: 49)
+sd(Intercept) 0.29 0.05 0.20 0.40
+Regression Coefficients
+Intercept -1.04 0.08 -1.21 -0.88
+gridtypeTU -0.23 0.12 -0.46 -0.00
+nAM 0.09 0.07 -0.04 0.22
+gridtypeTU:nAM -0.29 0.12 -0.54 -0.05
+Further Parameters
+zi 0.01 0.01 0.00 0.05
+Table S4: Posterior mean model estimates of Model pc_bm2, a hurdle Poisson GLMM (BayesR2 = 0.08)
+comparing the number of adult males in a party between the tool-using (TU) and non-tool-using group (NTU,
+the reference category). All estimates are on the log scale.
+Estimate Est. Error CI_95_low CI_95_high
+Multilevel Hyperparameters
+locationfactor (levels: 49)
+sd(Intercept) 0.37 0.06 0.26 0.50
+Regression Coefficients
+Intercept -1.15 0.09 -1.35 -0.97
+gridtypeTU -0.50 0.14 -0.78 -0.23
+nAF 0.06 0.05 -0.05 0.17
+gridtypeTU:nAF -0.29 0.12 -0.53 -0.05
+Further Parameters
+zi 0.01 0.01 0.00 0.03
+S7
+
+PDF PAGE 29
+0
+1
+2
+3
+4
+0 1 2 3 4
+Number of adult males
+Number of adult females
+gridtype
+NTU
+TU
+Figure S6: Model estimates from zero-inflated Poisson GLMM of relationship between number of adult
+females and number of adult males occurring together in a sequence for tool-using group (orange) and
+non-tool-using group (green). The bold line reflects the model estimates, with the shaded area representing
+the 95% confidence interval. Points reflects the means from the real data, with whiskers representing their
+95% confidence intervals.
+2.3 Models estimating spatial cohesion
+S8
+
+PDF PAGE 30
+0
+50
+100
+150 200 250 300 350
+Distance between sightings (meters)
+Time between sightings (seconds)
+Any tool use
+No
+Y es
+Co−occurrences at tool use anvils (n = 217)
+Figure S7: Co-occurrences at the anvil cameras in the tool-using group. Each dot represents the co-occurrence
+of two sightings. The x-axis reflects the distance in meters between the cameras where the co-occurring
+sightings were seen, the y-axis reflects the time in seconds between the co-occurring sightings. The color
+reflects whether tool use occurred in either of the sightings (blue for yes, red for no).
+S9
+
+PDF PAGE 31
+Table S5: Posterior mean model estimates of Model spacetime_bm, a hurdle Gamma GLMM (BayesR2 =
+0.35) comparing the distance and time between subsequent capuchin sightings within the same day between
+tool-using (TU) and non-tool-using capuchins (NTU, the reference category). The link for the non-zero
+component of the model (mu) is log, and for the zero component (hu) logit.
+Estimate Est. Error CI_95_low CI_95_high
+Multilevel Hyperparameters
+locationfactor (levels: 49)
+sd(mu_Intercept) 0.23 0.03 0.18 0.30
+sd(hu_Intercept) 0.72 0.11 0.54 0.96
+Regression Coefficients
+mu_Intercept 5.28 0.08 5.12 5.44
+hu_Intercept 3.05 0.23 2.60 3.50
+time_log 0.07 0.02 0.04 0.10
+mu_gridtypeTU 0.10 0.11 -0.12 0.32
+mu_time_log:gridtypeTU -0.01 0.02 -0.04 0.03
+hu_time_log -1.18 0.06 -1.29 -1.07
+hu_gridtypeTU -0.74 0.32 -1.36 -0.13
+hu_time_log:gridtypeTU 0.14 0.07 -0.01 0.29
+Other parameters
+shape 3.84 0.13 3.59 4.09
+Table S6: Posterior mean model estimates of Model spacetime_sim, a hurdle Gamma GLMM (BayesR2
+= 0.49) comparing the distance and time between subsequent capuchin sightings within the same day
+simulated data of 20 capuchins moving through a grid of 25 camera traps in three conditions reflecting varying
+cohesiveness (moving separate, in two subgroups, or together, where separate is the reference category). The
+link for the non-zero component of the model (mu) is log, and for the zero component (hu) logit.
+Estimate Est. Error CI_95_low CI_95_high
+Multilevel Hyperparameters
+camera_id (levels: 75)
+sd(mu_Intercept) 0.14 0.01 0.12 0.17
+sd(hu_Intercept) 0.40 0.05 0.31 0.50
+Regression Coefficients
+mu_Intercept 3.97 0.03 3.92 4.03
+hu_Intercept 2.50 0.09 2.33 2.67
+time_log -0.01 0.00 -0.02 -0.01
+mu_condition_subgroups -0.25 0.05 -0.35 -0.15
+mu_condition_together -1.02 0.07 -1.15 -0.89
+mu_time_log:condition_subgroups 0.05 0.01 0.03 0.06
+mu_time_log:condition_together 0.19 0.01 0.03 0.06
+hu_time_log -1.73 0.02 -1.76 -1.69
+hu_condition_subgroups 2.30 0.15 2.01 2.59
+hu_condition_together 3.48 0.22 3.06 3.93
+hu_time_log:condition_subgroups -0.11 0.04 -0.19 -0.03
+hu_time_log:condition_together -0.25 0.06 -0.37 -0.14
+Other parameters
+shape 5.16 0.05 5.06 5.25
+S10
+
+PDF PAGE 32
+64 81
+25 36 49
+4 9 16
+0 2 4 6 8 0 2 4 6 8
+0 2 4 6 8
+0
+25
+50
+75
+0
+25
+50
+75
+0
+25
+50
+75
+log(time) between sightings
+Predicted distance between sightings
+Condition
+separate
+subgroups
+together
+Number of capuchins = 20, number of cameras varies
+Hurdle−Gamma model: Distance and time between subsequent sightings
+Figure S8: Variability in model estimates of interaction between distance and time between subsequent
+sightings in the simulated data with varying camera traps (4-81) but same number of capuchins (20).
+S11
+
+PDF PAGE 33
+40 50
+10 20 30
+0 2 4 6 8 0 2 4 6 8
+0 2 4 6 8
+0
+25
+50
+75
+0
+25
+50
+75
+log(time) between sightings
+Predicted distance between sightings
+Condition
+separate
+subgroups
+together
+Number of cameras = 25, number of capuchins varies
+Hurdle−Gamma model: Distance and time between subsequent sightings
+Figure S9: Variability in model estimates of interaction between distance and time between subsequent
+sightings in the simulated data with varying number of capuchins (10-50) but same number of cameras (25).
+S12

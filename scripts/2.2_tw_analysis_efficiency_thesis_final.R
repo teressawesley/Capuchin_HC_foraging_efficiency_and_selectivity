@@ -391,9 +391,6 @@ parameter_table <- parameter_summary %>%
       "Posterior median",
       "95% CrI",
       "Posterior SD"))) %>%
-  tab_header(title = "Parameters of the Joint Bernoulli–Gamma Model",
-    subtitle = paste("Posterior medians, 95% credible intervals,",
-      "and posterior standard deviations")) %>%
   tab_source_note(source_note = paste(
       "Success parameters are on the log-odds scale and duration",
       "parameters on the log mean-duration scale; group-level SDs",
@@ -407,7 +404,9 @@ parameter_table <- parameter_summary %>%
 
 parameter_table
 
-# gtsave(parameter_table, filename = "joint_model_parameter_table.html")
+# gt::gtsave(parameter_table, filename = "joint_success_duration_results.docx",
+#   path = "plots_tables")
+
 
 
 ### With RHAT and Bulk ESS -------------------------------------------------------------------
@@ -883,6 +882,7 @@ plot_success_variance_violin <- ggplot(success_variance_draws,
     axis.text.y = element_text(
       colour = "grey20",
       size = 11),
+    axis.title.x = element_text(size = 12),
     axis.line.y = element_blank(),
     axis.ticks.y = element_blank(),
     plot.margin = margin(10, 15, 10, 10))
@@ -1106,21 +1106,45 @@ successful_duration_draws_long <- successful_duration_draws %>%
   mutate(main_technique = factor(main_technique, levels = techniques))
 
 
-ggplot(successful_duration_draws_long, aes(x = successful_duration_s, y = reorder(main_technique, successful_duration_s, FUN = median),
+succuss_duration_halfeye <- ggplot(successful_duration_draws_long, aes(x = successful_duration_s, y = reorder(main_technique, successful_duration_s, FUN = median),
                           fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
                point_interval = median_qi,
                alpha = 0.8) +
-  scale_x_log10(labels = scales::label_number()) +
+  scale_x_continuous(
+    breaks = seq(0, 20, by = 5),
+    labels = scales::label_number()
+  ) +
+  coord_cartesian(xlim = c(0, 20)) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
   labs(#title = "Efficiency (Success Duration)",
-       x = "Expected successful-attempt processing duration (log(seconds))",
+       x = "Expected successful-attempt processing duration (seconds)",
        y = "Main processing technique",
        fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 
+succuss_duration_halfeye
+
+# On the log scale
+
+successful_duration_draws_long <- successful_duration_draws_long %>%
+  mutate(log_duration = log(successful_duration_s))
+
+ggplot(successful_duration_draws_long,
+  aes(x = log_duration, y = reorder(main_technique, log_duration, FUN = median), fill = main_technique)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+    point_interval = median_qi,
+    alpha = 0.8) +
+  scale_x_continuous(breaks = scales::breaks_width(1)) +
+  scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
+  labs(x = "Log expected successful-attempt processing duration\n(ln seconds)",
+    y = "Main processing technique",
+    fill = NULL) +
+  theme_classic(base_size = 14) +
+  theme(legend.position = "none")
 
 ### ! Halfeye - Inefficiency (Failure Duration) -------------------------------------------------------------
 
@@ -1129,20 +1153,24 @@ failed_duration_draws_long <- failed_duration_draws %>%
   pivot_longer(cols = -.draw, names_to = "main_technique", values_to = "failed_duration_s") %>%
   mutate(main_technique = factor(main_technique, levels = techniques) )
 
-ggplot(failed_duration_draws_long, aes(x = failed_duration_s, y = reorder(main_technique, failed_duration_s, FUN = median), fill = main_technique)) +
+failure_duration_halfeye <- ggplot(failed_duration_draws_long, aes(x = failed_duration_s, y = reorder(main_technique, failed_duration_s, FUN = median), fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
     point_interval = median_qi,
     alpha = 0.8) +
-  scale_x_log10(labels = scales::label_number()) +
+  scale_x_continuous(
+    breaks = seq(0, 20, by = 5),
+    labels = scales::label_number()
+  ) +
+  coord_cartesian(xlim = c(0, 20)) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
-  labs(x = "Expected failed-attempt duration (log(seconds))",
+  labs(x = "Expected failed-attempt duration (seconds)",
     y = "Main processing technique",
     fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 
-
+failure_duration_halfeye
 
 
 ### All plots - Efficacy (Probability of Success) -------------------------------------------------------------
@@ -1154,7 +1182,7 @@ success_draws_long <- success_draws %>%
   mutate(main_technique = factor(main_technique, levels = techniques))
 
 
-ggplot(success_draws_long, aes(x = probability_success, y = reorder(main_technique, probability_success, FUN = median),
+success_halfeye <- ggplot(success_draws_long, aes(x = probability_success, y = reorder(main_technique, probability_success, FUN = median),
                                            fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
                point_interval = median_qi,
@@ -1169,7 +1197,7 @@ ggplot(success_draws_long, aes(x = probability_success, y = reorder(main_techniq
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 
-
+success_halfeye 
 
 #### Violin - Efficacy -------------------------------------------------------------
 
@@ -1273,6 +1301,31 @@ ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, y = reorder(mai
        fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
+
+
+
+# On true log scale
+
+integrated_efficiency_halfeye <- ggplot(
+  integrated_efficiency_draws,
+  aes(x = log10(seconds_per_success), #log transforms data 
+    y = reorder(main_technique, seconds_per_success, FUN = median),
+    fill = main_technique)) +
+  stat_halfeye(.width = c(0.66, 0.95),
+    point_interval = median_qi,
+    alpha = 0.8) +
+  scale_x_continuous(breaks = scales::breaks_width(1)) +
+  scale_y_discrete(labels = setNames(
+      str_to_sentence(techs$technique),
+      techs$abb_technique)) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
+  labs(x = "Integrated expected time per success (log10(seconds))",
+    y = "Main processing technique",
+    fill = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none")
+
+integrated_efficiency_halfeye
 
 
 ### Overlapping technique integrated efficiency posterior-density with rug -------------------------------------------------------------
@@ -1776,7 +1829,8 @@ contrast_table <- integrated_efficiency_contrast_summary %>%  gt() %>%
 
 contrast_table
 
-# gtsave(contrast_table, filename = "integrated_efficiency_contrast_summary.png", zoom = 2)
+# gt::gtsave(contrast_table, filename = "joint_success_duration_contrast_table.docx",
+#   path = "plots_tables")
 
 # Plotting
 ggplot(integrated_efficiency_contrasts,

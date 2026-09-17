@@ -1,0 +1,657 @@
+PDF PAGE 1
+Plankton Benthos Res 19(2): 77–83, 2024
+Shell use by megalopae of the hermit crab Pagurus ﬁlholi
+Junko (Takiya) Hara1, Takashi Oba1,†, Kenji Yoshino1,‡ & Seiji Goshima1,$,*
+1 Department of Marine Biology, Faculty of Fisheries Sciences, Hokkaido University, Hakodate, Hokkaido 041–8611, Japan
+† Present address: Fisheries Research Institute, Toyama Prefectural Agricultural, Forestry and Fisheries Research Center, 
+Namerikawa, Toyama 936–8536, Japan
+‡ Present address: National Institute for Minamata Disease, Minamata, Kumamoto 867–0008, Japan
+$ Present address: The Hokkaido University Museum, Sapporo, Hokkaido 060–0810, Japan
+Received 20 June 2023; Accepted 2 March 2024 Responsible Editor: Tsunenori Koga
+doi: 10.3800/pbr.19.77
+Abstract: The close relationship between hermit crabs` ﬁtness and the size and species of gastropod shells they occu-
+py is largely based on studies of young and adult crabs. When hermit crabs settle as megalopae, they too require a shell, 
+but there are few studies of shell selection and use by this early life stage. We examined shell selection by megalopae 
+and early juveniles of the hermit crab Pagurus ﬁlholi for three gastropod shell species, Nassarius fraterculus, Batillaria 
+cumingii, and Homalopoma sangarense, all common in the study area and used by young and adult P . ﬁlholi. The early 
+crab life stages did not prefer any shell species. Shell species had no signiﬁcant eﬀect on the survival of megalopae or 
+early juveniles that were exposed to high water temperatures, nor on crab growth rates or vulnerability to predators. 
+Under desiccating conditions, megalopae and early juveniles had signiﬁcantly lower survival in Homalopoma shells 
+than in Batillaria  shells. These results suggest that variation in ﬁtness across shell species has not selected for shell 
+species preferences by early life stages of P . ﬁlholi perhaps explaining why they occupy shell species more equitably 
+compared to later life stages for which ﬁtness varies with the species of shell they occupy.
+Key words: ﬁtness, magalopae, ontogenetic shift, shell availability, shell preference
+Introduction
+The gastropod shells hermit crabs occupy help protect 
+them from predation and reduce crab mortality from des-
+iccation and exposure to high temperatures (e.g., Hazlett 
+1981, Yoshino 2021); crabs cannot survive without such 
+shells. Hermit crabs also use gastropod shells as oviposi -
+tion sites in which they incubate eggs attached to pleopods. 
+The size and species of gastropod shell that crabs occupy 
+aﬀects crab growth, fecundity, and survival. For example, 
+crabs in smaller or heavier shells have lower growth rates 
+than those in larger or lighter shells (Fotheringham 1976a, 
+Bertness 1981a, Wada 2000, Yoshino & Goshima 2001). 
+The volume of space inside a shell sets the upper limit 
+on the number of eggs that a crab can incubate (Wait & 
+Schoeman 2012); occupants with smaller or heavier shells 
+have fewer eggs than those with larger or lighter shells 
+(Fotheringham 1976, Bertness 1981a, Yoshino & Goshima 
+2001). Such relationships indicate that crab ﬁtness is close-
+ly related to the features of the shells they occupy includ-
+ing size and shell species.
+Almost all studies on shell use by hermit crabs have 
+been carried out on young and adult crabs. Few studies 
+have been conducted on megalopae, the life stage at which 
+crabs ﬁrst need a shell. Hermit crab megalopae ﬁnd shells, 
+occupy them, and then metamorphose to the ﬁrst crab 
+stage (Worcester & Gaines 1997, Oba & Goshima 2004). It 
+is not known whether the ﬁtness of megalopae varies with 
+shell features and megalopae therefore select certain shells 
+over others. Alternatively, megalopae may be relatively un-
+selective because they need to ﬁnd a shell quickly and 
+they occupy the shell only brieﬂy before they molt, thus 
+limiting their exposure to predators and other sources of 
+mortality while in their ﬁrst shell (e.g., Harvey 1996). The 
+present study examines the selectivity for the ﬁrst shell 
+that megalopae and ﬁrst crab instars use. We determined 
+which shell species and sizes megalopae and early juve -
+niles of the hermit crab selected in laboratory experiments 
+and in ﬁeld observations, and examined the inﬂuence of 
+* Corresponding author: Seiji Goshima; E-mail, goshima@kje.biglobe.
+ne.jp
+ 
+Plankton & Benthos 
+Research
+© The Japanese Association of Benthology
+
+PDF PAGE 2
+J. T. Hara et al.
+78
+shell species and size on their survivorship and growth. 
+We also examined ontogenetic changes in the range of oc-
+cupied shells based on the experimental results and obser-
+vations published elsewhere.
+Materials and Methods
+The hermit crab Pagurus ﬁlholi  was sampled on a ﬂat 
+intertidal rocky shore at Kattoshi located at the south -
+west side of Hakodate Bay, Hokkaido, Japan (41°44′34″N, 
+140°36′08″E). At this location, this species of hermit crab 
+breeds from February to August, primarily from March 
+to July (Goshima et al. 1998), and settlement of the mega -
+lopa stage occurs from August to November, primarily in 
+August and September (Oba & Goshima 2004). Over 90% 
+of juvenile and young crabs (less than 1.5 mm in shield 
+length) are found in the shells of the gastropods Nassarius 
+fraterculus, Batillaria cumingii , and Homalopoma sanga -
+rense (Ohmori et al. 1995; Yoshino et al. 2001; Oba & Gos-
+hima 2004) (hereafter we will use only the generic name 
+for these shell species). These gastropods are abundant at 
+Kattoshi (Ohmori et al. 1995; Yoshino et al. 2001) and we 
+used their shells in the following experiments.
+Ovigerous females of the hermit crab were collected at 
+Kattoshi on May 2002 and brought to the laboratory. Each 
+ovigerous female was held in a 120-mL plastic bottle with 
+seawater at room temperature (approximately 18–25°C) un-
+til the female released her zoeae larvae. The larvae from 
+20 females were pooled in a 400-mL plastic container with 
+seawater and reared in an incubator set at a constant tem -
+perature of 18°C until the megalopal stage. Zoeae were 
+fed nauplius larvae of Artemia salina , and the seawater in 
+the container was changed daily. Megalopae obtained from 
+this rearing procedure were used in the following experi-
+ments. We used each megalopa only once.
+Shell size preference test
+We prepared many empty shells of the three species col-
+lected at Kattoshi. Shell widths ranged from 1.7 to 4.3 mm 
+for Nassarius, 1.5–4.3 mm for Batillaria, and 2.0–5.0 mm 
+for Homalopoma. The shells were divided into 10 size 
+classes with 0.26 mm interval for Nassarius, 0.28 mm in -
+terval for Batillaria, and 0.30 mm interval for Homalopo-
+ma. Forty shells of each species, 4 in each of 10 size class-
+es, were prepared for the shell size preference test. One 
+megalopa and the 40 shells of one species were placed into 
+a 400-mL experimental container in an incubator set at a 
+constant temperature of 18°C. Megalopae were observed 
+until they selected a shell and metamorphosed to the ﬁrst 
+crab stage. The size of the shell used by the megalopa 
+when it molted to the ﬁrst crab was designated as the pre-
+ferred size. This test was repeated 25 times for each shell 
+species. During the experiment, no food was provided be-
+cause megalopae of Pagurus do not feed (Dawirs 1981). 
+The water in the container was not changed to avoid any 
+disturbance. For each shell species we ﬁtted the sizes of 
+the 25 selected shells to a normal distribution and then de-
+termined the preferred size range by excluding the smallest 
+30% and largest 30% shells from the curve.
+Shell species preference test
+We determined whether megalopae preferred a species 
+of shell by conducting pairwise tests using two shell spe -
+cies at a time. The tests were conducted in 400-mL con -
+tainers in an incubator at 18 °C. We placed one megalopa 
+into the container with seawater and 10 shells of the pre-
+ferred sizes, ﬁve each from two of the three species. We 
+recorded which shell species was occupied when the larva 
+metamorphosed to the ﬁrst crab stage. This experiment 
+included 30 replicate trials for each pairwise shell species 
+combination. Megalopae were not fed during the experi -
+ment and the water was not changed.
+Growth experiment
+We conducted experiments to determine whether mega-
+lopae grow at diﬀerent rates in shells of the three species. 
+We placed one megalopa, 16 shells of the preferred size 
+and a few slightly larger shells into a 120-mL plastic bottle 
+with seawater in an incubator set at a constant temperature 
+of 18°C. Early juveniles were fed an artiﬁcial diet for ju-
+venile ﬁsh (Chubu Shiryo Co. Ltd., Nagoya), and seawater 
+was changed every day. The experiment was continued 
+until the megalopa metamorphosed and molted into the 
+third crab stage. We recorded the days from megalopa to 
+the third crab stage for 20 individuals for each of the three 
+shell species and we measured the shield length of the third 
+crabs using a micrometer after ﬁxing them in 5% formalin.
+Resistance to desiccation
+We conducted an experiment to determine the ability of 
+the ﬁrst crab instar that used diﬀerent shell species to resist 
+desiccation. Each megalopa was provided one of the three 
+shell species and allowed to metamorphose to the ﬁrst crab 
+stage. From 8 to 10 ﬁrst crab instars were used with each 
+shell species. The ﬁrst crabs with each shell species were 
+placed on wet sand (grain size, approximately 1 mm in 
+diameter) in a plastic container for 6 h in an incubator set 
+at a constant temperature of 18°C. After 6 h, we examined 
+each crab and determined whether it was dead or alive. We 
+conducted ﬁve replicate trials for crabs in each of the three 
+shell species. Megalopae leave their shells when stressed 
+making it impossible to run such tests using this earlier life 
+stage.
+Resistance to high temperature
+We conducted an experiment to measure survival of ﬁrst 
+crab instars that used diﬀerent shell species when exposed 
+to an elevated water temperature. Each megalopa was pro -
+vided one of the three shell species and allowed to meta -
+morphose to the ﬁrst crab stage. Ten ﬁrst crabs in each shell 
+species were placed into a 400-mL plastic container with 
+seawater at 37°C, an extreme high temperature observed in 
+
+PDF PAGE 3
+79
+Shell use by hermit crab megalopae
+the tide pools at Kattoshi. After 6 h, we checked whether 
+each crab was dead or alive and determined survival of the 
+crabs. We conducted ﬁve replicate trials for the ﬁrst crabs 
+with each of the three shell species. The measure was use-
+ful for comparing the relative ability of ﬁrst crabs in the 
+diﬀerent species of shells to withstand the highest tempera-
+ture they are likely to experience in the ﬁeld.
+Resistance to crushing
+We measured the resistance of each shell species to 
+simulated crushing by predators. Each empty shell of the 
+preferred size range was ﬁxed by a bench vise and the vise 
+was tightened until the shell cracked. The force required to 
+crack the shell was measured using a force gauge (CNYST, 
+YST-200, China) connected to the vise. We continued to 
+tighten the vise until the shell cracked again and measured 
+the force. The two measurements were averaged for each 
+shell because the ﬁrst crack by crushing predators is not 
+always fatal to the megalopa. This experiment included 15 
+replicate trials for each shell species. This method indirect-
+ly assesses the resistance of each shell species to the shell-
+crushing predators such as varunid crabs, Gaetice depres -
+sus, Hemigrapsus sanguineus , and H. takanoi , which are 
+often observed at Kattoshi (Yoshino et al. 2002). These 
+predators crush the small shells used by small hermit crabs 
+whole. They do not chip shells along the margins as they 
+do for the shells used by larger hermit crabs.
+Shells used by megalopae in the ﬁeld
+We examined shell occupancy by megalopae and early 
+postsettlement juveniles (ﬁrst crab stage) of P. ﬁlholi at 
+Kattoshi. Quadrat sampling was carried out once a month 
+from December 1999 to December 2000. Twenty quad -
+rats (20 cmʷ20 cm) were placed on the intertidal ﬂat each 
+month and all gastropod shells in each quadrat were col-
+lected. Samples were sorted under a microscope into meg -
+alopae, early postsettlement individuals, and vacant shells 
+(see for details, Oba & Goshima 2004). Crab species iden-
+tiﬁcation is diﬃcult at the megalopal stage; thus, we reared 
+them separately in the laboratory until they molted to the 
+ﬁrst crab stage, enabling us to identify crabs at a species 
+level among several Pagurus  species present at the study 
+site (Quintana & Iwata 1987, Konishi & Quintana 1988, 
+Oba et al. 2006). We recorded the shell species used by the 
+megalopae and ﬁrst crab instars of P. ﬁlholi and calculated 
+the Pielou`s index of equitability (J′) of the occupied shells 
+using the following equations: 
+ / , ln , lnmax i i maxJ HH H p p H S′ ′′ ′ ′− = = =    
+where pi is the ratio of the number of individuals of the i-th 
+species to the total individuals, H ′ is the Shannon diversity 
+index, and S is the total number of inhabited gastropod 
+shell species in the sample. J ′ is the equitability component 
+of diversity, a measure of evenness that quantiﬁes how 
+comparable the number of individuals of each used shell 
+species is, ranging between 0 and 1. The more even the 
+use of shell species, the larger J′ is (e.g., Kimoto 1989). We 
+compared J′ values with those of young and adult hermit 
+crabs published elsewhere (Yoshino et al. 2001).
+We also examined the eﬀects of the shell availability and 
+shell species preference on the observed shell use pattern 
+of the megalopae and ﬁrst crab instars at Kattoshi. The 
+number of vacant shells obtained in the quadrat sampling 
+from April to July 2000 at Kattoshi was used as the shell 
+abundance of each species (Table 1 in Oba & Goshima 
+2004). We compared the relative number of shells of each 
+species occupied by megalopae and ﬁrst crabs in the Au -
+gust to November 2000 samples with our estimate of the 
+relative abundance of shells available assuming no diﬀer-
+ence in shell availability across sampling periods.
+Statistical analyses
+All statistical analyses were performed by R ver. 4.1.2 
+(R Core Team 2021). The proportions of the two select -
+ed shell species in the shell species preference test were 
+compared using a binomial test. Time from megalopae to 
+the third crab stage, shield length of the third crabs, and 
+forces exhibited to crack shells were compared among the 
+three shell species by one-way ANOVA. The proportions 
+of crabs that survived desiccation and the high tempera -
+ture were compared among individuals inhabiting diﬀerent 
+shell species using quasibinomial logistic regressions to 
+cope with overdispersions. If the overall eﬀect was sig -
+niﬁcant, then multiple comparisons were performed using 
+Tukey contrasts and Type I error corrections following the 
+Westfall method using the package lmultcompz. We exam-
+ined the eﬀects of the shell availability and shell preference 
+on the observed shell use pattern of the megalopae and 
+early juveniles at Kattoshi, by comparing the number of 
+occupants with the abundance of each shell species. We 
+used the Kendall rank correlation and Fisher`s exact prob-
+ability test extended for larger than the original 2ʷ2 table.
+Results
+The preferred range in width of gastropod shells for 
+megalopae was 2.50–2.71 mm for Nassarius, 2.42–
+Table 1. Results of the shell species preference test by the 
+hermit crab Pagurus ﬁlholi in pairwise tests using two of the three 
+gastropod shell species.
+Shell species
+Choice 1 : Choice 2
+Binomial test
+Choice 1 Choice 2 Z p
+Nassarius 
+fraterculus
+Batillaria 
+cumingii
+12 : 18 1.095 0.274
+Nassarius 
+fraterculus
+Homalopoma 
+sangarense
+11 : 19 1.461 0.144
+Batillaria 
+cumingii
+Homalopoma 
+sangarense
+14 : 16 0.365 0.715
+
+PDF PAGE 4
+J. T. Hara et al.
+80
+2.68 mm for Batillaria, and 2.86–3.19 mm for Homalopo-
+ma. We used gastropod shells of these size ranges in the 
+experiments.
+No signiﬁcant diﬀerence in species preference was ob -
+served among species combinations (binomial test, p > 0.14 
+for all combination, Table 1). There was no signiﬁcant dif-
+ference in the mean time from megalopa to the third crab 
+stage (one-way ANOVA, F2, 50 = 0. 58 0,  n = 53,  p = 0. 563)  
+or mean shield length of the third crab ( F2, 44 = 0.747, 
+n = 47, p = 0.478) among crabs in the three shell species 
+(Table 2).
+The survivorship of the ﬁrst crab instars with each shell 
+species in the desiccation condition are shown in Fig. 
+1a. A signiﬁcant diﬀerence in survivorship under desic -
+cating conditions was observed among the ﬁrst crabs 
+with three diﬀerent shell species ( G2 = 6.147,  n = 5 each, 
+p = 0.046, Fig. 1a). The diﬀerence in survivorship of the 
+ﬁrst crab instars inhabiting Batillaria and Homalopoma  
+shells was marginally non-signiﬁcant (Z =  −2.256, n = 5  
+each, p = 0.061). Comparison of regression coeﬃcients re-
+vealed a signiﬁcantly lower survivorship of the ﬁrst crabs 
+inhabiting Homalopoma compared with those inhabit -
+ing Batillaria (t12 = −2.256, n = 5 each, p = 0.044). Over-
+all, crabs inhabiting Batillaria survived best followed by 
+those inhabiting Nassarius  and then Homalopoma . There 
+was no signiﬁcant diﬀerence in survivorship at high tem-
+perature among the ﬁrst crabs with three diﬀerent shells 
+(G2 = 0. 553,  n = 5 each, p = 0.758, Fig. 1b). The mean 
+cracking forces did not diﬀer signiﬁcantly among the three 
+shell species (one-way ANOVA, F2, 42 = 1.6 0 0,  n = 45,  
+p = 0.214, Fig. 1c).
+Shell use pattern at Kattoshi was not only highly associ-
+ated with the amount of each shell species (Kendall rank 
+correlation coeﬃcient τ =  0 . 6 6 7 ,  n = 7, p = 0.023) but also 
+was consistent with the relative abundance of each shell 
+species (Fisher`s exact probability test, p = 0.544): mega-
+lopae and the ﬁrst crab instars used the shell species in ac-
+cordance with their availability when settling at Kattoshi, 
+which was consistent with no shell preferences revealed in 
+the laboratory experiment.
+Table 3 shows the main species and evenness index ( J′) 
+in the shell species used by megalopae and the ﬁrst crab 
+Table 2. Mean days from megalopa to the third crab stage and 
+mean shield length of the third crabs Pagurus ﬁlholi  inhabiting 
+each shell species in the growth experiment. Mean days and mean 
+shield length did not diﬀer among crabs using diﬀerent shell species.
+Shell species Mean days ± SE Mean shield 
+length ± SE (mm)
+Nassarius fraterculus 36.6 ± 0.8 1.20 ± 0.03
+Batillaria cumingii 37.2 ± 0.7 1.20 ± 0.03
+Homalopoma sangarense 37.6 ± 0.4 1.16 ± 0.02
+One-way ANOVA F2, 50 = 0.580 F2, 44 = 0.747
+p = 0.563 p = 0.478
+Fig. 1. Comparison of the ﬁtness components of megalopae 
+and early juveniles of the hermit crab Pagurus ﬁlholi among the 
+three shell species that they used. Survivorship of the hermit 
+crabs inhabiting Nassarius fraterculus, Batillaria cumingii , and 
+Homalopoma sangarense under (a) desiccation (18° C, 6 h, no 
+seawater but wet sand) and (b) high water temperature (37°C, 6 h), 
+as well as (c) forces to break shells of each shell species. Vertical 
+bars indicate +SE. A signiﬁcantly lower survivorship was ob-
+served for the ﬁrst crabs inhabiting Homalopoma compared with 
+those inhaviting Batillaria under the desiccation ((a): G 2 = 6.147, 
+n = 5 each, p = 0.046), and no signiﬁcant diﬀerence among the 
+three shell species was observed under the high water tempera -
+ture treatment ((b): G 2 = 0.553, n = 5 each, p = 0.758) nor among 
+the forces needed to break the shells ((c): F2, 42 = 1.600, n = 45, 
+p = 0.214).
+
+PDF PAGE 5
+81
+Shell use by hermit crab megalopae
+stage of P. ﬁlholi at Kattoshi. Six species of the gastropod 
+shells were used by 23 megalopae and ﬁrst crabs. The most 
+frequently used shell species was Nassarius (10 individu -
+als), followed by Homalopoma (6), Cantharidus japonicas  
+(3), Lacuna decorate (2), Conotalopia mustelina (1), and an 
+unknown species (1). Batillaria cumingii , a species used in 
+the present study, was not included in the 23 shells occu -
+pied. The omission of this otherwise common species may 
+have been a consequence of the small sample size, spatial 
+contagion in the ﬁeld, or both. Overall, the evenness index 
+(J′) was 0.872 in shell use for the megalopae and ﬁrst crabs 
+at Kattoshi, which was nearly the same as that of small 
+hermit crabs but higher than that of medium and large her-
+mit crabs (Table 3).
+Discussion
+Megalopa did not prefer any gastropod shell species 
+among the three that were oﬀered. There were no diﬀer-
+ences in tolerance to high seawater temperature, growth 
+rates, body length, and risk of vulnerability to predators, 
+among the megalopae and early postsettlement juveniles 
+inhabiting diﬀerent shell species. Under only the desic -
+cation condition, individuals inhabiting Homalopoma  
+showed signiﬁcantly lower survivorship than those in -
+habiting Batillaria shells. However, they may seldom die 
+from desiccation on the shore at Kattoshi because they live 
+in the middle and lower intertidal zone (Oba & Goshima 
+2004) and are exposed to the air only about 4 h per low 
+tide (Japan Meteorological Agency 2023). In addition, 
+moist conditions under many stones and rocks provide ref-
+uge from desiccation. We found no evidence that megalo-
+pae select a shell following strict preferences but rather oc-
+cupy shell species in proportion to their availability where 
+they settle in the ﬁeld at Kattoshi. Megalopae and ﬁrst crab 
+instars occupied shell species more equitably than larger 
+and older hermit crabs. Although only 23 individuals from 
+the ﬁeld were examined, megalopae and ﬁrst crabs used 
+six shell species, while 54 larger and older hermit crabs 
+used predominantly two and rarely more species (Table 3). 
+The early life stages use shells opportunistically rather 
+than selectively as crabs do later in life (Straughan & Gos-
+selin 2014).
+Opportunism in shell use may be related to the short 
+time megalopae use shells. Depending on water tempera -
+ture, megalopae of Pagurus molt to the ﬁrst crab from 
+about 4 to 10 days (Roberts 1971, Dawirs 1981, Quintana 
+& Iwata 1987, Harvey & Colasurdo 1993, Harvey 1996, 
+present study). Pagurus megalopae do not feed (Dawirs 
+1981, Harvey & Colasurdo 1993, Harvey 1996) and do not 
+extend the megalopal stage (Harvey & Colasurdo 1993) 
+even if it cannot get a shell (T. Oba, personal observation). 
+Megalopae may need to ﬁnd a shell quickly for immedi -
+ate protection (any shell of suitable size) without spending 
+Table 3. Ontogenetic shifts in shell use by the hermit crab Pagurus ﬁlholi at Kattoshi, Hakodate Bay, Hokkaido, Japan.
+Body size (shield length, mm) Main shell species used  
+(% of use)1)
+No. of shell species used  
+(no. of hermit crabs examined)
+Evenness  
+index J′ References
+Megalopae (ca. 1 mm) Nassarius (43.5%) 6 (23) 0.8152) The present study 
+based on Oba & 
+Goshima (2004)
+Homalopoma (26.1) (0.872)3)
+Cantharidus (13.0)
+Small males (1.2–2.5 mm) Nassarius (36.4) 5+ (264) 0.915*
+Yoshino et al. (2001)
+Homalopoma (28.0)
+Littorina (15.9)
+Batillaria (10.2)
+Small females (1.2–2.5 mm) Homalopoma (33.1) 5+ (508) 0.856*
+Nassarius (31.5)
+Batillaria (25.4)
+Medium males (2.5–3.5 mm) Littorina (74.2) 4+ (66) 0.519*
+Medium females (2.5–3.5 mm) Littorina (47.5) 5+ (265) 0.746*
+Batillaria (33.2)
+Homalopoma (12.8)
+Large males (>3.5 mm) Littorina (80.2) 2+ (101) 0.453*
+Large females (>3.5 mm) Littorina (98.1) 2 (54) 0.084*
+J′: Pielou`s index of the equitability of shell species that hermit crabs used. 
++  More species may be included because the category lothersz in the cited paper included at least one species, but the number of species and 
+species name were not given. 
+* For the calculation of J′, the category lothersz was regarded as one species for simplicity. 
+1) The percentage of the number of shells of commonly used species (>10%) in each sex and size class. 
+2) J′ index was calculated using data for all the six species. 
+3) J′ index was calculated using data from the ﬁve most abundant species as the same way applied to the other size classes.
+
+PDF PAGE 6
+J. T. Hara et al.
+82
+time assessing shell quality, or searching whilst lnakedz 
+during the short time after settlement. Megalopae crawl 
+and ﬁnd a shell by tactile cue and enter it at any time dur-
+ing the megalopal stage (Roberts 1971, Harvey & Colas -
+urdo 1993), and then metamorphose to the ﬁrst crab stage. 
+Pagurid megalopae generally have little trouble locating 
+suitable shells (Harvey & Colasurdo 1993). These charac-
+teristics and behavior probably cause the usage pattern of 
+inhabiting various shell species in early life.
+We know of only one paper dealing with shell prefer-
+ences of megalopae of a hermit crab (Worcester & Gaines 
+1997). Megalopae of P. hirsutiusculus  prefer speciﬁc shell 
+species, but the eﬀect of shell availability on the shell use 
+pattern were not thoroughly explored. We therefore ana-
+lyzed the association between the abundance of each shell 
+species available and shell species occupied by megalopae 
+using data shown in the paper. Shell availability aﬀected 
+shell use (Kendall rank correlation coeﬃcient, τ =  0 . 8 6 7 ,  
+p = 0.017, n = 6), as we found in this study of P. ﬁlholi.
+This study and that of Yoshino et al. (2001) indicate a 
+major ontogenetic shift in shell use (with the caveat that 
+the exact number of shell species used by the life stages 
+in Yoshino`s study is not known because rare species were 
+pooled). Pagurus ﬁlholi  megalopae do not prefer some 
+shell species over others, in contrast to a clear preference 
+in adults (Yoshino et al. 1999). The number of commonly 
+used shell species and the evenness index progressively 
+decrease with the increase in crab body size. The avail -
+ability of suitably sized shells of the diﬀerent species likely 
+decreases with crab size. Whereas small shells of all spe -
+cies may be relatively abundant, there may be fewer larger 
+gastropod species and hence larger empty shells than small 
+ones (e.g., Fotheringham 1976b). The evenness index ( J′) 
+takes into account the diﬀering number of available shell 
+species among size classes. The decrease in this index with 
+increasing crab size (Table 3) indicates the dominant use 
+of some gastropod species by the medium and large hermit 
+crabs under the constraint of decreased shell species avail-
+ability.
+The most likely driving force for the dominant use of 
+a particular species by young and adult hermit crabs is 
+shell species preference, which may improve survival and 
+reproduction (Yoshino 2021). According to Yoshino et al. 
+(2001) and Yoshino (2021), in P. ﬁlholi  at Kattoshi, small 
+males primarily use Nassarius and Homalopoma  (Table 
+3) because they grow faster in lighter shells and relatively 
+quickly obtain the beneﬁts of larger size in intraspeciﬁc 
+competition and mating (Wada et al. 1999, Yoshino & Gos-
+hima 2002, Yasuda & Koga 2016). Meanwhile, medium 
+females also use Batillaria that maintain water to incubate 
+eggs within taller spires (Bertness 1981b). These preferenc-
+es are peculiarly reﬂected by the higher use of Batillaria in 
+females than in males of medium size and the decrease in 
+evenness (J′) of medium males (Table 3).
+The ontogenetic decrease in the number and diversity of 
+inhabited shell species is often observed (Asakura & Kiku-
+chi 1984, Ohmori et al. 1995, Yoshino et al. 2001, Pardo et 
+al. 2007, Oba et al. 2008, Straughan & Gosselin 2014, but 
+an exception in Gherardi et al. 1994). The very brief time 
+that megalopae and rapidly growing early crab stages use 
+shells should minimize eﬀects of shell species on compo -
+nents of ﬁtness; all species may provide suﬃcient tempo -
+rary protection. As crabs grow and use their shells for lon-
+ger periods variation in other ﬁtness components with shell 
+species may begin to select for shell species preferences 
+(Yoshino et al. 2001; Yoshino 2022). Such preferences will 
+further restrict the number of shell species used under de-
+creasing shell species availability with increasing hermit 
+crab size, making a decreasing trend in the number and 
+diversity of gastropod shell species used with ontogeny. 
+This mechanism might explain the observed ontogenetic 
+decrease in the diversity of inhabited shell species.
+Acknowledgements
+We thank all members of the Laboratory of Marine Bi-
+ology, Hokkaido University, for their valuable discussion 
+and help during this study, particularly to C. I. Yasuda 
+for providing the gastropod shells for the experiments. R. 
+W. Elwood and an anonymous reviewer provided valuable 
+comments on the previous version of the manuscript. We 
+thank J. H. Christy for thoughtful suggestions that much 
+improved the ﬁnal manuscript.
+Ethical approval
+All applicable national and institutional guidelines for 
+the care and use of animals were followed.
+References
+Asakura A, Kikuchi T (1984) Population ecology of the sand 
+dwelling hermit crab, Diogenes nitidimanus  Terao. 1. Shell 
+utilization. Publ Amakusa Mar Biol Lab, Kyushu Univ 7: 95–
+108.
+Bertness MD (1981a) The inﬂuence of shell type on hermit crab 
+growth rate and clutch size (Decapoda, Anomura). Crusta -
+ceana 40: 197–205.
+Bertness MD (1981b) Predation, physical stress, and the organi-
+zation of a tropical rocky intertidal hermit crab community. 
+Ecology 62: 411–425.
+Dawirs RR (1981) Elemental composition (C, N, H) and energy 
+in the development of Pagurus bernhardus  (Decapoda: Pagur -
+idae) megalopa. Mar Biol 64: 117–123.
+Dowds BM, Elwood RW (1983) Shell wars: assessment strategies 
+and the timing of decisions in hermit crab shell ﬁght. Behav -
+iour 85: 1–23.
+Fotheringham N (1976a) Population consequences of shell utili-
+zation by hermit crabs. Ecology 57: 570–578.
+Fotheringham N (1976b) Hermit crab shells as a limiting re -
+source (Decapoda, Paguridea). Crustaceana, 31: 193–199.
+Gherardi F, Zatteri F, Vannini M (1994) Hermit crabs in a man-
+
+PDF PAGE 7
+83
+Shell use by hermit crab megalopae
+grove swamp: the structure of Clibanarius laevimanus  clus -
+ters. Mar Biol 121: 41–52.
+Goshima S, Kawashima T, Wada S (1998) Mate choice by males 
+of the hermit crab Pagurus ﬁlholi : Do males assess ripeness 
+and/or fecundity of females? Ecol Res 13: 151–161.
+Harvey AW (1996) Delayed metamorphosis in Florida hermit 
+crabs: multiple cues and constraints (Crustacea: Decapoda: 
+Paguridae and Diogenidae). Mar Ecol Prog Ser 141: 27–36.
+Harvey A W, Colasurdo EA (1993) Eﬀects of shell and food avail-
+ability on metamorphosis in the hermit crabs Pagurus hirsuti -
+usculus (Dana) and Pagurus granosimanus  (Stimpson). J Exp 
+Mar Biol Ecol 165: 237–249.
+Hazlett BA (1981) The behavioral ecology of hermit crabs. Ann 
+Rev Ecol Syst 12: 1–22.
+Japan Meteorological Agency (2023) Tide tables. Available at: 
+https://www.data.jma.go.jp>kaiyo>tide (accessed on 5 Octo -
+ber 2023).
+Kimoto S (1989) Community parameters and diversity indices. 
+In: Introduction to Community Ecology. (eds Kimoto S, Take-
+da H). Kyoritsu Shuppan, Tokyo, pp. 123–151. (in Japanese)
+Konishi K, Quintana R (1988) The larval stages of three pagurid 
+crabs (Crustacea: Anomura: Paguridae) from Hokkaido, Ja-
+pan. Zool Sci 5: 464–482.
+Oba T, Goshima S (2004) Temporal and spatial settlement pat -
+terns of sympatric hermit crabs and the inﬂuence of shell re-
+source availability. Mar Biol 144: 871–879.
+Oba T, Konishi K, Goshima S (2006) Larval and postlarval de -
+velopment of Pagurus nigrofascia  (Decapoda: Anomura: 
+Paguridae) reared in the laboratory. J Mar Biol Ass UK 86: 
+1407–1419.
+Oba T, Wada S, Goshima S (2008) Shell partitioning of two sym-
+patric hermit crabs, Pagurus middendorﬃi  and P. brachio -
+mastus, in north-eastern Hokkaido, Japan. J Mar Biol Ass UK 
+88: 103–109.
+Ohmori H, Wada S, Goshima S, Nakao S (1995) Eﬀects of body 
+size and shell availability on the shell utilization pattern of the 
+hermit crab Pagurus ﬁlholi  (Anomura: Paguridae). Crust Res 
+24: 85–92.
+Pardo LM, Piraud F, Mantelatto F, Ojeda FP (2007) Ontogenetic 
+pattern of resource use by the tiny hermit crab Pagurus villo -
+sus (Paguridae) from the temperate Chilean coast. J Exp Mar 
+Biol Ecol 353: 68–79.
+Quintana R, Iwata F (1987) On the larval development of some 
+hermit crabs from Hokkaido, Japan, reared under laboratory 
+conditions (Decapoda: Anomura). J Fac Sci Hokkaido Ser VI 
+Zool 25: 25–85.
+R Core Team (2021) R: A language and environment for statisti-
+cal computing (R version 4.1.2). R Foundation for Statistical 
+Computing. https://r-project.org/
+Roberts MH Jr (1971) Larval development of Pagurus longicar -
+pus Say reared in the laboratory. IV. Aspects of the ecology of 
+the megalopa. Biol Bull 141: 162–166.
+Straughan NA, Gosselin LA (2014) Ontogenetic changes in shell 
+preferences and resource partitioning by the hermit crabs 
+Pagurus hirsutiusculus  and P. granosimanus . J Exp Mar Biol 
+Ecol 451: 1–8.
+Wada S (2000) Seasonal growth pattern and the eﬀect of gastro-
+pod shells on sexual growth rates in the hermit crab Pagurus 
+middendorﬃi. Bull Fac Fish Hokkaido Univ 51: 1–11.
+Wada S, Tanaka S, Goshima S (1999) Precopulatory mate 
+guarding in the hermit crab Pagurus middendorﬃi  (Brandt) 
+(Decapoda: Paguridae): eﬀects of population parameters on 
+male guarding duration. J Exp Mar Biol Ecol 239: 289–298.
+Wait M, Schoeman DS (2012) Shell use, population structure, 
+and reproduction of the hermit crab, Clibanarius virescens  
+(Kraus, 1843) at Cape Recife, South Africa. J Crust Biol 32: 
+203–214.
+Worcester SF, Gaines SD (1997) Quantifying hermit crab re -
+cruitment rates and megalopal shell selection on wave-swept 
+shores. Mar Ecol Prog Ser 157: 307–310.
+Yasuda CI, Koga T (2016) Do weaponless males of the hermit 
+crab Pagurus minutus  give up contests without escalation? Be-
+havior of intruders that lack their major cheliped in male-male 
+contests. J Ethol 34: 249–254.
+Yoshino K (2021) Sexual segregation of shell resource use by 
+hermit crabs: Ecological and evolutionary factors. Jap J Ben-
+thol 76: 1–12. (in Japanese)
+Yoshino K, Goshima S (2001) Functional roles of gastropod 
+shells in the hermit crab Pagurus ﬁlholi : eﬀects of shell size 
+and species on ﬁtness. Benthos Res 56: 87–93.
+Yoshino K, Goshima S (2002) Sexual dominance in hermit crab 
+shell ﬁghts: asymmetries in owner-intruder status, crab size 
+and resource value between sexes. J Ethol 20: 63–69.
+Yoshino K, Goshima S, Nakao S (1999) The interaction between 
+shell size and shell species preferences of the hermit crab 
+Pagurus ﬁlholi. Benthos Res 54: 37–44.
+Yoshino K, Goshima S, Nakao S (2001) Sexual diﬀerences in 
+shell use in the hermit crab Pagurus ﬁlholi  (de Man) from 
+northern Japan. Crust Res 30: 55–64.

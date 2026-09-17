@@ -1,0 +1,501 @@
+PDF PAGE 1
+NEWS AND PERSPECTIVES
+Primates
+https://doi.org/10.1007/s10329-026-01249-0
+oysters and gastropods. For example, Burmese long-tailed 
+macaques ( Macaca fascicularis aurea ) inhabiting Laem 
+Son National Park (Andaman coast, Thailand) have been 
+observed to extract and consume 47 different food species 
+of marine resources, including bivalves (e.g., oysters, cock-
+les, and mussels), gastropods (e.g., nerites, ceriths, and top 
+shells), crustaceans (e.g., crabs and barnacles), echinoderms 
+(e.g., sea cucumbers), and even marine-associated plant 
+items such as sea almonds, coconuts, and mangrove fruits 
+(Gumert and Malaivijitnond 2012). These findings indicate 
+that, although marine invertebrate feeding is geographi -
+cally restricted to shore-accessible groups, oyster consump-
+tion can be frequent—indeed dominant—in those coastal 
+macaque populations.
+From a foraging-ecology perspective, oysters are pre -
+dictable, patchily dense, sessile resources that are acces -
+sible during low tides and can function as stable fallback 
+Introduction
+Long-tailed macaques ( Macaca fascicularis ) exhibit 
+broad dietary flexibility across habitats. Coastal and man -
+grove populations are known that they regularly exploit 
+intertidal invertebrates, especially encased foods such as 
+  Aru Toyoda
+toyoda.aru.4h@kyoto-u.ac.jp
+1 Wildlife Research Center, Kyoto Univeristy, 24 Tanaka 
+Sekidencho, Sakyo Ward, Kyoto 6068203, Japan
+2 Japan Broadcasting Corporation, Tokyo 1508001, Japan
+3 T-LIVE BANGKOK Co., Ltd, Bangkok 10130, Thailand
+4 NAGAYA SHOWTENG Co., Ltd, Bangkok 10130, Thailand
+5 NHK ENTERPRISES, INC., Tokyo 1500047, Japan
+Abstract
+Coastal populations of long-tailed macaques (Macaca fascicularis) display remarkable behavioral flexibility in exploiting 
+intertidal food resources. Tool-using groups in Thailand are known to crack marine shellfish with stones, yet the behav -
+ioral repertoire of non-tool-using populations remains poorly documented. Here, we present the first report of long-tailed 
+macaques preying on aquatic hermit crabs without using tools, based on observations at Wat Takiap, Hua Hin District, 
+Prachuap Khiri Khan Province, Thailand. During low tide, macaques were observed employing a sequence of substrate-
+assisted manipulations: repeatedly rubbing gastropod shells against rocks or concrete to thin and weaken the shell wall, 
+followed by fracturing it with their teeth or by striking it against hard surfaces, and finally extracting and consuming the 
+hermit crab’s appendages. This behavior represents a novel, non-tool extractive technique for accessing encased prey—a 
+strategy intermediate between manual shell handling and percussive tool use. Such manipulation indicates refined motor 
+control and problem-solving in a foraging context where encased prey are abundant but challenging to access. Given the 
+absence of long-term data, these observations provide a valuable record of a potential pre-emergent stage in the evolution 
+of tool use. Continued longitudinal and comparative studies will be essential to determine whether such substrate-assisted 
+behaviors may serve as precursors to habitual stone-tool use in coastal macaques.
+Keywords Macaca fascicularis · coastal ecology · hermit crab predation · substrate-assisted foraging · tool-use 
+evolution
+Received: 4 November 2025 / Accepted: 11 February 2026
+© The Author(s), under exclusive licence to Primate Society of Japan 2026
+Rub-thin-fracture-extract: first records of hermit crab predation and 
+non-tool shell processing by coastal long-tailed Macaques at Wat 
+Takiap, Thailand
+Aru Toyoda1 · Chisato Kindo5 · Yasuyuki Matsumoto2 · Norihito Emmoto2 · Ryosuke Nagaya3,4 · Surat Chunukit4 · 
+Hatsadin Sripirom4 · Somnuk Wanwaan4
+1 3
+
+
+PDF PAGE 2
+Primates
+foods when other items are scarce. Field classifications of 
+behavioral patterns show that macaques adjust their pro -
+cessing behaviors to the ecology of targets, with distinct 
+patterns used on sessile oysters versus unattached shell -
+fish—variation interpreted as responses to prey attach -
+ment, body size, and handling demands (Tan et al. 2015). 
+Coastal groups differ in prey composition and intensity of 
+shoreline exploitation, and sustained harvesting can depress 
+prey size and abundance. On two neighboring islands in 
+Khao Sam Roi Yot National Park (Gulf of Thailand), higher 
+macaque density was associated with smaller shellfish and 
+a shift toward smaller selected tools, evidencing a tech -
+nology–prey feedback loop (Luncz et al. 2017). Together 
+with early site reports of stone-assisted shellfish foraging 
+by Thai macaques (Malaivijitnond et al. 2007), these stud-
+ies establish that intertidal invertebrates, especially oysters, 
+are an ecologically important food class for coastal popula-
+tions of long-tailed macaques, whereas such prey are rarely 
+exploited by long-tailed macaque populations living away 
+from shorelines (Gumert and Malaivijitnond 2012; Luncz et 
+al. 2017; Malaivijitnond et al. 2007; Tan et al. 2015).
+Published prey lists and behavioral catalogs from these 
+coastal sites emphasize oysters, gastropods, and true crabs; 
+there are no peer-reviewed accounts that explicitly list her -
+mit crabs as prey for long-tailed macaques at these loca -
+tions (e.g., (Gumert and Malaivijitnond 2012; Tan et al. 
+2015). Here, we report tool-free predation on hermit crabs 
+concealed within gastropod shells by long-tailed macaques 
+inhabiting Wat Khao Takiap, Prachuap Khiri Khan Province, 
+Thailand, and we describe the handling sequence together 
+with the observational conditions.
+Materials and methods
+This study was conducted through noninvasive observations 
+from public coastal areas of long-tailed macaques inhabiting 
+Wat Takiap and its surroundings in Hua Hin District, Pra -
+chuap Khiri Khan Province, Thailand. This site is located 
+approximately 60 km from Khao Sam Roi Yot National 
+Park, where stone-tool use by long-tailed macaques has 
+been studied. Wat Takiap is a temple situated atop a rocky 
+hill; at the hill’s base are a mooring area for fishing boats 
+and a seafood market. The vicinity of the harbor encom -
+passes an intertidal environment consisting of contiguous 
+sandy beaches, cobble–boulder fields, and rocky shore plat-
+forms (Fig. 1). Although the exact number of social groups 
+and individuals is unknown, public records (administrative 
+documents and complaint/report logs) suggest a rough esti-
+mate of 5–6 groups totaling 600–1000 individuals, with 
+uncertainty due to seasonal fluctuation and anthropogenic 
+factors. At this location, opportunistic observations by 
+author AT have been conducted intermittently since 2022, 
+and prior consumption of marine foods had been confirmed. 
+However, many of those prior instances involved feeding 
+on small crabs removed and discarded by fishers during net 
+cleaning, or on crustaceans stolen from a seafood market, 
+such that anthropogenic influences (provisioning, waste use, 
+theft-foraging) could not be excluded.
+Fig. 1 Coastal zone at the base of 
+the rocky hill bearing Wat Takiap, 
+showing the boat landing, fisher-
+men’s work sheds, and the seafood 
+market. At low tide, reef flats are 
+exposed and rock oysters become 
+accessible on the substrate
+ 
+1 3
+
+PDF PAGE 3
+Primates
+In the present filming and observations, while noting 
+such human-dependent events, we focused on the explora -
+tion and processing of prey under natural conditions. The 
+observation period spanned 2–19 September 2025, with 
+observation windows secured daily in principle from 06:00 
+to 18:00 (from sunrise to sunset). During the filming period, 
+we identified and observed four groups of macaques that 
+regularly visited the beach. These groups were named as 
+the Market Group, City Group A, City Group B, and City 
+Group C. The number of identifiable individuals in each 
+group was nine, twelve, nine, and ten, respectively. Among 
+them, City Group A, City Group B, and City Group C 
+were subject to capture operations conducted by the Hua 
+Hin municipal authorities. Because the Hua Hin municipal 
+authorities were conducting monkey-trapping and removal 
+operations in the urban area—on some days capturing as 
+many as five macaques—the exact group sizes were vari -
+able and could not be reliably determined. We recorded for-
+aging on marine invertebrates ad libitum. We concentrated 
+on intertidal use around low tide, consulting local tide tables 
+for the Hua Hin area on the preceding day and early each 
+morning to determine low-water times, and initiated film -
+ing when individuals were observed interacting with marine 
+organisms on the beach, cobble fields, or rocky platforms. 
+Observers maintained a distance of approximately 5–20 m. 
+Video was recorded using a Sony AX-60. Identification of 
+prey as hermit crabs was based on the shape of the gastro -
+pod shells held by monkeys, analysis of the video footage, 
+and the morphology of extracted soft parts (soft abdomen, 
+asymmetrical chelae, absence of a carapace).
+Results
+Based on repeated counts during the observation period, 
+numerous long-tailed macaques inhabit the rocky hill at 
+Wat Takiap; of these, those regularly using the seafood mar-
+ket and adjacent shoreline at the hill’s base comprised at 
+least five social groups totaling fewer than 100 individuals. 
+Among the shoreline-using groups, at least three maintained 
+sleeping sites not on the hill but within the urban area and 
+appeared to commute daily from the town to the coastal 
+zone.
+During the observation period, long-tailed macaques 
+along the shoreline of Wat Takiap were repeatedly observed 
+interacting with naturally available intertidal invertebrates 
+during low tide (Fig. 2). Note that during the present obser-
+vation period, low tide occurred on 13 days within our daily 
+observation window. Because the rocky substrate is not 
+exposed unless the tide falls sufficiently—and macaques 
+are therefore unlikely to capture marine invertebrates under 
+non–low-tide conditions—the time window with the high -
+est potential for the behavior to occur can reasonably be 
+approximated as within about one hour before and after low 
+tide. On this basis, the total observation time during which 
+marine invertebrates foraging was most likely to be detect -
+able amounts to approximately 13 h in our dataset. The most 
+frequently encountered items were rock oysters, followed 
+in decreasing order by small brachyuran crabs and hermit 
+crabs (spp. unknown). No tool use was observed in any oys-
+ter-feeding event. Instead, oysters were processed primar -
+ily by (i) fracturing the shell with the teeth, (ii) forcefully 
+striking the oyster against rock surfaces to induce breakage 
+(Fig. 3), and (iii) incidental splitting of the shell when the 
+Fig. 2 During low tide, a group 
+of long-tailed macaques detach-
+ing and feeding on rock oysters 
+adhered to intertidal rocks
+ 
+1 3
+
+PDF PAGE 4
+Primates
+shell, rendering manual extraction with the fingers inef -
+fective. In such cases, macaques engaged in a sequence of 
+actions to access the prey. First, they repeatedly rubbed the 
+shell against rocky surfaces, apparently targeting the region 
+presumed to contain the soft body of the hermit crab (Fig. 6). 
+This abrasion gradually thinned the shell wall. Next, the 
+macaques either fractured the now-thinned portion using 
+their teeth or struck the shell against hard substrates to break 
+it open (Fig. 7). Once the inner body was exposed, they used 
+their fingers to extract and consume the appendages.
+Throughout the observation period, numerous indi -
+viduals were seen repeatedly rubbing various gastropod 
+oyster detached from the substrate. Small crabs were typi -
+cally obtained by overturning stones and rapidly grasping 
+individuals concealed on the undersides.
+Among the marine invertebrates that were confirmed to 
+have been preyed upon was an aquatic hermit crab (Fig. 4). 
+In several cases, the crabs were easily extracted from their 
+shells and ingested directly (Fig. 5). Alternatively, some 
+individuals dislodged the hermit crabs by forcefully strik -
+ing the shell against rocks, causing the crab to fall out and 
+enabling subsequent consumption.
+A particularly noteworthy manipulation behavior was 
+observed when the hermit crab remained deep inside the 
+Fig. 4 An aquatic hermit crab 
+observed being eaten by monkeys 
+at this observation site
+ 
+Fig. 3 A long-tailed macaque 
+pounding a rock oyster against a 
+concrete surface
+ 
+1 3
+
+PDF PAGE 5
+Primates
+Discussion
+This paper reports previously undocumented predation 
+on hermit crabs by long-tailed macaques and provides a 
+detailed description of the associated capture and process -
+ing sequence. Our observations of non-tool predation on 
+marine resources by long-tailed macaques—specifically, 
+tooth-mediated breakage, forceful impacts against bed -
+rock, and shell thinning via abrasion followed by fracture 
+and manual extraction—add an important complement to 
+the prevailing depiction of coastal long-tailed macaques as 
+shells—excluding rock oysters—against the ground. These 
+actions did not always culminate in successful extraction, 
+and in many cases the shell was abandoned mid-process. 
+Upon inspection, some of these discarded shells were found 
+to still contain hermit crabs, indicating that predation was 
+not always successful. However, the possibility cannot be 
+excluded that some of these interactions were not for forag-
+ing but instead represent non-nutritive object manipulation 
+or exploratory play with the shells.
+Fig. 6 Abrasive manipulation: a 
+long-tailed macaque rubbing a 
+hermit-crab–occupied shell against 
+a concrete substrate to thin the 
+shell prior to fracture
+ 
+Fig. 5 A long-tailed macaque con-
+suming a hermit crab after extract-
+ing it from its gastropod shell
+ 
+1 3
+
+PDF PAGE 6
+Primates
+a flexible repertoire of contingent pre-processing actions 
+that are deployed according to the condition of a food item. 
+Interpreted in this light, the shell-rubbing observed during 
+hermit-crab predation may not only contribute to thinning 
+and weakening the shell wall but could also plausibly func-
+tion to damage surface projections (e.g., spines) and thereby 
+improve grip and handling efficiency prior to fracture and 
+extraction.
+Behaviors such as “rubbing” and “pounding” have 
+often been positioned as precursor actions to tool use, or, 
+alternatively, as a potential “missing link” between purely 
+bodily processing and materially mediated (tool-assisted) 
+processing. Drawing on chimpanzee research (Boesch 
+and Boesch 1990; Matsuzawa 1994) as well as work on 
+capuchins(Fragaszy et al. 2004), several authors have pro -
+posed relatively explicit evolutionary scenarios in which 
+non-tool processing can scaffold the later emergence of 
+tool-assisted food processing. In this context, it is notewor -
+thy that both rubbing and pounding were observed in the 
+Hua Hin long-tailed macaques. Functionally, the observed 
+sequence—abrasion-driven thinning of shell regions pre -
+sumed to overlie soft tissues, followed by fracture using 
+teeth or by striking the shell against hard surfaces, and finally 
+digital extraction—solves the same engineering problem as 
+percussive hammering: creating a controlled breach in a 
+rigid enclosure. Within frameworks that explain the emer -
+gence of tool use via necessity and opportunity, several vari-
+ables should shift behavior toward carried percussion: (i) the 
+defensive strength and attachment mode of the prey’s shell, 
+archetypal stone-tool users for shellfish processing. Prior 
+studies repeatedly document customary stone hammering 
+to open encased marine prey, including rock oysters and 
+other mollusks, as well as crabs (Gumert and Malaivijit -
+nond 2012; Malaivijitnond et al. 2007; Tan et al. 2015). Our 
+records show that the immediate mechanical prerequisite 
+for accessing such prey—localized weakening and fracture 
+of protective shells—can also be achieved without handheld 
+tools by relying on teeth and environmental substrates. This 
+clarifies the threshold conditions under which stone tools 
+become necessary or advantageous.
+Among our observations, one particularly notable feature 
+is the repeated rubbing of shells to weaken them through 
+thinning. Rubbing as a form of food pre-processing has clear 
+conceptual parallels with the classic “sweet-potato washing” 
+tradition first reported in Koshima Japanese macaques, in 
+which individuals do not merely immerse potatoes in water 
+but also rub them manually to remove adhering soil (Kawai 
+1965). Hirata and colleagues later re-evaluated this behavior 
+and discussed the possibility that its function shifted over 
+time from simple cleaning to “seasoning” with seawater, as 
+well as the processes by which the behavior may be socially 
+transmitted (Hirata et al. 2008). Comparable rubbing or 
+wiping behaviors have also been reported in long-tailed 
+macaques, including cases in which individuals use leaves 
+in a tool-like manner to rub food items, or rub items using 
+cloth or plastic bags, apparently to remove undesirable sur-
+face features such as spines, hairs, or dirt (Pal et al. 2018). 
+Collectively, these studies suggest that macaques possess 
+Fig. 7 Post-predation remains: por-
+tions of a hermit crab’s body and 
+the shattered gastropod shell
+ 
+1 3
+
+PDF PAGE 7
+Primates
+clarify whether and how percussive tool use may emerge, 
+future work will require longitudinal, hypothesis-driven 
+monitoring of identified individuals to detect transitions 
+from substrate-assisted shell rubbing to carried percussion, 
+ideally coupled with effort-controlled behavioral sampling. 
+Implementing such scientific approaches early—while the 
+behavior may remain rare and malleable—will be crucial 
+for tracing how exploratory manipulation could crystallize 
+into stable, socially transmitted tool-use traditions.
+Acknowledgements We would like to express our sincere gratitude 
+to the supervisors from the Prachuap Khiri Khan Tourism and Sports 
+Office and the Prachuap Khiri Khan Public Relations Office for their 
+kind support in facilitating our television filming and behavioral obser-
+vation. We are also grateful to the staff and fishermen of the Fresh 
+Seafood Market Kao Takiap for their generous cooperation during our 
+macaque observations. Also we thanks to Professor Suchinda Malaivi-
+jitnond of Chulalongkorn University for providing valuable informa -
+tion on the dietary list of long-tailed macaques and for her personal 
+communications regarding this observation case. Finally, we extend 
+our sincere gratitude to the handling editor for dedicating time and 
+effort to the editorial processing of this manuscript, and to the two 
+anonymous reviewers for their rigorous, careful, and constructive 
+reviewing and evaluations. This study was funded by the JSPS KAK -
+ENHI (#22KJ2975 and # CCB20250006). The Article Processing 
+Charge for the publication of this research was funded by the Coordi -
+nation for the Improvement of Higher Education Personnel (CAPES) 
+(ROR identifier: 00x0ma614). For the purposes of open access, the 
+authors have applied a Creative Commons CC BY license to any 
+accepted version of the manuscript.
+Declarations
+Conflict of Interest The authors declare that they have no conflict of 
+interest.
+Ethical approval This observation was conducted as part of a televi -
+sion filming project and was carried out under the permission of the 
+Department of Tourism, The Government Complex of Thailand (Per -
+mit No. 0402/6376). The observation was monitored by representa -
+tives from the Prachuap Khiri Khan Tourism and Sports Office and the 
+Prachuap Khiri Khan Public Relations Office.
+Informed consent Not applicable for this study (due to wild animal 
+study).
+References
+Boesch C, and Hedwige Boesch (1990) Tool Use and Tool Making in 
+Wild Chimpanzees. Folia Primatol 54(1–2):86–99
+Fragaszy D, Izar Patrícia, Visalberghi E, Ottoni EB, and Marino Gomes 
+De Oliveira (2004) Wild Capuchin Monkeys (Cebus Libidinosus) 
+Use Anvils and Stone Pounding Tools. Am J Primatol 64(4):359–
+366.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / a j  p . 2 0 0 8 5
+Fuentes A (2011) Monkeys on the Edge: Ecology and Management of 
+Long-Tailed Macaques and Their Interface with Humans, vol 60. 
+Cambridge University Press
+Gumert MD, and Suchinda Malaivijitnond (2012) Marine Prey Pro -
+cessed with Stone Tools by Burmese Long-Tailed Macaques 
+(ii) the availability of preferred alternative foods across sea-
+sons or via anthropogenic inputs, (iii) encounter rates with 
+suitable percussors (stones, dense shell fragments), and (iv) 
+opportunities for social learning (Haslam et al.  2009; Van 
+Schaik et al 1999). In long-tailed macaques, some of the 
+clearest support for a necessity-based account of tool-use 
+emergence comes from work on Koh Ped Island (Chonburi 
+Province), where percussive tool use has been suggested to 
+have emerged following a reduction in tourist provisioning 
+associated with the COVID-19 pandemic(Muhammad et 
+al. 2024). This case has been interpreted as strong evidence 
+that tool use may be promoted not only by “opportunity” 
+(i.e., the availability of suitable tools and targets), but also 
+by “necessity” (i.e., increased pressure under reduced food 
+availability, such as hunger or energetic shortfall).
+At the same time, we must consider environmental and 
+behavioral constraints that decrease the payoff of adopting 
+stone tools. Our prior opportunistic observations at this site 
+included feeding on small crabs removed and discarded dur-
+ing net cleaning or crustaceans pilfered from a seafood mar-
+ket—contexts that reduce prey defenses and processing costs 
+and thus lower the marginal benefit of tool transport. More 
+generally, long-tailed macaques are known to shift toward 
+human foods in anthropogenic habitats (e.g., provisioning, 
+discarded human foods), which may relax innovation pres -
+sure consistent with the necessity hypothesis (Fuentes 2011; 
+Sha and Hanya 2013). Even in coastal groups, preferences 
+can fluctuate with fruit abundance and human inputs (Yea -
+ger 1996). Accordingly, the probability that stone tool use 
+will emerge or increase at Wat Takiap likely covaries with 
+reductions in anthropogenic subsidies, seasonal scarcity of 
+alternative foods, higher availability of suitable stones, and 
+greater social exposure to effective handling sequences.
+The behaviors we recorded—rubbing shells on rock sur-
+faces and using the substrate as an anvil—already align with 
+percussive task demands and may serve as proto-percussive 
+stepping stones from environmental substrates to carried 
+hammers. However, given that macaques at this site appear 
+to have access to anthropogenic foods provided by local 
+residents and fishermen, and that diverse plant resources 
+(e.g., tamarind) are also available in the surrounding ter -
+restrial habitat, the level of “necessity” pressure that would 
+promote a transition to tool-assisted extraction may remain 
+comparatively low.
+Given the brief observation period and the absence of 
+long-term baselines, our findings represent a provisional 
+snapshot of an early, pre-tool phase of intertidal foraging. 
+Importantly, these records did not derive from a dedicated, 
+research-driven field program; rather, they were obtained 
+opportunistically as a by-product of permitted television 
+filming, which necessarily constrained both sampling stan -
+dardization and the scope of quantitative inference. To 
+1 3
+
+PDF PAGE 8
+Primates
+Pal A, Kumara HN, Mishra PS, Velankar AD, and Mewa Singh (2018) 
+Extractive Foraging and Tool-Aided Behaviors in the Wild Nico-
+bar Long-Tailed Macaque ( Macaca Fascicularis Umbrosus ). 
+Primates 59(2):173–183.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 7  / s 1  0 3 2 9 - 0 1 7 - 0 6 
+3 5 - 6
+Sha JC, Mun, and Goro Hanya (2013) Temporal Food Resource Corre-
+lates to the Behavior and Ecology of Food-Enhanced Long-Tailed 
+Macaques (Macaca Fascicularis). Mammal Study 38(3):163–175
+Tan A, Tan SH, Vyas D, Malaivijitnond S, Gumert MD (2015) There 
+Is More than One Way to Crack an Oyster: Identifying Variation 
+in Burmese Long-Tailed Macaque ( Macaca Fascicularis Aurea) 
+Stone-Tool Use. PLoS ONE 10(5):e0124733.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  
+3 7 1  / j o  u r n a l . p o n e . 0 1 2 4 7 3 3
+Van Schaik CP, Robert O, Deaner, Merrill MY (1999) The Conditions 
+for Tool Use in Primates: Implications for the Evolution of Mate-
+rial Culture. J Hum Evol 36(6):719–741
+Yeager CP (1996) Feeding Ecology of the Long-Tailed 
+Macaque(Macaca Fascicularis) in Kalimantan Tengah, Indone -
+sia. Int J Primatol 17(1):51–62.  h t t p s :   /  / d o  i . o  r  g  /  1 0  . 1 0   0 7 /  B F 0 2 6 9 
+6 1 5 8
+Publisher’s note Springer Nature remains neutral with regard to juris-
+dictional claims in published maps and institutional affiliations.
+Springer Nature or its licensor (e.g. a society or other partner) holds 
+exclusive rights to this article under a publishing agreement with the 
+author(s) or other rightsholder(s); author self-archiving of the accepted 
+manuscript version of this article is solely governed by the terms of 
+such publishing agreement and applicable law.
+(Macaca Fascicularis Aurea ) in Intertidal Habitats. Am J Phys 
+Anthropol 149(3):447–457.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / a j  p a . 2 2 1 4 3
+Haslam M, Ling AH-A V , Ignacio De La Torre CS, DeStefano A, Du 
+A, Hardy B, Harris J, Marchant L (2009) Primate Archaeology. 
+Nature 460(7253):339–344
+Hirata S, Watanabe K (2008) and Kawai Masao. ‘Sweet-Potato Wash-
+ing’ Revisited. Pp. 487–508 in Primate Origins of Human Cog -
+nition and Behavior , edited by T. Matsuzawa. Tokyo: Springer 
+Japan
+Kawai M (1965) Newly-Acquired Pre-Cultural Behavior of the Nat -
+ural Troop of Japanese Monkeys on Koshima Islet. Primates 
+6(1):1–30
+Luncz LV , Tan A, Haslam M, Kulik L, Proffitt T, Malaivijitnond S, 
+and Michael Gumert (2017) Resource Depletion through Primate 
+Stone Technology. Elife 6:e23647
+Malaivijitnond S, Lekprayoon C, Tandavanittj N, Panha S, Chee -
+watham C, and Yuzuru Hamada (2007) Stone-tool Usage by Thai 
+Long‐tailed Macaques ( Macaca Fascicularis ). Am J Primatol 
+69(2):227–233.  h t t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / a j  p . 2 0 3 4 2
+Matsuzawa, T. (1994). Field experiments on use of stone tools by 
+chimpanzees in the wild. In R. W. Wrangham, W. C. McGrew, F. 
+B. M. de Waal, & P. G. Heltne (Eds.), Chimpanzee cultures (pp. 
+351–370). Harvard University Press.
+Muhammad R, Kaikaew T, Panjan S, Meesawat S, Thabthimthong W, 
+Payungporn S, Apipattarachaiwong J, Kanthaswamy S, Hamada 
+Y , Luncz LV , and Suchinda Malaivijitnond (2024) Influence of 
+COVID-19 on the Emergence of Stone-Tool Use Behavior in a 
+Population of Common Long-Tailed Macaques (Macaca Fascic-
+ularis Fascicularis) in Thailand. Am J Primatol 86(2):e23580.  h t 
+t p  s : /  / d o i  . o  r g /  1 0 . 1  0 0 2  / a j  p . 2 3 5 8 0
+1 3

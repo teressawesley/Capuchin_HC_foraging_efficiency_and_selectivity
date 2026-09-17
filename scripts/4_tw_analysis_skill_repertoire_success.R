@@ -19,6 +19,7 @@ library(emmeans)
 library(patchwork)
 library(tidyverse)
 library(ggnewscale)
+library(gt)
 
 techs <- read_csv("raw_data/processing_techniques.csv")
 
@@ -138,10 +139,12 @@ prediction_data <- tibble(individual_n_techniques = 1:5,
   video_unique_subject = first(seq_single_s$video_unique_subject),
   arena_site = first(seq_single_s$arena_site))
 
-predicted_probabilities <- fitted(m_success_ntech,
+predicted_probabilities <- fitted(
+  m_success_ntech,
   newdata = prediction_data,
   re_formula = NA,
   scale = "response",
+  robust = TRUE,
   probs = c(0.025, 0.975))
 
 prediction_summary <- bind_cols(prediction_data %>%
@@ -159,6 +162,155 @@ observed_success_summary <- seq_single_s %>% group_by(individual_n_techniques) %
 
 observed_success_summary
 
+
+## Results table ----------------------------------
+
+# Formatting helper
+format_ntech_interval <- function(median, lower, upper, digits = 2) {
+  sprintf(paste0("%.", digits, "f [%.", digits, "f, %.", digits, "f]"),
+    median, lower, upper)}
+
+
+# A. Predicted success by observed repertoire size 
+# Use repertoire sizes represented in the fitted-model data
+ntech_table_newdata <- tibble(individual_n_techniques = sort(unique(
+    na.omit(m_success_ntech$data$individual_n_techniques))))
+
+# Exclude individual and site intercept deviations
+# Extract on the log-odds scale and transform each draw to probability
+ntech_table_linpred <- brms::posterior_linpred(m_success_ntech, newdata = ntech_table_newdata,
+  re_formula = NA, transform = FALSE)
+
+ntech_prediction_rows <- purrr::map_dfr(
+  seq_len(nrow(ntech_table_newdata)),
+  function(i) {log_odds <- ntech_table_linpred[, i]
+    probability <- plogis(log_odds)
+    n_techniques <- ntech_table_newdata$individual_n_techniques[i]
+    tibble(section = "A. Success predictions by observed repertoire size",
+      parameter = paste(
+        n_techniques,
+        ifelse(n_techniques == 1, "technique", "techniques")),
+      posterior_summary = format_ntech_interval(
+        median(log_odds),
+        quantile(log_odds, 0.025),
+        quantile(log_odds, 0.975)),
+      posterior_SD = sd(log_odds),
+      transformed = format_ntech_interval(
+        median(probability),
+        quantile(probability, 0.025),
+        quantile(probability, 0.975),
+        digits = 3))})
+
+
+# B. Population-level coefficients 
+ntech_coefficient_labels <- c("Intercept" = "Intercept: 0 observed techniques",
+  "individual_n_techniques" = "Each additional observed technique")
+
+ntech_coefficient_rows <- brms::fixef(
+  m_success_ntech, summary = FALSE) %>%
+  tibble::as_tibble() %>%
+  pivot_longer(everything(),
+    names_to = "term",
+    values_to = "draw") %>%
+  group_by(term) %>%
+  summarise(posterior_median = median(draw),
+    lower = quantile(draw, 0.025),
+    upper = quantile(draw, 0.975),
+    posterior_SD = sd(draw),
+    OR_median = median(exp(draw)),
+    OR_lower = quantile(exp(draw), 0.025),
+    OR_upper = quantile(exp(draw), 0.975),
+    .groups = "drop") %>%
+  arrange(match(term, names(ntech_coefficient_labels))) %>%
+  transmute(section = "B. Population-level coefficients",
+    parameter = unname(ntech_coefficient_labels[term]),
+    posterior_summary = format_ntech_interval(
+      posterior_median, lower, upper),
+    posterior_SD,
+    transformed = if_else(
+      term == "Intercept", "\u2014",
+      format_ntech_interval(OR_median, OR_lower, OR_upper)))
+
+
+# C. Individual and site variation 
+ntech_variation_labels <- c("sd_video_unique_subject__Intercept" = "Individual intercept SD",
+  "sd_arena_site__Intercept" = "Site intercept SD")
+
+ntech_variation_rows <- posterior::as_draws_df(m_success_ntech) %>% tibble::as_tibble() %>%
+  select(all_of(names(ntech_variation_labels))) %>%
+  pivot_longer(everything(),
+    names_to = "term",
+    values_to = "draw") %>%
+  group_by(term) %>%
+  summarise(posterior_median = median(draw),
+    lower = quantile(draw, 0.025),
+    upper = quantile(draw, 0.975),
+    posterior_SD = sd(draw),
+    .groups = "drop") %>%
+  arrange(match(term, names(ntech_variation_labels))) %>%
+  transmute(section = "C. Between-individual and between-site variation",
+    parameter = unname(ntech_variation_labels[term]),
+    posterior_summary = format_ntech_interval(
+      posterior_median, lower, upper),
+    posterior_SD,
+    transformed = "\u2014")
+
+
+# Combine sections 
+ntech_success_table_data <- bind_rows(ntech_prediction_rows, ntech_coefficient_rows,
+  ntech_variation_rows)
+
+
+# Create the styled gt table 
+ntech_success_results_gt <- ntech_success_table_data %>%
+  gt(rowname_col = "parameter", groupname_col = "section") %>%
+  tab_stubhead(label = "Parameter") %>%
+  tab_spanner(label = "Posterior summary (log-odds scale)",
+    columns = c(posterior_summary, posterior_SD)) %>%
+  cols_label(posterior_summary = "Posterior median [95% CrI]",
+    posterior_SD = "Posterior SD",
+    transformed = html(
+      "Transformed estimate:<br>A. Probability or B. Odds ratio<br>[95% CrI]")) %>%
+  fmt_number(columns = posterior_SD,
+    decimals = 2) %>%
+  cols_align(align = "center",
+    columns = c(posterior_summary, posterior_SD, transformed)) %>%
+  tab_style(style = cell_text(weight = "bold"),
+    locations = cells_row_groups()) %>%
+  tab_options(table.font.names = "Calibri",
+    table.font.size = px(12),
+    data_row.padding = px(8),
+    table.border.top.color = "#BDBDBD",
+    table.border.bottom.color = "#BDBDBD",
+    column_labels.border.bottom.color = "#BDBDBD",
+    table_body.hlines.color = "#DDDDDD") %>%
+  tab_source_note(
+    source_note = paste(
+      "CrI = credible interval.",
+      "Observed repertoire size is the number of distinct techniques",
+      "recorded across all retained sequences for each subject ID.",
+      "Section A reports predictions with individual and site",
+      "intercept deviations set to zero.")) %>%
+  tab_source_note(
+    source_note = paste(
+      "Section B reports the log-odds change and odds ratio",
+      "associated with each additional observed technique.",
+      "The model assumes a linear association on the log-odds scale.",
+      "The intercept corresponds to zero observed techniques",
+      "and is reported only on the log-odds scale;",
+      "it is extrapolative if zero is outside the observed range.")) %>%
+  tab_source_note(
+    source_note = paste(
+      "Posterior SD describes uncertainty in each estimate.",
+      "Individual and site intercept SDs describe between-group",
+      "variation on the log-odds scale."))
+
+ntech_success_results_gt
+
+
+# Export to Word
+gt::gtsave(ntech_success_results_gt, filename = "individual_repertoire_success_results.docx",
+  path = "plots_tables")
 
 ## Plotting -----------------------------------------------------------
 ### Simple plot -------------------------------------------------------------
@@ -228,17 +380,22 @@ ggplot() +
       y = observed_success_probability,
       size = n_sequences),
     position = position_jitter(
-      width = 0.12,
-      height = 0),
+      width = 0.15,
+      height = 0,
+      seed = 123),
     colour = "black",
     alpha = 0.7) +
   scale_x_continuous(breaks = 1:5) +
-  scale_y_continuous(labels = scales::percent) +
+  scale_y_continuous( breaks = seq(0, 1, by = 0.2),
+    labels = scales::label_number(accuracy = 0.1)) +
   coord_cartesian(ylim = c(0, 1)) +
-  labs(x = "Number of techniques observed for individual",
+  labs(x = "Number of techniques in repertoire",
     y = "Probability of success",
-    size = "Sequences per individual") +
-  theme_classic()
+    size = "Sequences\nper individual") +
+  theme_classic(base_size = 13) +
+  theme(legend.title = element_text(size = 10),
+  legend.text = element_text(size = 9),
+  legend.key.size = grid::unit(0.4, "cm"))
 
 
 # Modelling effect of # techinques used per sequence on success --------------------------------------
@@ -357,9 +514,9 @@ seq_prediction_data <- tibble(
   video_unique_subject = first(seq_single_s$video_unique_subject),
   arena_site = first(seq_single_s$arena_site))
 
-seq_predicted_probabilities <- fitted(
-  m_success_seq_ntech, newdata = seq_prediction_data,
-  re_formula = NA, scale = "response", probs = c(0.025, 0.975))
+seq_predicted_probabilities <- seq_predicted_probabilities <- fitted(
+  m_success_seq_ntech, newdata = seq_prediction_data, re_formula = NA,
+  scale = "response", robust = TRUE, probs = c(0.025, 0.975))
 
 seq_prediction_summary <- bind_cols(
   seq_prediction_data %>% select(sequence_n_techniques_f),

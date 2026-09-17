@@ -1,0 +1,3140 @@
+PDF PAGE 1
+Animal tool use: current deﬁnitions and an updated
+comprehensive catalog
+Vicki K. Bentley-Condit1,2) & E.O. Smith2)
+(1 Department of Anthropology, Grinnell College, Grinnell, IA 50112, USA; 2 Department
+of Anthropology, Emory University, Atlanta, GA 30322, USA)
+(Accepted: 30 July 2009)
+Summary
+Despite numerous attempts to deﬁne animal tool use over the past four decades, the deﬁni-
+tion remains elusive and the behaviour classiﬁcation somewhat subjective. Here, we provide
+a brief review of the deﬁnitions of animal tool use and show how those deﬁnitions have
+been modiﬁed over time. While some aspects have remained constant (i.e., the distinction be-
+tween ‘true’ and ‘borderline’ tool use), others have been added (i.e., the distinction between
+‘dynamic’ and ‘static’ behaviours). We present an updated, comprehensive catalog of docu-
+mented animal tool use that indicates whether the behaviours observed included any ‘true’
+tool use, whether the observations were limited to captive animals, whether tool manufacture
+has been observed, and whether the observed tool use was limited to only one individual and,
+thus, ‘anecdotal’ (i.e., N = 1). Such a catalog has not been attempted since Beck (1980). In
+addition to being a useful reference for behaviourists, this catalog demonstrates broad tool use
+and manufacture trends that may be of interest to phylogenists, evolutionary ecologists, and
+cognitive evolutionists. Tool use and tool manufacture are shown to be widespread across
+three phyla and seven classes of the animal kingdom. Moreover, there is complete overlap
+between the Aves and Mammalia orders in terms of the tool use categories (e.g., food extrac-
+tion, food capture, agonism) arguing against any special abilities of mammals. The majority
+of tool users, almost 85% of the entries, use tools in only one of the tool use categories. Only
+members of the Passeriformes and Primates orders have been observed to use tools in four
+or more of the ten categories. Thus, observed tool use by some members of these two orders
+(e.g., Corvus, Papio) is qualitatively different from that of all other animal taxa. Finally, al-
+though there are similarities between Aves and Mammalia, and Primates and Passeriformes,
+primate tool use is qualitatively different. Approximately 35% of the entries for this order
+demonstrate a breadth of tool use (i.e., three or more categories by any one species) compared
+to other mammals (0%), Aves (2.4%), and the Passeriformes (3.1%). This greater breadth in
+2) Corresponding author’s e-mail address: bentleyc@grinnell.edu
+© Koninklijke Brill NV , Leiden, 2010 Behaviour 147, 185-221
+DOI:10.1163/000579509X12512865686555 Also available online - www.brill.nl/beh
+
+PDF PAGE 2
+186 Bentley-Condit & Smith
+tool use by some organisms may involve phylogenetic or cognitive differences — or may
+simply reﬂect differences in length and intensity of observations. The impact that tool usage
+may have had on groups’ respective ecological niches and, through niche-construction, on
+their respective evolutionary trajectories remains a subject for future study.
+Keywords: tool use, animal, catalog.
+Introduction
+The deﬁnition of ‘tool use’ is problematic, often arbitrary or subjective,
+sometimes anthropocentric, and open to interpretation. Over the years, most
+animal behaviour researchers have relied upon some version of deﬁnitions
+suggested by Hall (1963), van Lawick-Goodall (1970), Alcock (1972) and
+Beck (1980), but recent attempts to clarify and reﬁne the deﬁnition of ani-
+mal tool use (e.g., Pierce, 1986; Lefebvre et al., 2002; St. Amant & Horton,
+2008) have been made. Despite these concerted efforts at removing subjec-
+tivity and adding precision and consistency to the deﬁnition, a completely
+objective deﬁnition of animal tool use remains elusive. This is, after all, ani-
+mal behaviour and animal behaviour is interpreted by an observer. This does
+not mean that the study of tool use is closed to rigorous scientiﬁc investiga-
+tion because of its inherent subjectivity, but it does mean is that there will
+always be some ambiguous occurrences.
+In this paper, we have three objectives. First, we present a brief overview
+of the development of, and changes in, the deﬁnition of animal tool use and
+the current state of the discussion. Second, we offer an updated, expanded,
+and comprehensive catalog of tool usage and manufacture for all animals.
+A catalog such as this has not been attempted since Beck (1980) and has
+never been presented in a format that clearly differentiates between true vs.
+borderline use, use in the captive setting, circumstances/categories of tool
+use, etc. by species in an easily accessible format. The catalog, and the sum-
+mary tables, provide not only easily accessible data on types of tool use ob-
+served in any species, but also provide data on broad trends both within and
+across phyla/classes — only some of which we explore in this manuscript.
+Finally, we present some brief remarks regarding areas of research where
+we see this catalog as potentially providing insight. We believe our work
+here will be useful to behaviourists, behavioural ecologists, phylogenists and
+cognitive evolutionists alike.
+
+PDF PAGE 3
+Animal tool use catalog 187
+Tool use deﬁned
+There have been numerous attempts to develop and reﬁne the deﬁnition of
+tool use over the past half century. One of the earliest systematic investiga-
+tions of tool use was that of Hall (1963). While not providing a precise de-
+ﬁnition of tool use, his examples included social interactions, but excluded
+“applying a primary object to a secondary object” (Hall, 1963: 479). Ad-
+ditionally, he did not consider tool-using and tool-making as indicators of
+intelligence, per se. Dissenting voices at that time questioned whether any
+animal behaviour was tool use suggesting the ‘tool-user’ classiﬁcation be
+restricted to hominins (Gruber, 1969).
+Van Lawick-Goodall addressed tool use more systematically, deﬁning it
+as “use of an external object as a functional extension of mouth or beak,
+hand or claw, in the attainment of an immediate goal” (1970: 195) but also
+noted that it was not an indicator of intelligence. Soon thereafter, Alcock
+(1972: 464) expanded upon van Lawick-Goodall’s deﬁnition to incorporate
+aspects of Millikan & Bowman’s (1967) discussion of woodpecker ﬁnch tool
+use and deﬁned tool use as “... the manipulation of an inanimate object, not
+internally manufactured, with the effect of improving the animal’s efﬁciency
+in altering the position or form of some separate object”. Meanwhile, in a
+series of papers, Boswall (1977a–d, 1978, 1982, 1983) made the important
+distinction between ‘true’ and ‘borderline’ tool use; true tools were objects
+not a part of the substrate that were manipulated by the users while borderline
+tools remained a part of the substrate. For example, a thorn broken from a tree
+and used by an individual would be a true tool while a thorn that remained
+a part of the tree would be a borderline tool. Each of these early researchers
+laid important ground-work for discussions to come.
+Beck (1980: 10) reﬁned and broadened both Alcock’s and van Lawick-
+Goodall’s descriptions when he deﬁned tool use as “ ... the external em-
+ployment of an unattached environmental object to alter more efﬁciently the
+form, position, or condition of another object, another organism, or the user
+itself when the user holds or carries the tool during or just prior to use and
+is responsible for the proper and effective orientation of the tool”. Like Hall
+(1963), Beck also included ‘social tool’ use, i.e., the manipulation of another
+individual, within his deﬁnition and argued against the ‘chimpocentric’ ap-
+proach to tool use that awarded chimpanzees special status for their tool use
+capabilities. The latter was important in its recognition of other animals’ abil-
+ities. His volume not only offered more precise deﬁnitions for tool use and
+
+PDF PAGE 4
+188 Bentley-Condit & Smith
+tool manufacture, but also presented a catalog of animal true and borderline
+tool use and tool manufacture — an update of which has not been attempted
+until now.
+While many researchers have utilized and simply restated Beck’s (1980)
+tool use deﬁnition over the years (e.g., Anderson, 2002), others have made
+modiﬁcations. For example, Pierce (1986: 96) excluded social tool use and
+included “structurally modiﬁed inanimate environmental object(s)”, which
+allowed the inclusion of nest and burrow building by insects. St. Amant
+& Horton (2008: 1203) argued that Beck’s (1980) deﬁnition required clar-
+iﬁcation of the rationale for including/excluding various behaviours. They
+deﬁned tool use as “... the exertion of control over a freely manipulable ex-
+ternal object (the tool) with the goal of (1) altering the physical properties
+of another object, substance, surface or medium (the target, which may be
+the tool user or another organism) via a dynamic mechanical interaction, or
+(2) mediating the ﬂow of information between the tool user and the environ-
+ment or other organisms in the environment”. The ﬁrst part of this deﬁnition
+includes most behaviours that have traditionally been classiﬁed as tool use.
+However, the second part includes behaviours where the tool mediates the
+relationship between the user and the environment — a change from Beck’s
+(1980) work because no object or organism is altered by another object that
+the user controls. The second part of the St. Amant & Horton (2008) deﬁni-
+tion also includes using tools to inﬂuence or alter another organism’s percep-
+tion of the environment. So, in addition to the alteration of physical aspects of
+the environment, they explicitly include sensory and communication-related
+uses of tools. Ultimately, they retained the fundamentals of Beck’s (1980)
+earlier deﬁnition but added the ‘dynamic’ and ‘ﬂow of information’ compo-
+nents.
+Our deﬁnition
+The deﬁnition of tool use that we used in constructing the catalog (see Ap-
+pendix A) is an amalgamation of those presented in the preceding para-
+graphs. We begin with Beck’s (1980) deﬁnition but, like Pierce (1986), we
+exclude social tool use. If tool use is to remain a useful behavioural clas-
+siﬁcation, some behaviours/categories must be excluded and we ﬁrmly be-
+lieve that social interactions are one such category. For this same reason,
+we disagree with Pierce (1986) and do not include nest/abode building as
+
+PDF PAGE 5
+Animal tool use catalog 189
+a tool. Thus, we are essentially utilizing St. Amant & Horton’s (2008) def-
+inition (see above). As such, birds (or other animals) building their abodes
+from twigs or other materials would not be considered using tools since the
+abode is not dynamic. However, we disagree with some of St. Amant & Hor-
+ton’s (2008) interpretations of ‘dynamic’. By their deﬁnition, the stacking of
+boxes by chimpanzees to retrieve a reward (e.g., Köhler, 1925), a behaviour
+traditionally classiﬁed as tool use, can be decomposed into two separate and
+static behaviours — stacking and climbing — neither of which are, thus, tool
+use. Conversely, a chimpanzee using a box to knock a reward to the ﬂoor is
+dynamic and is, therefore, tool use.
+This example highlights some of the subjectivity in making tool use be-
+havioural distinctions. St. Amant & Horton (2008) presented another classic
+experiment (e.g., Köhler, 1925) where chimpanzees ﬁtted two pieces of pipe
+together to create a pole that could be used to reach a reward as an example
+of tool manufacture. Using the pole to reach the reward was then considered
+tool use — unlike the stacking of boxes described previously. This difference
+in classiﬁcation of what is and what is not considered tool use is unclear at
+best. We believe that the stacking of one box on top of another should be clas-
+siﬁed as tool manufacture and the use of that stack to reach the reward should
+be tool use. If the assembled pole could be viewed as an artiﬁcial ‘arm’ that
+extends a chimp’s reach, the created tower of boxes could be viewed as an
+artiﬁcial ‘leg’ that does the same thing. While it is likely that this level of
+subjective interpretation will not arise often, even new and improved def-
+initions of tool use have their short-comings. Thus, our tool-use deﬁnition
+is very similar to that of St. Amant & Horton (2008) with somewhat more
+leeway in what constitutes ‘dynamic’ behaviour.
+Tool manufacture deﬁned
+Deﬁning tool manufacture is somewhat more straight-forward than deﬁning
+tool use. Beck (1980) noted four, relatively self-explanatory, types of tool
+manufacture: detach, subtract, add/combine and reshape. Detaching involves
+separating or disconnecting the tool from the substrate or another object such
+as removing a branch from a tree. Subtracting is the removal of something
+from the object so that it is a more useful tool such as pulling leaves off of
+a twig so that the twig can be used to ﬁsh for termites. Adding/combining is
+when two or more objects are put together to make a tool such as attaching
+
+PDF PAGE 6
+190 Bentley-Condit & Smith
+two short sticks to make one long stick. Finally, reshaping is a fundamental
+restructuring of an object such as creating a sponge by crumpling a handful
+of leaves. Of these four categories, detaching is the most ambiguous since
+‘manufacturing’ may be difﬁcult to distinguish from simply retrieving an
+object from the substrate. However, key to Beck’s (1980) categories of man-
+ufacture is that each requires an active act of creation as opposed to the mere
+acquisition of the object. We use these criteria in determining tool manufac-
+ture.
+The catalog
+To facilitate ease of use, we present the catalog data in a tabular format as
+Appendix A. The data are divided into nine sections according to phylum and
+class by descending size (i.e., class with the most orders ﬁrst) (e.g., Phylum:
+Arthropoda, Class: Insecta; Phylum: Arthropoda, Class: Malacostraca, etc.)
+and listed alphabetically by genus/species within each class. The two excep-
+tions are the Aves Order Passeriformes and the Mammalia Order Primates
+which have been extracted for ease of reference and to facilitate compar-
+isons similar to those by Marler (1996) and Lefebvre et al. (2004). Each,
+however, immediately follow their respective class.
+We have necessarily forsaken detail for streamlining. Tool use is classi-
+ﬁed into ten categories. Food preparation (Food Prep) is the use of a tool
+to prepare, but not extract, food. For example, curlews slamming a large
+food item against the ground until the item is broken into smaller pieces
+and that can be swallowed (Marks & Hall, 1992) is classiﬁed as an exam-
+ple of food preparation as is the observation of a red-tailed hawk bashing
+a captured snake against boulders (Ellis & Brunson, 1993). Food extraction
+(Food Extrac) occurs when a tool is used to gain access to a food item that
+is enclosed/encased and not immediately accessible. Gulls dropping clams
+on rocks (Maron, 1982) and macaques using sticks as dipping tools (Babitz,
+2000) are clear examples of food extraction. Food transport (Food Trans) is
+the use of a tool to transport food and/or water. Barber et al. (1989) observed
+ﬁre ants using sand to absorb and transport honey back to the nest while
+Antevs (1948) observed Gila woodpeckers to do the same thing using larger
+objects such as lumps of bark to absorb the honey. Food capture (Food Cap)
+occurs when a tool is used to acquire food not using extraction. The use of a
+
+PDF PAGE 7
+Animal tool use catalog 191
+stick to pull a food item into reach by chacma baboons (Bolwig, 1961) is an
+example of food capture, as is the plugging of hibernating ground squirrels’
+tunnels by hunting badgers (Michener, 2004). Physical maintenance (Phys
+Main) is the use of a tool to affect one’s appearance or body. The use of a
+thorn by a lion to remove another thorn from its paw (Bauer, 2001) and the
+use of a towel by a sandhill crane to dry itself (Bartlett & Bartlett, 1973) are
+tools used in physical maintenance. Mate attraction (Mate Attrac) includes
+only those cases of tool use where the purpose is unambiguously determined
+to affect the behaviour of potential mates. There are, thus, relatively few ex-
+amples. One common example is the decoration of bowers by bowerbirds
+(Crook, 1960); the use of sound bafﬂes by African tree crickets to amplify
+their calls (Prozesky-Shulze et al., 1975) is another example. Nest construc-
+tion (Nest Const) is the use of a tool to construct an abode. Numerous digger
+wasp species use pebbles to compact the soil around their nests (Brockmann,
+1985) while the common octopus builds a ‘wall’ in front of the entrance to
+its den from rocks, glass, and other objects (Mather, 1994). Predator defense
+(Pred Defen) is the use of a tool to defend oneself. Hermit crabs fortify them-
+selves against octopus attack by transferring sea anemones to their shells
+(Ross, 1971), while sawﬂy larvae apply pine resin acid to their attackers
+(Eisner et al., 1974). Agonism (Agon) is the use of a tool in an aggressive
+encounter with another, often as a threat but not as defense against preda-
+tion. An African black eagle (Dick & Fenton, 1979), white-faced capuchins
+(Chevalier-Skolnikoff, 1990), and elephants (Chevalier-Skolnikoff & Liska,
+1993) engaged in agonism by directed throwing/dropping of objects at or on
+another individual. Finally, Other (Other) are those examples of tool use that
+do not easily ﬁt into any of the previously described categories. A common
+blackbird was observed to use a twig to clear snow from the ground (Prid-
+dey, 1977) while white-handed gibbons have been observed to create their
+own swings in a cage (Rumbaugh, 1970). These, then, are the ten categories
+used in the catalog. In each column applicable to a speciﬁc entry, we indicate
+whether the observations were limited to Captive (C), Free Ranging (F), or
+Semi-free Ranging (S) animals or in a combination of these living condi-
+tions. Thus, if a particular species has been observed to use tools in all ten
+of the conditions described previously and in each of the living situations
+listed above, that species would have a ‘C, F, S’ in each of the ten columns.
+Similarly, observations of a given species limited to food capture in a free
+ranging living condition would have only an ‘F’ in that particular column.
+
+PDF PAGE 8
+192 Bentley-Condit & Smith
+We also indicate (a) whether the tool use is limited to captive animals,
+(b) whether the species has been observed to manufacture tools, (c) whether
+any of the tool use is considered true tools and (d) if the tool use observations
+were limited to just one subject (i.e.,N = 1). It should be noted that we were
+forced to put a ‘?’ in some of these columns as the original research did not
+always indicate the number of subjects or whether the animal was captive.
+Despite our best attempts to include all documented cases of both true and
+borderline tool use, there are probably examples that we have missed. We
+have limited our examples to published sources. Thus, tool use reported by
+others as ‘personal communication’ is not included. As stated previously, we
+have also excluded social interactions/behaviours, abodes, and abode con-
+struction as examples of tool use. Consequently, we limit our catalog en-
+tries to published reports of individuals utilizing objects in the ten categories
+described above. These observations of tool use, thus, represent a species’
+material culture reported to date — less the excluded abodes (see McGrew,
+1992a; van Schaik et al., 1999, 2003a; Malaivijitnond et al., 2007, for dis-
+cussions of the evolution of material culture). We utilized numerous sources
+in compiling the catalog — including extensive database searches and pub-
+lished reviews (see Appendices B and C). From the reviews, we used the
+bibliographies to acquire copies of the original works to determine if the ex-
+ample should be included. For each of the taxa listed in the catalog, we have
+included representative references to every different type of tool use and/or
+every different population that we were able to locate. However, where multi-
+ple authors report the same behaviour, we have limited the number of entries.
+We have also limited the entries of any one author who has written exten-
+sively on tool use in a species to those references on different populations or
+different uses of tools. While we have endeavored to include every species
+and every different type of tool use reported, we have not tried to include
+every article ever written on animal tool use. Our goal was to provide a sur-
+vey of the extent of tool use, not in-depth case studies of particular species.
+There are three other catalog caveats. First, McGrew’s (1992b) statement
+that there is a positive correlation between the number of reports of tool use
+by a population, the length of the study, and the degree of habituation of
+the group undoubtedly applies to this catalog. Thus, it is not surprising that
+decades-long studies of continuously monitored chimpanzee populations re-
+port many examples of tool use and manufacture. On the other hand, while
+some species have been observed extensively and demonstrated very little
+
+PDF PAGE 9
+Animal tool use catalog 193
+tool use (e.g., Papio primates), it is possible that even extensive observations
+may have missed population-speciﬁc tool use due to the speciﬁc individuals
+or classes of individuals observed (see, for example, Tebbich et al. (2002) on
+locale-speciﬁc tool use byCactospiza pallida and Higuchi (1988) on individ-
+ual variation in Butorides striata tool use dependent upon feeding-site qual-
+ity). Second, the observation of tool manufacture is likely to be even more
+difﬁcult and rare than the observation of tool use. Thus, an ‘N’ in the tool
+manufacture column does not prove that manufacture never occurs, merely
+that manufacture has not been observed. Finally, the indications of whether
+data reported for a species are actually limited to only one individual (i.e.,
+N = 1), and, thus, an ‘anecdote’, are provided following Sarringhaus et
+al.’s (2005) caution that reports on tool use often gloss over this information.
+In doing so, the reported behaviour can easily become reiﬁed as a popula-
+tion/genus/species characteristic when no such pattern may actually exist. It
+is not that anecdotal information is not useful (see, for example, Reader &
+Laland’s (2002) and Lefebvre et al.’s (2004) use of such data to discuss in-
+novations), but it should be identiﬁed. Thus, we have labeled the entries for
+species where the tool use was limited to only one individual by placing a
+‘Y’ in the ‘ N = 1?’ column and these entries account for almost 28% of
+the catalog (see Table 1). However, any species with more than one citation
+cannot be classiﬁed as anecdotal ( N = 1) since there are reports on more
+than one individual or population. However, it is still possible that each of
+those referenced studies reported on only one subject.
+Discussion
+In the following paragraphs, we summarize some of the patterns and trends
+we observed in the catalog. It should be noted that these summaries are spec-
+ulations, not inferences. To test these patterns/trends would require the use
+of phylogenetic controls; that testing is beyond the scope of this manuscript.
+One point that arises from even a cursory examination of the catalog is
+that tool use occurs in a wide variety of species and in a diversity of con-
+texts. Three phyla of the animal kingdom, Arthropoda, Mollusca and Chor-
+data, and seven classes, Insecta, Malacostraca, Gastropoda, Cephalopoda,
+Actinopterygii, Aves and Mammalia, are represented. Numerically, there are
+more Aves entries (including Passeriformes; N = 277) followed by Mam-
+malia (including Primates; N = 65) and then Insecta (N = 53) (see Table 1
+
+PDF PAGE 10
+194 Bentley-Condit & Smith
+Table 1. Frequency data from tool use catalog (yes/present).
+Phylum/class N = 1? Captive Tool True Food Food Food Food Phys Mate Nest Pred Agon Other
+(N, No. of entries; only? manuf.? tool Prep Extrac Transp Cap Main Attrac Const Defen
+G, No. of genera) use?
+Arthropoda/Insecta 4 4 0 47 0 0 10 12 0 4 20 6 0 1
+(N = 53; G = 30)
+Arthropoda/Malacostraca 1 3 3 6 0 0 0 1 0 0 0 4 2 0
+(N = 6; G = 5)
+Mollusca/Gastropoda 0 2 0 3 0 0 0 0 0 0 0 1 0 2
+(N = 3; G = 2)
+Mollusca/Cephalapoda 0 0 0 0 0 0 0 0 0 0 1 1 0 0
+(N = 1; G = 1)
+Chordata/Actinopterygii 1 3 0 3 0 4 0 3 0 0 6 3 0 0
+(N = 13; G = 11)
+Chordata/Aves 38 14 3 28 21 33 5 14 12 1 0 0 3 5
+(N = 83; G = 58)
+Chordata/Aves Passeriformes 55 65 15 140 37 34 2 5 116 4 17 1 7 8
+(N = 194; G = 100)
+Chordata/Mammalia 8 11 5 16 0 8 0 5 6 0 3 0 2 1
+(N = 22; G = 19)
+Chordata/Mammalia Primates 10 18 16 41 8 18 9 22 18 1 0 2 14 10
+(N = 43; G = 21)
+Totals (N = 418; G = 247) 117 120 42 284 66 97 26 62 152 10 47 18 28 27
+
+PDF PAGE 11
+Animal tool use catalog 195
+below). However, comparison across classes by number of entries alone is
+extremely limited as 11 of the entries for Insecta each represent an entire
+genus and, thus, hundreds of entries at the species level. Still, the distribution
+is informative. First, there has been a tendency over the years to focus upon
+primate tool use (chimpanzees, in particular). In fact, Marler’s (1996) com-
+parison of primate and avian tool use and manufacture showed that birds used
+tools in the same primary categories — food preparation/acquisition, against
+intruders/predators, sexual display/mate acquisition, and self-maintenance
+— and as often as primates. Similarly, Lefebvre et al. (2002) documented 125
+cases (39 true, 86 borderline) of tool use in 104 avian species. Our catalog is
+consistent with these works as it demonstrates that Aves and Mammalia use
+tools in all ten of the categories, followed by Insecta with six, Actinopterygii
+with four, Malacostraca with three, and Gastropoda and Cephalapoda with
+only two each. This complete overlap in tool-use categories between Aves
+and Mammalia and 60% overlap with Insecta certainly speaks to the wide-
+spread distribution, and varied forms, of tool use within the animal kingdom.
+However, even complete (100%) or extensive (60%) overlap in tool use
+categories does not mean that tool use by these classes is identical. For ex-
+ample, the distributions of tool use within the ten tool use categories differ
+for Aves and Mammalia. Aves used tools primarily (i.e., ⩾20% of entries)
+for physical maintenance (46.2%), food extraction (23.8%) and food prepa-
+ration (20.9%), while Mammalia observations were primarily of food cap-
+ture (41.5%), food extraction (40.0%), physical maintenance (36.9%) and
+agonism (24.6%). It is important, though, to remember the potential bias in
+tool use observations that arises from a concentration of long-term studies
+(McGrew, 1992b).
+Second, the distribution of true tool use is also broad — occurring in all
+three plyla. Although comparisons are difﬁcult, some patterns emerge. For
+Insecta, Malacostraca, Gastropoda and Mammalia, the proportion of true tool
+use is quite high (e.g., Mammalia: 87.7%; Insecta: 88.7%). However, for
+Cephalopoda, Aves and Actinopterygii the proportion is much lower (e.g.,
+Aves: 60.6%), suggesting that much of the observed behaviour is borderline
+tool use. For the two orders, Primates and Passeriformes, the difference is
+striking (i.e., Primates: 95.3%, Passeriformes: 72.2%).
+Finally, when the data are examined by the distribution of tool use cate-
+gories we ﬁnd that most animals use tools in only one category (84.7% of
+catalog entries). These data are summarized in Table 2. Lancaster (1968)
+
+PDF PAGE 12
+196 Bentley-Condit & Smith
+Table 2. Comparison of catalog entries by breadth of tool use.
+Phylum/class/order Number and % of entries by number of tool use categories
+123 4 5 6 7 8 9 1 0 T o t a l
+Arthropoda/Insecta 53 0 0 0000 0 0 0 5 3
+(100)
+Arthropoda/ 5 1 0 0000 0 0 06
+Malacostraca (83.3) (16.7)
+Mollusca/Gastropoda 3 0 0 0000 0 0 03
+(100)
+Mollusca/ 0 1 0 0 0 0 0 0 0 0 1
+Cephalapoda (100)
+Chordota/ 10 3 0 0 0 0 0 0 0 0 13
+Actinopterygii (76.9) (23.1)
+Chordota/Aves 74 7 2 0 0 0 0 0 0 0 83
+(w/o Passeriformes) (89.2) (8.4) (2.4)
+Chordota/Aves/ 167 21 4 1 1 0 0 0 0 0 194
+Passeriformes (86.1) (10.8) (2.1) (0.5) (0.5)
+Chordota/Mammalia 19 3 0 0 0 0 0 0 0 0 22
+(w/o Primates) (86.4) (13.6)
+Chordota/Mammalia/ 23 5 6 3 1 3 1 0 1 0 43
+Primates (53.5) (11.6) (14.0) (7.0) (2.3) (7.0) (2.3) (2.3)
+T o t a l 3 5 4 4 11 24231 0 1 0 4 1 8
+(84.7) (9.8) (2.9) (1.0) (0.5) (0.7) (0.2) (0.2)
+noted that most tool-using animals use only one type of tool, and our cata-
+log supports this view. In Table 1, the category with the highest number of
+entries is Physical Maintenance, followed by Food Extraction, Food Prepa-
+ration, and Food Capture. These data tell us that not only are most of the
+taxa observed to use tools in only one context but, for most, they are doing
+so either in self-care or the acquisition/preparation of food.
+If we expand the examination of taxa to include one or two types of tool
+use, then 97.1%–100% of the entries in all classes are accounted for with
+the exception of Mammalia where only 76.9% of the entries documented
+either one or two categories of tool use. Closer inspection reveals that it is
+the Primate order that is responsible for the difference between Mammalia
+and the other taxa. Without the Primates, all of the entries for Mammalia are
+with either one or two categories of tool use. For the Order Primates, one
+or two categories of tool use accounts for only 65.1% of tool use and it is
+entries demonstrating only one type of tool use in particular (53.5% com-
+pared to ⩾76.9% for all of the other classes/orders) that is responsible for
+
+PDF PAGE 13
+Animal tool use catalog 197
+the difference. While Aves (without Passeriformes) has some entries demon-
+strating three categories of tool use, only the Passeriformes and Primates
+have entries with four or ﬁve — and only Primates has entries with greater
+than ﬁve. The proportion of entries with three or more tool use categories
+is much higher for the Primates than for other mammals, Aves, or Passer-
+iformes. When combined, 34.8% of the Primates taxa use tools in three or
+more categories compared to the other mammals (0%), Aves without Passer-
+iformes (2.4%), and the Passeriformes (3.1%). From these data, it appears
+that some primates have the edge in the breadth of their tool use.
+Relevant to the patterns described in the previous paragraphs, Lefebvre
+et al. (2002: 961) argued that true tool using birds have a larger average
+brain size than borderline tool users, and that true and borderline tool using
+may be indicative of ‘different degrees of cognitive ability’. There are also
+data showing that tool use has a direct impact on the brain (e.g., Cardinali
+et al., 2009). Corvus, some members of which are reported in our catalog as
+using tools in four or ﬁve categories, is generally recognized as being a large-
+brained bird genus. Lefebvre et al. (2002) also stated that the independent,
+parallel co-evolution of large brains and tool use may have arisen not only
+in different vertebrate lines but, potentially, at least six times in different
+avian taxa. Within the primate family tree, tool use may have arisen at least
+three different times — on the great ape/human branch, the macaque/baboon
+branch, and the capuchin branch (van Schaik et al., 1999; Panger, 2007). The
+nine catalog entries with four or more tool-using categories observed within
+the Primates (see Table 2) represent seven primate genera — one from the
+capuchin branch, two from the macaque/baboon branch, and four from the
+ape/human branch. A detailed analysis of comparative brain development,
+phylogeny, and the degree and types of tool use exhibited by various animals
+is beyond the scope of this paper, but we believe our catalog may be a useful
+tool in these future discussions.
+While it is tempting to think that breadth of tool usage is indicative of
+‘better adapted’ forms, the true ‘adaptiveness’ of each type of tool use re-
+quires further study. Alcock (1972: 472) stated that woodpecker ﬁnches, sea
+otters, and humans, all ‘major tool-using species’, have invaded new niches.
+A meta-analysis of niche-expansion and tool use would be of considerable
+interest in this regard. Furthermore, the extensive studies of some species
+(e.g., New Caledonian crows, black-capped capuchin monkeys, woodpecker
+ﬁnches, long-tailed macaques) is particularly fertile ground for the study of
+
+PDF PAGE 14
+198 Bentley-Condit & Smith
+niche-construction through tool usage on the ‘ecological inheritance’ of a
+population (see Odling-Smee et al., 2003) or how an acquired characteristic
+such as tool usage may shape the environment which, in turn, acts selec-
+tively on the population. It is likely that innovation rate, positively correlated
+with variety of tool use, may have played a role in evolutionary diversiﬁca-
+tion (Reader & Laland, 2002; Lefebvre et al., 2004), an idea that is currently
+being explored regarding the great ape-early hominin divergence. See, for
+example, Boesch et al.’s (2009) discussion of chimpanzees using complex,
+multi-function tools in collecting honey and similarities with tool use by
+early hominins. What is evident from our catalog is that observations of taxa
+demonstrating a breadth of tool usage are quite limited and, in that sense,
+these taxa are different.
+In compiling this catalog, our primary goal was to present a concise,
+user-friendly, updated resource for researchers interested in animal tool use
+that would illustrate trends in animal tool use within and across taxonomic
+classiﬁcations. We did not expect to resolve the issue of what is or is not tool
+use but we believe this updated catalog to be a signiﬁcant contribution. In
+creating the catalog, we have obviously used our deﬁnition of tool use and
+our interpretations of the available data, including some behaviours while
+excluding others. By highlighting breadth of tool use among Passeriformes
+and Primates, we made the choice to bring to the forefront this particular
+aspect of tool use and these two groups of tool users over others. It is these
+types of patterns and comparisons that make further exploration of animal
+tool use an exciting topic worthy of continued investigation.
+Acknowledgements
+V .B.-C.’s work on this project was supported by the Grinnell College Dean’s Ofﬁce, the Grin-
+nell College Committee for Support of Faculty Scholarship, and the Frank and Roberta Fur-
+bush Fund. Also many thanks to S. Burnell for her assistance in ﬁnding and securing PDFs
+of some of the more obscure references. We thank the editors and anonymous reviewers for
+carefully reviewing previous versions of this manuscript and for providing valuable com-
+ments and critiques that led to this revised document.
+References
+Abma, E. (1951). Een mierenhoop-probleem. — Natura 48: 164.
+Acharjyo, L. & Misra, R. (1972). On the feeding habits of the crabeating mongoose ( Her-
+pestes urva) in captivity. — J. Bombay Nat. Hist. Soc. 69: 411-412.
+
+PDF PAGE 15
+Animal tool use catalog 199
+Agbogba, C. (1985). Observations sur la récolte de substances liquids et de sucs animaux
+chez deux espèces d’Aphaenogaster: A. senilis et A. subterranean (Hym. Formicidae).
+— Insect. Soc. Paris 32: 427-434.
+Akerman, C. (1923). A comparison of the habits of a South African spider, Cladomelea, with
+those of an Australian Dicrostichus. — Ann. Natal Mus. 5: 83-88.
+Albignac, R. (1969). Notes ethologiques sur quelques carnivores Malgaches: le Galidia ele-
+gans I. Geoffroy. — Terre Vie 23: 202-215.
+Alcock, J. (1972). The evolution of the use of tools by feeding animals. — Evolution 26:
+464-473.
+Aldersparre, A. (1936). Zum thema “Vögel und Ameisen”. — Ornithol. Monatsber. 44:
+129-135.
+Alexander, J.E. (1838). An expedition of discovery into the interior of Africa, through the
+hitherto undescribed countries of the Great Namaquas, Boschmans, and Hill Damaras.
+— H. Collburn, London.
+Allsop, K. (1949). “Anting” of green woodpecker. — Br. Birds 42: 390.
+Alp, R. (1993). Meat eating and ant dipping by wild chimpanzees in Sierra Leone. — Pri-
+mates 34: 463-468.
+Alp, R. (1997). “Stepping-sticks” and “seat-sticks”: new types of tools used by wild chim-
+panzees (Pan troglodytes) in Sierra Leone. — Am. J. Primatol. 41: 45-52.
+An Old Sportsman from Uitkyk N. (1867). Predation on ostrich nests. — The Kaffrarian
+Watchman, King William’s Town.
+Anderson, J.R. (1985). Development of tool-use to obtain food in a captive group ofMacaca
+tonkeana. — J. Human Evol. 14: 637-645.
+Anderson, J.R. (2002). Gone ﬁshing: tool use in animals. — Biologist 49: 15-18.
+Anderson, J.R. & Henneman, M.-C. (1994). Solutions to a tool-use problem in a pair ofCebus
+apella. — Mammalia 58: 351-361.
+Anderson, J.R., Williamson, E.A. & Carter, J. (1983). Chimpanzees of Sapo Forest, Liberia:
+Density, nests, tools and meat-eating. — Primates 24: 594-601.
+Andersson, S. (1989). Tool use by the fan-tailed raven ( Corvus rhipidurus). — Condor 91:
+999.
+Antinucci, F. & Visalberghi, E. (1986). Tool use in Cebus apella: a case study. — Int. J.
+Primatol. 7: 351-363.
+Antevs, A. (1948). Behaviour of the gila woodpecker, ruby-crowned kinglet, and broad-tailed
+hummingbird. — Condor 50: 91-92.
+Arcadi, A.C., Robert, D. & Boesch, C. (1998). Buttress drumming by wild chimpanzees:
+temporal patterning, phrase integration into loud calls, and preliminary evidence for
+individual distinctiveness. — Primates 39: 505-518.
+Armbrust, W. (1958). Haltung und zucht von Hoplosternum thoracatum. — Aquarien Ter-
+rarien Z. 11: 91-100.
+Armbruster, L. (1921). Über Werkzeuggebrauch bei Tieren. — Naturwissenschaften 9: 303-
+305.
+Artaud, Y . & Bertrand, M. (1984). Unusual manipulatory activity and tool-use in a captive
+crab-eating macaque (Macaca fascicularis). — In: Current primate researches (Roon-
+wal, M., Mohnot, S. & Rathore, N., eds). Department of Zoology, University of Jodhpur,
+Jodhpur, p. 423-428.
+Babitz, M.A. (2000). Object manipulation and tool use in Sulawesi crested black macaques.
+— Am. J. Primatol. 51 (Suppl. 1): 38.
+
+PDF PAGE 16
+200 Bentley-Condit & Smith
+Baker, M. (1996). Fur rubbing: use of medicinal plants by capuchin monkeys (Cebus capuci-
+nus). — Am. J. Primatol. 38: 263-270.
+Balda, R.P. (2007). Corvids in combat: with a weapon? — Wilson J. Ornithol. 119: 100-102.
+Banks, S. (1982). Grey heron dunking and swallowing large rat. — Br. Birds 75: 181.
+Banschbach, V .S., Brunelle, A., Bartlett, K.M., Grivetti, L. & Yeamans, R.L. (2006). Tool use
+by the forest ant Aphaenogaster rudis: ecology and task allocation. — Insect. Soc. 53:
+463-471.
+Barash, D.P., Donovan, P. & Myrick, R. (1975). Clam dropping behaviour of the glaucous-
+winged gull (Larus glaucescens). — Wilson Bull. 87: 60-64.
+Barber, J., Ellgaard, E.G., Thien, L.B. & Stack, A.E. (1989). The use of tools for food trans-
+portation by the imported ﬁre ant, Solenopsis invicta. — Anim. Behav. 38: 550-552.
+Barlow, G.W. (1974). Contrasts in social behaviour between Central American cichlid ﬁshes
+and coral-reef surgeon ﬁshes. — Am. Zool. 14: 9-34.
+Barnes, D.M. (2005). Possible tool use by beavers, Castor canadensis, in a northern Ontario
+watershed. — Can. Field Nat. 119: 441-443.
+Bartlett, D. & Bartlett, J. (1973). The incredible ﬂight of the snow goose. — Animals 15: 4-6.
+Bauer, H. (2001). Use of tools by lions in Waza National Park, Cameroon. — Afr. J. Ecol.
+39: 317.
+Bayart, F. (1982). Un cas d’utilisation d’outil chez un macaque (Macaca tonkeana)é n l e v ée n
+semi-liberté. — Mammalia 46: 541-544.
+Beatty, H. (1951). A note on the behaviour of the chimpanzee. — J. Mammal. 32: 118.
+Beck, B.B. (1972). Tool use in captive hamadryas baboons. — Primates 13: 277-295.
+Beck, B.B. (1973a). Cooperative tool use by captive hamadryas baboons. — Science 182:
+594-597.
+Beck, B.B. (1973b). Observation learning of tool use by captive Guinea baboons ( Papio
+papio). — Am. J. Phys. Anthopol. 38: 579-582.
+Beck, B.B. (1976). Tool use by captive pigtailed macaques. — Primates 17: 301-310.
+Beck, B.B. (1980). Animal tool behaviour: the use and manufacture of tools by animals. —
+Garland STPM Publishing, New York, NY .
+de Beer, B. (1948). Secrets of the ant-lion. — Afr. Wildlife 2: 57-61.
+de Benedictus, P.A. (1966). The bill-brace feeding behaviour of the Galápaoges ﬁnch
+Geospiza conirostris. — Condor 68: 206-208.
+Benhar, E.E. & Samuel, D. (1978). A case of tool use in captive olive baboons (Papio anubis).
+— Primates 19: 385-389.
+Berg Jr., C.J. (1975). Behaviour and ecology of conch (Superfamily Strombacea) on a deep
+subtidal algal plain. — Br. Mar. Sci. 25: 307-317.
+Bermejo, M. & Illera, G. (1999). Tool-set for termite-ﬁshing and honey extraction by wild
+chimpanzees in the Lossi Forest, Congo. — Primates 40: 619-627.
+Bermejo, M., Illera, G. & Pi, J.S. (1989). New observations on the tool-behaviour of chim-
+panzees from Mt. Assirik (Senegal, West Africa). — Primates 30: 65-73.
+Berrow, S.D., Kelly, T.C. & Myers, A.A. (1992). The diet of coastal breeding hooded crows
+Corvus corone cornix. — Ecography 15: 337-346.
+Bertagnolio, P. (1994). Tool-using by parrots: the palm cockatoo and the hyacinthine macaw.
+— Avic. Mag. 100: 68-73.
+Bharos, A.M.K. (1999). Attempt by redvented bulbul Pycnonotus cafer to feed on a young
+house gecko Hemidactylus ﬂaviviridis. — J. Bombay Nat. Hist. Soc. 96: 320.
+
+PDF PAGE 17
+Animal tool use catalog 201
+Bierens de Haan, J.A. (1931). Werkzeuggebrauch und Werkzergerstellung bei einem niederen
+Affen (Cebus hypoleucus Humb.). — Z. Vergl. Physiol. 13: 639-695.
+Bindner Jr., C.M. (1968). Bald eagles use tools. — Fla. Nat. 41: 169.
+Bird, C.D. & Emery, N.J. (2009). Insightful problem solving and creative tool modiﬁcation
+by captive nontool-using rooks. — Proc. Natl. Acad. Sci. 106: 10370-10375.
+Biro, D., Inoue-Nakamura, N., Tonooka, R., Yamakoshi, G., Sousa, C. & Matsuzawa, T.
+(2003). Cultural innovation and transmission of tool use in wild chimpanzees: evidence
+from ﬁeld experiments. — Anim. Cogn. 6: 213-223.
+Boesch, C. & Boesch, H. (1990). Tool use and tool making in wild chimpanzees. — Folia
+Primatol. 54: 86-99.
+Boesch, C., Head, J. & Robbins, M.M. (2009). Complex tool sets for honey extraction among
+chimpanzees in Loango National Park, Gabon. — J. Human Evol. 56: 560-569.
+Boesch, C., Marchesi, P., Marchesi, N., Fruth, B. & Joulian, F. (1994). Is nut cracking in wild
+chimpanzees a cultural behaviour? — J. Human Evol. 26: 325-338.
+Boinski, S. (1988). Use of a club by a wild white-faced capuchin (Cebus capucinus) to attack
+a venomous snake (Bothrops asper). — Am. J. Primatol. 14: 177-179.
+Boinski, S., Quatrone, R.P. & Swartz, H. (2000). Substrate and tool use by brown capuchins
+in Suriname: ecological contexts and cognitive bases. — Am. Anthropol. 102: 741-761.
+Bolwig, N. (1961). An intelligent tool-using baboon. — S. Afr. J. Sci. 57: 147-152.
+Borsari, A. & Ottoni, E.B. (2005). Preliminary observations of tool use in captive hyacinth
+macaws (Anodorhynchus hyacinthinus). — Anim. Cogn. 8: 48-52.
+Boswall, J. (1977a). Notes on tool-using by Egyptian vultures Neophron percnopterus.—
+Bull. Br. Ornithol. Club 97: 77-79.
+Boswall, J. (1977b). Tool-using by birds and related behaviour I. — Avic. Mag. 83: 88-97.
+Boswall, J. (1977c). Tool-using by birds and related behaviour II. — Avic. Mag. 83: 146-159.
+Boswall, J. (1977d). Tool-using by birds and related behaviour III. — Avic. Mag. 83: 220-228.
+Boswall, J. (1978). Further notes on tool-using by birds and related behaviour. — Avic. Mag.
+84: 162-166.
+Boswall, J. (1982). Tool-using and related behaviour in birds: more notes. — Avic. Mag. 89:
+94-108.
+Boswall, J. (1983). Tool-using and related behaviour in birds: yet more notes. — Avic. Mag.
+89: 170-181.
+Bourke, P.A. (1941a). Honeyeater and ants. — Emu 41: 163-164.
+Bourke, P.A. (1941b). “Anting” by rufous whistlers (Pachycephala). — Vic. Nat. 58: 64.
+Bowey, K. (1997). Grey heron catching a common starling in ﬂight. — Br. Birds 90: 112-113.
+Bowman, R.I. (1961). Morphological differentiation and adaptation in the Galapagos ﬁnches.
+— Univ. Calif. Publ. Zool. 58: 1-326.
+Brampton, A.H. (1994). Carrion crow dunking nuts. — Br. Birds 87: 478.
+Breuer, T., Ndoundou-Hockemba, M. & Fishlock, V . (2005). First observation of tool use in
+wild gorillas. — PLoS Biol. 3: 2041-2043.
+Brewer, S.M. & McGrew, W. (1990). Chimpanzee use of a tool-set to get honey. — Folia
+Primatol. 54: 100-104.
+Brockmann, H.J. (1985). Tool use in digger wasps (Hymenoptera:Sphecinae). — Psyche 92:
+309-330.
+Brooke, R.K. (1979). Tool using by the Egyptian vulture to the detriment of the ostrich. —
+Ostrich 50: 119-120.
+
+PDF PAGE 18
+202 Bentley-Condit & Smith
+Brown, L.H. & Urban, E.K. (1969). The breeding biology of the great white pelican Pele-
+canus onocrotalus roseus at Lake Shala, Ethiopia. — Ibis 111: 199-237.
+Cade, T.J. & Maclean, G.L. (1967). Transport of water by adult sandgrouse to their young.
+— Condor 69: 323-343.
+Caffrey, C. (2000). Tool modiﬁcation and use by an American crow. — Wilson Bull. 11:
+283-284.
+Caffrey, C. (2001). Goal-directed use of objects by American crows. — Wilson Bull. 113:
+114-115.
+Caldwell, J.A. (1951). Food-washing in the water-rail. — Br. Birds 44: 418.
+Call, J. & Tomasello, M. (1994). The social learning of tool use by orangutans ( Pongo
+pygmaeus). — Human Evol. 9: 297-313.
+Callegari, E. (1955). La “Mirmecosimpatia” è un fenomeno esteso anche ad altri gruppi di
+insetti. — Riv. Ital. Ornitol. 25: 147-148.
+Campbell, C.J. (2000). Fur rubbing behaviour in free-ranging black-handed spider monkeys
+(Ateles geoffroyi) in Panama. — Am. J. Primatol. 51: 205-208.
+Canale, G.R., Guidorizzi, C.E., Kierulff, M.C.M. & Gatto, C.A.F.R. (2009). First record of
+tool use by wild populations of the yellow-breasted capuchin monkey ( Cebus xan-
+thosternos) and new records for the bearded capuchin ( Cebus libidinosus). — Am. J.
+Primatol. 71: 1-7.
+Cardinali, L., Frassinetti, F., Brozzoli, C., Urquizar, C., Roy, A. & Farnè, A. (2009). Tool-use
+induces morphological updating of the body schema. — Curr. Biol. 19: R478-R479.
+Carpenter, A. (1887). Monkeys opening oysters. — Nature 36: 53.
+Carpenter, C.R. (1940). A ﬁeld study in Siam of the behaviour and social relations of the
+gibbons (Hylobates lar). — Comp. Psychol. Monogr. 16: 1-205.
+Chaffer, N. (1945). The spotted and satin bower birds: a comparison. — Emu 44: 161-181.
+Chamberlain, B.R. (1954). Brown thrasher anting. — Chat 18: 103.
+Chappell, J. & Kacelnik, A. (2002). Tool selectivity in a non-primate, the New Caledonian
+crow (Corvus moneduloides). — Anim. Cogn. 5: 71-78.
+Chasen, F.N. (1939). The birds of the Malay peninsula, a general account of the birds inhabi-
+ting the region from the isthmus of Kra to Singapore with the adjacent islands, V ol. 4.
+— H.F. & G. Witherby, London.
+Chevalier-Skolnikoff, S. (1990). Tool use by wild cebus monkeys at Santa Rosa National
+Park, Costa Rica. — Primates 31: 375-383.
+Chevalier-Skolnikoff, S. & Liska, J.O. (1993). Tool use by wild and captive elephants. —
+Anim. Behav. 46: 209-219.
+Chiang, M. (1967). Use of tools by wild macaque monkeys in Singapore. — Nature 214:
+1258-1259.
+Chisholm, A.H. (1954). The use by birds of “tools” or “instruments”. — Ibis 96: 380-383.
+Clark, C., Clark, L. & Clark, L. (1990). “Anting” behaviour by common grackles and Euro-
+pean starlings. — Wilson Bull. 102: 167-169.
+Clayton, N.S. & Jolliffe, A. (1996). Marsh tits Parus palustris use tools to store food. — Ibis
+138: 554-554.
+Cleveland, A., Rocca, A.M., Wendt, E.L. & Westergaard, G.C. (2004). Transportation of tools
+to food sites in tufted capuchin monkeys (Cebus apella). — Anim. Cogn. 7: 193-198.
+Colin, P.L. (1972). Daily activity patterns and effects of environmental conditions on the be-
+haviour of the yellowheaded jawﬁsh,Opistognathus aurifronswith notes on its ecology.
+— Zoologica 57: 137-169.
+
+PDF PAGE 19
+Animal tool use catalog 203
+Colin, P.L. (1973). Burrowing behaviour of the yellowhead jawﬁshOpistognathus aurifrons.
+— Copeia: 84-90.
+Condor, P. & Everett, M. (1979). Clever crows. — Br. Birds 72: 295-296.
+Connor, J. (1992). The shell game. — Living Bird 12: 6-7.
+Cooper, A.S. (1981). Pied kingﬁsher Ceryle rudis catches crab at sea. — Cormorant 9: 135-
+136.
+Cooper, L.R. & Harlow, H.F. (1961). Note on a cebus monkey’s use of a stick as a weapon.
+— Psychol. Rep. 8: 418.
+Coyer, J. (1995). Use of a rock as an anvil for breaking scallops by the yellowhead wrasse,
+Halichoeres garnoti (Lambridae). — Bull. Mar. Sci. 57: 548-549.
+Creutz, G. (1952). Einemsen (“anting”) bei Cinclus. — J. Ornithol. 93: 174.
+Cristol, D.A. & Switzer, P.V . (1999). Avian prey-dropping behaviour. II. American crows and
+walnuts. — Behav. Ecol. 10: 220-226.
+Crook, J.H. (1960). Nest form and construction in certain West African weaver-birds. — Ibis
+102: 1-25.
+Crous, R. (1994). An incidence of bait ﬁshing in the squacco heron Ardeola ralloides.—
+Babbler 32: 26-27.
+Cunningham, C.L., Anderson, J.R. & Mootnick, A.R. (2006). Object manipulation to obtain a
+food reward in hoolock gibbons, Bunopithecus hoolock. — Anim. Behav. 71: 621-629.
+Curio, E. & Kramer, P. (1964). V om mangroveﬁnken (Cactospiza heliobates Snodgrass and
+Heller): Ergebnisse der Deutschen Galapagos-expedition 1962/63 I. — Z. Tierpsychol.
+21: 223-234.
+Dater, E.E. (1953). Anting of blue-winger warbler (Vermivora pinus) at Ramsey, New Jersey.
+— Auk 70: 89.
+Davis, A.J. (1939). Golden-crowned kinglet putting ants in its feathers. — Chat 3: 25-26.
+Davis Jr., W.E. (1993). Foraging behaviour of a western reef heron in North America. —
+Colonies Waterbirds 8: 70-73.
+Davis Jr., W.E. (1995). Downy woodpecker and white-breasted nuthatch use “vice” to open
+sunﬂower seeds: is this an example of tool use? — Bird Observ. 23: 339-342.
+Davis Jr., W.E. (2004). Black-crowned night-heron vibrates bill in water to attract ﬁsh. —
+Southeast. Nat. 3: 127-128.
+Deblauwe, I., Guislain, P., Dupain, J. & van Elskcker, L. (2006). Use of a tool-set by Pan
+troglodytes troglodytes to obtain termites ( Macrotermes) in the periphery of the Dja
+Biosphere Reserve, southeast Cameroon. — Am. J. Primatol. 68: 1191-1196.
+Dick, J.A. & Fenton, M.B. (1979). Tool-using by a black eagle? — Bokmakierie 31: 17.
+Dow, D.D. (1980). Primitive weaponry in birds: the Australian brush-turkey’s defence. —
+Emu 80: 91-92.
+Drennen, D.J. (1995). Ring-billed gulls ( Larus delawarensis) feeding on mussels. — Ala.
+Birdlife 41: 7-9.
+Drinkwater, H. (1958). Black-crowned night heron using bill motion to lure prey. — Wilson
+Bull. 70: 201-202.
+Ducoing, A.M. & Thierry, B. (2005). Tool-use learning in Tonkean macaques ( Macaca
+tonkeana). — Anim. Cogn. 8: 103-113.
+Duerden, J.E. (1905). On the habits and reactions of crabs bearing actinians in their claws. —
+Proc. Zool. Soc. Lond. 73: 494-511.
+
+PDF PAGE 20
+204 Bentley-Condit & Smith
+Duerden, J.E. (1908). The Egyptian vulture. — J. S. Afr. Ornithol. Union 4: 40-41.
+Duyck, I. & Duyck, J. (1984). Koolmees Parus major gebrulkt instrument bij het voedsel-
+zoeken. — Wielewaal 50: 416.
+van Duzer, E.M. (1939). Observation on the breeding habits of the cut-lips minnow,Exoglos-
+sum maxillingua. — Copeia: 65-75.
+Ebert, E.E. (1968). A food habits study of the southern sea otter, Enhydra lutris nereis.—
+Calif. Fish Game 54: 33-42.
+Edmonds, J. (1991). Burnt offerings. — Bird Observ. 10: 131.
+Eibl-Eibesfeldt, I. (1961). Über den Werkzeuggebrauch des Spechtﬁnken Camarhynchus
+pallidus (Slater und Slavin). — Z. Tierpsychol. 18: 342-346.
+Eisenberg, J. & Kleiman, D. (1977). The usefulness of behaviour studies in developing cap-
+tive breeding programmes for mammals. — In: International zoo yearbook, V ol. 17
+(Olney, P., ed.). Zoological Society of London, London, p. 81-89.
+Eisner, T. & Davis, J.A. (1967). Mongoose throwing and smashing millipedes. — Science
+155: 577-579.
+Eisner, T., Johnessee, J.S., Carrel, J., Hendry, L.B. & Meinwald, J. (1974). Defensive use by
+an insect of a plant resin. — Science 184: 996-999.
+Ellis, D.H. & Brunson, S. (1993). Tool use by the red-tailed hawk ( Buteo jamaicensis). —
+J. Raptor Res. 27: 128.
+Ellis, J. (1975). Orangutan tool use at Oklahoma City Zoo. — Keeper 1: 5-6.
+Epstein, R. & Medalie, S.D. (1983). The spontaneous use of a tool by a pigeon. — Behav.
+Anal. Lett. 3: 241-247.
+Erlwein, K.M. (1996). Hairy and red-bellied woodpeckers use bark crevices to break open
+seeds. — Kingbird 46: 200-201.
+Erwin, J. (1974). Laboratory-reared rhesus monkeys can use their tails as tools. — Percept.
+Motor Skills 39: 129-130.
+Evans, H.E. (1959). Observations on the nesting behaviour of digger wasps of the genus
+Ammophila. — Am. Midl. Nat. 62: 449-473.
+Fay, J.M. & Carroll, R.W. (1994). Chimpanzee tool use for honey and termite extraction in
+Central Africa. — Am. J. Primatol. 34: 309-317.
+Fellers, J.H. & Fellers, G.M. (1976). Tool use in a social insect and its implications for
+competitive interactions. — Science 192: 70-72.
+Fernandes, M.E. (1991). Tool use and predation of oysters (Crassostrea rhizophorae)b yt h e
+tufted capuchin, Cebus apella apella, in brackish water mangrove swamps. — Primates
+32: 529-531.
+Fisher, C. (1979). Stonechat hammering snail on wall. — Br. Birds 1979: 38.
+Fisher, E.M. (1939). Habits of the southern sea otter. — Mammalogy 20: 21-36.
+Fitch-Snyder, H. & Carter, J. (1993). Tool use to acquire drinking water by free-ranging long-
+tailed macaques (Macaca silenus). — Lab. Prim. Newslett. 32: 1-4.
+Fitzwater, W.D. (1967). The house crow ( Corvus splendens, Vieillot) feeding on the Indian
+desert gerbil (Meriones hurrianae, Jerdon). — J. Bombay Nat. Hist. Soc. 64: 111.
+Fleming, R.L. (1955). The bone-dropping behaviour of the Lammergeyer. — J. Bombay Nat.
+Hist. Soc. 52: 933-935.
+Fontaine, B., Moisson, P.Y . & Wickings, E.J. (1995). Observations of spontaneous tool mak-
+ing and tool use in a captivge group of western lowland gorillas (Gorilla gorilla gorilla).
+— Folia Primatol. 65: 219-223.
+
+PDF PAGE 21
+Animal tool use catalog 205
+Forrest, T.G. (1982). Acoustic communication and bafﬂing behaviours of crickets. — Fla.
+Entomol. 65: 33-44.
+Fox, E.A. & bin’Muhammad, I. (2002). Brief communication: new tool use by wild Sumatran
+orangutans (Pongo pygmaeus abelii). — Am. J. Phys. Anthropol. 119: 186-188.
+Fox, E.A., van Schaik, C.P., Sitompul, A. & Wright, D.N. (2004). Intra- and interpopula-
+tional differences in orangutan (Pongo pygmaeus) activity and diet: implications for the
+invention of tool use. — Am. J. Phys. Anthropol. 125: 162-174.
+Foxall, C.D. & Drury, D. (1987). Green-backed heron ‘bait ﬁshing’ in Nairobi National Park.
+— Bull. E. Afr. Nat. Hist. Soc. 17: 11.
+Fragaszy, D.M., Izar, P., Visalberghi, E., Ottoni, E.B. & De Oliveira, M.G. (2004). Wild
+capuchin monkeys (Cebus libidinosus) use anvils and stone pounding tools. — Am. J.
+Primatol. 64: 359-366.
+Fricke, H.W. (1971). Fische als feinde tropischer seeigel. — Mar. Biol. 9: 328-338.
+Fricke, H.W. (1975). Lösen einfacher Probleme bei einem Fisch. — Z. Tierpsychol. 38: 18-
+33.
+Frisch, J.A. (1940). Did the Peckhams witness the invention of a tool by Ammonphila
+urnaria? — Am. Midl. Nat. 24: 345-350.
+Furlong, E.E., Boose, K.J. & Boysen, S.T. (2008). Raking it in: the impact of enculturation
+on chimpanzee tool use. — Anim. Cogn. 11: 83-97.
+Gaddis, P. (1981). Tool use by a mountain chickadee. — Cont. Birdlife 2: 19-20.
+Galat-Luong, A. (1984). L’utilisation spontanee d’outils pour le toilettage chez des Cercop-
+ithecidae Africains captifs. — Rev. Ecol. (Terre Vie) 39: 231-236.
+Galdikas, B.M. (1982). Orang-utan tool-use at Tanjung Puting Reserve, Central Indonesian
+Borneo (Kalimantan Tengah). — J. Human Evol. 10: 19-33.
+Galdikas, B.M. (1989). Orangutan tool use. — Science 243: 152.
+Gannon, R.A. (1930). Observations on the satin bower-bird with regard to the material used
+by it in painting its bower. — Emu 30: 39-41.
+Gatinot, B.L. (1974). Note sur l’observation d’une utilization spontanée d’outil chezErythro-
+cebus patas in captivité. — Mammalia 38: 557-558.
+Gayou, D.C. (1982). Tool use by green jays. — Wilson Bull. 94: 593-594.
+George, N.J. (1973). Baya ( Ploceus philippinus) feeding on frogs. — J. Bombay Nat. Hist.
+Soc. 70: 381-382.
+Gertsch, W.J. (1955). The North American bolas spiders of the genera Mastophora and
+Agatostichus. — Bull. Am. Mus. Nat. Hist. 106: 225-254.
+Gibson, C. (1992). Jackdaws feeding on horse-chestnuts. — Br. Birds 85: 138.
+Gold, K.C. (2002). Ladder use and clubbing by a bonobo (Pan paniscus) in Apenheul Primate
+Park. — Zoo Biol. 21: 607-611.
+Gonzalez-Kirchner, J.P. & Sainz de la Maza, M. (1992). Sticks used by wild chimpanzees:
+a new locality in Rio Muni. — Folia Primatol. 58: 99-102.
+Goodall, J. (1964). Tool-using and aimed throwing in a community of free-living chim-
+panzees. — Nature 201: 1264-1266.
+Goodge, W.R. (1959). Locomotion and other behaviour of the dipper. — Condor 61: 4-17.
+Goodman, A.E. & Fisk, E.J. (1973). Breeding behaviour of captive striped owls (Rhinoptynx
+clamator). — Avic. Mag. 79: 158-162.
+Goodwin, D. (1953a). Interspeciﬁc differences in the anting movements of some corvine
+birds. — Ibis 95: 147-149.
+
+PDF PAGE 22
+206 Bentley-Condit & Smith
+Goodwin, D. (1953b). Observations on captive lanceolated jays. — Avic. Mag. 59: 122-133.
+Gore, M.E.J. (1981). Fiscal shrike kills prey by impaling it on thorn. — Bull. E. Afr. Nat.
+Hist. Soc. Nov/Dec: 115.
+Gorman, G. (1998). Syrian woodpecker using wall crevice as an ‘anvil’. — Br. Birds 91: 378.
+Gould. J. (1848). An introduction to the birds of Australia. — Taylor, London.
+Green, C. (1972). Use of tool by orange-winged sittella. — Emu 72: 185-186.
+Greenhood, W. & Norton, R.L. (1999). Novel feeding technique of the woodpecker ﬁnch. —
+J. Field Ornithol. 70: 104-106.
+Grobecker, D.B. & Pietsch, T.W. (1978). Crows use automobiles as nutcrackers. — Auk 95:
+760-761.
+Groskin, H. (1943). Scarlet tanagers “anting”. — Auk 60: 55-59.
+Gruber, A. (1969). A functional deﬁnition of primate tool-making. — Man 4: 573-579.
+Grummt, W. (1963). Werkzeuggebrauch beim Wasserbüffel (Bubalus arnee f. bublais L.). —
+Zool. Garten 27: 262-263.
+Guillaume, P. & Meyerson, I. (1934). Recherches l’usage de l’instrument chez les singes, III:
+l’intermediaire independant de l’objet. — J. Psychol. 31: 497-554.
+Gumert, M.D., Kluck, M. & Malaivijitnond, S. (2009). The physical characteristics and
+usage patterns of stone axe and pounding hammers used by long-tailed macaques in
+the Andaman Sea region of Thailand. — Am. J. Primatol. 71: 594-608.
+Hall, K.R.L. (1963). Tool-using performances as indicators of behavioural adaptability. —
+Curr. Anthropol. 4: 479-494.
+Hall, K.R.L. & Schaller, G.B. (1964). Tool-using behaviour of the California sea otter. —
+J. Mammal. 45: 287-299.
+Hamilton III, W.J., Buskirk, R.E. & Buskirk, W.H. (1975). Defensive stoning by baboons. —
+Nature 256: 488-489.
+Hammond, N. (1997). House sparrows, chafﬁnch and spotted ﬂycatchers eating damselﬂies.
+— Br. Birds 90: 368.
+Haney, J.C. (1982). Seed-cracking attempts by a Carolina wren. — The Migrant 53: 12-13.
+Hannah, A.C. & McGrew, W.C. (1987). Chimpanzees using stones to crack open oil palm
+nuts in Liberia. — Primates 28: 31-46.
+Harber, D.D. & Jones, M. (1947). Great black-backed gull dropping rat. — Br. Birds 40: 317.
+Harcourt, C.H. (1981). An examination of the function of urine washing in Galago sene-
+galensis. — Z. Tierpsychol. 55: 119-128.
+Hart, B.L. & Hart, L.A. (1994). Fly switching by Asian elephants: tool use to control para-
+sites. — Anim. Behav. 48: 35-46.
+Hart, B.L., Hart, L.A., McCoy, M. & Sarath, C.R. (2001). Cognitive behaviour in Asian
+elephants: use and modiﬁcation of branches for ﬂy switching. — Anim. Behav. 62:
+839-847.
+Hartman, C.G. (1905). Observations on the habits of some solitary wasps of Texas. — Bull.
+Univ. Texas 65: 1-72.
+Hauser, M., Pearson, H. & Seelig, D. (2002). Ontogeny of tool use in cottontop tamarins,
+Saguinus oedipus: innate recognition of functionally relevant features. — Anim. Behav.
+64: 299-311.
+Harvey, R. (2000). Tool use by green heron. — Conn. Warbler 20: 29.
+Heinrich, B. (1988). Raven tool use. — Condor 90: 270-271.
+Henry, P.-Y . & Aznar, J.-C. (2006). Tool-use in Charadrii: active bait ﬁshing by a Herring
+Gull. — Waterbirds 29: 233-234.
+
+PDF PAGE 23
+Animal tool use catalog 207
+Henry, P.-Y ., Bénéat, T. & Maire, P. (1998). Consommation de jeunes grenouilles «vertes»
+Rana kl. escugenta par un Chevalier gambette Tringer tetanus. — Nos Oiseaux 45:
+57-58.
+Henschel, J.R. (1995). Tool use by spiders: stone selection and placement by corolla spiders
+(Ariadna Segestriidae) of the Namib Desert. — Ethology 101: 187-199.
+Henty, C.J. (1986). Development of snail-smashing by song thrushes. — Br. Birds 79:
+277-281.
+Hernandez-Aguilar, R.A., Moore, J. & Pickering, T.R. (2007). Savanna chimpanzees use tools
+to harvest the underground storage organs of plants. — Proc. Natl. Acad. Sci. USA 104:
+19210-19213.
+Heselden, R.G., Parr, J., Berrow, S. & Cobley, N. (1996). Black wheatear killing lizard by
+dashing it against stone. — Br. Birds 89: 317.
+Heymann, E. (1995). Urine washing and related behaviour in wild moustached tamarins,
+Saguinus mystax (Callitrichidae). — Primates 36: 259-264.
+Hicks, T.C., Fouts, R.S. & Fouts, D.H. (2005). Chimpanzee (Pan troglodytes troglodytes) tool
+use in the Ngotto Forest, Central African Republic. — Am. J. Primatol. 65: 221-237.
+Higuchi, H. (1988). Individual differences in bait-ﬁshing by the green-backed heron Ardeola
+striata associated with territory quality. — Ibis 130: 39-44.
+Hihara, S., Obayashi, S., Tanaka, M. & Iriki, A. (2003). Rapid learning of sequential tool use
+by macaque monkeys. — Physiol. Behav. 78: 427-434.
+Hill, R.W. (1946). Bronzed grackle “anting” with mothballs. — Wilson Bull. 58: 112.
+Hindwood, K.A. (1966). Australian birds in colour. — A.H. & A.W. Reed, Sydney, NSW.
+Hirata, S., Myowa, M. & Matsuzawa, T. (1998). Use of leaves as cushions to sit on wet ground
+by wild chimpanzees. — Am. J. Primatol. 44: 215-220.
+Hobbs, J.N. (1971). Use of tools by the while-winged chough. — Emu 71: 84-85.
+Hobhouse, L. (1926). Mind in evolution. — Macmillan, London.
+Hohmann, G. (1988). A case of simple tool use in wild liontailed macaques (Macaca silenus).
+— Primates 29: 565-567.
+Hölldobler, B. & Wilson, E.O. (1977). Weaver ants. — Sci. Am. 237: 146-154.
+Hornaday, W. (1934). The minds and manners of wild animals. — Scribner’s, New York, NY .
+Houk, J.L. & Geibel, J.J. (1974). Observation of underwater tool use by sea otter, Enhydra
+lutris Linnaeus. — Calif. Fish Game 60: 207-208.
+Howell, T.R. (1979). Breeding biology of the Egyptian plover,Pluvianus aegyptius.—U n i v .
+Calif. Publ. Zool. 113: 1-76.
+del Hoyo, J., Elliot, A. & Sargatal, J. (1996). Handbook of the birds of the world, V ol. 3. —
+Lynx Education, Barcelona.
+Huffman, M.A. & Kalunde, M.S. (1993). Tool-assisted predation on a squirrel by a female
+chimpanzee in the Mahale Mountains, Tanzania. — Primates 34: 93-98.
+Humle, T. & Matsuzawa, T. (2002). Ant-dipping among the chimpanzees of Bossou, Guinea,
+and some comparisons with other sites. — Am. J. Primatol. 58: 133-148.
+Humle, T. & Matsuzawa, T. (2004). Oil palm use by adjacent communities of chimpanzees
+at Bossou and Nimba Mountains, West Africa. — Intl. J. Primatol. 25: 551-581.
+Hundley, M.H. (1963). Notes on the methods of feeding and the use of tools in the Geospinz-
+inae. — Auk 80: 372-373.
+Hunt, G.R. (1996). Manufacture and use of hook-tools by New Caledonian crows. — Nature
+379: 249-251.
+
+PDF PAGE 24
+208 Bentley-Condit & Smith
+Hunt, G.R. & Gray, R.D. (2004). Direct observations of pandanus-tool manufacture and use
+by a New Caledonian crow (Corvus moneduloides). — Anim. Cogn. 7: 114-120.
+Hunt, G.R., Rutledge, R.B. & Gray, R.D. (2006). The right tool for the job: what strategies
+do wild New Caledonian crows use? — Anim. Cogn. 9: 307-316.
+Hunt, G.R., Sakuma, F. & Shibata, Y . (2002). New Caledonian crows drop candle-nuts onto
+rock from communally used forks on branches. — Emu 102: 283-290.
+Hunter Jr., M.L., Calhoun, A. & Wilcove, D.S. (2004). Goliath heron ﬁshing with an artiﬁcial
+bait? — Waterbirds 27: 312-313.
+Hutchinson, C.E. (1903). A bolas throwing spider. — Sci. Am. 89: 172.
+Ilany, G. (1982). Egyptian vultures and dabb lizards. — Israel Land Nat. 8: 37.
+van Impe, J. (1978). Mediterranean gull dropping bivalves. — Br. Birds 71: 128-129.
+Ingolfsson, A. & Estrella, B.T. (1978). The development of shell-cracking behaviour in her-
+ring gulls. — Auk 95: 577-579.
+Inoue-Nakamura, N. & Matsuzawa, T. (1997). Development of stone tool use by wild chim-
+panzees (Pan troglodytes). — J. Comp. Psychol. 111: 159-173.
+Ivor, H.R. (1941). Observations on anting by birds. — Auk 58: 415-416.
+Ivor, H.R. (1943). Further studies of anting by birds. — Auk 60: 51-55.
+Ivor, H.R. (1955). The enigma of anting. — Natl. Geogr. Mag. 110: 105-119.
+Izawa, K. & Mizuno, A. (1977). Palm-fruit cracking behaviour of wild black-capped capuchin
+(Cebus apella). — Primates 18: 773-792.
+Jackson, J. (1985). The “dunking” habit of common grackles. — Am. Birds 39: 261-262.
+Jackson, T.A. (1942). Use of the stick as a tool by young chimpanzees. — J. Comp. Psychol.
+34: 223-235.
+Jacobsen, K. (1911). Der rabe in Ameisenbad. — Mitt. V ogelwelt 11: 238.
+Janes, S.W. (1976). The apparent use of rocks by a raven in nest defense. — Condor 78: 409.
+Janzen, M.J., Janzen, D.H. & Pond, C.M. (1976). Tool-using by the African grey parrot. —
+Biotropica 8: 70.
+Jewett, S.G. (1924). An intelligent crow. — Condor 26: 72.
+Johnsingh, A.J.T. (1979). A note on the predation of jungle myna (Acridotheres fuscus Waa-
+gler) on ﬁeld mouse. — J. Bombay Nat. Hist. Soc. 76: 159.
+Johnston, A.F. (1985). Anting-like behaviour of dipper with ﬁsh. — Br. Birds 78: 242.
+Johnson, I.W. (1976). Washing of food by spotless crake. — Notornis 23: 357.
+Jones, C. & Pi, J.S. (1969). Sticks used by chimpanzees in Rio Muni, West Africa. — Nature
+223: 100-101.
+Jones, C.G. (1979). Birds dunking food. — Br. Birds 72: 189-190.
+Jones, T.B. & Kamil, A.C. (1973). Tool-making and tool-using in the northern blue jay. —
+Science 180: 1076-1078.
+Jordan, C. (1982). Object manipulation and tool-use in captive pygmy chimpanzees ( Pan
+paniscus). — J. Human Evol. 11: 35-39.
+Jordheim, S.O. (1965). Unusual feeding behaviour of yellowlegs. — Blue Jay 23: 25.
+Judson, O.P. & Bennett, A.T.D. (1992). ‘Anting’ as food preparation: formic acid is worse on
+an empty stomach. — Behav. Ecol. Sociobiol. 31: 437-439.
+Karrer, R. (1970). The use of the tail by an Old World monkey. — Primates 11: 171-175.
+Katz, S.J. (1980). Tool-using behaviour of the pocket gopher,Thomomys bottae (Geomyidae).
+— Southwest. Nat. 25: 270-271.
+Kawai, M. (1965). Newly-acquired pre-cultural behaviour of the natural troop of Japanese
+monkeys on Koshima islet. — Primates 6: 1-30.
+
+PDF PAGE 25
+Animal tool use catalog 209
+Keenan III, W.J. (1981). Green heron ﬁshing with mayﬂies. — Chat 45: 41.
+Keenleyside, M.H.A. & Prince, C.E. (1976). Spawning-site selection in relation to parental
+care of eggs in Aequidens paraguayensis (Pisces: Cichlidae). — Can. J. Zool. 54: 2135-
+2139.
+Kent, B.W. (1981). Prey dropped by herring gulls ( Larus argentatus) on soft sediments. —
+Auk 98: 350-354.
+Kenyon, K.W. (1958). The sea otter. — Ann. Rep. Regents Smithsonian Inst.: 339-407.
+Kilham, L. (1968). Reproductive behaviour of white-breasted nuthatches. I. Distraction dis-
+play, bill-sweeping, and nest hole defense. — Auk 85: 477-492.
+Kilham, L. (1974). Covering of stores by white-breasted and red-breasted nuthatches. —
+Condor 76: 108-109.
+Kiliaan, H.P.L. (1972). The possible use of tools by polar bears to obtain their food. — Årbok:
+177-178.
+King, B. (1978). Chat’s method of eating catepillars. — Br. Birds 71: 463.
+King, W.B. & Kepler, C.B. (1970). Active anting in the Peurto Rican tanager. — Auk 87:
+376-378.
+Kitahara-Frisch, J., Norikoski, K. & Hara, K. (1987). Use of a bone fragment as a step towards
+secondary tool use in captive chimpanzee. — Primate Rep. 18: 33-37.
+Koenig, W.D. (1985). Dunking of prey by Brewer’s blackbirds: a novel source of water for
+nestlings. — Condor 87: 444-445.
+Köhler, W. (1925). The mentality of apes. — K. Paul, Trench, Trubner & Co., London.
+Kooij, M. & von Zon, J.C.J. (1964). Gooinende seriëma’s. — Artis 9: 197-201.
+Kortlandt, A. (1967). Experimentation with chimpanzees in the wild. — In: Neue ergebnisse
+der Primatologie. Progress in primatology. First congress of the International Primato-
+logical Society, Frankfurt A. M. 26-30 Juli 1 (Starck, D., Schneider, R. & Kuhn, H.,
+eds). Fischer, Stuttgart, p. 208-224.
+Kortlandt, A. (1986). The use of stone tools by wild-living chimpanzees and earliest ho-
+minids. — J. Human Evol. 15: 77-132.
+Kortlandt, A. & Holzhaus, E. (1987). New data on the use of stone tools by chimpanzees in
+Guinea and Liberia. — Primates 28: 473-496.
+Kortlandt, A. & Kooij, M. (1963). Protohominid behaviour in primates. — Symp. Zool. Soc.
+Lond. 10: 61-88.
+Köster, F. & Köster, H. (1983). Twelve days among the “vampire ﬁnches” of Wolf Island. —
+Not. Galápagos 38: 4-10.
+Krützen, M., Mann, J., Heithaus, M.R., Connor, R.C., Bejder, L. & Sherwin, W.B. (2005).
+Cultural transmission of tool use in bottlenose dolphins. — Proc. Nat. Acad. Sci. USA
+102: 8939-8943.
+Kumar, S., Kumara, H.N. & Singh, M. (2008). Observations on tool use in captive lion-tailed
+macaque (Macaca silenus). — Curr. Sci. 94: 925-928.
+Kushlan, J.A. (1973). Bill-vibrating: a prey-attracting behaviour of the snowy egret, Leu-
+cophoyx thula. — Am. Midl. Nat. 89: 509-512.
+Kyes, R.C. (1988). Grooming with a stone in sooty mangabeys (Cercocebus atys). — Am. J.
+Primatol. 16: 171-175.
+Labedz, T.E. (1980). Yellow-bellied sapsucker feeding on hackleberry seeds. — Nebr. Bird
+Rev. 48: 89.
+Lancaster, J.B. (1968). On the evolution of tool-using behaviour. — Am. Anthropol. 70:
+56-66.
+
+PDF PAGE 26
+210 Bentley-Condit & Smith
+Lang, E.M. (1974). Werkzeuggebrauch beim Brillenbären ( Ursus ornatus). — Zool. Garten
+44: 324-328.
+Laskey, A.R. (1948). Bronzed grackle anointing plumage with orange-skin. — Wilson Bull.
+60: 244-245.
+Lavallee, A. (1999). Capuchin (Cebus apella) tool use in a captive naturalistic environment.
+— Int. J. Primatol. 20: 399-414.
+Law, J.E. (1929). Another Lewis woodpecker stores acorns. — Condor 31: 233-238.
+van Lawick-Goodall, J. (1970). Tool-using in primates and other vertebrates. — In: Advances
+in the study of behaviour, V ol. 3 (Lehrman, D.S., Hinde, R.A. & Shaw, E., eds). Acad-
+emic Press, New York, NY , p. 195-249.
+van Lawick-Goodall, J. & van Lawick, H. (1966). Use of tools by the Egyptian vulture,
+Neophron percnopterus. — Nature 212: 1468-1469.
+van Lawick-Goodall, J., van Lawick, H. & Packer, C. (1973). Tool-use in free living baboons
+in the Gombe National Park, Tanzania. — Nature 241: 212-213.
+Lefebvre, L., Nicolakakis, N. & Boire, D. (2002). Tools and brains in birds. — Behaviour
+139: 939-973.
+Lefebvre, L., Reader, S.M. & Sol, D. (2004). Brains, innovations and evolution in birds and
+primates. — Brain Behav. Evol. 63: 233-246.
+Leshem, Y . (1979). Golden eagles in our backyard. — Israel Land Nat. 5: 70-75.
+Leshem, Y . (1985). Shell-dropping by ospreys. — Br. Birds 78: 143.
+Levey, D.J., Duncan, R.S. & Levins, C.F. (2004). Use of dung as a tool by burrowing owls.
+— Nature 431: 39.
+Lin, N. (1964-1965). The use of sand grains by the pavement ant Tetramorium caespitum
+while attacking Halictine bees. — Bull. Brooklyn Entomol. Soc. 59-60: 30-34.
+Lindblom, G. (1920). The Akamba in British East Africa, 2nd edn. — K.W. Appelbergs
+Boktryckeri, Uppsala.
+Lockwood, D. (1962). I, the aboriginal. — Rigby, Adelaide, SA.
+Löhrl, H. (1983). Zur Feindabwehr der Wacholderdrossel ( Turdus pilaris). — J. Ornithol.
+124: 271-279.
+Londie, T. & Mafﬁoli, B. (1978). La cornacchia gingia Corvas corone cornix, a Milano. —
+Rev. Ital. Ornitol. 59: 241-258.
+Longman, H.A. (1922). The magniﬁcent spider: Dicrostichus magniﬁcus rainbow. Notes on
+cocoon spinning and method of catching prey. — Proc. Roy. Soc. Queensland 33: 91-98.
+Lonsdorf, E.V . (2005). Sex differences in the development of termite-ﬁshing skills in the
+wild chimpanzees, Pan troglodytes schweinfurthii, of Gombe National Park, Tanzania.
+— Anim. Behav. 70: 673-683.
+Lovell, H.B. (1958). Bait-ﬁshing by a green heron. — Wilson Bull. 70: 280-281.
+Lucas, J.R. (1982). The biophysics of pit construction by antlion larvae ( Myrmeleon,N e u -
+roptera). — Anim. Behav. 30: 651-664.
+Luchtemeyer, E.A. (1969). Unusual behaviour of robin, Turdus migratorius, and red-winged
+blackbirds, Agelaius phoneiceus. — Fla. Nat. 42: 135.
+Luling, K.H. (1966). The archer ﬁsh. — Sci. Am. 209: 100-109.
+Lunt, N., Hulley, P.E. & Craig, A.J.F.K. (2004). Active anting in captive Cape white-eyes
+Zosterops pallidus. — Ibis 146: 360-362.
+Lydekker, R. (1910). Library of natural history, V ol. 1: Mammals. — Saalﬁeld, New York,
+NY .
+
+PDF PAGE 27
+Animal tool use catalog 211
+Mackay, S. (1997). Ravens again. — Bird Observ. 10: 776.
+MacLean, G.L. (1968). Field studies of the sandgrouse in the Kalahari Desert. — Living Bird
+7: 209-235.
+Malaivijitnond, S., Lekprayoon, C., Tandavanittj, N., Panha, S., Cheewatham, C. & Hamada,
+Y . (2007). Stone-tool usage by Thai long-tailed macaques ( Macaca fascicularis). —
+Am. J. Primatol. 69: 227-233.
+Mann, J., Sargeant, B.L., Watson-Capps, J.J., Gibson, Q.A., Heithaus, M.R., Connor, R.C. &
+Patterson, E. (2008). Why do dolphins carry sponges? — PLoS One 3: e3868.
+Mannu, M. & Ottoni, E.B. (2009). The enhanced tool-kit of two groups of wild bearded
+capuchin monkeys in the Caatinga: tool making, associative use, and secondary tools.
+— Am. J. Primatol. 71: 242-251.
+Maple, T. (1974). Do crows use automobiles as nutcrackers. — West. Birds 5: 97-98.
+Marais, E.N. (1969). The soul of the ape. — Atheneum, New York, NY .
+Marks, J.S. & Hall, C.S. (1992). Tool use by bristle-thighed curlews feeding on albatross
+eggs. — Condor 94: 1032-1034.
+Marler, P. (1996). Are primates smarter than birds? — In: Current ornithology, V ol. 13 (Nolan
+Jr., V . & Ketterson, E.D., eds). Plenum, New York, NY , p. 1-32.
+Maron, J.L. (1982). Shell-dropping behaviour of Western gulls (Larus occidentalis). — Auk
+99: 565-569.
+Marshall, A.J. (1954). Bowerbirds: their displays and breeding cycles, a preliminary state-
+ment. — Clarendon Press, Oxford.
+Marshall, A.J. (1960). Bower-birds. — Endeavour 19: 202-208.
+Marshall, B.E. (1982). A possible example of tool usage by the Marabou stork. — Ostrich
+53: 181.
+Masataka, N., Koda, H., Urasopon, N. & Watanabe, K. (2009). Free-ranging macaque moth-
+ers exaggerate tool-using behaviour when observed by offspring. — PLoS One 4:
+e4768.
+Mather, J.A. (1994). Home choice and modiﬁcation by juvenile Octopus vulgaris (Mollusca,
+Cephalopoda): specialized intelligence and tool use. — J. Zool. 233: 359-368.
+Matsusaka, T., Nishie, H., Shimada, M., Kutsukake, N., Zamma, K., Nakamura, M. &
+Nishida, T. (2006). Tool-use for drinking water by immature chimpanzees of Mahale:
+prevalence of an unessential behaviour. — Primates 47: 113-122.
+McAtee, W.L. (1944). Red-eyed towhee anting. — Auk 61: 298.
+McBeath, N.M. & McGrew, W.C. (1982). Tools used by wild chimpanzees to obtain termites
+at Mt. Assirik, Senegal: the inﬂuence of habitat. — J. Human Evol. 11: 65-72.
+McDonald, J.D. (1974). Birds of Australia. — Reed, Sydney, NSW.
+McDonald, N.H.E. (1970). Cases of high intelligence of white-winged choughs. — Sunraysia
+Nat. Res. Trust Rep. 7: 61-63.
+McDonald, P. (1984). Tool use by the ant, Novomessor albisetosus (Mayr). — J.N.Y . Ento-
+mol. Soc. 92: 156-161.
+McGrew, W.C. (1992a). Chimpanzee material culture: implications for human evolution. —
+Cambridge University Press, New York, NY .
+McGrew, W.C. (1992b). Tool-use by free-ranging chimpanzees — the extent of diversity. —
+J. Zool. 228: 689-694.
+McGrew, W.C. & Collins, D.A. (1985). Tool use by wild chimpanzees ( Pan troglodytes)t o
+obtain termites ( Macrotermes herus) in the Mahale Mountains, Tanzania. — Am. J.
+Primatol. 9: 47-62.
+
+PDF PAGE 28
+212 Bentley-Condit & Smith
+McGrew, W.C., Marchant, L., Wrangham, R. & Klein, H. (1999). Manual laterality in anvil
+use: wild chimpanzees cracking Strychnos fruits. — Laterality 4: 79-87.
+McGrew, W.C. & Rogers, M.E. (1983). Chimpanzees, tools, and termites: New record from
+Gabon. — Am. J. Primatol. 5: 171-174.
+McGrew, W.C., Tutin, C.E. & Midgett Jr., P.S. (1975). Tool use in a group of captive chim-
+panzees I. Escape. — Z. Tierpsychol. 37: 145-162.
+McGrew, W.C. & Tutin, C.E.G. (1973). Chimpanzee tool use in dental grooming. — Nature
+241: 477-478.
+McKay, G.M. (1973). Behaviour and ecology of the Asiatic elephant in southeastern Ceylon.
+— Smithsonian Contrib. Zool. 125: 1-113.
+McKeown, K.C. (1936). Spider wonders of Australia. — Angus & Robertson, Sydney, NSW.
+McMahan, E.A. (1982). Bait-and-capture strategy of a termite-eating assassin bug. — Insect.
+Soc. 29: 346-351.
+McMahan, E.A. & Mendez, R.A. (1983). Bugs angle for termites: with stealth and artiﬁce,
+the assassin bug lures termites out of their well-guarded nests. — Nat. Hist. 92: 40-47.
+McMillan, M. (1992). How to feed the muppets — soak the bones. — Bird Observ. 12: 726.
+Meinzer, W. (1993). The roadrunner. — Texas Tech University Press, Lubbock, TX.
+Menzel Jr., E.W. (1972). Spontaneous invention of ladders in a group of young chimpanzees.
+— Folia Primatol. 17: 87-106.
+Mercader, J., Panger, M. & Boesch, C. (2002). Excavation of a chimpanzee stone tool site in
+the African rainforest. — Science 296: 1452-1455.
+Meyerriecks, A.J. (1972). Tool-using by a double-crested cormorant. — Wilson Bull. 84:
+482-483.
+Michener, G.R. (2004). Hunting techniques and tool use by North American badgers preying
+on Richardson’s ground squirrels. — J. Mammal. 85: 1019-1027.
+Mienis, H.K. (1993). A change in the nut-cracking technique used by hooded crows in
+Kibbutz Netzer Sereni, Israel. — Bull. Ornithol. Soc. Mid. East 30: 20.
+Miller, L. & Quiatt, D. (1983). Tool use by a captive orangutan. — Lab. Primate News. 22:
+10.
+Millikan, G.C. & Bowman, R.L. (1967). Observations on Galápagos tool-using ﬁnches in
+captivity. — Living Bird 6: 23-42.
+Mitchell, H. (1972). Further recording of a tool-using bird. — Aust. Bird Watcher 4: 237.
+Mitchell, T.L. (1993). Tool use by a white-breasted nuthatch. — Bull. Ok. Ornithol. Soc. 26:
+6-7.
+Montevecchi, W.A. (1978). Corvids using objects to displace gulls from nests. — Condor 80:
+349.
+Moon, G.J.H. (1992). Egg predation by blackheaded gull. — Notornis 39: 93.
+Morand-Ferron, J., Lefebvre, L., Reader, S.M., Sol, D. & Elvin, S. (2004). Dunking behaviour
+in Carib grackles. — Anim. Behav. 68: 1267-1274.
+Moreno, J., Soler, M., Møller, A.P. & Linden, M. (1994). The function of stone carrying in
+the black wheatear, Oenanthe leucura. — Anim. Behav. 47: 1297-1309.
+Morrill, W.L. (1972). Tool using behaviour ofPogonomyremex badius(Hymenoptera: Formi-
+cidae). — Fla. Entomol. 55: 59-60.
+Morris, D. (1954). The snail-eating behaviour of thrushes and blackbirds. — Br. Birds 47:
+33-49.
+Morse, D.H. (1968). The use of tools by brown-headed nuthatches. — Wilson Bull. 80:
+220-224.
+
+PDF PAGE 29
+Animal tool use catalog 213
+de A. Moura, A.C. & Lee, P.C. (2004). Capuchin stone tool use in Caatinga Dry Forest. —
+Science 306: 1909-1909.
+Mulcahy, N.J. & Call, J. (2006). Apes save tools for future use. — Science 312: 1038-1040.
+Murie, O.J. (1940). Notes on the sea otter. — J. Mammal. 21: 119-131.
+Nakamichi, M. (1999). Spontaneous use of sticks as tools by captive gorillas (Gorilla gorilla
+gorilla). — Primates 40: 487-498.
+Nakamichi, M. (2004). Tool-use and tool-making by captive, group-living orangutans (Pongo
+pygmaeus abelii) at an artiﬁcial termite mound. — Behav. Process. 65: 87-93.
+Nellman, H. & Trendelenburg, W. (1926). Ein Beitrag zur Intelligenzprüfung niederer Affen.
+— Z. Vergl. Physiol. 4: 142-200.
+Nero, R. (1951). Red-wing, Agelaius phoeniceus, anting. — Auk 68: 108.
+Nice, M.M. (1945). Cowbirds anting. — Auk 62: 302-303.
+Nickerson, J.C., Snyder, D.E. & Oliver, C.C. (1979). Acoustical burrows constructed by mole
+crickets. — Ann. Entomol. Soc. Am. 72: 438-440.
+Nicklas, M.B. (1974). Bird behaviour. — Chat 38: 88.
+Nihei, Y . (1995). Variations of behaviour of carrion crowsCorvus corone using automobiles
+as nutcrackers. — Jpn. J. Ornithol. 44: 21-35.
+Nihei, Y . (1998). Nutcracking behaviour of carrion crowsCorvus corone using automobiles:
+an approach from the schema theory of cognitive psychology. — Jpn. J. Psychon. Sci.
+16: 93-99.
+Nishida, T. (1980). The leaf-clipping display: a newly-discovered expressive gesture in wild
+chimpanzees. — J. Human Evol. 9: 117-128.
+Nishida, T. & Nakamura, M. (1993). Chimpanzee tool use to clear a blocked nasal passage.
+— Folia Primatol. 61: 218-220.
+Nishida, T. & Uehara, S. (1980). Chimpanzees, tools, and termites: another example from
+Tanzania. — Curr. Anthropol. 21: 671-672.
+Nishimura, T., Okayasu, N., Hamada, Y . & Yamagiwa, J. (2003). A case report of a novel
+type of stick use by wild chimpanzees. — Primates 44: 199-201.
+Norris, D. (1975). Green heron ( Butorides virescens) uses feather lure for ﬁshing. — Am.
+Birds 29: 652-654.
+Noske, R.A. (1985). Left-footedness and tool-using in the varied sittella Daphoenositta
+chrysoptera and crested shrike-tit Falcunculus frantatus. — Corella 9: 63-64.
+Odling-Smee, F.J., Laland, K.N. & Feldman, M.W. (2003). Niche construction: the neglected
+process in evolution. — Monographs in Population Biology, 37. Princeton University
+Press, Princeton, NJ.
+O’Hara, S.J. & Lee, P.C. (2006). High frequency of postcoital penis cleaning in Budongo
+chimpanzees. — Folia Primatol. 77: 353-358.
+Okanoya, K., Tokimoto, N., Kumazawa, N., Hihara, S. & Iriki, A. (2008). Tool use training
+in a species of rodent: emergence of an optimal motor strategy and functional under-
+standing. — PLoS One 3: e1860. doi: 10.1371/journal.pone.0001860.
+Oldham, C. (1930). The shell-smashing habits of gulls. — Ibis: 239-243.
+O’Malley, R.C. & McGrew, W.C. (2000). Oral tool use by captive orangutans ( Pongo pgy-
+maeus). — Folia Primatol. 71: 334-341.
+Orenstein, R.I. (1972). Tool-use by new Caledonian crow ( Corvus moneduloides). — Auk
+89: 674-676.
+Osborn, S.A.H. (1998). Anting by an American dipper (Cinclus mexicanus). — Wilson Bull.
+110: 423-425.
+
+PDF PAGE 30
+214 Bentley-Condit & Smith
+Osmaston, B.B. (1936). Do birds employ ants to rid themselves of ectoparasites? — J. Bom-
+bay Nat. Hist. Soc. 39: 182-183.
+Otnes, G. (1977). Unusual feeing behaviour of a great blue heron. — Loon 49: 233-234.
+Ottoni, E.B., Dogo de Resende, B. & Izar, P. (2005). Watching the best nut-crackers: what
+capuchin monkeys (Cebus apella) know about others’ tool-using skills. — Anim. Cogn.
+24: 215-219.
+Ottoni, E.B. & Mannu, M. (2001). Semifree-ranging tufted capuchins (Cebus apella) sponta-
+neously use tools to crack open nuts. — Int. J. Primatol. 22: 347-358.
+Oyen, O.J. (1979). Tool-use in free-ranging baboons of Nairobi National Park. — Primates
+20: 595-597.
+Page, D. (1978). Pied ﬂycatcher hammering snail on road. — Br. Brids 71: 113.
+Panger, M.A. (2007). Tool use and cognition in primates. — In: Primates in perspective
+(Campbell, C., Fuentes, A., MacKinnon, K., Panger, M. & Bearder, S., eds). Oxford
+University Press, New York, NY , p. 655-677.
+Parks, J.M. & Bressler, S.L. (1963). Observations of joint feeding activities of certain ﬁsh-
+catching birds. — Auk 80: 198-199.
+Parks, K.A. & Novak, M.A. (1993). Observations of increased activity and tool use in captive
+rhesus monkeys exposed to troughs of water. — Am. J. Primatol. 29: 13-25.
+Paroni, C.A. (1954). Birds’ “anting” antics. — Gull 36: 44.
+Parra, G.J. (2007). Observations of an Indo-Paciﬁc humpback dolphin carrying a sponge:
+object play or tool use? — Mammalia 71: 147-149.
+Peckham, G.W. & Peckham, E.G. (1898). On the instincts and habits of the solitary wasps.
+— Wisc. Geolog. Nat. Hist. Surv. 2: 1-245.
+Pepper-Edwards, D.L. & Notley, E. (1991). Observations of a captive black-breasted buzzard
+Hamirostra melanosternon using stones to break open eggs. — Aust. Bird Watcher 14:
+103-106.
+Pergande, T. (1892). Peculiar habit of Ammophila gryphus Sm. — P. Entomol. Soc. Wash. 2:
+256-259.
+Perry, R. (1972). At the turn of the tide: a book of wild birds. — Taplinger, New York, NY .
+Peters, H. (2001). Tool use to modify calls by wild orang-utans. — Folia Primatol. 72:
+242-244.
+Petit, O. & Thierry, B. (1993). Use of stones in a captive group of Guinea baboons ( Papio
+papio). — Folia Primatol. 61: 160-164.
+Pettet, A. (1975). Defensive stoning by baboons. — Nature 258: 549.
+Phillips, K.A. (1998). Tool use in wild capuchin monkeys (Cebus albifrons trinitatis). — Am.
+J. Prim. 46: 259-261.
+Phillips, R.A. (1978). Common crow observed catching living ﬁsh. — Migrant 49: 85-86.
+Pi, J.S. (1974). An elementary industry of the chimpanzees in the Okorobikó Mountains, Rio
+Muni (Republic of Equatorial Guinea), West Africa. — Primates 15: 351-364.
+Pickford, M. (1975). Defensive stoning by baboons. — Nature 258: 549-550.
+Pierce, J.D. (1986). A review of tool use in insects. — Fla. Entomol. 69: 95-104.
+Pillai, N.G. (1941). Bird “bathing” in ants. — J. Bombay Nat. Hist. Soc. 42: 935-936.
+Pitochelli, J. (1985). Apparent insight learning by some common grackles breeding in Central
+Park, New York, NY . — Kingbird Winter: 32-34.
+Plooij, F.X. (1978). Tool-use during chimpanzees bushpig hunt. — Carnivore 1: 103-106.
+Pollack, D. (1998). Spontaneous tool use in a vervet monkey ( Cercopithecus aethiops
+sabaeus). — Am. J. Primatol. 45: 201.
+
+PDF PAGE 31
+Animal tool use catalog 215
+Porter, S. (1936). The kea. — Avic. Mag. Ser. 5 1: 186-189.
+Post, W. & Browne, M.M. (1982). Active anting by the yellow-shouldered blackbird. —
+Wilson Bull. 94: 89-90.
+Potter, E.F. (1970). Anting by wild birds, its frequency and probable purpose. — Auk 87:
+692-713.
+Poulsen, H. (1956). A study of anting behaviour in birds. — Dansk Ornithol. Forenings
+Tidsskrift 50: 267-298.
+Pouydebat, E., Berge, C., Gorce, P. & Coppens, Y . (2005). Use and manufacture of tools
+to extract food by captive Gorilla gorilla gorilla : experimental approach. — Folia
+Primatol. 76: 180-183.
+Powell, R.W. & Kelly, W. (1977). Tool use in captive crows. — Bull. Psychon. Soc. 10:
+481-483.
+Pranty, B. (1995). Tool use by brown-headed nuthatches in two Florida slash pine forests. —
+Fla. Field Nat. 23: 33-34.
+Priddey, M.W. (1977). Blackbird using tool. — Br. Birds 70: 262-263.
+Priestley, C.F. (1947). Rook feeding on mussels. — Br. Birds 40: 176.
+Prozesky-Schulze, L., Prozesky, O.P.M., Anderson, F. & van der Merwe, G.J.J. (1975). Use
+of a self-made sound bafﬂe by a tree cricket. — Nature 255: 142-143.
+Pruetz, J.D. & Bertolani, P. (2007). Savanna chimpanzees, Pan troglodytes verus, hunt with
+tools. — Curr. Biol. 17: 412-417.
+Pulich, W.M. (1969). Unusual feeding behaviour of three species of birds. — Wilson Bull.
+81: 472.
+Purser, G.L. (1959). House sparrows soaking bread to soften it. — Br. Birds 52: 199-200.
+Radford, A.P. (1979). Starling eating feather. — Br. Birds 72: 188.
+Rajan, S.A. & Balasubramanian, P. (1989). Tool using behaviour in an Indian house crow
+Corvus splendens. — J. Bombay Nat. Hist. Soc. 86: 450.
+Rand, A.L. (1954). A Phillipine kingﬁsher uses a tool. — Silliman J. 1: 83-85.
+Rand, A.L. (1967). A common grackle learning to soak bread. — Wilson Bull. 79: 455-456.
+Rasa, O.A.E. (1973). Prey capture, feeding techniques, and their ontogeny in the African
+dwarf mongoose, Helogale undalata rufula. — Z. Tierpsychol. 32: 449-488.
+Reader, S.M. & Laland, K.N. (2002). Social intelligence, innovation and enhanced brain size
+in primates. — Proc. Natl. Acad. Sci. USA 99: 4436-4441.
+Reader, S.M., Morand-Ferron, J., Côté, I. & Lefebvere, L. (2002). Unusual feeding behav-
+iours in ﬁve species of Barbadian birds. — El Pitirre 15: 117-123.
+Redshaw, M.E. (1975). Cognitive, manipulative and social skills in gorillas: Part II, The
+second year. — Ann. Rep. Jersey Wildlife Pres. Trust 12: 56-60.
+Reid, D. & Reid, S. (1996). Corvus coronoides — not just a pretty face. — Bird Observ. 7:
+766.
+Reid, J.B. (1982). Tool-use by a rook (Corvus frugilegus), and its causation. — Anim. Behav.
+30: 1212-1216.
+Rékàsi, J. (1980). Über die nahrung de weißstorchs ( Ciconia ciconia) in der Gatschka (Süd-
+Ungarn). — Ornithol. Milleilungen 32: 154-155.
+Reymond, E. (1948). Myrmécophilie chez la perdix bartavelle. — Oiseaux 19: 288.
+Richard-Hansen, C., Bello, N. & Vie, J.C. (1998). Tool use by a red howler monkey (Alouatta
+seniculus) towards a two-toed sloth (Choloepus didactylus). — Primates 39: 545-548.
+Richards, A.J. (1977). Predation of snails by migrant songthrushes and redwinds. — Bird
+Study 24: 53-54.
+
+PDF PAGE 32
+216 Bentley-Condit & Smith
+Richardson, H. & Verbeek, N.A.M. (1987). Diet selection by yearling northwestern crows
+(Corvus caurinus) feeding on littleneck clams (Venerupis japonica). — Waterbirds 24:
+285-286.
+Riehl, C. (2001). Black-crowned night heron ﬁshes with bait. — Waterbirds 24: 285-286.
+Roberts, G.J. (1982). Apparent baiting behaviour by a black kite. — Emu 82: 53-54.
+Roberts, N.L. (1961). Kookaburra and rat. — Emu 61: 221.
+Robinson, H.C. (1927). The birds of the Malay peninsula: a general account of the birds
+inhabiting the region from the isthmus of Kra to Singapore with the adjacent islands,
+V ol. 1. — H.F. & G. Witherby, London.
+Robinson, S.K. (1994). Use of bait and lures by green-backed herons in Amazonian Peru. —
+Wilson Bull. 106: 567-569.
+Rodrigues, M.R. & Lindshield, S.L. (2007). Scratching the surface: observations of tool use
+in wild spider monkeys. — Am. J. Phys. Anthropol. 44 (Suppl.): 201-202.
+Rogers, L.J. & Kaplan, G. (1994). A new form of tool use by orang-utans in Sabah, East
+Malaysia. — Folia Primatol. 63: 50-52.
+Rolando, A. & Zunino, M. (1992). Observations of tool use in corvids. — Ornis Scand. 23:
+201-202.
+Ross, D.M. (1971). Protection of hermit crabs ( Dardanus spp.) from octopus by commensal
+sea anemones (Calliactis spp.). — Nature 230: 401-402.
+Ross, H.H. (1964). Evolution of caddisworm cases and nests. — Am. Zool. 4: 209-220.
+Rumbaugh, D. (1970). Learning skills of anthropoids. — In: Primate behaviour: develop-
+ments in ﬁeld and laboratory research, V ol. 1 (Rosenblum, L.A., ed.). Academic Press,
+New York, NY , p. 1-70.
+Santos, L.R., Mahajan, N. & Barnes, J.L. (2005). How prosimian primates represent tools:
+experiments with two lemur species ( Eulemur fulvus and Lemur catta). — J. Comp.
+Psychol. 119: 394-403.
+Santos, L.R., Pearson, H.M., Spaepen, G.M., Tsao, F. & Hauser, M. (2006). Probing the
+limits of tool competence: experiments with two non-tool-using species (Cercopithecus
+aethiops and Saguinus oedipus). — Anim. Cogn. 9: 94-109.
+Sanz, C.M. & Morgan, D.B. (2007). Chimpanzee tool technology in the Goualougo Triangle,
+Republic of Congo. — J. Human Evol. 52: 420-433.
+Sanz, C.M., Morgan, D.B. & Gulick, S. (2004). New insights into chimpanzees, tools, and
+termites from the Congo Basin. — Am. Nat. 164: 567-581.
+Sarringhaus, L.A., McGrew, W.C. & Marchant, L.F. (2005). Misuse of anecdotes in prima-
+tology: lessons from citation analysis. — Am. J. Primatol. 65: 283-288.
+van Schaik, C.P., Ancrenaz, M., Borgen, G., Galdikas, B., Knott, C., Singleton, I., Suzuki,
+A., Utami, S.S. & Merrill, M. (2003a). Orangutan cultures and the evolution of material
+culture. — Science 299: 102-105.
+van Schaik, C.P., Deaner, R.O. & Merrill, M.Y . (1999). The conditions for tool use in
+primates: implications for the evolution of material culture. — J. Human Evol. 36:
+719-741.
+van Schaik, C.P., Fox, E.A. & Fechtman, L.T. (2003b). Individual variation in the rate of
+use of tree-hole tools among wild orang-utans: implications for hominin evolution. —
+J. Human Evol. 44: 11-23.
+van Schaik, C.P. & Knott, C.D. (2001). Geographic variation in tool use on Neesia fruits in
+orangutans. — Am. J. Phys. Anthropol. 114: 331-342.
+
+PDF PAGE 33
+Animal tool use catalog 217
+Schaller, G. (1961). The orang-utan in Sarawak. — Zoologica 46: 73-82.
+Schardien, B.J. & Jackson, J.A. (1982). Killdeers feeding on frogs. — Wilson Bull. 94: 85-87.
+Schöning, C., Ellis, D., Fowler, A. & Sommer, V . (2007). Army ant prey availability and
+consumption by chimpanzees ( Pan troglodytes vellerosus ) at Gashaka (Nigeria). —
+J. Zool. 271: 125-133.
+Schrauf, C., Huber, L. & Visalberghi, E. (2008). Do capuchin monkeys use weight to select
+hammer tools? — Anim. Cogn. 11: 413-422.
+Schultz, A. (1961). Some features inﬂuencing the social life of primates in general and of
+early man in particular. — In: Social life of early man (Washburn, S., ed.). Aldine,
+Chicago, IL, p. 58-90.
+Sedgwick, E.H. (1946). Little shrike-thrush “anting”. — Emu 46: 132.
+Sedgwich, E.H. (1947a). Magpies “anting”. — West. Aust. Nat. 1: 21.
+Sedgwick, E.H. (1947b). Feeding of butcher-birds. — Emu 47: 68-69.
+Seibt, U. & Wickler, W. (1978). Marabou storks wash dung beetles. — Ethology 46: 324-327.
+Shackleton, W. & Shackleton, E. (1947). Anting by the indigo bunting. — Ky. Warbler 23:
+1-4.
+Shepherd, W. (1910). Some mental processes of the rhesus monkeys. — Psychol. Monogr. 7:
+1-61.
+Sherrow, H.M. (2005). Tool use in insect foraging by the chimpanzees of Ngogo, Kibale
+National Park, Uganda. — Am. J. Primatol. 65: 377-383.
+Shuster, G. & Sherman, P.W. (1998). Tool use by naked mole-rats. — Anim. Cogn. 1: 71-74.
+Sibson, R.B. (1974). Rock wren using an anvil. — Notornis 21: 305.
+Sick, H. (1957). Anting by two tanagers in Brazil. — Wilson Bull. 69: 187-188.
+Siegfried, W.R. (1977). Mussel-dropping behaviour of kelp gulls. — S. Afr. J. Sci. 73:
+337-341.
+Sielmann, H. (1958). My year with the woodpeckers. — Barrie and Rockcliff, London.
+Simmons, K.E.L. (1950). Food-washing by common sandpiper. — Br. Birds 43: 229-230.
+Sinclair, J.C. (1984). Baiting behaviour in a captive lesser blackbacked gull Larus fuscus.—
+Cormorant 12: 105-106.
+Sinha, A. (1997). Complex tool manufacture by a wild bonnet macaque, Macaca radiata.—
+Folia Primatol. 68: 23-25.
+Sivasubramanian, C. (1991). Frog and lizard in the dietary of the Indian robin Saxicoloides
+fulicata (L.). — J. Bombay Nat. Hist. Soc. 88: 458.
+Skutch, A.F. (1948). Antiby by some Costa Rican birds. — Wilson Bull. 60: 115-116.
+Sladen, W.J.L. (1958). The Pygoscelid penguins, Parts I and II, Report 17, Falkland Islands
+Dependencies Survey. — Her Majesty’s Stationary Ofﬁce, London.
+Slee, J.E. (1992). Little raven eating toast. — Bird Observ. 12: 723.
+Smith, G.A. (1970). Tool-using by birds. — Avic. Mag. 76: 171.
+Smolker, R., Richards, A., Connor, R., Mann, J. & Berggren, P. (1997). Sponge carrying by
+dolphins (Delphinidae, Tursiops sp.): a foraging specialization involving tool use? —
+Ethology 103: 454-465.
+Smythies, B.E. (1953). The birds of Burma, 2
+nd revised edition. — Oliver & Boyd, Edin-
+burgh.
+Southern, W.E. (1963). Three species observed anting on a wet lawn. — Wilson Bull. 75:
+275-276.
+St. Amant, R. & Horton, T. (2008). Revisiting the deﬁnition of animal tool use. — Anim.
+Behav. 75: 1199-1208.
+
+PDF PAGE 34
+218 Bentley-Condit & Smith
+Stanford, C.B, Gambaneza, C., Nkurunungi, J.B. & Goldsmith, M.L. (2000). Chimpanzees
+in Bwindi-Impenetrable National Park, Uganda, use different tools to obtain different
+types of honey. — Primates 41: 337-341.
+Starin, E.D. (1990). Object manipulation by wild red colobus monkeys living in the Abuko
+Nature Reserve, The Gambia. — Primates 31: 385-391.
+Stirling, I. (1974). Midsummer observations on the behaviour of wild polar bears ( Ursus
+maritimus). — Can. J. Zool. 52: 1191-1198.
+Stoinski, T.S. & Beck, B.B. (2001). Spontaneous tool use in captive, free-ranging golden lion
+tamarins (Leontopithecus rosalia rosalia). — Primates 42: 319-326.
+Stone, R.C. (1954). “Anting” by wryneck. — Br. Birds, 47: 312.
+Strong, R.M. (1914). On the habits and behaviour of the herring gull, Larus argentatus Pont
+(concluded). — Auk 31: 178-199.
+Struhsaker, T.T. (1975). The red colobus monkey. — University of Chicago Press, Chicago,
+IL.
+Struhsaker, T.T. & Hunkeler, P. (1971). Evidence of tool-using by chimpanzees in the Ivory
+Coast. — Folia Primatol. 15: 212-219.
+Struhsaker, T.T. & Leleand, L. (1977). Palm-nut smashing by Cebus a. apella in Columbia.
+— Biotropica 9: 124-126.
+Sugihara, G. & Heston, K. (1981). Field notes on winter ﬂocks of the ocellated turkey (Agri-
+ocharis ocellata). — Auk 98: 396-398.
+Sugiyama, Y . (1981). Observations on the population dynamics and behaviour of wild chim-
+panzees at Bossou, Guinea, in 1979–1980. — Primates 22: 435-444.
+Sugiyama, Y . (1985). The brush-stick of chimpanzees found in south-west Cameroon and
+their cultural characteristics. — Primates 26: 361-374.
+Sugiyama, Y . (1995a). Drinking tools of wild chimpanzees at Bossou. — Am. J. Primatol.
+37: 263-269.
+Sugiyama, Y . (1995b). Tool-use for catching ants by chimpanzees at Bossou and Monts
+Nimba, West Africa. — Primates 36: 193-205.
+Sugiyama, Y . (1997). Social tradition and the use of tool-composites by wild chimpanzees.
+— Evol. Anthropol. 6: 23-27.
+Sumita, K., Kitahara-Frisch, J. & Norikoshi, K. (1985). The acquisition of stone-tool use in
+captive chimpanzees. — Primates 26: 168-181.
+Suzuki, A. (1966). On the insect-eating habits among wild chimpanzees living in the savanna
+woodland of western Tanzania. — Primates 7: 481-487.
+Suzuki, S., Kuroda, S. & Nishihara, T. (1995). Tool-set for termite-ﬁshing by chimpanzees in
+the Ndoki Forest, Congo. — Behaviour 132: 219-235.
+Tanaka, T. & Ono, Y . (1978). The tool use by foragers ofAphaenogaster famelica. — Nihon
+Seitai Gakkaishi 28: 49-58.
+Taylor, N. (1975). Parrot uses back-scratcher. — Field 11 Sept.
+Tebbich, S., Taborsky, M., Fessl, B. & Dvorak, M. (2002). The ecology of tool-use in the
+woodpecker ﬁnch (Cactospiza pallida). — Ecol. Lett. 5: 656-664.
+Tebbich, S., Taborsky, M., Fessl, B., Dvorak, M. & Winkler, H. (2004). Feeding behaviour
+of four arboreal Darwin’s ﬁnches: adaptations to spatial and seasonal variability. —
+Condor 106: 95-104.
+Tedards, A.M. (1967). Anting by a prothonotary warbler. — Chat 31: 77.
+Tehsin, R. (1989). Feeding behaviour of the white breasted kingﬁsher Halcyon smyrensis
+(L.). — J. Bombay Nat. Hist. Soc. 86: 449.
+
+PDF PAGE 35
+Animal tool use catalog 219
+Teichert, C. & Serventy, D.L. (1947). Deposit of shells transported by birds. — Am. J. Sci.
+245: 322-328.
+Teleki, G. (1973). The predatory behaviour of wild chimpanzees. — Bucknell University
+Press, Lewisburg, PA.
+Terres, J.K. (1962). Anting behaviour of a wood thrush with a snail. — Wilson Bull. 74: 187.
+Thomas, J.W. (1957). Anting performed by scaled quail. — Wilson Bull. 69: 280.
+Thomas, R.H. (1941). “Anting” by summer tanager. — Auk 58: 102.
+Thomsen, L.R., Campbell, R.D. & Rosell, F. (2007). Tool-use in a display behaviour by
+Eurasian beavers (Castor ﬁber). — Anim. Cogn. 10: 477-482.
+Tilt, R.A. (1962). Predation by the grey shrike thrush. — Emu 62: 65-66.
+Timms, A.M. & Keenleyside, M.H.A. (1975). The reproductive behaviour of Aequidens
+paraguayensis (Pisces, Cichlidae). — Z. Tierpsychol. 39: 8-23.
+Tokida, E., Tanaka, I., Takefushi, H. & Hagiwara, T. (1994). Tool-using Japanese macaques:
+use of stones to obtain fruit from a pipe. — Anim. Behav. 47: 1023-1030.
+Tonooka, R. (2001). Leaf-folding behaviour for drinking water by wild chimpanzees ( Pan
+troglodytes verus) at Bossou, Guinea. — Anim. Cogn. 4: 325-334.
+Topoff, H. (1977). The pit and the antlion. — Nat. Hist. 86: 44-54.
+Tutin, C.E.G. & Fernandez, M. (1992). Insect-eating by sympatric lowland gorillas ( Gorilla
+g. gorilla) and chimpanzees (Pan t. troglodytes) in the Lopé Reserve, Gabon. — Am. J.
+Primatol. 28: 29-40.
+Tutin, C.E.G., Ham, R. & Wrogemann, D. (1995). Tool-use by chimpanzees (Pan troglodytes
+troglodytes) in the Lopé Reserve, Gabon. — Primates 36: 181-192.
+Tutt, D. (1990). Rock pipit breaking snail shell. — Br. Birds 83: 239.
+Uehara, S. (1982). Seasonal changes in the techniques employed by wild chimpanzees in the
+Mahale Mountains, Tanzania, to feed on termites ( Pseudacanthotermes spiniger). —
+Folia Primatol. 37: 44-76.
+Ueno, Y . & Fujita, K. (1998). Spontaneous tool use by a Tonkean macaque ( Macaca
+tonkeana). — Folia Primatol. 69: 318-324.
+Uys, C.J. (1966). At the nest of the cape raven. — Bokmakierie 18: 38-41.
+Vader, W. (1979). Celptoparasitism on bar-tailed godwits by common gulls. — Fauna 32:
+62-65.
+Valderrama, X., Robinson, J.G., Attygalle, A.B. & Eisner, T. (2000). Seasonal anointment
+with millipedes in a wild primate: a chemical defense against insects? — J. Chem.
+Ecol. 26: 2781-2790.
+Vander Werf, E.A. (2005). Elepaio “anting” with a garlic snail and Schinus fruit. — J. Field
+Ornithol. 76: 134-137.
+Vestjens, W.J.M. (1973). Feeding of white ibis on freshwater mussels. — Emu 73: 71-72.
+Vierke, J. (1973). Das Wassersprucken der Artn Gattung Colisa (Pisces: Anabantidae). —
+Bonner Zool. Beitr. 24: 62-104.
+Visalberghi, E. (1990). Tool us inCebus. — Folia Primatol. 54: 146-154.
+Visalberghi, E. (1993). Tool use in a South American monkey species: an overview of the
+characteristics and limits of tool use in Cebus apella. — In: The use of tools by human
+and non-human primates (Berthelet, A. & Chavaillon, J., eds). Oxford University Press,
+Oxford, p. 118-135.
+Visalberghi, E., Fragaszy, D., Ottoni, E., Izar, P., de Oliveira, M.G. & Andrade, F.R.D. (2007).
+Characteristics of hammer stones and anvils used by wild bearded capuchin monkeys
+(Cebus libidinosus) to crack open palm nuts. — Am. J. Phys. Anthropol. 132: 426-444.
+
+PDF PAGE 36
+220 Bentley-Condit & Smith
+Wade, L.S. (1975). A sea otter possibly feeding on pismo clams. — J. Mammal. 56: 720-721.
+Waga, I.C., Dacier, A.K., Pinha, P.S. & Tavares, M.C.H. (2006). Spontaneous tool use by wild
+capuchin monkeys (Cebus libidinosus) in the Cerrado. — Folia Primatol. 77: 337-344.
+Wallace, A.R. (1869). The Malay archipelago: the land of the orang-utan, and the bird of
+paradise. — Harper & Brothers, New York, NY .
+Walsh, J.F., Grunewald, J. & Grunewald, B. (1985). Green-backed herons (Butorides striatus)
+possibly using a lure and using apparent bait. — J. Ornithol. 126: 439-442.
+Walsh, J.F. & Walsh, B. (1983). Possible thrush “anvils” in Upper V olta. — Malimbus 5:
+54-55.
+Ward, D. (1991). The size selection of clams by African black oystercatchers and kelp gulls.
+— Ecology 72: 513-522.
+Watanabe, K., Urasopon, N. & Malaivijitnond, S. (2007). Long-tailed macaques use human
+hair as dental ﬂoss. — Am. J. Primatol. 69: 940-944.
+Watkin, R. (1950). Food-washing by blackbird. — Br. Birds 43: 156.
+Watts, D.P. (2008). Tool use by chimpanzees at Ngogo, Kibale National Park, Uganda. — Int.
+J. Primatol. 29: 83-94.
+Weldon, P.J. & Hoffman, D.L. (1975). Unique form of tool-using in two gastropod molluscs
+(Trochidae). — Nature 256: 720-721.
+Wellenstein, C. & Wiegmann, D.D. (1986). Prey handling by anhingas. — Fla. Field Nat. 14:
+74-75.
+Wemmer, C. & Johnson, G. (1976). Egg-breaking behaviour in a yellow-throated marten,
+Martes ﬂavigula (Mustelidae, Carnivora). — Z. Säugertierkd. 41: 58-60.
+Wenny, D. (1998). Three-striped warbler (Basileuterous tristriatus) “anting” with a caterpil-
+lar. — Wilson Bull. 110: 128-131.
+Westergaard, G.C. (1988). Lion-tailed macaques (Macaca silenus) manufacture and use tools.
+— J. Comp. Psychol. 102: 152-159.
+Westergaard, G.C. (1992). Object manipulation and the use of tools by infant baboons (Papio
+cynocephalus anubis). — J. Comp. Psychol. 106: 398-403.
+Westergaard, G.C. (1993). Development of combinatorial manipulation in infant baboons
+(Papio cynocephalus anubis). — J. Comp. Psychol. 107: 34-38.
+Westergaard, G.C., Greene, J.A., Babitz, M.A. & Suomi, S.J. (1995). Pestle use and modiﬁ-
+cation by tufted capuchins (Cebus apella). Int. J. Primatol. 16: 643-651.
+Westergaard, G.C. & Suomi, S. (1994). Use and modiﬁcation of bone tools by capuchin
+monkeys. — Curr. Anthropol. 35: 75-77.
+Westergaard, G.C. & Suomi, S. (1995). The production and use of digging tools by monkeys:
+a nonhuman primate model of a hominid subsistence activity. — J. Anthropol. Res. 51:
+1-8.
+Wheeler, G.C. & Wheeler, E.H. (1924). The use of a tool by a sphecid wasp. — Science 59:
+486.
+Wheeler, R. (1943). Birds and their prey. — Emu 43: 143.
+Wheeler, R. (1946). Paciﬁc gull and mussels. — Emu 45: 307.
+Wheeler, W.M. (1930). Demons of the dust. — W.W. Norton, New York, NY .
+Whitaker, L.M. (1957). A résumé of anting, with particular reference to a captive orchard
+oriole. — Wilson Bull. 69: 195-262.
+Whiten, A., Goodall, J., McGew, W.C., Nishida, T., Reynolds, V ., Sugiyama, Y ., Tutin,
+C.E.G., Wrangham, R.W. & Boesch, C. (1999). Cultures in chimpanzees. — Nature
+399: 682-685.
+
+PDF PAGE 37
+Animal tool use catalog 221
+Whitesides, G.H. (1985). Nut cracking by wild chimpanzees in Sierra Leone, West Africa.
+— Primates 26: 91-94.
+Whyte, I.J. (1981). Anting in blue-eared glossy starlings. — Ostrich 52: 185.
+Wible, M.W. (1975). Food washing by grackles. — Wilson Bull. 87: 282-283.
+Wickler, W. & Seibt, U. (1997). Aimed object-throwing by a wild African elephant in an
+interspeciﬁc encounter. — Ethology 103: 365-368.
+Williams, R.E. (1947). “Anting” by a blackbird. — Br. Birds 40: 84-85.
+Wittiger, L. & Sunderland-Groves, J.L. (2007). Tool use during display behaviour in wild
+Cross River gorillas. — Am. J. Primatol. 69: 1307-1311.
+Woinarski, J.C.Z., Fisher, A., Brennan, K., Morris, I., Willan, R.C. & Chatto, R. (1998). The
+chestnut rail Eulabeornis castonaventris on Wessel and English Company Islands: notes
+on unusual habits and the use of anvils. — Emu 98: 74-48.
+Wood, G.A. (1984). Tool use by the palm cockatooProbosciger aterrimus during display. —
+Corella 8: 94-95.
+Wood, J.G., McCosh, J. & March, D. (1875). Wood’s Bible animals. A description of the
+habits, structure, and uses of every living creature mentioned in the scriptures. —
+Bradley W. Garretson, Philadelphia, PA.
+Wood, P. (1986). Fishing green backed heron. — Bokmakierie 38: 105.
+Worch, E.A. (2001). Simple tool use by a red-tailed monkey ( Cercopithecus ascanius)i n
+Kibale Forest, Uganda. — Folia Primatol. 72: 304-306.
+Yamagiwa, J., Yumoto, T., Ndunda, M. & Maruhashi, T. (1988). Evidence of tool-use by
+chimpanzees (Pan troglodytes schweinfurthii) for digging out a bee-nest in the Kahuzi-
+Biega National Park, Zaire. — Primates 29: 405-411.
+Yamakoshi, G. (1998). Dietary responses to fruit scarcity of wild chimpanzees at Bossou,
+Guinea: possible implications for ecological importance of tool use. — Am. J. Phys.
+Anthropol. 106: 283-295.
+Yamakoshi, G. & Sugiyama, Y . (1995). Pestle-pounding behaviour of wild chimpanzees at
+Bossou, Guinea: a newly observed tool-using behaviour. — Primates 36: 489-500.
+Yamamoto, S., Yamakoshi, G., Humle, T. & Matsuzawa, T. (2008). Invention and modiﬁ-
+cation of a new tool use behaviour: ant-ﬁshing in trees by a wild chimpanzee ( Pan
+troglodytes verus) at Bossou, Guniea. — Am. J. Primatol. 70: 699-702.
+Young, H.G. (1987). Herring gull preying on rabbits. — Br. Birds 80: 630.
+Zach, R. (1978). Selection and dropping of whelks by northwestern crows. — Behaviour 67:
+123-148.
+Zach, R. (1979). Shell dropping: decision-making and optimal foraging in northwestern
+crows. — Behaviour 68: 106-117.
+Zickefoose, J. & Davis Jr., W.E. (1998). Great blue heron (Ardea herodias) uses bread as bait
+for ﬁsh. — Colon. Waterbirds 21: 87-88.
+Zuberbühler, K., Gygax, L., Harley, N. & Kummer, H. (1996). Stimulus enhancement and
+spread of a spontaneous tool use in a colony of long-tailed macaques. — Primates 37:
+1-12.
+
+PDF PAGE 38
+A1 Bentley-Condit & Smith
+Appendix A: Animal tool use catalog
+Key: Y = Yes; N = No; C = Captive; F = Free ranging; S = Semi-free ranging; Food Prep = Food Preparation; Food Extrac = Food Extraction; Food
+Trans = Food Transport; Food Cap = Food Capture; Phys Main = Physical Maintenance; Nest Const = Nest Construction; Pred Defen = Predator Defense;
+Agon=Agonism; Other = Other.
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Phylum: Arthropoda, Class: Insecta
+Ammophila aberti Digger wasp N N N Y F Evans, 1959;
+Brockmann, 1985
+Ammophila Digger wasp N N N Y F Evans, 1959;
+aureonotata Brockmann, 1985
+Ammophila breviceps Digger wasp Y N N Y F Brockmann, 1985
+Ammophila gryphus Sand wasp N N N N F Pergande, 1892; Wheeler
+& Wheeler, 1924
+Ammophila harti Digger wasp N N N Y F Evans, 1959
+Ammophila juncea Digger wasp N N N Y F Evans, 1959
+Ammophila pictipennis Digger wasp N N N Y F Brockmann, 1985
+Ammophila placida Digger wasp N N N Y F Evans, 1959
+Ammophila procera Digger wasp N N N Y F Hartman, 1905;
+Evans, 1959
+Ammophila urnaria Digger wasp N N N Y F Evans, 1959;
+Brockmann, 1985
+Ammophila wrightii Digger wasp Y N N Y F Brockmann, 1985
+Ammophila Digger wasp N N N Y F Evans, 1959
+xanthroptera
+Aphaenogaster Japanese ant N N N Y C, F Tanaka & Ono, 1978
+famelica
+Aphaenogaster fulva Myrmicine N N N Y F Fellers & Fellers, 1976;
+ant Forrest, 1982
+Aphaenogaster Forest ant N N N Y C, F Fellers & Fellers, 1976;
+rudis Banschbach et al., 2006
+
+PDF PAGE 39
+Animal tool use catalog A2
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Aphaenogaster senilis Myrmicine ant N Y N Y C Agbogba, 1985
+Aphaenogaster Myrmicine ant N Y N Y C Agbogba, 1985
+subterranea
+Aphaenogaster Myrmicine ant N N N Y F Fellers & Fellers, 1976
+tennesseensis
+Aphaenogaster treatae Myrmicine ant N N N Y F Fellers & Fellers, 1976
+Ariadna segestriidae Corolla spider N N N Y F Henschel, 1995
+Camponotus spp. Weaver ant N N N Y F Hölldobler & Wilson,
+1977
+Cladomelea akermani African bola N N N Y F Akerman, 1923
+spider
+Dendromyrex spp. Weaver ant N N N Y F Hölldobler & Wilson,
+1977
+Dicrostichus furcatus Hairy imperial N N N Y F McKeown, 1936
+spider
+Dicrostichus Angler spider N N N Y F Longman, 1922
+magniﬁcus
+Glossoma spp. Caddisﬂy larvae N N N Y F Ross, 1964
+Gryllotalpa vinaea Burrowing N N N N F Forrest, 1982
+cricket
+Hydropsyche spp. Caddisﬂy larvae N N N Y F Ross, 1964
+Lampromyia spp. Worm-lion N N N Y F Wheeler, 1930
+Limnephilus spp. Caddisﬂy larvae N N N Y F Ross, 1964
+Mastophora cornigera Bola spider N N N Y F Gertsch, 1955
+Myrmeleon crudelis Antlion N Y N Y C Lucas, 1982
+Myrmeleon Antlion N N N Y F Topoff, 1977
+immacualatus
+Myrmeleon spp. Antlion N N N Y F Wheeler, 1930;
+De Beer, 1948
+
+PDF PAGE 40
+A3 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Neodiprion sertifer Sawﬂy N N N N F Eisner et al., 1974
+Novomessor Ant N N N Y F McDonald, 1984
+albisetosus
+Ochrotrichia spp. Caddisﬂy larvae N N N Y F Ross, 1964
+Oecanthus African tree Y N N N F Prozesky-Schulze
+burmeisteri cricket et al., 1975
+Oecophylla spp. Weaver ant N N N Y F Hölldobler
+& Wilson, 1977
+Ordgarius American bola N N N Y F Hutchinson, 1903
+cornigerus spider
+Podalonia pubescens Digger wasp N N N Y F Brockmann, 1985
+Pogonomyrmex Florida harvester Y N Y Y F Morrill, 1972
+badius ant
+Polyrhachis spp. Weaver ant N N N Y F Hölldobler &
+Wilson, 1977
+Rhyacophila spp. Caddisﬂy larvae N N N Y F Ross, 1964
+Salyavata variegata Assassin bug N N N Y F McMahan, 1982;
+McMahan &
+Mendez, 1983
+Scapteriscus acletus Mole cricket N N N N F Nickerson et al., 1979;
+Forrest, 1982
+Scapteriscus vicinus Mole cricket N N N N F Nickerson et al., 1979;
+Forrest, 1982
+Solenopsis invicta Fire ant N Y N Y C Barber et al., 1989
+Sphex ichnuemoneus Great golden N N N Y F Brockmann, 1985
+digger wasp
+Sphex pensylvanicus Steel-blue cricket N N N Y F Brockmann, 1985
+hunter wasp
+
+PDF PAGE 41
+Animal tool use catalog A4
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Sphex urnarius Thread-waisted N N N Y F Peckham & Peckham,
+wasp 1898; Frisch, 1940
+Tetramorium Pavement ant N N N Y F 1 Lin, 1964-1965
+caespitum
+Vermillio spp. Worm-lion N N N Y F Wheeler, 1930
+Phylum: Arthropoda, Class: Malacostraca
+Dardanus arrosor Hermit crab N Y N Y C Ross, 1971
+Dardanus callidus Hermit crab N Y N Y C Ross, 1971
+Dromia spp. Decorator crab N N Y Y F Duerden, 1905
+Melia tessellate Melia crab N N Y Y C, F C, F Duerden, 1905
+Polydectus cupilifera Teddy bear crab Y Y N Y C Duerden, 1905
+Stenorhynchus spp. Decorator crab N N Y Y F Duerden, 1905
+Phylum: Mollusca, Class: Gastropoda
+Tegula brunnea Brown turban N Y N Y C 14 Weldon & Hoffman,
+snail 1975
+Tegula funebralis Black turban N Y N Y C 14 Weldon & Hoffman,
+snail 1975
+Xenophora American N N N Y F Berg, 1975
+conchyliophora carriersnail
+Phylum: Mollusca, Class: Cephalopoda
+Octopus vulgaris Common octopus N N N N F F Mather, 1994
+Phylum: Chordata, Class: Actinopterygii
+Aequidens South American N N N Y F F Barlow, 1974
+coeruleopunctatus cichlid
+Aequidens South American N Y N Y C C Timms & Keenleyside,
+paragyuayensis cichlid 1975; Keenleyside
+& Prince, 1976
+
+PDF PAGE 42
+A5 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Cheilinus fasciatus Wrasses N N N N F Fricke, 1971
+Cheilinus lunulatus Wrasses N N N N F Fricke, 1971
+Colisa spp. Labrynth ﬁsh N Y N N C Vierke, 1973
+Coris angulata Wrasses N N N N F Fricke, 1971
+Exoglossum Cut-lips minnow N N N N F van Duzer, 1939
+maxillingua
+Halichoeres garnoti Yellowhead Y N N N F Coyer, 1995
+wrasse
+Hoplosternum Armored catﬁsh N Y N Y C C Armbrust, 1958
+thoracatum
+Malacanthus plumier Sand tileﬁsh N N N N F Colin, 1973
+Opistognathus Yellowhead N N N N F Colin, 1972
+aurifrons jawﬁsh
+Pseudobalistes fuscus Triggerﬁsh N N N N F Fricke, 1975
+Toxotes jaculatrix Archer ﬁsh N N N N C, F Luling, 1966
+Phylum: Chordata, Class: Aves (except Order: Passeriformes)
+Actitis hypoleucos Common Y N N N F Simmons, 1950
+sandpiper
+Alectura lathami Australian brush N N N Y F Dow, 1980
+turkey
+Amazona Yellow-crowned Y Y N Y C Boswall, 1982
+ochrocephala parrot
+Anhinga anhinga Anhinga darter Y N N Y F Wellenstein &
+Wiegmann, 1986
+Anodorhynchus Hyacinth macaw N Y N Y C Bertagnolio, 1994;
+hyacinthinus Borsari & Ottoni,
+2005
+Aquila chrysaetos Golden eagle N N N N F Leshem, 1979
+
+PDF PAGE 43
+Animal tool use catalog A6
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Aquila verreauxii African black Y N N Y F Dick & Fenton, 1979
+eagle
+Ardea cinerea Grey heron N N N N C, F Jones, 1979; Banks,
+1982; Bowey, 1997
+Ardea goliath Golaith heron Y N N N F Hunter et al., 2004
+Ardea herodias Great blue heron Y N N N F F Otnes, 1977;
+Zickefoose &
+Davis Jr., 1998
+Ardeola ralloides Squacco heron N N N N F Crous, 1994
+Athene cunicularia Burrowing owl N N N Y F Levey et al., 2004
+Buteo jamaicensis Red-tailed hawk Y N N N F Ellis & Brunson, 1993
+Butorides/Ardeola Green-backed N N N N F Walsh et al., 1985;
+striata heron Wood, 1986;
+Foxall & Drury, 1987;
+Robinson, 1994
+Butorides Green heron N N N N F Lovell, 1958; Norris,
+virescens 1975; Keenan III, 1981;
+Harvey, 2000
+Cacatua Moluccan Y Y N Y C Boswall, 1983
+moluccensis cockatoo
+Cacatua sanguinea Bare-eyed Y Y N Y C Smith, 1970
+cockatoo
+Cacatua sulphurea Lesser sulphur- Y Y N Y C Boswall, 1982
+crested cockatoo
+Calidris alpina Dunlin N N N N F del Hoyo et al., 1996
+Calidris ferruginea Curlew sandpiper N N N N F del Hoyo et al., 1996
+Callipepla squamata Scaled quail Y N N Y F Thomas, 1957
+Cariama cristata Crested cariama N Y N N C Kooij & van Zon, 1964
+
+PDF PAGE 44
+A7 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Catharacta skua Great skua N N N N F Sladen, 1958
+Ceryle rudis Kingﬁsher N N N N F F Cooper, 1981
+Charadrius Killdeer N N N N F Schardien & Jackson,
+vociferous 1982
+Ciconia ciconia White stork N N N Y F 8 Rékàsi, 1980
+Colaptes auratus Flicker N N N Y F Southern, 1963; Potter,
+1970
+Columba livia Common pigeon Y Y N Y C Epstein &
+Medalie, 1983
+Dacelo Laughing Y N N N F Roberts, 1961
+novaeguineae kookaburra
+Dendrocopos Great spotted Y Y N N C Sielmann, 1958
+major woodpecker
+Dendrocopos Syrian Y N N N F Gorman, 1998
+syriacus woodpecker
+Egretta gularis Wester reef heron Y N N N F Davis Jr., 1993
+Eulabeornis Chestnut rail N N N N F Woinarski et al., 1998
+castraneoventris
+Geococcyx Greater road ? N N N F Meinzer, 1993
+californianus runner
+Grus canadensis Sandhill crane Y Y N Y C Bartlett & Bartlett, 1973
+Gypaëtus barbatus Lämmergeier Y N N N F Fleming, 1955
+Halcyon Phillipine N N N N F Rand, 1954
+coromanda kingﬁsher
+Halcyon White-breasted Y N N N F Tehsin, 1989
+smyrnensis kingﬁsher
+Haliaeetus Bald eagle N Y N Y C C Bindner, 1968
+leucocephalus
+
+PDF PAGE 45
+Animal tool use catalog A8
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Hamirostra Black-breasted N N N Y C, F Chisholm, 1954;
+melanosterna buzzard Pepper-Edwards
+& Nottley, 1991
+Jynx torquilla Eurasian wryneck Y N N Y F Stone, 1954
+Larus argentatus Herring gull N N N N C F F Strong, 1914; Oldham,
+1930; Ingolfsson &
+Estrella, 1978; Kent,
+1981; Young, 1987;
+Connor, 1992; Henry
+& Aznar, 2006
+Larus canus Common gull N N N N F Oldham, 1930
+Larus delawarensis Ring-billed gull N N N N F Drennen, 1995
+Larus dominicanus Kelp/Southern N N N N F Moon, 1992; Siegfried,
+black-backed gull 1977; Ward, 1991
+Larus fuscus Lesser black- Y Y N N C Sinclair, 1984
+backed gull
+Larus glaucescens Glaucous- N N N N F Barash et al., 1975
+winged gull
+Larus marinus Great black- Y N N N F Harber & Johns, 1947
+backed gull
+Larus Mediterranean gull Y N N N F van Impe, 1978
+melanocephalus
+Larus occidentalis Western gull N N N N F Maron, 1982
+Larus paciﬁcus Paciﬁc gull N N N N F Wheeler, 1946;
+Teichert &
+Serventy, 1947
+Leptoptilos Marabou stork N N N Y F F Seibt & Wickler, 1978;
+crumeniferus Marshall, 1982
+
+PDF PAGE 46
+A9 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Leucophoyx thula Snowy egret N N N N F Parks & Bressler, 1963;
+Kushlan, 1973
+Limosa lapponica Bar-tailed godwit N N N N F Vader, 1979
+Limosa limosa Black-tailed N N N N F del Hoyo et al., 1996
+godwit
+Melanerpes Red-bellied Y N N N F Erlwein, 1996
+carolinensis woodpecker
+Melanerpes lewis Lewis’s Y N N N F Law, 1929
+woodpecker
+Melanerpes/Centu- Gila woodpecker Y N Y Y F F Antevs, 1948
+rus uropygialis
+Meleagris ocellata Ocellated turkey Y N N Y F Sugihars & Heston, 1981
+Milvus migrans Kitehawk/Black Y N N N F Lockwood, 1962;
+kite Roberts, 1982
+Neophron Egyptian vulture N N N Y F F Alexander, 1838; An Old
+percnopterus Sportsman from Uitkyk,
+1867; Wood et al., 1875;
+Duerden, 1908; Lindblom,
+1920; van Lawick-Goodall
+& van Lawick, 1966;
+Brown & Urban, 1969;
+Brooke, 1979; Ilany, 1982
+Nestor notabilis Kea N Y N Y C
+10 Porter, 1936
+Numenius tahitiensis Curlew N N N Y F Marks & Hall, 1992
+Nycticorax Black-crowned N N N N F Drinkwater, 1958; Riehl,
+nycticorax night heron 2001; Davis Jr., 2004
+Pandion haliaetus Osprey N N N N F Leshem, 1985
+Phalacrocorax Double-crested Y N N Y F 9 Meyerriecks, 1972
+auritus comorant
+
+PDF PAGE 47
+Animal tool use catalog A10
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Picoides pubescens Downy N N N N F Davis Jr. 1995
+woodpecker
+Picoides villosus Hairy woodpecker Y N N N F Erlwein, 1996
+Picus viridis Green woodpecker Y N N Y F Allsop, 1949
+Pluvianus aegyptius Egyptian plover N N N N F Howell, 1979
+Podargus strigoides Tawny frogmouth Y N N N F Wheeler, 1943
+Porzana tabuensis Spotless crake Y N N N F Johnson, 1976
+Probosciger Black palm N N Y Y F F F 2 Wallace, 1869; Wood,
+aterrimus cockatoo 1984; Bertagnolio, 1994
+Psittacus erithacus African grey parrot N Y Y Y C C 13 Taylor, 1975; Janzen
+et al., 1976;
+Boswall, 1982
+Pterocles burchelli Spotted sandgrouse N N N N F Maclean, 1968
+Pterocles namaqua Namaqua N N N N F Maclean, 1968
+sandgrouse
+Rallus aquaticus Water-rail Y N N N F Caldwell, 1951
+Rhinoptynx clamator Striped owl Y Y N Y C Goodman & Fisk, 1973
+Sphyrapicus varius Yellow-bellied Y N N N F Labedz, 1980
+sapsucker
+Threskiornis molucca White ibis N N N N F Vestjens, 1973
+Tringa melanoleuca/ Greater yellowlegs N N N N F Jordheim, 1965
+ﬂavipes
+Tringa totanus Common redshank Y N N N F Henry et al., 1998
+Tyrannus Gray kingbird Y N N N F Reader et al., 2002
+dominicensis
+Phylum: Chordata, Class: Aves, Order: Passeriformes
+Acridotheres Crested jungle Y Y N Y C Poulsen, 1956
+cristatellus mynah
+
+PDF PAGE 48
+A11 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Acridotheres fuscus Jungle mynah N N N N F C Poulsen, 1956;
+Johnsingh, 1979
+Acridotheres Bank mynah N Y N Y C Poulsen, 1956
+ginginianus
+Acridotheres tristis Common mynah N N N Y F Pillai, 1941
+Agelaius phoeniceus Red-winged N N N Y F C, F Nero, 1951; Poulsen,
+blackbird 1956; Luchtemeyer, 1969
+Agelaius xanthomus Yellow-shoulde- N N N Y F Post & Browne, 1982
+red blackbird
+Ailuroedus Green catbird Y Y N Y C Poulsen, 1956
+crassirostris
+Ailuroedus Tooth-billed N N N N F Marshall, 1954
+dentirostris catbird
+Amblyospiza Grosbeak N N N N F Crook, 1960
+albifrons weaver
+Anthus petrosus Rock pipit Y N N N F Tutt, 1990
+Anthus trivialis Tree pipit Y Y N Y C Poulsen, 1956
+Basileuterus Three-striped Y N N Y F Wenny, 1998
+tristriatus warbler
+Bombycilla cedrorum Cedar waxwing ? Y N Y C Ivor, 1941
+Bubalornis niger Red-billed Y Y N Y C Poulsen, 1956
+buffalo-weaver
+Cactospiza/ Woodpecker N N Y Y C, F F C Bowman, 1961;
+Geospiza pallida ﬁnch Eibl-Eibesfeldt, 1961;
+(Camaryhynchus Hundley, 1963; Millikan
+pallidus) & Bowman, 1967;
+Greenhood & Norton,
+1999; Tebbich et al.,
+2002, 2004
+
+PDF PAGE 49
+Animal tool use catalog A12
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Camarhynchus/ Mangrove ﬁnch N N Y Y F F Curio &
+Cactospiza Kramer, 1964
+heliobates
+Cardinalis cardinalis Northern cardinal Y Y N Y C, F Ivor, 1941, 1955
+Catharus fuscescens Veery ? Y N Y C Ivor, 1941
+Catharus guttatus Hermit thrush ? Y N Y C Ivor, 1941
+Certhidea olivacea Warbler ﬁnch N N N Y F Hundley, 1963
+Chasiempis Elepaio N N N Y F Vander Werf,
+sandwichensis 2005
+Chlamydera guttata Spotted Y N N Y F Chaffer, 1945
+bower-bird
+Chloropsis aurifrons Golden-fronted Y Y N Y C Poulsen, 1956
+leafbird
+Cinclus cinclus European dipper N N N Y F F 4 Creutz, 1952;
+Johnston, 1985
+Cinclus mexicanus American dipper N N N Y F F Goodge, 1959;
+Osborn, 1998
+Cissa chinensis Green magpie N Y N Y C Poulsen, 1956
+Coccothraustes Hawﬁnch N Y N Y C Poulsen, 1956
+coccothraustes
+Coccothraustes Evening ? Y N Y C Ivor, 1941
+vespertina grosbeak
+Coliuspasser Yellow-backed N N N N F Crook, 1960
+macrourus whydah
+Colluricincla Grey N N N Y F Mitchell, 1962;
+harmonica shrike-thrush Tilt, 1962
+Colluricincla Little shrike- Y N N Y F Sedgwick, 1946
+megarhyncha thrush
+
+PDF PAGE 50
+A13 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Copsychus White-rumped N Y N Y C Poulsen, 1956
+malabaraicus shama
+Copsychus Oriental magpie Y Y N Y C Poulsen, 1956
+saularis robin
+Corcorax White-winged N N N Y F F McDonald, 1970;
+melanorhamphus chough Hobbs, 1971
+Corvus albicollis Cape raven Y N N N F Uys, 1966
+Corvus American crow N N Y Y F F F F Maple, 1974; Powell &
+brachyrhynchos Kelly, 1977; Grobecker
+& Pietsch, 1978;
+Montevecchi, 1978;
+Phillips, 1978; Cristol
+& Switzer, 1999;
+Caffrey, 2000, 2001;
+Balda, 2007
+Corvus caurinus Northwestern N N N Y C, F Jewett, 1924; Zach,
+crow 1978, 1979; Richardson
+& Verbeek, 1987
+Corvus corax Northern/ N N Y Y F F Jacobsen, 1911; Janes,
+Common 1976; Heinrich, 1988
+raven
+Corvus cornix Hooded crow N N N N F Perry, 1972
+Corvus corone Hooded/carrion N N Y Y C, F F F F F
+7 Goodwin, 1953a; Londei
+crow & Mafﬁoli, 1978; Condor
+& Everett, 1979; Jones,
+1979; Berrow et al., 1992;
+Rolando & Zunino, 1992;
+Mienis, 1993; Brampton,
+1994; Nihei, 1995, 1998
+
+PDF PAGE 51
+Animal tool use catalog A14
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Corvus Australian Y N N N F Reid & Reid, 1996
+coronoides raven
+Corvus Rook N N Y Y C, F C F Priestley, 1947; Goodwin,
+frugilegus 1953a; Reid, 1982; Bird
+& Emery, 2009
+Corvus mellori Little raven N N N N F Edmonds, 1991; McMillan,
+1992; Slee, 1992
+Corvus monedula Jackdaw N N N N F Gibson, 1992
+Corvus New N N Y Y C, F Orenstein, 1972; Hunt,
+moneduloides Caledonian 1996; Chappell & Kacelnik,
+crow 2002; Hunt et al., 2002,
+2006; Hunt & Gray, 2004
+Corvus orru Torresian N N N N F Mackay, 1997
+crow
+Corvus ossifragus Fish crow Y N N Y F Montevecchi, 1978
+Corvus rhipidurus Fan-tailed Y N N Y F Andersson, 1989
+raven
+Corvus splendens House crow N N Y Y F F Fitzwater, 1967; Rajan &
+Balasubramanian, 1989
+Cracticus spp. Butcherbird N N N N F Gould, 1848
+Cracticus tibicen Australian Y N N Y F Sedgwick, 1947a
+magpie
+Cracticus Grey N N N N F Sedgwick, 1947b
+torquatus butcherbird
+Cyanocitta cristata Blue jay N N Y Y C C, F Ivor, 1941, 1955; Potter,
+1970; Jones & Kamil, 1973
+Cyanocitta stelleri Steller’s jay Y N N Y F Balda, 2007
+Cyanocorax Purplish- ? N N Y F Goodwin, 1953a
+beecheii backed jay
+
+PDF PAGE 52
+A15 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Cyanocorax yncas Green jay N N N Y F Gayou, 1982
+Cyanopica cyana Azure-winged ? N N Y F Goodwin, 1953a
+magpie
+Cyornis tickelliae Tickell’s blue N Y N Y C Poulsen, 1956
+ﬂycatcher
+Dacnis cayana Blue dacnis N Y N Y C Poulsen, 1956
+Daphoenositta Varied sitella N N N Y F Noske, 1985
+chrysoptera
+Dendrocitta bayleyi Andaman treepie Y Y N Y C Osmaston, 1936
+Dendrocolaptes Amazonian barred Y N N Y F Skutch, 1948
+certhia woodcreeper
+Dolichonyx oryzivorus Bobolink ? Y N Y C, F Ivor, 1943
+Dumetella Grey catbird N N N Y C, F Ivor, 1941;
+carolinensis Potter, 1970
+Euphagus Brewer’s blackbird N N N N F Koenig, 1985
+cyanocephalus
+Euplectes ardens Red-collared N Y N Y C Poulsen, 1956
+widowbird
+Euplectes franciscana Orange bishop N Y N Y C Poulsen, 1956
+Euplectes hordaeceus Black-winged N N N Y C F Poulsen, 1956;
+bishop Crook, 1960
+Euplectes jacksoni Jackson’s widowbird Y Y N Y C Poulsen, 1956
+Euplectes macroura Yellow-shouldered N Y N Y C Poulsen, 1956
+widowbird
+Euplectes progne Long-tailed Y Y N Y C Poulsen, 1956
+widowbird
+Euplectes taha Taha bishop Y Y N Y C Aldersparre, 1936
+Falcunculus frontatus Crested shrike-tit N N Y Y F F Richards, 1971;
+Noske, 1985
+
+PDF PAGE 53
+Animal tool use catalog A16
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Ficedula hypoleuca Pied ﬂycatcher Y N N N F Page, 1978
+Fringilla coelebs Chafﬁnch N Y N Y C Poulsen, 1956
+Fringilla montifringilla Brambling N Y N Y C Poulsen, 1956
+Garrulax albogularis White-throated N N N Y F Callegari, 1955
+laughingthrush
+Garrulax/Dryonastes Gray-sided Y Y N Y C Osmaston, 1936
+caerulatus laughingthrush
+Garrulax chinensis Black-throated N Y N Y C Poulsen, 1956
+laughingthrush
+Garrulax/ Chestnut-crowned Y Y N Y C Osmaston, 1936
+Trochalopteron laughingthrush
+erythrocephalus
+Garrulax leucolophus White-crested N Y N Y C Poulsen, 1956
+laughingthrush
+Garrulax/Dryonastes Rufous-necked Y Y N Y C Poulsen, 1956
+ruﬁcollis laughingthrush
+Garrulus glandarius Eurasian jay Y Y N Y C Poulsen, 1956
+Garrulus lanceolatus Lanceolated jay N Y N Y C Goodwin, 1953b
+Geospiza conirostris Large cactus ﬁnch N N N Y F 3 DeBenedictis, 1966
+Geospiza difﬁcilis Sharp-beaked N N N N F 6 Köster &
+gound ﬁnch Köster, 1983
+Gracula religiosa Hill mynah Y Y N Y C Poulsen, 1956
+Heterophasia Rufous sibia N Y N Y C Poulsen, 1956
+capistrata
+Hylocichla mustelina Wood thrush N N N Y C, F Ivor, 1941;
+Terres, 1962
+Icterus galbula Baltimore oriole N Y N Y C Ivor, 1955
+Icterus jamacaii Campo troupial N Y N Y C Poulsen, 1956
+Icterus spurius Orchard oriole Y Y N Y C Whitaker, 1957
+
+PDF PAGE 54
+A17 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Junco hyemalis Slate-colored junco N N N Y C, F Ivor, 1941;
+Potter, 1970
+Lamprotornis Long-tailed N Y N Y C Poulsen, 1956
+caudatus glossy starling
+Lamprotornis Greater blue-eared N N N Y C, F Poulsen, 1956;
+chalybaeus starling Whyte, 1981
+Lamprotornis Superb starling N Y N Y C Poulsen, 1956
+superbus
+Lanius collaris Fiscal shrike Y N N N F Gore, 1981
+Lanius excubitor Northern shrike N N N N F Cade, 1967
+Leiothrix argentauris Silver-eared mesia N Y N Y C Poulsen, 1956
+Leiothrix lutea Pekin robin N N N Y C, F Ivor, 1941;
+Poulsen, 1956
+Malimbus nitens Gray’s malimbe N N N N C, F Crook, 1960
+Malimbus rubricollis Red-headed malimbe N N N N F Crook, 1960
+Malimbus scutatus Red-vented malimbe N N N N F Crook, 1960
+Meliphaga lewini Lewin’s honeyeater Y N N Y F Bourke, 1941a
+Melospiza melodia Song sparrow N N N Y C, F Ivor, 1941;
+Mayr, 1948
+Minla cyanouroptera Blue-winged siva N Y N Y C Poulsen, 1956
+Mionectes oleagineus Ochre-bellied ﬂycatcher Y N N Y F Skutch, 1948
+Molothrus ater Brown-headed cowbird N N N Y F Nice, 1945
+Myophonus caeruleus Blue whistling-thrush N N N N F Smythies, 1953
+Neositta chrysoptera Orange winged sittella Y N N Y F Green, 1972
+Nesospingus Peurto Rican tanager N N N Y F King &
+speculiferus Kepler, 1970
+Niltava sundara Rufous-bellied niltava N Y N Y C Poulsen, 1956
+
+PDF PAGE 55
+Animal tool use catalog A18
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Oenanthe leucura Black wheatear N N N Y F F Moreno et al., 1994;
+Heselden et al., 1996
+Oenanthe Northern Y N N N F King, 1978
+oenanthe wheatear
+Pachycephala Rufous whistler N N N Y F Bourke, 1941b
+ruﬁventris
+Paradoxornis Gray-headed Y Y N Y C Poulsen, 1956
+gularis parrotbill
+Paroaria capitata Yellow-billed N Y N Y C Poulsen, 1956
+cardinal
+Parus gambeli Mountain Y N Y Y F Gaddis, 1981
+chickadee
+Parus major Great tit Y N N Y F Duyck & Duyck, 1984
+Parus palustris Marsh tit N Y Y Y C C Clayton & Jollife, 1996
+Passer domesticus House sparrow N N N Y F F Purser, 1959; Potter,
+1970; Hammond, 1997
+Passerella iliaca Fox sparrow ? Y N Y C Ivor, 1941
+Passerina amoena Lazuli bunting N Y N Y C Poulsen, 1956
+Passerina cyanea Indigo bunting N N N Y C, F Ivor, 1941; Shackleton
+& Shackleton, 1947
+Passerina Orange-breasted Y Y N Y C Poulsen, 1956
+leclancherii bunting
+Pheucticus Rose-breasted ? Y N Y C Ivor, 1941
+ludovicianus grosbeak
+Pheucticus Black-headed ? Y N Y C Ivor, 1943
+melanocephalus grosbeak
+Pica pica Magpie N N N Y F F Goodwin, 1953a;
+Rolando & Zunino, 1992
+
+PDF PAGE 56
+A19 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Pipilo Eastern towhee N N N Y F McAtee, 1944;
+erythrophthalmus Potter, 1970
+Piranga olivacea Scarlet tanager N N N Y F Groskin, 1943
+Piranga rubra Summer tanager Y N N Y F Thomas, 1941
+Pitta erythrogaster Red-bellied pitta N N N N F McDonald, 1974
+Pitta guajana Banded pitta ? N N N F Chasen, 1939
+Pitta moluccensis Blue-winged pitta ? N N N F Robinson, 1927
+Pitta sordida Hooded pitta ? N N N F Robinson, 1927
+Pitta versicolor Noisy pitta N N N N F F Hindwood, 1966
+Ploceus aurantius Orange weaver N N N N F Crook, 1960
+Ploceus brachypterus Black-necked weaver N N N N F Crook, 1960
+Ploceus Chestnut-and-black N N N N F Crook, 1960
+castaneofuscus weaver
+Ploceus cucullatus Village weaver N N N N F Crook, 1960
+Ploceus lutealus Little weaver N N N N F Crook, 1960
+Ploceus Black-headed weaver N N N N F Crook, 1960
+melanocephalus/
+capitalis
+Ploceus monarchus Monarch weaver N N N N F Crook, 1960
+Ploceus nigerrimus Vieillot’s black N N N N F Crook, 1960
+weaver
+Ploceus philippinus Baya N N N N F George, 1973
+Ploceus rubiginosus Chestnut weaver Y Y N Y C Poulsen, 1956
+Ploceus tricolor Yellow-mantled N N N N F Crook, 1960
+weaver
+Ploceus vitellinus Vitelline masked N N N N F Crook, 1960
+weaver
+Pomatorhinus Rusty-cheeked Y Y N Y C Poulsen, 1956
+erythrogenys scimitar-babbler
+
+PDF PAGE 57
+Animal tool use catalog A20
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Pomatorhinus White-browed Y Y N Y C Poulsen, 1956
+schisticeps scimitar-babbler
+Protonotaria citrea Prothonotary Y N N Y F Tedards, 1967
+warbler
+Ptilonorhynchus Satin bowerbird N N Y Y F Chaffer, 1945; Gannon,
+violaceus 1930; Marshall, 1960
+Pycnonotus cafer Red-vented bulbul Y N N N F Bharos, 1999
+Quelea quelea Red-billed quelea N N N N F Crook, 1960
+Quiscalus lugubris Carib grackle N N N N F Morand-Ferron
+et al., 2004
+Quiscalus major Boat-tailed grackle N N N N F Jackson, 1985;
+Wible, 1975
+Quiscalus mexicanus Great-tailed grackle N N N N F Pulich, 1969
+Quiscalus quiscula Common grackle N N N N F C, F Ivor, 1941; Hill, 1946;
+Laskey, 1948; Rand,
+1967; Nicklas, 1974;
+Wible, 1975; Jackson,
+1985; Pitochelli, 1985;
+Clark et al., 1999
+Regulus satrapa Golden-crowned Y N N Y F Davis, 1939
+kinglet
+Saltator maximus Buff-throated Y N N Y F Skutch, 1948
+saltator
+Saxicola rubetra Whinchat N N N N F King, 1978
+Saxicola torquatus Stonechat N N N N F F King, 1978;
+Fisher, 1979
+Saxicoloides fulicata Indian robin N N N N F Sivasubramanian, 1991
+Scenopoeetes Stagemaker N N N N F Marshall, 1954
+dentirostris bowerbird
+
+PDF PAGE 58
+A21 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Sericulus Regent bowerbird N N N N F Marshall, 1960
+chyrsocephalus
+Sitta canadensis Red-breasted N N N Y F 5 Kilham, 1968
+nuthatch
+Sitta carolinensis White-breasted N N Y Y F F F 5 Kilham, 1968, 1974;
+nuthatch Mitchell, 1993
+Sitta pusilla Brown-headed N N Y Y F Morse, 1968;
+nuthatch Pranty, 1995
+Sporophila aurita Variable seedeater Y N N Y F Skutch, 1948
+Sturnus contra Asian pied starling N Y N Y C Poulsen, 1956
+Sturnus roseus Rosy starling N Y N Y C Poulsen, 1956
+Sturnus vulgaris Common starling N N N Y C, F F 12 Ivor, 1955; Southern,
+1963; Potter, 1970;
+Radford, 1979; Clark
+et al., 1990; Judson
+& Bennett, 1992
+Tangara Blue-necked Y N N Y F Sick, 1957
+cyanicollis tanager
+Tangara Gilt-edged N N N Y F Sick, 1957
+cyanoventris tanager
+Tangara fastuosa Seven-colored Y Y N Y C Poulsen, 1956
+tanager
+Thryothorus Carolina wren Y N N N F Haney, 1982
+ludovicianus
+Toxostoma rufum Brown thrasher Y N N Y F Chamberlain, 1954
+Turdus ericetorum/ Song thrush N N N Y C, F C Morris, 1954;
+philomelos Poulsen, 1956;
+Henty, 1986
+
+PDF PAGE 59
+Animal tool use catalog A22
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Turdus iliacus Redwing thrush N N N Y F C Poulsen, 1956;
+Richards, 1977
+Turdus merula Common N N N Y F F F 11 Williams, 1947;
+blackbird Watkin, 1950;
+Priddey, 1977
+Turdus Robin N N N Y F C, F Ivor, 1955;
+migratorius Southern, 1963;
+Potter, 1970
+Turdus pelios African thrush N N N N F Walsh &
+Walsh, 1983
+Turdus pilaris Fieldfare N N N N F Löhrl, 1983
+Turdus torquatus Ring ouzel N N N Y F Reymond, 1948
+Turdus viscivorus Mistle thrush Y N N Y F Abma, 1951
+Urocissa Red-billed blue N Y N Y C Poulsen, 1956
+erythrorhyncha magpie
+Vermivora pinus Blue-winged Y N N Y F Dater, 1953
+warbler
+Xenicus gilviventris Black wren Y N N N F Sibson, 1974
+Yuhina Black-chinned Y Y N Y C Osmaston, 1936
+nigrimentum yuhina
+Zonotrichia White-throated ? Y N Y C Ivor, 1941
+albicollis sparrow
+Zonotrichia White-crowned N N N Y C, F Ivor, 1941;
+leucophrys sparrow Paroni, 1954
+Zonotrichia Harris sparrow ? Y N Y C Ivor, 1943
+querula
+Zosterops pallidus Cape white-eye N Y N Y C Lunt et al., 2004
+Zosterops Oriental white-eye N Y N Y C Poulsen, 1956
+palpebrosa
+
+PDF PAGE 60
+A23 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Phylum: Chordata, Class: Mammalia (except Order Primates)
+Ailuropoda Giant panda N Y N Y C Eisenberg
+melanoleuca & Kleiman, 1977
+Bubalus bubalis Water buffalo Y Y Y Y C Grummt, 1963
+Castor canadensis Beaver Y N Y Y F Barnes, 2005
+Castor ﬁber Eurasian beaver N N N Y F Thomsen et al., 2007
+Elephas maximus Asian elephant N N N Y F McKay, 1973;
+Chevalier-Skolnikoff
+& Liska, 1993; Hart
+& Hart, 1994; Hart
+et al., 2001
+Enhydra lutris Sea otter N N N Y F F Fisher, 1939; Murie,
+1940; Kenyon, 1958;
+Hall & Schaller, 1964;
+Ebert, 1968; Houk &
+Geibel, 1974;
+Wade, 1975
+Galidia elegans Ring-tailed N N N N F Albignac, 1969
+mongoose
+Helogale undulata African dwarf N Y N N C Rasa, 1973
+mongoose
+Herpestes urva Crabeating N Y N N C Acharjyo &
+mongoose Misra, 1972
+Heterocephalus Naked mole rat N Y N Y C Shuster &
+glaber Sherman, 1998
+Loxodonta African N N Y Y F F Chevalier-Skolnikoff &
+africana elephant Liska, 1993; Wickler &
+Seibt, 1997
+
+PDF PAGE 61
+Animal tool use catalog A24
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Martes ﬂavigula Yellow-throated Y Y N N C Wemmer &
+marten Johnson, 1976
+Mungos mungo African banded Y Y N N C Eisner & Davis, 1967
+mongoose
+Octodon degus Common degu N Y N Y C Okanoya et al., 2008
+Panthera leo African lion Y N N Y F Bauer, 2001
+Sousa chinensis Indo-Paciﬁc Y N N Y F Parra, 2007
+humpback
+dolphin
+Taxidea taxus North American N N N Y F Michener, 2004
+badger
+Thomomys bottae Pocket gopher Y Y N Y C Katz, 1980
+Tursiops spp. Bottlenose N N Y Y F Smolker et al., 1997;
+dolphin Krützen et al., 2005;
+Mann et al., 2008
+Ursus arctos Alaskan Y Y N N C Hornaday, 1934
+brown bear
+Ursus maritimus Polar bear N N Y Y F F
+15 Kiliaan, 1972;
+Stirling, 1974
+Ursus ornatus Spectacled bear N Y N Y C Lang, 1974
+Phylum: Chordata, Class: Mammalia, Order: Primates
+Alouatta seniculus Red howler Y N Y Y F Richard-Hansen
+et al., 1998
+Ateles geoffroyi Spider monkey N N N Y F Campbell, 2000;
+Rodrigues &
+Lindshield, 2007
+Bunopithecus Hoolock gibbon N Y N Y C Cunningham
+hoolock et al., 2006
+
+PDF PAGE 62
+A25 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Cebus White-fronted N N Y Y F Phillips, 1998
+albifrons capuchin
+Cebus apella Black-capped/ N N Y Y C, F, S C F C Cooper & Harlow, 1961; Izawa
+Brown/Tufted & Mizuno, 1977; Strusaker &
+capuchin Leland, 1977; Antinucci &
+Visalberghi, 1986; Visalberghi,
+1990, 1993; Fernandes, 1991;
+Anderson & Henneman, 1994;
+Westergaard & Suomi, 1994,
+1995; Westergaard et al., 1995;
+Lavallee, 1999; Boinski et al.,
+2000; Cleveland et al., 2004;
+de A. Moura & Lee, 2004;
+Ottoni & Mannu, 2001; Ottoni
+et al., 2005; Schrauf et al., 2008
+Cebus White-faced N N Y Y F F F F Bierens de Haan, 1931; Boinski,
+capucinus capuchin 1988; Chevalier-Skolnikoff,
+1990; Baker, 1996
+Cebus Bearded N N Y Y F F F Fragaszy et al., 2004; Waga
+libidinosus capuchin et al., 2006; Visalberghi et al.,
+2007; Mannu & Ottoni, 2009
+Cebus Wedge-capped N N N Y F Valderrama et al., 2000
+olivaceus capuchin
+Cebus Yellow-breasted N N N Y F Canale et al., 2009
+xanthosternos capuchin
+Cercocebus atys Sooty mangabey N Y N Y C Galat-Luong, 1984; Kyes, 1988
+Cercocebus Agile mangabey Y Y N Y C Guillaume & Meyerson, 1934
+galeritus
+
+PDF PAGE 63
+Animal tool use catalog A26
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Cercopithecus Red-tailed Y N N Y F Worch, 2001
+ascanius monkey
+Cercopithecus Vervet N Y N Y C C Galat-Luong, 1984; Pollack,
+aethiops monkey 1998; Santos et al., 2006
+Cercopithecus Lowe’s mona Y Y N Y C Galat-Luong, 1984
+campbelli monkey
+Colobus badius Red colobus N N Y Y F Struhsaker, 1975; Starin, 1990
+Erythrocebus Patas Y Y N Y C Gatinot, 1974
+patas monkey
+Eulemur fulvus Brown lemur N Y N Y C Santos et al., 2005
+Galago Lesser Y N N N F 18 Harcourt, 1981
+senegalensis bushbaby
+Gorilla gorilla Gorilla N N Y Y C C C C, F F 16 Kortlandt & Kooij, 1963;
+Redshaw, 1975; Fontaine
+et al., 1995; Nakamichi, 1999;
+Breuer et al., 2005; Pouydebat
+et al., 2005; Wittiger &
+Sunderland-Groves, 2007
+Hylobates lar White-handed N N Y Y F F F C
+22 Carpenter, 1940;
+gibbon Rumbaugh, 1970
+Leontopithicus Golden lion N Y N Y C C Stoinski & Beck, 2001
+rosalia tamarin
+Lemur catta Ring-tailed N Y N Y C Santos et al., 2005
+lemur
+
+PDF PAGE 64
+A27 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Macaca Long-tailed N N Y Y S, F F C C C, F C 25 Carpenter, 1887; Chiang,
+fascicularis macaque 1967; Karrer, 1970; Artaud &
+Bertrand, 1984; Zuberbühler
+et al., 1996; Malaivijitnond
+et al., 2007; Watanabe et al.,
+2007; Masataka et al., 2009;
+Gumert et al., 2009
+Macaca Japanese N N N Y F F C Kawai, 1965; Tokida et al.,
+fuscata macaque 1994; Hihara et al., 2003
+Macaca Rhesus N Y N Y C C C Shepherd, 1910; Hobhouse,
+mulatta macaque 1926; Parks & Novak, 1993;
+Erwin, 1974
+Macaca Pigtailed N Y N Y C Beck, 1976
+nemestrina macaque
+Macaca nigra Sulawesi Y Y Y Y C Babitz, 2000
+macaque
+Macaca radiata Bonnet Y N Y Y F Sinha, 1997
+macaque
+Macaca silenus Liontailed N N Y Y F C C, S Hohmann, 1988; Westergaard,
+macaque 1988; Fitch-Snyder & Carter,
+1993; Kumar et al., 2008
+Macaca tonkeana Tonkean N N N Y C S C Bayart, 1982; Anderson,
+macaque 1985; Ueno & Fujita, 1998;
+Ducoing & Thierry, 2005
+Mandrillus Drill N Y N Y C C Armbruster, 1921;
+leucophaeus Galat-Luong, 1984
+Mandrillus sphinx Mandrill Y Y N Y C Schultz, 1961
+Pan paniscus Bonobo N Y N Y C C C C S S
+24 Jordan, 1982; Gold, 2002;
+Mulcahy & Call, 2006
+
+PDF PAGE 65
+Animal tool use catalog A28
+(Continued.)
+Genus
+spe-
+cies
+Com-
+mon
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Pan
+troglo-
+dytes
+Chim-
+panzee
+N N Y Y F C ,F F C ,F C ,F F C ,F F F
+19,C 20 Jackson, 1942; Beatty, 1951; Goodall, 1964;
+Suzuki, 1966; Kortlandt, 1967, 1986; Jones & Pi,
+1969; Strusaker & Hunkeler, 1971; Menzel, 1972;
+McGrew & Tutin, 1973; Teleki, 1973; Pi, 1974;
+McGrew et al., 1975, 1999; Plooij, 1978; Nishida,
+1980; Nishida & Uehara, 1980; Sugiyama, 1981,
+1985, 1995a, 1995b, 1997; McBeath & McGrew,
+1982; Uehara, 1982; Anderson et al., 1983; Mc-
+Grew & Rogers, 1983; McGrew & Collins, 1985;
+Sumita et al., 1985; Whitesides, 1985; Hannah &
+McGrew, 1987; Kitahara-Frisch et al., 1987; Ko-
+rtlandt & Holzhaus, 1987; Yamagiwa et al., 1988;
+Bermejo et al., 1989; Boesch & Boesch, 1990;
+Brewer & McGrew, 1990; Gonzalez-Kirchner &
+Sainz de la Maza, 1992; Tutin & Fernandez,
+1992; Alp, 1993, 1997; Huffman & Kalunde,
+1993; Nishida & Nakamura, 1993; Boesch et
+al., 1994, 2009; Fay & Carroll, 1994; Suzuki
+et al., 1995; Tutin et al., 1995; Yamakoshi &
+Sugiyama, 1995; Inoue-Nakamura & Matsuzawa,
+1997; Arcadi et al., 1998; Hirata et al., 1998; Ya-
+makoshi, 1998; Bermejo & Illera, 1999; Whiten
+et al., 1999; Stanford et al., 2000; Tonooka,
+2001; Humle & Matsuzawa, 2002, 2004; Mer-
+cader et al., 2002; Biro et al., 2003; Nishimura
+et al., 2003; Sanz et al., 2004; Hicks et al., 2005;
+Lonsdorf, 2005; Sherrow, 2005; Deblauwe et al.,
+2006; Matsusaka et al., 2006; O’Hara & Lee,
+2006; Hernandez-Aguilar et al., 2007; Pruetz &
+Bertolani, 2007; Sanz & Morgan, 2007; Schön-
+ing et al., 2007; Furlong et al., 2008; Watts, 2008;
+Yamamoto et al., 2008
+
+PDF PAGE 66
+A29 Bentley-Condit & Smith
+(Continued.)
+Genus species Common
+name
+N = 1? Cap-
+tive
+only?
+Tool
+manu-
+fact.?
+True
+tool
+use?
+Tool use category References
+Food Food Food Food Phys Mate Nest Pred. Agon Other
+Prep Extrac Trans Cap Main Attrac Const Defen
+Papio anubis Olive baboon N N N Y F F C F F F 21 van Lawick-Goodall et al., 1973;
+Pettet, 1975; Pickford, 1975; Benhar
+& Samuel, 1978; Oyen, 1979;
+Westergaard, 1992, 1993
+Papio Yellow Y Y N Y C Nellman & Trendelenburg, 1926
+cynocephalus baboon
+Papio Hamadryas N Y N Y C Beck, 1972, 1973a
+hamadryas baboon
+Papio papio Guinea baboon N Y N Y C C
+23 Beck, 1973b; Petit & Thierry, 1993
+Papio ursinus Chacma N N Y Y F C F Bolwig, 1961; Marais, 1969;
+baboon Hamilton III et al., 1975
+Pongo Orangutan N N Y Y F C, F C, F C, F F C, F F 17 Schaller, 1961; Ellis, 1975;
+pygmaeus Galdikas, 1982, 1989; Miller &
+Quiatt, 1983; Call & Tomasello, 1994;
+Rogers & Kaplan, 1994; O’Malley &
+McGrew, 2000; Peters, 2001;
+van Schaik & Knott, 2001; Fox &
+bin’Muhammad, 2002; van Schaik
+et al., 2003a, b; Fox et al., 2004;
+Nakamichi, 2004; Mulcahy &
+Call, 2006
+Presbytis Silvered leaf N N Y Y F Lydekker, 1910
+cristatus monkey
+Saguinus Moustached N N N N F
+18 Heymann, 1995
+mystax tamarin
+Saguinus Cottontop N Y N Y C C Hauser et al., 2002;
+oedipus tamarin Santos et al., 2006
+
+PDF PAGE 67
+Animal tool use catalog A30
+1 Dropped grains of sand directly on social halictine bee (Lasioglossum zephyrum) that was guarding an
+underground nest. Sand was used as weapon by the ants against the bees guarding the nest (elimination
+of foraging competition).
+2 Peel bark from branches that is then inserted into the nest as a perch.
+3 Placed the base of the upper mandible against a large rock, and kick gravel from beneath itself with its
+feet, moving the legs in rapid succession as if it were running, the bill being used as a brace.
+4 Caught small trout ( Salmo trutta) rubbed it wings with the ﬁsh, with a second ﬁsh preened neck and
+breast feathers, upper wing coverts and carpal areas.
+5 Covered stores of food with lichens and bits of bark.
+6 Used ‘bill-bracing technique’ for stealing a masked booby ( Sula dactylatra) egg. One individual used
+its bill as a lever shoving it under the egg and lifting, while another individual anchored its bill in the
+soft ground and then against a nearly stone and kicked the egg forcefully with both feet at the same time.
+Succeeded in moving an egg away from nest.
+7 Took food that had been placed out for stray cats and hid it under roof tiles for later consumption.
+8 Wring moss in beak to give chicks water.
+9 Used a feather loosened in the moulting process to apply secretion from uropygial gland to extended
+wing using sweeping motions.
+10 Used cup to bail water.
+11 Used 8 cm forked twig to remove snow from ground in order to search for insects.
+12 Carried a 6–7 inch feather to bird bath, immersed the feather, then swallowed it.
+13 Used pipe to bail water.
+14 Used small stones to right itself. Small stones were transferred to the posterior portion of the foot
+where they accumulated and allowed snail to right itself.
+15 2.5 year old deserted by mother attempted to cover the remains of a kill with bits of snow and ice.
+16 Used branch as walking stick to test water depth while crossing a pool. Also used detached branch as
+bridge to cross swamp. Threw grass/branch towards observers. Used logs as ladders.
+17 Used a branch as a hook to pull a distant branch closer. Made a protective pad of leaves to protect
+hands and feet from thorns of Erythrina sp. Used leaves to amplify vocalizations. Used tools for sexual
+stimulation.
+18 Wet hands and feet with urine. Concluded that urine washing was a means of improving grip.
+19 Used leaves of parasol tree (Musanga cecropioides) as a leaf cushion, as well as leaves of the carapa
+tree (Carapa procera).
+20 Used poles as ladders to escape from outdoor enclosure. Manufactured pitons from saplings to aid in
+escape from enclosure.
+21 Adult male used a twig (5 mm in diameter and 10 cm long) to extract and separate ‘bite sized’ stone
+fragments from a rock and clay matrix.
+22 Created swings in cage by hanging rope and hose on mesh and bars.
+23 Stones used as hammers to break cement.
+24 Used branch as ladder and another as a club.
+25 Used a piece of cloth to transport other objects.
+
+PDF PAGE 68
+A31 Bentley-Condit & Smith
+Appendix B: Databases consulted in compiling catalog
+Database Web address
+Biological Sciences http://csaweb103v.csa.com/factsheets/biolclust-set-c.php
+Biosis Previews http://library.dialog.com/bluesheets/html/bl0005.html
+EBSCO Host/Academic http://support.ebsco.com/help/index.php?help_id=DB: 687
+Search Premier
+Environmental Sciences http://csaweb105v.csa.com/factsheets/envclust-set-c.php?
+JSTOR http://www.jstor.org
+Medline http://www.oclc.org/us/en/support/documentation/
+ﬁrstsearch/databases/dbdetails/details/MEDLINE.htm
+Primate Lit http://primatelit.library.wisc.edu/
+PsycInfo http://csaweb105v.csa.com/factsheets/psycinfo-set-c.php?
+Science Direct http://www.sciencedirect.com/science/
+Searchable Ornithological http://elibrary.unm.edu/sora/
+Research Archive (SORA)
+Web of Science http://thomsonreuters.com/products_services/scientiﬁc/
+Web_of_Science
+Zoological Record Online http://library.dialog.com/bluesheets/html/bl0185.html
+
+PDF PAGE 69
+Animal tool use catalog A32
+Appendix C: Reviews consulted in compiling catalog
+Author (year) Citation
+Alcock, J. (1972) The evolution of the use of tools by feeding animals. — Evolution
+26: 464-473.
+Anderson, J.R. (2002) Gone ﬁshing: Tool use in animals. — Biologist 49: 15-18.
+Beck, B. (1980) Animal tool behaviour: The use and manufacture of tools by ani-
+mals. — Garland STPM Publishing, NY .
+Boswall, J. (1977b) Tool-using by birds and related behaviour I — Avic. Mag. 83:
+88-97.
+Boswall, J. (1977c) Tool-using by birds and related behaviour II — Avic. Mag. 83:
+146-159.
+Boswall, J. (1977d) Tool-using by birds and related behaviour III — Avic. Mag. 83:
+220-228.
+Boswall, J. (1978) Further notes on tool-using by birds and related behaviour. —
+Avic. Mag. 84: 162-166.
+Boswall, J. (1982) Tool-using and related behaviour in birds: More notes. — Avic.
+Mag. 89: 94-108.
+Boswall, J. (1983) Tool-using and related behaviour in birds: Yet more notes. —
+Avic. Mag. 89: 170-181.
+Chisholm, A.H. (1954) The use by birds of “tools” or “instruments”. — Ibis 96: 380-383.
+Hall, K.R.L. (1963) Tool-using performances as indicators of behavioural adaptabil-
+ity. — Curr. Anthropol. 4: 479-494.
+Lefebvre, L.,
+Nicolakakis, N. &
+Boire, D. (2002)
+Tools and brains in birds. — Behaviour 139: 939-973.
+Marler, P. (1996) Are primates smarter than birds? — In: Current ornithology,
+V ol. 13 (Nolan Jr., V . & Ketterson, E.D., eds). Plenum, New York,
+NY , p. 1-32.
+Morand-Ferron, J.,
+Lefebvre, L., Reader,
+S.M., Sol, D. &
+Elvin, S. (2004)
+Dunking behaviour in Carib grackles. — Anim. Behav. 68: 1267-
+1274.
+Panger, M.A. (2007) Tool use and cognition in primates. — In: Primates in perspec-
+tive (Campbell, C., Fuentes, A., MacKinnon, K., Panger, M. &
+Bearder, S., eds). Oxford University Press, New York, NY , p. 655-
+677.
+Pierce, J.D. (1986) A review of tool use in insects. — Fla. Entomol. 69: 95-104.
+Potter, E.F. (1970) Anting by wild birds, its frequency and probable purpose. — Auk
+87: 692-713.
+van Lawick-Goodall, J.
+(1970)
+Tool-using in primates and other vertebrates. — In: Advances in
+the study of behaviour, V ol. 3 (Lehrman, D.S., Hinde, R.A. &
+Shaw, E., eds). Academic Press, New York, NY , p. 195-249.
+Whitaker, L.M. (1957) A résumé of anting, with particular reference to a captive orchard
+oriole. — Wilson Bull. 69: 195-262.

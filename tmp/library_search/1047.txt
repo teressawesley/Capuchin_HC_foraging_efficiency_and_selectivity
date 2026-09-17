@@ -1,0 +1,865 @@
+PDF PAGE 1
+REPORT
+The ecology of tool-use in the woodpecker ﬁnch
+(Cactospiza pallida)
+Sabine Tebbich,1,2* Michael
+Taborsky,1,3 Birgit Fessl1
+and Michael Dvorak 4
+1Konrad Lorenz Institute
+for Comparative Ethology,
+Savoyenstr. 1a, A-1160 Vienna,
+Austria.
+2Max Planck Institute
+for Behavioural Physiology,
+D-82319 Seewiesen, Germany.
+3University of Bern, Zoological
+Institute, CH-3032
+Hinterkappelen, Switzerland.
+4BirdLife Austria, Museumsplatz
+1 = 10 = 8, A-1070 Wien, Austria.
+*Correspondence:
+Present address: Sabine Tebbich,
+University of Cambridge,
+Department of Experimental
+Psychology, Downing Street,
+Cambridge CB2 3EJ, UK
+E-mail: tebbich@ss20.
+mpi-seewiesen.mpg.de
+Abstract
+Insects, mammals and birds are known to use tools, but empirical evidence of the
+ecological importance of tool-use is scarce. Here, we present the ﬁrst ecological study of
+tool-use by a bird species. Woodpecker ﬁnches use twigs or cactus spines to pry
+arthropods out of tree-holes. We compared tool-use during wet and dry seasons in two
+different vegetation zones: the Arid Zone and the humid Scalesia Zone. In the Scalesia
+Zone, where food was abundant and easily accessible, woodpecker finches rarely used
+tools. In contrast, in the Arid Zone, where food was limited and hard to access, they
+obtained half of their prey using tools during the dry season. Tool-use enabled the birds
+to reach particularly large and otherwise inaccessible prey hidden in tree-holes. Our data
+suggest that tool-use in the woodpecker finch has evolved in response to the dry and
+unpredictable conditions in the coastal zone of the Gala ´pagos Islands.
+Keywords
+Darwin’s ﬁnches, tool-use, Cactospiza pallida.
+Ecology Letters (2002) 5: 656–664
+INTRODUCTION
+Tool-use is commonly attributed to humans and other
+primates. However, several bird species are also known to
+use tools habitually. Egyptian vultures ( Neophron percnopterus)
+are famous for dropping stones on ostrich eggs (Van
+Lawick-Goodall & Van Lawick-Goodall 1966), green-
+backed herons ( Butroides striatus ) use bait to catch fish
+(Walsh et al. 1985), satin bower birds (Ptilonorhynchus violaecus)
+use bark-wads to paint their bower (Chaffer 1945), and New
+Caledonian crows ( Corvus moneduloides ) make and use two
+forms of tools to capture prey (Hunt 1996). The wood-
+pecker ﬁnch ( Cactospiza pallida ), one of 15 species of
+Darwin’s Finches, is perhaps the most famous example of a
+tool-using bird. It uses twigs or cactus spines to pry
+arthropods from tree-holes and crevices (Eibl-Eibesfeldt
+1961; Eibl-Eibesfeldt & Sielman 1962).
+The advantage of using tools may seem evident, but
+empirical evidence is scarce. To date, the costs and beneﬁts
+of tool-use have been studied only in chimpanzees (Nishida
+& Hiraiwa 1982; Yamakoshi 1998). In our study we focused
+on two, not mutually exclusive, hypotheses.
+1 Tool-use may facilitate or be essential for gaining access
+to resources. Several authors have suggested that tool-use
+correlates with the necessity of extracting hidden food
+(Alcock 1972; Parker & Gibson 1977; Beck 1980). This may
+be especially important in habitats where food is scarce.
+Tool-use may compensate for a lack of morphological
+adaptations and enable animals to colonize habitats that
+would otherwise be unsuitable (Alcock 1972; Parker &
+Gibson 1977).
+2 The use of tools may quantitatively or qualitatively
+improve the diet. For example, by catching ants and
+termites with tools, chimpanzees gain qualitatively
+important nutrients such as lipids, essential amino acids
+and vitamins (e.g. Nishida & Hiraiwa 1982; Yamakoshi
+1998).
+We examined these hypotheses in the woodpecker ﬁnch
+by comparing different populations and seasons. We
+Ecology Letters, (2002) 5: 656–664
+/C2112002 Blackwell Science Ltd/CNRS
+
+
+PDF PAGE 2
+expected that structural and climatic differences impose
+different necessities and possibilities for tool-use. Firstly,
+plant communities on the Gala´pagos Islands vary markedly
+along an altitudinal gradient. Secondly, the climate is highly
+seasonal, with a wet period from January to May and a drier
+period for the rest of the year. We selected two vegetation
+zones that differ greatly with regard to structure and climate:
+(i) the Arid Zone near the coast, a semi-desert open-canopy
+forest and (ii) the evergreenScalesia Zone at higher elevations.
+Given that tool-use extends the potential foraging sites of
+woodpecker ﬁnches, we predicted that (i) tool use should
+give woodpecker ﬁnches access to signiﬁcant amounts of
+otherwise inaccessible prey. However, if the extraction of
+hidden prey is costly (e.g. due to handling time or search
+time) woodpecker ﬁnches should use tools only when more
+proﬁtable prey is lacking or scarce. If tool use is costly we
+predict that (ii) tools should be used more often in the food-
+limited Arid Zone than in the proliﬁc Scalesia Zone, and (iii)
+tools should be used more extensively during the dry season,
+when arthropod abundance is reduced, than during the wet
+season (Grant & Grant 1980; Boag & Grant 1984; Schluter
+& Grant 1984; Price 1985).
+MATERIALS AND METHODS
+Study area and study birds
+Data were collected on Santa Cruz Island in the Gala ´pagos
+archipelago during three ﬁeld seasons: December 1995 –
+April 1996, October 1996 – April 1997 and January –
+February 1998. The climate is unusually dry and seasonal for
+the tropics, with two main seasons, a warm and wet period
+from January – May and a dry and cool period for the
+remainder of the year. Additionally, the onset and amount of
+rainfall is highly variable between years (Grant & Boag
+1980). Total recorded rainfall during our three study periods
+for the wet season amounted to 118 mm in 1996, 893 mm
+in 1997, and 1654 mm in 1998 (an /C212El Nin˜o/C213event). For the
+dry seasons rainfall was 68 mm in 1996, 761 mm in 1997
+(/C212El Nin˜o/C213) and 98 mm in 1998. Darwin’s ﬁnches can
+experience extreme food shortages during dry years and a
+superabundance of prey during /C212El Nin˜o/C213events.
+Rainfall within the archipelago also varies locally and with
+altitude, thus creating distinct vegetation zones on the
+higher islands. Our study was conducted in two ﬂoristically
+and structurally very different areas: the Arid Zone extends
+from just inland of the coast up to an elevation of
+80–120 m. It is characterized by a semi-desert forest
+consisting of deciduous trees (mainly Bursera graveolens ),
+shrubs (e.g. Croton scouleri ) and cacti ( Opuntia spp. and
+Jasminocereus thouarsii ). The so-called Scalesia Zone is an
+evergreen, lush cloud forest on the slopes between 300 and
+650 m a.s.l., which is dominated by the tree-like composite
+Scalesia pedunculata . Tree-trunks and branches are densely
+covered with epiphytes, mostly mosses. During the wet
+season, the Scalesia forest receives strong rains, and during
+the dry season in the lowlands, it is almost continually
+covered by mist. Therefore conditions are wet throughout
+the year except in marked drought years.
+Woodpecker ﬁnches occur in all vegetation zones, but the
+highest densities (about 1.5 territories = ha in our study area)
+are reached in the Scalesia Zone. Woodpecker finches are
+much rarer in the Arid Zone, reaching densities of only one
+territory = 5 ha in our study area.
+For intensive foraging observations two sites were
+selected. In the Arid Zone we investigated an area of
+approximately 70 ha and in the Scalesia Zone an area of
+approximately 110 ha. Observations were taken mainly
+between 6.30 a.m. and 12.30 p.m.
+Field observations
+Woodpecker ﬁnches were located visually or by song. Focal
+observations were conducted with binoculars by continu-
+ously recording until the focal bird was lost from sight. Type
+and duration of foraging techniques, feeding substrates, and
+prey types obtained were recorded. Total observation times
+were 845 min in the Arid Zone and 430 min in the Scalesia
+Zone. Data in the Arid Zone were only collected from
+October 1996 to April 1997, but during three field periods
+from December 1995 to February 1998 in the Scalesia Zone.
+Because of the tameness of the birds, most observations
+were made from distances of less than 10 m, allowing
+identiﬁcation of prey items often to the level of order. Prey
+size was estimated in relation to the size of the beak. For the
+estimation of the caloric content, ﬁrst the dry weight of each
+prey was estimated from its estimated lengths using order-
+speciﬁc allometric equations (Dı ´az & Dı´az 1990), then the
+caloric content was calculated using data from the literature,
+again at order level (Singh 1973; Mathavan et al. 1976;
+Anderson 1978; Norberg 1978; Robel et al. 1995).
+Six different foraging techniques were classiﬁed:
+probe ¼ insertion of the beak into moss or curled leaves,
+chip off ¼ removal of bark by inserting the beak sideways
+under the bark and levering the bark forcefully, glean ¼ take
+prey from the surface of the substrate, peck ¼ forceful,
+vertical downward movement of head and beak onto bark,
+bite ¼ bite into petioles of leaves, tool-use ¼ hold a twig or
+cactus spine in the beak and insert it into an opening in the
+bark. Observations were recorded with a portable tape
+recorder and later transferred to a computer using an event
+recording program (/C212
+THE OBSERVER/C213, Noldus Laboratories).
+In the Arid Zone, four males were colour-banded.
+Additionally, three pairs were observed in the vicinity of
+their nests and therefore assumed to be the same individuals
+at repeated visits. Sex was distinguished by behavioural
+The ecology of tool-use 657
+/C2112002 Blackwell Science Ltd/CNRS
+ 14610248, 2002, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1461-0248.2002.00370.x by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+differences (song). Age (adult vs. juvenile) was determined
+from different beak coloration (black vs. pink). Intensive
+territory mapping from November 1996 to March 1997
+enabled us to identify 11 additional territorial males. In total,
+a minimum of 21 birds was recorded at the study site.
+In the Scalesia Zone, the birds were not individually
+recognized. To avoid observation biases, the observation
+effort was distributed equally over the whole area, and data
+were not collected at the same location more than once a
+day. Density estimates revealed that at least 143 territorial
+males were present at this study site (see below).
+Density estimates
+The breeding density in both zones was estimated based on
+standardized point counts (Buckland et al. 1993). From a
+ﬁxed point the observer recorded direction and distance
+between himself and a singing bird to the nearest 10 m
+within an unlimited radius. Each census lasted 5 min.
+Censuses were carried out during the wet season in January
+and February 1997, when woodpecker ﬁnches were terri-
+torial and singing activity was high. In the Scalesia Zone,
+counts were conducted twice at 17 locations and in the Arid
+Zone once at 21 locations. Results were analysed using the
+program
+DISTANCE, V.3.5 (Thomas 1998).
+Data analyses
+Comparison of ﬁrst foraging observations between seasons and zones
+Only the ﬁrst foraging observation (i.e. ﬁrst feeding
+technique and ﬁrst feeding substrate used after the
+detection of a bird) per day of each focal individual was
+included in the analyses to avoid data dependency (Wagner
+1981). In the Scalesia Zone, repeated observations of the
+same individual on different days cannot be excluded.
+Pooling data from different years may also result in an
+overestimation of the degrees of freedom in statistical tests.
+However, the pooled data set containing first foraging
+observations did not exceed the total number of birds
+present in the study area. In the Arid Zone, we used first
+foraging observations of the identified individuals present in
+the study area. An R · C table, an exact test of contingency
+(Fung & Lee 1989), was used to test the difference between
+wet and dry seasons in each zone and the difference
+between zones in each season.
+Analyses of tool-use behaviour
+Continuous focal samples of 21 individually recognized
+woodpecker ﬁnches from the Arid Zone were analysed.
+Tool-use was compared with other foraging techniques with
+regard to foraging time and success. Observations were
+included in the analysis only when the foraging time
+exceeded 3 min and the animal fed at least twice. The
+median number of continuous focal observations per
+individual was 3 (range: 1–7) and the average observation
+time was 11.1 min (range: 3.2–32.3 min). If an individual
+was observed more than once, the mean for these
+observations was calculated. Nine individuals were observed
+in both seasons. To avoid pseudo-replication, data from
+only one season were randomly selected for these individ-
+uals. A pair-wise comparison of the nine individuals
+observed in both seasons yielded qualitatively the same
+result (not presented here). For the calculation of the energy
+intake per time period we excluded observations in which
+less than 50% of the obtained prey was identiﬁed to order
+level. In the remaining observations foraging time for
+unidentiﬁed prey was not included. In the Scalesia Zone we
+estimated foraging success (prey items = min) with conven-
+tional feeding techniques by analysing 18 and 20 observa-
+tions from the dry and wet seasons, respectively, which
+fulfilled the criteria mentioned above. Energy intake per
+time was not calculated for the Scalesia Zone, because there
+a larger proportion of food was small, unidentified prey,
+which could have biased the results.
+Two-tailed, nonparametric statistical tests were used
+throughout this paper and we present mean ± standard
+deviations unless otherwise stated. U denotes a Mann–
+Whitney U-test.
+Food abundance
+The abundance of insects was measured for the six feeding
+substrates that seemed to be the most important for
+woodpecker ﬁnches: moss, the bark of dead wood and leaves
+in the Scalesia Zone; the bark of dead wood, lichens and leaves
+in the Arid Zone. The samples were collected both in the wet
+and the dry seasons with one exception. In the Scalesia Zone,
+quantitative data for the bark of dead wood are missing in the
+dry season because of the loss of data. Trees for sampling were
+randomly selected, by following a compass bearing for 120 s
+at a steady walk, starting from a counting point (see above, for
+sample sizes, see Table 1). Substrates were sampled in the
+following manner.
+Leaves. With an extendable pole, four leafy branches were
+ﬁrst covered with a gauze bag to prevent arthropods from
+escaping, and then cut with pruning shears ﬁxed to a second
+pole. Samples were then brieﬂy chilled to immobilize the
+arthropods. Subsequently, the leaves were placed on a white
+tray and all arthropods > 1 mm in length were noted. Leaves
+were assigned to three size categories: small, medium and
+large. In each category, the length and width of a subsample
+of 50 leaves were measured and surface areas calculated. We
+then counted the number of leaves in each category and
+thus calculated the total leaf area per sample.
+658 S. Tebbich et al.
+/C2112002 Blackwell Science Ltd/CNRS
+ 14610248, 2002, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1461-0248.2002.00370.x by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+Bark. Dead branches or trunks were selected randomly
+and their length and circumference were measured. The
+bark was carefully removed and all arthropods found
+underneath the bark, as well as those found in the tree-
+holes, were collected. Because insect abundance was very
+low in these substrates, data from tree-holes and bark
+were combined. The condition of the bark was classiﬁed
+as hard (removable only with a machete) or soft
+(removable by hand).
+Lichens. In the Arid Zone, randomly selected branches
+covered with lichens were cut using the same method as for
+leaves. The surface area of the branches covered by lichens
+was measured and all arthropods were collected.
+Moss. From randomly selected trees in the Scalesia Zone, we
+carefully removed an area of 20 · 50 cm of the moss that
+covered the trunk. All arthropods in and under the moss
+were collected.
+We identiﬁed the arthropods to order and measured
+their lengths (appendages excluded) to the nearest 0.1 mm
+under a 40 · dissecting microscope. The dry weight of
+each individual was estimated from these lengths using
+order-speciﬁc allometric equations (Dı ´az & Dı ´az 1990).
+Isopods and centipedes were excluded from the data
+analyses since they were never seen being eaten by
+woodpecker ﬁnches nor were they found in stomach
+analyses (Bowman 1961). Arthropod abundance is given
+as mg m
+/C02 of substrate.
+Abundance of substrates
+Dead wood. In each zone, 20 sample points were randomly
+selected (as described above) and the number of standing
+and lying trunks was counted within a radius of 5 m.
+Tree holes. On the same trunks sampled for arthropod
+abundance, tree-holes were counted and their number
+per m
+2 surface area was calculated.
+Moss. Moss was abundant in theScalesia Zone but absent from
+the Arid Zone, whereas the reverse was true for lichens.
+Leaves. Leaves were abundant in both seasons in the Scalesia
+Zone, whereas they were absent during the dry season in the
+Arid Zone.
+RESULTS
+Comparison of foraging substrates between zones
+and seasons
+Woodpecker ﬁnches used different foraging substrates
+between the two zones, as well as between wet and dry
+seasons in each zone (Fig. 1). Although dead wood was
+more abundant in the Scalesia Zone (median trunks per
+sample point ¼ 11, range 5–19, n ¼ 16) than in the Arid
+Zone ( U ¼ 42.5, median ¼ 3.5, range 0–11, n ¼ 20,
+P < 0.01), woodpecker finches used mainly moss in the
+Scalesia Zone and bark in the Arid Zone. In addition, bark
+was harder to remove in the Arid Zone (100% could be
+removed only with the machete, n ¼ 36) than in the Scalesia
+Zone (50% could be removed without a machete, n ¼ 24,
+Fisher exact test, P < 0.001).
+In the Scalesia Zone during the wet season, the main
+foraging substrate was moss, followed by bark and leaves. In
+the dry season, woodpecker finches searched even more in
+moss (Fig. 1). In the Arid Zone during the wet season,
+woodpecker ﬁnches used mainly bark, but also lichens,
+leaves, tree-holes and fruits. During the dry season, they
+used primarily bark, with tree-holes being the second most
+important source of food (Fig. 1). The latter substrate was
+very scarce in the Scalesia Zone (median tree hole density per
+m
+2 ¼ 0, range 0–13.3, n ¼ 26) compared with the Arid
+Zone ( U ¼ 268.0, median ¼ 0, range 0–63.9, n ¼ 36,
+P ¼ 0.004).
+Table 2 Frequency of tool-use and other ﬁrst foraging techniques
+in the Scalesia and the Arid Zone and in the dry and wet seasons
+Zone Season
+Percent
+tool-use
+Percent other
+techniques n
+Scalesia Wet 2.7 97.3 219
+Arid Wet 4.8 95.2 21
+Scalesia Dry 1.4 98.6 68
+Arid Dry 28.6 71.4 21
+Table 1 Food abundance in mg m /C02 on four substrates in the
+Arid and the Scalesia Zones in the wet and dry seasons
+Zone Season Substrate Median Min. Max. Quartiles n
+Scalesia
+Wet Bark 70.5 0 779.2 0–261.7 26
+Wet Moss 0 0 276.8 0–46.0 8
+Wet Leaves 8.1 3.6 21.3 6.35–13.8 10
+Dry Moss 90.5 0 222.8 0–202.1 8
+Dry Leaves 8.1 3.6 21.3 6.3–13.7 10
+Wet Bark 0 0 425.9 0–0 33
+Arid
+Wet Lichen 0 0 4358.1 0–0 27
+Wet Leaves 1.7 0.5 5.2 0.99–4.2 9
+Dry Bark 55.9 0 824.3 11.1–337.1 16
+Dry Lichen 0 0 121.1 0–0 17
+The ecology of tool-use 659
+/C2112002 Blackwell Science Ltd/CNRS
+ 14610248, 2002, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1461-0248.2002.00370.x by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+Food abundance
+In the Scalesia Zone, the abundance of suitable prey items
+did not differ significantly between substrates in the wet
+season (Kruskal–Wallis test, v2 ¼ 3.190, d.f. ¼ 2, P ¼ 0.2,
+Table 1) and in the dry season ( U ¼ 36.0, P ¼ 1.0). For the
+dry season we were not able to include the bark data into the
+statistical analysis, but arthropods were present and abun-
+dant. In the Arid Zone, the abundance of arthropods was
+very low on all substrates and it differed significantly
+between substrates in both seasons (Kruskal–Wallis test,
+v
+2 ¼ 22.788, P < 0.001, Table 1). In the wet season
+arthropod abundance was higher under the bark than on
+leaves and higher in lichens than on leaves (multiple
+comparisons (Siegel & Castellan 1988), P < 0.05). In the dry
+season arthropod abundance was higher under the bark than
+in lichens ( U ¼ 42.0, P < 0.001). Comparisons between
+zones indicate that food abundance was significantly higher
+in the Scalesia Zone than in the Arid Zone on all substrates
+(bark, wet season: U ¼ 241.0, P ¼ 0.001; moss vs. lichen
+wet season: U ¼ 77.5, P ¼ 0.049; moss vs. lichen, dry
+season: U ¼ 49.0, P ¼ 0.039; leaves wet season: U ¼ 3.0,
+P < 0.001, Table 1).
+Ecological correlates of tool-use
+1st prediction: tool use should give woodpecker ﬁnches access
+to signiﬁcant amounts of otherwise inaccessible prey
+In the Arid Zone, identiﬁed arthropod prey obtained using
+tools differed from prey types captured using other foraging
+techniques (R · C-test, P < 0.001, Fig. 2). Three prey types
+that are particularly rich in proteins and fat (spiders, egg
+sacks of spiders and Orthoptera) were captured only with
+the help of tools, whereas ants and adult Coleoptera were
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Scalesia Zone/wet season Scalesia Zone/dry season Arid Zone/wet season Arid Zone/dry season
+Zone/season
+Substrate use
+Holes
+Bark
+Dead leaf
+Leaf
+Moss/lichen
+Fruit
+Figure 1 Percentages of substrates used in
+ﬁrst foraging observations in the Scalesia
+Zone in the dry ( n ¼ 68) and wet season
+(n ¼ 218) and in the Arid Zone in the dry
+(n ¼ 21) and the wet season ( n ¼ 21).
+Woodpecker finches used different foraging
+substrates in the two zones (R · C-test, wet
+season: P < 0.001; dry season: P < 0.001)
+and in each zone during wet and dry seasons
+(Scalesia Zone: P < 0.001, Arid Zone:
+P ¼ 0.001).
+0
+10
+20
+30
+40
+50
+60
+Coleoptera
+larvae
+Lepidoptera
+larvae
+Coleoptera Orthoptera Ants Spiders Egg sacks Other insects
+Prey type
+Proportion of prey (%)
+With tool-use
+Without tool-use
+Figure 2 Percentages of prey types obtained
+with (n ¼ 37) and without tool-use ( n ¼ 63)
+during continuous focal observations.
+660 S. Tebbich et al.
+/C2112002 Blackwell Science Ltd/CNRS
+ 14610248, 2002, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1461-0248.2002.00370.x by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+only obtained using other foraging techniques. During the
+dry season woodpecker ﬁnches obtained 50% of their prey
+with the help of tools (Fig. 3).
+Is tool use more costly than other foraging techniques?
+The median duration of prey extraction, excluding search
+time, was signiﬁcantly longer when using tools (40 s, range
+4–280, n ¼ 24) than the equivalent time span using conven-
+tional foraging techniques ( U ¼ 136, median ¼ 7 s, range
+1–87; n ¼ 38, P < 0.001). These conventional foraging
+techniques were performed at a higher rate (median rate per
+min ¼ 6.9, range 2–18, n ¼ 16) than tool-use (Wilcoxon
+Matched Pairs Signed Ranks Test, median ¼ 0.45, range
+0–1.79, Z ¼/C04.015, n ¼ 16, P < 0.001). These data suggest
+greater foraging costs when using tools, which was a
+precondition for our 2nd and 3rd predictions.
+2nd prediction: tools should be used more often in the Arid Zone
+than in the Scalesia Zone
+Woodpecker ﬁnches used different foraging techniques in the
+two vegetation zones in both seasons (R · C-test, wet season
+P < 0.001, dry season P < 0.001, Fig. 4). Probing into soft
+substrate was the most commonly used feeding technique in
+the Scalesia Zone, whereas pecking on the bark or chipping off
+soft bark was most common in the Arid Zone.
+As predicted, woodpecker ﬁnches used tools signiﬁ-
+cantly more often in the Arid Zone than in the Scalesia
+Zone, but significantly so only in the dry season (Fisher
+exact test, dry season P < 0.001, wet season P ¼ 0.4,
+Table 2).
+During 430 min of continuous focal observations in the
+Scalesia Zone (both seasons combined), tool-use was only
+seen six times. In the Arid Zone, however, we observed
+0
+10
+20
+30
+40
+50
+60
+Season
+Percentage
+Time spent with tooluse
+Prey obtained with
+tooluse
+DryWet
+Figure 3 Percentage of the total foraging
+time spent with tool-use and of the total
+prey obtained with tool-use in the wet and
+dry season in the Arid Zone. Median and
+percentiles of nine (wet season) and 16 (dry
+season) individuals are given.
+0%
+10%
+20%
+30%
+40%
+50%
+60%
+70%
+80%
+90%
+100%
+Scalesia Zone/wet season Scalesia Zone/dry season Arid Zone/wet season Arid Zone/dry season
+Zone/season
+First foraging techniques
+Tool use
+Chipoff
+Remove
+Probe
+Bite
+Peck
+Glean
+Collect
+Figure 4 Percentages of feeding techniques
+used in ﬁrst foraging observations in the
+Scalesia and Arid Zone in the dry and wet
+season (for samples sizes, see Fig. 1: for
+description of feeding techniques, see Meth-
+ods).
+The ecology of tool-use 661
+/C2112002 Blackwell Science Ltd/CNRS
+ 14610248, 2002, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1461-0248.2002.00370.x by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+tool-use 134 times during 845 min. In this habitat, 20 of the
+21 individually recognized woodpecker finches used tools.
+3rd prediction: tools should be employed more extensively during
+the dry than during the wet season
+In the Arid Zone, ﬁrst foraging observations showed that
+woodpecker ﬁnches used tools more often in the dry
+season, though not signiﬁcantly so (Fisher exact test,
+P ¼ 0.09, Table 2). However analysis of the continuous
+focal observations revealed that woodpecker ﬁnches spent
+signiﬁcantly more time using tools ( U ¼ 28.5, P < 0.05,
+Fig. 3) and obtained a larger proportion of their prey items
+with the help of tools (U ¼ 20, P < 0.005, Fig. 3) in the dry
+season than in the wet season. In the Scalesia Zone, the
+frequency of tool-use did not differ between wet and dry
+seasons (Fisher exact test, P ¼ 0.4, Table 2).
+Is proﬁtability higher when using tools?
+In the Arid Zone during the dry season, arthropods
+obtained using tools were signiﬁcantly larger and contained
+more energy than those obtained using other feeding
+techniques (size: U ¼ 326, P ¼ 0.029, estimated caloric
+value: U ¼ 137.5, P ¼ 0.008, Table 3). Thus, although
+foraging success measured as prey items per time was similar
+with tool-use and conventional feeding techniques (Wilcoxon
+Matched Pairs Signed Ranks Test, Z ¼/C01.344, P ¼ 0.25,
+Table 3), energy intake per time was higher when using
+tools ( Z ¼/C01.60, P ¼ 0.05, Table 3). During the wet
+season in the Arid Zone and during both seasons in the
+Scalesia Zone, tool-use was observed too rarely to compare
+its success with that of conventional feeding techniques.
+However, we found that in the Arid zone, profitability of
+using conventional foraging techniques was much higher in
+the wet season than in the dry season (prey items per time:
+U ¼ 182.0, P ¼ 0.004, energy intake per time U ¼ 4.0,
+P ¼ 0.003, Table 3), and it did not differ from the
+proﬁtability obtained with tool-use during the dry season. In
+contrast, in the Scalesia Zone foraging success with conven-
+tional feeding techniques did not differ between seasons
+(U ¼ 160.0, P ¼ 0.57, Table 3), and it was higher there than
+in the Arid Zone during the dry season ( U ¼ 251.0, median
+both season combined ¼ 0.41 prey items = min, range ¼
+0.07–2.07, P < 0.001). Prey obtained with conventional
+feeding techniques did not differ significantly in size
+(Kruskal–Wallis Test, P ¼ 0.62) and caloric value (Kruskal–
+Wallis Test, P ¼ 0.44, Table 3) between zones and seasons.
+DISCUSSION
+Tool-use extends the feeding range of woodpecker ﬁnches
+and allows them to collect arthropods from tree-holes that
+would otherwise be inaccessible. During the dry season in
+the Arid zone, bark is the main feeding substrate available,
+since leaves are absent and the food abundance in lichens is
+extremely low. Woodpecker ﬁnches rely almost exclusively
+on the extraction of food from bark and tree-holes and
+spend a greater proportion of time using tools and acquire a
+greater proportion of food with this technique than
+chimpanzees or any other animal hitherto studied. (Nishida
+& Hiraiwa 1982; McGrew 1992; Boesch et al. 1994;
+Yamakoshi 1998).
+Our data reveal that tool use is costly, as it takes more
+time to acquire prey with it than with other foraging
+techniques. However, during the dry season in the Arid
+Zone, tool use is more proﬁtable than using conventional
+feeding techniques. Even though the foraging success per
+minute foraging time was similar with the different feeding
+techniques, the prey obtained with tools was signiﬁcantly
+larger and contained more energy.
+As expected, in the Arid zone woodpecker ﬁnches spent
+less time using tools in the wet season than in the dry
+season. Foraging success with conventional feeding tech-
+Table 3 Comparison of tool use vs. conventional foraging techniques in Arid and Scalesia zone during the wet and dry seasons. Parameters
+shown are prey size, energy content of prey obtained, foraging success and energy intake. Medians and ranges are given
+Zone Season
+Foraging
+technique
+Prey
+size (mm)
+Energy
+content (Cal = mg)
+Foraging
+success (prey = min)
+Energy
+intake (Cal = min)
+Arid Dry Tool-use 12 (4–36)
+n ¼ 33
+134 (6–1004)
+n ¼ 19
+0.3 (0–1.1)
+n ¼ 16
+53 (0–281)
+n ¼ 10
+Convent. 7 (4–30)
+n ¼ 29
+29 (5–181)
+n ¼ 27
+0.1 (0–1.0)
+n ¼ 16
+2 (0–23)
+n ¼ 10
+Arid Wet Convent. 15 (3–30)
+n ¼ 27
+43 (2–134)
+n ¼ 27
+0.4 (0.1–1.4)
+n ¼ 10
+31 (6–50)
+n ¼ 6
+Scalesia Dry Convent. 12 (3–31)
+n ¼ 13
+29 (2–668)
+n ¼ 13
+0.4 (0.1–2.1)
+n ¼ 18
+Scalesia Wet Convent. 20 (12–24)
+n ¼ 7
+68 (29–378)
+n ¼ 7
+0.5 (0.2–0.9)
+n ¼ 20
+662 S. Tebbich et al.
+/C2112002 Blackwell Science Ltd/CNRS
+ 14610248, 2002, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1461-0248.2002.00370.x by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+niques was much higher during the wet season, probably
+because woodpecker ﬁnches found prey also on leaves and
+in lichens. The higher foraging success seems to outweigh
+the advantage of ﬁnding larger prey with tools, since the
+estimated energy gains per time were similar with both
+feeding techniques in the wet season.
+In the Scalesia Zone woodpecker finches hardly ever used
+tools. Two factors may account for this: (i) as in the Arid
+Zone during the wet season, the abundance of surface prey
+or prey in soft substrate is sufficient and therefore foraging
+success = time with conventional feeding techniques is high;
+(ii) tree-hole density is significantly lower in the Scalesia than
+in the Arid Zone. This relative scarcity could increase search
+time for tree holes, thereby making tool-use less profitable.
+In general, our comparison of feeding techniques
+between habitats and seasons indicates that tools are only
+employed when and where foraging proﬁtability is higher
+than that attained with alternative foraging techniques. It is
+unlikely that local differences in tool-use frequency are a
+consequence of variable cultural tradition, as shown in
+chimpanzees (e.g. Whiten et al. 1999), since social learning is
+not an important mechanism in the acquisition of tool-use
+in the woodpecker ﬁnch (Tebbich et al. 2001).
+There are two shortcomings with our data set. Firstly,
+because of the very low frequency of tool use, our data set
+did not sufﬁce to allow for a direct comparison of
+proﬁtability between tool use and other foraging techniques
+in the Arid Zone during the wet season, and in the Scalesia
+Zone. Secondly, data in the Arid Zone were only collected
+during one field season as opposed to three field seasons for
+the Scalesia Zone. Thus, the high frequency of tool-use in the
+Arid Zone might have been the consequence of an
+exceptional year. However, this is not very likely as rainfall
+was average in 1996 (Grant 1986), and we observed frequent
+tool use during occasional checks in the Arid Zone also in
+another year (October = November 2001).
+The Arid Zone is a suboptimal habitat for woodpecker
+ﬁnches, as is reﬂected by their low population density with
+only 0.2 singing males per ha as opposed to 1.5 males in the
+Scalesia Zone. On islands where dispersal possibilities are
+limited, special feeding skills may be selected for as they may
+allow the colonization of poor habitats and survival during
+food shortages. Grant & Grant (1989) showed that cactus
+ﬁnches (Geospiza scandens) that developed dry-season feeding
+skills (bark stripping, cactus-pad ripping) survived better in
+times of food shortage than individuals without these
+abilities. Since 18 of 19 repeatedly observed woodpecker
+finches in the Arid Zone used tools, we could not quantify
+the adaptive value of this feeding technique. However,
+woodpecker finches in this zone caught half of their prey
+with the help of tool-use during the dry season, and
+therefore, this feeding technique contributed significantly to
+their dietary subsistence.
+Irregular, severe droughts occur frequently on the
+Gala´pagos Islands and are a strong selective force acting
+on Darwin’s ﬁnches (Grant 1986). This may explain why
+Darwin’s ﬁnches are a group with an exceptionally high rate
+of unusual feeding techniques (Grant 1986). Our study
+suggests that tool-use in the woodpecker ﬁnch is a special
+adaptation to harsh conditions in suboptimal habitats,
+speciﬁcally the unpredictable and food-limited environment
+in the arid coastal areas of the Gala ´pagos Islands.
+ACKNOWLEDGEMENTS
+We thank the Gala´pagos National Park Service, the Charles
+Darwin Research Station, TAME and especially W. Wickler
+for enabling this study; L. Vivanco for data collection and
+D. Blomqvist, B. McGrew, B. Kempenaers for advice on the
+manuscript. We also thank two anonymous referees and the
+editor for their constructive comments. The project was
+ﬁnanced by the MPI Seewiesen and KLIVV.
+REFERENCES
+Alcock, J. (1972). The evolution of the use of tools by feeding
+animals. Evolution, 26, 464–773.
+Anderson, J.F. (1978). Energy content of spider eggs. Oecologia, 37,
+41–57.
+Beck, B. (1980). Animal Tool Behavior: The Use and Manufacture of Tools
+by Animals. Garland STPM Press, New York.
+Boag, P.T. & Grant, P.R. (1984). Darwin’s ﬁnches ( Geospiza)o n
+Isla Daphne Major, Galapagos: breeding and feeding ecology in
+a climatically variable environment. Ecol. Monogr., 54, 463–489.
+Boesch, C., Marchesi, P., Marchesi, N., Fruth, B. & Joulian, F.
+(1994). Is nut cracking in wild chimpanzees a cultural behaviour?
+J. Hum. Evol. , 26, 325–338.
+Bowman, R.I. (1961). Morphological differentiation and adaptation
+in the Gala´pagos ﬁnches. Univ.. Calif. Publ. Zool. , 58, 1–302.
+Buckland, S.T., Anderson, D.R., Burnham, K.P. & Laake, J.L.
+(1993). Estimating Abundance of Biological Populations . Chapman &
+Hall, London.
+Chaffer, N. (1945). The Spotted and Satin Bower-birds: A com-
+parison. Emu, XLIV, 161–181.
+Dı´az, J.A. & Dı´az, M. (1990). Estimas de taman ˜os y biomasas de
+artro´podos aplicables al estudio de la alimentacio ´n de vertebra-
+dos insectı´voros. Donana, Acta Vertebrata , 17, 67–74.
+Eibl-Eibesfeldt, I. (1961). U ¨ ber den Werkzeuggebrauch des
+Spechtﬁnken Camarhynchus pallidus (Scalter und Salvin). Z. f.
+Tierpsychol., 18, 343–346.
+Eibl-Eibesfeldt, I. & Sielman, H. (1962). Beobachtungen am
+Spechtﬁnken Cactospiza pallida (Scalter und Salvin). J. Orn., 103,
+92–101.
+Fung, K.P. & Lee, J. (1989). Extensions of Fisher Exact Test to
+2-by-K Contingency Tables — A Computer Program in Basic.
+Biomedicine, 28, 195–196.
+Grant, P.R. (1986). Ecology and Evolution of Darwin’s Finches .
+Princeton University Press, Princeton, NJ.
+Grant, P.R. & Boag, P.T. (1980). Rainfall on the Gala´pagos and the
+demography of Darwin’s ﬁnches. Auk, 97, 227–244.
+The ecology of tool-use 663
+/C2112002 Blackwell Science Ltd/CNRS
+ 14610248, 2002, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1461-0248.2002.00370.x by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+Grant, P.R. & Grant, R.B. (1980). The breeding and feeding
+characteristics of Darwin’s ﬁnches on Isla Genovesa, Gala´pagos.
+Ecol. Monogr., 50, 381–410.
+Grant, R.B. & Grant, P.R. (1989). Evolutionary Dynamics of a Natural
+Population. University of Chicago Press, Chicago, IL.
+Hunt, G.R. (1996). Manufacture and use of hook-tools by Cale-
+donian crows. Nature, 379, 249–251.
+Mathavan, T.J., Pandian, M. & Jaya, M. (1976). Use of feeding rate
+as an indicator of caloric value in some Lepidopterous larvae.
+Oecologia, 24, 91–94.
+McGrew, W.C. (1992). Chimpanzee Material Culture: Implications for
+Human Evolution. Cambridge University Press, Cambridge.
+Nishida, T. & Hiraiwa, M. (1982). Natural history of a tool-using
+behavior by wild chimpanzees in feeding upon wood-boring
+ants. J. Hum. Evol. , 11, 73–99.
+Norberg, A.R. (1978). Energy content of some spiders and insects
+on branches of spruce ( Picea abies ) in winter; prey of certain
+passerine birds. Oikos, 31, 222–229.
+Parker, S.T. & Gibson, K.R. (1977). Object manipulation, tool use
+and sensomotor intelligence as feeding adaptations in cebus
+monkeys and great apes. J. Hum. Evol. , 6, 623–641.
+Price, T. (1985). Reproductive responses to varying food supply in
+a population of Darwin’s ﬁnches: Clutch size, growth rates and
+hatching synchrony. Oecologia, 66, 411–416.
+Robel, J.R., Press, B.M., Blake, H.L. & Johnson, K.W. (1995).
+Nutrient and energetic characteristics of sweepnet-collected
+invertebrates. J. Field Ornithol. , 66, 44–55.
+Schluter, D. & Grant, P.R. (1984). Ecological correlates of mor-
+phological evolution in a Darwin’s ﬁnch, Geospiza difficilis .
+Evolution, 38, 856–869.
+Siegel, S. & Castellan, J. (1988). Nonparametric Statistics for the
+Behavioural Sciences, 2nd edn. McGraw-Hill, New York.
+Singh, J.S. & Yadva, P.S. (1973). Caloric values of plant and insect
+species of a tropical grassland. Oikos, 24, 186–194.
+Tebbich, S., Taborsky, M., Fessl, B. & Blomqvist, D. (2001). Do
+woodpecker ﬁnches acquire tool-use by social learning? Proc.
+Royal Soc. Lond. B , 268, 2189–2193.
+Thomas, L. (1998). Distance. Research Unit for Wildlife Population
+Assessment, University of St. Andrews, St. Andrews, U.K.
+Van Lawick-Goodall, J. & Van Lawick-Goodall, H. (1966). Use of
+tools by the Egyptian vulture, Neophron percnopterus. Nature, 212,
+1468–1469.
+Wagner, J.L. (1981). Visibility and bias in avian foraging data.
+Condor, 83, 263–264.
+Walsh, J.F., Grunewald, J. & Grunewald, B. (1985). Green-backed
+Herons ( Butroides striatus ) possibly using a lure and using
+apparent bait. J. Ornithol., 126, 439–442.
+Whiten, A., Goodall, J., McGrew, W.C., Nishida, T. & Reynolds, V.
+(1999). Culture in chimpanzees. Nature, 399, 682–685.
+Yamakoshi, G. (1998). Dietary responses to fruit scarcity of wild
+chimpanzees at Bossou, Guinea: possible implications for
+ecological importance of tool use. Am. J. Phys. Anthropol. , 106,
+283–295.
+Editor, N. Perrin
+Manuscript received 24 April 2002
+First decision made 29 May 2002
+Manuscript accepted 4 July 2002
+664 S. Tebbich et al.
+/C2112002 Blackwell Science Ltd/CNRS
+ 14610248, 2002, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1046/j.1461-0248.2002.00370.x by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [26/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

@@ -1,0 +1,1253 @@
+PDF PAGE 1
+Dietary Responses to Fruit Scarcity of Wild Chimpanzees
+at Bossou, Guinea: Possible Implications for Ecological
+Importance of Tool Use
+GEN YAMAKOSHI*
+Primate Research Institute, Kyoto University, Kanrin, Inuyama,
+Aichi 484–8506, Japan
+KEY WORDS seasonality; feeding ecology; keystone resources; oil
+palm; nut-cracking
+ABSTRACT A 13-month ecological study was conducted at Bossou, Guinea,
+West Africa, to elucidate how a community of wild chimpanzees ( Pan
+troglodytes verus ) deals with the scarcity of main foods. During the study
+period, fruit availability ﬂuctuated radically. The chimpanzees were con-
+ﬁrmed to depend heavily on three ‘‘keystone resources’’ which were available
+when their main foods (fruit pulp) were scarce. These were fruits ofMusanga
+cecropioides, oil-palm (Elaeis guineensis) nuts, and oil-palm pith. These are
+abundant in the chimpanzees’ home range and their nutritional contents
+compensate for a decrease in nutritional intake from fruit pulp. The presence
+of these excellent backup foods may explain the high reproductive perfor-
+mance of Bossou chimpanzees. Here, chimpanzees consumed two of the three
+keystone foods using two types of tool behavior: nut-cracking for oil-palm nuts
+and pestle-pounding for oil-palm pith. These tool-using behaviors accounted
+for 31.9% of the total feeding time spent in June (the month in which the
+highest frequency occurred) and 10.4% in total for the year. It is suggested
+that the Bossou chimpanzees depend strongly on tools for their subsistence.
+This implies a possible function for tool technology in the evolution of our
+human ancestors. Am J Phys Anthropol 106:283–295, 1998.
+r 1998 Wiley-Liss, Inc.
+Fruit production in the tropical forest has
+been conﬁrmed to be highly seasonal (e.g.,
+Frankie et al., 1974; Sabatier, 1985; van
+Schaik et al., 1993), and frugivorous ani-
+mals must face the season of fruit scarcity.
+Expansion of home ranges is a common
+solution to scarcity employed by migratory
+(e.g., birds; Karr, 1976) or wide-ranging spe-
+cies (e.g., orangutan; MacKinnon, 1974;
+Leighton and Leighton, 1983). For frugivo-
+res which have a more ﬁxed home range,
+switching to less preferred foods is common
+(Leighton and Leighton, 1983). Such ‘‘key-
+stone plant resources’’ or ‘‘keystone mutual-
+ists’’ have been deﬁned as being abundant
+and consumed in quantities that compen-
+sate for the seasonal scarcity of the animals’
+main foods (Gilbert, 1980; Terborgh, 1986).
+These keystone resources are thought to be
+crucially important for survival of the con-
+sumer community because the carrying ca-
+pacity of the forest may depend heavily on
+these resources.
+Many ﬁg (Ficus) species have individually
+irregular fruiting patterns (Janzen, 1979)
+and are important keystone resources espe-
+Contract grant sponsor: Monbusho International Scientiﬁc
+Research Program; contract grant number: 07041135.
+*Correspondence to: Gen Yamakoshi, Laboratory of Human Evolu-
+tion Studies, Department of Zoology, Faculty of Science, Kyoto
+University, Kitashirakawa-Oiwakecho, Sakyo-Ku, Kyoto 606-8502,
+Japan. Fax: 81 75 753 4115. E-mail: yamakosh@jinrui.zool.kyoto-
+u.ac.jp
+Received 5 March 1997; accepted 8 April 1998.
+AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY 106:283–295 (1998)
+r 1998 WILEY-LISS, INC.
+
+PDF PAGE 2
+cially in the neotropics (Terborgh, 1986).
+Palms are also important, producing long-
+lasting but protected nuts (Terborgh, 1983;
+Tutin et al., 1991). To exploit these keystone
+resources, each animal species needs species-
+speciﬁc adaptations (Terborgh, 1983). There-
+fore, niche separation among sympatric
+species becomes more distinct in a resource-
+scarce season (Gautier-Hion and Gautier,
+1979; Tutin et al., 1991). Demonstration of
+how one species copes with fruit scarcity, in
+comparison with other closely related spe-
+cies (Wrangham, 1986) or sympatric species
+(Tutin et al., 1991; Yamagiwa et al., 1996;
+Kuroda et al., 1996), may explain the evolu-
+tion of different characteristics in these spe-
+cies (Hladik, 1988).
+Wild chimpanzees ( Pan troglodytes ) are
+omnivorous, but in almost all populations
+studied (e.g., Goodall, 1986) depend primar-
+ily on fruits. Several changes in behavior
+according to fruit availability have been
+observed. Party (or subgroup) sizes decrease
+when fruits are scarce (Wrangham et al.,
+1992) to reduce feeding competition between
+group members (Wrangham, 1977; Isabirye-
+Basuta, 1988) and male ranging area be-
+comes smaller when food resources are scarce
+(Wrangham, 1977). Diet diversity tends not
+to correlate signiﬁcantly with fruit scarcity
+(Tutin et al., 1991; Kuroda et al., 1996), but
+in Kibale, Uganda, the diversity of plant
+food increases when fruits are scarce (Isa-
+birye-Basuta, 1989). With respect to dietary
+switches, consumption of leaves (Nishida,
+1974), terrestrial herbaceous vegetation
+(THV) (cf. Wrangham, 1986) pith (Tutin et
+al., 1991; Wrangham et al., 1996), bark
+(Nishida, 1976), oil-palm fruit ( Elaeis
+guineensis) and Duboscia macrocarpa fruit
+(Tutin et al., 1991, 1997; Kuroda et al.,
+1996), and ﬁg fruit (Kuroda et al., 1996;
+Wrangham et al., 1996) is increased to com-
+pensate for scarcity of major fruits. Nutri-
+tional intake from animal meat obtained by
+hunting and from insects by tool-using be-
+havior has been regarded as trivial in quan-
+tity (Teleki, 1973; Stanford et al., 1994).
+At Bossou, Guinea, a community of wild
+chimpanzees (Pan troglodytes verus) lives in
+a very small and semi-isolated habitat. Their
+area covers only about 5 km
+2. In addition,
+the forest is separated from the adjacent
+Nimba Mountains by human activity (Sugi-
+yama, 1991). Thus, Bossou chimpanzees
+have neither a large enough home range nor
+refuge outside their home range (but see
+Sugiyama et al., 1993; Matsuzawa and Yama-
+koshi, 1996). A sharp expansion of the home
+range appears unlikely to be an effective
+response to fruit scarcity for Bossou chim-
+panzees.
+Under such conditions at Bossou, sea-
+sonal dietary change is expected to occur.
+The feeding repertoire of Bossou chimpan-
+zees has been described in detail (Sugiyama
+and Koman, 1987, 1992). They consume a
+variety of vegetable foods such as the fruit
+pulp of many species, including ﬁgs, in addi-
+tion to leaves, pith, bark, and resin among
+others. Consumption of animal matter has
+also been reported (including hunting of
+mammals and birds, and tool-using to ac-
+quire social insects), although it is infre-
+quent. However, the seasonality of the pro-
+portion of these different food types is
+unknown.
+This study aims to describe the dietary
+adaptations of Bossou chimpanzees to sea-
+sonal change in fruit availability, and to
+discuss the implications of some characteris-
+tic chimpanzee behaviors, such as tool use
+for their subsistence.
+MATERIALS AND METHODS
+Subjects
+The subjects of this study were a commu-
+nity of wild chimpanzees at Bossou, on the
+southeastern edge of the Republic of Guinea,
+West Africa, 7°398 N and 8°308 W. A prelimi-
+nary study was ﬁrst conducted at Bossou in
+the 1960s (Albrecht and Dunnett, 1971).
+Since 1976, this group has been habituated
+to observers without provisioning, and has
+been studied intensively. All the individuals
+are well identiﬁed. Group size was 18 and no
+immigration or emigration was recorded dur-
+ing the 1995 study period. Dense foilage has
+made it quite difficult to observe detailed
+behavior of chimpanzees on the ground (e.g.,
+nut-cracking behavior; Yamakoshi and Sugi-
+yama, 1995). Habituation progressed rap-
+idly just before and during this study period.
+The chimpanzees had become tolerant of
+closely located researchers (2–5 m away)
+even if they were on the ground in the bush,
+284 G. YAMAKOSHI
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+although most observations were done from
+more than 10 m away. For this reason,
+underestimation of behaviors occurring on
+the ground is becoming more negligible. In
+some experimental studies (for details see
+Matsuzawa, 1994), small amounts of fruit
+and/or nuts were given to the chimpanzees.
+In the period of this study, experimental
+investigation overlapped with mine for 8
+days, from late January to early February in
+1995. The amount of provisioned foods was
+reduced to a minimum (1–2 bananas/day/
+party).
+Environment
+The home range of the Bossou chimpan-
+zees, about 15 km
+2, including its rarely used
+periphery (Yokota, personal communica-
+tion), is a mosaic of primary, secondary, and
+scrub forest, as well as farmland. Primary
+forest covers only about 1 km
+2 and the most
+frequently used area is approximately 5
+km
+2. Surrounded by savanna vegetation,
+the Bossou chimpanzees’ home range is sepa-
+rated from the large forest of the Nimba
+Mountains where adjacent groups of chim-
+panzees are known to exist (Marchesi et al.,
+1995). The climate is characterized by a
+distinct rainy season (March–October) and
+dry season (November–February) (Fig. 1).
+The monthly rainfall during the study pe-
+riod was measured at our ﬁeld station lo-
+cated on the edge of the chimpanzees’ core
+area. Total rainfall in 1995 was 2,230 mm.
+Data collection
+Direct behavioral observations were con-
+ducted from December 1994 to January 1996
+(13 months). For simplicity, only the data in
+1995 are used for the following analyses.
+The author used the focal animal sampling
+method (Altmann, 1974). A target chimpan-
+zee was observed for 10 min at a time, and
+the next target was chosen randomly from
+other nearby animals. This method was
+used to minimize disturbance from indi-
+vidual differences and distribute observa-
+tion time evenly across animals. Infants
+younger than 4 years (6 animals) were ex-
+cluded. The remaining 12 target animals
+consisted of 2 adult males, 7 adult females, 2
+juvenile males, and 1 juvenile female. The
+name of the target animal, feeding time,
+species and parts eaten, diameter at breast
+height (DBH) of the tree eaten, and location
+of feeding site were recorded. Direct observa-
+tion hours per month were distributed rather
+equally [mean hours per month: 74.5
+(SD 5 15.5), range: 53.6–98.4, N 5 12
+months, January–December 1995].
+Five hundred target trees of 31 main fruit
+food species were selected randomly along
+observation routes. In principle, 20 trees for
+each species were selected except for rare
+species. Fruit availability of each tree was
+estimated twice a month by the author using
+a score of 0–4 by eye measurement. I fol-
+lowed the sampling design (number of tar-
+get trees, sampling frequency, and sampling
+method) recommended by a methodological
+article (Chapman et al., 1994), so as to
+facilitate direct comparison between study
+sites. In addition, abundance of oil-palm
+nuts for nut-cracking behavior was esti-
+mated. After fruiting, the fruit bunch of the
+oil palm decomposes, breaks down into single
+nuts, and falls down to the ground. Esti-
+mates of the abundance of intact nuts scat-
+tered on the ground under each palm tree
+within a radius o f 2 m from the base of the
+trunk were obtained by visual inspection,
+and abundance was scored over a 0–4 range.
+For data analysis, I selected the 20 highest-
+ranking tree species (including oil-palm ker-
+nel, Table 1) a posteriori from the ranked
+array of annual total time spent feeding on
+each food item because some target species
+had not been consumed at all during the
+study period. Thus, the phenological scores
+of 300 trees (19 fruit species, other than
+oil-palm kernels) were actually used.
+Monthly fruit availability was represented
+by the sum of the number of fruiting trees
+(score .1) of each species in each month. A
+Fig. 1. Monthly rainfall at Bossou in 1995.
+285WILD CHIMPANZEES’ RESPONSES TO FRUIT SCARCITY
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+monthly number is an average of 2 census
+days each month. As a consequence, 78.0%
+of the total time spent feeding on fruit pulp
+(47.3% of total time spent feeding) was
+devoted to the 19 species used in the analy-
+sis.
+RESULTS
+Seasonality in fruit availability
+Phenological data show a strong seasonal-
+ity in fruit availability at Bossou (Fig. 2).
+Fruits were quite abundant from the late
+dry season to the early rainy season (Janu-
+ary–April: period 1). On the other hand,
+fruits were scarce in mid rainy season (May–
+August: period 2). In late rainy season and
+early dry season (September–December: pe-
+riod 3), fruits were still scarce but more
+abundant than in period 2.
+Diet diversity
+In 1995, the chimpanzees consumed 160
+items from 110 plant species (Table 2). Fruit
+pulp constituted 50.0% (80 items) and leaves
+23.8% (38 items). Other items included were
+seeds (kernels), pith of woody plants (peti-
+oles and peduncles), pith of herbs, bark,
+ﬂowers, resin, root, sap, dead trunk, mush-
+rooms, and algae. In addition, 8 items from
+insect or products of insect (i.e., ants, bee
+larvae, honey, beetle larvae, gall; not yet
+fully identiﬁed), water, and one’s own blood
+and feces were consumed. No vertebrates or
+termites were consumed during this study
+period, although consumption has been re-
+ported previously (Sugiyama and Koman,
+1987).
+As for the monthly change of food diver-
+sity (Fig. 3), there was a signiﬁcant correla-
+tion between monthly fruit availability and
+the number of fruit items eaten (Spearman
+r
+s 5 0.66, N 5 12, P , 0.05). However, corre-
+lation between fruit availability and the
+number of all items eaten was not signiﬁ-
+cant [r
+s 5 0.34, N 5 12, not signiﬁcant
+(N.S.)]. Therefore, the chimpanzees’ diet di-
+versity did not increase when fruits were
+scarce.
+Diet composition
+During the study period, fruit pulp con-
+sumption occupied 60.7% of the total time
+TABLE 1. Tree species selected for fruit phenology
+Species
+No.
+samples
+Aningeria altissima 20
+Antiaris africana 20
+Canarium schweinfurthii 13
+Celtis adolﬁ-frederici 1
+Citrus aurantium 20
+Citrus nobilis 9
+Elaeis guineensis (pulp and nut) 20
+Ficus sp. 1 10
+Ficus sp. 2 1
+Ficus sp. 3 20
+Ficus mucuso 10
+Ficus umbellata 20
+Harungana madagascariensis 16
+Mangifera indica 20
+Morus mesozygia 20
+Musanga cecropioides 20
+Parkia bicolor 20
+Pseudospondias microcarpa 20
+Spondias mombin 20
+Total 300
+Fig. 2. Seasonal change in fruit availability at Bossou
+in 1995. Monthly fruit availability is represented by the
+total number of fruiting trees out of 300 selected trees.
+See text for details.
+TABLE 2. Number of items eaten and time spent
+feeding on them
+1
+Part No. items Feeding time (%)
+Fruit pulp 80 60.7
+Leaf 38 10.8
+Pith (w)
+2 11 10.1
+Seed 1 6.3
+Pith (h)
+3 9 5.3
+Insect — 4 1.8
+Flower 6 1.1
+Bark 7 0.9
+Root/tuber 2 0.9
+Resin 2 0.6
+Others 4 1.5
+Total 160 100
+1 No. of species 5 110.
+2 w 5 woody plants.
+3 h 5 herbs.
+4 Not fully identiﬁed.
+286 G. YAMAKOSHI
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+spent feeding (Table 2). In quantity, fruit
+pulp comprised a major part of the diet of
+Bossou chimpanzees. The correlation be-
+tween monthly fruit availability and monthly
+percentages of time spent feeding on fruit
+pulp was highly signiﬁcant (Spearman
+r
+s 5 0.83, N 5 12, P , 0.001). Time spent
+feeding on fruit pulp increased when its
+availability increased.
+Keystone resources
+By deﬁnition, keystone resources should
+be available when main foods are scarce. For
+the Bossou chimpanzees, fruit pulp ap-
+peared to be the main food (Table 2). These
+foods were available only seasonally and
+were very scarce especially in period 2 (Fig.
+2). What, then, did the chimpanzees eat in
+period 2? There are several a priori candi-
+dates for keystone resources at Bossou. From
+phenological data, only 2 items ( Musanga
+cecropioides fruit and oil-palm nut) were
+available year round (Fig. 4). In addition, ﬁg
+fruit, palm pith, leaf, bark, and THV have
+been proposed as keystone resources in other
+studies (see introductory remarks).
+Table 3 shows the time spent feeding on
+each food category in each period. Fig fruits
+were consumed in period 2 proportionally to
+their availability. Fig trees displayed indi-
+vidual fruiting rhythms but many trees did
+not fruit in period 2 for unknown reasons. As
+a result, seasonal availability of ﬁg fruits
+resembled that of total fruits. Considerable
+amounts of leaves were consumed, but leaf
+eating showed no increase in period 2 (Fig.
+5; Spearman r
+s 5 0.53, N 5 12, N.S.). Con-
+sumption of THV and insects lacked season-
+ality and was infrequent (correlation with
+fruit availability, r
+s 52 0.06, 0.55, respec-
+tively, N 5 12, N.S.). Consumption of bark
+was negatively correlated with fruit avail-
+ability (r
+s 52 0.59, N 5 12, P , 0.05). How-
+ever, the amount of feeding time on bark was
+too small to make up for the large scarcity of
+fruits. Musanga fruit, oil-palm kernel, and
+oil-palm pith were consumed as expected.
+Each item was frequently eaten in period 2
+(12.1%, 8.8%, and 18.4%, respectively). Feed-
+Fig. 3. Monthly diet diversity of Bossou
+chimpanzees in 1995. Pith (h) 5 herbs;
+Pith (w) 5 woody plants.
+Fig. 4. Monthly change in availability of oil-palm
+nut and Musanga cecropioides fruit in 1995.
+TABLE 3. Percentages of time spent feeding on each
+food category in each period
+Food categories Period 1 Period 2 Period 3
+Fruit pulp 71.4 52.9 59.6
+Fruit1 50.8 35.8 41.3
+Fig 19.7 5.0 14.9
+Musanga 0.9 12.1 3.4
+Oil-palm kernel 0.5 8.8 8.6
+By nut-cracking 0.5 8.3 8.5
+Oil-palm pith 0.6 18.4 11.0
+By pestle-pounding 0.1 10.4 3.9
+Leaf 14.4 8.6 8.2
+THV 4.3 3.1 2.7
+Insect 2.1 2.0 1.9
+Bark 0.1 1.7 0.9
+Others 6.6 4.5 7.1
+Total 100 100 100
+1 Except ﬁg and Musanga fruit.
+287WILD CHIMPANZEES’ RESPONSES TO FRUIT SCARCITY
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+ing time on each item was negatively corre-
+lated with fruit availability (Musanga fruit,
+rs 52 0.75, N 5 12, P , 0.01; oil-palm ker-
+nel, rs 52 0.82, N 5 12, P , 0.01; oil-palm
+pith, r s 52 0.81, N 5 12, P , 0.01). Thus,
+these 3 items ( Musanga fruit, oil-palm ker-
+nel, and oil-palm pith) clearly had an impor-
+tant role in compensating for the general
+scarcity of fruits, and actually functioned as
+keystone resources (Fig. 5).
+These 3 keystone resources ranked high
+among the annual sum of time spent feeding
+on each food item (Table 4). Oil-palm pith,
+kernel, and Musanga fruit stand ﬁrst, sec-
+ond, and fourth, respectively. As single food
+items, these 3 keystone species proved to be
+extremely important resources.
+Tool use
+Several habitual tool-using behaviors have
+been studied at Bossou. They have focused
+mainly on the behavioral description of tech-
+niques involved in nut-cracking for oil-palm
+nuts with 2 stones as an anvil and hammer
+(Sugiyama and Koman, 1979), pestle-pound-
+ing for oil-palm pith with a leaf frond as a
+pestle (Yamakoshi and Sugiyama, 1995),
+ant-dipping with wands mainly for safari
+ants (Dorylus molestus; Sugiyama, 1995a),
+water-drinking with chewed leaves (Sugi-
+yama, 1995b), and algae-scooping with sticks
+(Matsuzawa et al., personal communica-
+tion).
+Tool use enabled consumption of 2 of the
+keystone resources. Nut-cracking behavior
+to obtain the inner contents occurred 97.2%
+of the time spent feeding on oil-palm ker-
+nels. During the remaining 2.8% of the time,
+oil-palm kernel contents were consumed by
+direct biting of the nut, without tool use.
+Pestle-pounding behavior was employed
+in 46.5% of the time spent feeding on oil-
+palm pith. In a typical case of palm-pith
+feeding, chimpanzees ﬁrst consumed much
+pith without tools; thereafter, pestles were
+used (see Yamakoshi and Sugiyama, 1995
+for details). I attributed only the duration of
+the latter part to the feeding time involving
+pestle use. There were also many cases in
+which no tool was used throughout. Never-
+theless, chimpanzees used 10.4% of their
+total feeding time in period 2 engaged in
+pestle-pounding behavior (Table 3). More-
+over, there was an extremely strong nega-
+tive correlation between fruit availability
+and feeding time on oil-palm pith with
+pestles (r
+s 52 0.83, N 5 12, P , 0.001).
+There was a signiﬁcant but much weaker
+negative correlation between fruit availabil-
+ity and feeding time on oil-palm pith with-
+out pestles (r
+s 52 0.61, N 5 12, P , 0.05).
+Thus, the chimpanzees used pestles more
+frequently when major fruits were scarce
+(Fig. 6). In total, 10.4% of the annual total
+feeding time, 18.7% of that in period 2, and
+31.9% of that in June (the month of the
+highest proportion) involved the use of these
+Fig. 5. Monthly change of time spent
+feeding on each food category by Bossou
+chimpanzees in 1995. *Except ﬁg and
+Musanga fruits.
+TABLE 4. Annual total time spent feeding
+on each food item
+Species Part 1 %
+Elaeis guineensis pt 9.6
+kn 6.3
+Pseudospondias microcarpa fr 5.9
+Musanga cecropioides fr 5.3
+Mangifera indica fr 5.0
+Morus mesozygia fr 4.8
+Ficus sp. 3 fr 3.4
+Citrus aurantium fr 3.1
+Ficus mucuso fr 2.7
+Ficus umbellata fr 2.6
+1 pt 5 pith; kn 5 kernel; fr 5 fruit pulp.
+288 G. YAMAKOSHI
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+2 types of tool-using behaviors (nut-cracking
+and pestle-pounding).
+The other types of tool-using behavior
+were infrequent. Ant-dipping occupied 44.3%
+of total time engaged in feeding on insects,
+however, it only accounted for 0.8% of the
+total feeding time. Algae-scooping and water-
+drinking with leaves occupied 0.7% and
+0.02%, respectively. Ant-dipping was observed
+rather aseasonally. Algae-scooping wasonly
+observed at the end of the rainy season,
+supposedly due to the algae’s availability.
+The sample size of water-drinking with tools
+was too small to merit comment. An ex-
+tremely signiﬁcant negative correlation ex-
+ists between fruit availability and the total
+time spent feeding by 5 tool-using behaviors
+(r
+s 52 0.84, N 5 12, P , 0.001; Fig. 7). In
+total, these tool-using behaviors occupied
+12.0% of the annual total feeding time.
+As for the diurnal change in frequency of
+feeding, resting-grooming activity, and tool
+use, the following tendencies were observed
+(Fig. 8). Feeding activity had 2 peaks in a
+day. Nut-cracking peaked in the afternoon.
+Pestle-pounding had no clear peak. There
+were no special relationships between feed-
+ing, resting-grooming activity, and the fre-
+quency of occurrence of each tool use type
+(Spearman r
+s 5 0.10 between nut-cracking and
+feeding; rs 5 0.10 between nut-cracking and
+resting-grooming; rs 52 0.13 between pestle-
+pounding and feeding; r s 52 0.09 between
+pestle-pounding and resting-grooming; N 5
+13, N.S.).
+DISCUSSION
+Dietary shift in response to food scarcity
+As in other studies in the tropical forest,
+there were strong seasonal ﬂuctuations of
+fruit availability for the chimpanzees at
+Bossou (Fig. 2). For such a semi-isolated
+community, ranging shifts are an unlikely
+solution to food scarcity. The Bossou chim-
+panzees apparently depend on 2 other strat-
+egies. One involves social adjustments (e.g.,
+reducing party size; Sakura, 1994) and the
+other is a dietary shift to less preferred
+foods. The data presented here show clear
+evidence of a dietary shift from their main
+food (seasonally bearing fruits) to 3 promi-
+nent keystone plant resources ( Musanga
+fruit, oil-palm kernel, and oil-palm pith)
+when fruits are generally scarce (Fig. 5).
+These 3 items appear less preferred because
+they are available throughout the year (Fig.
+4), but are consumed only when fruit pulp is
+generally scarce.
+The fruit of Musanga cecropioides was
+eaten during 12.1% of the total time spent
+feeding in period 2 when fruit pulp was
+generally scarce (Table 3). This species has 2
+characteristics that facilitate its role as a
+keystone resource. First, Musanga trees are
+quite abundant in the regenerating second-
+ary forest at Bossou. These trees are known
+as a leading pioneer species in West Africa
+(Ross, 1954; Swaine and Hall, 1983). Sec-
+ond, the Musanga fruiting pattern is unique
+because sometimes a single fruiting tree
+continues to fruit all year round. Therefore,
+availability of Musanga fruit in the study
+site was always high and stable (Fig. 4).
+Similarly, in the Kalinzu Forest Reserve,
+Uganda, Musanga leo-errerae is thought to
+support a high density of chimpanzees in
+logged areas (Hashimoto, 1995). Hence,Mu-
+sanga may have, at least potentially, signiﬁ-
+cant importance for chimpanzee subsis-
+tence.
+Oil palm is no doubt an important food for
+chimpanzees. Its pulp is eaten in many
+different chimpanzee communities (McGrew,
+1992). Fruit abundance of oil palm is rela-
+tively aseasonal (e.g., Wrangham, 1975). At
+Gombe, Tanzania, and Lope ´, Gabon, oil-
+palm pulp is consumed by chimpanzees re-
+gardless of season (Goodall, 1986; Tutin et
+al., 1991) and is assumed to be a keystone
+resource (Tutin et al., 1997). At Bossou,
+there are hundreds of oil-palm trees avail-
+able for chimpanzees (Kortlandt and Holz-
+haus, 1987). However, at least in the study
+Fig. 6. Time spent feeding on oil-palm pith by Bossou
+chimpanzees in 1995.
+289WILD CHIMPANZEES’ RESPONSES TO FRUIT SCARCITY
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+year, fruit production was very low (from the
+fruiting census, 1.5 of 20 target trees on
+average had ripe fruits; N 5 24, SD 5 1.8).
+In addition, there has always been exploita-
+tion competition with humans cutting and
+taking out the ripe bunches from the periph-
+eral area of the chimpanzees’ range. As a
+result, only 1.1% of annual total feeding
+time was devoted to oil-palm pulp feeding.
+In contrast, oil-palm kernels were eaten
+in great amounts by Bossou chimpanzees
+(Table 4). The kernels were available
+throughout the year (Fig. 4), but were con-
+sumed most often when major fruit foods
+were scarce (Table 3, Fig. 5). As at Bossou,
+palm nuts were reported to play a role as
+keystone resources for capuchin monkeys
+(Terborgh, 1983; Peres, 1994). Palm nuts are
+potentially desirable resources for frugivo-
+rous animals as they are available for com-
+paratively long periods and have much nutri-
+tional value (Terborgh, 1983; Hartley, 1988).
+However, due to their hard shells, special
+adaptations are necessary to consume them.
+For example, peccaries have strong jaws
+that allow them to crack the shell of palm
+nuts (Kiltie, 1982). Capuchin monkeys bite
+open the nuts (Terborgh, 1983), and in some
+cases, use behavioral ﬂexibility to bang the
+nuts against something hard (Izawa and
+Mizuno, 1977). In the case of Bossou chim-
+panzees, their ability with ﬂexible tool use
+enables them to crack open oil-palm nuts
+(Sakura and Matsuzawa, 1991; Matsuzawa,
+1994).
+The pith of oil palm was also consumed in
+enormous amounts (Table 4). The pith ap-
+peared available all year round but consump-
+tion was inversely proportional to the avail-
+ability of major fruit foods (Table 3, Fig. 5).
+Orangutans are suspected to escape to patch-
+ily distributedBorassodendron palms to feed
+on the pith when other foods are scarce
+(Leighton and Leighton, 1983).
+These 3 food items have suitable nutri-
+tional contents to make up for the calorie
+loss due to overall fruit scarcity. Musanga
+fruits are rich in calories (Hladik, 1977).
+Oil-palm kernels are also very rich in fat and
+sugar (Wu Leung, 1968). Compared to al-
+monds, an oil-palm kernel from Bossou is
+equivalent in fat, rich in sugar and ﬁber, and
+Fig. 7. Monthly change of time spent
+feeding using tools by Bossou chimpan-
+zees in 1995.
+Fig. 8. Diurnal rhythm of each activity
+by Bossou chimpanzees in 1995. Solid
+lines represent the observation time en-
+gaged in each tool-using behavior. Dashed
+lines represent proportion of total observa-
+tion time engaged in each activity.
+290 G. YAMAKOSHI
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+poor in protein (Ota, personal communica-
+tion). Nutritional analysis of oil-palm pith
+has not yet been done. However, in the
+course of pestle-pounding, the chimpanzees
+eat much sap after pounding deeper in the
+tree (Sugiyama, 1994a; Yamakoshi and Sugi-
+yama, 1995). Oil-palm sap contains high
+levels of sugar (Wu Leung, 1968), so chim-
+panzees are able to obtain a large amount of
+calories.
+At Bossou, both Musanga and oil palms
+are quite abundant in quantity and ad-
+equate in nutritional contents. It looks as if
+these 3 items completely make up for all the
+seasonal scarcity of other items, although
+they are measured only by percentage of
+feeding time (Fig. 5). Reproductive perfor-
+mance (e.g., interbirth intervals) is higher at
+Bossou than in other communities (Sugi-
+yama, 1994b). Diet diversity did not in-
+crease when fruits were scarce (Fig. 3),
+contrary to the result that the optimal forag-
+ing theory predicts (MacArthur and Pianka,
+1966). This implies that the chimpanzees do
+not have to feed on many different food items
+of low quality or high secondary compound
+content. They have excellent backup foods.
+This might also explain the absence of an
+increase in time feeding on leaves and THV
+in period 2, although this is the case at other
+study sites (Nishida, 1974; Tutin et al., 1991;
+Wrangham et al., 1996).
+Fig fruits have been thought of as primar-
+ily important keystone resources (Leighton
+and Leighton, 1983; Terborgh, 1986; Wrang-
+ham et al., 1996; but see Gautier-Hion and
+Michaloud, 1989) because their fruiting pat-
+tern is aseasonal (Janzen, 1979). In this
+study, however, ﬁg fruits were extremely
+scarce during a fruit-scarce season, so they
+did not serve as keystone resources (Table
+3). This may have been a consequence of
+annual ﬂuctuation, and further studies are
+needed to reach any conclusions.
+Implications for ecological signiﬁcance
+of tool use
+The consumption of 2 of the 3 identiﬁed
+keystone foods involved 2 types of tool behav-
+ior: nut-cracking for oil-palm nuts and pestle-
+pounding for oil-palm pith. Both target items
+are ﬁrmly protected by plant organs and
+cannot otherwise be exploited efficiently.
+The oil-palm kernel is embedded in a hard
+shell and is inaccessible to chimpanzees
+without tools. Actually, it was only in excep-
+tional cases that chimpanzees bit open the
+nuts directly. Thus, no doubt, nut-cracking
+behavior played an indispensable role in
+consuming oil-palm kernels. The oil-palm
+pith is also hard to access as a spiny base of
+mature fronds surrounds it. Chimpanzees
+can eat the base of young shoots without
+tools by simply pulling out the pith. By
+pestle-pounding, however, the Bossou chim-
+panzees deepen the hole to reach the other-
+wise inaccessible central part of the apical
+bud (for details see Yamakoshi and Sugi-
+yama, 1995) and the time spent on this tool
+use represented almost one half (46.5%) of
+the total feeding time on oil-palm pith.
+Pestle-pounding also played a signiﬁcant
+role in increasing (almost doubling) the con-
+sumption of oil-palm pith.
+Chimpanzees at Bossou clearly spent a
+signiﬁcant proportion of their feeding time
+using tools (Fig. 7) and were likely to better
+exploit highly nutritional food items. In to-
+tal, 10.4% of their annual total feeding time
+and 31.9% in June (the month of the highest
+proportion) involved the use of nut-cracking
+and pestle-pounding. Moreover, the target
+foods of these behaviors proved to be impor-
+tant keystone resources that were consumed
+to make up for the lack of major fruit foods
+at certain times of the year (Fig. 5).
+In Taı¨ forest, Coˆte d’Ivoire, intensive stud-
+ies have revealed the ﬁne detail of nut-
+cracking behavior by wild chimpanzees (e.g.,
+Boesch and Boesch, 1983, 1984). Gu ¨ nther
+and Boesch (1993) have evaluated in detail
+the cost and beneﬁt of nut-cracking behavior
+of Taı¨ chimpanzees from a biomechanical
+approach. The chimpanzees spend approxi-
+mately 2 hr and 17 min per day during the
+Coula nut season and obtain 15,752 kJ
+(3,762 kcal) as digestible energy, which is 9
+times greater than the gross energy output.
+To date, a similar biomechanical study has
+not been done at Bossou. On the other hand,
+there have been few descriptions of the
+activity budget (e.g., percentages of time
+spent feeding) of Taı ¨ chimpanzees compa-
+rable with this study. Although direct com-
+parison is impossible, it is very likely that
+291WILD CHIMPANZEES’ RESPONSES TO FRUIT SCARCITY
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 10
+tool-using behaviors facilitate feeding effi-
+ciency in a similar way at both sites.
+There is a clear nut-cracking season in Taı¨
+from November to March according toCoula
+nut availability (Boesch and Boesch, 1984).
+Fruit availability in general is supposed to
+be high in this season (Alexandre, 1980), in
+contrast to the relationship between general
+fruit availability and the tool-using season
+in Bossou (Figs. 2, 5).Coula nuts at Taı¨ are a
+staple food resource that is consumed accord-
+ing to their availability. Oil-palm nuts and
+pith at Bossou are keystone resources that
+are consumed according to the availability of
+other food resources. Thus, the ecological
+signiﬁcance of tool use might be different
+between these two sites.
+Comparable ecological data have been pub-
+lished on termite ﬁshing by chimpanzees in
+Gombe, Tanzania. There is a clear seasonal
+peak corresponding to the beginning of the
+rainy season (November) when the availabil-
+ity of termites becomes extremely high
+(Goodall, 1963; McGrew, 1992). Feeding time
+by termite ﬁshing at Gombe reaches 17% of
+the total feeding time in November indepen-
+dent of the availability of other foods. How-
+ever, as a yearly total, less than 5% is
+accounted for by termite ﬁshing (calculated
+from Goodall, 1986). In the case of ant
+ﬁshing at Mahale, frequency is lower and
+seasonality is less clear (1–2% of total obser-
+vation time) (Nishida and Hiraiwa, 1982).
+The chimpanzees at Ndoki are reported to
+use a tool-set to dig out and ﬁsh for termites,
+enabling them to access termites found
+deeper in the mound (Suzuki et al., 1995).
+Judging from the indirect evidence, termite
+consumption by Ndoki chimpanzees is quite
+stable regardless of a seasonal ﬂuctuation in
+termite activity and seems larger in quan-
+tity than that noted for other chimpanzee
+communities. This may be evidence for which
+an innovation of tool technology radically
+changes the chimpanzees’ feeding habits,
+although detailed quantitative data are lack-
+ing. Hence, the percentages of time spent in
+tool-using at Bossou and possibly at Taı¨ far
+exceed those reported for other study sites.
+Nutritionally, insects are a rich source of
+protein but a poor source of calories for
+large-bodied primates (e.g., Susman, 1987).
+Although termites contain much protein and
+fat (Hladik, 1977), insects cannot be the
+staple resource of nutrition. Instead, they
+are thought to be a dietary supplement
+(essential amino acid: Hladik, 1977; spice or
+snack: Nishida and Hiraiwa, 1982). On the
+other hand, oil-palm kernel and pith contain
+the appropriate nutritional elements (i.e.,
+calories) necessary to compensate for a lack
+of staple foods. Also in this study, ant-
+dipping occurred quite infrequently in com-
+parison with nut-cracking and pestle-pound-
+ing (Fig. 7). This nutritional difference in
+target food resources and a superabundance
+of oil palm at Bossou may explain the differ-
+ence in dependence on tool use between
+nut-cracking communities such as Bossou
+and Taı¨, and other communities.
+The analysis of diurnal frequency of activ-
+ity supports this interpretation (Fig. 8). At
+Mahale, ant ﬁshing is concentrated on dur-
+ing the period from noon to 4
+PM and is
+synchronized with resting and grooming ac-
+tivity, not with feeding activity (Nishida,
+1972). A similar pattern has also been seen
+at Gombe for feeding on animal matter
+(Teleki, 1981). Nishida (1972) supposed that
+ant ﬁshing is a kind of ‘‘leisure time activity,’’
+but this was not the case for nut-cracking
+and pestle-pounding at Bossou (Fig. 8).
+Tool use has been one of the central issues
+in discussions of human evolution. However,
+little is known about the kind of tools made
+before the ﬁrst manufactured stone tools
+(e.g., Leakey, 1971). On the basis of studies
+of modern hunter-gatherer societies, it has
+been suggested that Australopithecus must
+have depended on reliable, vegetable foods
+such as roots, tubers, nuts, and shoots among
+others that were obtained by the use of a
+digging stick (Bartholomew and Birdsell,
+1953; Tanner and Zihlman, 1976). This idea
+has been supported by empirical studies on
+the fossil bones of Australopithecus, which
+Brain et al. (1988) suggested to be digging
+tools, and on stable carbon isotopes from
+Australopithecine fossil teeth (Lee-Thorp et
+al., 1994). On the other hand, chimpanzee
+tool use for obtaining social insects was
+regarded as opportunistic and was thought
+to have only a trivial effect on their subsis-
+tence (Lancaster, 1968; Mann, 1972). The
+distinction that was made is that the tool
+use of chimpanzee-like apes is opportunis-
+292 G. YAMAKOSHI
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 11
+tic, while tools are indispensable for human
+survival (Bartholomew and Birdsell, 1953;
+Mann, 1972). This study clearly shows that
+with adequate environmental conditions, as
+at Bossou, wild chimpanzees do depend on
+tools to obtain reliable keystone resources in
+the critical period of the year. At least poten-
+tially, the deﬁnitions such as ‘‘man is the
+only mammal which is continuously depen-
+dent on tools for survival’’ (Bartholomew
+and Birdsell, 1953) and ‘‘human culture . . .
+a set of learned behaviours that modify the
+environment and are crucial to the survival
+of the species’’ (Mann, 1972) must be recon-
+sidered.
+ACKNOWLEDGMENTS
+I am grateful to the Direction Nationale
+de la Recherche Scientiﬁque et Technique,
+the Republic of Guinea, for permission to
+conduct this study. Special thanks are due to
+J. Koman for plant identiﬁcation; Gu. Goumy,
+T. Camara, Gl. Goumy, P. Cherif, D. Samy,
+and H. Tsubaki for their assistance in the
+ﬁeld; M.A. Huffman for his useful advice and
+revision of English usage; N. Yokota, R.
+Tonooka, N. Inoue, H. Takemoto, T. Humle,
+and T. Matsuzawa for their cooperation in
+the ﬁeld; and T. Kano, A. Mori, J. Yamagiwa,
+A. Uchida, I. Tanaka, C. Oku, M. Myowa,
+and anonymous reviewers for their helpful
+comments. Finally, my sincere thanks to Dr.
+Y. Sugiyama for all of his hearty direction.
+LITERATURE CITED
+Albrecht H and Dunnett SC (1971) Chimpanzees in
+Western Africa. Munchen: Piper.
+Alexandre DY (1980) Caracte`re saisonnier de la fructiﬁ-
+cation dans une foreˆt hygrophile de Coˆte-d’Ivoire. Rev.
+Ecol. (Terre Vie)34:335–359.
+Altmann J (1974) Observational study of behavior:
+Sampling methods. Behaviour 49:227–267.
+Bartholomew GA Jr and Birdsell JB (1953) Ecology and
+the protohominids. Am. Anthropol.55:481–498.
+Boesch C and Boesch H (1983) Optimization of nut-
+cracking with natural hammers by wild chimpanzees.
+Behavior 83:265–286.
+Boesch C and Boesch H (1984) Possible causes of sex
+differences in the use of natural hammers by wild
+chimpanzees. J. Hum. Evol.13:415–440.
+Brain CK, Churcher CS, Clark JD, Grine FE, Shipman
+P, Susman RL, Turner A, and Watson V (1988) New
+evidence of early hominids, their culture and environ-
+ment from the Swartkrans Cave, South Africa. S. Afr.
+J. Sci. 84:828–835.
+Chapman CA, Wrangham R, and Chapman LJ (1994)
+Indices of habitat-wide fruit abundance in tropical
+forest. Biotropica 26:160–171.
+Frankie GW, Baker HG, and Opler PA (1974) Compara-
+tive phenological studies of trees in tropical wet and
+dry forests in the lowlands of Costa Rica. J. Ecol.
+62:881–913.
+Gautier-Hion A and Gautier J-P (1979) Niche e´cologique
+et diversite´ des espe`ces sympatriques dans le genre
+Cercopithecus. Rev. Ecol. (Terre Vie)33:493–508.
+Gautier-Hion A and Michaloud G (1989) Are ﬁgs always
+keystone resources for tropical frugivorous verte-
+brates? A test in Gabon. Ecology70:1826–1833.
+Gilbert LE (1980) Food web organization and conserva-
+tion of neotropical diversity. In ME Soule ´ and BA
+Wilcox (eds.): Conservation Biology. Sunderland, MA:
+Sinauer, pp. 11–34.
+Goodall J (1963) Feeding behaviour of wild chimpan-
+zees: A preliminary report. Symp. Zool. Soc. Lond.
+10:39–48.
+Goodall J (1986) The Chimpanzees of Gombe: Patterns
+of Behavior. Cambridge: Harvard University Press.
+Gu¨ nther MM and Boesch C (1993) Energetic cost of
+nut-cracking behaviour in wild chimpanzees. In H
+Preuschoft and DJ Chivers (eds.): Hands of Primates.
+Wien: Springer-Verlag, pp. 109–129.
+Hartley CWS (1988) The Oil Palm. 3rd Ed. London:
+Longman.
+Hashimoto C (1995) Population census of the chimpan-
+zees in the Kalinzu Forest, Uganda: Comparison
+between methods with nest counts. Primates 36:477–
+488.
+Hladik CM (1977) Chimpanzees of Gabon and chimpan-
+zees of Gombe: Some comparative data on the diet. In
+TH Clutton-Brock (ed.): Primate Ecology: Studies of
+Feeding and Ranging Behaviour in Lemurs, Monkeys
+and Apes. London: Academic Press, pp. 481–501.
+Hladik CM (1988) Seasonal variations in food supply for
+wild primates. In I de Garine and GA Harrison (eds.):
+Coping with Uncertainty in Food Supply. Oxford:
+Clarendon Press, pp. 1–25.
+Isabirye-Basuta G (1988) Feeding competition among
+individuals in a free-ranging chimpanzee community
+in Kibale Forest, Uganda. Behaviour105:135–147.
+Isabirye-Basuta G (1989) Feeding ecology of chimpan-
+zees in the Kibale Forest, Uganda. In PG Heltne and
+LG Marquardt (eds.): Understanding Chimpanzees.
+Cambridge: Harvard University Press, pp. 116–127.
+Izawa K and Mizuno A (1977) Palm-fruit cracking
+behavior of wild black-capped capuchin (Cebus apella).
+Primates 18:773–792.
+Janzen DH (1979) How to be a ﬁg. Annu. Rev. Ecol. Syst.
+10:13–51.
+Karr JR (1976) Seasonality, resource availability, and
+community diversity in tropical bird communities.
+Am. Nat. 110:973–994.
+Kiltie RA (1982) Bite force as a basis for niche differen-
+tiation between rain forest peccaries ( Tayassu tajacu
+and T. pecari). Biotropica 14:188–195.
+Kortlandt A and Holzhaus E (1987) New data on the use
+of stone tools by chimpanzees in Guinea and Liberia.
+Primates 28:473–496.
+Kuroda S, Nishihara T, Suzuki S, and Oko RA (1996)
+Sympatric chimpanzees and gorillas in the Ndoki
+Forest, Congo. In WC McGrew, LF Marchant, and T
+Nishida (eds.): Great Ape Societies. Cambridge: Cam-
+bridge University Press, pp. 71–81.
+Lancaster JB (1968) On the evolution of tool-using
+behavior. Am. Anthropol.70:56–66.
+Leakey MD (1971) Olduvai Gorge, Vol. 3, Excavations in
+Beds I and II, 1960–1963. Cambridge: Cambridge
+University Press.
+Lee-Thorp JA, van der Merwe NJ, and Brain CK (1994)
+Diet of Australopithecus robustus at Swartkrans from
+stable carbon isotopic analysis. J. Hum. Evol.27:361–
+372.
+Leighton M and Leighton DR (1983) Vertebrate re-
+sponses to fruiting seasonality within a Bornean rain
+293WILD CHIMPANZEES’ RESPONSES TO FRUIT SCARCITY
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 12
+forest. In SL Sutton, TC Whitmore, and AC Chadwick
+(eds.): Tropical Rain Forest: Ecology and Manage-
+ment. London: Blackwell Scientiﬁc, pp. 181–196.
+MacArthur RH and Pianka ER (1966) On optimal use of
+a patchy environment. Am. Nat.102:381–383.
+MacKinnon J (1974) The behaviour and ecology of wild
+orangutans (Pongo pygmaeus). Anim. Behav.22:3–74.
+Mann A (1972) Hominid and cultural origins. Man
+7:379–386.
+Marchesi P, Marchesi N, Fruth B, and Boesch C (1995)
+Census and distribution of chimpanzees in Co ˆte
+D’Ivoire. Primates 36:591–607.
+Matsuzawa T (1994) Field experiments on use of stone
+tools in the wild. In RW Wrangham, WC McGrew,
+FBM de Waal, and PG Heltone (eds.): Chimpanzee
+Cultures. Cambridge: Harvard University Press, pp.
+351–370.
+Matsuzawa T and Yamakoshi G (1996) Comparison of
+chimpanzee material culture between Bossou and
+Nimba, West Africa. In AE Russon, KA Bard, and S
+Parker (eds.): Reaching Into Thought: The Mind of the
+Great Apes. Cambridge: Cambridge University Press,
+pp. 211–232.
+McGrew WC (1992) Chimpanzee Material Culture: Im-
+plications for Human Evolution. Cambridge: Cam-
+bridge University Press.
+Nishida T (1972) The ant-gathering behaviour by the
+use of tools among wild chimpanzees of the Mahali
+Mountains. J. Hum. Evol.2:357–370.
+Nishida T (1974) Ecology of wild chimpanzees. In R
+Ohtsuka, J. Tanaka, and T. Nishida (eds.): Human
+Ecology. Tokyo: Kyoritsu-shuppan, pp. 15–60 (in Japa-
+nese).
+Nishida T (1976) The bark-eating habits in primates,
+with special reference to their status in the diet of wild
+chimpanzees. Folia Primatol. 25:277–287.
+Nishida T and Hiraiwa M (1982) Natural history of a
+tool-using behavior by wild chimpanzees in feeding
+upon wood-boring ants. J. Hum. Evol.11:73–99.
+Peres CA (1994) Primate responses to phenological
+changes in an Amazonian Terra Firme Forest. Bio-
+tropica 26:98–112.
+Ross R (1954) Ecological studies on the rain forest of
+southern Nigeria. III. Secondary succession in the
+Shasha Forest Reserve. J. Ecol.42:259–282.
+Sabatier D (1985) Saisonnalite´e td e´terminisme du pic
+de fructiﬁcation en foreˆt guyanaise. Rev. Ecol. (Terre
+Vie) 40:289–320.
+Sakura O (1994) Factors affecting party size and compo-
+sition of chimpanzees ( Pan troglodytes verus )a t
+Bossou, Guinea. Int. J. Primatol.15:167–183.
+Sakura O and Matsuzawa T (1991) Flexibility of wild
+chimpanzee nut-cracking behavior using stone ham-
+mers and anvils: An experimental analysis. Ethology
+87:237–248.
+Stanford CB, Wallis J, Matata H, and Goodall J (1994)
+Patterns of predation by chimpanzees on red colobus
+monkeys in Gombe National Park, 1982–1991. Am. J.
+Phys. Anthropol.94:213–228.
+Sugiyama Y (1991) Habitat isolation and population
+structure of wild chimpanzees in and around Bossou,
+West Africa. In N Maruyama, et al. (eds.): Wildlife
+Conservation: Present Trends and Perspectives for
+the 21th Century. Tokyo: Japan Wildlife Research
+Center, pp. 32–35.
+Sugiyama Y (1994a) Tool use by wild chimpanzees.
+Nature 367:327.
+Sugiyama Y (1994b) Age-speciﬁc birth rate and lifetime
+reproductive success of chimpanzees at Bossou,
+Guinea. Am. J. Primatol.32:311–318.
+Sugiyama Y (1995a) Tool-use for catching ants by chim-
+panzees at Bossou and Monts Nimba, West Africa.
+Primates 36:193–205.
+Sugiyama Y (1995b) Drinking tools of wild chimpanzees
+at Bossou. Am. J. Primatol.37:263–269.
+Sugiyama Y and Koman J (1979) Tool-using and making
+behavior in wild chimpanzees at Bossou, Guinea.
+Primates 20:513–524.
+Sugiyama Y and Koman J (1987) A preliminary list of
+chimpanzees’ alimentation at Bossou, Guinea. Pri-
+mates 28:133–147.
+Sugiyama Y and Koman J (1992) The ﬂora of Bossou: Its
+utilization by list of chimpanzees and humans. Afr.
+Study Monogr.13:127–169.
+Sugiyama Y, Kawamoto S, Takenaka O, Kumazaki K,
+and Miwa N (1993) Paternity discrimination and
+inter-group relationships of chimpanzees at Bossou.
+Primates 34:545–552.
+Susman RW (1987) Species-speciﬁc dietary patterns in
+primates and human dietary adaptations. In WG
+Kinzey (ed.): The Evolution of Human Behavior: Pri-
+mate Models. Albany State University of New York
+Press, pp. 151–179.
+Suzuki S, Kuroda S, and Nishihara T (1995) Tool-set for
+termite-ﬁshing by chimpanzees in the Ndoki Forest,
+Congo. Behaviour 132:219–235.
+Swaine MD and Hall JB (1983) Early succession on
+cleared forest land in Ghana. J. Ecol.71:601–627.
+Tanner N and Zihlman A (1976) Women in evolution. I.
+Innovation and selection in human origins. Signs:
+Journal of Women in Culture and Society1:585–608.
+Teleki G (1973) The Predatory Behavior of Wild Chim-
+panzees. Lewisburg: Bucknell University Press.
+Teleki G (1981) The omnivorous diet and eclectic feeding
+habits of chimpanzees in Gombe National Park, Tan-
+zania. In RSO Harding and G Teleki (eds.): Omnivo-
+rous Primates: Gathering and Hunting in Human
+Evolution. New York: Columbia University Press, pp.
+303–343.
+Terborgh J (1983) Five New World Primates: A Study in
+Comparative Ecology. Princeton, NJ: Princeton Univer-
+sity Press.
+Terborgh J (1986) Keystone plant resources in the
+tropical forest. In ME Soule´ (ed.): Conservation Biol-
+ogy. Sunderland, MA: Sinauer, pp. 330–344.
+Tutin CEG, Fernandez M, Rogers ME, Williamson EA,
+and McGrew WC (1991) Foraging proﬁles of sympat-
+ric lowland gorillas and chimpanzees in the Lope ´
+Reserve, Gabon. Philos. Trans. R. Soc. Lond. Ser. B
+334:179–186.
+Tutin CEG, Ham RM, White LJT, and Harrison MJS
+(1997) The primate community of the Lope´ Reserve,
+Gabon: Diets, responses to fruit scarcity, and effects
+on biomass. Am. J. Primatol.42:1–24.
+van Schaik CP, Terborgh JW, and Wright SJ (1993) The
+phenology of tropical forests: Adaptive signiﬁcance
+and consequences for primary consumers. Annu. Rev.
+Ecol. Syst. 24:353–377.
+Wrangham RW (1975) The behavioral ecology of chim-
+panzees in Gombe National Park, Tanzania. Ph.D.
+thesis. Cambridge: University of Cambridge.
+Wrangham RW (1977) Feeding behaviour of chimpan-
+zees in Gombe National Park, Tanzania. In TH Clut-
+ton-Brock (ed.): Primate Ecology: Studies of Feeding
+and Ranging Behaviour in Lemurs, Monkeys and
+Apes. London: Academic Press, pp. 504–538.
+Wrangham RW (1986) Ecology and social relationships
+in two species of chimpanzees. In DI Rubenstein and
+RW Wrangham (eds.): Ecological Aspects of Social
+Evolution: Birds and Mammals. Princeton, NJ: Prince-
+ton University Press, pp. 352–378.
+Wrangham RW, Clark AP, and Isabirye-Basuta G (1992)
+Female social relationships and social organization of
+Kibale Forest chimpanzees. In T Nishida, WC Mc-
+Grew, P Marler, M Pickford, and FBM de Waal (eds.):
+294 G. YAMAKOSHI
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 13
+Topics in Primatology, Vol. 1: Human Origins. Tokyo:
+University of Tokyo Press, pp. 81–98.
+Wrangham RW, Chapman CA, Clark-Arcadi AP, and
+Isabirye-Basuta G (1996) Social ecology of Kanyawara
+chimpanzees: Implications for understanding the cost
+of great ape groups. In WC McGrew, LF Marchant,
+and T Nishida (eds.): Great Ape Societies. Cambridge:
+Cambridge University Press, pp. 45–57.
+Wu Leung W (1968) Food Consumption Table for Use in
+Africa. Public Health Service, U.S. Department of
+Health, Education, and Welfare; Nutrition Division,
+Food and Agriculture Organization of the United
+Nations.
+Yamagiwa J, Maruhashi T, Yumoto T, and Mwanza N
+(1996) Dietary and ranging overlap in sympatric
+gorillas and chimpanzees in Kahuzi-Biega National
+Park, Zaı¨re. In WC McGrew, LF Marchant, and T
+Nishida (eds.): Great Ape Societies. Cambridge: Cam-
+bridge University Press, pp. 82–98.
+Yamakoshi G and Sugiyama Y (1995) Pestle-pounding
+behavior of wild chimpanzees at Bossou, Guinea: A newly
+observed tool-using behavior. Primates36:489–500.
+295WILD CHIMPANZEES’ RESPONSES TO FRUIT SCARCITY
+ 10968644, 1998, 3, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/(SICI)1096-8644(199807)106:3<283::AID-AJPA2>3.0.CO;2-O by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [15/09/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

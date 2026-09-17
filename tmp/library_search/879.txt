@@ -1,0 +1,931 @@
+PDF PAGE 1
+Am J Primatol . 2021;83:e23251. wileyonlinelibrary.com/journal/ajp © 2021 Wiley Periodicals LLC | 1o f1 0
+https://doi.org/10.1002/ajp.23251
+Received: 10 June 2020 | Revised: 1 February 2021 | Accepted: 20 February 2021
+DOI: 10.1002/ajp.23251
+RESEARCH ARTICLE
+Ontogeny and sex differences in object manipulation
+and probe tool use by wild tufted capuchin monkeys
+(Sapajus libidinosus)
+Tiago Falótico 1,2,3 | Carolina Q. Bueno 1 | Eduardo B. Ottoni 1
+1Institute of Psychology, University of São
+Paulo, São Paulo, Brazil
+2School of Arts, Sciences and Humanities,
+University of São Paulo, São Paulo, Brazil
+3Neotropical Primates Research Group,
+São Paulo, Brazil
+Correspondence
+Tiago Falótico, School of Arts, Sciences and
+Humanities (EACH), University of São Paulo,
+Av. Arlindo Bettio, 1000 —Bloco CMP1 Sala
+T06, São Paulo 03828 ‐000, Brazil.
+Email: tfalotico@gmail.com
+Funding information
+Fundação de Amparo à Pesquisa do Estado de
+São Paulo, Grant/Award Numbers: 2013/
+05219‐0, 2014/04818 ‐0; Conselho Nacional
+de Desenvolvimento Científico e Tecnológico,
+Grant/Award Numbers: 308746/2017 ‐1,
+376637/2015‐3
+Abstract
+Tufted capuchin monkeys ( Sapajus spp.) are the only Neotropical Primates that
+regularly use tools in the wild, but only one population of bearded capuchin
+monkeys ( Sapajus libidinosus ) is known to habitually use sticks as probes. In this
+population, males are typically the onl y sex to use stick tools, something un-
+expected, since there are no obvious phy sical constraints, and females do use
+stone tools in the wild and sticks in experim ental conditions. We investigated the
+development of probe tool use in eight in fants to clarify whether social influ-
+ences on learning varied between the s exes, as tool use learning by capuchin
+monkeys is a socially biased process. We found that in the first 10 months of age,
+f e m a l e sm a n i p u l a t es t i c k sa sm u c ha sm a l e s ,b u ta f t e r1 0–12 months of age,
+males begin to manipulate them at higher frequencies. We examined if social
+connections —as opportunities for social learning —could explain this difference
+and verified that, on close distance soc ial networks, infant males and females
+have similar connections with older male s. However, males observe probe tool
+use events more often than females when close to such events. The higher fre-
+quency of manipulation of sticks, as well as the higher rates of probe tool use
+observation, appear to be the key to understand why only males are probe tool
+users in this population. Since there are only male potential models of probe use,
+a sex motivational bias could explain the s ex difference in observation; a bias in
+observation could explain the d ifferences in manipulation —and manipulation
+rates would certainly influence the chances of individual, trial ‐and‐error learning
+(a case of “local/stimulus enhancement ”).
+KEYWORDS
+object manipulation, ontogeny, probe tool, sex differences, stone tools, tool use
+1 | INTRODUCTION
+Probe tools are known to be used by a few primate species, but this
+behavior is not equally distributed within populations, even when
+raw material is abundantly available in the environment. Some
+chimpanzee communities use sticks to fish for termites (Boesch
+et al., 2020; McGrew & Collins, 1985; Sanz et al., 2004) or algae
+(Boesch et al., 2016), and to dip for ants (Humle & Matsuzawa, 2002).
+A few communities even use a stick tool set to first perforate the
+nest and then dip for termites (Sanz et al., 2004) or honey (Boesch
+et al., 2009). The chimpanzees from the Fongoli community hunt for
+galagos using wooden “spears” to hurt the prey (Pruetz &
+
+
+PDF PAGE 2
+Bertolani, 2007; Pruetz et al., 2015), a behavior rarely observed in
+other populations. Although apparently ubiquitous in some popula-
+tions, probe tool use can have marked differences even between
+neighboring groups, like two Ugandan communities, where one
+(Kanyawara) uses stick probes to solve an experimental problem,
+while the other (Sonso) does not (Gruber et al., 2009). More inter-
+estingly, even when the use of sticks by Sonso community was ex-
+perimentally facilitated, they still did not present this behavior,
+solving the problem with their customary use of leave ‐sponge tools.
+Although the use of stick tools is observed in both sexes in
+chimpanzees, there is a female bias (as in tool use in general), both
+in frequency and in success in the use of tools, in most studied
+populations (Boesch & Boesch, 1990;G r u b e re ta l . , 2010;
+McGrew, 1979). Moreover, in Gombe, there is a sex difference in
+the development of termite ‐fishing, a socially learned skill: young
+females learn faster, and their techniques match more that of the
+mothers, contrary to males (Lonsdorf, 2005). Interestingly, though,
+during their development, male chimpanzees exhibit higher rates
+of object play manipulation than females. Females' manipulation,
+though, was more diverse and directed to exploration (Koops
+et al., 2015). However, not all chimpanzee populations present this
+pattern. A study on the ontogen y of termite gathering in chim-
+panzees from the Goualougo Triangle showed no significant sex
+differences on the acquisition of this behavior by the immatures
+(Musgrave et al., 2020).
+Wild orangutan populations do not have a broad toolkit, al-
+though they perform many complex m anipulations on objects (van
+Casteren et al., 2012; van Schaik et al., 2003). Only populations
+from Sumatra use stick tools in the wild, mostly to take out seeds
+from Neesia sp. protected fruits and to extract honey or social
+insects from nests in trees (van Schaik et al., 2003, 2008). There is
+a bias in tool use for seed extraction toward females, probably
+because the larger males can ac c e s st h ef r u i t sb e f o r et h ep r o -
+tective stinging hair has matured. However, there are no sig-
+nificant sex differences for honey/insect extraction (van Schaik
+et al., 2008). During the development of manipulatory skills, im-
+mature orangutans often perform peering (attentive close range
+watching) at adults in contexts where social learning would be
+expected, and the frequency is co rrelated with the complexity of
+the task, showing that observational social learning over several
+years is a critical factor for the acquisition of subsistence skills
+(Schuppli et al., 2016).
+The case of tufted capuchin monkeys is more perplexing. Al-
+though the use of stone tools is observed in most studied savannah
+populations (Falótico et al., 2018; Ottoni & Izar, 2008), the use of
+stick as tools is, to date, only known to be customary (Whiten
+et al., 1999) in the Sapajus libidinosus population from Serra da
+Capivara National Park (SCNP), where these monkeys use sticks to
+probe for prey, honey or water (Falótico & Ottoni, 2014; Mannu &
+Ottoni, 2009; Moura & Lee, 2004), defensive/exploratory poking
+(Falótico et al., 2018), and self ‐care (Haslam & Falótico, 2015
+). Other
+than that, stick tools have only been reported anecdotally in a group
+of Sapajus flavius (Souto et al., 2011) and one of Sapajus nigritus
+(Aguiar et al., 2014), and is absent on at least one long term research
+site of Sapajus libidinosus , Fazenda Boa Vista (Cardoso &
+Ottoni, 2016; Ottoni & Izar, 2008).
+For stone tool use, as in other primates, there is a slight sex bias,
+in the capuchin case towards males, although females do use stone
+tools customarily. A puzzling fact, however, is that adult females were
+never observed using probe tools for foraging at SCNP (Falótico &
+Ottoni, 2014). This is not a simple bias; it is a near absence of this
+behavior among adult females in that population. Nonetheless, fe-
+males are known to learn to use probe tools in captivity and urban
+parks when offered a problem apparatus that needs probing to be
+solved (Cardoso & Ottoni, 2016; Manrique et al., 2011; Visalberghi &
+Limongelli, 1994).
+Some behavioral differences can be linked to sexual dimorphism.
+Capuchin monkeys' groups that use stones to crack open hard re-
+sistant nuts show a marked efficiency difference between sexes,
+because males are, on average, bigger, they can lift heavier stones
+and thus open those nuts more efficiently (Spagnoletti et al., 2011).
+The probe sticks, however, do not pose this physical constrain. One
+of the possibilities is that the difference is due to a learning bias
+during ontogeny, such as some individuals or one sex exhibiting more
+interest in observing or manipulating such tools.
+Tool use and object manipulation are behaviors that, in primates,
+have a high degree of social learning influence (Whiten & van de
+Waal, 2018). During ontogeny, the influence of other individuals can
+affect the opportunities of the immatures to interact with certain
+objects or resources (Coelho et al., 2015; Ottoni et al., 2005).
+Tufted capuchin monkeys are known to use social information
+when learning to use stone tools (Coelho et al., 2015; Fragaszy
+et al., 2017). The young monkeys take several months to learn how
+to proficiently position the resource on top of an anvil and use a
+loose stone as hammer to hit and open seeds or nuts. The main
+learning processes capuchins use in this case appear to be local and
+stimulus enhancement, that is, when a naïve individual is drawn to a
+location or to objects by the actions of conspecifics (Fragaszy
+et al., 2013). The high tolerance capuchin monkeys exhibit, specially
+towards young monkeys (Fragaszy & Visalberghi, 2004) facilitates
+this process. It allows youngsters to come closer and observe the
+objects used as tools, manipulate them, and eventually scrounge for
+food leftovers—a potential reinforcer in the learning process (Ottoni
+et al., 2005). However, a recent study on interindividual distances
+between capuchins performing extractive foraging (including stone
+tool use for palm nut ‐cracking) did not find a correlation between
+proficient individuals and skilled versus unskilled partners' distance,
+as a measure of opportunity for observation of the activity (Howard
+et al., 2018). The authors, however, did not specifically analysed
+stone tool use and they point that nut cracking in their study group is
+a very conspicuous activity, and that close visual observation may
+not be so important for observation learning of this behavior, as it
+could be for more cryptic foraging activities.
+In the case of capuchin probe tools, there is less chance for the
+identification and use of discarded tools, because, differently from
+chimpanzees' termite fishing sites (Pascual ‐Garrido, 2017), there is
+2o f1 0 |
+ FALÓTICO ET AL .
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+no formation of clear tool using sites in the same manner as nut ‐
+cracking sites, the behavior is mostly silent, and also there are fewer
+scrounging opportunities at the site, because the food sources in
+those cases are usually depleted (e.g., prey is captured and taken
+away). The learner usually has to see the other individual using the
+probe tool to have the chance to manipulate the right object used as
+a tool, at the right place. Consequently, the learning opportunities in
+this case will be much more correlated with the proximity of the
+individuals involved.
+Here we examined if the sex bias in the probe tool use observed
+in the capuchin monkeys at SCNP is influenced by learning oppor-
+tunities (e.g., young females are less close to older males). We also
+investigated if immature males observed probe tool use more often
+than immature females. The hypotheses and predictions are pre-
+sented in Table 1.
+2 | METHODS
+2.1 | Study group
+We studied a S. libidinosus group named Pedra Furada on the south
+border of SCNP, northeast of Brazil.
+During the study (March 2014 to October 2015) the group
+ranged from 34 to 38 individuals, which we categorized according to
+the following age classes: infant (0 –1.5 year); juvenile 1 (1.5 –3 years);
+juvenile 2 (3 –5); adult/subadult (>5 years).
+We analysed data of eight infants from the ages 6 –101 weeks
+(1.5 months –1.9 years). We split the data within eight age blocks,
+with 12 weeks each (Table 2). We collected data from most months,
+but there was a gap between January 2015 and April 2015, a period
+that the research assistant had difficulty to find and follow the group.
+2.2 | Focal sampling
+To record the manipulatory behavior, we followed the study group
+for 20 months, registering by focal animal sampling (Martin &
+Bateson, 2007) the activity of all individuals of the group. To orga-
+nize the focal sampling, we used focal lists to sample three times
+each infant and one time every other individual per list. Each list
+included all individuals in the group and defined the order that the
+focal sampling was done. The order was semirandom to avoid se-
+quential sampling of infants (we first sorted randomly the infants,
+them the full group, and, finally, the infants again). Each list took
+between 2 and 3 weeks to complete, depending on the amount of
+time we had contact with the group. Each focal sampling lasted
+10 min, and we did a 5 min interval between focals. All registers were
+done with handheld camcorders (Canon Vixia HF R52). The video
+files were transcribed by Carolina Q. Bueno on Noldus Observer
+XT12.5 following a previously tested ethogram (Table S 1). To access
+coder reliability, Tiago Falótico coded 15 random focal samples and
+compared them to the ones coded by Carolina Q. Bueno. The Cohen
+κ was above 0.80 for all comparisons.
+To test P1 and P2, the general manipulation frequencies of
+sticks and stones was coded for all infants on the videos of the
+animal focal sampling. We used the total count of manipulation
+events (manipulation of a single object from the moment the
+individual grabbed it until it wa s dropped) over the time sampled
+for the monkey on each block as manipulation rate. To test P3 we
+counted the “Probing with stick ” events within the stick manip-
+ulation behavior and used this nu m b e ro v e rt h et i m es a m p l e df o r
+each monkey as probe tool use rate ( “Probing with stick ” events
+occur during “stick manipulation ” events but are counted
+independently).
+2.3 | Scan sampling
+As social proximity data, we recorded all the individuals within 1 m of
+the focal animal at each completed minute of the focal sampling (10
+scans per focal). This register was done recording on camera audio
+the identity of each individual within 1 m of the focal monkey, or
+reporting no one was in that range.
+The audio of the scans was transcribed by TF on matrices (one
+matrix per focal list), using columns as individuals and each line as
+TABLE 1 Hypotheses and predictions
+Hypotheses Predictions Supported?
+H1. Immature males will manipulate objects more frequently
+than immature females
+P1. Males will manipulate sticks more frequently than females
+since infancy
+Yes
+P2. Males will manipulate stones more frequently than females
+since infancy
+Yes
+P3. Males will have a higher frequency of probe tool use than
+females
+Yes
+H2. Immature males have more social opportunities to observe
+probe tool use from proficient individuals (males)
+P4. On close distance social networks, immature males will have
+more connections than immature females with older males
+No
+H3. Males observe more probe tool use than females P5. Males observe probe tool use when near a probe tool use event
+more often than females in the same situation
+Yes
+FALÓTICO ET AL .
+ | 3o f1 0
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+one scan. The cells were given values 1 for individuals within 1 m of
+the focal (who also had value 1) and zeroes to all individuals not
+present within 1 m of the focal. Each of those matrices were used to
+calculate a Jaccard similarity index between each possible dyad. We
+used a R script and the “ade4” package to calculate the index from
+the matrices (Script S 1). The resulting files with the dyads' Jaccard
+indexes were then used to build undirected social networks of dis-
+tance, with individuals as nodes and the Jaccard index as weighted
+edges (values between 0 and 1), meaning the percentage of time the
+two connected individuals were together on the scans. We used
+Gephi 0.9 (Bastian et al., 2009) to produce and analyse the social
+networks.
+2.4 | All occurrences sampling
+We registered all tool use events observed in and outside the
+focal sampling, by all individuals in the group. We video recorded
+the whole episodes until the capture of the resource or the
+abandonment of the site. To test P5, we coded the videos to
+identify the user, all the individuals nearby (<0.5 m), and how
+many of those nearby individuals were peering at the probe tool
+user (attentive close range watching for at least 5 s to the probe
+tool being used). We counted all the events that had observers or
+not, and, for the former, we calculated the frequencies for males
+and females.
+2.5 | Statistical analysis
+We used general estimating equations (GEE) to compare the sex
+differences in the manipulatory b ehaviors between the infants.
+Individuals were set as repeated measures subjects, and age
+blocks as within ‐subject variable. Sex was set as predictor vari-
+able and the manipulation behavior rate ( n/h) as dependent
+variable. We used the number of manipulation episodes (de-
+limited by the behaviors “Grab/hold object ” and “Drop object ”)b y
+the observed time in the analysed age block to calculate the rate
+f o re a c hi m m a t u r e ,o ne a c ha g eb l o c k .T oa n a l y s et h i sd a t a ,w e
+used a mixed Tweedie distribution (Poison –gamma) model, that
+works as a gamma distribution but account for zeros as a Poison.
+Zeros cannot be discarded in our analysis, as we expect some
+individuals to have zero manipulation or tool use rates during
+development or even due to sex.
+We used generalized linear mixed models (GLMM) to analyse
+the differences between sex and network connections to older
+males. We employed the number of males (adult, subadult, and
+juvenile 2) connection (degree) of each immature from each
+proximity social network to meas ure the social availability of
+proficient models on probe tool use. In this case only males were
+used as models, since it is the only class that show this behavior
+on this population. Only individuals older than Juveniles 2 were
+included because younger juveniles are seldom proficient using
+probe tools, and the observation biases known to be present in
+stone tool use social learning in capuchins are related to profi-
+ciency and to the age of the potential models (Coelho et al., 2015 ;
+Ottoni et al., 2005 ). We used age blocks and individuals as sub-
+jects on the model, individuals nested inside age blocks. The se-
+quential focal lists were used as repeated measures. The degree
+(number) of male connections was the target value (dependent
+variable), modeled with Poisson distribution with log link. Sex
+was used as fixed effect (predictor).
+All analyses were performed with IBM SPSS 23.
+2.6 | Ethical note
+The research was observational only and complied with protocols
+approved by the Animal Research Ethical Committee of the Institute
+of Psychology, University of São Paulo (CEUA 3036140715); fully
+adhered to Brazilian law, under authorization from environmental
+agencies IBAMA/ICMBio 37615 ‐1, and complied with the American
+Society of Primatologists Principles for the Ethical Treatment of
+Non‐Human Primates. The data that support the findings of this
+study are available from the corresponding author upon reasonable
+request.
+TABLE 2 Minutes of recorded focal samples for each analysed immature individual on each age block
+Individual Sex
+Age block (weeks)
+6–17 18 –29 30 –41 42 –53 54 –65 66 –77 78 –89 90 –101 Total
+Akira Female 50 90 120 180 0 0 320 210 970
+Bala Female 80 0 120 270 90 0 0 0 560
+Capeta Female 70 70 160 20 0 130 260 0 710
+Beck Male 0 10 60 120 40 0 160 270 660
+Lixa Male 0 240 210 0 0 0 0 0 450
+Mexerica Male 70 80 80 100 0 70 300 90 790
+Mosca Male 80 70 140 20 0 160 270 30 770
+Verruga Male 30 30 50 160 40 0 210 270 790
+4o f1 0 |
+ FALÓTICO ET AL .
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+3 | RESULTS
+3.1 | Object manipulation
+Stick manipulation was present since the first age block for two
+infants (one male and one female), and the frequency increased for
+males after block age 66 –77, when they also begin to increase the
+use of those sticks as probe tools (see Figure 1), remaining low for
+females and for one of the males (Table 3).
+Stone manipulation was present since the first age block for two
+infants (one male and one female), and frequency was highly variable
+(Table 4). To the exception of Verruga, that showed a sharp increase
+of stone manipulation in the last age block, no apparent pattern
+emerged as observed in the case of stick manipulation.
+The GEE analysis involved a regression of the infants' block age
+manipulation rate, showing sex was a significant predictor for both
+rates of manipulation (Table 5).
+The estimated means shows that males manipulated more fre-
+quently sticks and stones than females (Table 6), supporting P1 and
+P2 (males will manipulate stones and sticks more frequently than
+females since infancy).
+3.2 | Tool use
+The use of stone tools was rare for the infants in this study. We
+registered 93 events of stone tool use. Probe tool use (events of
+probing/hour) was much more frequent ( N = 286), being first ob-
+served in two infant males in the 42 –53‐week age block and be-
+coming more frequent in the 78 –89‐weeks age block (Figure 1). Only
+one female was observed probing, but with very low frequency
+compared to the males.
+3.3 | Social networks
+To test P4 (which predicted immature males would have more
+connections than immature females with older males), we coun-
+ted the connections of “older males ” (adults, subadults, and ju-
+veniles 2) and “immatures ” (infants/juveniles 1) for each social
+network ( N = 27). Comparing the connections between immature
+males and females, we found that immature males had more
+connections to “older males, ” on average, than immature females
+(Males, Avg = 7.1, SD =2 . 5 ; F e m a l e s , A v g=6 . 2 ,SD =2 . 7 ) . H o w -
+ever, the GLMM test (Tables 7 and 8) showed that the sex of the
+immatures was not a significant predictor for the number of
+connections, thus not supporting P4.
+3.4 | Observation of probe tool use
+To test P5, we recorded 216 episodes of probe tool use by all in-
+dividuals (all occurrences, Table S 2). From these, 123 (57%) had one
+or more nearby (0.5 m) individuals (all ages), and from those epi-
+sodes, 87 (71%) had at least one individual peering the probe tool
+use. Analysing the sex of the nearby and peering individuals, we
+found that male peering frequency was more than twice than fe-
+male's (Table 9), χ
+2 (degrees of freedom, N = 293) = 8.6129,
+p = 0.003338.
+0
+10
+20
+30
+40
+(6-17) (18-29) (30-41) (42-53) 54-65 (66-77) (78-89) (90-101)
+Probe tool use rate (probing/hour)
+Block age (weeks)
+Akira (F)
+Beck (M)
+Mexerica (M)
+Verruga (M)
+FIGURE 1 Probe tool use rate (rate of probe insertion per hour)
+per infant. Only one female (Akira) was observed probing, but with
+very low frequency
+TABLE 3 Stick manipulation rate (N/hour) for the immatures
+Individual Sex
+Age blocks (weeks)
+(6–17) (18 –29) (30 –41) (42 –53) (54 –65) (66 –77) (78 –89) (90 –101)
+Akira F 0 3.33 1.5 2 –– 4.31 0.57
+Bala F 0 – 0 1.11 6 –––
+Capeta F 4.29 0.86 6 3 – 0 0.46 0
+Beck M – 0 0 5.5 6 – 13.88 13.11
+Lixa M – 0.5 2 –––––
+Mexerica M 0 3.75 2.25 12.6 – 9.43 9 8
+Mosca M 1.5 3.43 5.57 3 – 3 0.66 6
+Verruga M 0 2 0 1.88 0 – 5.71 8
+Note: Missing values ( –) represent individuals not sampled in that age block.
+FALÓTICO ET AL .
+ | 5o f1 0
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+The individual differences between the eight infants followed
+during the study also show a sex difference pattern, although there
+was not enough data for statistical analysis (Table 10). Apart from
+Lixa, the younger individual, other males had a higher absolute fre-
+quency of both behaviors, being near and peering at the probe tool
+use, than the females.
+4 | DISCUSSION
+Probe tool use by wild capuchin monkeys in SCNP is a highly sex ‐
+biased behavior, being observed almost only in males. This was un-
+expected, as females are proficient tool user in other situations and
+there are no physical constrains to the use of probe tools. We ex-
+amined factors that could be related to this difference: different
+manipulation rates of stones and sticks, social opportunities to ob-
+serve probe tool use, and the motivation in observing this behavior.
+Our results show a significant difference between immature
+males and females during their development regarding stick and
+stone manipulation, and probe tool use.
+4.1 | Immature males will manipulate objects
+more frequently than immature females
+The predictions for this hypothesis were that we would find a dif-
+ference in manipulation of sticks and stones (P1 and P2) between
+immature males and females once they begin to manipulate objects.
+TABLE 4 Stone manipulation rate (N/
+h) for the immaturesIndividual Sex
+Age blocks (weeks)
+(6–17) (18 –29) (30 –41) (42 –53) (54 –65) (66 –77) (78 –89) (90 –101)
+Akira F 0 1.33 0 6.67 –– 3.75 1.71
+Bala F 0 – 7 3.56 7.33 –––
+Capeta F 4.29 0 0 0 – 1.85 5.08 0
+Beck M – 0 2.00 9.50 4.50 – 0.75 7.33
+Lixa M – 0.50 12.29 –––––
+Mexerica M 1.71 1.50 9 4.20 – 4.29 5.20 20.67
+Mosca M 0 0 3.86 3 – 3.75 1.56 2
+Verruga M 0 8 8.40 5.63 0 – 4.29 10.89
+Note: Missing values ( –) represent individuals not sampled in that age block.
+TABLE 5 Results for the generalized
+estimating equations for model effects on
+the response object manipulation rate by
+immatures per block age and sex as
+predictor variable
+Effect
+Stick manipulation Stone manipulation
+BS E Wald χ2 p value BS E Wald χ2 p value
+Intercept 0.737 0.076 93.207 0.001 0.978 0.212 21.258 0.001
+Sex 0.738 0.210 12.254 0.001 0.558 0.277 4.047 0.044
+TABLE 6 Estimated marginal means of the object manipulation
+rates per sex
+Sex
+Stick manipulation Stone manipulation
+Mean SE Mean SE
+Male 4.37 0.86 4.65 0.83
+Female 2.09 0.16 2.66 0.56
+TABLE 7 Results for the generalized linear mixed model for
+model effects on the response male connection count by immature
+individual per age block
+Effect BS E T df1 df2 p value
+Intercept 1.924 0.088 21.859 1 194 0.000
+Sex 0.098 0.111 1.191 1 194 0.381
+TABLE 8 Estimated means of male proximity in social networks
+per sex of the eight immatures studied
+Older males' proximity in social network
+Sex Mean SE
+Male 7.55 0.512
+Female 6.85 0.603
+TABLE 9 Total frequency of probe tool events with nearby
+individuals (within 0.5 m), and from those, the number and
+percentage of observation episodes with peering of the probe tool
+use event
+Events with nearby
+individuals
+Events with
+peering individuals
+Females 59 21 (36%)
+Males 115 98 (85%)
+Total 174 119
+6o f1 0 |
+ FALÓTICO ET AL .
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+The results support P1 and P2, as the immature males did manipulate
+sticks and stones with a higher frequency than the females.
+The last prediction (P3, males would use probe tools at a higher
+frequency than females) was supported, as immature males were al-
+most the only ones to use sticks as probes. We did observe one female
+probing, but with a very low frequency compared to the males.
+These results show that young females exhibit lower manipula-
+tion frequencies of both stones and sticks, but they do use stones as
+tools as adults, so lower early manipulation rates do not seem to fully
+explain the lack of probe tool use later in life, although it could be a
+factor involved. Female capuchins are known to present a lower
+stone tool use rate, particularly when using large stones (Falótico &
+Ottoni, 2016; Spagnoletti et al., 2011), but it seems related to body
+mass, strength, and tool weight, so it does not provide a good ex-
+planation for the sex bias observed in probe tool use in this popu-
+lation. The lower early stone manipulation rates did not prevent
+females from being proficient stone tool users, as previous studies in
+the area showed (Falótico & Ottoni, 2016; Falótico et al., 2017;
+Mannu & Ottoni, 2009; Moura & Lee, 2004).
+The absence of stone tool use among the infants in the study was
+expected. Other studies on the same topic showed that infant ca-
+puchins take a long time (2–3 years) to begin to use stones proficiently
+as tools (Resende et al., 2008), longer than the immatures' age in this
+study. The use of sticks as tools starts earlier than that of stones, maybe
+because it takes less interactions with objects to be effective. Using
+stones to crack open seeds/nuts takes the coordination of three objects
+(anvil, hammer, and target), but a probe only requires the coordination
+of two (probe and target). Furthermore, the effective use of percussive
+tools requires greater strength/body mass.
+4.2 | Immature males have more social
+opportunities to observe probe tool use by proficient
+individuals (older males)
+Tool use learning is socially biased in capuchins. During the devel-
+opment of stone tool use, stimulus and local enhancement seem to
+be the main processes that direct the attention of youngsters to the
+objects that are manipulated and later used as tools after an in-
+dividual learning process. This same situation also provides scroun-
+ging opportunities that potentially reinforce the behavior (Coelho
+et al., 2015; Ottoni et al., 2005).
+Social observation opportunities are, consequently, important in
+the development of tool use. However, differently from nut cracking
+and most other stone tool use behaviors, probe tool use is less noisy
+and does not generate long ‐lasting tool use sites with tools and food
+leftovers, making probe use learning even more dependent on the
+direct observation of the tool use event itself.
+Our prediction P4 was that young males would be more fre-
+quently close to older males, and, thus, have more opportunities to
+observe and learn about probe tool use than young females, resulting
+in the strong sex bias in this behavior that we observe in this po-
+pulation. However, the results showed that the immatures of both
+sexes had similar spatial connections to adult males, indicating that
+young females do not have very different network connections than
+males. In other words, older males (the models for probing tool use
+behavior) were similarly present in infant males' and females' social
+networks.
+4.3 | Males observe more probe tool use than
+females
+Our last hypothesis was that males would observe more probe tool
+use when near an event of such behavior and, doing so, have more
+direct interaction with the probing and increasing the chances of
+learning this behavior, their attention drawn to the sticks and the
+target locations of their use.
+Prediction 5 (males observing probe tool use when near such
+events more often than females in the same situation), was supported
+by the data. While males close to probe tool use events were usually
+observing the probing, females were seldom seen observing, and that
+was evident not only in the data from the immatures (Table 10), but
+also in the analysis including the adults as well (Table 9). Although we
+cannot say for sure that this is the primary reason for the sex bias
+observed later in life, our results present a strong evidence that moti-
+vation (or the lack of) to observe a b ehavior can lead to different re-
+pertoires between sex classes in capuchins.
+Although males are more manipulative toward sticks and stones
+than females, this difference may be potentialized, in the case of
+sticks, by the bias caused by the males' higher frequency of probe
+tool use peering. Our tentative explanation is that, because of this
+situation, females end up not manipulating sticks as much in foraging
+contexts and, not doing so, never learn to use probes. This
+“motivation‐based” learning bias could be the cause this behavioral
+tradition to remain restricted to the males in this population, al-
+though females are capable of using sticks as probe tools. Our study
+is limited by the small sample, so it remains an open question whe-
+ther, in case other capuchin populations were found to exhibit cus-
+tomary probe tool use, the same bias would be observed.
+TABLE 1 0 Peering frequency of the eight infants studied
+Individual Sex
+Frequency of
+being near probe
+tool use
+Frequency of
+peering probe
+tool use
+%o f
+peering
+Akira F 3 2 66
+Bala F 0 0 ‐
+Capeta F 3 2 66
+Beck M 11 10 91
+Lixa M 2 1 50
+Mexerica M 18 15 83
+Mosca M 16 10 62
+Verruga M 9 9 100
+FALÓTICO ET AL .
+ | 7o f1 0
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+Our results also lead to new questions; the first regards the
+motivation for males to observe probe tool use. Or, alternatively,
+why females are not so interested in it.
+A simple and parsimonious explanation would be the existence
+of a general sex ‐biased attentional preference in capuchin monkeys.
+An experimental study about preferences on visual attention de-
+monstrated that each sex paid more attention to pictures of same
+sex (Lonsdorf et al., 2019). Maybe the same happens in capuchin
+monkeys' observation of conspecifics' behavior (including probe tool
+use or manipulatory behaviors) —their attention being more driven to
+same sex targets.
+Other explanations could involve an observation bias specifically
+related to manipulation and tool use behaviors. Probe tool use is
+much less rewarding than stone tool use. While foraging using stones
+for cracking and digging in SCNP usually yields more than 70% of
+success in obtaining food (Falótico & Ottoni, 2016; Falótico
+et al., 2017), the use of probes only returns food in around 20% –25%
+of the cases, for adults, and less than 5% for juveniles (Falótico &
+Ottoni, 2014). Females may be more driven for nutritional con-
+sequences, not being so interested in a behavior that does not return
+food very often. Moreover, differently from stone tool use, probe use
+seldom produces food remains that can be scrounged —implying less
+attraction to the tool use site and to the tools, which amounts to
+lesser effects of local and stimulus enhancement, particularly if, in
+the case for the females, the motivation is more food ‐related.
+Another explanation could be related to sex differences in diet.
+However, male and female capuchins eat the same resources and
+prey on the same animals, although with different frequencies. In a
+study about diet in S. libidinosus , although the food items consumed
+were the same, it was found that females ate more invertebrates and
+roots than males, and males consumed more palm nuts than females
+(Peternelli‐dos‐Santos, 2015).
+Future research to answer these questions should look for ob-
+servational sex biases on stone tool use and object manipulation
+behaviors. If females peer at stone tool use as much as males,
+especially on tools that produce few leftovers, it could indicate that
+stone tools per se are more attractive to females than the probes.
+Otherwise, if females are also less attentive to stone tool use events,
+this could suggest that other factors, such as the availability of
+leftovers, attract them to tool use sites where they end up learning
+how to use those objects as tools.
+Our tentative explanation for the observed patterns is that the
+more frequent observation, by the immature males, of probe use
+events performed by older (male) individuals, does not lead to the
+direct copy of these behaviors (which would characterize “imitative”
+learning), but elicits more frequent and intensive manipulation of
+sticks ( “stimulus enhancement ”), which creates more opportunities
+for the individual learning of tool ‐aided probing.
+ACKNOWLEDGMENTS
+We thank FUMDHAM and Niede Guidon for their support during
+the research at SCNP, and field assistant George Reinaldo for
+helping in data collection. We also thank the helpful comments by
+two anonymous reviewers. The following grants supported this
+study: TF —#2013/05219 ‐0, São Paulo Research Foundation
+(FAPESP); EBO —#2014/04818 ‐0, São Paulo Research Founda-
+tion (FAPESP); Conselho Nacional de Desenvolvimento Científico
+e Tecnológico (CNPq) EBO —308746/2017 ‐1a n dC Q B—376637/
+2015 ‐3.
+CONFLICT OF INTERESTS
+The authors declare that there are no conflict of interests.
+AUTHOR CONTRIBUTIONS
+Tiago Falótico : conceptualization (lead); data curation (lead); in-
+vestigation (lead); methodology (lead); writing original draft (lead);
+writing review and editing (lead). Eduardo B. Ottoni : con-
+ceptualization (supporting); funding acquisition (lead); supervision
+(lead); writing original draft (supporting); writing review and editing
+(equal).
+PEER REVIEW
+The peer review history for this article is available at https://publons.
+com/publon/10.1002/ajp.23251
+DATA AVAILABILITY STATEMENT
+The data that support the findings of this study are available from
+the corresponding author upon reasonable request.
+ORCID
+Tiago Falótico
+http://orcid.org/0000-0002-0638-1989
+Eduardo B. Ottoni http://orcid.org/0000-0003-1288-8345
+REFERENCES
+Aguiar, L. M., Cardoso, R. M., Back, J. P., Carneiro, E. C., Suzin, A., &
+Ottoni, E. B. (2014). Tool use in urban populations of capuchin
+monkeys Sapajus spp. (Primates: Cebidae). Zoologia (Curitiba) , 31(5),
+516–519. https://doi.org/10.1590/s1984-46702014000500012
+Bastian, M., Heymann, S., & Jacomy, M. (2009). Gephi: An open source
+software for exploring and manipulating networks. Presented at the
+International AAAI Conference on Web and Social Media . http://www.
+aaai.org/ocs/index.php/ICWSM/09/paper/view/154
+Boesch, C., & Boesch, H. (1990). Tool use and tool making in wild
+chimpanzees. Folia Primatologica, 54(1–2), 86–99. https://doi.org/10.
+1159/000156428
+Boesch, C., Head, J., & Robbins, M. M. (2009). Complex tool sets for honey
+extraction among chimpanzees in Loango National Park, Gabon.
+Journal of Human Evolution , 56(6), 560–569. https://doi.org/10.1016/
+j.jhevol.2009.04.001
+Boesch, C., Kalan, A. K., Agbor, A., Arandjelovic, M., Dieguez, P.,
+Lapeyre, V., & Kühl, H. S. (2016). Chimpanzees routinely fish for
+algae with tools during the dry season in Bakoun, Guinea. American
+Journal of Primatology , 79(3), e22613. https://doi.org/10.1002/ajp.
+22613
+Boesch, C., Kalan, A. K., Mundry, R., Arandjelovic, M., Pika, S., Dieguez, P.,
+Ayimisin, E. A., Barciela, A., Coupland, C., Egbe, V. E., Eno ‐Nku, M.,
+Michael Fay, J., Fine, D., Adriana hernandez ‐Aguilar, R., Hermans, V.,
+Kadam, P., Kambi, M., Llana, M., Maretti, G., … Kühl, H. S. (2020).
+Chimpanzee ethnography reveals unexpected cultural diversity.
+Nature Human Behaviour , 4(9), 910 –916. https://doi.org/10.1038/
+s41562-020-0890-1
+8o f1 0 |
+ FALÓTICO ET AL .
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+Cardoso, R. M., & Ottoni, E. B. (2016). The effects of tradition on problem
+solving by two wild populations of bearded capuchin monkeys in a
+probing task. Biology Letters , 12(11), 20160604. https://doi.org/10.
+1098/rsbl.2016.0604
+van Casteren, A., Sellers, W. I., Thorpe, S. K. S., Coward, S.,
+Crompton, R. H., Myatt, J. P., & Ennos, A. R. (2012). Nest ‐building
+orangutans demonstrate engineering know ‐how to produce safe,
+comfortable beds. Proceedings of the National Academy of Sciences of
+the United States of America , 109(18), 6873–6877. https://doi.org/10.
+1073/pnas.1200902109
+Coelho, C. G., Falótico, T., Izar, P., Mannu, M., Resende, B. D.,
+Siqueira, J. O., & Ottoni, E. B. (2015). Social learning strategies for
+nut‐cracking by tufted capuchin monkeys ( Sapajus spp.). Animal
+Cognition, 18(4), 911 –919. https://doi.org/10.1007/s10071-015-
+0861-5
+Falótico, T., Coutinho, P. H. M., Bueno, C. Q., Rufo, H. P., & Ottoni, E. B.
+(2018). Stone tool use by wild capuchin monkeys ( Sapajus libidinosus)
+at Serra das Confusões National Park, Brazil. Primates, 59(4),
+385–394. https://doi.org/10.1007/s10329-018-0660-0
+Falótico, T., & Ottoni, E. B. (2014). Sexual bias in probe tool manufacture
+and use by wild bearded capuchin monkeys. Behavioural Processes ,
+108, 117 –122. https://doi.org/10.1016/j.beproc.2014.09.036
+Falótico, T., & Ottoni, E. B. (2016). The manifold use of pounding stone
+tools by wild capuchin monkeys of Serra da Capivara National Park,
+Brazil. Behaviour, 153(4), 421 –442. https://doi.org/10.1163/
+1568539x-00003357
+F a l ó t i c o ,T . ,S i q u e i r a ,J .O . ,&O t t o n i ,E .B .( 2 0 1 7 ) .D i g g i n gu p
+food: Excavation stone tool use by wild capuchin monkeys.
+Scientific Reports , 7(1), 6278. https://doi.org/10.1038/s41598-
+017-06541-0
+Falótico, T., Verderane, M. P., Mendonça ‐Furtado, O., Spagnoletti, N.,
+Ottoni, E. B., Visalberghi, E., & Izar, P. (2018). Food or threat? Wild
+capuchin monkeys (Sapajus libidinosus) as both predators and prey of
+snakes. Primates, 59(1), 99 –106. https://doi.org/10.1007/s10329-
+017-0631-x
+Fragaszy, D. M., Biro, D., Eshchar, Y., Humle, T., Izar, P., Resende, B., &
+Visalberghi, E. (2013). The fourth dimension of tool use: Temporally
+enduring artefacts aid primates learning to use tools. Philosophical
+Transactions of the Royal Society, B: Biological Sciences ,
+368(1630),
+20120410. https://doi.org/10.1098/rstb.2012.0410
+Fragaszy, D. M., Eshchar, Y., Visalberghi, E., Resende, B., Laity, K., & Izar, P.
+(2017). Synchronized practice helps bearded capuchin monkeys
+learn to extend attention while learning a tradition. Proceedings of
+the National Academy of Sciencesof the United States of America ,
+114(30), 7798 –7805. https://doi.org/10.1073/pnas.1621071114
+Fragaszy, D. M., & Visalberghi, E. (2004). Socially biased learning in
+monkeys. Animal Learning & Behavior , 32(1), 24 –35. https://doi.org/
+10.3758/bf03196004
+Gruber, T., Clay, Z., & Zuberbühler, K. (2010). A comparison of bonobo
+and chimpanzee tool use: Evidence for a female bias in the Pan
+lineage. Animal Behaviour , 80(6), 1023 –1033. https://doi.org/10.
+1016/j.anbehav.2010.09.005
+Gruber, T., Muller, M. N., Strimling, P., Wrangham, R., & Zuberbühler, K.
+(2009). Wild chimpanzees rely on cultural knowledge to solve an
+experimental honey acquisition task. Current Biology , 19(21),
+1806–1810. https://doi.org/10.1016/j.cub.2009.08.060
+Haslam, M., & Falótico, T. (2015). Nasal probe and toothpick tool use by a
+wild female bearded capuchin ( Sapajus libidinosus ). Primates, 56(3),
+211–214. https://doi.org/10.1007/s10329-015-0470-6
+Howard, A., Mainali, K., Fagan, W. F., Visalberghi, E., Izar, P., Jones, C., &
+Fragaszy, D. (2018). Foraging and inter ‐individual distances of
+bearded capuchin monkeys. American Journal of Primatology , 80(8),
+e22900. https://doi.org/10.1002/ajp.22900
+Humle, T., & Matsuzawa, T. (2002). Ant ‐dipping among the chimpanzees
+of Bossou, Guinea, and some comparisons with other sites. American
+Journal of Primatology , 58(3), 133 –148. https://doi.org/10.1002/ajp.
+10055
+Koops, K., Furuichi, T., Hashimoto, C., & van Schaik, C. P. (2015). Sex
+differences in object manipulation in wild immature chimpanzees
+(Pan troglodytes schweinfurthii ) and bonobos ( Pan paniscus ):
+Preparation for tool use? PLOS One , 10(10), e0139909. https://doi.
+org/10.1371/journal.pone.0139909
+Lonsdorf, E. V. (2005). Sex differences in the development of termite ‐
+fishing skills in the wild chimpanzees, Pan troglodytes schweinfurthii
+,
+of Gombe National Park, Tanzania. Animal Behaviour , 70(3),
+673–683. https://doi.org/10.1016/j.anbehav.2004.12.014
+Lonsdorf, E. V., Engelbert, L. M., & Howard, L. H. (2019). A competitive
+drive? Same ‐sex attentional preferences in capuchins. American
+Journal of Primatology , 81(6), e22998. https://doi.org/10.1002/ajp.
+22998
+Mannu, M., & Ottoni, E. B. (2009). The enhanced tool ‐kit of two groups of
+wild bearded capuchin monkeys in the Caatinga: Tool making,
+associative use, and secondary tools. American Journal of Primatology ,
+71(3), 242 –251. https://doi.org/10.1002/ajp.20642
+Manrique, H. M., Sabbatini, G., Call, J., & Visalberghi, E. (2011). Tool
+choice on the basis of rigidity in capuchin monkeys. Animal Cognition,
+14(6), 775 –786. https://doi.org/10.1007/s10071-011-0410-9
+Martin, P., & Bateson, P. (2007). Measuring behaviour: An introductory guide
+(3rd ed.). Cambridge University Press.
+McGrew, W. C., & Collins, D. A. (1985). Tool use by wild chimpanzees ( Pan
+troglodytes) to obtain termites ( Macrotermes herus ) in the Mahale
+Mountains, Tanzania. American Journal of Primatology , 9(1), 47 –62.
+https://doi.org/10.1002/ajp.1350090106
+McGrew, W. C. (1979). Evolutionary implications of sex differences in
+chimpanzee predation and tool use. In D. A. Hamburg, & E. R.
+McCown (Eds.), The Great Apes (pp. 441 –463). The Benjamin/
+Cummings Publishing Company, Inc.
+Moura, A.C.deA., & Lee, P. C. (2004). Capuchin stone tool use in caatinga
+dry forest. Science, 306(5703), 1909. https://doi.org/10.1126/
+science.1102558
+Musgrave, S., Lonsdorf, E., Morgan, D., & Sanz, C. (2020). The ontogeny of
+termite gathering among chimpanzees in the Goualougo Triangle,
+Republic of Congo. American Journal of Physical Anthropology , https://
+doi.org/10.1002/ajpa.24125
+Ottoni, E. B., & Izar, P. (2008). Capuchin monkey tool use: Overview and
+implications. Evolutionary Anthropology , 17(4), 171 –178. https://doi.
+org/10.1002/evan.20185
+Ottoni, E. B., Resende, B.D.de, & Izar, P. (2005). Watching the best
+nutcrackers: What capuchin monkeys ( Cebus apella ) know about
+others' tool‐using skills. Animal Cognition, 8(4), 215–
+219. https://doi.
+org/10.1007/s10071-004-0245-8
+Pascual‐Garrido, A. (2017). Termite fishing by Mahale chimpanzees:
+Revisited, decades later. Pan Africa News , 24,1 5 –19. http://hdl.
+handle.net/2433/228897
+Peternelli dos Santos, L. (2015). Par âmetros nutricionais da dieta de duas
+populações de macacos‐prego: Sapajus libidinosus Sapajus nigritus no
+ecótono Cerrado/Caatinga e na Mata Atlântica (Doctoral dissertation).
+Institute of Psychology, University of São Paulo. http://www.teses.usp.
+br/teses/disponiveis/47/47132/tde‐10082015‐110633/
+Pruetz, J. D., & Bertolani, P. (2007). Savanna chimpanzees, Pan troglodytes
+verus, hunt with tools. Current Biology , 17(5), 412 –417. https://doi.
+org/10.1016/j.cub.2006.12.042
+Pruetz, J. D., Bertolani, P., Ontl, K. B., Lindshield, S., Shelley, M., &
+Wessling, E. G. (2015). New evidence on the tool ‐assisted hunting
+exhibited by chimpanzees ( Pan troglodytes verus ) in a savannah
+habitat at Fongoli, Sénégal. Royal Society Open Science , 2(4), 140507.
+https://doi.org/10.1098/rsos.140507
+Resende, B. D., de, Ottoni, E. B., & Fragaszy, D. M. (2008). Ontogeny of
+manipulative behavior and nut ‐cracking in young tufted capuchin
+monkeys ( Cebus apella ): A perception ‐action perspective.
+FALÓTICO ET AL .
+ | 9o f1 0
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 10
+Developmental Science , 11(6), 828 –840. https://doi.org/10.1111/j.
+1467-7687.2008.00731.x
+Sanz, C., Morgan, D., & Gulick, S. (2004). New insights into chimpanzees,
+tools, and termites from the Congo Basin. The American Naturalist ,
+164(5), 567 –581. https://doi.org/10.1086/424803
+Schaik, C. P. van, Noordwijk, M. A. van, & Vogel, E. R. (2008). Ecological sex
+differences in wild orangutans. In S. A. Wich, S. S. U. Atmoko, T. M.
+Setia, & C. P. van Schaik (Eds.), Orangutans: geographic variation in
+behavioral ecology and conservation, (pp. 255 –268). Oxford University
+Press. https://doi.org/10.1093/acprof:oso/9780199213276.003.0018
+van Schaik, C. P., van Noordwijk, M. A., & Vogel, E. R. (2008). Ecological sex
+differences in wild orangutans (pp. 255–268). https://doi.org/10.1093/
+acprof:oso/9780199213276.003.0018
+Schuppli, C., Meulman, E. J. M., Forss, S. I. F., Aprilinayati, F.,
+van Noordwijk, M. A., & van Schaik, C. P. (2016). Observational
+social learning and socially induced practice of routine skills in
+immature wild orang ‐utans. Animal Behaviour , 119(C), 87 –98.
+https://doi.org/10.1016/j.anbehav.2016.06.014
+Souto, A., Bione, C. B. C., Bastos, M., Bezerra, B. M., Fragaszy, D., &
+Schiel, N. (2011). Critically endangered blonde capuchins fish for
+termites and use new techniques to accomplish the task. Biology
+Letters, 7(4), 532 –535. https://doi.org/10.1098/rsbl.2011.0034
+Spagnoletti, N., Visalberghi, E., Ottoni, E., Izar, P., & Fragaszy, D. (2011).
+Stone tool use by adult wild bearded capuchin monkeys ( Cebus
+libidinosus). Frequency, efficiency and tool selectivity. Journal of
+Human Evolution , 61(1), 97 –107. https://doi.org/10.1016/j.jhevol.
+2011.02.010
+Visalberghi, E., & Limongelli, L. (1994). Lack of comprehension of cause ‐
+effect relations in tool ‐using capuchin monkeys ( Cebus apella ).
+Journal of Comparative Psychology , 108(1), 15 –22. https://doi.org/
+10.1037/0735-7036.108.1.15
+Whiten, A., Goodall, J., McGrew, W. C., Nishida, T., Reynolds, V.,
+Sugiyama, Y., Tutin, C. E., Wrangham, R. W., & Boesch, C. (1999).
+Cultures in chimpanzees. Nature, 399(6737), 682 –685. https://doi.
+org/10.1038/21415
+Whiten, A., & van de Waal, E. (2018). The pervasive role of social learning
+in primate lifetime development. Behavioral Ecology and Sociobiology ,
+72
+(5), 80. https://doi.org/10.1007/s00265-018-2489-3
+SUPPORTING INFORMATION
+Additional Supporting Information may be found online in the
+supporting information tab for this article.
+How to cite this article: F a l ó t i c o ,T . ,B u e n o ,C .Q . ,&O t t o n i ,E .B .
+(2021). Ontogeny and sex differences in object manipulation
+and probe tool use by wild tufted capuchin monkeys
+(Sapajus libidinosus). Am J Primatol, 83, e23251.
+https://doi.org/10.1002/ajp.23251
+10 of 10 |
+ FALÓTICO ET AL .
+ 10982345, 2021, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajp.23251 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

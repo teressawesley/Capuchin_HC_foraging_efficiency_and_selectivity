@@ -1,0 +1,1031 @@
+PDF PAGE 1
+Seasonality, extractive foraging and the evolution of primate
+sensorimotor intelligence
+Amanda D. Melin a, b, *, Hilary C. Young c, Krisztina N. Mosdossy d, Linda M. Fedigan d
+a Department of Anthropology, Dartmouth College, 6047 Silsby Hall, Hanover, NH, USA
+b Department of Anthropology, Washington University, One Brookings Drive, St. Louis, MO 63130, USA
+c Department of Biological Sciences, University of Calgary, 2500 University Drive, Calgary, AB T2N 1N4, Canada
+d Department of Anthropology, University of Calgary, 2500 University Drive, Calgary, AB T2N 1N4, Canada
+article info
+Article history:
+Received 19 October 2012
+Accepted 18 February 2014
+Available online 15 March 2014
+Keywords:
+Capuchin
+Embedded foods
+Faunivory
+Fallback food
+Invertebrate
+abstract
+The parallel evolution of increased sensorimotor intelligence in humans and capuchins has been linked
+to the cognitive and manual demands of seasonal extractive faunivory. This hypothesis is attractive on
+theoretical grounds, but it has eluded widespread acceptance due to lack of empirical data. For instance,
+the effects of seasonality on the extractive foraging behaviors of capuchins are largely unknown. Here we
+report foraging observations on four groups of wild capuchins ( Cebus capucinus ) inhabiting a seasonally
+dry tropical forest. We also measured intra-annual variation in temperature, rainfall, and food abun-
+dance. We found that the exploitation of embedded or mechanically protected invertebrates was
+concentrated during periods of fruit scarcity. Such a pattern suggests that embedded insects are best
+characterized as a fallback food for capuchins. We discuss the implications of seasonal extractive fau-
+nivory for the evolution of sensorimotor intelligence (SMI) in capuchins and hominins and suggest that
+the suite of features associated with SMI, including increased manual dexterity, tool use, and innovative
+problem solving are cognitive adaptations among frugivores that fall back seasonally on extractable
+foods. The selective pressures acting on SMI are predicted to be strongest among primates living in the
+most seasonal environments. This model is proffered to explain the differences in tool use between
+capuchin lineages, and SMI as an adaptation to extractive foraging is suggested to play an important role
+in hominin evolution.
+/C2112014 Elsevier Ltd. All rights reserved.
+Introduction
+Brain size, sensorimotor intelligence and extractive foraging
+Adaptive hypotheses for the evolution of relatively large brains
+among primates have fueled decades of debate ( Jolly, 1966; Jerison,
+1973; Parker and Gibson, 1977; Clutton-Brock and Harvey, 1980;
+Milton, 1981; Martin, 1984; Cheney et al., 1986; Gibson, 1986; Byrne
+and Whiten, 1989; Sawaguchi, 1990; Aiello and Wheeler, 1995;
+Dunbar, 1998; Byrne, 2000; Deaner et al., 2000; Tomasello, 2000;
+Johnson, 2001; Reader and Laland, 2002; Russon and Begun, 2004;
+Barton, 2006; Dunbar and Shultz, 2007; Herrmann et al., 2007;
+Cosmides et al., 2010; Navarrete et al., 201 1; Barton, 2012 ). An
+emerging consensus from this debate is that foraging skills have
+played an important role in cognitive evolution (Parker and Gibson,
+1977; Reader et al., 201 1; Barton, 2012 ). One particular skill e the
+manual extraction of embedded foods from hidden locations or
+protective matrices e requires exceptional conceptual abilities and
+enhanced motor control of the forelimb. Together, these demands
+on the cerebral cortex might have favored a larger brain size; a
+concept termed the sensorimotor intelligence hypothesis ( Parker
+and Gibson, 1977, 1979).
+Sensorimotor intelligence (SMI) describes cognitive functions
+that pertain to object eenvironment interactions reliant on sensory
+perceptions and motor activities. The concept of SMI was developed
+initially to study the cognitive development of children ( Piaget,
+1952, 1954) and has been subsequently expanded upon, drawn
+from, and revised to explain processes of cognitive development in
+humans, nonhuman primates and other animals (e.g., Siegler and
+Ellis, 1996; Thelen et al., 2001 ; invited commentaries thereof;
+Schafer et al., 2006; Vilarroya, 2012 ). Contributing to this work,
+Parker and Gibson (1977 , 1979) used an ecological sensorimotor
+framework to suggest that persistent and generative object
+manipulation has evolved repeatedly among primates as an
+* Corresponding author. Current address: Department of Anthropology, Wash-
+ington University, One Brookings Drive, St. Louis, MO 63130, USA.
+E-mail addresses: amanda.meachem@gmail.com, amelin@wustl.edu (A.D. Melin).
+Contents lists available at ScienceDirect
+Journal of Human Evolution
+journal homepage: www.els evier.com/locate/jhevol
+http://dx.doi.org/10.1016/j.jhevol.2014.02.009
+0047-2484//C2112014 Elsevier Ltd. All rights reserved.
+Journal of Human Evolution 71 (2014) 77 e86
+
+PDF PAGE 2
+adaptation for accessing a varied diet of embedded foods. Advanced
+object manipulation is additionally associated with problem solv-
+ing, tool use and manual dexterity, all of which contribute to
+effective extractive foraging.
+Embedded foods eaten by humans and other primates include
+nuts ( Visalberghi et al., 2007 ), tubers ( Hernandez-Aguilar et al.,
+2007; Marshall et al., 2009 ) and, perhaps most commonly, adult
+and larval invertebrates that are embedded within protective exo-
+skeletons or that reside in mounds, hives, thorns, crevices,
+branches, under bark, or furrowed in leaves ( McGrew, 1983;
+Erickson, 1995; Fragaszy and Boinski, 1995; Isbell and Young,
+2007; Melin et al., 2007, 2010 ). Invertebrates provide a valuable
+source of protein and fat, which are essential and often limiting
+resources to primates ( Conklin-Brittain et al., 1998; Milton, 1999;
+Marroig and Cheverud, 2005; McCabe and Fedigan, 2007;
+Deblauwe and Janssens, 2008; Valenta and Melin, 2012; Isbell
+et al., 2013; Raubenheimer and Rothman, 2013; Rothman et al.,
+2014; Vogel et al., 2012 ). Increased handling time as well as
+specialized anatomy, behaviors, or tools are required for removing
+embedded prey from their enclosures. Extractive foraging is a far
+less common mode of faunivory than opportunistic gleaning
+among primates; however, it is well known among humans and
+great apes, which are accomplished at making and using tools for
+this purpose ( Dufour, 1987; van Schaik et al., 1999; Backwell and
+d’Errico, 2001; Solavan et al., 2006; Sanz et al., 2009 ). Other pri-
+mates known to successfully ﬁnd and extract hidden invertebrates
+with regularity are aye-ayes ( Daubetonia) and capuchins ( Cebus,
+Sapajus). The former group possesses a specialized middle ﬁnger
+for this task ( Erickson, 1991; Moritz and Dominy, 2012 ), and the
+latter are renowned for their large repertoire of extractive tech-
+niques ( Rose, 1994; Fragaszy and Boinski, 1995; Moura and Lee,
+2004; Ottoni and Izar, 2008; Melin et al., 2010; Souto et al., 201 1 ).
+It has been suggested that enhanced SMI, and correspondingly
+large brain volumes, manual dexterity, laterality and ﬁne hand
+control, have been favored independently in capuchins and great
+apes to facilitate their extractive diets in the absence of anatomical
+specialization ( Parker and Gibson, 1977 , 1979; Costello and
+Fragaszy, 1988; Fagot and Vauclair, 1988; MacNeilage, 1990;
+Pouydebat et al., 2005; Cashmore et al., 2008; Uomini, 2009 ).
+However, there is a surprising paucity of research exploring the
+ecological correlates of extractive foraging among capuchins; an
+oversight that we begin to address with the current study.
+Seasonality and fallback foods
+A fundamental component of the omnivorous extractive
+foraging hypothesis concerns seasonality in resource acquisition.
+Gibson (1986) predicts that embedded foods are available to pri-
+mates year-round, but only utilized seasonally by some taxa during
+periods of food scarcity. This closely matches the de ﬁnition of
+fallback foods ( Marshall and Wrangham, 2007; Marshall et al.,
+2009), which play a critical role during periods when preferred
+foods, usually ripe fruit, are less abundant and are believed to have
+a disproportionate effect on ﬁtness. Because fruit abundance is
+linked to seasonal climatic variation ( Fleming et al., 1987; Levey,
+1988; Milton et al., 2005; van Schaik and Pfannes, 2005 ), fallback
+foods are especially important in strongly seasonal environments
+characterized by more intense periods of fruit dearth. The majority
+of the work to date focuses on vegetative fallback foods ( Yamashita,
+1998; Vogel et al., 2008, 2009; Doran-Sheehy et al., 2009; Grueter
+et al., 2009; Wrangham et al., 2009; Wright et al., 2009; Norconk
+and Veres, 201 1 ), while invertebrates have received surprisingly
+little attention (but see Lambert, 2007; Bogart and Pruetz, 201 1;
+Isbell et al., 2013 ). Speci ﬁcally, the seasonal inclusion of in-
+vertebrates in the diet, particularly those that must be extracted
+from environmental substrates or protective exoskeletons, is
+largely unknown for primates relative to the use and abundance of
+fruit. This information is critical for assessing the sensorimotor
+hypothesis and informing our understanding of the evolution of
+primate cognition.
+Current study
+To better understand the ecological conditions underlying the
+evolution of sensorimotor intelligence, we investigated relation-
+ships among seasonality in temperature, precipitation, fruit abun-
+dance and diet in capuchin monkeys. Capuchins are an ideal
+organism for this study as they use tools and are widely heralded
+for their intelligence ( Fragaszy and Visalberghi, 1989; Souto et al.,
+201 1), they reside in highly seasonal habitats ( Campos and
+Fedigan, 2009; Carnegie et al., 201 1; Gogarten et al., 2012 ), and,
+in addition to fruit, they consume a variety of invertebrates,
+including many that are embedded or heavily protected ( Fragaszy
+and Boinski, 1995; Young, 2005; Young et al., 2008; Melin et al.,
+2010). Our goals were to examine: (1) if and how patterns of
+invertebrate and fruit consumption vary over the annual cycle in
+relation to climatic seasonality, (2) how use of invertebrate prey is
+related to patterns of fruit use, and (3) whether capuchins exhibit
+seasonal variation in consumption of invertebrates based on cap-
+ture method (gleaned from surfaces or extracted from substrates)
+or degree of mechanical protection (handling time to extract from
+protective covering). The signi ﬁcance of these results for under-
+standing the evolution of ecological cognition in humans and
+hominins is discussed.
+Materials and methods
+Study site and subjects
+This study was conducted in Sector Santa Rosa (part of the larger
+Área de Conservación Guanacaste) in northwestern Costa Rica
+(10
+/C14 450 to 11/C14 000 N and 85 /C14 300 to 85 /C14 450 W). The site consists of
+108 km 2 of tropical dry forest that is largely deciduous ( Janzen,
+2002). A strong degree of climatic seasonality at our study site
+has frequently been described. Here we use a new approach to
+assess it quantitatively. Two distinct seasons exist in this region.
+During the warmer dry season (December e mid-May), little to no
+precipitation occurs. The wet season ( wmid-MayeNovember) is
+cooler and accumulates most of the annual 900 e2400 mm of rain
+(Fedigan and Jack, 2001; Campos and Fedigan, 2009 ). During the
+late wet season, offshore tropical storms bring many days of
+pervasively heavy rainfall.
+We observed four groups of white-faced capuchin monkeys
+(Cebus capucinus ), ranging in size from eight to 35 members. All
+study subjects were individually identi ﬁed by body size and
+distinctive characteristics of their faces, fur pattern or scars. These
+groups are part of a long-term ﬁeld project and are well habituated
+(Fedigan and Jack, 2012 ). Because small juvenile capuchins are less
+adept at capturing invertebrates than adults ( Robinson, 1981;
+Fragaszy and Boinski, 1995 ), we only included invertebrate
+foraging data for adults and for juveniles that were at least three
+years of age at the time of observation (i.e., the ‘large immature’ age
+class, Fedigan and Jack, 2001 ).
+Data collection
+Rainfall and maximum and minimum temperatures have been
+recorded daily in Santa Rosa as part of the research center ’s long-
+term data collection project since 1979 (Fedigan, unpublished
+data; Janzen and Hallwachs, unpublished data). Although our
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e8678
+
+PDF PAGE 3
+behavioral study took place during a subset of this time frame, here
+we summarize the entire range of data for precipitation and tem-
+peratures for a 31-year period, from December 1, 1979 to November
+30, 2010, to best capture the long-term patterns in seasonality at
+this site.
+From January 2006 to December 2010, fruit production was
+monitored via phenology trails that were sampled within the ﬁrst
+week of each month. Our phenology trails include a survey of 10
+individual trees for each of 43 dietary species (fewer for rare spe-
+cies), which accounted for over 80% of the frugivorous diet. Fruit
+coverage of the tree crown and ripeness of fruits present on the tree
+were each approximated using a ﬁve-point scale: 0%, 1 e25%, 26 e
+50%, 51e75%, and 76e100%. For each species in each year, the peak
+fruiting month was assigned based on the month when the greatest
+abundance of ripe fruit was present following Carnegie et al. (201 1).
+Behavioral data on invertebrate foraging by capuchin monkeys
+were collected over a six-year period: May eJuly 2003; January e
+August 2004; JanuaryeApril 2005; FebruaryeMay and Septembere
+December 2007; January and May eAugust 2008. Behavioral data
+on fruit foraging were collected during the latter portion of this
+study to overlap with our records on fruiting phenology: Februarye
+May and September eDecember 2007; January and May eAugust
+2008. Each capuchin group was observed for two to eight days per
+month for a total of >2000 contact hours. The majority of data were
+collected during full day follows, from dawn until dusk, using
+PSION/C211Workabout computers loaded with Behavior /C211software.
+Inter-observer reliability was evaluated throughout the study to
+ensure consistency.
+We recorded all observed occurrences of feeding on fruit pulp or
+aril as a new fruit foraging bout. Capuchins are also known to engage
+in extractive frugivory (e.g., pounding Luehea fruits, Perry, 2009 );
+however, because these behaviors are extractive, infrequent, and
+potentially confounding (capuchins may target embedded insects in
+addition to Luehea seeds) we have omitted them from our analyses.
+Following Leighton (1993), we recorded a single bout for each new
+fruit source, regardless of the number of monkeys feeding or the
+length of time the group remained there. Most bouts involved single
+trees. However, we also recorded single foraging bouts when the
+monkeys fed on clumped non-tree sources, such as bromeliad
+patches or vines spanning several trees. A separate bout was
+recorded for the same food source in a single day if the group left the
+general area ( >50 m) for longer than 1 h before returning to it.
+To quantify invertebrate foraging, we conducted 10-min focal
+animal follows ( Altmann, 1974) collecting a total of 436 h of focal
+data. Our methods for recording invertebrate foraging differed from
+those of recording fruit foraging because, in contrast to fruit tree
+visitations, invertebrate faunivory is relatively cryptic and requires
+intense observation of one individual at a time to witness and
+identify feeding records. When a focal monkey ate an invertebrate,
+we recorded the capture methods as gleaning from a surface or
+extracting from a substrate, and the type of invertebrate according
+to a classiﬁcation system based on mobility, body size and handling
+time ( Table 1 ). For the purposes of this study, we de ﬁned an
+invertebrate foraging bout as a single invertebrate capture and
+consumption event. However, a single foraging bout was also
+recorded for each instance of feeding on colonial invertebrates.
+Data analysis
+We employed directional analyses to test for seasonality in
+rainfall, temperature, fruit abundance, invertebrate feeding and
+fruit feeding, where months of the year are represented as angles of
+a circle ( Janson and Verdolin, 2005; Carnegie et al., 201 1 ). The
+analysis is based on vectors, which are comprised of an angle, ‘q’
+and length, ‘r’. The sample mean is obtained by calculating the
+mean vector angle q of the observations, which can be back-
+transformed to a month (January eDecember) or day of the year
+(e.g., 1 ¼ January 1st, 365 ¼ December 31st). The mean vector
+length is used to calculate the concentration of observations around
+the mean, which is an indication of the degree to which data are
+seasonally clumped. Length values range from 0 to 1, where 0 in-
+dicates uniform distribution of angles around the circle, and 1 in-
+dicates that all data share the same angle.
+Analyses were run with Oriana 3.0 statistical software. Ray-
+leigh’s Uniformity test was used to test whether the distribution of
+data is signi ﬁcantly different from a von Mises distribution, the
+equivalent of a uniform linear distribution ( Batchelet, 1981 ).
+Because directional analyses require that data points are ordinal in
+scale ( Janson and Verdolin, 2005; Morellato et al., 2010 ), we
+analyzed counts of the number of days that: (a) exceed the mean
+daily rainfall volume, (b) exceed the mean daily maximum tem-
+perature ( Tmax), and (c) are less than the mean daily minimum
+temperature (Tmin) from the 31-year sample. To quantify monthly
+fruit abundance, we calculated a monthly fruit value based on peak
+phenology and weighted by habitat-wide abundance, following
+Carnegie et al. (201 1) . For behavioral data, we reported the fruit
+foraging bouts and invertebrate foraging bouts by month. To
+standardize sampling effort across months, we randomly selected
+10 full-day follows in each month and included all bouts recorded
+on those days. For invertebrate foraging bouts, we calculated the
+number of invertebrates caught each month per 30 h of observa-
+tion, which was the mean number of focal follow hours per month.
+Results
+Seasonal variation in rainfall and temperature
+Both rainfall and temperature varied seasonally in Santa Rosa.
+Rainfall typically began in mid-May and persisted until mid-
+November. The average daily rainfall across 31 years of study was
+Table 1
+Invertebrates consumed by Costa Rican capuchin monkeys ( Cebus capucinus ) clas-
+siﬁed by size, mobility, protection and handling time.
+Type Description Handling
+time
+Examples
+Caterpillars 1 e7 cm, gleaned and
+unfurled from leaves,
+occasionally eviscerated,
+no protective exoskeleton
+Low Lepidopteran larvae
+Small
+Mobile
+1e2 cm, gleaned, unfurled
+from leaves, pulled from
+tree holes and crevices
+Low Stink bugs (Hemiptera),
+beetles (Coleoptera),
+small cockroaches
+(Blattaria), small moths
+(Lepidoptera)
+Large
+mobile
+/C21 3 cm, gleaned, unfurled
+from leaves, pulled from
+tree holes and crevices;
+exoskeleton and wings
+occasionally removed
+Moderate Katydids (Orthoptera),
+Large cockroaches
+(Blattaria), cicadas
+(Hemiptera), stick
+insects (Phasmida)
+Snails 1 e3 cm, pulled from bark
+or from within holes and
+crevices, very hard,
+protective covering,
+extraction from shell
+required
+High Snails
+(Stylommatophora)
+Grubs 0.5 e3.0 cm, individually
+extracted from thick
+branches, no protective
+exoskeleton
+High Larvae (e.g.,
+Hymenoptera)
+Colonial <0.5 cm, numerous
+and congregated
+invertebrates, extracted
+from thorns, thin branches,
+mounds or hives
+High Ants and wasps
+(Hymenoptera),
+termites (Isoptera)
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e86 79
+
+PDF PAGE 4
+4.96 mm. This was used as our low-end cutoff and we counted the
+number of days each month where daily rainfall exceeded this
+value (Fig. 1a). The mean vector for rainfall fell within the month of
+August (vector length ¼ 0.558; concentration ¼ 1.349). This dis-
+tribution differed signi ﬁcantly from random (Rayleigh test;
+Z ¼ 616.615; p < 0.001). The onset of rains corresponded with a
+sharp decrease in mean maximum, but not minimum, daily tem-
+peratures ( Fig. 1b and c). The mean daily (over a 24-h cycle) Tmax
+over the study period was 30.66 /C14 C and Tmin was 22.10 /C14 C.
+Maximum daily temperatures were more seasonally variable than
+minimum daily temperatures ( Tmax range 27.93 /C14 C (October) e
+34.50 /C14 C (April); Tmin range 20.63 /C14 C (January) e23.92 /C14 C (April)).
+Seasonality in both the number of days warmer than the mean
+annual Tmax (Fig. 1 b) and cooler than the Tmin (Fig. 1 c) showed
+directional distributions signi ﬁcantly different from uniform (Ray-
+leigh test, Z ¼ 926.868, p < 0.001 ( Tmax); Z ¼ 194.719, p < 0.001
+(Tmin)). Although the values for total precipitation and mean daily
+temperature varied slightly from year to year, the fundamental
+seasonal patterns (i.e., initial peak of rainfall in May, heavy rains in
+September, hottest temperatures in April, coolest in October)
+remained consistent throughout our study.
+Seasonal patterns of frugivory and faunivory
+Fruit abundance varied signi ﬁcantly across the annual cycle
+(Fig. 2 a), overlapping with, but slightly offset from, the seasonal
+precipitation pattern. Fruit abundance increased in April, one
+month before the onset of the rainy season, and decreased in
+October, one to two months prior to the onset of the dry season. The
+mean vector rested on the border between June and July ( r ¼ 0.363,
+concentration ¼ 0.780). To examine the inter-annual consistency of
+this pattern, we analyzed the phenology data for each year (2006 e
+2010) separately. In accordance with the overall pattern reported
+above, each year showed signi ﬁcant seasonality ( p < 0.02) and the
+mean vector of peak fruit production fell between mid-June and
+mid-July. The mean angle ranged from 169
+/C14 (June 18th) in 2009 to
+191/C14 (July 10th) in 2006.
+We analyzed 2612 fruit patch visits recorded over the length of
+our study. Capuchin frugivory ( Fig. 2 b) was signi ﬁcantly seasonal
+(Z ¼ 154.703, p < 0.001) and closely matched variation in fruit
+abundance. The mean vector for fruit feeding bouts fell within June
+(r ¼ 0.243, concentration ¼ 0.502), and the maximum monthly
+peak of fruit bouts occurred in July.
+Capuchin faunivory was also signi ﬁcantly seasonal. We recor-
+ded 6223 invertebrate foraging bouts. Embedded invertebrates
+(n ¼ 1971 records) made up 32% of the total invertebrate foraging
+bouts. Signi ﬁcant deviations from a uniform distribution were
+observed for both embedded and gleaned captures ( Fig. 2 c and
+d). Extractive captures were heavily concentrated during the
+months of low fruit abundance. The mean vector for embedded
+bouts landed within November, with high values from September
+through January ( r ¼ 0.306, concentration ¼ 0.642). Invertebrate
+gleaning overlapped extensively with periods of high fruit abun-
+dance in the early wet season and also extended into the late wet
+and early dry season, when fruit was less abundant. The mean
+vector for gleaned bouts fell within October with high values from
+July through December ( r ¼ 0.301, concentration ¼ 0.630).
+Of the 6223 recorded bouts, we could determine the inverte-
+brate type for 5162 bouts (83%). In Table 2, we present the contri-
+butions of each known invertebrate and a summary of the results
+from our directional analyses. The seasonal distribution of bouts
+was variable, depending on invertebrate type ( Fig. 3 aef). Small
+mobile invertebrates and embedded grubs were eaten most
+frequently in the late wet season. Extractive foraging on colonial
+invertebrates was also focused on the late wet season and extended
+into the early dry season, as were snail foraging bouts, although
+they were the least temporally clumped. Caterpillar consumption
+began in the early wet season and carried on throughout the late
+wet season. Large mobile invertebrates were captured nearly
+exclusively in the dry season.
+Discussion
+Seasonal extractive foraging among capuchins
+The capuchins in our study showed distinct seasonal patterns of
+extractive faunivory, a ﬁnding that supports a central premise of
+the sensorimotor intelligence hypothesis (Parker and Gibson, 1977).
+Additionally, the extraction and consumption of protected in-
+vertebrates by capuchins was inversely related to frugivory and
+more closely related to seasonal variation in fruit abundance than
+to precipitation or temperature. In contrast, the peak consumption
+of caterpillars, which are typically gleaned from leaf surfaces and
+easy to process, overlapped with periods of high fruit abundance.
+These results are in accordance with the hypothesis that embedded
+invertebrates are a fallback food.
+Figure 1. Climatic seasonality in Santa Rosa, Costa Rica. Circular histograms display the number of days for each calendar date (Jan 1 eDec 31) over a 31-year period from December
+1, 1979eNovember 30, 2010, where: (a) accumulated rainfall was greater than 4.96 mm, (b) the maximum daily temperature ( Tmax) exceeded 30.66 /C14 C, and (c) the minimum daily
+temperature (Tmin) fell below 22.10 /C14 C. The orientation of the white bar radiating from the center displays the mean vector, and its length re ﬂects the concentration of the records
+around the mean.
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e8680
+
+PDF PAGE 5
+Because invertebrates never occupied 100% of the capuchin diet
+and are relatively nutritious ( McCabe and Fedigan, 2007 ), they
+might be more appropriately classiﬁed as high-quality,ﬁller fallback
+foods, rather than low-quality, staple fallback foods (Lambert, 2007;
+Marshall et al., 2009 ). Another requisite of fallback foods is near
+continuous availability ( Marshall and Wrangham, 2007 ). While
+some invertebrates in primate habitats are present year-round,
+others, such as Lepidopteran larvae, can experience seasonal pop-
+ulation explosions related to climatic variation ( Janzen, 1973;
+Tauber et al., 1998; Campos et al., 2006; Isbell and Young, 2007;
+Anu et al., 2009 ). Efforts to quantify invertebrate abundance in
+Santa Rosa are currently underway to explore the impact of prey
+population dynamics; however, we observed capuchins to extract
+invertebrates year-round, suggesting that these invertebrates meet
+Figure 2. Seasonality in (a) peak fruit production by species eaten by white-faced capuchins ( Cebus capucinus) in Santa Rosa, Costa Rica, over a ﬁve year period from 2006 to 2010,
+and foraging bouts by capuchins on (b) fruit patches, (c) embedded invertebrates, and (d) gleaned invertebrates. Data are grouped by month. The y-axis value refers to the total
+number of records. The fruit foraging bout histogram re ﬂects the total number of observed independent visits by capuchin groups to fruit patches during eight full-day follows each
+month. Invertebrate foraging bout histograms re ﬂect the total number of captures observed during 30 cumulative hours of focal animal observation each month. In each histogram,
+the orientation of the solid black bar radiating from the center displays the mean vector, and its length re ﬂects the concentration of records around the mean. The gray shading
+within the histograms indicates the timing of the dry season in Santa Rosa based on the rainfall patterns presented in Figure 1.
+Table 2
+Summary of directional analyses of invertebrate foraging bouts by Costa Rican capuchin monkeys ( Cebus capucinus ).
+Small mobile Caterpillars Colonial Large mobile Grubs Snails
+Total records 1761 1426 974 632 243 126
+Percentage of bouts (%) 34.11 27.62 18.87 12.24 4.71 2.44
+Peak month December July December January October January
+Mean vector November August November February October December
+Vector length 0.438 0.579 0.275 0.352 0.557 0.212
+Concentration 0.972 1.425 0.573 0.752 1.345 0.434
+Rayleigh test ( Z) 445.931 523.224 73.743 53.801 116.657 5.208
+p Value <0.001 <0.001 <0.001 <0.001 <0.001 0.005
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e86 81
+
+PDF PAGE 6
+Figure 3. Seasonality in invertebrate foraging bouts by capuchins separated by prey type: (a) small mobile invertebrates, (b) grubs, (c) colonial invertebra tes, (d) snails, (e) cat-
+erpillars, and (f) large mobile invertebrates (see Table 1 for invertebrate classi ﬁcations). The orientation of the solid black bar radiating from the center of each histogram displays
+the mean vector, and its length re ﬂects the concentration of records around the mean. The gray shading within the histograms indicates the timing of the dry season in Santa Rosa
+based on the rainfall patterns presented in Figure 1.
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e8682
+
+PDF PAGE 7
+the criterion of continuous availability. Finally, fallback foods are
+suggested to have a disproportionately high impact on the ﬁtness of
+a population ( Marshall and Wrangham, 2007; Altmann, 2009;
+Lambert, 2009 ). The critical role of invertebrates is demonstrated
+by a recent study on Barro Colorado Island, Panama. In late 2010 and
+early 201 1, during the transition from the late wet season to the
+early dry season when fruit resources are at their annual low point,
+high capuchin mortality was attributed to unusual declines in
+invertebrate populations following extreme weather conditions
+(Milton and Giacalone, 2014 ). These ﬁndings provide additional
+support for the important role that invertebrates play in subsistence
+for a preferentially frugivorous primate.
+A model for the evolution of ecological cognition
+Large relative brain size and high performance across a diverse
+array of cognitive tasks has arisen independently multiple times
+across primate lineages in Hominoidea and Cebus, and also in
+Macaca and Papio (Reader et al., 201 1). This has been attributed to
+natural selection favoring either a high level of general intelligence
+(Reader et al., 201 1) or similarities in evolution of domain-speci ﬁc
+cognitive modules ( Fodor, 1983; Cosmides et al., 2010 ), due to
+shared socioecological pressures in these lineages. The extent to
+which cognition has evolved as a modular process remains an
+ongoing source of debate among neuroscientists (recently
+reviewed in Charvet and Finlay, 2012; Vilarroya, 2012 ). However,
+given the importance of distinct ecological skills needed to solve
+different foraging challenges (e.g., spatial memory for relocating
+fruit, innovative problem solving for tool use) and new data
+correlating sensorimotor intelligence with a speci ﬁc brain struc-
+ture, the cerebellum ( Barton, 2012), we hypothesize that distinct
+cognitive skills, driven by different ecological challenges, were
+favored in some primate lineages over the course of evolution.
+In Fig. 4 , we present a model of ecological cognition and brain
+size evolution in primates. It should be noted that our model does
+not consider the evolution of social or tactical cognition, or their
+effects on brain size, which may be shaped by differing evolu-
+tionary processes. Primates were primitively small-bodied and
+likely foraged for surface-dwelling insects opportunistically,
+perhaps resembling modern treeshrews ( Emmons, 2000 ), and fed
+on foods within the terminal branches of angiosperms ( Sussman,
+1991; Sussman et al., 2013 ). With the evolution of larger body
+size, some became primarily frugivorous and others primarily
+folivorous. Among the folivorous primates, morphological adapta-
+tions for food processing were favored, such as complex stomachs,
+while among primarily frugivorous primates, cognitive adaptations
+and enlargement of the ‘executive brain ’ (Keverne et al., 1996;
+Reader and Laland, 2002 ) evolved in response to demands of fru-
+givory, such as improved spatiotemporal memory. Opportunistic
+gleaning of surface-dwelling insects is not precluded among fru-
+givores, rather it is likely. During times of fruit dearth, frugivorous
+primates either fall back on abundant vegetation such as leaves or
+hard seeds, again leading to digestive or masticatory specializations
+(Chivers and Hladik, 1984; Lambert et al., 2004; Vogel et al., 2008;
+Altmann, 2009; Constantino et al., 2009; Vogel et al., 2009 ) or turn
+to extractive foods, such as embedded invertebrates. In the latter
+case, increased sensorimotor intelligence and associated features,
+including tool use, manual dexterity and laterality and the ability to
+solve syntactical problems arose as cognitive adaptations and were
+associated with brain expansion, including the cerebellum ( Phillips
+and Hopkins, 2007 ). Further expansion of SMI as a cognitive buffer
+occurred among primates facing increasing seasonality where the
+importance, variety or dif ﬁculty of embedded fallback foods is also
+increased ( Sol, 2009; van Woerden et al., 2012 ). Finally, among
+hominins, expanded technology, material cultural and language
+may have built on pre-existing sensorimotor adaptations ( Barton,
+2012).
+One implication of this model is that in addition to preferred
+foods (fruits) favoring intelligence as suggested by Marshall and
+Wrangham (2007) , we predict fallback foods to be a selective
+force shaping cognitive evolution. While fallback foods are typically
+thought to exert strong selective pressures on morphological ad-
+aptations of the digestive system and teeth for food processing, we
+believe this is more accurately applied to non-embedded, vegeta-
+tive fallback foods and anticipate that increasing brain size is
+favored in more seasonal environments, speci ﬁcally among
+extractive foragers. This may be particularly true of primates that
+obtain embedded foods that are proteinaceous, such as in-
+vertebrates, given the importance of amino acids to brain devel-
+opment and function ( Milton, 2003; Bourre, 2006 ). As an example
+of how variation in seasonality may have affected the evolution of
+SMI and associated traits, we discuss differences between the two
+Figure 4. A theoretical model of the evolution of ecological cognition and brain size among primates. Initial increases in brain size among frugivorous primat es are associated with
+cognitive challenges related to ﬁnding fruit, e.g., spatiotemporal intelligence, cognitive maps and memory, which may especially involve parts of the neocortex. Additional increa ses
+in brain size occurred among taxa that rely on embedded resources and are associated with sensorimotor intelligence, e.g., innovation, object manip ulation and manual dexterity,
+and may involve the cerebellum.
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e86 83
+
+PDF PAGE 8
+major capuchin lineages and their historical exposure to seasonal
+environments.
+Variation among capuchin lineages and links to evolution of SMI
+Aside from physical appearance, perhaps the most notable dif-
+ference between the robust (tufted, genus Sapajus) and gracile
+(untufted, genus Cebus) capuchin lineages is their variation in tool
+use. While Cebus monkeys frequently use substrate-object manip-
+ulations, (e.g., banging snails or fruits against branches), records of
+innovative, sophisticated tool use and modi ﬁcation are known only
+among the Sapajus lineage (Moura and Lee, 2004; Ottoni and Izar,
+2008; Souto et al., 201 1 ). These differences may re ﬂect variation
+in ecological pressures, speci ﬁcally the extent of seasonality and
+reliance on embedded resources as fallback foods, acting on the
+evolution of SMI ( Moura and Lee, 2004; Wright et al., 2009; van
+Woerden et al., 2012 ). Time-tree analyses of the mitochondrial
+cytochrome b gene suggest that the SapajuseCebus diversiﬁcation
+occurred in the late Miocene, about 6.2 Ma ( Lynch Alfaro et al.,
+2012a). From their reconstruction of the diffusion of capuchins
+across South and Central America, Lynch Alfaro et al. (2012b) argue
+that the Cebus radiation has historically and consistently occupied
+tropical rainforests, whereas the Sapajus lineage spread from their
+origins in the Atlantic rainforest into drier, more temperate and
+seasonal habitat types. We predict that the last common ancestor of
+Cebus and Sapajus had a level of SMI more closely resembling
+extant Cebus monkeys, and that further expansion of SMI evolved in
+the robust lineage to facilitate increased access to varied embedded
+fallback foods, necessitated by more intense periods of fruit
+shortage. Given the links with manual dexterity, tool use, and
+extractive foraging, we would additionally predict that current
+robust capuchins have higher manual dexterity than gracile spe-
+cies; however, there are currently no data available that test this.
+Implications of seasonal extractive foraging for hominin evolution
+Although the fossil record is expected to obscure the effects of
+seasonality on behavior, stable isotope analyses indicate seasonal
+variation in diet for at least one hominin, Paranthropus robustus
+(Sponheimer et al., 2006 ). This variation agrees well with evidence
+of tool use for extractive foraging by South African hominins,
+including P. robustus (Backwell and d ’Errico, 2001; d ’Errico and
+Backwell, 2009 ) and C 4 isotopic signatures of some extractable
+foods such as termites and plant underground storage organs
+(Sponheimer et al., 2005; Yeakel et al., 2007; Dominy et al., 2008 ).
+Perhaps compellingly, the consumption of termites by modern
+chimpanzees, an important referential model, is seasonal and
+especially important in harsh environments ( McGrew, 1979;
+McGrew and Collins, 1985; Moore, 1996; Bogart and Pruetz,
+2008). Links between extractive faunivory and fruit abundance
+are seldom investigated (but see Bogart and Pruetz, 201 1 ); how-
+ever, chimpanzees use tools to access other embedded foods
+(Hernandez-Aguilar et al., 2007 ), including during periods when
+ripe fruit are scarce ( Yamakoshi, 1998).
+Modern humans frequently consume insects, which are
+seasonally important when other animal foods are limited ( Dufour,
+1987). Fluctuations in prey abundance are also reported to in ﬂu-
+ence insectivory in modern humans ( Hamilton and Busse, 1978;
+Sileshi et al., 2009 ) and chimpanzees ( Uehara, 1982; Yamakoshi,
+1998; Pruetz and Bertolani, 2007; O ’Malley and Power, 2014 ),
+suggesting that an understanding of prey dynamics will further
+elucidate the patterns and signi ﬁcance of primate faunivory.
+Nevertheless, opportunistic exploitation of prey during periods of
+overall food abundance does not preclude a critical role of
+embedded invertebrates for subsistence. Even though the nature of
+the evidence is sparse, studies of fossil hominins and modern
+chimpanzees are consistent with the idea that seasonal fallback on
+embedded foods, including insects, selected for a suite of adapta-
+tions including sensorimotor cognition, tool use and manual dex-
+terity and laterality. In hominins, this may have set the stage for the
+emergence of material technologies, language and reason ( Barton,
+2012). Thus, our work supports that of others in suggesting a crit-
+ical role of invertebrate faunivory ( Sutton, 1995; McGrew, 2001 )
+and embedded fallback foods ( Laden and Wrangham, 2005 )i n
+hominin evolution.
+Acknowledgments
+We are grateful to Bill McGrew and Robert O ’Malley for inviting
+this contribution to the 2012 AAPA session on The Other Faunivory
+and to this Special Issue. We thank Nate Dominy, Kathleen Gibson,
+Andrew Marshall and two anonymous reviewers for helpful dis-
+cussions and commentary that greatly improved this manuscript.
+For local support in Costa Rica, we thank R. Blanco Segura, M. M.
+Chavarria and other staff of the Área de Conservación Guanacaste
+and the Ministerio de Ambiente y Energía (MINAE) of Costa Rica.
+Warmest thanks to Adrián Guadamuz, Adrienne Blauel, Brandon
+Klüg, Mike Lemmon, Nigel Parr, Courtney Sendall and Laura
+Weckman for assistance in the ﬁeld, to Greg Bridgett for editorial
+assistance and to Fernando Campos for assistance with ﬁgure
+design. Funding for this research was provided by the Wenner-Gren
+Foundation, The Leakey Foundation, and the National Sciences and
+Engineering Council of Canada (NSERC) to ADM, by a Province of
+Alberta Graduate Scholarship and Sigma Xi grant to HY; by a Queen
+Elizabeth II Scholarship and Sigma Xi grant to KM; and by the
+Canada Research Chairs Program and an ongoing NSERC Discovery
+grant to LMF.
+References
+Aiello, L.C., Wheeler, P., 1995. The expensive-tissue hypothesis: the brain and the
+digestive system in human and primate evolution. Curr. Anthropol. 36, 199e221.
+Altmann, J., 1974. Observational study of behaviour: sampling methods. Behaviour
+49, 227 e265.
+Altmann, S.A., 2009. Fallback foods, eclectic omnivores, and the packaging problem.
+Am. J. Phys. Anthropol. 140, 615 e629.
+Anu, A., Sabu, T.K., Vineesh, P.J., 2009. Seasonality of litter insects and relationship
+with rainfall in a wet evergreen forest in South Western Ghats. J. Insect Sci. 9, 46 .
+Backwell, L.R., d ’Errico, F., 2001. Evidence of termite foraging by Swartkrans early
+hominids. Proc. Natl. Acad. Sci. 98, 1358 e1363.
+Barton, R.A., 2006. Primate brain evolution: integrating comparative, neurophysi-
+ological, and ethological data. Evol. Anthropol. 15, 224 e236.
+Barton, R.A., 2012. Embodied cognitive evolution and the cerebellum. Phil. Trans. R.
+Soc. 367, 2097 e2107.
+Batchelet, E., 1981. Circular Statistics in Biology. Academic Press, London .
+Bogart, S.L., Pruetz, J.D., 2008. Ecological context of savanna chimpanzee ( Pan trog-
+lodytes verus) termite ﬁshing at Fongoli, Senegal. Am. J. Primatol. 70, 605 e612.
+Bogart, S.L., Pruetz, J.D., 201 1. Insectivory of savanna chimpanzees ( Pan troglodytes
+verus) at Fongoli, Senegal. Am. J. Phys. Anthoropol. 145, 1 1 e20.
+Bourre, J.M., 2006. Effects of nutrients (in food) on the structure and function of the
+nervous system: update on dietary requirements for brain. Part 2 : macronu-
+trients. J. Nutr. Health Aging 10, 386 e399.
+Byrne, R.W., 2000. Evolution of primate cognition. Cogn. Sci. 24, 543 e570.
+Byrne, R., Whiten, A., 1989. Machiavellian Intelligence: Social Expertise and the Evo-
+lution of Intellect in Monkeys, Apes, and Humans. Oxford University Press, Oxford.
+Campos, F., Fedigan, L.M., 2009. Behavioral adaptations to heat stress and water
+scarcity in white-faced capuchins ( Cebus capucinus) in Santa Rosa National Park,
+Costa Rica. Am. J. Phys. Anthropol. 138, 101 e111.
+Campos, W.G., Schoereder, J.H., DeSouza, O.F., 2006. Seasonality in neotropical
+populations of Plutella xylostella (Lepidoptera): resource availability and
+migration. Popul. Ecol. 48, 151 e158.
+Carnegie, S.D., Fedigan, L.M., Melin, A.D., 201 1. Reproductive seasonality in female
+capuchins ( Cebus capucinus ) in Santa Rosa (Area de Conservación Guanacaste),
+Costa Rica. Int. J. Primatol. 32, 1076 e1090.
+Cashmore, L., Uomini, N., Chapelain, A., 2008. The evolution of handedness in
+humans and great apes: a review and current issues. J. Anthropol. Sci. 86, 7 e35.
+Charvet, C.J., Finlay, B.L., 2012. Embracing covariation in brain evolution: large
+brains, extended development, and ﬂexible primate social systems. Prog. Brain
+Res. 195, 71e87.
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e8684
+
+PDF PAGE 9
+Cheney, D., Seyfarth, R., Smuts, B., 1986. Social relationships and social cognition in
+nonhuman primates. Science 234, 1361 e1366.
+Chivers, D.J., Hladik, C.M., 1984. Diet and gut morphology in primates. In:
+Chivers, D.J., Wood, B.A., Bilsborough, A. (Eds.), Food Acquisition and Processing
+in Primates. Plenum Press, New York, pp. 213 e230.
+Clutton-Brock, T.H., Harvey, P.H., 1980. Primates, brains and ecology. J. Zool. 190,
+309e323.
+Conklin-Brittain, N.L., Wrangham, R.W., Hunt, K.D., 1998. Dietary responses of
+chimpanzees and cercopithecines to seasonal variation in fruit abundance. II.
+Macronutrients. Int. J. Primatol. 19, 971 e998.
+Constantino, P.J., Lucas, P.W., Lee, J.J., Lawn, B.R., 2009. The in ﬂuence of fallback
+foods on great ape tooth enamel. Am. J. Phys. Anthropol. 140, 653 e660.
+Cosmides, L., Barrett, H.C., Tooby, J., 2010. Colloquium paper: adaptive specializa-
+tions, social exchange, and the evolution of human intelligence. Proc. Natl. Acad.
+Sci. 107 (2), 9007 e9014.
+Costello, M.B., Fragaszy, D.M., 1988. Prehension in Cebus and Saimiri: I. Grip type and
+hand preference. Am. J. Primatol. 15, 235 e245.
+d’Errico, F., Backwell, L., 2009. Assessing the function of early hominin bone tools.
+J. Archaeol. Sci. 36, 1764 e1773.
+Deaner, R.O., Nunn, C.L., van Schaik, C.P., 2000. Comparative tests of primate
+cognition: different scaling methods produce different results. Brain Behav.
+Evol. 55, 44 e52.
+Deblauwe, I., Janssens, G.P., 2008. New insights into insect prey choice by chim-
+panzees and gorillas in southeast Cameroon: the role of nutritional value. Am. J.
+Phys. Anthropol. 135, 42 e55.
+Dominy, N.J., Vogel, E.R., Yeakel, J.D., Constantino, P., Lucas, P.W., 2008. Mechanical
+properties of plant underground storage organs and implications for dietary
+models of early hominins. Evol. Biol. 35, 159 e175.
+Doran-Sheehy, D., Mongo, P., Lodwick, J., Conklin-Brittain, N.L., 2009. Male and fe-
+male western gorilla diet: preferred foods, use of fallback resources, and im-
+plications for ape versus Old World monkey foraging strategies. Am. J. Phys.
+Anthropol. 140, 727e738.
+Dufour, D.L., 1987. Insects as food: a case study from the northwest Amazon. Am.
+Anthropol. 89, 383 e397.
+Dunbar, R.I.M., 1998. The social brain hypothesis. Evol. Anthropol. 6, 178 e190.
+Dunbar, R.I., Shultz, S., 2007. Understanding primate brain evolution. Phil. Trans. R.
+Soc. 362, 649 e658.
+Emmons, L.H., 2000. Tupaia: A Field Study of Bornean Treeshrews. University of
+California Press, Berkeley .
+Erickson, C.J., 1991. Percussive foraging in the aye-aye, Daubentonia madagascar-
+iensis. Anim. Behav. 41, 793 e801.
+Erickson, C.J., 1995. Feeding sites for extractive foraging by the aye-aye, Daubentonia
+madagascariensis. Am. J. Primatol. 35, 235 e240.
+Fagot, J., Vauclair, J., 1988. Handedness and manual specialization in the baboon.
+Neuropsychologia 26, 795 e804.
+Fedigan, L., Jack, K., 2001. Neotropical primates in a regenerating Costa Rican dry
+forest: a comparison of howler and capuchin population patterns. Int. J. Pri-
+matol. 22, 689 e713.
+Fedigan, L.M., Jack, K.M., 2012. Tracking neotropical monkeys in Santa Rosa: lessons
+from a regenerating Costa Rican dry forest. In: Kappeler, P.M., Watts, D.P. (Eds.),
+Long-term Field Studies of Primates. Springer, Berlin, Heidelberg, pp. 165 e184.
+Fleming, T.H., Breitwisch, R., Whitesides, G.H., 1987. Patterns of tropical vertebrate
+frugivore diversity. A. Rev. Ecol. Syst. 18, 91 e109.
+Fodor, J.A., 1983. Modularity of Mind: An Essay on Faculty Psychology. MIT Press,
+Cambridge.
+Fragaszy, D.M., Boinski, S., 1995. Patterns of individual diet choice and ef ﬁciency of
+foraging in wedge- capped capuchin monkeys ( Cebus olivaceus ). J. Comp. Psy-
+chol. 109, 339 e348.
+Fragaszy, D.M., Visalberghi, E., 1989. Social in ﬂuences on the acquisition of tool-
+using behaviors in tufted capuchin monkeys ( Cebus apella ). J. Comp. Psychol.
+103, 159e170.
+Gibson, K.R., 1986. Cognition, brain size and the extraction of embedded food re-
+sources. In: Lee, E. (Ed.), Primate Ontogeny, Cognition and Social Behaviour.
+Cambridge University Press, Cambridge, pp. 93 e103.
+Gogarten, J.F., Brown, L.M., Chapman, C.A., Cords, M., Doran-Sheehy, D., Fedigan, L.M.,
+Grine, F.E., Perry, S., Pusey, A.E., Sterck, E.H., Wich, S.A., Wright, P.C., 2012. Sea-
+sonal mortality patterns in non-human primates: implications for variation in
+selection pressures across environments. Evolution 66, 3252 e3266.
+Grueter, C.C., Li, D., Ren, B., Wei, F., Xiang, Z., van Schaik, C.P., 2009. Fallback foods of
+temperate-living primates: a case study on snub-nosed monkeys. Am. J. Phys.
+Anthropol. 140, 700 e715.
+Hamilton, W.J., Busse, C.D., 1978. Primate carnivory and its signi ﬁcance to human
+diets. BioScience 28, 761 e766.
+Hernandez-Aguilar, R.A., Moore, J., Pickering, T.R., 2007. Savanna chimpanzees use
+tools to harvest the underground storage organs of plants. Proc. Natl. Acad. Sci.
+104, 19210e19213.
+Herrmann, E., Call, J., Hernandez-Lloreda, M.V., Hare, B., Tomasello, M., 2007.
+Humans have evolved specialized skills of social cognition: the cultural intel-
+ligence hypothesis. Science 317, 1360 e1366.
+Isbell, L.A., Young, T.P., 2007. Interspeci ﬁc and temporal variation of ant species
+within Acacia drepanolobium ant domatia, a staple food of patas monkeys
+(Erythrocebus patas ) in Laikipia, Kenya. Am. J. Primatol. 69, 1387 e1398.
+Isbell, L.A., Rothman, J.M., Young, P.J., Rudolph, K., 2013. Nutritional bene
+ﬁts of
+Crematogaster mimosae ants and Acacia drepanolobium gum for patas monkeys
+and vervets in Laikipia, Kenya. Am. J. Phys. Anthropol. 150, 286 e300.
+Janson, C., Verdolin, J., 2005. Seasonality of primate births in relation to climate. In:
+Brockman, D.K., van Schaik, C.P. (Eds.), Seasonality in Primates. Cambridge
+University Press, Cambridge, pp. 307 e350.
+Janzen, D.H., 1973. Sweep samples of tropical foliage insects: effects of seasons,
+vegetation types, elevation, time of day, and insularity. Ecology 54, 687 e708.
+Janzen, D.H., 2002. Tropical dry forest: area de Conservación Guanacaste, north-
+western Costa Rica. In: Perrow, M., Davey, A. (Eds.), Handbook of Ecological
+Restoration: Restoration in Practice. Cambridge University Press, Cambridge,
+pp. 559 e583.
+Jerison, H.J., 1973. Evolution of the Brain and Intelligence. Academic Press, New York.
+Johnson, C.M., 2001. Distributed primate cognition: a review. Anim. Cogn. 3, 167e183.
+Jolly, A., 1966. Lemur social behavior and primate intelligence. Science 153, 501e506.
+Keverne, E.B., Martel, F.L., Nevison, C.M., 1996. Primate brain evolution: genetic and
+functional considerations. Proc. Biol. Sci. 263, 689 e696.
+Laden, G., Wrangham, R., 2005. The rise of the hominids as an adaptive shift in
+fallback foods: plant underground storage organs (USOs) and australopith or-
+igins. J. Hum. Evol. 49, 482 e498.
+Lambert, J.E., 2007. Seasonality, fallback strategies, and natural selection: a chim-
+panzee and cercopithecoid model for interpreting the evolution of the hominin
+diet. In: Ungar, P.S. (Ed.), Evolution of the Human Diet: The Known, the Un-
+known, and the Unknowable. Oxford University Press, Oxford, pp. 324 e343.
+Lambert, J.E., 2009. Summary to the symposium issue: primate fallback strategies as
+adaptive phenotypic plasticity escale, pattern, and process. Am. J. Phys.
+Anthropol. 140, 759 e766.
+Lambert, J.E., Chapman, C.A., Wrangham, R.W., Conklin-Brittain, N.L., 2004. Hard-
+ness of cercopithecine foods: implications for the critical function of enamel
+thickness in exploiting fallback foods. Am. J. Phys. Anthropol. 125, 363 e368.
+Leighton, M., 1993. Modeling dietary selectivity by Bornean orangutans: evidence
+for integration of multiple criteria in fruit selection. Int. J. Primatol. 14, 257 e313.
+Levey, D.J., 1988. Spatial and temporal variation in Costa Rican fruit and fruit-eating
+bird abundance. Ecol. Monogr. 58, 251 e269.
+Lynch Alfaro, J.W., Silva Jr., J.D., Rylands, A.B., 2012a. How different are robust and
+gracile capuchin monkeys? an argument for the use of Sapajus and Cebus.A m .J .
+Primatol. 74, 273 e286.
+Lynch Alfaro, J.W., Boubli, J.P., Olson, L.E., Di Fiore, A., Wilson, B., Gutiérrez-
+Espeleta, G.A., Chiou, K.L., Schulte, M., Neitzel, S., Ross, V., Schwochow, D.,
+Nguyen, M.T.T., Farias, I., Janson, C.H., Alfaro, M.E., 2012b. Explosive Pleistocene
+range expansion leads to widespread Amazonian sympatry between robust and
+gracile capuchin monkeys. J. Biogeogr. 39, 272 e288.
+MacNeilage, P.F., 1990. Grasping in modern primates: the evolutionary complex. In:
+Goodale, M.A. (Ed.), Vision and Action: The Control of Grasping. Ablex Pub-
+lishing Corporation, Norwood, pp. 1 e13.
+Marroig, G., Cheverud, J.M., 2005. Size as a line of least evolutionary resistance: diet
+and adaptive morphological radiation in New World monkeys. Evolution 59,
+112 8e114 2.
+Marshall, A.J., Wrangham, R.W., 2007. Evolutionary consequences of fallback foods.
+Int. J. Primatol. 28, 1219 e1235.
+Marshall, A.J., Boyko, C.M., Feilen, K.L., Boyko, R.H., Leighton, M., 2009. De ﬁning
+fallback foods and assessing their importance in primate ecology and evolution.
+Am. J. Phys. Anthropol. 140, 603 e614.
+Martin, R.D., 1984. Body size, brain size and feeding strategy. In: Chivers, D.J.,
+Wood, B.A., Bilsborough, A. (Eds.), Food Acquisition and Processing in Primates.
+Plenum Press, New York, pp. 73 e103.
+McCabe, G.M., Fedigan, L.M., 2007. Effects of reproductive status on energy intake,
+ingestion rates, and dietary composition of female Cebus capucinus at Santa
+Rosa, Costa Rica. Int. J. Primatol. 28, 837 e851.
+McGrew, W.C., 1979. Evolutionary implications of sex differences in chimpanzee
+predation and tool use. In: Hamburg, D.A., McCown, E.R. (Eds.), The Great Apes.
+Benjamin/Staples, Menlo Park, pp. 441 e463.
+McGrew, W.C., 1983. Animal foods in the diets of wild chimpanzees ( Pan troglo-
+dytes): why cross-cultural variation? J. Ethol. 1, 46 e61.
+McGrew, W.C., 2001. The other faunivory. In: Stanford, C.B., Bunn, H.T. (Eds.), Meat-
+eating and Human Evolution. Oxford University Press, Oxford, pp. 160 e178.
+McGrew, W.C., Collins, D.A., 1985. Tool use by wild chimpanzees ( Pan troglodytes)t o
+obtain termites ( Macrotermes herus) in the Mahale Mountains, Tanzania. Am. J.
+Primatol. 9, 47 e62.
+Melin, A.D., Fedigan, L., Hiramatsu, C., Sendall, C., Kawamura, S., 2007. Effects of
+colour vision phenotype on insect capture by a free-ranging population of
+white-faced capuchins ( Cebus capucinus ). Anim. Behav. 73, 205 e214.
+Melin, A.D., Fedigan, L.M., Young, H.C., Kawamura, S., 2010. Can color vision varia-
+tion explain sex differences in invertebrate foraging by capuchin monkeys?
+Curr. Zool. 56, 300 e312.
+Milton, K., 1981. Distribution patterns of tropical plant foods as an evolutionary
+stimulus to primate mental development. Am. Anthropol. 83, 534 e548.
+Milton, K., 1999. Nutritional characteristics of wild primate foods: do the diets of
+our closest living relatives have lessons for us? Nutrition 15, 488 e498.
+Milton, K., 2003. The critical role played by animal source foods in human ( Homo)
+evolution. J. Nutr. 133, 3886S e3892S.
+Milton, K., Giacalone, J., March 2014. Differential effects of unusual climatic stress
+on capuchin ( Cebus capucinus ) and howler monkey ( Alouatta palliata ) pop-
+ulations on Barro Caolorado Island, Panama. Am. J. Primatol. 76 (3), 249
+e261.
+Milton, K., Giacalone, J., Wright, S.J., Stockmayer, G., 2005. Do frugivore population
+ﬂuctuations reﬂect fruit production? Evidence from Panama tropical fruits and
+frugivores. In: Dew, J.L., Boubli, J.P. (Eds.), Tropical Fruits and Frugivores.
+Springer, Netherlands, pp. 5 e35.
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e86 85
+
+PDF PAGE 10
+Moore, J., 1996. Savanna chimpanzees, referential models and the last common
+ancestor. In: McGrew, W.C., Marchant, L.F., Nishida, T. (Eds.), Great Ape Societies.
+Cambridge University Press, Cambridge, pp. 275 e292.
+Morellato, L.P.C., Alberti, L.F., Hudson, I.L., 2010. In: Hudson, I.L., Keatley, M.R. (Eds.),
+Applications of Circular Statistics in Plant Phenology: A Case Studies Approach.
+Springer, Netherlands, pp. 339 e359.
+Moritz, G.L., Dominy, N.J., 2012. Thermal imaging of aye-ayes ( Daubentonia mada-
+gascariensis) reveals a dynamic vascular supply during haptic sensation. Int. J.
+Primatol. 33, 588 e597.
+Moura, A.C. de A., Lee, P.C., 2004. Capuchin stone tool use in caatinga dry forest.
+Science 306, 1909 .
+Navarrete, A., van Schaik, C.P., Isler, K., 201 1. Energetics and the evolution of human
+brain size. Nature 480, 91 e93.
+Norconk, M.A., Veres, M., 201 1. Physical properties of fruit and seeds ingested by
+primate seed predators with emphasis on sakis and bearded sakis. Anat. Rec.
+(Hoboken) 294, 2092 e2111.
+O’Malley, R.C., Power, M.L., 2014. The energetic and nutritional yields from insec-
+tivory for Kasekela chimpanzees. J. Hum. Evol. (in this volume) .
+Ottoni, E.B., Izar, P., 2008. Capuchin monkey tool use: overview and implications.
+Evol. Anthropol. 17, 171e178.
+Parker, S.T., Gibson, K.R., 1977. Object manipulation, tool use and sensorimotor in-
+telligence as feeding adaptations in cebus monkeys and great apes. J. Hum. Evol.
+6, 623 e641.
+Parker, S.T., Gibson, K.R., 1979. A developmental model for the evolution of language
+and intelligence in early hominids. Behav. Brain Sci. 2, 367 e381.
+Perry, S., 2009. Conformism in the food processing techniques of white-faced
+capuchin monkeys ( Cebus capucinus ). Anim. Cogn. 12, 705 e716.
+Piaget, J., 1952. The Origin of Intelligence in Children. Norton, New York .
+Piaget, J., 1954. Construction of Reality in the Child. Bellantine Books, New York .
+Phillips, K.A., Hopkins, W.D., 2007. Exploring the relationship between cerebellar
+asymmetry and handedness in chimpanzees ( Pan troglodytes ) and capuchins
+(Cebus apella ). Neuropsychologia 45, 2333 e2339.
+Pouydebat, E., Berge, C., Gorce, P., Coppens, Y., 2005. Use and manufacture of tools
+to extract food by captive Gorilla gorilla gorilla : experimental approach. Folia
+Primatol. 76, 180e183.
+Pruetz, J.D., Bertolani, P., 2007. Savanna chimpanzees, Pan troglodytes verus , hunt
+with tools. Curr. Biol. 17, 412 e417.
+Raubenheimer, D., Rothman, J.M., 2013. Nutritional ecology of entomophagy in
+humans and other primates. A. Rev. Entomol. 58, 141 e160.
+Reader, S.M., Laland, K.N., 2002. Social intelligence, innovation, and enhanced brain
+size in primates. Proc. Natl. Acad. Sci. 99, 4436 e4441.
+Reader, S.M., Hager, Y., Laland, K.N., 201 1. The evolution of primate general and
+cultural intelligence. Phil. Trans. R. Soc. 366, 1017 e1027.
+Robinson, J.G., 1981. Spatial structure in foraging groups of wedge-capped capuchin
+monkeys Cebus nigrivittatus . Anim. Behav. 29, 1036 e1056.
+Rose, L., 1994. Sex differences in diet and foraging behavior in white-faced capu-
+chins ( Cebus capucinus ). Int. J. Primatol. 15, 95 e114.
+Rothman, J.M., Raubenheimer, D., Bryer, M.A., Takahashi, M., Gilbert, C.C., 2014.
+Nutritional contributions of insects to primate diets: implications for primate
+evolution. J. Hum. Evol. (in this volume) .
+Russon, A.E., Begun, D.R., 2004. Evolutionary origins of great ape intelligence: an
+integrated view. In: Russon, A.E., Begun, D.R. (Eds.), The Evolution of Thought:
+Evolutionary Origins of Great Ape Intelligence. Cambridge University Press,
+Cambridge, pp. 353 e368.
+Sanz, C., Call, J., Morgan, D., 2009. Design complexity in termite- ﬁshing tools of
+chimpanzees ( Pan troglodytes ). Biol. Lett. 5, 293 e296.
+Sawaguchi, T., 1990. Relative brain size, strati ﬁcation, and social structure in an-
+thropoids. Primates 31, 257 e272.
+Schafer, S., Huxhold, O., Lindenberger, U., 2006. Healthy mind in healthy body? A
+review of sensorimotorecognitive interdependencies in old age. Eur. Rev. Aging.
+Phys. Act 3, 45 e54.
+Siegler, R.S., Ellis, S., 1996. Piaget on childhood. Am. Psychol. Soc. 7, 21 1 e215.
+Sileshi, G.W., Nyeko, P., Nkunika, P.O.Y., Sekematte, B.M., Akinnifesi, F.K., Ajayi, O.C.,
+2009. Integrating ethno-ecological and scienti ﬁc knowledge of termites for
+sustainable termite management and human welfare in Africa. Ecol. Soc. 14, 48 .
+Sol, D., 2009. Revisiting the cognitive buffer hypothesis for the evolution of large
+brains. Biol. Lett. 5, 130 e133.
+Solavan, A., Paulmurugan, R., Wilsanand, V., 2006. Effect of the subterranean
+termite used in the South Indian folk medicine. Indian J. Tradit. Know. 5, 376 e
+379.
+Souto, A., Bione, C.B., Bastos, M., Bezerra, B.M., Fragaszy, D., Schiel, N., 201 1. Critically
+endangered blonde capuchins ﬁsh for termites and use new techniques to
+accomplish the task. Biol. Lett. 7, 532 e535.
+Sponheimer, M., Lee-Thorp, J., de Ruiter, D., Codron, D., Codron, J., Baugh, A.T.,
+Thackeray, F., 2005. Hominins, sedges, and termites: new carbon isotope data
+from the Sterkfontein valley and Kruger National Park. J. Hum. Evol. 48, 301e312.
+Sponheimer, M., Passey, B.H., de Ruiter, D.J., Guatelli-Steinberg, D., Cerling, T.E., Lee-
+Thorp, J.A., 2006. Isotopic evidence for dietary variability in the early hominin
+Paranthropus robustus. Science 314, 980 e982.
+Sussman, R.W., 1991. Primate origins and the evolution of angiosperms. Am. J.
+Primatol. 23, 209 e223.
+Sussman, R., Rasmussen, T., Raven, P.H., 2013. Rethinking primate origins again. Am.
+J. Primatol. 75, 95 e106.
+Sutton, M., 1995. Archaeological aspects of insect use. J. Archaeol. Method Th. 2,
+253e298.
+Tauber, M.J., Tauber, C.A., Nyrop, J.P., Villani, M.G., 1998. Moisture, a vital but
+neglected factor in the seasonal ecology of insects: hypotheses and tests of
+mechanisms. Environ. Entomol. 27, 523 e530.
+Thelen, E., Schöner, G., Scheier, C., Smith, L.B., 2001. The dynamics of embodiment: a
+ﬁeld theory of infant perseverative reaching. Behav. Brain Sci. 24, 1 e86.
+Tomasello, M., 2000. Primate cognition: introduction to the issue. Cogn. Sci. 24,
+351e361.
+Uehara, S., 1982. Seasonal changes in the techniques employed by wild chimpan-
+zees in the Mahale Mountains, Tanzania, to feed on termites ( Pseudacantho-
+termes spiniger ). Folia Primatol. 37, 44 e76.
+Uomini, N.T., 2009. The prehistory of handedness: archaeological data and
+comparative ethology. J. Hum. Evol. 57, 41 1 e419.
+Valenta, K., Melin, A.D., 2012. Protein limitation explains variation in primate colour
+vision phenotypes: a uni ﬁed model for the evolution of primate trichromatic
+vision. In: García, M.-D. (Ed.), Zoology. In Tech .
+van Schaik, C.P., Pfannes, K.R., 2005. Tropical climates and phenology: a primate
+perspective. In: Brockman, D.K., van Schaik, C.P. (Eds.), Seasonality in Primates.
+Cambridge University Press, Cambridge, pp. 23 e54.
+van Schaik, C.P., Deaner, R.O., Merrill, M.Y., 1999. The conditions for tool use in
+primates: implications for the evolution of material culture. J. Hum. Evol. 36,
+719e741.
+van Woerden, J.T., Willems, E.P., van Schaik, C.P., Isler, K., 2012. Large brains buffer
+energetic effects of seasonal habitats in catarrhine primates. Evolution 66, 191 e
+199.
+Vilarroya, O., 2012. A satis ﬁcing and bricoleur approach to sensorimotor cognition.
+Biosystems 1 10, 65e73.
+Visalberghi, E., Fragaszy, D., Ottoni, E., Izar, P., de Oliveira, M.G., Andradem, F.R.D.,
+2007. Characteristics of hammer stones and anvils used by wild bearded
+capuchin monkeys ( Cebus libidinosus ) to crack open palm nuts. Am. J. Phys.
+Anthropol. 132, 426 e444.
+Vogel, E.R., van Woerden, J.T., Lucas, P.W., Utami Atmoko, S.S., van Schaik, C.P.,
+Dominy, N.J., 2008. Functional ecology and evolution of hominoid molar enamel
+thickness: Pan troglodytes schweinfurthii and Pongo pygmaeus wurmbii . J. Hum.
+Evol. 55, 60 e74.
+Vogel, E.R., Haag, L., Mitra-Setia, T., van Schaik, C.P., Dominy, N.J., 2009. Foraging and
+ranging behavior during a fallback episode: Hylobates albibarbis and Pongo
+pygmaeus wurmbii compared. Am. J. Phys. Anthropol. 140, 716 e726.
+Vogel, E.R., Knott, C.D., Crowley, B.E., Blakely, M.D., Larsen, M., Dominy, N.J., June 23,
+2012. Bornean orangutans on the brink of protein bankruptcy. Biol. Lett. 8 (3),
+333e336.
+Wrangham, R., Cheney, D., Seyfarth, R., Sarmiento, E., 2009. Shallow-water habitats
+as sources of fallback foods for hominins. Am. J. Phys. Anthropol. 140, 630 e642.
+Wright, B.W., Wright, K.A., Chalk, J., Verderane, M.P., Fragaszy, D., Visalberghi, E.,
+Izar, P., Ottoni, E.B., Constantino, P., Vinyard, C., 2009. Fallback foraging as a way
+of life: using dietary toughness to compare the fallback signal among capuchins
+and implications for interpreting morphological variation. Am. J. Phys.
+Anthropol. 140, 687 e699.
+Yamakoshi, G., 1998. Dietary responses to fruit scarcity of wild chimpanzees at
+Bossou, Guinea: possible implications for ecological importance of tool use. Am.
+J. Phys. Anthropol. 106, 283 e295.
+Yamashita, N., 1998. Functional dental correlates of food properties in ﬁve Malagasy
+lemur species. Am. J. Phys. Anthropol. 106, 169 e188.
+Yeakel, J.D., Bennett, N.C., Koch, P.L., Dominy, N.J., 2007. The isotopic ecology of
+African mole rats informs hypotheses on the evolution of human diet. Proc. Biol.
+Sci. 274, 1723e1730.
+Young, H.C., 2005. Sharp spines and toxic stings: How white-faced capuchins Cebus
+capucinus overcome the defence mechanisms of invertebrates in Costa Rica.
+Master’s Thesis, University of Calgary .
+Young, H.C., Fedigan, L.M., Addicott, J.F., 2008. Look before leaping: foraging
+selectivity of capuchin monkeys on acacia trees in Costa Rica. Oecologia 155,
+85e92.
+A.D. Melin et al. / Journal of Human Evolution 71 (2014) 77 e8686

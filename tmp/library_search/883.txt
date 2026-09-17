@@ -1,0 +1,650 @@
+PDF PAGE 1
+Behavioural Processes 108 (2014) 117–122
+Contents lists available at ScienceDirect
+Behavioural Processes
+jo ur nal  homep  ag e: www.elsevier.com/locate/behavproc
+Sexual bias in probe tool manufacture and use by wild bearded
+capuchin
+ monkeys
+Tiago Falótico∗, Eduardo B. Ottoni
+Department of Experimental Psychology, Institute of Psychology, University of São Paulo, Av. Prof. Mello Moraes, 1721, Bloco F, Sala 2,
+Cidade
+ Universitária São Paulo 05508-030, Brazil
+a r t i
+ c l e i n f o
+Article history:
+Received
+ 21 September 2014
+Accepted
+ 23 September 2014
+Available
+ online 19 October 2014
+Keywords:
+Tool
+ use
+Probe
+Predation
+Sex
+ differences
+Capuchin
+ monkey
+Tradition
+a b s
+ t r a c t
+Here
+ we examine data from a two-year research on the use of sticks as probes by two groups of wild
+capuchin monkeys (Sapajus libidinosus) in Serra da Capivara National Park (PI), Brazil. The use of sticks
+as
+ probes is not usually observed among wild tufted capuchin (Sapajus spp.) populations, having been
+reported as a customary behavior only in SCNP groups. Probe tools are used to access small prey (insects
+or
+ lizards) in rock cracks or tree trunks, or honey from wasps’ nests, and also to poke toads and poisonous
+snakes. Probe use is, so far, the only known case in which wild capuchins modify objects used as tools:
+branches
+ are trimmed off, and tips, thinned. Tool preparation episodes involved up to four modiﬁcation
+steps.
+ Contrary to the stone tools used to crack hard nuts, probe tools don’t present any weight constraint
+for
+ use
+ by females, but there is nevertheless a strong male bias (97%) in the occurrence of probe tool use.
+There are also no diet biases that could explain this difference. Although males hunt more often than
+females,
+ the latter main prey items are lizards, which are also the main targets of probe tool use. One
+possibility
+ is that females may have fewer social opportunities to learn about probe tools.
+©
+ 2014
+ Elsevier B.V. All rights reserved.
+1. Introduction
+Tool use is widespread in bearded capuchin monkeys (Sapajus
+libidinosus, previously Cebus libidinosus –  see Alfaro et al., 2012)
+living in savannah-like and semiarid environments (Ottoni and
+Izar, 2008). Their most common tools are stones used as “ham-
+mers”  to crack open hard-shelled fruits, seeds, and nuts (Ferreira
+et al., 2010; Fragaszy et al., 2004; Ottoni and Izar, 2008; Spagnoletti
+et al., 2012). Others species of the genus (Sapajus xanthosternos
+and Sapajus ﬂavius ) also use stone tools to open hard shelled fruits
+(Canale et al., 2009; Ferreira et al., 2009), but the only wild groups
+of S. libidinosus known, to date, to regularly use stone tools for
+other purposes are those from the Serra da Capivara National Park
+(SCNP) population. In this location, bearded capuchins of at least
+two groups were previously known to use stones not only to crack
+or smash fruits and seeds, but also to dig for roots, underground
+storage organs, and spider nests (Mannu and Ottoni, 2009; Moura
+and Lee, 2004). Most tools are used to obtain food, but there are
+exceptions, like stone banging in threatening displays (Moura,
+∗ Corresponding author. Tel.: +55 11 3091 1926, +55 11 99711 1849 (mobile).
+E-mail
+ address: tfalotico@gmail.com (T. Falótico).
+2007), and throwing stones as a part of females’ sexual display
+(Falótico and Ottoni,
+ 2013).
+The
+ use of probe tools is reported in several primate species
+under captivity, mostly in experimental situations (Shumaker et al.,
+2011), but is less frequent in the wild. Among chimpanzees, the use
+of probes to obtain food is customary in several populations, espe-
+cially in the predation of social insects. Army ants’ dipping consists
+in placing a stick on the ants and the consumption of the insects that
+climb/grab it (McGrew, 1974; Nishida and Hiraiwa, 1982). There
+are variations in this behavior depending on the species predated;
+if the ant species is more aggressive, the tools are longer and the
+processing technique is different (Humle and Matsuzawa, 2002).
+There is also the sequential use of probe tools to obtain food by
+some groups: chimpanzees from Goualougo Triangle (Congo) use
+a thick stick to perforate the termite nests and then a slender and
+longer stick to “ﬁsh”  the insects (Sanz et al., 2004), and chimpanzees
+from Loango National Park (Gabon) use a similar tool set to dip for
+honey in bee nests (Boesch et al., 2009). Some wild populations
+of Sumatran orangutans use sticks to access seeds from the Neesia
+fruit, and others use stick probes to extract social insects and their
+products from tree holes (Van Schaik et al., 1996; Van Schaik and
+Knott, 2001).
+Captive tufted capuchin monkeys in experimental settings use
+probes to push a reward out of a tube (Visalberghi et al., 1995;
+http://dx.doi.org/10.1016/j.beproc.2014.09.036
+0376-6357/© 2014 Elsevier B.V. All rights reserved.
+
+PDF PAGE 2
+118 T. Falótico, E.B. Ottoni / Behavioural Processes 108 (2014) 117–122
+Visalberghi and Limongelli, 1994), and also modify and combine
+probe tools when the probes were presented tied together, or cut
+in pieces that needed to be inserted sequentially (Visalberghi and
+Trinca, 1989). In other experiments where capuchin monkeys had
+to probe for molasses in a box, they solved the problem by mak-
+ing and using probes with the material provided, wooden dowel
+and freshly cut branches from shrubs (Westergaard and Fragaszy,
+1987). Similar behaviors were observed in semi-captive and semi-
+free animals in experimental settings (Aquino and Ottoni, 2001;
+Perondi et al., 1995).
+Wild capuchin monkeys often hunt small vertebrates (Butynski,
+1982; Fedigan, 1990), as well as a variety of invertebrates (Izawa,
+1979). Several invertebrates nest in small spaces in tree trunks,
+and small vertebrate prey (e.g. lizards), when chased, may hide in
+rock cracks or tree holes, escaping the monkeys’ direct reach. The
+only population with known customary use of probe tools to deal
+with this problem is found in the Serra da Capivara National Park
+(SCNP)(Mannu and Ottoni, 2009; Moura and Lee, 2004; Ottoni and
+Izar, 2008), but no detailed description of this behavior has been
+done. Another long term study on capuchin monkeys in a similar
+environment 300 km apart from SCNP never reported probe tool
+use (Spagnoletti et al., 2012). The only other report of a similar
+behavior involves just a few episodes (N = 8) of termite nest probing
+by a non-typical group (four adult males, one adult female, and one
+male juvenile) of S. ﬂavius  in the Atlantic forest (Souto et al., 2011).
+Here we describe in detail the customary manufacture and use of
+stick probes to cast out prey from hiding places, and to dip honey
+from bee/wasp hives, by two, not previously studied groups of S.
+libidinosus in the SCNP. We also report the use of sticks to threaten
+potentially dangerous animals.
+2. Methods
+2.1. Study site
+Research was conducted in Serra da Capivara National Park
+(SCNP; Piauí state, northeastern Brazil). The park is located at
+the
+ geoclimatic domain of the Caatinga, semi-arid climate, with a
+mosaic of xerophytic vegetation and patches of deciduous forest at
+narrow wetter valleys surrounded by high cliffs. The rainfall is very
+concentrated in the short wet season, from November to March. The
+study area is the Boqueirão da Pedra Furada, in the southeast border
+of the park (limiting coordinates: North: 8◦49′S, 42◦33′W; South:
+8◦50′S, 42◦33′W; East: 8◦50′S, 42◦32′W; West: 8◦50′S, 42◦34′W).
+2.2. Study groups
+We observed two partially sympatric groups (Supplementary
+map 1) of capuchin monkeys (S. libidinosus). The Pedra Furada
+(PF) group had, in the beginning of the study, 45 individuals, and
+the Bocão (BC) group, 27 individuals. The two groups sometimes
+met and foraged in the same area for minutes or hours, but never
+had agonistic encounters (occasional agonistic episodes occurred
+between some individuals, but never included the whole groups).
+The park staff provisioned both groups during the dry seasons. The
+provisions consisted of fruits (three to four times a week) and dry
+corn (every two weeks). The corn was meant for other animals on
+the park, but monkeys also ate it.
+2.3. Observation method
+During the daily following of the group we registered all occur-
+rences of tool use (as deﬁned  by Shumaker et al., 2011) with the help
+of a ﬁeld  assistant, by All Occurrences sampling (Altmann, 1974).
+Tool use behaviors were registered by voice and/or by video.
+The monkey and its target prey were identiﬁed  when possible. An
+Table 1
+Levels
+ of stick tools modiﬁcation.
+No. of
+modiﬁcations
+Description
+0 No modiﬁcations  of the tool.
+1
+ The tool was detached or was modiﬁed  once (tip cut,
+lateral
+ branches removed or thickness reduction by bark
+removal).
+2 The tool was detached and underwent one more
+modiﬁcation,
+ or was taken already detached, but
+underwent
+ two subsequent modiﬁcations.
+3
+ The tool was detached and underwent two more
+modiﬁcations.
+ Or was taken already detached, but
+underwent
+ three subsequent modiﬁcations.
+4
+ The tool was detached by the user and underwent three
+more
+ modiﬁcations.
+individual was counted as an observer when it was within 1 m from
+the tool user and oriented towards it.
+When probe tool use events were observed from the very begin-
+ning
+ (68.9% of the events) we registered the manufacturing of the
+tools: where the monkey got the stick, how many modiﬁcations
+were made and which end was used for probing. We classiﬁed  these
+tools in to four categories, according to the number of modiﬁca-
+tions (Table 1). Stick tools were collected and measured (length
+and thickness) when possible.
+The research in the SCNP was previously approved by
+IBAMA/ICMBio (authorizations 037/2007/DIREC and 14825-1),
+adhered to the ASAB/ABS Guidelines for the Use of Animals in
+Research, and followed all ethical guidelines for animal research
+of the Institute of Psychology-USP.
+3. Results
+The groups were systematically followed for 20 days per month,
+from initial visual contact in the morning until the end of the day or
+the loss of contact with the group. The data from PF group were col-
+lected for 23 months (Sep/2007–Jul/2009),  and from BC group, for
+12 months (Mar/2008–Feb/2009),  with 1290.23 h of contact time
+with the PF group and 426.36 h with the BC group.
+We registered 480 episodes of probe tool use for both groups,
+and collected the probes used in 177 episodes; the average
+length of the probes was 27.94 ± SD 14.97 cm (min. 6.5 cm; max.
+98.2 cm). The average thickness was 4.67 ± SD 1.19 mm. There
+were no signiﬁcant  differences between the two study groups in
+the length (Mann–Whitney,  p = 0.334) and thickness of the tools
+(Mann–Whitney,  p = 0.437).
+There was also no statistical difference in length
+(Mann–Whitney,  p = 0.85), or in thickness (Mann–Whitney,
+p = 0.837) between the probes used by these groups and by the
+other two studied by Mannu and Ottoni (unpublished data).
+The targets of the probing behavior were the hiding places of
+small lizards (mostly Tropidurus ssp.) and arthropods, or honey
+from bees’ and wasps’ nests (Table 2).
+Table 2
+Targets
+ searched with probe tools.
+Target Events Frequency (%)
+Lizards (rock cracks) 191 39.79
+Trunk
+ holesa 181 37.71
+Carpenter
+ bee nests 85 17.71
+Wasp
+ nests 3 0.62
+Termite
+ nests 11 2.29
+Spider
+ nests 4 0.83
+Others
+ 5 1.04
+Total 480 100
+a Target unseen, probably arthropods/honey.
+
+PDF PAGE 3
+T. Falótico, E.B. Ottoni / Behavioural Processes 108 (2014) 117–122  119
+0
+10
+20
+30
+40
+50
+60
+70
+80Average length (cm)
+p = 0.046
+p = 0.002
+p = 0.011
+0
+0.2
+0.4
+0.6
+0.8
+1
+1.2
+rock
+ c racks tree ho les ter mite nests
+rock cracks t ree holes t ermite nests
+Average  thickness (mm)
+p = 0.015
+p < 0.001
+p = 0.003
+Fig. 1. Average length and thickness of the probes used in the three most exploited
+substrates.
+ The p value is for the Mann–Whitney  test.
+The probes used in each of the three more exploited locations
+(rock cracks, trees, and termite nests) had signiﬁcant  different
+dimensions (Fig. 1). The termite nest probes were longer and thicker
+than tree hole probes, and these were larger than rock crack probes.
+A typical probing episode starts with the monkey inspecting
+the possible nest/hiding place and then going to a near tree to
+take/make a probe. The monkey breaks apart a small branch from
+a tree and, while returning, the branch is trimmed. After reaching
+the target place, the monkey starts to probe with the stick, insert-
+ing it into the prey’s hiding place and moving it in and out. When
+successful, the prey comes out and the monkey may catch it (Sup-
+plementary movie 1). Or, in the case of honey, the monkey simply
+licks the dipped probe.
+The sticks were usually detached from nearby trees or picked
+on the ground. In most episodes, only one tool was used, but up to
+seven tools could be used for the same task (Table 3).
+We observed the transport of probe tools in 162 events (73.64%
+of the episodes observed from the beginning). The average dis-
+tance of transport was 2.47 ± SD 2.39 m and the farthest transport
+distance was 15 m. When comparing both groups, we found a
+signiﬁcant  difference in the transport distances (Mann–Whitney,
+p = 0.004): the PF group transported tools for a greater average
+distance.
+The probing behavior could be performed in different postures;
+the monkey could be on the ground or on a rock wall (with a bipedal
+Table 3
+Frequency
+ of tools used in each episode.
+Tools used N episodes
+1 228
+2
+ 55
+3
+ 16
+4
+ 7
+5
+ 7
+6
+ 4
+7
+ 1
+or tripedal posture), or even hanging upside down from a tree trunk
+(Fig. 2). The monkeys used the hands or the mouth to thrust the
+probe.
+The use of probes was relatively common, but less frequent than
+the use of stone tools. The rates of digging stone tool use and crack-
+ing stone tool use were 0.702 and 0.941 ep/h, respectively, but the
+overall rate of probe tool use was 0.269 ep/h.
+Most probe tools (63.7%) were used after modiﬁcations  (Table 4),
+usually one or two, but 36.3% were just picked up on the ground –
+some of them left by previous users.
+The probes were sequentially combined with stone tools in 28
+episodes. These stones were used to enlarge openings in rock cracks
+and trunks (pounding tools) or to dig spiders and termite nests
+(digging tools). There were also combinations of two or more stone
+tools (Falótico, in prep).
+Males performed almost all episodes of probing. Juvenile
+females performed only 13 observed events (3.09% of all events
+with subjects’ sex identiﬁcation),  and there were no records of adult
+females using probes.
+The success in resource acquisition was different for each of the
+three resources most frequently searched with probes (Table 5).
+Adults –  who had a higher success rate than juveniles in all cases,
+especially when probing trunk holes –  were less efﬁcient  when
+hunting lizards in rock cracks.
+When the success was examined for each level of modiﬁcation
+(Table 6) there was not much difference within adults/subadults
+success until level 2, but the juveniles were relatively more suc-
+cessful when they did not modify the tool. We did not register
+any successful episodes for tools in modiﬁcation  levels 3 and 4,
+but these correspond to just 6.88% of the total of events (Table 4).
+The observation of probe use by conspeciﬁcs  happened in 20%
+(N = 96) of the episodes, and most observers were juveniles and
+infants (79.16%). The observers manipulated the discarded tools
+after the user left the site in 38 events.
+3.1. Other stick tools
+Most stick tools were used as probes, but some, not included
+in the previous analyses, were used to poke potentially danger-
+ous animals during threat events (Supplementary movie 2). We
+recorded 11 events where male monkeys used sticks (two of them
+much longer than the average probes) to touch animals they were
+threatening or exploring. These cases are summarized in Table 7.
+We also observed two events of individuals using sticks to groom
+themselves. In one case an adult male scratched his own head (Sup-
+plementary movie 3) and in another, an adult female used a stick
+to scratch/poke the individual she was grooming.
+One stick tool was used by an adult male, without the removal
+of its terminal branches, to scatter and take down bees (Apis sp)
+from a honeycomb. The monkey ate some of the bees.
+4. Discussion
+The use of sticks as probes by the capuchin monkeys of SCNP
+is
+ a widespread behavior. Until now, all four groups studied in the
+region exhibit this behavior and there are no signiﬁcant  differences
+
+PDF PAGE 4
+120 T. Falótico, E.B. Ottoni / Behavioural Processes 108 (2014) 117–122
+Fig. 2. Probing tree trunks. (a, b) An adult male probes honey and licks the probe tip. (c) Subadult male and (d) juvenile male probing a crack in a tree trunk.
+Table 4
+Frequency
+ of probe tools used by each age for each level of modiﬁcation  of the tool.
+Age 0 mod. (%) 1 mod. (%) 2 mod. (%) 3 mod. (%) 4 mod. (%) TOTAL
+Infants 0 1(50) 1
+(50)
+0
+ 0 2
+Juveniles 126(32.3) 84(24.8) 105(31.1) 22(6.5) 1(0.3) 338
+Adults/Subadults
+ 48(34.3) 40(28.6) 42(30) 9(6.4) 1(0.7) 140
+Total 174(36.25) 125(26.04) 148(30.83) 31(6.46) 2(0.42) 480
+Table 5
+Efﬁciency
+ in resource acquisition with the aid of probe tools, by age.
+Age Arthropods/Honey (trunk holes) (%) Carpenter bee nests (%) Lizards (rock cracks) (%)
+Juveniles 5 2.7 2.01
+Adults/Subadults
+ 25 20.83 7.31
+Table 6
+Success
+ in probe tool use by each age for each level of modiﬁcation  of the tool.
+Age 0 mod. (%) 1 mod. (%) 2 mod. (%) 3 mod. 4 mod.
+Infants 0 0 0 0 0
+Juveniles
+ 10.2 2.4 5.6 0 0
+Adults/Subadults
+ 27.1 27.5 23.8 0 0
+Total 14.9 10.5 10.8 0 0
+Table 7
+Episodes
+ of pocking sticks use in threatening events.
+Date Age/Sex Tools used Tool length (cm) Modiﬁcations  Target
+15/10/07 Juvenile male 2 –  0; 2 Snake (Bothrops sp)
+23/10/07
+ Subadult male 1 70.5 –  Toad (Leptodactylus sp)
+19/11/07
+ Juvenile 1 27 1 Toad (Leptodactylus sp)
+27/11/07
+ Juvenile male 1 –  0 Spider (tarantula)
+16/09/08
+ Subadult male 1 47.1 2 Snake (Boa constrictor)
+20/11/08
+ Subadult male 4 –  1; 2; –;  –  Unidentiﬁed  mammal
+09/12/08
+ Juvenile 1 –  –  Unidentiﬁed
+
+PDF PAGE 5
+T. Falótico, E.B. Ottoni / Behavioural Processes 108 (2014) 117–122  121
+in tool shape or usage between groups. Compared to ant/termite
+dipping/ﬁshing  of the chimpanzees (Humle and Matsuzawa,
+2002; Lonsdorf, 2005; Yamakoshi and Myowa-Yamakoshi, 2004),
+capuchins usually use the probes to expel prey from their hiding
+places, not to make it climb or attach itself to the probe. On the other
+hand, the technique of dipping for honey is very similar to the chim-
+panzees’. Although we observed probing in termite nests, none of
+our subjects used an ant-ﬁshing  or ant-dipping technique like the
+chimpanzees’, and the few cases when we observed a monkey pro-
+bing termite nests were unsuccessful. The monkeys ate termites
+and ants, but they did that by directly destroying the nests or during
+the ants’ nuptial ﬂight,  at the beginning of the rainy season.
+Stick probes are the only kind of tools wild capuchin monkeys
+are known to manufacture by modiﬁcation  of raw materials. Most
+probes used are modiﬁed,  usually during its use, although prepa-
+ration can be done off-site, while the monkey is transporting the
+tool. The modiﬁcations  done while using the tool suggest that the
+individuals were reacting to feedback from local/immediate cir-
+cumstances and the low success of juveniles with more modiﬁed
+tools indicates that there is a learning process involved in the man-
+ufacture/modiﬁcation  of efﬁcient  probe tools.
+Sequential tool use by capuchin monkeys was observed in some
+experimental contexts (Westergaard and Suomi, 1993), but the
+SCNP groups were the ﬁrst  wild groups regularly observed doing
+this (Mannu and Ottoni, 2009) –  not only the sequential use of tools
+of the same kind (replacing a probe or a percussive tool by another),
+but also the combination of different kinds of tools (stones and
+probes) in a single task.
+The different average length of probes for each target location
+(trees, rock cracks, and termite nests) imply that the monkeys
+choose or modify tools differently in each location, maybe relat-
+ing to the different preys and/or physical properties of the place
+probed. We could not separate the data by prey type because in
+many events the monkeys were not successful and it was not pos-
+sible to positively identify the prey.
+When compared to other groups in the area (Mannu and Ottoni,
+2009), the probes used by our study groups appears to be similar
+in their average length. But the probe targets could be different,
+because in previous studies there was no mention of vertebrate
+predation using probes, although the other prey items are men-
+tioned.
+For stone tool use, a male bias in frequency has been observed
+in this and other populations (Moura and Lee, 2010; Ottoni and
+Mannu, 2001; Spagnoletti et al., 2011), but the gender bias is even
+greater in the use of probe tools: females almost never use probes
+(only 3.09% of the events, none of them by adult females). There is a
+big difference in proﬁciency  between genders in percussive tool use
+when the cracking target is very hard and requires heavy tools to
+open it (Spagnoletti et al., 2011). The hard palm nuts from Cerrado
+vegetation, like the ones cracked by the groups in Fazenda Boa Vista
+(Gilbués –  PI), require heavy stones (average 1096 g) to be cracked
+open (Visalberghi et al., 2007). In this case, a heavier body mass is
+a good predictor of success (Fragaszy et al., 2010; Spagnoletti et al.,
+2011), and there is indeed a male bias in tool use, as expected. There
+are no differences in efﬁciency,  however, when lighter stone tools
+are used to process softer materials (Falótico, 2011). This should
+also be the case of the probe tools, which are very light and don’t
+require great strength to be successfully used. In the laboratory,
+females may use probe tools efﬁciently  and there seems to be no
+such gender bias (Visalberghi and Limongelli, 1994; Visalberghi and
+Trinca, 1989). In short, this gender difference in probe tool use is
+probably not related to any physical or cognitive constrains on the
+females.
+It was suggested that the male bias exists due to parental invest-
+ment differences (Moura and Lee, 2010): males would use tools, but
+females would prefer to scavenge from the efforts of the males, thus
+saving energy. This explanation may apply to the use of stone tools
+in nutcracking sites, where there is usually plenty of leftovers, and
+females may scrounge it. The use of probe tools, though, yields a
+very low success rate, does not produce many leftovers, and we
+seldom observed the sharing of prey so obtained.
+A diet bias could attract more males to resources related to pro-
+bing. In the groups of SCNP, males predate vertebrates much more
+frequently than females (79.1% of episodes; Falótico, unpublished
+data), but the females also hunt, and lizards are the females’ major
+vertebrate prey (61.1%). So, the diet bias does not seem to be a suf-
+ﬁcient  explanation for the absence of probe use by females in our
+study groups.
+Another possibility is that females are less exposed to predated
+items and tools left by others, which could diminish their learning
+opportunities compared to males, but until now we have no evi-
+dence of that. Our ongoing study on the ontogeny of probe tool use
+in this population may clarify if there is an opportunity learning
+bias favoring males (e.g. males spending more time together) or
+whether the females are also able to observe the use of probe tools
+but do not use them for other reasons.
+Acknowledgments
+We
+ would like to thank FUMDHAM staff, particularly their
+Director Niède Guidon, who provided us with logistical sup-
+port during the ﬁeldwork.  The research was supported by grants
+from FAPESP (TF: 2006/07187-5, EBO: 2006/07190-6), CNPq
+(PQ311948/2013-8) and Capes. We thank our ﬁeld  assistant
+Francisco “Chico”  Reinaldo for his help in the data collection.
+Appendix A. Supplementary data
+Supplementary data associated with this article can be
+found, in the online version, at http://dx.doi.org/10.1016/j.beproc.
+2014.09.036.
+References
+Alfaro, J.W.L., Silva, J.D.E.S.E., Rylands, A.B., 2012. How different are robust and gracile
+capuchin monkeys? An argument for the use of Sapajus and Cebus. Am. J. Prima-
+tol. 74 (4), 273–286,  http://dx.doi.org/10.1002/ajp.22007.
+Altmann,
+ J., 1974. Observational study of behavior: sampling methods. Behaviour
+49, 227–267.
+Aquino, C.M.C., Ottoni, E.B., 2001. Uso induzido de ferramentas por macacos-prego
+(Cebus apella) em condic¸ ões de semi-liberdade. In: Annals of the XIX Brazilian
+Ethology Conference, pp. 74.
+Boesch, C., Head, J., Robbins, M.M., 2009. Complex tool sets for honey extraction
+among chimpanzees in Loango National Park, Gabon. J. Hum. Evol. 56 (6),
+560–569,  http://dx.doi.org/10.1016/j.jhevol.2009.04.001.
+Butynski, T.M., 1982. Vertebrate predation by primates: a review of hunting patterns
+and prey. J. Hum. Evol. 11 (5), 421–430.
+Canale, G.R., Guidorizzi, C.E., Kierulff, M.C.M., Gatto, C.A.F.R., 2009. First record of
+tool use by wild populations of the yellow-breasted capuchin monkey (Cebus
+xanthosternos) and new records for the bearded capuchin (Cebus libidinosus).
+Am. J. Primatol. 71 (5), 366–372,  http://dx.doi.org/10.1002/ajp.20648.
+Falótico, T., 2011. Uso de ferramentas por macacos-prego (Sapajus libidinosus) do
+Parque Nacional Serra da Capivara—PI.  Universidade de São Paulo. Retrieved
+from ⟨http://www.teses.usp.br/teses/disponiveis/47/47132/tde-04112011-
+171428/.⟩.
+Falótico, T., Ottoni, E.B., 2013. Stone throwing as a sexual display in wild female
+bearded capuchin monkeys, Sapajus libidinosus. PLoS One 8 (11), e79535,
+http://dx.doi.org/10.1371/journal.pone.0079535.
+Fedigan, L.M., 1990. Vertebrate predation in Cebus capucinus: meat eating in a
+neotropical monkey. Folia Primatol. 54, 196–205.
+Ferreira, R.G., Emidio, R.A., Jerusalinsky, L., 2010. Three stones for three seeds: natural
+occurrence of selective tool use by capuchins (Cebus libidinosus) based on an
+analysis of
+ the weight of stones found at nutting sites. Am. J. Primatol. 72 (3),
+270–275,
+ http://dx.doi.org/10.1002/Ajp.20771.
+Ferreira, R.G., Jerusalinsky, L., Silva, T.C.F., de Souza Fialho, M., de Araújo Roque,
+A., Fernandes, A., Arruda, F., 2009. On the occurrence of Cebus ﬂavius  (Schre-
+ber 1774) in the caatinga, and the use of semi-arid environments by cebus
+species in the Brazilian state of Rio Grande do Norte. Primates 50 (4), 357–362,
+http://dx.doi.org/10.1007/s10329-009-0156-z.
+Fragaszy, D., Izar, P., Visalberghi, E., Ottoni, E.B., de Oliveira, M.G., 2004. Wild
+capuchin monkeys (Cebus libidinosus) use anvils and stone pounding tools. Am.
+J. Primatol. 64 (4), 359–366,  http://dx.doi.org/10.1002/ajp.20085.
+
+PDF PAGE 6
+122 T. Falótico, E.B. Ottoni / Behavioural Processes 108 (2014) 117–122
+Fragaszy, D.M., Greenberg, R., Visalberghi, E., Ottoni, E.B., Izar, P., Liu, Q., 2010.
+How wild bearded capuchin monkeys select stones and nuts to minimize
+the number of strikes per nut cracked. Anim. Behav. 80 (2), 205–214,
+http://dx.doi.org/10.1016/j.anbehav.2010.04.018.
+Humle, T., Matsuzawa, T., 2002. Ant-dipping among the chimpanzees of Bossou,
+Guinea, and some comparisons with other sites. Am. J. Primatol. 58, 133–148.
+Izawa, K., 1979. Foods and feeding behavior of wild black-capped capuchin (Cebus
+apella). Primates 20 (1), 57–76.
+Lonsdorf, E.V., 2005. Sex differences in the development of termite-ﬁshing  skills in
+the wild chimpanzees, Pan troglodytes schweinfurthii, of Gombe National Park,
+Tanzania. Anim. Behav. 70 (3), 673–683.
+Mannu, M., Ottoni, E.B., 2009. The enhanced tool-kit of two groups of wild bearded
+capuchin monkeys in the caatinga: tool making, associative use, and secondary
+tools. Am. J. Primatol. 71 (3), 242–251,  http://dx.doi.org/10.1002/Ajp.20642.
+McGrew,
+ W.C., 1974. Tool use by wild chimpanzees in feeding upon driver ants. J.
+Hum. Evol. 3 (6), 501–508.
+Moura, A.C.A., 2007. Stone banging by wild capuchin monkeys: an unusual auditory
+display. Folia Primatol. 78 (1), 36–45.
+Moura, A.C.A., Lee, P.C., 2004. Capuchin stone tool use in Caatinga dry forest. Science
+306, 1909, http://dx.doi.org/10.1126/science.1102558.
+Moura, A.C.A., Lee, P.C., 2010. Wild capuchins show male-biased feeding tool use.
+Int. J. Primatol. 31 (3), 457–470,  http://dx.doi.org/10.1007/s10764-010-9406-6.
+Nishida, T., Hiraiwa, M., 1982. Natural history of a tool-using behavior by wild chim-
+panzees in feeding upon wood-boring ants. J. Hum. Evol. 11 (1), 73–99.
+Ottoni, E.B., Izar, P., 2008. Capuchin monkey tool use: overview and implications.
+Evolut. Anthropol. 17 (4), 171–178,  http://dx.doi.org/10.1002/Evan.20185.
+Ottoni, E.B., Mannu, M., 2001. Semifree-ranging tufted capuchins (Cebus apella)
+spontaneously use tools to crack open nuts. Int. J. Primatol. 22 (3), 347–358,
+http://dx.doi.org/10.1023/A:1010747426841.
+Perondi, M.A.M., Izar, P., Ottoni, E.B., 1995. Uso de ferramentas por macacos-prego
+(Cebus apella) em condic¸ ões de semi-cativeiro: observac¸ ões preliminares. In:
+Annals of the XIII Brazilian Ethology Conference, p. 416.
+Sanz, C., Morgan, D., Gulick, S., 2004. New insights into chimpanzees, tools, and
+termites from the Congo basin. Am. Nat. 164 (5), 567–581.
+Shumaker, R.W., Walkup, K.R., Beck, B.B., 2011. Animal Tool Behavior: The Use and
+Manufacture of Tools by Animals, 2nd ed. Johns Hopkins University Press, Bal-
+timore, USA, pp. 282.
+Souto, A., Bione, C.B.C., Bastos, M., Bezerra, B.M., Fragaszy, D., Schiel, N., 2011.
+Critically endangered blonde capuchins ﬁsh  for termites and use new tech-
+niques to accomplish the task. Biol. Lett. 7 (4), 532–535,  http://dx.doi.org/
+10.1098/rsbl.2011.0034.
+Spagnoletti, N., Visalberghi, E., Ottoni, E., Izar, P., Fragaszy, D., 2011. Stone tool use by
+adult wild bearded capuchin monkeys (Cebus libidinosus). Frequency, efﬁciency
+and tool selectivity. J. Hum. Evol. 61 (1), 97–107,  http://dx.doi.org/10.1016/
+j.jhevol.2011.02.010.
+Spagnoletti, N., Visalberghi, E., Verderane, M.P., Ottoni, E., Izar, P., Fragaszy, D.,
+2012. Stone tool use in wild bearded capuchin monkeys, Cebus libidinosus.
+Is it a strategy to overcome food scarcity? Anim. Behav. 83 (5), 1285–1294,
+http://dx.doi.org/10.1016/j.anbehav.2012.03.002.
+Van Schaik, C.P., Fox, E.A., Sitompul, A.F., 1996. Manufacture and use of
+tools in wild Sumatran orangutans. Naturwissenschaften 83 (4), 186–188,
+http://dx.doi.org/10.1007/BF01143062.
+Van Schaik, C.P., Knott, C.D., 2001. Geographic variation in tool use on Neesia fruits
+in
+ orangutans. Am. J. Phys. Anthropol. 114 (4), 331–342,  http://dx.doi.org/10.
+1002/ajpa.1045.
+Visalberghi, E., Fragaszy, D.M., Savage-Rumbaugh, S., 1995. Performance in tool-
+using task by common chimpanzees (Pan troglodytes), bonobos (Pan paniscus),
+an orangutan (Pongo pygmaeus), and capuchin monkeys (Cebus apella). J. Comp.
+Psychol. 109 (1), 52–60.
+Visalberghi, E., Fragaszy, D., Ottoni, E., Izar, P., Oliveira, M.G., Andrade, F.R.D., 2007.
+Characteristics of hammer stones and anvils used by wild bearded capuchin
+monkeys (Cebus libidinosus) to crack open palm nuts. Am. J. Phys. Anthropol.
+132, 426–444.
+Visalberghi, E., Limongelli, L., 1994. Lack of comprehension of cause-effect relations
+in tool-using capuchin monkeys (Cebus apella). J. Comp. Psychol. 108 (1), 15–22.
+Visalberghi, E., Trinca, L., 1989. Tool use in capuchin monkeys: distinguish-
+ing between performing and understanding. Primates 30 (4), 511–521,
+http://dx.doi.org/10.1007/BF02380877.
+Westergaard, G.C., Fragaszy, D.M., 1987. The manufacture and use of tools by
+capuchin monkeys (Cebus apella). J. Comp. Psychol. 101 (2), 159–168.
+Westergaard, G.C., Suomi, S.J., 1993. Use of a tool-set by capuchin monkeys (Cebus
+apella). Primates 34 (4), 459–462.
+Yamakoshi, G., Myowa-Yamakoshi, M., 2004. New observations of ant-dipping tech-
+niques in wild chimpanzees at Bossou, Guinea. Primates 45, 25–32.

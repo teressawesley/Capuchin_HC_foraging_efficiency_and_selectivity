@@ -1,0 +1,1103 @@
+PDF PAGE 1
+rstb.royalsocietypublishing.org
+Research
+Cite this article: Teschke I, Wascher CAF,
+Scriba MF, von Bayern AMP, Huml V, Siemers
+B, Tebbich S. 2013 Did tool-use evolve with
+enhanced physical cognitive abilities? Phil
+Trans R Soc B 368: 20120418.
+http://dx.doi.org/10.1098/rstb.2012.0418
+One contribution of 15 to a Theme Issue
+‘Tool use as adaptation’.
+Subject Areas:
+behaviour, cognition, evolution
+Keywords:
+tool-use, comparative cognition, corvids,
+Darwin’s finches
+Author for correspondence:
+S. Tebbich
+e-mail: sabine.tebbich@univie.ac.at
+†Deceased 23 May 2012.
+We dedicate this paper to the memory of our
+friend and colleague, Bjo¨rn Siemers.
+Electronic supplementary material is available
+at http:/ /dx.doi.org/10.1098/rstb.2012.0418 or
+via http://rstb.royalsocietypublishing.org.
+Did tool-use evolve with enhanced
+physical cognitive abilities?
+I. Teschke1, C. A. F. Wascher2, M. F. Scriba1,3, A. M. P. von Bayern 4,1, V. Huml1,
+B. Siemers 1,† and S. Tebbich 5
+1Max Planck Institute for Ornithology, Seewiesen, Germany
+2Konrad Lorenz Forschungsstelle, Core facility, University of Vienna, Gruenau, Austria
+3Department of Ecology and Evolution, University of Lausanne, Lausanne, Switzerland
+4Department of Zoology, University of Oxford, Oxford, UK
+5Department of Behavioural Biology, University of Vienna, Vienna, Austria
+The use and manufacture of tools have been considered to be cognitively
+demanding and thus a possible driving factor in the evolution of intelligence.
+In this study, we tested the hypothesis that enhanced physical cognitive abilities
+evolved in conjunction with the use of tools, by comparing the performance of
+naturally tool-using and non-tool-using species in a suite of physical and gen-
+eral learning tasks. We predicted that the habitually tool-using species, New
+Caledonian crows and Gala´pagos woodpecker finches, should outperform
+their non-tool-using relatives, the small tree finches and the carrion crows in a
+physical problem but not in general learning tasks. We only found a divergence
+in the predicted direction for corvids. That only one of our comparisons sup-
+ports the predictions under this hypothesis might be attributable to different
+complexities of tool-use in the two tool-using species. A critical evaluation is
+offered of the conceptual and methodological problems inherent in comparative
+studies on tool-related cognitive abilities.
+1. Introduction
+Animal tool-use has inspired researchers of comparative cognition for decades.
+Much of this interest stems from the putative role of tool-use in the evolution of
+human intelligence. The idea is that as tools gained importance in the ecology of
+early hominids, selection acted upon co gnitive abilities to improve their tool-
+using proficiency [1]. In this scenario, information-processing was honed in the con-
+text of tool manufacture and use, but gradually led to more complex and general
+cognitive abilities. Alternately, human tool-use may have evolved as a by-product
+of generalized intelligence evolved in another context (e.g. [2]). Thus, it is not sur-
+prising that much comparative research on tool-use traditionally revolved around
+anthropocentric questions, mainly that of whether and to what extent animal
+tool-use indicates continuity in the mental abilities of animals and humans.
+Today, reports of tool-use in animals abound, ranging from insects to birds
+[3]. Animal tool-use varies tremendously in its complexity and neuronal under-
+pinnings and thus, a fundamental revision of the original notion that tool-use is
+per se a reflection of intelligence has become necessary. Nevertheless, there are
+still reasons not to discard the idea of a potential link between intelligence and
+tool-use entirely. One is the existence of animal tool-use bearing the hallmarks
+of ‘sophisticated’ and potentially complex information-processing abilities,
+e.g. those instances involving use of multiple tools, sequential tool-use and/
+or complex tool modification in the wild. The rarity of sophisticated forms of
+animal tool-use furthermore suggests that there are constraints for its evolution,
+possibly cognitive abilities and/or neural substrate. Another reason is the
+existence of supporting correlational evidence: for birds, there is a strong
+relationship between tool-use and brain size [4] and tool-use and brain structure
+[5], and tool-use and brain size are related in primates [6]. It is therefore impor-
+tant to investigate the relationship between tool-use and enhanced cognition,
+& 2013 The Authors. Published by the Royal Society under the terms of the Creative Commons Attribution
+License http:/ /creativecommons.org/licenses/by/3.0/, which permits unrestricted use, provided the original
+author and source are credited.
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026
+
+PDF PAGE 2
+but with a focus on identifying the kinds of cognitive tool-
+related adaptations to expect, and with clear predictions
+of where to look for them. Two approaches could be particu-
+larly useful in guiding us to answers. The first is cost–benefit
+analysis: tool-related cognitive adaptations are expected only
+where tool-use is under strong selection. Furthermore, it may
+help to generate hypotheses that can explain why a particular
+species evolved tool-use, whereas a closely related species
+did not. Second, once hypotheses about the relationship of
+tool-use and cognitive traits have been formulated, compar-
+ing cognitive performance between closely and distantly
+related species is essential to test them. In elaborating
+upon the significance of each of these approaches, we will
+be focusing on the context in which most tool-use occurs,
+namely foraging.
+(a) The cost and benefits of tool-use and their
+link to evolution
+The main benefit of tool-use in foraging may be an increase in
+quantity or quality of prey that is inaccessible without tools [7].
+Unfortunately, quantitative data on the nutritional benefit of
+tool-use are scarce [7–12]. At least for some species, it has
+been shown that tool-use is more costly than conventional
+foraging techniques in terms of time [8,9]. The costs of learning
+and the expenditure of cognitive resources involved in tool-use
+and its development are more difficult to pin down. Learning
+to use tools during ontogeny has been shown to be a substan-
+tial investment at least for chimpanzees ( Pan troglodytes ,
+[13,14]) and New Caledonian crows (NCCs; Corvus mondelu-
+doides: [15–17]). Other factors and constraints that could
+influence the evolution of tool-use are for instance the avail-
+ability of tool-materials, morphology, behavioural and
+cognitive traits such as sociality and motivation to play and
+interact with objects, neural substrate and related energetic
+costs [18,19]. Such limiting factors could operate to constrain
+or enable the evolution of tool-use at various stages, such as
+during its invention, its diffusion through the population
+and its maintenance in a population.
+The interplay between costs, benefits and limiting factors
+can be exemplified by a comparison of the tool-using wood-
+pecker finches (WPFs Cactospiza pallid a) and the small tree
+finch (STF; Camarhynchus parvulus), a sympatric non-tool-using
+species that is closely related to the WPF. Though they are both
+extractive foragers, the WPF is more specialized on extracting
+concealed prey from a substrate. Its straight beak is not only
+ideal for pecking at the substrate, but also well-suited for
+manipulating tools and may allow better vision at the beak
+tip [20]. Similarly, other characteristics related to extractive
+foraging such as perseverance and high levels of neophilia
+might have increased the likelihood for the evolution of tool-
+use in this species. To summarize, slight differences in ecology
+and morphology can significantly influence the cost–benefit
+ratio and the effect of constraining factors, thus indirectly
+influencing the evolutionary trajectory of tool-use.
+(b) The comparative approach
+Traditionally, there has been a strong focus of tool-use studies
+on comparing tool-related complex cognition (e.g. causal
+understanding) between humans and various primates
+(reviewed in [21–24]) though a small number of studies
+have also investigated the tool- related cognitive abilities of
+non-tool-using primates [25–27].
+A deviation from the focus on primates occurred with the
+discovery of highly sophisticated tool-use in NCCs, involving
+use of multiple tools to extract arthropods from various sub-
+strates and complex tool manufacture in the wild (reviewed
+in [28,29]). In the laboratory, they appropriately select and
+modify tools for a given task [30,31], display elements of plan-
+ning in meta-tool tasks [32,33] and are able to develop
+spontaneous solutions to novel technical problems using
+novel materials in novel ways [34,35]. Until recently, the tool-
+related cognition of NCCs was considered unique among
+corvids. However in 2009, rooks ( Corvus frugilegus), a non-
+tool-using corvid species, were found to perform similarly to
+NCCs in several cognitive tool-related tasks [36]. This suggests
+that the special cognitive abilities of NCCs may have evolved
+in another context preceding the evolution of tool-use [2].
+The findings of Emery & Bird [36] remind us of the
+importance of a rigorous comparative programme to deter-
+mine whether there is a general pattern of association
+between an adaptive cognitive specialization and tool-use.
+This should not only entail comparisons between distantly
+related tool-users, but also between closely related tool-
+users and non-tool-users. Thereby, repeated appearance of
+the cognitive trait in question only in tool-users in phylogen-
+etically independent species pairs would be strong evidence
+for a cognitive adaptation [37].
+2. Our study: test of tool-related physical
+cognition in corvids
+Over the past 5 years, we have applied the comparative
+method, as described earlier, to two species pairs to investi-
+gate the question of whether the use of tools evolved in
+conjunction with enhanced and specialized physical cogni-
+tive abilities. Previously, we compared general learning and
+physical cognitive abilities in the WPF and a closely related
+non-tool-using species, the STF. WPFs habitually use twigs
+or cactus spines to extract arthropods from crevices and
+show simple modification of these tools such tool shortening
+or breaking of side twigs [8].
+We predicted that if tool-use evolved with enhanced
+specialized cognitive abilities, WPFs should outperform STFs
+in physical tasks but not necessarily in the general learning
+tasks. Contrary to expectation, the STFs performed similarly
+or better than WPFs in one of the general learning tasks and
+most of the physical tasks [38,39]. Thus, the study yielded
+no evidence that WPFs have enhanced physical cognition.
+The aim of this study was to provide highly comparable
+data from a new tool-using/non-tool-using species pair from
+a distantly related group using the methods which had been
+applied in the preceding Darwin’s finch study. This allows a
+more complete assessment of the hypothesis that tool-use
+might generally be associated with adaptive cognitive specializ-
+ations in the physical domain. Using the paradigms previously
+established with Darwin’s finches, we tested physical cognition
+and general learning abilities in tool-using NCCs and a non-
+tool-using species, the carrion crow ( Corvus corone). To our
+knowledge, ours is the only study to rigorously apply the
+comparative method to interspecific comparisons of closely
+related tool-using/non-tool-using species pairs in two distantly
+rstb.royalsocietypublishing.org Phil Trans R Soc B 368: 20120418
+2
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026
+
+PDF PAGE 3
+related groups and using identical learning paradigms to test
+all the species involved.
+(a) Methods
+(i) Study locations, subjects and housing
+All NCCs and one hooded crow (Corvus cornix) were tested at
+the Avian Cognition Research Station (ACRS) hosted by the
+Max Planck Institute for Ornithology (MPIO), Seewiesen,
+Germany from March to November 2011. All carrion and
+the remaining hooded crows were tested at the Konrad
+Lorenz Research Station (KLF) in Gru ¨ nau, Austria from
+June to August 2011 and at the MPIO in June 2009 and
+November 2009–May 2010. The test for neophilia (see
+below) was conducted in 2012 at the ACRS and KLF, and
+the NCCs were not the same as the ones tested in the other
+tasks (see the electronic supplementary material, table S1).
+The data from two hooded crows were included in the car-
+rion crow dataset as these closely related species have been
+only recently split into two separate species and share similar
+ecology and morphology [40]. Although the hooded crows
+are treated as carrion crows for the statistical analysis, these
+individuals have been made distinguishable from the carrion
+crows in the graphs. Furthermore, some WPFs do not use
+tools (detailed explanation in the methods of the electronic
+supplementary material, see also [38]). The WPF dataset is
+therefore comprised tool-using and non-tool-using individuals,
+and this distinction is taken into account in the analysis. A sum-
+mary clarifying the order of experiments, the participation of
+each bird in each experiment as well as rearing history is
+given in the methods section and the electronic supplementary
+material, table S1. Further details concerning rearing experience
+and housing are also in the methods section of the electronic
+supplementary material.
+(ii) Experiment 1: the cane task
+This experiment involved food retrieval contingent on making
+a choice between two canes, only one of which could retrieve
+the reward. In each condition, one food reward was inside the
+hooked portion of the cane and one outside of it (with the
+exception of transfer task 4 in which both rewards were
+inside the hooked portion of both canes; figure 1). Eight
+NCCs, five carrion crows, two hooded crows and 12 WPFs
+participated in this experiment.
+Transfer tasks. Those subjects that solved the initial version
+of the task by reaching the set learning criterion (see below)
+within a maximum of 180 trials were then tested in four further
+variations of the initial task (transfer tasks, figure 1b–e ), where
+they received a maximum of 20 trials in each.
+(iii) Experiment 2: the reversal task
+The apparatus consisted of two feeders covered with coloured
+lids (orange and blue) that were mounted 30 cm apart on a
+grey Perspex base (50 /C2 50 cm). In each trial, a reward was
+placed in one of the feeders, the lids were placed on the feeders
+and birds were then allowed to remove one of the two lids.
+A transparent Perspex divider prevented the birds from
+removing the lid of both feeders. The experiment consisted
+of two phases: an initial ‘acquisition phase’ and a ‘reversal
+phase’. In the acquisition phase, only one colour was the
+rewarded (S þ) stimulus. Half of the birds started with
+orange as S þ and the other half with blue as S þ.O n c ea
+subject met criterion (see general experimental procedure),
+the colour-reward contingency was reversed in the reversal
+phase. Subjects were given a maximum of 140 trials in each
+phase. Eight NCCs, seven carrion crows, one hooded crow
+and 16 WPFs were tested in this experiment.
+(iv) Experiment 3: the novel box-opening task
+The apparatus was a box made of opaque, white Perspex with
+a transparent lid (box: width ¼ 15 /C2 depth ¼ 12 /C2 height ¼
+12 cm; lid overlaps edge at front by 3 cm). The lid was
+hinged to the back edge of the box and overlapped the front
+edge of the box. The box could be opened by pushing the pro-
+truding lip of the lid upwards. Before testing, birds were
+habituated to the box by feeding from it once while it was
+open. Subjects were given six sessions of 25 min, receiving
+up to three sessions per day. A bird was successful and testing
+was ended when it opened the box and ate the reward. If a
+bird did not make physical contact with the box during a ses-
+sion, it was re-habituated to the box as described above and
+the session was repeated. A bird was given up to two extra ses-
+sions upon failing to make contact with the box in any one
+session. Eight NCCs, seven carrion crows and two hooded
+crows were tested in this study. Additionally, we compare
+the NCC data to that of 18 WPFs which were tested for a pre-
+vious study [38]. The ‘total length of testing’ (s) and ‘success’
+(opening box and gaining access to the food reward) were
+the measurements taken for comparison.
+(v) General experimental procedure
+Experiments were conducted in the home aviaries of the
+birds, and food was removed from their aviaries approxi-
+mately 2 h before testing. The apparatus was baited out of
+sight of the subject, and for each trial, placed onto the
+experimental table or experimental area within the home
+aviary. The experimenter then left and observed the trial
+via camcorder.
+Experiments 1–2 were two-choice learning experiments
+involving the same basic procedure. These tasks were con-
+ducted in blocks of 10 trials. In each trial, the subject was
+(a)
+(b)( c)( d)( e)
+10 cm
+Figure 1. (a) The cane task apparatus with canes and rewards arranged as in the
+initial test condition. Panels (b)–( e) transfer tasks 1– 4. Adapted from [38,39].
+rstb.royalsocietypublishing.org Phil Trans R Soc B 368: 20120418
+3
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026
+
+PDF PAGE 4
+given 5 min to choose between two options for which the
+correct side was pseudorandomized and counterbalanced
+right and left. Some slight modifications to the original testing
+conditions and testing regime with WPFs were made with the
+corvids (see the electronic supplementary material, methods).
+Learning criterion. To meet the success criterion, a bird had
+to make 15 or more correct choices within two consecutive
+blocks of 10 trials. Specifically, the number of correct responses
+in one of the two blocks had to be at least seven consecutively
+correct and in the other at least eight or in one block all
+10 correct. This criterion was derived using a Monte Carlo
+simulation (details in [41]). Some subjects developed a pos-
+itional bias, which we defined as six consecutive choices of
+one side, probably owing to intermittent reinforcement.
+When this happened, we applied a side bias correction pro-
+cedure (‘correction trials’, see the electronic supplementary
+material, methods for details).
+(vi) Statistical analysis
+Fisher’s exact test was used to test for species differences in
+the proportion of individuals to meet the success criterion.
+We also compared learning speed and success probabi-
+lity between NCCs and carrion crows/hooded crows and
+between NCCs and WPFs in the initial phases of the cane
+task and for both phases of the reversal task using general-
+ized linear mixed models, specifying logistic regression
+with binomial errors (GLMM, [42]). For each species compari-
+son, a separate model was constructed for the initial phase of
+the cane task and for both phases of the reversal task. Prior to
+fitting the model, we z-transformed trial number to a mean of
+0 and a standard deviation of 1, and side bias correction trials
+were removed from all datasets. Full details of the modelling
+process and the full model results can be found in the
+methods and results sections, electronic supplementary
+material, tables S2–S4.
+Each statistical comparison between NCCs and WPFs
+was conducted once only with tool-using WPFs and once
+with all WPFs pooled (details in the electronic supplementary
+material, methods). Since the conclusions always remained the
+same regardless of which WPF grouping was used, we report
+only results for the comparison of NCCs with pooled WPFs.
+All statistics were conducted with R v. 2.15.1 [43].
+(vii) Comparison of novelty reactions and motivation between
+corvid species
+Novelty reactions between carrion crows and NCCs were
+assessed in two different ways.
+First, we presented individuals with a novel object
+(green dog-toy ball, electronic supplementary material, figure
+S1) and measured latency to first contact. Birds received one
+10 min session per day during which they were separated
+from other birds. If they did not approach the object within a
+session, the novel object was removed and the individual
+received another session the next day. The test ended after the
+session in which the birds first touched the object or after 13 ses-
+sions, if individuals did not approach before. Each bird received
+a value calculated by adding the total session time until it
+touched the object for the first time. Birds that did not touch
+the ball within 13 sessions received a ceiling value which was
+calculated by adding one to the highest latency to touch the
+ball among the other crows. The Mann–Whitney U-test was
+used to compare ball touch latencies between the species.
+Second, we measured the latency to approach the cane
+apparatus and also to touch the cane averaged over the first
+50 trials for each individual (details in the electronic sup-
+plementary material). While strictly speaking, these do not
+provide measures of novelty reaction, they do however pro-
+vide a way of comparing the motivation with which these
+animals interacted with the cane apparatus. We deemed this
+important as carrion crows are known to be neophobic,
+when approaching novel food [44] and differences in motiv-
+ation could potentially explain differences in cane task
+performance. These measures were scored from videos by
+M.F.S. In trials where the birds did not approach the apparatus
+at all in 5 min, birds were given a ceiling value, which was
+derived by adding 1 to the maximum time in each category.
+The Mann–Whitney U-test was used to compare apparatus
+approach and cane touch latencies between the species.
+(b) Results
+(i) Experiment 1: the cane task
+Neither the five carrion crows nor the two hooded crows
+were able to solve the initial task, while five of the eight
+NCCs and eight of the 12 WPFs met the learning criterion
+in this phase. The proportion of NCCs and WPFs to reach cri-
+terion in the initial task did not differ significantly (Fisher’s
+exact test: p ¼ 1). However, proportionally more NCCs than
+carrion crows solved the initial task (Fisher’s exact test, p ¼
+0.026). The disparity in learning performance in the initial
+task between NCCs and carrion crows was further reflected
+in the significant difference in the speed with which they
+improved in this task (corvid model: species /C2 trial: x
+2
+1 ¼
+4.13, p ¼ 0.042; figure 2).
+NCCs and WPFs did not differ significantly in their
+learning speed of the initial task (tool-user model: species /C2
+trial: x2
+1 ¼ 0.001, p ¼ 0.973; figure 2) nor did they differ in
+their overall success probability (tool-user model: species:
+x2
+1 ¼ 2.21, p ¼ 0.137; figure 2). Nevertheless, they generally
+learned over the course of trials (tool-user model: trial:z ¼ 4.98,
+p , 0.001; figure 2).
+Transfer performance. The five NCCs and eight WPFs that
+successfully solved the initial task were subsequently tested
+in four transfer tasks. Only one WPF and no NCCs met
+criterion in the first transfer task. Two NCCs and one tool-
+using WPF met criterion in the second transfer task. As we
+found previously, performance was best in the third transfer
+task where three NCCs and six WPFs met criterion. No
+individuals solved the fourth transfer task.
+To further assess transfer differences between NCCs and
+WPFs, we pooled data from the first two transfer tasks for
+each bird and calculated the proportion of trials in which
+birds made a correct choice to the total trials received in the
+first two sessions. We used only data from the first two ses-
+sions of each transfer, because the sample size of NCCs
+declined to four after the second transfer task since one
+subject fell ill. There was no significant difference in transfer
+performance between NCCs (median proportional correct ¼
+1.58, range ¼ 1.21–1.74) and WPFs (median ¼ 1.79, range ¼
+1.53–2.22) according to this measure (Mann–Whitney
+U-test: N
+NCC ¼ 5, NWPF ¼ 8; U ¼ 9; p ¼ 0.124).
+(ii) Experiment 2: the reversal task
+All individuals met the learning criterion during the acqui-
+sition phase and also in the reversal phase, with the
+rstb.royalsocietypublishing.org Phil Trans R Soc B 368: 20120418
+4
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026
+
+PDF PAGE 5
+exception of one carrion crow, two NCCs and one WPF in the
+reversal phase. NCCs and carrion crows did not differ in their
+speed of learning either in the acquisition phase (acquisition
+phase model: group /C2 trial number: x
+2
+1 ¼ 0.02, p ¼ 0.882;
+figure 2) or in the reversal phase (reversal phase model:
+species /C2 trial number: x
+2
+1 ¼ 0.14, p ¼ 0.711; figure 2)
+although individuals clearly improved in both phases of the
+task (acquisition phase-corvid model: trial number: z ¼ 6.52,
+p , 0.0001; reversal phase model: trial number: z ¼ 6.92,
+p , 0.0001; figure 2). Overall success probability also did
+not differ between these species in the acquisition phase
+(species: x
+2
+1 ¼ 0.17, p ¼ 0.682; figure 2) and in the reversal
+phase (species: x2
+1 ¼ 0.76, p ¼ 0.383; figure 2).
+In the acquisition phase, WPFs were significantly faster in
+their learning speed than NCCs (acquisition phase model:
+species /C2 trial number: x2
+1 ¼ 10.08, p ¼ 0.001; figure 2) but not
+in the reversal phase (reversal phase model: species /C2 trial
+number: x2
+1 ¼ 0.001, p ¼ 0.974; figure 2). There was no species
+difference in overall success probability in the reversal phase
+(reversal phase model: species:x2
+1 ¼ 0.0005, p ¼ 0.982; figure 2)
+though individuals clearly improved over trials in this phase
+(reversal phase model:z ¼ 8.53, p , 0.001; figure 2).
+(iii) Experiment 3: the novel box-opening task
+Five NCCs, eight WPFs and six carrion crows successfully
+solved the task within six sessions. There was no significant
+difference in proportional success between carrion crows
+and NCCs (Fischer’s exact test, p ¼ 1), nor was there a signifi-
+cant difference in proportional success between NCCs and
+WPFs (Fisher’s exact test, p ¼ 0.673).
+Comparison latency to success. When the length (in seconds)
+of all sessions was summed for each individual and species
+comparisons conducted, we found no significant differences
+either between NCCs (median ¼ 6269 s, range ¼ 82–9000)
+and carrion crows (median¼ 1740 s, range¼ 34–9000; Mann–
+Whitney U-test: N
+CC ¼ 9, NNCC ¼ 8, U ¼ 30.5, p ¼ 0.623) or
+between WPFs (median ¼ 9000 s, range ¼ 50–9000) and
+NCCs (Mann–Whitney U-test: NWPF ¼ 18, NNCC ¼ 8, U ¼ 55,
+p ¼ 0.327).
+(iv) Comparison of novelty reactions and motivation between
+corvid species
+There was no evidence of a significant species difference either
+in the median mean times to approach the cane apparatus (car-
+rion crows: median approach time ¼ 6.16 s, range ¼ 4.68–
+48.48; NCCs: median ¼ 6.75 s, range ¼ 2.12 –21.98; Mann–
+Whitney U-test: NCC ¼ 7, NNCC ¼ 8, U ¼ 18, p ¼ 0.281) or in
+the median mean times to touch the cane (carrion crows:
+median cane touch time ¼ 8.92 s, range ¼ 6.74–61.20; NCCs:
+median ¼ 8.79 s, range ¼ 4.42 –25.78; Mann–Whitney U-test:
+N
+CC ¼ 7, NNCC ¼ 8, U ¼ 19, p ¼ 0.336) during the first 50 trials.
+There was no significant difference between NCCs
+(median latency ¼ 7475 s, range ¼ 328–7475) and carrion
+crows (median latency ¼ 3152 s, range ¼ 4–7474) in the
+0
+1
+0
+1
+0
+1
+trial numbertrial number trial number
+0 20 40 60 80 100 120 1400 20 40 60 80 100 120 140
+CC
+NCC
+WPF
+CC
+NCC
+WPF
+reversal task
+0 50 100 150
+success probabilitysuccess probability success probability
+NCC
+WPF
+CC
+(a)( b)( c)acquisition phase reversal phase cane task
+Figure 2. Logistic regression models of success probability across trial number for two-choice learning tasks. ( a) Acquisition phase and ( b) reversal phase in the
+reversal task, (c) the cane task. Each row refers to one of the three test groups (CC, carrion crows; NCC, New Caledonian crows; WPF, woodpecker finches. Points refer
+to the proportion of correct trials per block of 10 trials for each individual. Data and models from the hooded crows, a subgroup of the carrion crows, ar e denoted by
+dashed lines and solid black points. Graphs from WPFs were adapted from [38].
+rstb.royalsocietypublishing.org Phil Trans R Soc B 368: 20120418
+5
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026
+
+PDF PAGE 6
+latency with which they touched the ball (Mann–Whitney
+U-test: NCC ¼ 7, NNCC ¼ 8, U ¼ 12, p ¼ 0.068).
+(c) Discussion and main conclusions from our study
+Our previous study [38] did not confirm the presence of
+enhanced physical cognitive abilities in the WPF, when com-
+pared with a closely related non-tool-using species. However,
+in line with the prediction that tool-use evolved with
+enhanced physical cognitive abilities, this study found that
+NCCs outperformed carrion crows in the cane task, but not
+in two general learning tasks. This difference in corvids but
+not Darwin’s finches matches the expectation that sophisti-
+cated cognitive tool-related adaptations should be found in
+species with sophisticated tool-use, as NCCs substantially
+exceed WPFs in tool diversity and the complexity of tool
+manufacture (reviewed in [28]).
+The difference in NCC and carrion crow performance
+cannot be explained by different levels of neophobia or motiv-
+ation, because we found no significant difference in either of our
+two measures between the two species, but it might be attribu-
+table to the unaccustomed cognitive load that the manipulation
+of a tool imposed on the non-tool-using species [45].
+However, there are several reasons to treat the results
+with caution. One is that the comparison groups of corvids
+did not share identical rearing conditions: most of the
+NCCs were wild-caught, whereas all of the carrion crows
+were hand-raised. Although this could have had a substantial
+effect on the results, it is difficult to predict exactly in which
+direction. Another reason is that none of the carrion crows
+reached the learning criterion in the cane task and, thus,
+the performance of this large-brained corvid was worse
+than that of the STFs. This is surprising, especially given
+the excellent performance of other non-tool-using corvids,
+such as rooks in physical tasks [36,46].
+Also, the comparison of large-brained corvids and distantly
+related WPFs did not expose a significant difference in physical
+task performance between these tool-using species either in the
+initial cane task or in the cane transfer task performance. The
+lack of a difference in the cane transfer tasks is very surprising
+given the performance of NCCs in other tasks that indicate at
+least some sensitivity to physical rules and transfer to similar
+problems [35,47,48]. One way of understanding these results
+is that NCCs may simply use simple perceptional cues in
+some situations but not in others [23,49]. Also, perhaps the
+cane task poses a problem that is irrelevant to these species’
+natural tool-use, and thus imposes an unanticipated measure
+of difficulty on both species. Finally, it may be that the perform-
+ance of NCCs, who usually engage in sophisticated tool-use,
+may somehow be impaired when forced to engage in artificial
+tasks involving choices between two options [50] or involving
+restricted object manipulation as necessitated by the cane
+task. For future studies, we suggest inclusion of two groups
+of tool-users: one which uses freely manipulable tools and
+one which uses the pre-inserted tools. We further recommend,
+where possible, the avoidance of binary choice tasks.
+Our data on the physical cognitive adaptive specialization
+hypothesis are subject to some of the criticisms shared by
+many studies of comparative cognition. For one thing, cogni-
+tive characteristics other than the one of interest could have
+been taxed by the tasks, leading to a pattern that does not
+fit our prediction. We also may have missed the crucial sub-
+category of physical cognition that differs between the
+species, having only presented one test of physical cognition.
+Finally, the lack of identical rearing conditions between
+groups is a common problem with long-lived and unusual
+species that require significant funds to raise and maintain.
+These problems are linked to some of the more universal
+challenges confronting researchers in comparative cognition.
+In the following, we address some potential solutions for
+these challenges and touch upon our suggestions for future
+research on tool-related cognition.
+3. Outlook
+(a) Troubleshooting the physical cognitive adaptive
+specialization hypothesis: getting ahead of
+ourselves?
+The ecological approach in understanding adaptive behaviour
+and underlying cognitive mechanisms is an iterative process of
+investigation, synthesizing hypotheses and predictions both
+from the functional and mechanistic perspective. A classic
+example of this process has been described in detail by
+Smulders et al. [51] for food caching. Differences in brain mor-
+phology between caching and non-caching species and
+seasonally varying brain morphology in several food-caching
+species from parids to corvids have been central findings fuel-
+ling the cognitive adaptive specialization hypothesis for food
+storers (reviewed in [52]). In the food-caching paradigms, eco-
+logical knowledge not only helped to point to memory as a
+likely solution to the problem which food hoarders face in
+the wild, but later it helped to refine the hypothesis to fit var-
+ious ecological circumstances of food hoarding animals. More
+specifically, the realization that only a subgroup of food hoar-
+ders need to remember cache locations for a long period lead
+to the proposal that only these species should have a duration
+of spatial memory longer than that of other species. Thus, the
+spatial memory hypothesis for food hoarding comes from
+knowledge of the function of food hoarding in animals and
+is informed by the details of ecology.
+In the case of tool-use, there has been a disproportionate
+focus on human-like complex cognitive mechanisms like
+causal understanding that may be involved in animal tool-
+use. However, gradual improvements through associative
+processes (i.e. associative learning of spatial relationships,
+attention towards relevant cues) could improve efficiency of
+flexible and context-specific tool-use just as well as complex
+mechanisms and thus should be included in predictions.
+Also, recent data suggest that the underlying cognitive mech-
+anisms of even supposedly sophisticated tool-users such as
+chimpanzees and NCCs are a mixture of complex and
+simple mechanisms and those in between [23]. We suggest
+that future studies put less weight on distinguishing between
+complex and simple cognition in tool-use and that they are
+careful to root predictions about tool-related cognitive mech-
+anisms in detailed examination of the tool problems faced by
+animals in their natural context.
+(b) Roadmap for future comparative studies of tool-use
+and cognition
+As we see it, there are currently two main approaches to take
+in advancing our understanding of the cognitive mechanisms
+rstb.royalsocietypublishing.org Phil Trans R Soc B 368: 20120418
+6
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026
+
+PDF PAGE 7
+underlying tool-related cognition. One is to refine hypotheses,
+whereas the other is to refine methodology.
+(i) Using knowledge of tool-use in a natural context to refine
+hypotheses
+NCCs exemplify how knowledge of ecology and natural his-
+tory has been useful in suggesting areas of cognition for
+experimental investigation. For example, geographical vari-
+ation in NCC tools has been touted as suggestive of
+cumulative cultural evolution [53]. Along with other field
+studies that have demonstrated the existence of ample oppor-
+tunities for social transmission of information in this species,
+this suggests that it may be promising to look at social learning
+in NCCs [53]. Furthermore, the observation that NCCs use
+barbed pandanus tools in the appropriate orientation in the
+wild (in order to be functional the tool must be held such
+that the hooks on the barbed edge face backwards from the
+tool tip) lead researchers to question the cognition involved
+in this behaviour [54]. One explanation put forth was that
+NCCs might have a human-like underlying understanding
+of the physical properties of hooks, leading to an understand-
+ing of the functional features of the tool. Another is that the
+behaviour might also be the result of simple associative
+mechanisms—possibly trial and error learning. Subsequent
+experimental investigation with wild-living crows or those
+held briefly in captivity showed limited attendance of the
+crows to the functional orientation of the barbs and also
+that when tools are dropped and/or picked up in the non-
+functional orientation, repositioning arises from simple
+associative strategies. In conclusion, the authors state their
+view that correct functional tool orientation in the wild may
+simply be the outcome of applying the correct procedural rules
+of pandanus tool manufacture ([54], but see also [55]). This is a
+laudable example of an observation from the wild that was rig-
+orously tested using semi-wild experiments that were devised
+to differentiate between the so-called high-level and low-level
+underlying cognitive abilities. Its results clearly illustrate that
+what seems complex is not necessarily so. Other observational
+field studies on bearded capuchin monkeys (Sapajus libidinosus)
+and chimpanzees inspired the hypothesis that enduring artefacts
+play an important role for some nonhuman species in learning to
+use tools by supporting persistent practice [56]. To summarize,
+detailed knowledge of the behaviour from wild populations
+will help to identify the type of the problems that animals are
+faced with in nature and thus generate more accurate hypotheses
+concerning the underlying mechanisms of their behaviour.
+Thereby, it is essential to adhere to the principle of parsimony
+and presume the lowest denominator of cognitive mechanisms
+required for solving the problem. Improved knowledge of ecol-
+ogy and tool-use in a natural context will help to formulate more
+precise and appropriate predictions concerning which specific
+cognitive mechanisms might be linked to tool-use.
+(ii) Improving methods
+Not only do we need more background information on species’
+natural behaviour to inform predictions, but we could also
+benefit greatly from improvements in methodology. Much
+would be gained if more studies adopted a rigorous compara-
+tive approach with interspecific comparison between at least
+one tool-using and one non-tool-using species, using the same
+or at least a comparable methodology. Including more non-
+tool-using species in the comparison will furthermore ensure
+robustness of an observed pattern. Another huge challenge of
+comparative cognition is that we often are unaware of the full
+suite of cognitive mechanisms influencing performance in a
+given task. Consequently, we are often not clear about the ques-
+tions posed, an issue which is compounded in multi-species
+comparisons. Ideally, task designs should account for the differ-
+ent species ‘non-focal’ cognitive traits, that is, those traits which
+are not at the focus of an experiment, but can nevertheless have a
+strong, sometimes central influence on task performance, such
+as attention, motivation and temperament but also species
+differences in perception [57,58]. A good example of this
+approach is the study of Chappell et al. [59] that presents a
+detailed analysis of the relationship between perseverance and
+impulsivity on innovation in tool-use problems with human
+children. One solution is to develop task batteries that include
+tests of such general psychological variables in addition to
+those specifically probing only the cognitive trait(s) of focal
+interest [58,60]. Here, it is important to ‘find the right items to
+test’ by rooting predictions in species ecology and observation
+and the tasks must be revised as necessary. There is one major
+conundrum inherent in the task battery approach for multiple
+species (and also more generally in comparative cognition): in
+order to yield comparable data, tasks must be standardized,
+yet some species-specific task modifications are a ‘necessary
+evil’ to increase ecological validity and the likelihood that each
+species is being asked the same question. The crux of the pro-
+blem is that we often do not know in advance what the
+cognitive, motor and perceptual disparities between species
+are and how they will influence task performance. Danger lies
+in succumbing to the temptation of ‘quick and dirty’ exper-
+iments that simply apply pre-existing paradigms to new
+species without sufficient thought devoted to tailoring the pro-
+blem to the species at hand [61]. Intimate knowledge of a
+species through careful observation both in the field and in the
+laboratory is the best help in designing comparable studies
+and ecologically valid paradigms. In combination with an
+improved understanding of animal’s overall psychological pro-
+files (i.e. motivation, temperament, motor and perceptual
+abilities, etc.), a useful framework inspired by Artificial Intelli-
+gence could help to decompose demands of cognitive tasks
+into their component parts [62]. This would help clarify the
+nature of the problem, taking into account the information avail-
+able to the animals and possible problem solutions.
+One further issue we faced in this study is the interpret-
+ation of failure. Should we accept the null hypothesis that
+carrion crows simply do not have enhanced physical cogni-
+tion? Our comparative results suggest that this may not be
+justified and that further testing is needed to understand
+these results. Seed et al . [63] recently reviewed this topic in
+detail and suggest that understanding failures can be achieved,
+for example, by deconstructing a task and lowering task
+demands while asking the same question and by testing the
+species in several different analogous tasks [64]. Another
+way to understand failures is to look at whether the difference
+between individuals that pass and fail can be correlated with
+variation in another psychological trait [63]. These approaches
+might be fruitful in future attempts to understand our results.
+To conclude, in the field of comparative cognition, con-
+siderable progress has been made by adopting an integrative
+approach in understanding animal cognition [65]. The process
+of the ecological approach is nonlinear, oscillating bet-
+ween predictions generated from functional and mechanistic
+knowledge of a behaviour. Thus, an understanding of the
+rstb.royalsocietypublishing.org Phil Trans R Soc B 368: 20120418
+7
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026
+
+PDF PAGE 8
+relationships between cognition and behaviour requires con-
+sideration of both ultimate and proximate standpoints. The
+best approach to choose at a given time is determined by
+common sense. However, the ecological context of behaviour
+must always be kept in mind, especially during laboratory
+studies of mechanism.
+Permission to conduct experiments with the woodpecker finches was
+granted by the Gala ´pagos National Park and the Charles Darwin
+research station (Project PC-16-07, permit no. PR.PT.P004.R02). For
+the experiments with the crow species at MPIO, permission was
+granted by the government of Upper Bavaria in Germany (Az.
+55.2-1-54-2531-87-08). The work with the carrion crows at KLF com-
+plied with guidelines provided by the Austrian Federal Act on the
+Protection of Animals (Animal Protection Act -§ 24 Abs. 1 Z 1 and
+2; § 25 Abs. 3 – TSchG, BGBl. I Nr. 118/2004 Art. 2). Furthermore,
+as our experiments are purely appetitive, strictly non-invasive and
+based exclusively on behavioural tests, they are classified as
+non-animal experiments in accordance with the Austrian Animal
+Experiments Act (§ 2. Federal Law Gazette No. 501/1989) and no
+licence was required. Experiments were conducted by an experienced
+animal caretaker, ensuring no animals were harmed by the exper-
+imental procedure. All individuals participated and entered the
+experimental compartments voluntarily. Focal individuals were res-
+cued from the wild when taken out of the nest at a young age by
+unfavourable weather conditions. Individuals were held in captivity
+at the KLF (licence AT00009917) before and after completion of the
+present study.
+Acknowledgements. We would like to thank Klemen Koselj for giving us
+helpful comments on the statistics and Berenika Mioduszewska,
+Christian Blum and Irmgard Neumayr for practical help.
+Funding statement. We thank the German Research Foundation (DFG,
+grant no. Sl 816/14) and the Max Planck Institute for Ornithology and
+the Austrian Science Fund (FWF, grant no. V95 –B17) for providing
+funding for this project.
+References
+1. Byrne RW. 1997 The technical intelligence hypothesis:
+an additional evolutionary stimulus to intelligence. In
+Machiavellian intelligence II: extensions and evaluations
+(ed. A Whiten), pp. 289 – 311. Cambridge, UK:
+Cambridge University press.
+2. Kacelnik A. 2009 Tools for thought or thoughts for
+tools? Proc. Natl Acad. Sci. USA 106, 10 071 –
+10 072. (doi:10.1073/pnas.0904735106)
+3. Shumaker RW, Walkup KR, Beck BB. 2011 Animal
+tool behavior: the use and manufacture of tools by
+animals. Baltimore, MD: Johns Hopkins University
+Press.
+4. Lefebvre L, Nicolakakis N, Boire D. 2002 Tools and
+brains in birds. Behaviour 139, 939 – 973. (doi:10.
+1163/156853902320387918)
+5. Iwaniuk AN, Wylie DR, Lefebvre L. 2009 The
+comparative approach and brain-behaviour
+relationships: a tool for understanding tool use.
+Can. J. Exp. Psychol. 63, 150 – 159. (doi:10.1037/
+a0015678)
+6. Reader SM, Laland KN. 2002 Social intelligence,
+innovation, and enhanced brain size in primates.
+Proc. Natl Acad. Sci. USA 99, 4436 – 4441. (doi:10.
+1073/pnas.062041299)
+7. Sanz CM, Morgan DB. 2013 Ecological and social
+correlates of chimpanzee tool use. Phil. Trans. R.
+Soc. B 368, 20120416. (doi:10.1098/rstb.2012.0416)
+8. Rutz C, Bluff LA, Reed N, Troscianko J, Newton J, Inger R,
+Kacelnik A, Bearhop S. 2010 The ecological significance
+of tool use in New Caledonian crows. Science 329,
+1523 – 1526. (doi:10.1126/science.1192053)
+9. Tebbich S, Taborsky M, Fessl B, Dvorak M. 2002 The
+ecology of tool-use in the woodpecker finch
+(Cactospiza pallida). Ecol. Lett. 5, 656 – 664. (doi:10.
+1046/j.1461-0248.2002.00370.x)
+10. Nishida T, Hiraiwa M. 1982 Natural history of a tool-
+using behaviour by wild chimpanzees in feeding
+upon wood-boring ants. J. Hum. Evol. 11, 73– 99.
+(doi:10.1016/S0047-2484(82)80033-X)
+11. Yamakoshi G. 1998 Dietary responses to fruit
+scarcity of wild chimpanzees at Bossou, Guinea:
+possible implications for ecological importance of
+tool use. Am. J. Phys. Anthropol. 106, 283 – 295.
+(doi:10.1002/(SICI)1096-8644(199807)106:3,283::
+AID-AJPA2.3.0.CO;2-O)
+12. Boesch C, Boesch-Achermann H. 2000 The
+chimpanzees of the Tai forest . Oxford, UK: Oxford
+University Press.
+13. Biro D, Inoue-Nakamura N, Tonooka R, Yamakoshi
+G, Sousa C, Matsuzawa T. 2003 Cultural innovation
+and transmission of tool use in wild chimpanzees:
+evidence from field experiments. Anim. Cogn. 6,
+213 – 223. (doi:10.1007/s10071-003-0183-x)
+14. Lonsdorf E. 2006 What is the role of mothers in the
+acquisition of termite-fishing behaviors in wild
+chimpanzees (Pan troglodytes schweinfurthii)? Anim.
+Cogn. 9, 36 – 46. (doi:10.1007/s10071-005-0002-7)
+15. Bluff LA, Troscianko J, Weir AAS, Kacelnik A, Rutz C.
+2010 Tool use by wild New Caledonian crows Corvus
+moneduloides at natural foraging sites. Proc. R. Soc.
+B 277, 1377– 1385. (doi:10.1098/rspb.2009.1953)
+16. Holzhaider JC, Hunt GR, Gray RD. 2010 Social
+learning in New Caledonian crows. Learn. Behav.
+38, 206 – 219. (doi:10.3758/lb.38.3.206)
+17. Holzhaider JC, Hunt GR, Gray R. 2010 The
+development of pandanus tool manufacture in wild
+New Caledonian crows. Behaviour 147, 553 – 586.
+(doi:10.1163/000579510X12629536366284)
+18. Isler K, van Schaik C. 2006 Metabolic costs of brain
+size evolution. Biol. Lett. 4, 557 – 560. (doi:10.1098/
+rsbl.2006.0538)
+19. Laughlin SB. 2001 Energy as a constraint on the
+coding and processing of sensory information. Curr.
+Opin. Neurobiol. 11, 475 – 480. (doi:10.1016/S0959-
+4388(00)00237-3)
+20. Troscianko J, Bluff LA, Rutz C. 2008 Grass-stem tool
+use in New Caledonian crows Corvus moneduloides.
+Ardea 96, 283 – 285. (doi:10.5253/078.096.0214)
+21. Emery NJ, Clayton NS. 2009 Tool use and physical
+cognition in birds and mammals.Curr. Opin. Neurobiol.
+19, 27 – 33. (doi:10.1016/j.conb.2009.02.003)
+22. Ottoni EB, Izar P. 2008 Capuchin monkey tool use:
+overview and implications. Evol. Anthropol. 17,
+171 – 178. (doi:10.1002/evan.20185)
+23. Seed A, Byrne R. 2010 Animal tool-use. Curr. Biol.
+20, R1032 – R1039. (doi:10.1016/j.cub.2010.09.042)
+24. Visalberghi E, Tomasello M. 1998 Primate causal
+understanding in the physical and psychological
+domains. Behav. Process. 42, 189 – 203. (doi:10.
+1016/S0376-6357(97)00076-4)
+25. Hauser MD, Pearson H, Seelig D. 2002 Ontogeny of
+tool use in cottontop tamarins, Saguinus oedipus :
+innate recognition of functionally relevant features.
+Anim. Behav. 64, 299 – 311. (doi:10.1006/anbe.
+2002.3068)
+26. Santos LR, Mahajan N, Barnes J. 2005 How
+prosimian primates represent tools: experiments
+with two lemur species ( Eulemur fulvus and Lemur
+catta). J. Comp. Psychol. 119, 394 – 403. (doi:10.
+1037/0735-7036.119.4.394)
+27. Spaulding B, Hauser MD. 2005 What experience is
+required for acquiring tool competence?
+Experiments with two Callitrichids. Anim. Behav.
+70, 517 – 526. (doi:10.1016/j.anbehav.2004.11.024)
+28. Rutz C, St Clair JJH. 2012 The evolutionary origins
+and ecological context of tool use in New
+Caledonian crows. Behav. Process 89, 153 – 165.
+(doi:10.1016/j.beproc.2011.11.005)
+29. McGrew WC. 2013 Is primate tool use special?
+Chimpanzee and New Caledonian crow compared.
+Phil. Trans. R. Soc. B368, 20120422. (doi:10.1098/rstb.
+2012.0422)
+30. Chappell J, Kacelnik A. 2002 Tool selectivity in a
+non-mammal, the New Caledonian crow ( Corvus
+moneduloides). Anim. Cogn.
+5, 71 – 78. (doi:10.
+1007/s10071-002-0130-2)
+31. Chappell J, Kacelnik A. 2004 Selection of tool
+diameter by New Caledonian crows Corvus
+moneduloides. Anim. Cogn. 7, 121 – 127. (doi:10.
+1007/s10071-003-0202-y)
+32. Taylor AH, Hunt GR, Holzhaider JC, Gray RD. 2007
+Spontaneous metatool use by New Caledonian
+crows. Curr. Biol. 17, 1504 – 1507. (doi:10.1016/j.
+cub.2007.07.057)
+33. Wimpenny JH, Weir AAS, Clayton L, Rutz C, Kacelnik
+A. 2009 Cognitive processes associated with
+rstb.royalsocietypublishing.org Phil Trans R Soc B 368: 20120418
+8
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026
+
+PDF PAGE 9
+sequential tool use in New Caledonian crows. PLoS
+ONE 4, e6471. (doi:10.1371/journal.pone.0006471)
+34. Weir AAS, Chappell J, Kacelnik A. 2002 Shaping of
+hooks in New Caledonian crows. Science 297, 981.
+(doi:10.1126/science.1073433)
+35. von Bayern AMP, Heathcote RJP, Rutz C, Kacelnik A.
+2009 The role of experience in problem solving and
+innovative tool use in crows. Curr. Biol. 19,
+1965 – 1968. (doi:10.1016/j.cub.2009.10.037)
+36. Bird CD, Emery NJ. 2009 Insightful problem solving
+and creative tool modification by captive nontool-
+using rooks. Proc. Natl Acad. Sci. USA 106,1 0
+370 – 10 375. (doi:10.1073/pnas.0901008106)
+37. Harvey PH, Pagel MD. 1991 The comparative method
+in evolutionary biology . Oxford, UK: Oxford
+University Press.
+38. Teschke I, Cartmill E, Stankewitz S, Tebbich S. 2011
+Sometimes tool-use is not the key: no evidence for
+cognitive adaptive specializations in tool-using
+woodpecker finches. Anim. Behav. 82, 945 – 956.
+(doi:10.1016/j.anbehav.2011.07.032)
+39. Tebbich S, Sterelny K, Teschke I. 2010 The tale of
+the finch: adaptive radiation and behavioural
+flexibility. Phil. Trans. R. Soc. B 365, 1099 – 1109.
+(doi:10.1098/rstb.2009.0291)
+40. Parkin DT, Collinson M, Helbig AJ, Knox AG,
+Sangster G. 2003 The taxonomic status of carrion
+and hooded crows. Br. Birds 96, 274 – 290.
+41. Tebbich S, Seed AM, Emery NJ, Clayton NS. 2007
+Non-tool-using rooks, Corvus frugilegus , solve the
+trap-tube problem. Anim. Cogn. 10, 225 – 231.
+(doi:10.1007/s10071-006-0061-4)
+42. Baayen R. 2008 Analyzing linguistic data , 1st edn.
+Cambridge, UK: Cambridge University Press.
+43. R Development Core Team. 2012 R: a language and
+environment for statistical computing. Vienna,
+Austria: R Foundation for Statistical Computing.
+44. Chiarati E, Canestrari D, Vera R, Baglione V. 2012
+Subordinates benefit from exploratory dominants:
+response to novel food in cooperatively breeding
+carrion crows. Anim. Behav. 83, 103 – 109. (doi:10.
+1016/j.anbehav.2011.10.012)
+45. Seed AM, Call J, Emery NJ, Clayton NS. 2009
+Chimpanzees solve the trap problem when the
+confound of tool-use is removed.J. Exp. Psychol. Anim.
+Behav. Process. 35, 23 – 34. (doi:10.1037/a0012925)
+46. Seed AM, Tebbich S, Emery NJ, Clayton NS. 2006
+Investigating physical cognition in rooks, Corvus
+frugilegus. Curr. Biol. 16, 697 – 701. (doi:10.1016/j.
+cub.2006.02.066)
+47. Taylor AH, Hunt GR, Medina FS, Gray RD. 2009 Do
+New Caledonian crows solve physical problems
+through causal reasoning? Proc. R. Soc. B 276,
+247 – 254. (doi:10.1098/rspb.2008.1107)
+48. Taylor AH, Elliffe DM, Hunt GR, Emery NJ, Clayton
+NS, Gray RD. 2011 New Caledonian crows learn
+the functional properties of novel tool types.
+PLoS ONE 6
+, e26887. (doi:10.1371/journal.pone.
+0026887)
+49. Taylor AH, Knaebe B, Gray RD. 2012 An end to
+insight? New Caledonian crows can spontaneously
+solve problems without planning their actions.
+Proc. R. Soc. B 279, 4977 – 4981. (doi:10.1098/rspb.
+2012.1998)
+50. Mulcahy NJ, Hedge V. 2012 Are great apes
+tested with an abject object-choice task? Anim.
+Behav. 83, 313 – 321. (doi:10.1016/j.anbehav.2011.
+11.019)
+51. Smulders TV, Gould KL, Leaver LA. 2010 Using
+ecology to guide the study of cognitive and neural
+mechanisms of different aspects of spatial memory
+in food-hoarding animals. Phil. Trans. R. Soc. B 365,
+883 – 900. (doi:10.1098/rstb.2009.0211)
+52. Shettleworth SJ. 2003 Memory and hippocampal
+specialization in food-storing birds: challenges for
+research on comparative cognition. Brain Behav.
+Evol. 62, 108 – 116. (doi:10.1159/000072441)
+53. Hunt GR, Gray RD. 2003 Diversification and
+cumulative evolution in New Caledonian crow tool
+manufacture. Proc. R. Soc. Lond. B 270, 867 – 874.
+(doi:10.1098/rspb.2002.2302)
+54. Holzhaider J, Hunt G, Campbell V, Gray R. 2008 Do
+wild New Caledonian crows ( Corvus moneduloides )
+attend to the functional properties of their tools?
+Anim. Cogn. 11, 243 – 254. (doi:10.1007/s10071-
+007-0108-1)
+55. St Clair JJH, Rutz C. 2013 New Caledonian crows
+attend to multiple functional properties of complex
+tools. Phil. Trans. R. Soc. B 368, 20120415. (doi:10.
+1098/rstb.2012.0415)
+56. Fragaszy DM, Biro D, Eshchar Y, Humle T, Izar P,
+Resende B, Visalberghi E. 2013 The fourth
+dimension of tool use: temporally enduring
+artefacts aid primates learning to use tools. Phil.
+Trans. R. Soc. B 368, 20120410. (doi:10.1098/rstb.
+2012.0410)
+57. MacPhail EM. 1985 Vertebrate intelligence: the null
+hypothesis. Phil. Trans. R. Soc. Lond. B 308, 37 – 50.
+(doi:10.1098/rstb.1985.0008)
+58. Auersperg AMI, Gajdon GK, von Bayern AMP. 2012 A
+new approach to comparing problem solving,
+flexibility and innovation. Commun. Integr. Biol. 5,
+1 – 6. (doi:10.4161/cib.18787)
+59. Chappell J, Cutting N, Apperly IA, Beck SR. 2013
+The development of tool manufacture in humans:
+what helps young children make innovative tools?
+Phil. Trans. R. Soc. B 368, 20120409. (doi:10.1098/
+rstb.2012.0409)
+60. Herrmann E, Call J. 2012 Are there geniuses among
+the apes? Phil. Trans. R. Soc. B 367, 2753 – 2761.
+(doi:10.1098/rstb.2012.0191)
+61. Bitterman ME. 1960 Toward a comparative
+psychology of learning. Am. Psychol. 15, 704 – 712.
+(doi:10.1037/h0048359)
+62. Chappell J, Hawes N. 2012 Biological and artificial
+cognition: what can we learn about mechanisms by
+modelling physical cognition problems using
+artificial intelligence planning techniques? Phil.
+Trans. R. Soc. B 367, 2723 – 2732. (doi:10.1098/rstb.
+2012.0221)
+63. Seed A, Seddon E, Greene B, Call J. 2012
+Chimpanzee ‘folk physics’: bringing failures into
+focus. Phil. Trans. R. Soc. B 367, 2743– 2752.
+(doi:10.1098/rstb.2012.0222)
+64. Heyes CM. 1993 Anecdotes, training, trapping and
+triangulating: do animals attribute mental states?
+Anim. Behav. 46, 177 – 188. (doi:10.1006/anbe.
+1993.1173)
+65. Shettleworth SJ. 2009 The evolution of comparative
+cognition: is the snark still a boojum? Behav.
+Process. 80, 210 – 217. (doi:10.1016/j.beproc.
+2008.09.001)
+rstb.royalsocietypublishing.org Phil Trans R Soc B 368: 20120418
+9
+Downloaded from royalsocietypublishing.​org/​rstb/​article-pdf/​doi/​10.​1098/​rstb.​2012.​0418/​106359/​rstb.​2012.​0418.​pdf
+by guest
+on 12 August 2026

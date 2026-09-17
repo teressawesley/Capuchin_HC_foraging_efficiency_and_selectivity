@@ -1,0 +1,1047 @@
+PDF PAGE 1
+Sue Taylor Parker 
+Department of Anthropology, 
+Sonoma State College, 
+Rohnert Park, 
+California, U.S.A. 
+Kathleen R. Gibson 
+Department of Neurobiology 
+and Anatomy, 
+Health Science Center 
+Medical School, 
+The University of Texas, 
+Houston, Texas, U.S.A. 
+Received 27 September 1976 and 
+accepted 30 December 1976 
+Object Manipulation, Tool Use. and 
+Sensorimotor Intelligence as Feeding 
+Adaptations in~ Cebus Monkeys and 
+Great Apes 
+In this paper we propose a typology for classifying object manipula- 
+tion and tool use. We then classify tool use as context specific or 
+intelligent tool use on the basis of criteria drawn from Piaget's 
+Sensorimotor Intelligence Series in human infants. In an extension 
+of Hamilton's hypothesis we argue that intelligent tool use and 
+tertiary sensorimotor intelligence in cebus monkeys and great apes is an 
+adaptation for feeding on a variety of seasonally limited embedded 
+food sources, while context specific too1. use is an adaptation for 
+t~edlng on one class of embedded food sources..We also argue tha~ 
+the evolution of specific object manipulatio n . schemata must be 
+considered separately from the evolution of intelligence. 
+1. Introduction 
+Inquiry into the evolution of tool-using abilities in animal species has been hampered 
+by the absence of an appropriate theoretical framework for comparative analysis. There 
+is no agreed upon definition of tool use; different investigators classify strikingly different 
+types of object manipulation--including those involving no tool as tool use. There is no 
+agreed upon distinction between intelligent and unintelligent tool use; some investigators 
+believe that there is no relationship between tool use and intelligence. The adaptive 
+significance of tool use in primate species at least is poorly understood. 
+In this article we propose a typology for defining and classifying various types of 
+object manipulation and tool use; we distinguish between intelligent and unintelligent 
+tool use on the basis of criteria drawn from Jean Piaget's model of Sensorimotor Intelli- 
+gence in human infants; and we propose an extension of Hamilton's hypothesis (1974) 
+to explain the adaptive significance of intelligent tool use and tertiary sensorimotor intelli- 
+gence in great apes and cebus monkeys. 
+Although our typology applies to all animal species, we focus primarily o n great 
+apes and cebus monkeys because they are the only animals known to consistently display 
+intelligent tool use characteristic of advanced stages of the Sensorimotor Intelligence 
+Series in human infants. 
+2. Object Manipulation and Tool Use 
+We believe that many confusions concerning tool use in animal species can be avoided 
+by distinguishing the following categories of object manipulation which can be directly 
+related to tool use. 
+(1) Simple prehension--grasping an object in one or both hands (or in other anatomical 
+equipment such as mouth and/or claws, trunk, etc.). 
+Journal of Human Evolution (1977) 6, 623-641 
+
+
+PDF PAGE 2
+624 S.T. PARKER AND K. R. GIBSON 
+(2) 
+(3) 
+(4) 
+(5) 
+Simple object manipulation---coordinated manipulation of one object with one or 
+two manipulators, or sequential manipulation of two objects with one or two mani- 
+pulators, e.g. object transferring from hand to hand, object rotation, object 
+uncovering followed by grasping. 
+Object-substrate manipulation--manipu;ation of one object (with one or two mani- 
+pulators) relative to a fixed substrate or medium, e.g. rubbing an object on the 
+ground, or washing an object in water, or banging an object on a surface, or 
+throwing an object onto a surface. 
+Complex object manipulation manipulation of one detached object relative to 
+another (and in some cases through a force field) involving subsequent change 
+of state of one or both of the objects, e.g. hitting one object with another, either 
+directly or by throwing, raking in one object with another, opening one object 
+with another as a lever. 
+Social-object manipulation manipulation of an object relative to other animals 
+without direct physical contact between the object and other animals, e.g. baiting 
+another animal with food, agonistic displays with objects, resulting in changed 
+behavior in the receiver. 
+Social-object manipulation can involve simple prehension, simple object manipulation, object- 
+substrate manipulation or even complex object manipulation. 
+These categories potentially apply to all taxa. They imply nothing about the stereo- 
+typy or flexibility of the organization of the actions, they simply define the locus and 
+results of the actions. These categories help clarify the definition of tool use. 
+Tool use is a goal directed form of complex object manipulation involving manipulation of 
+an object (the tool), not part of the actor's anatomical equipment and not attached to a 
+Table I 
+Categories of 
+tool use 
+Categories of object manipulation 
+-- A- • "-~ 
+Simple object Object-substrate Complex object 
+manipulation manipulation manipulation 
+Proto tool use Herring gulls 
+Wild Cebus 
+Baboons 
+Macaques 
+True tool use Great apes 
+Captive Cebus 
+Baboons* 
+Macaques* 
+Sea otters 
+Vultures 
+Buzzards 
+Galapagos finches 
+* Occasionally. 
+
+
+PDF PAGE 3
+FEEDING ADAPTATIONS 625 
+substrate, to change the position, action, or condition of another object, either directly 
+through the action of the tool on the object or of the object on the tool, or through 
+action at a distance as in aimed throwing (van Lawick-Goodall, 1970; Alcock, 1972; 
+Beck, 1975; Piaget, 1954). In other words, it involves use of a tool to transform an 
+object. This definition includes aimed throwing of a tool to hit an object, but excludes 
+aimed dropping of an object on a substrate to open it. 
+Aimed throwing of an object on a substrate in order to open the object, and banging 
+an object on a substrate to open it and other actions involving transformations of an 
+object through object-substrate manipulation, we call proto tool use. The aimed dropping 
+of mollusks against a sea wall by Herring gulls (Beck, 1976), and banging of nuts on 
+hard surfaces by cebus monkeys, and sweet potato-washing and snowball making by 
+Japanese macaques (Eaton, 1976) are all examples ofproto tool use. (See Table 1). The 
+key difference between true tool use and proto tool use seems to lie in the detachment 
+andmanipulation of both the object of change and the agent of change (the tool) in 
+tool use, and the detachment and manipulation of the object of change alone in proto 
+tool use. 
+We also distinguish a third category of tool use involving goal directed social-object 
+manipulation in order to change the behaviour of other animals, e.g. agonistic object 
+manipulation in order to intimidate other animals, carrying infants as agonistic buffers 
+in approaching a dominant animal , baiting another animal with food. We call this 
+class of goal directed objectmanipulati0n, social tool use. 
+Social tool Use, like other forms of tool use, can be intelligent or context-specific. 
+Many non-human primates display context-specific tool use in agonistic displays, but 
+there are only a few examples of apparently intelligent social tool use. Except for these 
+cases we will not be concerned with social tool use in this paper. 
+3. Object Manipulation .and Tool Use in Relation 
+to Intelligence 
+The preceding categories oi~ object manipulation and tool use can be classified as inteUi- 
+gent or uningelligent with reference to certain diagnostic criteria derived from Jean 
+Piaget's stages of intellectual de~/elopment in human infants. 
+Piaget's model of human infant intellectual development is uniquely suited for com- 
+parative analysis of tool use and object manipulation in primates and other animal 
+species because it focuses on the organization of underlying behaviour patterns, that is, 
+on their locus of applications, their temporal and spatia! patterning, their coordinations, 
+their goals, their elicitors, their reinforcers, etc., rather than focusing on specific motor 
+patterns. 
+Because Piaget's model emphasizes the developmental continuity between infant 
+sensorimotor behavior and subsequent symbolizing and mental operations in later 
+childhood, it provides a continuous graduated scale ofstages againstwhich to compare 
+infant development and adult achievements in other species. 
+Although Piaget's model of sensorimotor development is suitable for comprehensive 
+comparative studies of behavioral development in primate species (Parker, 1973, 1976, 
+1977; Jolly, 1972) in this article we are concerned only with the very specific issue of the 
+
+
+PDF PAGE 4
+626 s.T. PARKER AND K. R. GIBSON 
+application of Piaget's model to tile comparative study of object manipulation and, tool 
+use in relation to intelligence.* 
+Piaget has developed a model of-human intellectual development from birth through 
+adolescence spanning four periods: the Sensorimotor Period from birth to two years, the 
+Preconceptual Period from two to six or seven years (which is divided into two sub- 
+periods, the Symbolic and Preconceptual Thought Subperiod and the Intuitive Thought 
+Subperiod), the Concrete Operati6ns Period from six to seven to 11 or I2 years; and the 
+Formal Operations Period from 11 or 12 years on. 
+During the Sensorimotor Period, human infants proceed through six consecutive stages 
+of intellectual development, beginning with simple neonatal reflexes and ending with the 
+achievement of insightful search for new means through internalized trial and error 
+variation, differentiation, and recombination of schemata. The last four of these six 
+stages involve increasingly complex object manipulation strategies, as follows. 
+Stage 3. "The Secondary Circular Reactions--Procedures Destined to Make Interesting 
+Sights Last" (Piaget, 1952), which occurs from the 4th to 8th month, is characterized 
+by voluntary differentiation of schemata and coordination of vision and prehension on 
+objects, and by the repetition of actions on an object to recreate an "interesting spectacle", 
+as for example in repeatedly shaking a rattle or batting a mobile, or banging an object 
+on a surface. 
+Stage 4. "Coordination of Secondary Schemata and Their Application to New Situation" 
+(Piaget, 1952), which occurs from the 8th month on, is characterized by voluntary 
+sequential and simultaneous coordinations of schemata, as for example in hand to hand 
+transferring objects, object rotation and pulling apart, and by sequential manipulation of 
+two objects, as in uncovering an object in order to grasp it. It is also characterized by 
+the incipient distinction between means and ends, and by the application of existing 
+schemata to new situations. 
+Stage 5. "The Tertiary Circular Reactions and The Discovery of New Means Through 
+Active Experimentation" (Piaget, 1952), which occurs at twelve months, is characterized 
+by purposeful trial and error variation, differentiation and recombination of schemata in 
+experimenting to find new means to old ends and new ends; schemata are intentionally 
+accommodated to the special properties of tile objects or situations during this stage. In 
+the area of object manipulation this involves manipulation of one object relative to 
+another and/or relative to force/fields such as gravity or inertia, in order to explore 
+causality or to solve a problem, e.g. repeatedly dropping objects from different heights 
+* Piaget's model also provides an important framework for com- 
+paring observational learning and imitation in primates; it correlates 
+different degrees and types of imitative ability with different stages 
+of sensorimotor intellectual development. The capacity to imitate 
+actions already present in the infant's repertoire is characteristic of 
+the fourth stage of the Imitation Series (which runs parallel in time 
+with the Sensorimotor Intelligence Series); the capacity to imitate 
+novel actions which are not already present in the infant's repertoire 
+is characteristic of the fifth stage of the Imitation Series and is 
+dependent upon the "tertiary circular reactions" of the fifth stage 
+in the parallel Sensorimotor Series. Piaget clearly indicates that 
+imitation is dependent on intelligence and not an independent 
+capacity of lesser significance (Piaget 1952, 1962). This observation 
+has important implications concerning the social transmission of 
+new behaviors in primate troops (Parker 1976a). 
+
+
+PDF PAGE 5
+FEEDING ADAPTATIONS 627 
+Table 2 
+LIII 
+Categories of 
+of sensorimotor 
+organization 
+U 
+Simple object 
+manipulation 
+Categories of object manipulation 
+.i i.~ . i , 
+Object-substrate Complex object 
+manipulation manipulation 
+Social-object 
+manipulation 
+Context specific 
+sensorimotor 
+organization 
+Herring Vultures 
+Gulls Buzzards 
+Galapagos F. 
+Sea otters 
+Baboons 
+Macaques 
+Secondary lineal' 
+sensorimotor 
+intelligence 
+Macaques 
+Baboons 
+Macaques 
+Baboons 
+Macaques 
+Tertiary circular 
+sensorimotor 
+intelligence 
+Cebus Captive Gebus Captive Gebus* 
+monkeys Great apes 
+Baboons* Chimpanzees* 
+Macaques* 
+* Occasionally. 
+in order to understand gravity, placing objects inside other objects and removing them 
+to understand spatial relations among objects, using a stick to rake in out of reach objects. 
+Stage 6. "The Invention of New Means Through Mental Combinations" (Piaget, 1952), 
+which occurs from twelve to eighteen months on, is characterized by insightful problem- 
+solving and imitation involving internalized trial and error, ariation, differentiation and 
+recombination of schemata, e.g. immediate insightful use of a stick to take in an out 
+of reach object, or deferred imitation of an absent model's behavior. 
+According to Piaget the fifth stage of the Sensorimotor Intelligence Series of the Sen- 
+sorimotor Period represents the emergence of true intelligence; we characterize this 
+type or level of intelligence as tertiary sensorimotor intelligence. 
+Although four of the five categories of object manipulation presented above correspond 
+in some respects to object manipulations characteristic of the third through the fifth 
+stages of the Sensorimotor Intelligence Series in human infants (simple prehension) is 
+characteristic of stage 3; simple ot)ject manipulation is characteristic of stage 4; object-substrate 
+manipulation is characteristic of stages 3 or 4 depending on its application, complex object 
+manipulation is characteristic of stage 5) ; they alone are not diagnostic of these stages. It 
+would be misleading, for example, to classify an isolated case of complex object manipulation 
+as a "tertiary circular reaction" because the "tertiary circular reactions" are a class of 
+such actions discovered through trial and error variation, differentiation, and recombina- 
+tion of elements in groping to discover the properties of objects or the solution to problems. 
+It is precisely to avoid this confusion that we have distinguished object manipulation 
+categories independent of their epigenitic or ontogeneic origin. Our object manipulation 
+categories potentially apply to the behavior ofany species, Piaget's Sensorimotor Stages do 
+not directly apply, and partial analogies are more misleading than iliuminating. 
+After classifying a species behavior in terms of the simpler category system and 
+determining the number of schemata in each category, we can go on to examine the 
+processes involved in the production of these behaviors. A full understanding of the 
+production of these behaviors requires longitudinal developmental studies (Parker, 
+
+
+PDF PAGE 6
+628 S. T. PARKER AND K. R. GIBSON 
+1977) because this methodology alone will reveal whether the patterns develop through 
+context specific or variable play. 
+Tertiary sensorimotor intelligence, diagnostic of the fifth and sixth stages, is characterized 
+by trial and error application involving variation, differentiation, and recombination 
+of actions in directed groping to discover the special properties of objects or to solve 
+problems through new means. It involves the exploration and manipulation of causality 
+through accommodation to the special properties of objects. This process necessarily 
+involves trial and error application of several schemata to various goals or enlzls. Deter- 
+mining whether or not these processes occur requires longitudinal developmental studies. 
+The fact that tertiary sensorimotor intelligence and intelligent tool use characteristic of 
+tertiary sensorimotor intelligence involves invention implies that while the capacity for in- 
+telligent tool use is species specific, particular tool using applications and contexts and 
+schemata are invented and transmitted through observational learning and/or imitation 
+and are therefore likely to vary from individual to individual or from group to group 
+within a species. 
+Secondary linear sensorimotor intelligence, diagnostic of the forth stage, is characterized 
+by application of familiar schemata in new situations, these schemata may include 
+simple object manipulation schemata and object-substrate manipulation schemata. Therefore 
+proto tool use involving object-substrate manipulation is diagnostic of secondary linear sensorimotor 
+intelligence when it is applied in new situations. In this case proto tool use is also likely 
+to vary from individual to individual or group to group. 
+Context specific tool use by contrast is characterized by application of one object mani- 
+pulation schema (specifically a complex object manipulation schema) to one specific situ- 
+ation even though it may entail trial and error variation in tile application of the schema, 
+i.e. in the intensity or direction of the actions, or in the size and shape of the objects 
+utilized. This implies that context specific tool use schemata, applications, and contexts 
+are population or species specific and unlikely to vary from individual to individual or 
+group to group. In some cases closely related populations or species may display function- 
+ally equivalent tool using and morphological adaptations, as for example, tool use in 
+southern sea otters as compared to teeth use in northern sea otters to open mollusks 
+(Hall & Schaller, 1964). 
+Context specific tool use involves trial and error application of one complex object manipu- 
+lation schema (such as aimed dropping of one object--the tool--on another object) in one 
+specific context, such as opening shell fish; intelligent tool use involves trial and error 
+application of several complex object manipulation schemata such as aimed throwing, 
+using a lever, banging with a tool, raking in with a stick, probing with a stick, in different 
+contexts, such as opening objects, raking in out-of-reach objects, extracting objects from 
+a container without opening it, using a variety of objects such as sticks, rocks, leaves. 
+Intelligent tool use involves accommodation to the specific situation and exploring 
+and manipulating physical causality in a generalized manner. 
+Comparative studies of tool use in animals species should focus on the number of 
+complex object manipulation schemata, the number of objects used, the number of contexts 
+in which they are displayed and on the ontogeny of the patterns. Only longitudinal 
+developmental studies can reveal whether schemata develop through invention and 
+imitation or trial and error shaping in a narrow context. It seems likely that there is a 
+continuum along these four dimensions and that context specific and intelligent tool use 
+represent the extreme ends of the spectrum in all dimensions. Galapagos finches and 
+
+
+PDF PAGE 7
+FEEDINO ADAPTATIONS 629 
+vultures and buzzards apparently fall at one end o fthis continuum in displaying relatively 
+stereotyped species specific context specific tool use, and cebus monkeys and great apes 
+fall at the other end of the spectrum displaying intelligent tool use. Presumably other 
+species fall in between the two extremes on all of these four dimensions of behavioral 
+organization. Extensive field work will be necessary to classify animal species along these 
+dimensions. In this paper we are concerned solely with the issue of what sorts of selection 
+pressures favored the evolution of the two extreme forms of tool use. 
+Hamilton (1974) suggests that tool use in general (he does not distinguish between 
+context specific and intelligent tool use) correlates with extractive foraging (which he 
+calls "scavenge hunting") and an omnivorous diet. We propose that intelligent tool use 
+correlates with extractive foraging on seasonally limited embedded foods and an omni- 
+vorous diet, while context specific tool use correlates with extractive foraging on non- 
+seasonal embedded foods and a narrow non-omnivorous diet. It seems likely that seasonal 
+avadability of high protein foods favors generalized exploration and application and 
+accommodation of preexisting complex object manipulation schemata that is, intelligence, in 
+highly omnivorous mammalian species. A wide species range with locally variable food 
+sources also favors this generalized exploration and application of complex object mani- 
+pulation schemata (see Tables 3 and 4). 
+Tool use in general seems to correlate with atypical feeding habits of a species within 
+a phyletic group (Alcock, 1972, 1975); being atypical of their groups morphologically, 
+they lack anatomical specializations for exploiting embedded food sources and hence 
+resort to tunctionally equivalent behavior, tool use, which yields more calories for 
+energy expended than other forms of foraging and feeding (Alcock, 1975). Alcock 
+suggests that tool-using species were late comers who were forced into tool use through 
+competition with other species. MacArthur (1972) notes that populations of one species 
+foraging in unproductive habitats tend to have a broader diet than other populations 
+of the same species foraging in productive habitats. Therefore we would expect to see 
+more complex object manipulation applied to a wider range of food sources among chim- 
+panzees and cebus monkey populations living in unproductive habitats with highly 
+seasonally food sources, and we suggest that tertiary sensorimotor intelligence was selected 
+under these conditions. 
+Table 3 
+Foraging and 
+feeding patterns 
+Categories of tool use 
+.... JL .... 
+Context specific Context specific Intelligent proto Intelligent 
+proto tool use tool use tool use tool use 
+Specialized extractive 
+foraging and feeding 
+on one class of non- 
+seasonal foods 
+Omnivorous extractive 
+foraging and feeding 
+on seasonal foods 
+Herring gulls Galapagos 
+Sea otters Finches 
+Buzzards 
+Vultures 
+Cebus monkeys 
+Chimpanzees 
+Macaques 
+Baboons 
+Cebus 
+Chimps 
+
+
+PDF PAGE 8
+630 s.T. PARKER AND K. R. GIBSON 
+Table 4 Correlates of two forms of tool use 
+Context specific tool use Intelligent tool use 
+Diet 1. Narrow specialized 
+diet 
+2. Non-seasonal 
+embedded foods 
+3. Uniform embedded 
+foods across species 
+range 
+Behavioral 4. Population or species 
+variation invariant tool use 
+Ontogeny 5. Shaping through 
+reintbrcement in 
+narrow context 
+I. Broad omnivorous 
+diet 
+2. Seasonal embedded 
+foods 
+3. Locally variable 
+embedded foods 
+across species range 
+4. Individual and/or 
+group variation in 
+tool use 
+5. Generalized trial and 
+error exploration with 
+accommodation to 
+specific conditions 
+4. Object Manipulation in Cebus Monkeys and 
+Great Apes 
+Reports by many investigators indicate that captive cebus monkeys display many 
+complex object manipulation schemata in an intelligent way. Kltiver, for example, found 
+that Cebus could solve many different versions of tile object-out-of-reach problem using 
+a wide variety of tools including rakes, sacks, rings, bones, boxes and live rats. Some 
+versio,_'s of this problem required the sequential use of as many as four tools (Warden, 
+Koch & Field (1940) reported the sequential use of as many as seven tools). Many 
+versions of this problem were solved by insight on the first attempt after visual inspection 
+alone, others required trial and error experimentation for their solution (Kliiver, 1933, 
+Table 5 
+Piaget's sensorimotor intelligence series 
+stages in human infants 
+U 
+Species comparisons 
+Chimpanzees 
+Macaques* and gorillas 
+Cebus 
+monkeys 
+Stage 1-Reflex Stage 
+Stage 2-"Primary Circular Reactions" and the 
+"First Acquired Adaptations" 
+Stage 3-"Secondary Circular Reactions" 
+Stage 4-"Coordination of Secondary Schemata and 
+Their Application to New Situations 
+Stage 5-"The Tertiary Circular Reactions" and 
+"Discovery of New Means Through Active 
+Experimentation" 
+Stage 6-"The Invention of New Means Through 
+Mental Combinations" 
+yes yes yes? 
+yes yes yes ? 
+no yes yes 
+yes yes yes 
+no yes yes 
+no yes yes 
+* A stumptail macaque infant displayed an analogous series of 
+sensorimotor period stages involving the elaboration of secondary 
+linear schemata and body schemata (Parker, 1973, 1977). 
+
+
+PDF PAGE 9
+FEEDINO ADAPTATIONS 631 
+1937). Bierens de Haan (1930) reported similar results. Romanes quotes his sister's 
+description of a cebus monkey using a spoon as a lever to pry open the lid of a box, 
+using a hammer to open a nut, using a key to open a lock by trial and error, repeatedly 
+screwing and unscrewing a brush handle and spinning round objects, and lighting paper 
+strips in the fire after rolling them up. He claims to have verified all her observations 
+many times (Romanes, 1882). Ververs & Weiner (1960) also reported (and filmed) a 
+cebus monkey using a hammer to open a nut. Both Kltiver (1933) and Rensch (1973) 
+reported picture painting in captive cebus monkeys. These descriptions reveal intelligent 
+complex object manipulation schemata characteristic of the method of the "tertiary circular 
+reactions" in human infants. A capacity for symbolization is also sue jested by Carpenter 
+& Locke's report of trading tokens for food (Carpenter & Locke, 1~3 l). 
+Our observations of adult cebus monkeys at the San Francisco Zoo, the San Diego 
+Wild Animal Park, and the Gladys Porter Zoo in Brownsville, Texas revealed "secondary 
+circular reactions" such as repeatedly shaking rattles and hitting swinging objects, and 
+many other behavioral routines involving the method of the "tertiary circular reactions" 
+in human infants, for example, placing objects inside objects and removing them, placing 
+objects on top of other objects, wrapping objects in cloths, using sticks to rake in out of 
+reach objects and repeatedly rolling balls and other objects (Gibson & Parker, 1976)* 
+(see Table 5). 
+Field reports indicate that wild cebus monkeys also exhibit considerable simple object 
+manipulation in extractive foraging, including unrolling leaves to get insects, breaking open 
+twigs and branches to get insects, and proto tool use including banging nuts and hard 
+shelled fruits on surfaces to open them. (Thorington, 1967; Oppenheimer, 1968; Klein, 
+1972; Freese, 1975). 
+Reports of true tool use in wild Cebus are rare: Kaufman (1962) describes cebus 
+monkeys dropping objects on coatis in an aggressive enc6umer; Kortland & Kooij 
+(1963) cite a second hand report of a Gebus aiming and throwing a stick at a rattlesnake; 
+Hernandez-Camacho & Cooper (1976) cite reports of cebus monkeys on Gorgonia 
+Island opening oysters with rocks. 
+The paucity of data on complex object manipulation in wild cebus monkeys is not sur- 
+prising given the relatively few hours devoted to their study. Chimpanzees had been 
+studied in several habitats by several investigators before termite fishing was discovered. 
+It is not unlikely that Cebus display tool use seasonally in conjunction with foraging for 
+particular high protein foods, and/or that it occurs only in certain habitats, or perhaps 
+only in certain species. 
+According to Hamilton (1973) tool use occurs in "scavenge hunting" (searching for 
+and seizing small relatively immobile prey) which is correlated with an omnivorous diet 
+and extensive foraging activity. According to our modification of Hamilton's hypothesis, 
+intelligent tool use only is correlated with an omnivorous diet. Cebus monkeys seem 
+* It seems likely that Gebus intellectual abilities are based on superior 
+neurological capacities: the neocortical progression index of Gebus 
+is 55, which is comparable to an index of 60 in chimpanzees, and is 
+considerably above the indices of sympatric neotropical primates 
+such as howlers (20) and squirrel monkeys (40), and is even above 
+that of macaques (45) (Stephen, 1972). [The neocortical progression 
+index normalizes for the allometric relation between brain size and 
+body size with reference to the brain]body ratio of basal insectivores 
+(Stephen, 1972).] 
+
+
+PDF PAGE 10
+632 s.T. PARKER AND K. R. GIBSON 
+to fit this pattern. They are omnivores with an extremely catholic diet, including nuts, 
+buds, flowers, leaves, shoots, stems, and pith of many plants (more than fifty plant 
+species on Barro Colorado Island, for example), and a significant amount of animal 
+matter, including ants, wasps, spiders, insect larvae, eggs, and small vertebrates in- 
+cluding baby squirrels, fledgling birds, fi'ogs, and lizards (Thorington, 1967; Hladik & 
+Hladik, 1969; Chapman, 1929, 1938; Klein, 1972; Klein & Klein, 1975; Baldwin & 
+Baldwin, 1972; Oppenheimer, 1968). Many of these food sources are highly seasonal 
+(Hladik & Hladik, 1969). 
+Several investigators have emphasized the striking differences between the feeding 
+behaviour of Cebus and sympatric primate species. In a Colombian rainforest, for example, 
+cebus monkeys and squirrel monkeys spent most of their time foraging, this is, moving 
+along eating and searching for food, especially insects (cebus monkeys spent more time 
+foraging in a given place and ate more cryptic insects rolled in leaves and encased in 
+branches than did squirrel monkeys), while the primarily vegetarian spider and howler 
+monkeys spent most of their time in stationary feeding and progression (Klein, 1972; 
+Klein & Klein, 1975). On Barro Colorado Island a similar distinction between the 
+feeding strategies of cebus and spider and howler monkeys was observed (Hladik & 
+Hladik, 1969). Thorington (1967, 1970) also noted the greater concentration span and 
+object manipulation of cebus monkeys as compared to squirrel monkeys, and related 
+it to their feeding strategies. 
+Reports by many investigators indicate that captive chimpanzees (Pan troglodytes) 
+display many intelligent complex object manipulation schemata reflecting the method of 
+the "tertiary circular reaction". Kbhler (1927), for example, found that chimpanzees 
+could solve many versions of the object-out-of-reach problem using a wide variety of tools, 
+including sticks and boxes, through trial and error and insight problem-solving. Menzel 
+(1972) reported spontaneous invention of ladders as tools in captive chimpanzees; Rensch 
+(1973) reported picture painting by captive chimpanzees; others have reported use of 
+keys to open locks (Hahn, 1971; Parker, personal observation). Captive chimpanzees 
+have been reported to manufacture tools by modifying sticks and fitting one stick 
+into another (Kbhler, 1927; Schiller, 1949). Captive chimpanzees also display the 
+capacity for symbol man;_pulation as displayed in American Sign Language (Gardner 
+& Gardner, 1971 ; Fouts, 1973) and other artificial "languages" (Permack, 1971)perhaps 
+indicating symbolic and preconceptual intelligence. 
+Wild chimpanzees display tool use in termite fishing and anting with probes, in 
+pounding open hard shelled fruit with stones, in sponging up water from tree bowls and 
+fluids from the brain cases of prey animals with chewed leaves, in self-wiping with leaves 
+(van Lawick-Goodall, 1968) and in aimed throwing of sticks at predator models (Kort- 
+landt, 1963). Van Lawick-Goodall (1971) described a case of object-object manipulation 
+(banging together kerosene cans) in agonistic displays by one male chimpanzee. Wild 
+chimpanzees display tool manufacture in the preparation of probes for termiting and 
+in the production of leaf sponges (this activity does not involve object-object mani- 
+pulation) (van Lawick-Goodall, 1968). 
+Termite foraging is a complex process requiring a knowledge of the location of the 
+termite mounds, the location of termite tunnels within the mounds, and a knowledge 
+of when the termites are about to emerge from their mounds. Termite fishing itself is a 
+complex process requiring the choice and preparation of appropriate twigs or stems, 
+scraping off the tops of tunnels in the mound, insertion of the right probe at the proper 
+
+
+PDF PAGE 11
+FEEDING ADAPTATIONS 633 
+Figure 1. The phylogeny of 
+anthropoid primates based on 
+comparative immunological data 
+on transferrins and albumin, 
+taking into account published 
+data on DNA hybridization, 
+courtesy of Drs Vincent Sarich 
+and Jack Cronin (graphics by 
+Linda Hagen). 
+N~w Worl,t 
+Apejr ona 
+Hom;n;Jw 
+OMk~r'M 
+• Mel~ (#pi,~- monA~s) 
+Al~Mfa (h~,/tr ~Fr) 
+• Pon~ ¢or, u~gulor,,r) 
+,Pan (~;mt,o,~.,r ) 
+,Oor';ll._.....__a 
+,HvlobafeJr (tibl, omr) 
+~olob;n~w 
+~11,~-, ar, r ~.o a,rta 
+tt,,, tim.. of ~, d~lap~';vr 
+J',~t;ation of' ~bos jrp¢.:;.~ 
+.. .. ,_..... ,.. 
+TIME IN MILLIONS OF YE:AR:~ 
+angle into the curved tunnel, vibration of the probe at the proper amplitude and fre- 
+quency to attract the termites, and withdrawal of the probe at the proper angle and 
+speed to avoid knocking termites off the stem or twig (Teleki, 1974). Young chimpanzees 
+require years of observational learning and practice before they can termite effectively 
+(Teleki, 1974; McGrew, 1977). 
+Wild chimpanzees also display proto tool use in the wild (i.e. banging hard-shelled 
+nuts on hard surfaces to open them) and the "secondary circular reaction" in repeated 
+branch waving in agonistic displays (van Lawick-Goodall, 1968). 
+Chimpanzees, like cebus monkeys, are omnivorous tool users; they eat a wide variety 
+of plant parts including seeds, fruits, nuts, leaves, blossoms, galls, and dead wood from 
+more than eighty plant species, and a significant amount of animal matter, including 
+bird's eggs, grubs, Caterpillars, termites, and ants of several species, and small verte- 
+brates such as fledgling birds, and larger vertebrates including infant bushbuck and 
+bushpig, olive baboons, blue-monkeys, redtail monkeys, and red colobus monkeys 
+(van Lawick-Goodall, 1968; Teleki, 1973; Suzuki, 1969). Many of these foods are highly 
+seasonal (Suzuki, 1969) and locally variable (Teleki, 1974). Unlike cebus monkeys, 
+chimpanzees, are also "stalking hunters" of large prey, as well as "scavenge hunters" 
+(searchers and seizers of small relatively immobile prey.) They do not use tools in 
+"stalking hunting" (Teleki, 1973). 
+Captive gorillas also display intelligent complex object manipulation schemata reflecting 
+the method of the "tertiary circular reactions" including raking in out of reach Objects 
+(Reynolds, 1967; Beck, 1975; Parker, 1976; Chevalier-Skolnikoff, 1976), and "secondary 
+circular reactions" including repeated branch waving (Parker, 1976). Gorillas as well as 
+chimpanzees reveal the capacity for symbol manipulation as displayed in American Sign 
+Language (Patterson, 1977) perhaps indicating symbolic intelligence. 
+Wild gorillas, however, rarely display complex object manipulation (Schaller, 1963). 
+The virtual absence of this class of behavior in the wild apparently correlates with their 
+relatively narrow, ' strictly herbivorous diet (Fossey, 1974; Schaller, 1963; Sabater Pi & 
+Jones, 1971). It is also pertinent that they are so strong that they can tear down trees 
+to get at encased pith and hence have little use for tools. 
+Captive orang-utans display intelligent complex object manipulation schemata, including 
+
+
+PDF PAGE 12
+634 s.T. PARKER AND K. R. GIBSON 
+tool use and tool manufacture: one captive orang-utan, for example, learned to flake 
+offa stone tool and used it to cut open a rope around a box (recorded on a film by Wright; 
+cited in Pfeiffer, 1969). 
+Wild orang-utans rarely display complex object manipulation (MacKinnon, 1974~ Brind- 
+amour, 1976). Although orang-utans are primarily frugivorous, they do eat termites 
+and hard shelled fruits, but they are sufficiently strong to open these embedded and 
+encased foods with their hands and teeth (MacKinnon, 1974; Brindamour, 1976) and 
+therefore do not need to use tools in feeding. 
+On the basis of these reports, Hamilton's hypothesis (Hamilton, 1973), and our 
+interpretation of Piaget's model, we propose that tertiary sensorimotor intelligence arose 
+in the common ancestor of cebus monkeys and independently in the common ancestor 
+of the great apes and hominids (see Figure 1) as an adaptation for feeding on a variety 
+of seasonally available foods susceptible to extraction from a matrix or a case through 
+intelligent complex object manipulation, and for discovering and remembering their spatial 
+and temporal location. The absence of this feeding pattern in the orang-utan and gorilla 
+is probably explained by their subsequent radiation into new feeding niches (Pilbeam & 
+Gould, 1974) which do not favor intelligent complex object manipulation.* We suspect that 
+tertiary sensorimotor intelligence persisted in these species because there was no evolutionary 
+force cperating on it or because it is advantageous in other contexts such as food location 
+or communication. 
+Since cebus monkeys and great apes diverged from a common ancestor approximately 
+35 million years ago (Sarich, 1970; Cronin & Sarich, 1975) and none of their collaterals 
+are known to consistently display intelligent tool use, it seems likely that tertiary sensori- 
+motor intelligence, arose through parallel evolution in the common ancestor of cebus 
+monkeys and the common ancestor of great apes and hominids several million years 
+after their divergence from each other (see Figure 1). 
+5. Object Manipulation and Intelligence in Other 
+Anthropoid Species 
+Field and laboratory reports indicate that most anthropoid species display considerable 
+simple object manipulation. Several investigators have compared object manipulation of 
+monkeysand apes in the laboratory and reported that baboons and macaques rival 
+cebus monkeys and chimpanzees in the amount of time they devote to object manipu- 
+lation (Glickman & Scroges, 1966; Davis et al., 1968; C. Parker, 1974a, b). The extent 
+and frequency of complex object manipulation in monkeys is difficult to assess. Several 
+instances of tool use to rake in out-of-reach objects have been reported in captive baboons 
+and maca-tues (Beck, 1973a, b; Kltiver, 1937; Warden, Koch & Fjeld, 1940). Warden, 
+Koch & Fjeld (1940) even succeeded in training some rhesus macaques to sequentially 
+rake in as many as four rakes in order to get an out-of-reach object. Wild baboons (van 
+* Nest building is apparently the only class of object manipulation 
+common to all the great apes in the wild. This might suggest that 
+some complex object manipulation'schemata in apes arose as an adapta- 
+tion to nest building. Field reports of nest building, however, suggest 
+that it does not involve trial and error object-object manipulations 
+¢1; ~, and recombinations, such as the weaving Schiller described in 
+captiv e chimpanzees (Schiller, 1949), and we therefore classify it as 
+simple object manipulation. 
+
+
+PDF PAGE 13
+FE~.DINO ADAPTATIONS 635 
+Lawick-Goodall, 1973) and macaques (Chaing, 1967) have been reported to use leaves to 
+wipe themselves. Wild Japanese macaques have been reported to wash sweet potatoes in 
+sea water (Kawai, 1965) and to drop wheat into sea water and scoop it out after sand 
+has fallen to the bottom (Hinde, 1974); captive Japanese macaques have been reported 
+to make snowballs by rolling snow on the ground (Eaton , 1976). These behaviors were 
+invented by trial and error or insight and spread througtl observational learning. Sweet 
+potato washing and snowball making and placer mining wheat involve object-substrate 
+manipulation .and should therefore be classified as proto tool use. It is interesting to note 
+in the context of Hamilton's hypothesis that baboons, at least, are highly omnivorous 
+(DeVore & Hall, 1968; Hall, 1962), but the rarity and limited scope of complex object 
+manipulation and tool use in captivity and in the wild suggests that tertiary sensorimotor 
+intelligence has not been selected in these species.* 
+Beck recently published an extensive review of tool use in non-human primates (Beck, 
+1975). His catalogue of types of tool use in monkeys is longer than that of most other 
+reviewers (Hall, 1968; van Lawiek-Goodall, 1970) because of his own recent discovery of 
+tool use in captive hamadryas and guinea baboons (Beck 1973a,b) and because he 
+classifies unaimed throwing and object dropping and waving as tool use. He also lengthens 
+his catalogue by including data from anonymous and second and third hand reports cited 
+by Kortlandt & Kooij (1963). Even using Beck's catalogue of types of tool use in primates, 
+it is clear that Cebus display more types of complex object manipulation than Other monkeys: 
+Beck cites 11 different types of tool use in cebus monkeys, as compared to 9 in baboons; 
+5 in macaques; and no more than 4 in other monkeys; and to 20 in chimpanzees; 12 in 
+orang-utans; 6 in gorillas; 4 in gibbons. 
+The majority of the evidence indicates that cebus monkeys surpass all other monkeys 
+and compare favorably with chimpanzees in the amount and scope of their complex object 
+manipulation; even so, it is clear that some baboons and macaques display a propensity 
+for complex Object manipulation. 
+6. Object Manipulation and Tool Use in 
+Other Vertebrate Species 
+Several other vertebrate species d/splay context specific tool use and proto tool use in various 
+contexts, including foraging and feeding, grooming, nest construction , and epigamic 
+and agonistic displays (Hall, 1968; Van Lawick-Goodall, I970; Alcock, 1972). According 
+to Alcock (1972, 1975) nearly all those species who use tools in foraging and feeding do 
+so to obtain foods they couldnot obtain by means of their anatomical equipment alone: 
+sea otters, for example, break open mollusk shells they cannot otherwise break, with the 
+aid of stones; Galapagos finches use twigs to extract insect larvae they could not other- 
+wise reach from cracks in tree bark; vultures drop Stones on ostrich eggs to open them. 
+According to Hamilton, most tool using vertebrates are "scavenge hunters" who search 
+* Parker's developmental study of a captive infant stumptail 
+macaque revealed an absence of the "secondary circular reactions" 
+and the "tertiary circular reactions" characteristic of the third and 
+fifth stages of the Sensorimotor Intelligence Series in chimpanzee, 
+gorilla, and human infants, but the presence of ananalogous series 
+of sensorimotor stages involving the elaboration of secondary linear 
+schemata (Parker, 1973, 1977) (see Table 5). 
+
+
+PDF PAGE 14
+636 S. T. PARKER AND K, R. GIBSON 
+for and seize relatively immobile prey smaller than themselves (not dead animals, as 
+scavenging implies). He classifies black-breasted buzzards, buzzards, Galapagos finches, 
+brown-headed nuthatches, sea otters, chimpanzees, cebus monkeys and"preman" as tool- 
+using "scavenge hunters". He characterizes "scavenge hunters" as omnivores, who 
+spend more time searching for food than do "sentinel" and "stalking" hunters of larger, 
+more mobile prey (Hamilton, 1973). Although we agree with Hamilton that cebus 
+monkeys and chimpanees and early man are and were omnivorous "scavenge hunters" 
+(or "collector predators,' in Teleki's terms), we do not believe that the other tool-using 
+species he lists fit this pattern. As indicated above, we believe that these context specifictool 
+users are dietary specialists (see Table 3). 
+7. The Evolution of Object Manipulation 
+Schemata and Intelligence 
+In this section we address two related but separable issues: the evolution of specific 
+object manipulation schemata , and the evolution of the capacity for the intelligent 
+applicatio n of object manipulation schemata. This distinction is critical to understanding 
+the relationship between object manipulation, tool use, and intelligence. 
+It seems likely that specific object manipulation schemata were selected in several 
+different behavioral contexts. Simple object and object-substrate manipulation in anthro- 
+poid species occurs in a Variety of domains, including feeding, grooming, agonistic 
+displays, nestingin the case of great apes, and, of course, in play, which involves motor 
+patterns from all other contexts (Dolhinow & Bishop, 1970) ; object dropping and unaimed 
+throwing schemata occur during agonistic displays (Hall, 1968; Washburn & Jay, 
+1967); uncovering, digging, rubbing, rotating, and pulling apart schemata occur during 
+foraging and feeding, suggesting that these schemata may have been selected for their 
+value in feeding; pincer grasping and plucking of small objects occur in feeding and 
+grooming, suggesting that these schemata may have been selected in both domains. 
+Object-substrate manipulation schemata such as rubbing objects on a surface may also have 
+been selected for food preparation. 
+Anthropoid species display trial and error variation, differentiation and recom- 
+bination of these simple object manipulation and object-substrate manipulation schemata, 
+indicating secondary linear sensorimotor intelligence (Parker, 1973, 1976, 1977). It seems likely 
+that selection for more efficient foraging and feeding was the primary factor favoring 
+the evolution of this capacity. . 
+Complex object manipulation schemata also occur in more than one domain: both cebus 
+monkeys and chimpanzees have been reported to use tools in aimed throwing and 
+clubbing (Kortlandt & Kooij, 1963; Kortlandt, 1963), suggesting that these schemata 
+may. have evolved from unaimed object throwing or dropping; on the other hand probing 
+and poking objects inside holes, and raking in out-of-reach objects occur in foraging 
+and feeding, suggesting that these Schemata may have evolved in this domain, probably 
+from simple object manipulation schemata and object-substrate schemata. 
+All students of the evolution of tool use in animals (Kortlandt, !963; Washburn & 
+Jay, 1967; Lancaster, 1968; van Lawick-Goodall, 1970; Alcock, 1972; Hamilton, 1973) 
+agree implicitly that tool use evolved from simpler varieties of object manipulation; 
+indeed the principle of the opportunism and conservatism of evolution demands this 
+
+
+PDF PAGE 15
+FEEDING ADAPTATIONS 637 
+interpretation, but they do not distinguish specific t0ol-using schemata from general. 
+tool-using abilities, that is, intelligence. Their theories may explain the evolution of 
+specific tool-using schemata, but they do not explain the evolution of intelligence. 
+Although complex object manipulation schemata may have arisen in several different 
+domains, this does not mean that the behavioral programs allowing trial and error 
+variation and flexible recombination of these schemata in the search for new means, 
+i.e. tertiary sensorimotor intelligence, arose in all these domains. We believe that these 
+behavioral programs had their origin in pre-existing behavioural programs generating 
+new trial and error combinations of simple object and object substrate manipulation schemata 
+in other anthropoid species, i.e. in secondary linear sensorimotor intelligence. We believe that 
+tertiary sensorimotor intelligence was favored in situations of locally variable limited seasonal 
+availability of embedded or encased high protein foods susceptible to extractive foraging 
+and feeding with the aid of trial and error object-object manipulations based on an 
+understanding or causality. Once intelligence evolved, it would allow broad appli- 
+cation of Complex object manipulation schemata. 
+We believe thatthis explains the case of Mike, the chimpanzee fi'om the Gombe 
+Stream Reserve who was able to increase his rank tlarough premeditated agonistic displays 
+with several tumbling kerosene cans. This expression of tertiary sensorimotor intelligence 
+in social tool use was the unique invention of an unusually intelligent animal (van Lawick- 
+Goodall 1971). It seems likely that intelligent complex object manipulation in social tool 
+use occurs only in unusually intelligent animals who are able to significantly inhibit 
+their excitement, and apply insight or trial and error manipulations to c/'eate new means 
+to solve the problem of intimidating or attacking anadversary (Gibson & Parker, in 
+preparation). 
+If our hypothesis is correct, field studies of cebus and chimpanzee species should 
+reveal more intelligent complex object manipulation schemata devoted to foraging and feeding 
+on embedded or encased foods (and in play and observational learning involving these 
+schemata) than other activities, such as agonistic displays. If selection is still operating 
+On tertiary sensorimotor intelligence for foraging and feeding, studies should reveal differential 
+survival and reproductive success correlated with individual differences in intelligent 
+complex object manipulation in foraging and feeding. 
+Obviously, it is impossible to directly test our general hypothesis that tertiary sensori- 
+motor intelligence arose in the common ancestor of cebus monkeys and the common an- 
+cestor of great apes and hominids. It may be possible, however, to reconstruct the ana- 
+tomy and behaviour of the common ancestors from fossil and comparative anatomical 
+data, and on this basis to select and study living species as living models of the common 
+ancestors. 
+Of the three gener a and four species of great apes, only one, Pan troglodytes, is known 
+to display intelligent complex object manipulation in foraging and feeding. If the other 
+chimpanzee species, Pan paniscus, als0 displays this pattern, it will support our hypothesis 
+that tertiary sensorimotor intelligence was selected in tF.e common ancestor of great apes and 
+hominids. Although there are no data on foraging and feeding in this species, laboratory 
+evidence indicates that Pan paniscus may be superior to:Pan troglodytes in its object mani- 
+pulation abilities (Savage, 1976). This is especially significant, because comparative 
+dental and anatomical data indicate that pygmy chimpanzees are evolutionarily con- 
+servative and may be similar to Ramapithecus and/or some Dryopithecus species, and hence 
+similar to early hominids or early hominoids (Pilbearn & Simons, cited by Bourne, 
+
+
+PDF PAGE 16
+638 s.T. PARKER AND K. R. GIBSON 
+1976; Cronin, Zihlman & Krammer, 1977) (and hence perhaps similar to the common 
+ancestor of great apes, or of great apes and hominids). 
+All four species of cebus monkeys (Hill, 1960; Herschkovitz, 1949) apparently display 
+tertiary sensorimotor intelligence (Hill, 1960). Although their feeding behaviors have not 
+been studied in detail, dental differences suggest dietary specialization in the heavier 
+form, Cebus ap'ella, as compared to the three other species (C. albifrons, C. nigrivittatus and 
+C. capuchinus); Cebus apella display some of the features of the T-complex, which also 
+occurs in gorillas (Kinzey, 1974). This suggests that the other three cebus species are 
+more evolutionarily conservative (Kinzey, 1974), and that one or more of them may 
+provide a living model of the common ancestor of cebus species. 
+Field studies of many animal species will be necessary to test our general hypothesis 
+that context specific tool use is an adaptation for feeding on a single class of nonseasonal 
+embedded food sources common to the whole population or species range, while intelli- 
+gent tool use is an adaptation for feeding on a variety of seasonally limited embedded 
+food sources often limited to particular parts of the species range. 
+Comparative studies should focus on the number of complex object manipulation schemata, 
+the number of contexts in which they are displayed, the number of objects employed, 
+and the ontogeny of the patterns (to determine if they develop through invention and 
+im,itation or through trial and error shaping through reinforcement in a narrow context) ; 
+they should also focus on the variation or lack of variation from individual to individual 
+and group to group in complex object manipulation schemata (i.e. on their species specific 
+or traditional nature), and on the seasonality or non-seasonality of the embedded food 
+sources and on their distribution in the species range. 
+8. Conclusions 
+We have proposed a taxonomy for distinguishing various forms of object manipulation 
+(simple prehension, simple object manipulation, object-substrate manipulation, complex object mani- 
+pulation and social-object manipulation), and we have distinguished various forms of tool 
+use (true tool use, proto tool u~e and social tool use) on the basis of our object manipulation 
+categories. We have distinguished between intelligent and context specific tool use on 
+the basis of criteria drawn from Piaget's Sensorimotor Series stages in human infants. 
+We have proposed that intelligent tool use based on tertiary sensorimotor intelligence arose 
+as an adaptatioh for extractive foraging and feeding on a variety of seasonally limited 
+local embedded food sources in the common ancestor ofcebus monkeys and independently 
+in the common ancestor of great apes and hominids. ~'Ve have pointed out that context 
+specific tool use is not diagnostic of tertiary sensorimotor intelligence despite similarities in 
+object manipulation schemata. We have proposed that specific object manipulation 
+schemata evolved independently of the intelligence guiding their application as new 
+means to new and old ends. 
+We are grateful to Drs Phyllis Dolhinow, Joh n Oppenheimer, David Gordon, Elbert 
+Branscomb and Mildred Dickeman, and to Peter Parker and Crystal Baker for helpful 
+criticisms of earlier drafts of this article. We are also grateful" to Dr Vincent Sarich for 
+providing the information in Figure 1, and to Frances Baker for typing and editing the 
+rhanuscript. Wealso want to acknowledge Dr Suzanne Chevalier-Skolnikoffwith whom 
+
+
+PDF PAGE 17
+FEEDING ADAPTATIONS 639 
+we discussed our hypothesis concerning the adaptive significance of sensorimotor intelli- 
+gence in cebus monkeys, and who subsequently worked with us briefly in observing 
+cebus monkeys at San Diego Wild Animal Park and the San Francisco Zoo, and in 
+seeking a field site to test our hypothesis. The authors, of course, take full responsibility 
+for the ideas presented here. 
+References 
+Alcock, J. (1975). Animal Behavior: An Evolutionary Approach. Sunderland, Mass.: Sinauer Assoc. Inc. 
+Alcock, J. (1972). The evolution of the use of tools by feeding animals. Evolution 26, 464-473. 
+Baldwin, J. & Baldwin, .1. (1972). The ecology and behavior of Squirrel monkeys (Siamiri oerstedi) in a 
+natural forest in western Panama. Folia primatologica 18, 161-184. 
+Beck, B. (1976). Predatory shell dropping by Herring gulls. Preliminary report paper delivered at the 
+1976 Annual Meeting of the Behavior Socilety, Boulder, Colorado. 
+Beck, B. (1975). Baboons, chimpanzees and tools. Journal of Human Evolution 3, 509-516. 
+Beck, B. (1975). Primate tool behavior. In Socioecology and Psychology of Primates (R. Tuttle, ed.). The 
+Hague: Mouton Publishers. 
+Beck, B. (1973a). Observation learning of tool use by captive Guinea baboons (Papio papio). American 
+Journal of Physical Anthropology 38, 579-582. 
+Beck, B. (1973b). Co-operative tool use by captive hamadryas baboons. Science 182, 594-597. 
+Bertrand, M. (1969). The Behavioral Repertoire of the Stumptail Macaque. B}blioteca Primatological No. 11. 
+Basel: Karger. 
+Bierens de Haan, J. A. (1931). Werkzeuggebraueh and Werkzeugherstellung hei einum Niediren 
+Berhn. Affen (Cebus hypoleucus humb.). Zeitschrift fiir Vergleichende Physiologic, " 
+Bourne, G. (1976). Pygmy chimpanzees at the Yerkes Center. Yerkes New~letter 13 (1). 
+Carpenter, C. R. & Locke, N. M. (1937). Notes on symbolic behavior in a cebus monkey Cebus 
+appela. Journal of Genetic Psychology 51, 267-278. 
+Chapman, F. M. (1938). Life in an Air Castle. New York, London: D. Appleton-Century Company. 
+Chapman, F. M. (1929). My Tropical Air Castle. New York, London: D. /~ppleton and Company. 
+Chevalier-Skolnikoff, S. (1976). The ontogeny of primate intelligence and !its implications for Com- 
+municative potential. Annals of the New York Academy of Sciences 180, 173-211. 
+Chiang, M. (1967). Use of tools by wild Macaque monkeys in Singapore. Nature 214, 1258-1259. 
+Chlvers, D. J., Raemackers, J. J. & Aldrich-Blake, F. (1975). Long-term observations of siamang 
+behavior. FoIia primotologica 23, 1-49. 
+Clutton-Brock, T. H. (1974). Primate social organization and ecology. Nature 250, 539-542. 
+Cronin, J. & Sarich, V. (1975). Molecular systematics of the New World monkeys. Journal of Human 
+Evolution 4, 357-375. 
+Cronin, J., Zihlman, A. & Krammer, D. (1977). Pygmy chimpanzees: a model of hominid origins 
+(in preparation). 
+Davis, R. T.(1974). Monkeys as Perceivers. New York and London: Academic Press. 
+Davis, R. T., Leafy, R. W., Caseben-Smith, M. D. & Thompson, R. F. (1968). Species differences in 
+the gross behavior of the non-human primates. Behavior 31, 326-328. 
+Devore, I. & Hall, K. R. L. (1965). Baboon ecology. In Primate Behavior (DeVore, I., ed.). New 
+York: Holt, Rinehart and Winston. 
+Dolhinow, P. & Bishop, N. (1970). The development of motor skills and social relationships among 
+primates through play. In Minnesota Symposiu'n on Child Psychology 4, 141-198. 
+Eaton, G. (1976). The social order of Japanese macaques. Scientific American 235 (4), 96-106. 
+Ellefson, J. (1968). Territorial behavior in the common White-handed gibbon, H.ylobates lar Linn. In 
+Primates (P. C. Jay, ed.). New York: Holt, Rinehart and Winston. 
+Fossey, D. (1974). Observations on the home range of one group of Mountain gorillas (Gorilla gorilla 
+beringei). Animal Behaviour 22, 568-581. 
+Freese, C. (1975). Personal communication. 
+Galdikas-Brindamour, B. (1976). Public l.:cture before the California Academy of Sciences. San 
+Francisco, 4 May. 
+Gibson, K. R. & Parker, S. T. (1976). Sensorimotor intelligence as an adaptation to feeding strategies 
+in wild Cebus monkeys. Paper delivered at the Annual Meeting of the Animal Behaviour Society, 
+Boulder, Colorado, 23 June. 
+Gibson, K. R. & Parker, S. T. The evolution of intelligence (in preparation). 
+Gliekman, S. E. & Scroges, R. W. (1966). Curiosity in zoo animals. Behavior 26, 151-188. 
+Hahn, E. (1971). Reporter at large. New Yorker Magazine, 24 April. 
+
+
+PDF PAGE 18
+640 S. T, PARKER AND K. R. GIBSON 
+Island, Pamana. 
+Kawai, M. (1965). 
+on Koshima Isles. 
+Kinzey, W. (1974). 
+3, 193-203. 
+Hall, K. R. L. (1968). Tool-using performance as indicators of behavioral adaptability. In Primate 
+Studies in Adaptation and Variability (P. C. Jay, ed.). New York: Holt, Rinehart and Winston. 
+Hall, K. R. L. (1962). Numerical data maintenance and activities and locomotion of the wild Chacma 
+baboon, Papio ursinus. Proceedings of the Zoological Society of London 139, 181-220. 
+Hall, K. R. L. & Schaller, G. B. (1964). Tool-using behavior in California sea otter. Journal of 
+AIammalogy 't5, 287-298. 
+Hamilton, Win. J. III (1973). Life's Color Code. New York: McGraw-Hill, Inc. 
+Hernandez-Camacho, J. & Cooper. R. (1976). Non-human primates in Colombia. In Neotropical 
+Primates: Field Studies and Conservation (R. J. Thorington, and P. C. Heltne, eds). New York: National 
+Academy of Sciences. 
+Hershkovitz, P. (1947). Mammals of northern Columbia: preliminary report no. 4: monkeys (Primates), 
+with taxonomic revisions of some forms. Proceedings of the U.S. National Museum 98~ 323-427. 
+Hill, W. C. O. (1960). Primates. IV. Cebidae. Edinburgh University Press, pp. 322.-490. 
+Hinde, R. (1974). Biological Bases of Human Social Behaviour. McGraw-Hill. 
+Hladik, C. & Hladik, A. (1969). Rapports trophiques entre vegetation et primates dans la Foret de 
+Barro Colorado (Panama). LaTerre et la Vie, pp. 25-117. 
+Jolly, A. (1972). The Evolution of Primate Social Behavior. MacMillan. 
+Kaufman, J. H. (1962). Ecology and social behavior of the Coati Nasua narica on Barro Colorado 
+University of California Publications in Zoology 60 (3), 95-222. 
+Newly acquired pre-cultural behavior of the natural troop of Japanese macaques 
+Primates 6, 1-30. 
+Ceboid models for the evolution of hominoid dentition. Journal of Human Evolution 
+Klein, L. (1972). The ecology and social organization of the Spider monkey, Ateles bulzebuth. Ph.D. 
+Dissertation, University of California, Berkeley. 
+Klein, L. & Klein, D. (1973). Observations of two types of neotropical intertaxa associations. American 
+Journal of Physical Anthropology 38 (2), 649-654. 
+Klein, L. & Klein, D. (1975). Social and ecological contrasts between four taxa of neotropical primates. 
+In Socioecology and Psychology of Primates (R. Tuttle, ed.). The Hague: Mouton. 
+Kliiver, H. (1933). Behaviour Mechanisms in Monkeys. Chicago: The University of Chicago Press. 
+Kliiver, H. (1937). Re-examination of implement using behavior in a Cebus monkey after an interval 
+of three years. Aaa Psychologica 2, 347-397. 
+Kohler, W. (1927). The Mentality of Apes. New York: Random House. 
+Kortlandt, A. (1963). Chimpanzees in the wild. Scientific American. 
+Kortlandt, A. & Kooij, M. (1963). Protohominid behavior in primates (preliminary communication). 
+Symposia of the Zoological Society of London 10, 61-68. 
+Lancaster, J. (1968). On the evolution of tool-using behavior. American Anthropologist 70, 56-66. 
+MacArthur, R. (1972). Geographic Ecology Patterns in the Dispersion of Spedes. New York: Harper & Row. 
+McGrew, W. C. (1976). Socialization and object manipulation in wild chimpanzees. In Biosocial 
+Development among Primates (Poirier & Chevalier-Skolnikoff, eds). New York: Garland (in press). 
+Menzel, E. (1972). Spontaneous invention of ladders in a group of young chimpanzees. Folia primato- 
+logica 17, 87-106. 
+Oppenheimer, J. (1968). Behavior and ecology of the White-faced Monkey, Cebus capucinus, on Barro 
+Colorado Island. C. Z. Ph.D. Dissertation, University of Illinois. 
+Oppenheimer, J. R. (1969). Changes in forehead patterns and group composition of the White-faced 
+monkey ( Cebus capueinus). Proceedings of the 2nd International Congress on Primatology, Atlanta Ca. 1, 36--42. 
+Basel, New York: Karger. 
+Oppenheimer, J. R. (1973). Social and eommunicatory behavior in the Cebus monkey. In (C. R. 
+Carpenter) Behavioral Regulators of Behavior in Primates. Bucknell University Press, Lewisburg, Pa., 
+pp. 251-271. 
+Parker, S. T. (1973). Piaget's Sensorimotor Series in an infant macaque: the organization ofnon-stereo- 
+typed behavior in the evolution of intelligence. Ph.D. Dissertation, Department of Anthropology, 
+University of California, Berkeley. 
+Parker, S. T. (1976). A comparative longitudinal study of sensorimotor development in a gorilla, a 
+human, and a macaque infant from a Piagetian perspective. Paper delivered at the Annual Meeting 
+of the Animal Behavior Society, Boulder, Colorado, 23 June. 
+Parker, S. T. (1977). Piaget's Sensorimotor Series in an infant macaque: a model for comparing 
+unstereotyped behavior and intelligence in human and non-human primates. In Bibsocial Develop- 
+ment among Primates (S. Chevalier-Skolnikoff & F. Poirier, eds). New York: Garland (in press). 
+Patterson, F. (1977). The gestures of a gorilla: language acquisition in another primate species. In 
+Perspectives in Human Evolution, Vol. IV (Hamburg, Goodall, McCown, eds). Menlo Park: Benjamin 
+Press (in press). 
+Piaget, J. (1952). The Origins oflntelligence in Children. New York: Norton. 
+
+
+PDF PAGE 19
+FEEDING ADAPTATIONS 641 
+Suzuki, A. (1969). 
+Teleki, G. (1973). 
+Teleki, G. (1974). 
+3j 575-594. 
+Teleki, G. (1975). 
+Piaget, J. (1954). Construction of Reality in the Child. New York: Bellantine Books. 
+Pilbeam, D. & Gould, S. (1974). Size and sealing in human evolution. Science 186, 892-901. 
+Rensch, B. (1973). Play and art in apes and monkeys. In Precultural Primate Behavior (E. Menzel, ed.). 
+Symposium IVth Internat. Congress Primat. Vol. 1. Basel: Karger. 
+Romanes, G.J. (1882). Animal Intelligence. London: Kegan, Paul, Trench & Coo 
+Sabater Pi & Jones, C. (1973). Comparative Ecology of Gorilla gorilla (Savage and Wyman) and Pan troglo- 
+dytes (Blumcnbach) in Rio Muni, West Afiica. Basel: Karger. 
+Sarich, V. (1970). Primate systematies with special reference to Old World monkeys: a protein 
+perspective. In Old World Monkeys (Napier, J. R. & Napier, P. H., eds). New York: Academic Press. 
+Savage, S. (1976). Preliminary observations on the behavior of the Pygmy chimpanzee. Yerkes News- 
+letter 13 (I). 
+Schaller, G. (1963). The Mountain Gorilla Behavior and Ecology. Chicago: University of Chicago Press. 
+Schiller, P. (1949). Innate motor action as a basis of learning. In Instinctive Behavior (P. Schiller, ed.). 
+Stephan, H. (1972). Evolution of primate brains: a comparative anatomical investigation. In (R. Tuttle, 
+ed.). The Functional and Evolutionary Biology of Primates, pp. 155-174. Chicago, New York: Aidlne- 
+Atherton. 
+Struhsaker, T. & Hunkeler, P. (!971). Evidence of tool-using by chimpanzees in the Ivory Coast. 
+Folia primatologia 15, 212-229. 
+An ecological study of chimpanzees in a savanna woodland. Primates 10, 103-148. 
+The Predatory Behavior of Wild Chimpanzees. Lewisburg: Bucknell University Press. 
+Chimpanzee subsistence technology: materials and skills. Journal of Human Evolution 
+Primate subsistence patterns: collector-predators and gatherer-hunters. Journal of 
+Human Evolution 4 (2), 125-184. 
+Thorington, R. W., Jr. (1967). Feeding and activity of Cebus and Saimiri in a Columbian forest. In 
+Starck, D., Schneider, R. & Kuhn, J. J., eds). Neue Ergebnisse der Primatologie. Progress in Primatology. 
+Stuttgart: Gustav Fischer Verlag. 
+Thorington, R. W., Jr. (1970). Feeding behavior of non-human primates in the wilderness. In Feeding 
+and Nutrition in Non-human Primates (R. S. Harris, ed.). New York: Academic Press. 
+Van Lawick-Goodall, J. (1968). The behaviour of free-ranging chimpanzees in the Gombe Stream 
+Reserve. Animal Behaviour Monograph. 
+Van Lawick-GoodalI, J. (1970). Tool-using in primates and other vcrtebrates. In Advances in the Study 
+of Behavior, Vol. 3 (D. S. Lehrman, R. A. Hinde & E. SHaw, eds). New York: Academic Press. 
+Van Lawick-Goodall, J. (1971). In The Shadow of Man. Dell. 
+Ververs, G. & Weiner, J. (1963). Use of a t0ol by a captive Capuchin monkey. Primates: Symposium of 
+the Zoological Society of London, No. 10. 
+Warden, C. J., Koch, A. M. & Fjeld, H. A. (1940). Instrumentation in Cebus and Rhesus monkeys. 
+Journal of General Psychology 56, 297-310. 
+Washburn, S. L. & Jay, P. (1967). More on tool use among primates. Current Anthropolo~. 8, 253-254. 

@@ -1,0 +1,1195 @@
+PDF PAGE 1
+Evaluating Social Inﬂuences on Food-Processing
+Behavior in White-Faced Capuchins ( Cebus capucinus )
+Robert C. O’Malley 1 and Linda M. Fedigan 2*
+1Department of Anthropology, University of Alberta, Edmonton, Alberta T6G 0E8, Canada
+2Department of Anthropology, University of Calgary, Calgary, Alberta T2N 1N4, Canada
+KEY WORDS social traditions; nonhuman culture; extractive foraging; manipulation;
+Cebines
+ABSTRACT Interpopulation variability in patterns of
+food processing, similar to what is described as “tradi-
+tional” or “cultural” variation in chimpanzees ( Pan trog-
+lodytes) and orangutans ( Pongo pygmaeus), was identiﬁed
+in white-faced capuchins ( Cebus capucinus). However, re-
+cent comparisons of food processing in capuchins were
+conducted only at the population level, with relatively
+little attention given to variability among groups, age/sex
+classes, or individuals. This paper examines variability in
+the processing of speciﬁc food types within the context of
+various social networks (i.e., patterns of association, rank,
+and kinship) among free-ranging Cebus capucinus at
+Santa Rosa National Park in Costa Rica. We collected
+data on two groups of white-faced capuchins in 2001,
+identifying rates of “food interest” for each individual, as
+well as forms of processing for speciﬁc food types. Juve-
+niles exhibited the most interest in the food-processing
+behavior of other group members, and food interest was
+directed most frequently toward adult females. We iden-
+tiﬁed distinctive processing techniques for several food
+items (Luehea candida pods, Sloanea terniﬂora fruits, and
+caterpillars) that facilitated comparisons among individ-
+uals within groups. Food-processing techniques for Sloa-
+nea fruit and caterpillars appeared to vary independently
+of the social networks examined in this study. However,
+we found evidence that variation in Luehea candida pro-
+cessing is to some degree linked to both patterns of asso-
+ciation and social rank. The potential inﬂuence of these
+variables on observed food processing patterns warrants
+further scrutiny. Am J Phys Anthropol 127:481– 491,
+2005.
+© 2005 Wiley-Liss, Inc.
+As in Pan and Pongo, behavior patterns of mem-
+bers of the genus Cebus may reﬂect social traditions,
+or “culture,” deﬁned for the purposes of this study as
+“group-speciﬁc behavior that is acquired, at least in
+part, from social inﬂuences” (McGrew, 1998; also see
+Fragaszy and Perry, 2003). A half-century of chim-
+panzee and orangutan research across numerous
+sites has identiﬁed a high degree of group- and pop-
+ulation-speciﬁc variability in courtship and groom-
+ing behavior (McGrew and Tutin, 1978; Nishida,
+1980; Sugiyama, 1981; Boesch, 1995; Nakamura et
+al., 2000), in patterns of medicinal plant use (Huff-
+man and Wrangham, 1994; Huffman et al., 1997),
+and in food-processing and foraging techniques, par-
+ticularly forms of tool- and object-use (Sugiyama,
+1985, 1997; Goodall, 1986; Boesch, 1991, 1996;
+McGrew, 1992, 1998; Boesch and Boesch, 1993; Boe-
+sch et al., 1994; Boesch and Tomasello, 1998; van
+Schaik et al., 1999, 2003). Despite their apparent
+cognitive limitations relative to hominoids (Visal-
+berghi, 1997), evidence for similar patterns of social
+traditions in wild Cebus spp. has emerged in studies
+of grooming behavior and social play (Perry et al.,
+2003), as well as in medicinal plant and insect use
+(Baker, 1996; Valderrama et al., 2000). In Cebus
+capucinus, broad variations in processing tech-
+niques, including several forms of object-use, for spe-
+ciﬁc food items across ecologically similar sites in
+northwest Costa Rica were identiﬁed in a pattern
+consistent with “cultural” differences in chimpanzee
+(Whiten et al., 1999) and orangutan (van Schaik et
+al., 2003) populations (Panger, 1998; Panger et al.,
+2002). These preliminary ﬁndings from studies of
+wild Cebus spp. call into question both the signiﬁ-
+cance of speciﬁc cognitive processes in explaining
+patterns of complex object manipulation, including
+those said to be “traditional” or “cultural,” and the
+distinctiveness of such patterns in Homo and Pan
+relative to other nonhuman primates (Panger et al.,
+2002) or other animals. These issues can only be
+addressed with a more intensive research focus on
+Grant sponsor: Natural Sciences and Engineering Research Council
+of Canada; Grant sponsor: Canada Research Chair Program; Grant
+sponsor: Sigma Xi Grant-in-Aid of Research.
+*Correspondence to: Dr. Linda M. Fedigan, Department of Anthro-
+pology, University of Calgary, Calgary, Alberta T2N 1N4, Canada.
+E-mail: fedigan@ucalgary.ca
+Received 24 August 2003; accepted 25 April 2004.
+DOI 10.1002/ajpa.20095
+Published online 3 February 2005 in Wiley InterScience (www.
+interscience.wiley.com).
+AMERICAN JOURNAL OF PHYSICAL ANTHROPOLOGY 127:481– 491 (2005)
+© 2005 WILEY-LISS, INC.
+
+PDF PAGE 2
+food-processing patterns across a broader range of
+taxa (Boinski et al., 2000). In this paper, we examine
+distinctive techniques for processing three types of
+capuchin foods, and whether the use or lack of use of
+such techniques by different individuals relates to
+the social networks of kinship, dominance relations,
+and patterns of physical association.
+INTERPRETING PATTERNS OF
+FOOD PROCESSING
+Capuchins’ ability to process speciﬁc foods is likely
+subject to numerous physical, cognitive, metabolic,
+and behavioral constraints (Fragaszy et al., 2004),
+as well as ecological factors such as food availability
+(Chapman and Fedigan, 1990) and opportunities to
+observe conspeciﬁcs (Boinski et al., 2000). Therefore,
+interpreting evidence for social traditions in food
+processing is a difﬁcult undertaking without de-
+tailed information about the methods capuchins use
+to process speciﬁc foods, and the degree (and nature)
+of variability within and across groups and popula-
+tions. Panger (1998) described general forms of ob-
+ject-use such as “rub” and “pound” employed by
+white-faced capuchins, and discussed foods and food
+types that elicited such processing patterns. More
+recently, Panger et al. (2002) provided an overview
+of interpopulation variability in food-processing be-
+havior, and provided evidence for social inﬂuences
+on distinct processing patterns within a social
+group. However, generalized processing methods
+such as “pound” are employed by most, or all, wild
+populations, and are frequently observed in captiv-
+ity as well (Anderson, 1990; Panger, 1998; Panger et
+al., 2002), and so the signiﬁcance of the ﬁnding that
+capuchins have been observed to “pound” different
+foods at different sites remains unclear. Panger et
+al. (2002) stressed that more details about process-
+ing patterns for speciﬁc foods are needed to evaluate
+the nature and signiﬁcance of social traditions in
+capuchin food processing. Such a focus on speciﬁc
+foods has proven valuable in evaluating the signiﬁ-
+cance of variability in ant-dipping (McGrew, 1974;
+Boesch and Boesch, 1993) and termite-ﬁshing
+(McGrew and Marchant, 1999) behavior within and
+across populations of wild chimpanzees.
+THE SIGNIFICANCE OF SOCIAL NETWORKS
+Identifying how speciﬁc foraging and food-process-
+ing patterns arise, spread, and persist in wild pri-
+mates can be a difﬁcult task, although such research
+has been conducted with some success (e.g., Boesch,
+1991, 1996; Matsuzawa, 1994; Watanabe, 1994; In-
+oue-Nakamura and Matsuzawa, 2001; Garber and
+Brown, 2002). In part because ﬁeld experiments
+may risk altering the subjects’ food-processing pat-
+terns and mechanisms of behavioral diffusion, more
+indirect means of examining such behavior in a so-
+cial context were also tried (e.g., Boesch, 1996; Pan-
+ger et al., 2002). Such indirect evidence can be ob-
+tained by identifying potential opportunities for
+transmission and determining if such opportunities
+correspond to speciﬁc patterns of behavior. In con-
+junction with documenting whether an individual
+directly observes, or is observed in, food-processing
+behavior by a conspeciﬁc, it is possible to use social
+networks within groups to predict which individuals
+might be more likely to share a given behavioral
+pattern. Such analyses do not allow for speciﬁc so-
+cial learning processes to be identiﬁed (Whiten and
+Ham, 1992); instead, they indicate whether social
+processes could be at work, and if so, the strength of
+their inﬂuence.
+A number of intragroup social networks may in-
+ﬂuence food-processing patterns. The most obv ious,
+and likely the most powerful, are those that inﬂu-
+ence patterns of physical association, or proximity :
+individuals who spend more time near each other
+would presumably have greater opportunity to ob-
+serve and potentially learn from each other’s be-
+havior, relative to less proximate individuals
+(Panger et al., 2002). Social rank is known to
+inﬂuence spatial patterns within capuchin groups
+(Janson, 1990a,b; Hall and Fedigan, 1997), which
+can in turn inﬂuence diet and foraging behavior.
+In addition, higher-ranking individuals are able to
+supplant lower-ranking individuals from prized
+food resources (Di Bitetti and Janson, 2001),
+which may inﬂuence the strategies employed by
+subordinates when dealing with foods that require
+some degree of handling time to process effec-
+tively. Finally, kinship networks may offer oppor-
+tunities for social transmission, as individuals
+may monitor their relatives’ actions more closely
+than those of nonrelatives. This is particularly
+true for mothers and their infants, as capuchin
+young rarely leave their mothers in the ﬁrst few
+months of life (Fragaszy, 1990; Welker et al.,
+1990), and a great deal of their early explorations
+of their environment are directed toward their
+mothers’ activities (Fragaszy et al., 1991).
+RESEARCH OBJECTIVES
+Here, we seek ﬁrst to determine the degree to
+which several social networks (speciﬁcally proxim-
+ity, rank, and kinship) are associated with previ-
+ously identiﬁed food-processing patterns for several
+speciﬁc food items consumed by wild capuchin
+groups. Secondly, we discuss whether such patterns
+can be taken as evidence for social traditions among
+wild capuchins.
+METHODS
+We conducted this research from January–June
+2001 at Santa Rosa National Park, Costa Rica. We
+collected a total of 309.5 hr of quantitative data on
+members of two habituated C. capucinus groups, the
+“CP” and “LV” groups, which have been studied ex-
+tensively over the last two decades (Chapman and
+Fedigan, 1990; Fedigan, 1990; Rose 1994, 1997; Hall
+and Fedigan, 1997). We focused on patterns of food
+482 R.C. O’MALLEY AND L.M. FEDIGAN
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+processing, including rates of consumption, hand
+use, and techniques employed for speciﬁc foods. In
+this paper, we examine processing behavior ob-
+served for three foods ( Sloanea terniﬂora , Luehea
+candida, and caterpillars) that were previously
+identiﬁed as variable or potentially variable across
+Cebus populations (Panger et al., 2002), for which
+distinctive food-processing techniques were identi-
+ﬁed, and for which we collected sufﬁcient data for
+meaningful analysis. We examined these processing
+techniques in relation to three types of social net-
+works: proximity, rank and kinship. A separate pa-
+per discusses variability between groups and among
+age/sex classes in greater detail (O’Malley and Fedi-
+gan, in press).
+Analyses
+We identiﬁed individuals using one of the speciﬁc
+processing techniques described for Luehea candida,
+Sloanea terniﬂora , or large caterpillars (Table 1) in
+the course of previous analyses (Table 2; O’Malley,
+2002; O’Malley and Fedigan, in press). We observed
+the “eviscerate” technique for caterpillars in both
+groups, but recorded it in focal data for only one
+individual in the LV group, so we chose to limit
+analyses of that pattern to the CP group.
+Food interest
+We tallied the total number of “direct/receive food
+interest” bouts to see which age/sex classes most
+often showed interest in others’ feeding and process-
+ing behavior, and to determine which age/sex classes
+were most often the focus of interest. “Direct food
+interest” was deﬁned as actively and closely observ-
+ing a conspeciﬁc engaged in foraging or food-process-
+ing behavior without being engaged in other activi-
+ties, or interfering in the conspeciﬁc’s activities, at a
+distance o f3mo r less. “Receive food interest” was
+TABLE 1. Food processing techniques identified for specific food items
+Food item Technique Description
+Sloanea terniﬂora Rub and brush Moving a fruit or fruits rapidly back and forth against a substrate with one
+hand, while ﬂailing and brushing against it with other hand. Presumed
+function of this technique is to facilitate removal of urticating hairs that
+cover these fruits, and keep them from ﬂying in individual’s eyes.
+Luehea candida Pound and catch Hammering a hard seed pod against a substrate with one hand, while
+other hand is cupped below, or braced against substrate to catch winged
+seeds as they come out of pod.
+Skilled pound Extremely rapid pounding of a pod against a substrate, with no pause in
+hammering when seeds are slurped or scooped up for consumption.
+Caterpillars Eviscerate Tearing open one end of a large caterpillar and ﬂicking out gut contents in
+one smooth motion.
+TABLE 2. Summary of food-processing patterns for CP (upper set) and LV (lower set) groups
+1
+Subject Rank Age/sex
+“Skilled
+pound”
+Luehea?
+“Pound
+and catch”
+Luehea?
+“Rub and
+brush”
+Sloanea?
+Eviscerate
+caterpillar?
+CP group
+L1 1 AdFem Yes Yes Yes Yes
+NO 2 AdMale Yes Yes Yes
+NY 3 AdFem Yes Yes Yes Yes
+TR 4 AdMale Yes Yes Yes
+SI 5 JuvFem
+RA 6 SubMale
+PO 7 AdFem Yes
+ED 8 JuvFem
+TI 9 SubFem Yes
+SE 10 AdFem Yes
+ZZ 11 JuvFem
+LV group
+PI 1 AdMale Yes
+KL 2 AdFem Yes Yes
+AO 3 AdMale Yes Yes
+CH 4 AdMale Yes
+DL 5 AdFem Yes Yes
+SD 6 AdMale Yes Yes
+TO 7 SubMale Yes
+PR 8 AdMale Yes Yes
+AL 9 SubMale Yes Yes
+MY 10 JuvFem Yes
+SL 11 SubFem Yes
+BL 12 AdFem Yes Yes
+FI 13 AdFem Yes Yes
+SY 14 JuvFem
+1 Blank cells for speciﬁc techniques indicate that processing pattern in question was not observed for that individual in either focal
+data or in ad libitum notes. Ad, adult; Juv, juvenile; Sub, subadult; Fem, female.
+SOCIAL INFLUENCES ON CAPUCHIN FOOD PROCESSING 483
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+deﬁned as being actively and closely observed by a
+conspeciﬁc under the same conditions. All food items
+were combined because the data set was too small to
+examine rates of food interest for speciﬁc foods. We
+adjusted the frequencies of bouts by the number of
+individuals in each age/sex class, and by the amount
+of focal time they spent engaged in foraging and food
+processing. We compared the resulting frequencies
+of both “direct food interest” and “receive food inter-
+est,” using chi-square analyses to determine if sig-
+niﬁcant differences existed among age/sex classes.
+Proximity
+During a scan sample at the beginning of each
+focal session, we scored the closest three conspeciﬁcs
+within3mo ft h e focal animal (if any) as “in prox-
+imity.” Infants that were not yet moving indepen-
+dently of their mother were not scored. Once
+offspring began moving independently of their moth-
+ers, they were scored normally. Following the meth-
+odology of Panger et al. (2002), we calculated “prox-
+imity scores” for each dyad of individuals in the
+group, excluding infants. We calculated these scores
+by totaling the number of scan samples in which
+each individual was found in proximity to a speciﬁc
+dyad partner, and dividing that number by the total
+number of scan samples collected for both individu-
+als in that dyad.
+Dyads composed of two individuals who both ex-
+hibited a speciﬁc processing pattern were identiﬁed
+as “matched dyads,” whereas dyads composed of in-
+dividuals who did not both exhibit a speciﬁc tech-
+nique or processing pattern were identiﬁed as “un-
+matched dyads.” Mann-Whitney U-tests (one-tailed)
+were run for each relevant technique to see if prox-
+imity scores of matched dyads were higher than
+those of unmatched dyads.
+Social rank
+A dominance hierarchy was established for the
+members of each group, based on observed frequen-
+cies of aggressive behavior, threats, and supplanta-
+tions among individuals (O’Malley, 2002). To estab-
+lish rank, we assigned each individual a score based
+on the number of such acts directed toward each of
+the other members of the group. Mann-Whitney U-
+tests (two-tailed) were used to determine if individ-
+uals seen to use a given processing technique were,
+on average, of signiﬁcantly higher or lower rank
+than those that did not.
+Kinship
+The kin relations of most members of the two
+study groups through both maternal and paternal
+lines were established through genetic analyses of
+hair and fecal samples (Jack and Fedigan, 2003;
+Fedigan, unpublished data), and so r-values could be
+determined for each dyad (Krebs and Davies, 1993).
+Matched dyads (those pairs of individuals sharing a
+given processing pattern) and unmatched dyads
+(those pairs not sharing a given processing pattern)
+were compared using Mann-Whitney U-tests (one-
+tailed) to determine if matched dyads were more
+closely related than unmatched dyads.
+Research design and statistical issues
+We realize that the three social networks exam-
+ined in this study are interrelated. For example,
+mothers and offspring are likely to spend more time
+together (Fragaszy, 1990; Welker et al., 1990), and
+high-ranking individuals tend to be found in certain
+spatial areas of the group during travel, and there-
+fore may spend more time in proximity with one
+another than with lower-ranked individuals (Hall
+and Fedigan, 1997; Di Bitetti and Janson, 2001).
+Ideally, we would have performed a multiway anal-
+ysis to control for these interactions among our so-
+cial networks, but our small sample sizes render
+such analyses problematic. Furthermore, there are
+at least two reasons for considering these three so-
+cial networks separately. For the proximity analy-
+ses, we followed the methodology of Panger et al.
+(2002), which allows some comparison between our
+proximity results and those of Panger et al. (2002)
+on capuchins at a neighboring site. Secondly, prior
+research on the LV and CP groups (MacKinnon,
+1995) as well as our own observations showed that
+patterns of proximity in these monkeys are not al-
+ways determined by kinship and rank. During for-
+aging as well as daytime rest periods, it is quite
+common to ﬁnd members of given age/sex classes
+(e.g., juvenile males, adult females) foraging in prox-
+imity or interacting with one another rather than
+with their relatives and rank-associates. Thus pat-
+terns of physical association may provide an oppor-
+tunity for lateral transfer of social traditions among
+peers as well as vertical transfer from adults to
+offspring or high-ranking individuals to lower-
+ranked individuals.
+Because we conducted Mann-Whitney U-tests for
+each social network (proximity scores, rank, and
+kinship) for multiple processing techniques, there is
+an increased risk of a type I error (Chandler, 1995;
+Cabin and Mitchell, 2000). To address this issue, we
+applied a Bonferroni correction to the alpha level
+used for the intragroup analyses of each individual
+social network. However, because there is also a
+high risk of a type II error due to the small sample
+sizes of this study, we feel justiﬁed in discussing
+results found to be signiﬁcant ( P /H110210.05) at the
+unadjusted alpha level as well.
+RESULTS
+Food interest
+Individuals of all age/sex classes showed interest
+in the foraging and food-processing behavior of oth-
+ers (Table 3), but juveniles engaged in directed bouts
+of food interest signiﬁcantly more often than
+subadults or adults of either sex (n /H1100536, /H9273
+2 /H11005
+36.875, df /H110053, P /H110210.001). Adult females and adult
+484 R.C. O’MALLEY AND L.M. FEDIGAN
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+males received bouts of food interest signiﬁcantly
+more often than juveniles received them (n /H1100532,
+/H92732 /H110059.148, d.f. /H110053, P /H110050.026). Such interest was
+most often directed toward individuals consuming
+vertebrate or invertebrate prey such as squirrel
+pups, Acacia-dwelling ants, or termites, as opposed
+to plant foods. On occasion, however, we observed
+nonadults in both groups abandon their food-pro-
+cessing efforts with Sloanea fruits and Luehea pods,
+and move to a position where they could observe
+others processing or consuming the same food. In
+most of these situations, individuals had run afoul of
+the food’s defenses (e.g., the stinging hairs covering
+Sloanea fruit, or the swarming ants on an Acacia
+plant), or were making no progress in their efforts
+(e.g., failing to extract any seeds from a Luehea pod).
+Bouts of food interest directed towards individuals
+with vertebrate prey or prize foods such as eggs or
+wasp nests were often followed by begging or
+scrounging attempts, but those directed at individ-
+uals processing Acacia thorns, Sloanea fruits, or
+Luehea pods rarely were.
+Proximity
+Matched dyads of individuals exhibiting the “rub
+and brush” Sloanea processing pattern did not have
+a signiﬁcantly higher mean proximity score than
+unmatched dyads in either group (Table 4). Proxim-
+ity scores for matched dyads of individuals seen to
+use the “pound and catch” Luehea processing pat-
+tern were found to be signiﬁcantly higher than those
+for unmatched dyads in both groups at P /H110210.05,
+though after an appropriate Bonferroni correction,
+these results were not signiﬁcant. The “skilled
+pound” Luehea technique was seen only in the same
+four individuals in the CP group who exhibited the
+“pound and catch” pattern. Thus, proximity scores of
+matched dyads showing that technique were also
+signiﬁcantly higher ( P /H110210.05) than those that did
+not exhibit it, but not after appropriate Bonferroni
+correction. Proximity scores for matched dyads of
+individuals seen to eviscerate caterpillars in the CP
+group were not signiﬁcantly higher than those of
+unmatched dyads.
+Rank
+Matched dyads of individuals seen to use the “rub
+and brush” Sloanea processing technique did not
+differ signiﬁcantly in rank from those that did not
+show the pattern in either group (Table 5). Individ-
+TABLE 3. Observed bouts of food interest by age / sex class 1
+Age/sex class
+(N) Direct FI Receive FI
+Juvenile (5) 24 1
+Subadult (5) 6 9
+Adult female (8) 5 15
+Adult male (7) 1 7
+Total (15) 36 32
+1 FI, food interest.
+TABLE 4. Mann-Whitney U-tests comparing proximity scores of “matched” dyads (between individuals seen to use a specific technique) and “unmatched” dyads
+(between all other dyads)
+Group Food item Technique Dyad type N Mean SD Range U-score z-score
+P-value
+(one-tailed)
+CP Sloanea terniﬂora Rub and brush Matched 10 0.084 0.06 0.022–0.233 182.00 /H110020.938 0.174
+Unmatched 45 0.092 0.046 0.015–0.209
+Luehea candida Pound and catch Matched 6 0.129 0.062 0.066–0.233 85.00 /H110021.674 0.047*
+Unmatched 49 0.086 0.045 0.015–0.209
+Skilled pound Matched 6 0.129 0.062 0.066–0.233 85.00 /H110021.674 0.047*
+Unmatched 49 0.086 0.045 0.015–0.209
+Caterpillars Eviscerate Matched 6 0.119 0.076 0.015–0.233 109.00 /H110021.026 0.153
+Unmatched 49 0.087 0.043 0.015–0.209
+LV Sloanea terniﬂora Rub and brush Matched 66 0.061 0.05 0.000–0.233 767.00 /H110020.516 0.303
+Unmatched 25 0.061 0.039 0.000–0.139
+Luehea candida Pound and catch Matched 28 0.075 0.049 0.000–0.175 663.00 /H110021.884 0.030*
+Unmatched 63 0.055 0.046 0.000–0.233
+* Indicates statistical signiﬁcance in predicted direction with alpha of P /H110210.05, but no statistical signiﬁcance after Bonferroni correction is applied (resulting in alpha of P /H110210.013
+for CP group, and P /H110210.025 for LV group).
+SOCIAL INFLUENCES ON CAPUCHIN FOOD PROCESSING 485
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+uals seen to use the “pound and catch” Luehea pro-
+cessing pattern did have a signiﬁcantly higher rank
+than those that did not use the technique in the CP
+group (even after an appropriate Bonferroni correc-
+tion), but not in the LV group. Individuals in the CP
+group seen to “eviscerate” caterpillars did not differ
+signiﬁcantly in rank from those individuals that did
+not.
+Kinship
+Dyads of individuals exhibiting the “rub and
+brush” Sloanea processing pattern did not have sig-
+niﬁcantly higher r-values (i.e., were not more closely
+related) than unmatched dyads in either the CP or
+LV groups (Table 6). R-values for matched dyads of
+individuals seen to use the “pound and catch” Lu-
+ehea processing pattern were not signiﬁcantly
+higher than those of unmatched dyads in either
+group. R-values for matched dyads of individuals
+seen to eviscerate caterpillars in the CP group were
+not signiﬁcantly higher than those of unmatched
+dyads.
+DISCUSSION
+Food interest
+Research on wild capuchin populations showed
+that intragroup diets and foraging patterns are not
+homogeneous (Fragaszy, 1986; Rose, 1994; Fragaszy
+and Boinski, 1995; Hall, 1995), that groups living in
+similar habitats do not necessarily have similar di-
+ets (Chapman and Fedigan, 1990; Panger et al.,
+2002), and that the acquisition of complex process-
+ing techniques for speciﬁc foods does appear to be
+socially inﬂuenced to some degree (Boinski et al.,
+2000; Panger et al., 2002). Observed patterns of food
+interest across age/sex classes in this study suggest
+that opportunities for social learning in capuchin
+foraging or food-processing contexts occur among
+individuals of all age/sex classes, but are instigated
+signiﬁcantly more frequently by juveniles than older
+individuals. Food interest bouts are directed toward
+adult females and males signiﬁcantly more often
+than other age/sex classes. Adults are likely to be
+better or more skilled models than nonadults. Being
+able to observe which foods are consumed by conspe-
+ciﬁcs would presumably be of particular importance
+to younger animals, who must otherwise rely on
+trial-and-error to learn what can and cannot be
+eaten, a strategy that could have negative conse-
+quences if toxic or unpalatable foods are consumed
+(Janson and van Schaik, 1993). The social learning
+processes involved in the acquisition of dietary
+knowledge may be fairly simple, i.e., social facilita-
+tion (an increased probability of performing a behav-
+ior in the presence of others performing the same
+behavior). Nonetheless, observation of how others
+eat, as well as what they eat, may provide important
+opportunities for social transmission of information.
+The very intent interest shown by juveniles to-
+ward individuals engaged in complex processing be-
+havior (such as with Acacia thorns, Sloanea fruits,
+or Luehea pods) is consistent with observations of
+capuchins in similar contexts, both in captivity (i.e.,
+Anderson, 1990; Adams-Curtis and Fragaszy, 1995)
+and the wild (Boinski et al., 2000). Such focused
+interest may precede an attempt to scrounge food,
+but may also serve to facilitate social learning of
+edible foods or speciﬁc processing techniques. Given
+the lowered foraging efﬁciency of juveniles, their
+greater vulnerability to food scarcity, and their
+greater risk of predation (Janson and van Schaik,
+1993), such intense monitoring of conspeciﬁcs is
+likely to be of some beneﬁt to the observer.
+Studies of capuchins in captivity have usually
+found only weak evidence for social inﬂuences on
+diet and feeding behavior (Visalberghi and Fra-
+gaszy, 1995; Fragaszy et al., 1997; Visalberghi et al.,
+1998; Visalberghi and Addessi, 2000, 2001; but see
+Custance et al., 1999). However, because the conse-
+quences of food choice in a natural setting are quite
+different than those in captivity, study of free-rang-
+ing groups is an important venue for evaluating the
+development of dietary knowledge and food-process-
+ing techniques, despite the inherent challenges of a
+wild setting. Experiments evaluating response to
+novel foods or extractive problems by wild or semi-
+wild capuchins in social settings are needed as a way
+to bolster, or counter, the results of previous studies
+TABLE 5. Mann-Whitney U-tests comparing social rank with processing techniques used by each individual
+Group Food item Technique
+Used
+technique? N Mean SD Range U-score z-score
+P-value
+(two-tailed)
+CP Sloanea terniﬂora Rub and brush Yes 5 4.8 3.194 1–9 9.00 /H110021.095 0.273
+No 6 7.0 3.347 2–11
+Luehea candida Pound and catch Yes 4 2.5 1.291 1–4 0.00 /H110022.646 0.008*
+No 7 8.0 2.16 5–11
+Skilled pound Yes 4 2.5 1.291 1–4 0.00 /H110022.646 0.008*
+No 7 8.0 2.16 5–11
+Caterpillars Eviscerate Yes 4 4.0 4.082 1–10 6.00 /H110021.512 0.131
+No 7 7.14 2.41 4–11
+LV Sloanea terniﬂora Rub and brush Yes 12 7.0 4.068 1–13 6.00 1.095 0.273
+No 2 10.5 4.95 7–14
+Luehea candida Pound and catch Yes 8 6.63 3.503 2–13 17.00 /H110020.904 0.366
+No 6 8.67 5.046 1–14
+* Indicates statistical signiﬁcance after appropriate Bonferroni correction (resulting in alpha of P /H110050.013 for CP group, and 0.025 for
+LV group).
+486 R.C. O’MALLEY AND L.M. FEDIGAN
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+(Ottoni and Mannu, 2001; Garber and Brown, 2002;
+O’Malley, 2002).
+Sloanea terniflora
+Sloanea terniﬂora is a relatively rare tree in Santa
+Rosa, and is generally conﬁned to intermittent
+streambeds, riverine forest, and other wet areas of
+the park (Hartshorn, 1983; Enquist and Sullivan,
+2001). Chapman and Fedigan (1990) found rela-
+tively low densities of mature Sloanea terniﬂora in
+the ranges of the CP group (0.6/ha, or 53.9 cm DBH/
+ha) and the range of what is now the LV group
+(0.0/ha, or 0.0 cm DBH/ha). However, they also
+found Sloanea to be a substantial dietary component
+for both groups. More recent botanical surveys con-
+ﬁrmed that the density of mature Sloanea trees
+remains very low in both ranges (Sorensen, personal
+communication; Aureli, personal communication),
+though the LV group’s range in 2001 did include a
+streambed with several mature Sloanea trees (one of
+which produced a particularly abundant crop during
+the 2001 ﬁeld season). During the 2001 ﬁeld season,
+the LV group spent signiﬁcantly more of their total
+observed foraging time on Sloanea than did the CP
+group (9.9% and 1.5%, respectively). Rates of Sloa-
+nea consumption did not differ signiﬁcantly across
+age/sex classes.
+Chapman and Fedigan (1990) found that the
+availability of Sloanea in the range of their study
+groups did not correspond to time spent feeding on
+Sloanea, and concluded that these ﬁndings reﬂected
+either learned group traditions in diet or differences
+in relative food proﬁtability. None of the social net-
+works examined here had a signiﬁcant relationship
+with the expression of the “rub and brush” process-
+ing technique used for Sloanea fruit. Proximity pat-
+terns, social rank, and relatedness were not signiﬁ-
+cant factors in predicting whether or not an
+individual would exhibit the “rub and brush” pro-
+cessing pattern, which was observed in the majority
+of the LV group and almost half of the CP group. The
+lack of diversity in Sloanea processing patterns may
+reﬂect that there is only one “right” way to process
+Sloanea fruits (i.e., rub), since attempting to use
+other techniques appears to incur a high price from
+the urticating hairs on each fruit (O’Malley and
+Fedigan, in press). Though the “rub and brush” pat-
+tern requires a degree of manual coordination, the
+fruits are small enough to be easily manipulated by
+monkeys of all age/sex classes, and the ﬂailing hand
+motions involved are not likely to be particularly
+challenging. The presence of this processing pattern
+across all age/sex classes and in both groups, with no
+discernible inﬂuence from intragroup social net-
+works, indicates that the acquisition of the “rub and
+brush” processing pattern for Sloanea is likely rela-
+tively rapid for young monkeys, though skill at such
+patterns would increase with practice.
+Opportunities to practice Sloanea processing or to
+observe others doing so were presumably higher in
+the LV group, given that almost 10% of their feed-
+TABLE 6. Mann-Whitney U-tests comparing r-values of “matched” dyads (between individuals seen to use a specific technique) and “unmatched” dyads (b etween all other dyads)
+Group Food Item Technique Dyad type N Mean SD Range U-score z-score
+P-value
+(one-tailed)
+CP Sloanea terniﬂora Rub and brush Matched 10 0.1 0.175 0.000–0.500 138.00 /H110022.027 0.022
+Unmatched 45 0.25 0.213 0.000–0.500
+Luehea candida Pound and catch Matched 6 0.167 0.258 0.000–0.500 121.00 /H110020.749 0.227
+Unmatched 49 0.23 0.209 0.000–0.500
+Skilled pound Matched 6 0.167 0.258 0.000–0.500 121.00 /H110020.749 0.227
+Unmatched 49 0.23 0.209 0.000–0.500
+Caterpillars Eviscerate Matched 6 0.167 0.258 0.000–0.500 121.00 /H110020.749 0.227
+Unmatched 49 0.23 0.209 0.000–0.500
+LV Sloanea terniﬂora Rub and brush Matched 66 0.028 0.109 0.000–0.500 721.50 /H110021.696 0.045
+Unmatched 25 0.08 0.173 0.000–0.500
+Luehea candida Pound and catch Matched 28 0.054 0.157 0.000–0.500 879.50 /H110020.04 0.484
+Unmatched 63 0.038 0.118 0.000–0.500
+SOCIAL INFLUENCES ON CAPUCHIN FOOD PROCESSING 487
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+ing/foraging time was spent on Sloanea, which may
+also explain why the majority of individuals in this
+group exhibited the “rub and brush” pattern
+(Table 2). Though individual preferences as well as
+the physical constraints and dietary strategies of
+different age/sex classes may also underlie the vari-
+ability in Sloanea processing we observed (O’Malley
+and Fedigan, in press), observations of conspeciﬁcs
+engaging in such behavior could still be of beneﬁt to
+an unskilled monkey and serve to channel its efforts
+(Boinski et al., 2000).
+Luehea candida
+Chapman and Fedigan (1990) found that densities
+of mature Luehea candida trees were considerably
+higher in the range of what is now the LV group
+(5.6/ha, or 255.6 cm DBH/ha) than in the range of
+the CP group (0.6/ha, or 34.6 cm DBH/ha). Nonethe-
+less, during the 2001 ﬁeld season, the proportions of
+total foraging time spent on Luehea candida (2.15%
+and 3.54% of total observed foraging times, respec-
+tively) did not differ signiﬁcantly between groups
+(O’Malley and Fedigan, in press). Rates of Luehea
+consumption were much higher among juveniles,
+subadults, and adult females than among adult
+males, though overall differences among age/sex
+classes were not statistically signiﬁcant. These re-
+sults suggest that the density of L. candida trees
+plays a minimal role in variation between groups,
+though developmental factors (such as physical and
+cognitive constraints of younger animals) may well
+inﬂuence how Luehea candida pods are processed
+(for a more detailed discussion of these issues, see
+O’Malley and Fedigan, in press).
+Variation in forms of processing of Luehea can-
+dida appears to be associated to some extent with
+social networks. Individuals using the “pound and
+catch” and “skilled pound” techniques spent more
+time in proximity to one another in both the CP and
+LV groups relative to those that did not use these
+techniques, although these results were not signiﬁ-
+cant after a Bonferroni correction to the alpha level.
+Rank is a signiﬁcant factor in predicting Luehea
+processing patterns within the CP group, with the
+four highest-ranking individuals being the only ones
+to exhibit the “pound and catch” and “skilled pound”
+patterns. Relatedness had no signiﬁcant relation-
+ship with the presence or absence of the “pound and
+catch” variant of Luehea pounding in either group.
+Why might our results suggest that rank and
+proximity patterns are associated with techniques of
+Luehea processing, when such factors do not appear
+to be associated with processing patterns for Sloa-
+nea fruit? A major variable in Luehea processing,
+and one that could not be quantitatively examined
+in this study, was the stage of maturity of the pods
+processed. Fruits of different Luehea trees do not
+mature synchronously, and even pods on the same
+tree often dehisce several weeks apart (O’Malley,
+personal observations). Seeds can be extracted from
+a Luehea pod that has only just begun to open, but
+this is far more difﬁcult than extraction from more
+mature pods. Adult and subadult capuchins seemed
+to target pods that were more fully dehisced, often
+inspecting several pods in sequence, both visually
+and with their ﬁngers and tongue, before abandon-
+ing it, attempting to extract seeds, or detaching it
+from the tree for processing. Juveniles appeared far
+less discriminating. The alpha male of the CP group
+was also observed to actively supplant another indi-
+vidual from an apparently “choice” pod, though
+many other pods were available. Because mature
+pods are easier to process, focusing on such pods in
+preference to others is probably the more energeti-
+cally efﬁcient strategy, even if such pods have fewer
+seeds, and so higher-ranking individuals might be
+expected to supplant subordinates from such pods
+regularly.
+Both the “pound and catch” processing pattern
+seen in both groups, and the “skilled pound” pattern
+seen in the CP group, may simply be a reﬂection of
+high-ranking animals’ ability to target more mature
+Luehea fruits. More mature pods likely require less
+force to dislodge seeds, and rarely require monkeys
+to pause in their pounding activity to pull out seeds
+with their tongue and ﬁngers, perhaps resulting in
+the more rapid and efﬁcient “skilled pound” pattern.
+Mature pods also allow those monkeys capable of
+manipulating the pod in one hand (i.e., adults and
+subadults) to free up their other hand for catching
+seeds instead of for postural support, leading to the
+“pound and catch” pattern. Dominant capuchins
+readily supplant subordinates from valued food
+items (Hall and Fedigan, 1997; Di Bitetti and Jan-
+son, 2001; O’Malley, personal observations); fully
+dehisced Luehea pods may be such a prize. However,
+this does not mean that the “pound and catch” tech-
+nique is not socially transmitted. The presence of
+higher-ranking individuals was shown to suppress
+the expression of socially learned behavior in low-
+ranking macaques, even when it can be shown that
+such individuals have learned the behavior in ques-
+tion (Drea and Wallen, 1999). A low-ranking animal
+may know how to use the “pound and catch” process-
+ing technique for fully dehisced pods, but may have
+few opportunities to use it if higher-ranking individ-
+uals monopolize such pods.
+Our ﬁndings on Luehea processing support the
+work of Panger et al. (2002), who also found that
+processing patterns within a social group correlated
+with patterns of association. However, given that
+social rank may also play a role in determining
+whether certain processing patterns are expressed,
+a degree of caution is warranted in interpreting
+patterns of food processing that may reﬂect social
+constraints as well as, or instead of, social traditions.
+Caterpillars
+None of the social networks we examined had a
+signiﬁcant relationship with the presence of the cat-
+erpillar “eviscerate” pattern among members of the
+CP group. The most parsimonious explanation of
+488 R.C. O’MALLEY AND L.M. FEDIGAN
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+this ﬁnding is that personal experience, presumably
+greater among older animals, drives the develop-
+ment of this qualitatively more skilled technique.
+A major problem in evaluating patterns of large
+caterpillar processing is that this type of prey may
+comprise dozens of different species, which in turn
+forage on a variety of different plants of varying
+toxicity or palatability to the monkeys. The charac-
+teristics of the semidigested plant material within a
+single caterpillar is likely a major factor in predict-
+ing the degree of care and thoroughness a monkey
+will exhibit in removing its gut contents, as are the
+presence of urticating hairs, spines, or other de-
+fenses. Because it was impossible to consistently
+identify what species of caterpillar was being con-
+sumed, any interpretation of the techniques used to
+process them must be circumspect.
+Capuchins are not the only Cebine species to show
+a high degree of manipulative skill in processing
+caterpillars or other invertebrates (Janson and
+Boinski, 1992). Boinski and Fragaszy (1989) col-
+lected data on the ontogeny of foraging behavior
+among squirrel monkeys ( Saimiri oerstedii). Despite
+the relative complexity of the processing techniques
+they observed, analyses of proximity data found that
+infants spent little time monitoring more experi-
+enced foragers in close proximity, but they did so
+more overtly than older animals. Although they pro-
+vided some anecdotal evidence that young squirrel
+monkeys may learn which caterpillar species to
+avoid (e.g., because of poisonous spines) through
+observation of conspeciﬁcs, the researchers con-
+cluded that juveniles do not learn speciﬁc motor acts
+or specialized handling techniques through observ-
+ing others. Such techniques appear to be acquired
+largely through individual experience, with little or
+no social inﬂuence. The present research found no
+evidence to suggest that the development of cater-
+pillar-processing techniques in C. capucinus is any
+different from that reported for S. oerstedii . Like
+their squirrel monkey counterparts, however, young
+capuchins may learn which poisonous or stinging
+caterpillars to avoid based on observing the intense
+vocalizations and threats directed by conspeciﬁcs at
+such potential hazards (O’Malley, personal observa-
+tions).
+Evidence for social traditions?
+The evidence for social traditions in food process-
+ing we have presented here is promising, but incon-
+clusive. The use of speciﬁc food-processing tech-
+niques that we identiﬁed for Sloanea and
+caterpillars varied independently of the social net-
+works we examined. However, processing patterns
+for one food item ( Luehea) appeared to be associated
+with two of the three social networks examined. The
+ﬁnding that individuals in both groups who spend
+more time in proximity are also more likely to use
+the same complex techniques suggests some degree
+of social inﬂuence on the acquisition and mainte-
+nance of these techniques, as concluded by Panger et
+al. (2002) in similar analyses. Though variability in
+food-processing behavior among wild capuchins may
+indeed reﬂect social traditions, the ﬁnding that so-
+cial rank also plays a role could indicate that the use
+of these patterns reﬂects opportunity for expression
+rather than knowledge. Future research exploring
+patterns of intragroup variability in processing pat-
+terns for speciﬁc foods should attempt to account for
+the inﬂuence of rank as well as patterns of associa-
+tion.
+The most robust “cultural” patterns of variation in
+food-processing behavior among chimpanzee popu-
+lations often involve distinctive forms of tool use,
+such as cracking nuts with stone hammers and an-
+vils, that are observed at some sites but not at others
+(Whiten et al., 1999). Other patterns are of a more
+subtle nature, e.g., population-level differences in
+tool materials and techniques used to dip for driver
+ants (McGrew, 1974; Boesch and Boesch, 1990) or to
+dig for and capture termites or ants in nests (Sug-
+iyama, 1993, 1997). Through long-term study of ha-
+bituated chimpanzees in a number of different re-
+search sites, it has been possible to identify patterns
+of variability across individuals, age/sex classes,
+groups, and populations, and to evaluate the ecolog-
+ical, developmental, cognitive, or social factors that
+may underlie such variation (McGrew, 1992; Boesch
+and Boesch, 1993; Sugiyama, 1993; van Schaik et
+al., 1999). It has also been possible to conduct more
+focused analyses, e.g., to compare efﬁciency of dif-
+ferent foraging or food-processing patterns for spe-
+ciﬁc foods within and across sites (McGrew, 1974;
+Boesch and Boesch, 1990; McGrew and Marchant,
+1999), and to consider the potential beneﬁts and
+consequences for individuals who adopt, or fail to
+adopt, more efﬁcient or effective techniques.
+We have described complex processing techniques
+for three speciﬁc food items (each requiring a high
+degree of manipulative skill) for a wild population of
+Cebus capucinus. Having identiﬁed such patterns, it
+will be possible to develop more focused research
+questions in order to evaluate their signiﬁcance. For
+example, is the “pound and catch” pattern in Luehea
+processing more efﬁcient than a one-handed pattern
+(in terms of rate of seed intake, or time required to
+extract all the seeds from a given pod)? Does efﬁ-
+ciency increase with practice? Is it a technique uni-
+versal to all capuchin groups in Santa Rosa? Do
+other populations in Costa Rica that were observed
+to “pound” Luehea pods employ similar techniques?
+Are there other levels of variation (such as hand
+grip, or maturity of the pods targeted) present
+within or across sites? Preliminary studies on forag-
+ing variability in wild Cebus (Boinski et al., 2000;
+Panger et al., 2002), including the research pre-
+sented here, suggest that these and other questions
+are worthy of further study.
+ACKNOWLEDGMENTS
+We are grateful to the National Park Service of
+Costa Rica and the staff of Area de Conservacio ´n
+SOCIAL INFLUENCES ON CAPUCHIN FOOD PROCESSING 489
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 10
+Guanacaste (Santa Rosa Sector) for allowing us to
+conduct this research project under their supervi-
+sion. In particular, we thank Roger Blanco Segura
+for his able assistance and advice. We also thank K.
+Jack and S. Carnegie for their help in the ﬁeld, as
+well as J. Addicott and C. Cassidy-St. Clair for sta-
+tistical assistance, and two anonymous reviewers for
+their insightful comments and questions.
+LITERATURE CITED
+Adams-Curtis L, Fragaszy DM. 1995. Inﬂuence of a skilled model
+on the behavior of conspeciﬁc observers in tufted capuchin
+monkeys ( Cebus apella ). Am J Primatol 37:65–71.
+Anderson JR. 1990. Use of objects as hammers to open nuts by
+capuchin monkeys ( Cebus apella ). Folia Primatol (Basel) 54:
+138 –145.
+Baker M. 1996. Fur rubbing: use of medicinal plants by capuchin
+monkeys ( Cebus capucinus ). Am J Primatol 38:263–270.
+Boesch C. 1991. Teaching among wild chimpanzees. Anim Behav
+41:830 – 832.
+Boesch C. 1995. Innovation in wild chimpanzees. Int J Primatol
+16:1–16.
+Boesch C. 1996. The emergence of cultures among wild chimpan-
+zees. Proc Br Acad 88:251–268.
+Boesch C, Boesch H. 1990. Tool use and tool making in wild
+chimpanzees. Folia Primatol (Basel) 54:86 –99.
+Boesch C, Boesch H. 1993. Diversity of tool use and tool-making
+in wild chimpanzees. In: Berthelet A, Chavaillon J, editors. The
+use of tools by human and non-human primates. Oxford: Ox-
+ford University Press. p 158 –168.
+Boesch C, Tomasello M. 1998. Chimpanzee and human cultures.
+Curr Anthropol 39:591– 604.
+Boesch C, Marchesi P, Marchesi N, Fruth B, Joulian F. 1994. Is
+nut cracking in wild chimpanzees a cultural behavior? J Hum
+Evol 26:325–338.
+Boinski S, Fragaszy D. 1989. The ontogeny of foraging in squirrel
+monkeys, Saimiri oerstedii . Anim Behav 37:415– 428.
+Boinski S, Quatrone R, Swarts H. 2000. Substrate and tool use by
+brown capuchins in Suriname: ecological contexts and cognitive
+bases. Am Anthropol 102:741–761.
+Cabin RJ, Mitchell RJ. 2000. To Bonferroni or not to Bonferroni:
+when and how are the questions. Bull Ecol Soc Am Jul 81:246 –
+248.
+Chandler CR. 1995. Practical considerations in the use of simul-
+taneous inference for multiple tests. Anim Behav 49:524 –527.
+Chapman CA, Fedigan LM. 1990. Dietary differences between
+neighboring Cebus capucinus groups: local traditions, food
+availability or responses to food proﬁtability? Folia Primatol
+(Basel) 54:177–186.
+Custance D, Whiten A, Fredman A. 1999. Social learning of an
+artiﬁcial fruit task in capuchin monkeys ( Cebus apella). J Comp
+Psychol 113:13–23.
+Di Bitetti MS, Janson CH. 2001. Social foraging and the ﬁnder’s
+share in capuchin monkeys, Cebus apella . Anim Behav 62:47–
+56.
+Drea CM, Wallen K. 1999. Low-status monkeys “play dumb”
+when learning in mixed social groups. Proc Natl Acad Sci USA
+96:12965–12969.
+Enquist BJ, Sullivan JJ. 2001. Vegetative key and descriptions of
+tree species of the tropical dry forests of upland Sector Santa
+Rosa, Area de Conservacion Guanacaste, Costa Rica. http://
+eeb37.biosci.arizona.edu//H11011brian/Enquist_Sullivan.pdf.
+Fedigan LM. 1990. Vertebrate predation in Cebus capucinus :
+meat eating in a neotropical monkey. Folia Primatol (Basel)
+54:196 –206.
+Fragaszy DM. 1986. Time budgets and foraging behavior in
+wedge-capped capuchins ( Cebus olivaceus ): age and sex differ-
+ences. In: Taub DM, King FA, editors. Current perspectives in
+primate social dynamics. New York: Van Nostrand Reinhold
+Co. p 159 –174.
+Fragaszy DM. 1990. Early behavioral development in capuchins
+(Cebus). Folia Primatol (Basel) 54:119 –128.
+Fragaszy DM, Boinski S. 1995. Patterns of individual diet choice
+and efﬁciency of foraging in wedge-capped capuchin monkeys
+(Cebus olivaceus ). J Comp Psychol 109:339 –348.
+Fragaszy DM, Perry S. 2003. Towards a biology of traditions. In:
+Fragaszy DM, Perry S, editors. The biology of traditions: mod-
+els and evidence. Cambridge: Cambridge University Press. p
+1–32.
+Fragaszy DM, Baer J, Adams-Curtis L. 1991. Behavioral devel-
+opment and maternal care in tufted capuchins ( Cebus apella )
+and squirrel monkeys ( Saimiri sciureus ) from birth through
+seven months. Dev Psychobiol 24:375–393.
+Fragaszy D, Visalberghi E, Galloway A. 1997. Infant tufted ca-
+puchin monkeys’ behavior with novel foods: opportunism, not
+selectivity. Anim Behav 53:1337–1343.
+Fragaszy DM, Visalberghi E, Fedigan LM. 2004. The complete
+capuchin. Biology of the genus Cebus. Cambridge: Cambridge
+University Press.
+Garber PA, Brown E. 2002. Experimental ﬁeld study of tool use in
+wild capuchins ( Cebus capucinus ): learning by association or
+insight? Am J Phys Anthropol [Suppl] 34:74 –75.
+Goodall J. 1986. The chimpanzees of Gombe: patterns of behavior.
+Cambridge, MA: Harvard University Press.
+Hall CL. 1995. Dominance and foraging in white-faced capuchins.
+M.A. thesis. University of Alberta, Edmonton.
+Hall CL, Fedigan LM. 1997. Spatial beneﬁts afforded by high
+rank in white-faced capuchins. Anim Behav 54:1069 –1082.
+Hartshorn GS. 1983. Plants. Introduction. In: Janzen DH, editor.
+Costa Rican natural history. Chicago: University of Chicago
+Press. p 118 –157.
+Huffman MA, Wrangham RW. 1994. Diversity of medicinal plant
+use by chimpanzees in the wild. In: Wrangham RW, McGrew
+WC, de Waal FBM, Heltne PG, editors. Chimpanzee cultures.
+Cambridge, MA: Harvard University Press. p 129 –148.
+Huffman MA, Gotoh S, Turner LA, Hamai M, Yoshida K. 1997.
+Seasonal trends in intestinal nematode infection and medicinal
+plant use among chimpanzees in the Mahale Mountains, Tan-
+zania. Primates 38:111–125.
+Inoue-Nakamura N, Matsuzawa T. 2001. Development of stone
+tool use by wild chimpanzees ( Pan troglodytes). J Comp Psychol
+111:159 –173.
+Jack KM, Fedigan LM. 2003. Male dominance and reproductive
+success in white-faced capuchins ( Cebus capucinus). Am J Phys
+Anthropol [Suppl] 36:121–122.
+Janson CH. 1990a. Social correlates of individual spatial choice in
+foraging groups of brown capuchin monkeys, Cebus apella .
+Anim Behav 40:910 –921.
+Janson CH. 1990b. Ecological consequences of individual spatial
+choice in foraging groups of brown capuchin monkeys, Cebus
+apella. Anim Behav 40:922–934.
+Janson CH, Boinski S. 1992. Morphological and behavioral adap-
+tations for foraging in generalist primates: the case of the
+Cebines. Am J Phys Anthropol 88:483– 498.
+Janson CH, van Schaik CP. 1993. Ecological risk aversion in
+juvenile primates: slow and steady wins the race. In: Pereira
+ME, Fairbanks LA, editors. Juvenile primates. New York: Ox-
+ford University Press. p 57–73.
+Krebs JR, Davies NB. 1993. An introduction to behavioural ecol-
+ogy (third edition). Oxford: Blackwell Science, Ltd. p 266 –267.
+MacKinnon KC. 1995. Age differences in foraging patterns and
+spatial associations of the white-faced capuchin monkey ( Cebus
+capucinus) in Costa Rica. M.A. thesis. University of Alberta,
+Edmonton.
+Matsuzawa T. 1994. Field experiments on use of stone tools by
+chimpanzees in the wild. In: Wrangham, RW, McGrew WC, de
+Waal FBM, Heltne PG, editors. Chimpanzee cultures. Cam-
+bridge, MA: Harvard University Press. p 351–370.
+McGrew WC. 1974. Tool use by wild chimpanzees in feeding upon
+driver ants. J Hum Evol 3:501–508.
+McGrew WC. 1992. Chimpanzee material culture: implications
+for human evolution. Cambridge: Cambridge University Press.
+McGrew WC. 1998. Culture in nonhuman primates? Annu Rev
+Anthropol 27:301–328.
+490 R.C. O’MALLEY AND L.M. FEDIGAN
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 11
+McGrew WC, Marchant LF. 1999. Laterality of hand use pays off
+in foraging success for wild chimpanzees. Primates 40:509 –
+513.
+McGrew WC, Tutin CEG. 1978. Evidence for a social custom in
+wild chimpanzees. Man 13:235–251.
+Nakamura M, McGrew WC, Marchant LF, Nishida T. 2000. So-
+cial scratch: another custom in wild chimpanzees? Primates
+41:237–248.
+Nishida T. 1980. The leaf-clipping display: a newly discovered
+expressive gesture in wild chimpanzees. J Hum Evol 9:117–
+128.
+O’Malley R. 2002. Variability in foraging and food processing
+techniques among white-faced capuchins ( Cebus capucinus )i n
+Santa Rosa National Park, Costa Rica. M.A. thesis. University
+of Alberta, Edmonton.
+O’Malley R, Fedigan LM. In press. Variability in food processing
+behavior among white-faced capuchins ( Cebus capucinus )i n
+Santa Rosa National Park, Costa Rica. Am J Phys Anthropol.
+Ottoni EB, Mannu M. 2001. Semifree-ranging tufted capuchins
+(Cebus apella) spontaneously use tools to crack open nuts. Int J
+Primatol 22:347–358.
+Panger MA. 1998. Object-use in free-ranging white-faced capu-
+chins ( Cebus capucinus ) in Costa Rica. Am J Phys Anthropol
+106:311–321.
+Panger MA, Perry S, Rose L, Gros-Louis J, Vogel E, MacKinnon
+K, Baker M. 2002. Cross-site differences in foraging behavior of
+white-faced capuchins (Cebus capucinus). Am J Phys Anthropol
+119:52– 66.
+Perry S, Baker M, Fedigan L, Gros-Louis J, Jack K, MacKinnon
+KC, Manson JH, Panger M, Pyle K, Rose L. 2003. Social con-
+ventions in wild capuchin monkeys: evidence for behavioral
+traditions in a neotropical primate. Curr Anthropol 44:241–
+268.
+Rose LM. 1994. Sex differences in diet and foraging behavior in
+white-faced capuchins (Cebus capucinus). Int J Primatol 15:95–
+114.
+Rose LM. 1997. Vertebrate predation and food-sharing in Cebus
+and Pan. Int J Primatol 18:727–765.
+Sugiyama Y. 1981. Observations on the population dynamics and
+behavior of wild chimpanzees at Bossou, Guinea, 1979 –1980.
+Primates 22:435– 444.
+Sugiyama Y. 1985. The brush-stick of chimpanzees found in
+southwest Cameroon and their cultural characteristics. Pri-
+mates 26:361–374.
+Sugiyama Y. 1993. Local variations of tools and tool use among
+wild chimpanzee populations. In: Berthelet A, Chavallion J,
+editors. The use of tools by humans and non-human primates.
+Oxford: Clarendon Press. p 175–187.
+Sugiyama Y. 1997. Social tradition and use of tool-composites by
+wild chimpanzees. Evol Anthropol 6:23–27.
+Valderrama X, Robinson JG, Attygalle AB, Eisner T. 2000. Sea-
+sonal anointment with millipedes in a wild primate: a chemical
+defense against insects? J Chem Ecol 26:2781–2791.
+van Schaik CP, Deaner RO, Merrill MY. 1999. The conditions for
+tool use in primates: implications for the evolution of material
+culture. J Hum Evol 36:719 –741.
+van Schaik CP, Ancrenaz M, Borgen G, Galdikas B, Knott CD,
+Singleton I, Suzuki A, Utami SS, Merrill MY. 2003. Orangutan
+cultures and the evolution of material culture. Science 299:
+102–105.
+Visalberghi E. 1997. Success and understanding in cognitive
+tasks: a comparison between Cebus apella and Pan troglodytes.
+Int J Primatol 18:811– 830.
+Visalberghi E, Addessi E. 2000. Seeing group members eating a
+familiar food enhances the acceptance of novel foods in capu-
+chin monkeys. Anim Behav 60:69 –76.
+Visalberghi E, Addessi E. 2001. Acceptance of novel foods in
+capuchin monkeys: do speciﬁc social facilitation and visual
+stimulus enhancement play a role? Anim Behav 62:567–576.
+Visalberghi E, Fragaszy D. 1995. The behavior of capuchin mon-
+keys ( Cebus apella ) with food: the role of social context. Anim
+Behav 49:1089 –1095.
+Visalberghi E, Valente M, Fragaszy D. 1998. Social context and
+consumption of unfamiliar foods by capuchin monkeys over
+repeated encounters. Am J Primatol 45:367–380.
+Watanabe K. 1994. Precultural behavior of Japanese macaques:
+longitudinal studies of the Koshima troops. In: Gardner RA,
+Gardner BT, Chiarelli B, Plooij FX, editors. The ethological
+roots of culture. Dordrecht: Kluwer Press. p 81–94.
+Welker C, Hohmann H, Schafer-Witt C. 1990. Signiﬁcance of kin
+relations and individual preferences in the social behavior of
+Cebus apella . Folia Primatol (Basel) 54:166 –170.
+Whiten A, Ham R. 1992. On the nature and evolution of imitation
+in the animal kingdom: reappraisal of a century of research.
+Adv Stud Behav 21:239 –283.
+Whiten A, Goodall J, McGrew WC, Nishida T, Reynolds V, Sug-
+iyama Y, Tutin CEG, Wrangham RW, Boesch C. 1999. Cultures
+in chimpanzees. Nature 399:682– 685.
+SOCIAL INFLUENCES ON CAPUCHIN FOOD PROCESSING 491
+ 10968644, 2005, 4, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ajpa.20095 by Universitaet Konstanz Kommunikations-, Informations-, Wiley Online Library on [21/08/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

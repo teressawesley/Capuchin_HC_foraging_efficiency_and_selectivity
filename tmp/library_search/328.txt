@@ -1,0 +1,806 @@
+PDF PAGE 1
+Current Biology 20, R1032–R1039, December 7, 2010 ª2010 Elsevier Ltd All rights reserved DOI 10.1016/j.cub.2010.09.042
+MinireviewAnimal Tool-Use
+Amanda Seed and Richard Byrne
+The sight of an animal making and using a tool captivates
+scientists and laymen alike, perhaps because it forces us
+to question some of our ideas about human uniqueness.
+Does the animal know how the tool works? Did it anticipate
+the need for the tool and make it in advance? To some, this
+fascination with tools seems arbitrary and anthropocen-
+tric; after all, animals engage in many other complex activ-
+ities, like nest building, and we know that complex behav-
+iour need not be cognitively demanding. But tool-using
+behaviour can also provide a powerful window into the
+minds of living animals, and help us to learn what capac-
+ities we share with them — and what might have changed
+to allow for the incontrovertibly unique levels of tech-
+nology shown by modern humans.
+The notion of ‘man the tool maker’, that we alone in the
+animal kingdom manufacture and use tools, has long been
+known to be false. The ﬁrst blow was struck by chimpan-
+zees, which Jane Goodall famously described fashioning
+tools to ﬁsh for termites [1]. Since then the ﬂood-gates
+have opened. Chimpanzee technology has received the
+most attention and is wide-ranging: for example, they use
+stone tools to crack open hard nuts, strong sticks to dig in
+the ground for tubers and underground bee hives, and
+sharpened sticks to spear bush babies sleeping in tree holes
+(for a recent overview see [2]). Perhaps unsurprisingly
+primates stand out among mammals as the most frequent
+tool-users. Like chimpanzees, capuchin monkeys use
+stones both for nut cracking and digging [3]. Tools can
+extend the reach of the senses as well as the grasp: gorillas,
+when wading through water, use stick tools to test its depth.
+Acts of communication can also be enhanced by tools:
+orangutans use a handful of leaves to deepen the pitch of
+one of their calls. Tools can be protective: a chimpanzee
+may use a stick to investigate a ﬁre ( Figure 1 ), and orangu-
+tans use small sticks to rid Neesia fruits of their irritant hairs
+when extracting the seeds inside. And protection can also
+be important when catching prey, as when chimpanzees
+dip with long sticks for ferocious driver ants marching along
+the forest ﬂoor. Dolphins in Shark Bay carry sponges over
+their rostrums when foraging on the ocean ﬂoor, perhaps
+for a similar reason ( Figure 2 ) [4].
+Such remarkable behaviour is not the sole preserve of
+primates or even mammals: some of the most impressive
+non-human tools are made by New Caledonian crows, a
+member of the Corvidea, a large-brained family of birds.
+New Caledonian crows extract grubs from tree holes using
+two distinct kinds of tool [5]. One variety is cut from the
+leaves of Pandanus (Figure 3 ). The other variety is made
+from twigs by removing all side branches from the central
+stem except one at the distal end, which is instead cut
+near the base and then sharpened to form a hook.
+Deﬁning Tool-Use
+A case of tool-use seems intuitively easy to identify, but
+a suitably precise deﬁnition has actually proved hard to pin
+down because of the problem of borderline cases. For
+instance, a widely-used deﬁnition is the use of an object
+‘‘to alter . the form, position, or condition of another object,
+another organism, or the user itself when the user holds
+or carries the tool during or just prior to use’’ [6]. Several
+species (chimpanzees, capuchin monkeys and elephants)
+use branches or leaves to rid themselves of ﬂies or parasites;
+but some chimpanzees use a vine for this purpose. The vine
+is not a detached object and would not ‘count’ as a tool, but
+is there a meaningful difference? Yet if we admit the vine,
+then perhaps the use of a scratching post by a cow or horse
+should count, and tool-use starts to bleed into any behaviour
+involving the external environment (for example, climbing
+a tree or building a nest). Water is another slippery case, as
+revealed by a problem-solving task given to orangutans
+and later to rooks. In both studies, a food reward was placed
+at the bottom of a transparent tube, out of reach of the
+subject, ﬂoating in a small volume of water [7]. Orangutans
+brought the food within reach by spitting more water into
+the tube, while rooks added stones, raising the level of the
+water until they could reach the reward with their beaks [8].
+Were
+the rooks displaying tool use but the orangutans not?
+Archer ﬁsh, which spit jets of water to dislodge insects
+from the vegetation above them, are not usually considered
+tool-users. Nor are birds, such as seagulls and ravens, that
+drop encased food (shellﬁsh, nuts, eggs or bones) from
+a height onto a hard surface to crack them open; but is this
+really different from capuchin monkeys or chimpanzees
+throwing sticks and stones, or using stones to smash open
+nuts [9]?
+Despite the seemingly arbitrary nature of the distinction,
+using a tool as an extension of the body may have particular
+consequences for psychological processes such as percep-
+tion, attention and cognition, because the periphery of
+the body is thereby changed in mechanical and sensory
+capabilities. Recent research suggests that, in humans and
+monkeys, this extended motor capability is followed by
+changes in speciﬁc neural networks that hold an updated
+map of body shape and posture [10]. As such, the classic
+deﬁnition retains its usefulness. Some borderline cases,
+such as sea otters smashing shellﬁsh on a hard surface, are
+sometimes referred to as ‘proto-tool-use’: this identiﬁes
+potentially interesting behaviour in which an outcome is
+achieved via a secondary object or substance, albeit not
+something deﬁned as a tool. (And the usefulness of this
+distinction is reinforced by ﬁnding that, among birds, ‘true’
+tool-users have larger brains relative to their bodies than
+proto-tool-users [9].) For the comparative psychologist, the
+semantics of which behaviour should ‘count’ seems less
+important than ﬁnding candidate cases of an animal solving
+a problem for which evolution has not provided a rigid
+morphological or behavioural adaptation: a context in which
+general cognitive abilities, like learning and reasoning, may
+be recruited.
+Tools and Cognition
+Human tool-making is characterized by an understanding of
+the physics of our bodies and surrounding objects, and an
+Scottish Primate Research Group, and Centre for Social Learning and
+Cognitive Evolution, School of Psychology, University of St Andrews,
+Fife KY16 9JP, Scotland, UK.
+E-mail: rwb@st-andrews.ac.uk
+
+PDF PAGE 2
+ability to plan a complex sequence of actions to achieve
+a distal goal. Tool-use can result from far simpler mecha-
+nisms, such as inborn dispositions and trial and error
+learning [11]: but can all animal tool-use be explained in
+that way? Or do we see the evolutionary roots of human
+cognition in animal tool use?
+Causality
+We can recognize an animal’s target outcome: when it
+pursues that outcome directly, and ceases to act when it
+has been achieved. But does that mean that the animal has
+an internal representation of the goal ‘in mind’, and knows
+that its actions will cause it to follow? The difﬁculty is
+captured by two examples. Baboons throw rocks at preda-
+tors, with the result that the predator is deterred. Do baboons
+recognize that being pelted with stones would cause the
+predator to ﬂee, and throw them with that intention? With
+a primate, the tendency is to assume that the answer is
+yes, based on their large brains and their close relationship
+to humans. But what about the ant-lion larva, which ﬂicks
+grains of sand at prey on the edge of its trap, causing them
+to fall in? Our intuition is that this behaviour, despite its
+surface similarities, has a different underlying cognitive
+mechanism: but does it? An isolated observation of tool-
+using behaviour cannot tell us much about the animals’
+appreciation of the underlying causality.
+A case for goal-directedness has been made for laboratory
+rats by training a pair of instrumental actions, such as chain-
+pulling for one food type and lever-pressing for another.
+When one food was devalued, for example by pre-feeding
+it to the rats, they homed in on the action that produced
+the other food: their action was therefore not triggered
+simply by force of habit, but by the context in which they
+were previously rewarded. Similarly, if the food linked to
+one action began to appear just as often when the rat per-
+formed the action as when it did not, the rats gave up that
+action but continued to perform the other; but if the delivery
+of ‘free’, non-contingent food was preceded by a signal, both
+actions continued to be performed. The rats’ actions satisfy
+the criteria for goal-directedness: sensitivity to the incentive
+value of the rewards on offer and the causal relationship
+between their actions and their speciﬁc outcomes [12].
+In other words, rats represent what they want and what
+they have to do to get it.
+If the behaviour of the ant-lion larva is hard-wired or
+habitual rather than goal-directed, we would expect the larva
+to behave differently to the rats: it might continue ﬂicking
+sand at insects appearing at the edge of its trap even if
+they had become inedible, or if the contingency between
+ﬂicking sand and insects falling was disrupted. That would
+suggest that tool-use in this species is inﬂexible and non-
+selective; unfortunately, these sorts of experimental manipu-
+lations are difﬁcult to carry out in natural settings and have
+seldom been done. The tool-use of chimpanzees, capuchin
+monkeys and New Caledonian crows, at least, displays the
+hallmarks of goal directedness: selectivity, choosing or
+tailoring the tool to suit the speciﬁc goal at hand, and ﬂexi-
+bility, such as using several means to achieve the same
+end [13,14]. But there is an inborn component to the tool-
+using behaviour of even these accomplished and relatively
+large-brained tool-users. They begin manipulating tool
+objects (sticks or stones) from a young age, even in the
+absence of a goal object [15,16]; and, despite the impressive
+ability of New Caledonian crows to use up to three tools in
+sequence in laboratory experiments (using smaller tools to
+gain tools long enough to reach a reward), they will some-
+times use small tools to ﬁsh for longer ones when there is
+no ultimate food reward present [17]. Goal-directedness is
+not a simple all-or-nothing issue.
+Physical Reasoning
+A special case of causal reasoning concerns the physical
+process by which a tool effects its outcome. Even a goal-
+directed tool-user might know that her action caused an
+outcome, without knowing how or why it worked; in fact
+this is how the less technologically-minded among us use
+sophisticated tools like laser pointers or microphones. But
+humans are also capable of physical reasoning, for example
+unbending a coat-hanger to ﬁsh for keys that have fallen out-
+of-reach: fashioning a tool with the right physical properties
+to solve a problem. Betty the New Caledonian crow showed
+the same creative modiﬁcation in the laboratory, bending
+(and unbending) wire to make a suitable hook or probing
+tool [18]. Selective tool modiﬁcation is also seen in primates
+(Figure 4 ): Gombe chimpanzees, for instance, famously
+convert a leafy vine into a thin, ﬂexible probe-tool for
+Figure 1. A chimpanzee uses a stem to poke a small ﬁre.
+Lit by a person, a small grass ﬁre interests but frightens a rehabilitant
+chimpanzee, whose ﬁrst reaction is to use a tool for investigation.
+(Photo: Richard Byrne.)
+Minireview
+R1033
+
+PDF PAGE 3
+termite-ﬁshing, but make a stiffer rod for ant-dipping [1].
+Behaviour like this raises the intriguing possibility that the
+animals represent the physical properties and forces
+involved in the tool-using event in an abstract, conceptual
+way: in terms of properties such as rigidity, continuity, and
+connectedness. The simpler alternative is that the animals’
+thinking is grounded in perceptual features of the objects
+(their shape, feel, or spatial orientation). Psychological
+experiments have often capitalized on tool-using (or proto-
+tool-using) behaviour to try to tease these alternative expla-
+nations apart.
+For many years, laboratory studies gave results support-
+ing the simpler explanation. Even chimpanzees seemed to
+be using perceptually-based information rather than an
+abstract notion of object properties [19]; for example, in
+the ‘trap-tube’ task, in which the subject needs to push
+a piece of food out of a horizontal tube away from a trap,
+the one chimpanzee that learned to do so continued to use
+this strategy even when the tube was inverted and the trap
+was non-functional. A capuchin monkey that solved the
+trap-tube task did likewise [20], as did a New Caledonian
+crow [21]. It seemed that even these successful individuals
+had avoided the trap as a perceptual feature but had not en-
+coded its functional signiﬁcance. Similarly, although chim-
+panzees would choose a complete tool over a broken one
+when the break in the wrong tool was clearly visible, they
+chose indiscriminately if the ends of the broken tool were
+aligned in front of them [19]. New Caledonian crows, required
+to make a tool to ﬁsh for food in transparent wells, ﬁrst made
+a tool of intermediate length and only made a longer one if
+the ﬁrst one was too short [22]. When presented with a tool
+made from barbed Pandanus leaves, positioned in the baited
+hole but with barbs pointing in the wrong direction, these
+crows ﬁrst attempted to use the tool, and then either aban-
+doned it or only switched it around after several unsuccess-
+ful attempts, even over repeated trials. In the wild, it seems
+that their successful use of the barbed leaves comes from
+the procedure by which they rip the tool from the leaf and
+insert it into the hole [23]. Yet when the same experiment
+was run with hooked stick-tools, most of the same crows
+Figure 2. A dolphin ‘sponging’.
+It is thought that dolphins at Shark Bay,
+Australia, have developed a tradition of using
+sponges to protect their sensitive rostrums
+when foraging on abrasive parts of the sea
+ﬂoor. (Photo: Michael Kruetzen.)
+immediately repositioned the tools
+before attempting to use them: the
+picture is not straightforward.
+The fact is that the use of simple
+heuristic procedures does not preclude
+the capacity for more sophisticated
+strategies. Quick and simple strategies
+offer evolutionary advantages for
+animals in a harsh and competitive
+natural environment. Humans can also
+use ‘fast and frugal’ heuristics to solve
+problems, rather than slow and effortful
+reasoning processes, and indeed this
+approach is often more efﬁcient [24]:
+how many of us have tried a key
+without bothering to check ﬁrst which way up it needed to
+be used? Perhaps the most powerful illustration of the
+danger of reliance on negative results comes from a study
+in which adult humans were given the trap problem: just
+like the tool-using animals, most continued to avoid the in-
+verted trap [25]! And indeed, it does no harm to do so.
+Although humans would no doubt use more sophisticated
+strategies in many of the other situations in which animals
+‘fail’, would this reﬂect a qualitative difference in our cogni-
+tive make-up or a difference in our tendency to employ effort-
+ful thought? Are there any contexts in which animals go
+beyond simple strategies?
+A re-designed trap task, which pitted physical reasoning
+against perceptually based strategies, was used with rooks
+[26] and chimpanzees [27]. To avoid a trap, in some condi-
+tions subjects had to move the food across a plastic surface
+to an exit at the side, and in others they had to push it down
+an uninterrupted channel to an exit at the bottom. In a critical
+contrast, the same feature (the plastic surface) had to be
+treated differently depending on whether it played the role
+of a supporting surface (when the side exits were open) or
+barrier (when they were closed). Most chimpanzees and
+rooks did not make this distinction, suggesting reliance on
+the surface-level appearance of the task; but one animal
+from each group did, apparently having encoded something
+about the key physical properties. Chimpanzees (and also
+New Caledonian crows) were able to transfer their success
+in one trap problem to another one with very different
+perceptual features, also implicating abstract representa-
+tional capacities [27,28]. Nevertheless, in all of these studies
+there is notable individual variation, the cause of which
+remains to be investigated.
+Capuchin monkeys have also been shown to treat the
+same visual feature differently depending on task-relevant
+physical properties [29]. Wild capuchins were presented
+with stones at some distance from a nut-cracking anvil:
+they quickly selected large, heavy, robust stones to trans-
+port, seemingly identifying the effective stones through
+visual inspection. When presented with novel, man-made
+‘stones’, which looked identical but differed in density and
+Current Biology Vol 20 No 23
+R1034
+
+PDF PAGE 4
+Figure 3. Tool use by crows.
+(A) A New Caledonian crow uses a Pandanus
+tool. (B) A selection of step-cut Pandanus
+tools made by the crows. New Caledonian
+crows cut tools from the leaves of Pandanus,
+which are edged with a convenient row of
+spiny hooks. The most complex of these tools
+are broad at the base and narrow at the distal
+end, providing a precision tip without com-
+promising tool rigidity. Tapering is achieved
+by tearing the tool from the leaf in a step-
+wise fashion, with as many as four steps along
+the length of the tool. (Photos: panel A, Mick
+Sibley, University of Auckland; panel B, Gavin
+Hunt.)
+weight, the capuchins tapped and
+gently moved the stones before trans-
+porting the heavy, effective tool. They
+even chose correctly when the heavy
+tool was smaller than the other
+alternatives.
+Insight
+If animals do know something about the
+physics of their environment and their
+actions, can they use this knowledge
+productively, to reason about new appli-
+cations for tools or new means to reach
+their goals? The question of animal
+insight dates back to Koehler’s experi-
+ments at the beginning of the 20 th
+century, in which chimpanzees were
+given the task of obtaining out-of-reach
+rewards. The rapid emergence of
+a fully-formed solution, such as stacking
+b o x e st oc l i m bo no rc o m b i n i n gs h o r t
+sticks to produce a long tool, prompted
+Koehler to apply the term ‘insight’ as an
+alternative mechanism to blind trial-
+and-error. However, the fact that chim-
+panzees exhibit many of these behav-
+iours when the objects are presented
+without an out-of-reach reward points
+towards a simpler explanation: perhaps the ‘spontaneity’ of
+the chimpanzees’ solution and its suitability to the task at
+hand was a case of one lucky trial and no error[30].
+In a recent revival of insight experiments, rooks, normally
+a non-tool-using species, were presented with a tube con-
+taining a collapsible platform with a food reward resting on
+it — the platform would collapse under slight pressure so
+that the food would fall out [31]. At ﬁrst the rooks did not
+solve the problem, but after experience of nudging stones
+into the tube from a ledge next to the opening they began
+to bring stones to drop into it, and generalised their solution
+to pushing down on the platform with sticks. In a subsequent
+experiment they even made a hook to lift a bucket of food
+from a tube: they put a wire into the tube, bent it over the
+lip, reversed the wire and used it to pull up the bucket.
+Impressive as this undoubtedly is, in all cases the solution,
+as in the rooks’ training, involved adding an object to the
+tube; and the items to be used were placed beside it,
+increasing the likelihood that the ‘correct’ action would be
+the ﬁrst one attempted in the face of the new problem.
+Without another group of naı ¨ve birds for each stage, it is
+impossible to know how important that cumulative experi-
+ence was [30]. Regardless, the rooks displayed sensitivity
+to the task requirements, quickly developing a preference
+for heavy stones over light ones and using thin stones in pref-
+erence to wide ones when the mouth of the tube was nar-
+rowed. In the platform-collapsing task, New Caledonian
+crows generalised from the experience of pecking at the
+platform through a small-necked tube to dropping objects
+into it when the neck was longer; though note that these
+birds, unlike the rooks, already have tool-use in their behav-
+ioural repertoire [32].
+In his later writings, Koehler made a distinction between
+insight (quickly recognising when the right solution has
+been stumbled upon in the course of exploration, leading
+to a sudden disappearance of further trial-and-error), and
+‘foresight’ (sizing up a problem in advance through physical
+reasoning and bringing a new solution to it fully formed). To
+Minireview
+R1035
+
+PDF PAGE 5
+date, there seems to be clearer evidence for the former ability
+than for the latter in animals such as chimpanzees and cor-
+vids. The exact cognitive mechanisms underpinning both
+sorts of accomplishment are yet to be formalised, but exam-
+ining the sorts of experience needed for the emergence of
+such seemingly ‘insightful’ solutions seems to be a fruitful
+beginning [30].
+A powerful illustration of the role of immediate feedback
+about an action’s effect comes from a study investigating
+one of the most famous cases for insight in animals: birds
+pulling up a reward on the end of a string tied to a perch in
+increments, trapping successive lengths under their feet.
+Strikingly, most naı ¨ve New Caledonian crows produced the
+complete solution in one ﬂuid attempt from the ﬁrst trial.
+However, when deprived of visual feedback (through the
+use of a horizontal occluder with a hole just large enough
+for the reward to pass through), naı ¨ve New Caledonian crows
+tugged at the string but did not pull up the reward. Even
+the performance of the experienced subjects was disrupted
+[33]. This experiment neatly exempliﬁes how even rapidly
+emerging solutions need not have been planned out in the
+mind. What role, if any, did physical knowledge play? Visual
+feedback was shown to be necessary, but is it sufﬁcient —
+would any action with a contingent effect on the reward be
+repeated?
+Planning
+One reason that tools have had such a high proﬁle in the
+study of human evolution is the evidence they give about
+ancient hominins’ ability to plan ahead. Reconstructions of
+knapped ﬂint from over two million years ago show a detailed
+sequence of detachments that can only result from mentally
+‘looking ahead’ in the manufacture process [34]; later in
+human evolution, raw material for stone tools has been
+found transported from sites miles away from the point of
+manufacture and use [34]; later still, hand axes were retained
+for use over long periods of time. Does the evidence from
+non-humans suggest any similar kinds of foresight and
+planning?
+Several authors have suggested that apparent evidence of
+anticipatory planning in animals can be explained another
+Figure 4. A Goualougo chimpanzee with
+a brush-tipped tool.
+Chimpanzees in the Goualougo Triangle make
+a range of tools when ﬁshing for termites:
+they select robust plants for making digging
+sticks, stripping side branches and sharp-
+ening one end before puncturing a ﬁshing
+hole into subterranean termite nests; they
+also split stems lengthwise to use as ﬂexible
+ﬁshing lines for angry termites to bite onto;
+and form brush-tipped twigs by raking the
+tip through their teeth, providing a greater
+surface area for termite attachment. (Photo:
+Ian Nichols.)
+way. When you take a canvas bag
+with you to work in anticipation of a later
+shopping trip, this could result from an
+imagination of your future-self standing
+at the check-out with items to trans-
+port. But alternatively it might be that
+packing your bag was habitual,
+triggered by the context of getting ready for work. That habit
+might have been shaped by associative learning, and not
+reﬂect any imagination of yourself in the future or memory
+of yourself in the past: without the chance to ask, it would
+be hard to tell. With this concern in mind, much of the
+evidence that suggests anticipatory planning in animals is
+ambiguous [35]. We should also note that there is no way
+in principle of telling whether non-humans imagine them-
+selves personally in the past or projected into the future, as
+humans do; all we can do is to discover whether current
+behaviour is based on representation of past or future states.
+Chimpanzees, New Caledonian crows and capuchin
+monkeys are all known to transport their tools over relatively
+long distances (roughly 50–200 m). For instance, when
+a chimpanzee is seen to bite off several vine or herb stems,
+strip off the side leaves, bite the tips neatly and tuck them
+into her mouth, observers can be sure she has termite-
+ﬁshing in mind, even if no termite mound is in sight. That
+might be explained as a learnt habit, triggered by feeling in
+the mood for a termite snack. In the laboratory, however,
+apes are found to select tools for future use even in cases
+that cannot be explained this way. Instead of a tasty grape,
+they will select a tool they will need to gain a large reward
+in an hour’s time; and yet with the tool in hand they will
+reverse their preference and take the grape, instead of the
+now-superﬂuous tool [36].
+It has long been noticed that chimpanzees make tools in
+advance, where appropriate raw material is not available at
+the site of use, sometimes out of sight of the place of use.
+A particularly striking case is that of the chimpanzees of
+Goualougo, which use two different tools in sequence to
+ﬁsh for underground termites. First, they puncture the
+ground using a digging stick, and then use a ﬂexible tool to
+ﬁsh. The robust digging stick is usually left at the site, and
+so it is the second tool of the sequence that the chimpanzees
+often arrive carrying with them. Apparently they think through
+their regular tool-using routine in advance: just as we might
+think through a familiar recipe, and remember to soak the
+currants a day in advance of starting cooking. All these exam-
+ples could be retrospectively ‘explained’ as the result of
+associative learning, but the plausibility of doing so
+Current Biology Vol 20 No 23
+R1036
+
+PDF PAGE 6
+Figure 5. Woodpecker ﬁnch chooses the
+correct raking tool.
+Interestingly, the relatives of these tool-using
+birds, small and large tree ﬁnches, solve this
+task equally quickly, despite not using tools
+in the wild. (Photo: Irmgard Teschke and
+Sabine Tebbich.)
+decreases as the degree of elaborate-
+ness of the anticipation increases [37].
+Tools and Evolution
+Why Has Tool-Use Evolved in Some
+Species?
+Using tools to get food involves costs:
+direct costs of time and effort, and
+opportunity costs if simpler-to-access
+foods are missed while struggling
+with the harder task. Candidates for
+environmental features that might
+outweigh these costs include: lower
+availability of directly accessible foods
+compared to ‘defended’ ones; high
+nutritional quality of defended foods;
+and unpredictability from seasonal variation or rapid envi-
+ronmental change, selecting for ﬂexibility in food-getting.
+(These candidate features are not mutually exclusive: need
+and opportunity can act in combination, and different
+features may have acted at different points during the evolu-
+tion of a species.)
+Some support for these ideas can be found in recent ﬁeld
+studies. For example, Tebbich and Taborsky [38] found that
+woodpecker ﬁnches prefer to use tools to probe tree holes
+for invertebrates, speciﬁcally in arid habitats and in the dry
+season: then, availability of surface prey is low but availability
+and nutritional content of embedded prey remains high. Simi-
+larly, capuchin monkeys use stones to dig for high-quality
+tubers in arid environments, but have not been reported to
+do so in habitats rich in other food sources [39]. But orangu-
+tans use tools to access insects most often where the insects
+are most abundant, even when other resources are freely
+available [40]. More generally, ecological hypotheses remain
+untested because of the inherent difﬁculty of doing so. In
+order to assess the relative nutritional value and availability
+of competing food sources, animal diet and environmental
+distribution of food have to be studied in tandem, at the level
+of speciﬁc nutrients, over at least a year cycle: that has
+seldom been done for tool-using species.
+Tools for Thought?
+Although tool-use can result from simple strategies, sophis-
+ticated ones might have advantages: making tool-use more
+selective, ﬂexible, and innovative. The cognition actually
+involved in animal tool-use is far from being well-understood,
+but there are indications that some animals other than hu-
+mans know something about the functionality of their tools,
+and can take steps in the present in order to gain a reward
+in the future. Could the pressure to exploit resources using
+tools have provided the selective pressure for the evolution
+of those abilities?
+Rates of tool-using and of innovation correlate with rela-
+tive brain-size in birds and primates, supporting a causal
+link; but these correlations do not rule out the alternative,
+that selection in some other domain created minds capable
+of innovation and tool-use. One important line of evidence
+is comparison between pairs of closely related species
+which differ in few traits other than tool-use: a systematic
+difference across such pairs would point to a role for tools
+in cognitive evolution. As yet, there are very little data of
+this kind available. So far, there is no evidence that New
+Caledonian crows outperform other, non-tool-using corvids
+such as rooks on physical tasks; and some of the best
+evidence for future planning comes from scrub jays [35],
+another non-tool-using corvid. Among the great apes,
+some populations of chimpanzees and orangutans are the
+only habitual tool-users in the wild; but in tests of physical
+reasoning or planning they do not systematically outperform
+bonobos and gorillas (for example [41]). In a direct compar-
+ison between tool-using woodpecker ﬁnches and two
+closely related but non-tool-using species of Darwin’s ﬁnch,
+no differences in physical problem-solving skills were found.
+All three species rapidly solved problems such as pulling
+an effective rather than an ineffective tool to bring food
+within reach ( Figure 5) [11].
+Why Is Tool-Use So Widespread and Sophisticated
+in Humans?
+The technology of modern humans remains unique in its
+breadth and sophistication. What mental adaptations made
+this possible? Several psychological faculties have been sug-
+gested to have changed since the human and ape lineage
+diverged: the representational abilities discussed above,
+such as conceiving of the future or abstract physical proper-
+ties [42]; executive functioning abilities such as working
+memory that allow for information to be held in mind and
+manipulated [43]; sensorimotor capabilities that allow for
+the coordination of perception and action during complex
+behaviour
+such as stone-knapping [44]; the cognitive skills
+and motivations underpinning collaborative culture, which
+gives rise to a ratcheting-up of tool complexity [45]. Did one
+Minireview
+R1037
+
+PDF PAGE 7
+small change make the crucial difference? If so, what feature
+of the early hominid niche prompted its evolution? In reality,
+these hypotheses are not mutually exclusive, and several
+effects might ramify with each other over the course of human
+evolution. However, a quantitative change in working mem-
+ory capacity could facilitate changes in several other abilities,
+so it is interesting to note support for this way of thinking
+from the developmental and comparative literature.
+The theory, inspired by the changes in the types of tools
+made by hominids, suggests that greater working memory
+size would allow modern humans to hold representations
+of multiple states of reality in mind at one time : important
+for theory of mind, symbolic thought, analogical reasoning
+and planning [43]. Executive control certainly seems to play
+a crucial role in limiting the problem-solving abilities of young
+children. Two-year-olds fail to locate a ball that is rolled
+behind an occluder and stopped by a visible wall which
+protrudes above the occluder, yet their failure seems to
+have little to do with physical reasoning. They make as
+many search errors when the occluder is partly transparent,
+and their looking-patterns reveal that they correctly antici-
+pate it to stop in front of the wall. Instead, coordinating
+perception, attention, knowledge, prediction and action
+may overload immature executive resources [46]. Interest-
+ingly, adult monkeys make similar search errors to human
+toddlers, despite looking longer, like the toddlers do, at
+displays that violate physical principles [47]. Adult apes, in
+contrast, are more successful [48]. Using a tool may pose
+even steeper challenges to executive resources than other
+actions, both because of the increase in the number of items
+that need to be held in mind, and the intricacy of the action
+itself [49]. The majority of chimpanzees and three- to four-
+year-old children fail to solve the traditional trap task when
+required to use a tool, but successfully move the food
+away from the trap if small holes allow them to use their
+ﬁngers to move the reward [27]. But ﬁve-year-old children
+solve the task easily, even when using a tool [50]. Thus, there
+is tentative support for the notion of an evolutionary trajec-
+tory toward greater executive capacities, mirrored in human
+ontogeny, which allowed humans to make ever more
+complex tools to solve new problems.
+The nature of the cognition underpinning uniquely human
+tool-use is still hotly debated, but one thing is clear, under-
+standing the cognition underpinning animal tool use is
+a critical piece of the puzzle. The more we study tool-use
+and manufacture in strikingly large-brained animals such
+as chimpanzees, capuchin monkeys and crows, the more it
+seems that physical reasoning and planning abilities may
+have originated deeper in the phylogenetic record than
+previously thought, and perhaps more than once. But we still
+know very little about the exact nature of these representa-
+tional capacities, and how they interact with other psycho-
+logical abilities such as memory and attention during
+problem-solving. Solving these puzzles is as important to
+understanding human evolution as studying the tools left
+behind by extinct hominids.
+Acknowledgements
+We would like to thank Josep Call for stimulating discussions.
+References
+1. Goodall, J. (1986). The Chimpanzees of Gombe: Patterns of Behavior (Cam-
+bridge, MA, US: Harvard University Press).
+2. McGrew, W.C. (2010). Chimpanzee technology. Science 328, 579–580.
+3. Ottoni, E.B., and Izar, P. (2008). Capuchin monkey tool use: overview and
+implications. Evol. Anthropol. 17, 171–178.
+4. Mann, J., Sargeant, B.L., Watson-Capps, J.J., Gibson, Q.A., Heithaus, M.R.,
+Connor, R.C., and Patterson, E. (2008). Why do dolphins carry sponges?
+PLoS ONE 3, e3868.
+5. Hunt, G.R. (1996). Manufacture and use of hook-tools by New Caledonian
+Crows. Nature 379, 249–251.
+6. Beck, B.B. (1980). Animal Tool Behavior: The Use and Manufacture of Tools
+by Animals (New York: Garland).
+7. Mendes, N., Hanus, D., and Call, J. (2007). Raising the level: orangutans use
+water as a tool. Biol. Lett. 3, 453–455.
+8. Bird, C.D., and Emery, N.J. (2009). Rooks use stones to raise the water level
+to reach a ﬂoating worm. Curr. Biol. 19, 1410–1414.
+9. Lefebvre, L., Nicolakakis, N., and Boire, D. (2002). Tools and brains in birds.
+Behaviour 139, 939–973.
+10. Maravita, A., and Iriki, A. (2004). Tools for the body (schema). Trends Cogn.
+Sci. 8, 79–86.
+11. Tebbich, S., Sterelny, K., and Teschke, I. (2010). The tale of the ﬁnch: adap-
+tive radiation and behavioural ﬂexibility. Phil. Trans. R. Soc. B 365, 1099–
+1109.
+12. Dickinson, A., and Balleine, B. (2000). Causal cognition and goal-directed
+action. In The Evolution of Cognition, C. Heyes and L. Huber, eds. (M.I.T
+Press).
+13. Hunt, G.R. (2008). Introduced Lantana camara used as tools by New Caledo-
+nian Crows ( Corvus moneduloides) New Zealand. J. Zool. 35, 115–118.
+14. Sanz, C., and Morgan, D. (2009). Flexible and persistent tool-using strategies
+in honey-gathering by wild chimpanzees. Int. J. Primatol. 30, 411–427.
+15. Kenward, B., Weir, A.A., Rutz, C., and Kacelnik, A. (2005). Tool manufacture
+by naive juvenile crows. Nature 433, 121.
+16. Visalberghi, E., and Guidi, C. (1998). Play behaviour in young tufted capuchin
+monkeys. Folia Primatol. 69, 419–422.
+17. Wimpenny, J.H., Weir, A.A.S., Clayton, L., Rutz, C., and Kacelnik, A. (2009).
+Cognitive processes associated with sequential tool use in New Caledonian
+crows. PLoS ONE 4, e6471.
+18. Weir, A., and Kacelnik, A. (2006). A New Caledonian crow ( Corvus monedu-
+loides) creatively re-designs tools by bending or unbending aluminium
+strips. Anim. Cogn. 9, 317–334.
+19. Povinelli, D.J. (2000). Folk Physics for Apes: The Chimpanzee’s Theory of
+How the World Works (Oxford: Oxford University Press).
+20. Visalberghi, E., and Limongelli, L. (1994). Lack of comprehension of cause-
+effect relations in tool-using capuchin monkeys ( Cebus apella ). J. Comp.
+Psychol. 108, 15–22.
+21. Kacelnik, A., Chappell, J., Weir, A.A.S., and Kenward, B. (2006). Cognitive
+adaptations for tool-related behaviour in New Caledonian crows. In
+Comparative Cognition: Experimental Explorations of Animal Intelligence,
+E.A. Wasserman and T.R. Zentall, eds. (Oxford, UK: Oxford University Press),
+pp. 515–528.
+22. Hunt, G.R., Rutledge, R.B., and Gray, R.D. (2006). The right tool for the job:
+what strategies do wild New Caledonian crows use? Anim. Cogn. 9,
+307–316.
+23. Holzhaider, J.C., Hunt, G.R., Campbell, V.M., and Gray, R.D. (2008). Do wild
+New Caledonian crows ( Corvus moneduloides ) attend to the functional
+properties of their tools? Anim. Cogn. 11, 243–254.
+24. Gigerenzer, G., and Brighton, H. (2009). Homo heuristicus: why biased minds
+make better inferences. Top. Cogn. Sci. 1,
+107–143.
+25. Silva, F.J., Page, D.M., and Silva, K.M. (2005). Methodological-conceptual
+problems in the study of chimpanzees’ folk physics: how studies with adult
+humans can help. Learn. Behav. 33, 47–58.
+26. Seed, A.M., Tebbich, S., Emery, N.J., and Clayton, N.S. (2006). Investigating
+physical cognition in rooks, Corvus frugilegus. Curr. Biol. 16, 697–701.
+27. Seed, A.M., Call, J., Emery, N.J., and Clayton, N.S. (2009). Chimpanzees
+solve the trap problem when the confound of tool use is removed. J. Exp.
+Psychol. Anim. Behav. Process 35, 23–34.
+28. Taylor, A.H., Hunt, G.R., Medina, F.S., and Gray, R.D. (2009). Do New Caledo-
+nian crows solve physical problems through causal reasoning? Proc. R. Soc.
+Lond. B 276, 247–254.
+29. Visalberghi, E., Addessi, E., Truppa, V., Spagnoletti, N., Ottoni, E., Izar, P.,
+and Fragaszy, D. (2009). Selection of effective stone tools by wild bearded
+capuchin monkeys. Curr. Biol. 19, 213–217.
+30. Shettleworth, S.J. (2009). Animal cognition: deconstructing avian insight.
+Curr. Biol. 19, R1039–R1040.
+31. Bird, C.D., and Emery, N.J. (2009). Insightful problem solving and creative
+tool modiﬁcation by captive nontool-using rooks. Proc. Natl. Acad Sci.
+USA 106, 10370–10375.
+32. von Bayern, A.M.P., Heathcote, R.J.P., Rutz, C., and Kacelnik, A. (2009). The
+role of experience in problem solving and innovative tool use in crows. Curr.
+Biol. 19, 1965–1968.
+33. Taylor, A.H., Medina, F.S., Holzhaider, J.C., Hearne, L.J., Hunt, G.R., and
+Gray, R.D. (2010). An investigation into the cognition behind spontaneous
+string pulling in New Caledonian crows. PLoS ONE 5, e9345.
+Current Biology Vol 20 No 23
+R1038
+
+PDF PAGE 8
+34. Roche, H., Blumenschine, R.J., and Shea, J.J. (2009). Origins and adapta-
+tions of early Homo: what archeology tells us. In The First Humans – Origin
+and Early Evolution of the Genus Homo, F.E. Grine, J.G. Fleagle and R.E. Lea-
+key, eds. (Netherlands: Springer), pp. 135–147.
+35. Raby, C.R., and Clayton, N.S. (2009). Prospective cognition in animals. Be-
+hav. Process 80, 314–324.
+36. Osvath, M., and Osvath, H. (2008). Chimpanzee ( Pan troglodytes) and orang-
+utan (Pongo abelii) forethought: self-control and pre-experience in the face
+of future tool use. Anim. Cogn. 11, 661–674.
+37. Byrne, R.W., and Bates, L.A. (2006). Why are animals cognitive? Curr. Biol.
+16, R445–R448.
+38. Tebbich, S., Taborsky, M., Fessel, B., and Dvorak, M. (2002). The ecology of
+tool-use in the woodpecker ﬁnch (Cactospiza pallida). Ecol. Lett. 5, 656–664.
+39. Moura, A.C.d.A., and Lee, P.C. (2004). Capuchin stone tool use in Caatinga
+dry forest. Science 306, 1909.
+40. Fox, E.A., van Schaik, C.P., Sitompul, A., and Wright, D.N. (2004). Intra-and
+interpopulational differences in orangutan (Pongo pygmaeus) activity and
+diet: Implications for the invention of tool use. Am. J. Phys. Anthropol. 125,
+162–174.
+41. Mulcahy, N.J., and Call, J. (2006). Apes save tools for future use. Science
+312, 1038–1040.
+42. Penn, D.C., Holyoak, K.J., and Povinelli, D.J. (2008). Darwin’s mistake:
+explaining the discontinuity between human and nonhuman minds. Behav.
+Brain Sci. 31, 109–130.
+43. Coolidge, F.L., and Wynn, T. (2005). Working memory, its executive func-
+tions, and the emergence of modern thinking. Camb. Archaeol. J. 15, 5–26.
+44. Stout, D., and Chaminade, T. (2007). The evolutionary neuroscience of tool
+making. Neuropsychologia 45, 1091–1100.
+45. Tomasello, M., Carpenter, M., Call, J., Behne, T., and Moll, H. (2005). Under-
+standing and sharing intentions: the origins of cultural cognition. Behav.
+Brain Sci. 28, 675–735.
+46. Keen, R., and Shutts, K. (2007). Object and event representation in toddlers.
+In Progress in Brain Research, Volume 164, C. von Hofsten and K. Rosander,
+eds. (Elsevier), pp. 227–235.
+47. Santos, L.R. (2004). ‘Core knowledges’: a dissociation between spatiotem-
+poral knowledge and contact-mechanics in a non-human primate? Dev.
+Sci. 7, 167–174.
+48. Cacchione, T., Call, J., and Zingg, R. (2009). Gravity and solidity in four great
+ape species ( Gorilla gorilla, Pongo pygmaeus, Pan troglodytes, Pan panis-
+cus): vertical and horizontal variations of the table task. J. Comp. Psychol.
+123, 168–180.
+49. Byrne, R.W. (2004). The manual skills behind hominid tool use. In Evolu-
+tionary Origins of Great Ape Intelligence, A.E. Russon and D.R. Begun,
+eds. (Cambridge: Cambridge University Press), pp. 31–44.
+50. Horner, V., and Whiten, A. (2007). Learning from others’ mistakes? Limits on
+understanding a trap-tube task by young chimpanzees (Pan troglodytes) and
+children (Homo sapiens). J. Comp. Psychol. 121, 12–21.
+Minireview
+R1039

@@ -1,0 +1,515 @@
+PDF PAGE 1
+Tecnociencia, Vol. 19, N°1  5 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+USE OF ANVILS AND OTHER FEEDING BEHA VIOUR 
+OBSERVED IN CEBUS IMITATOR, COIBA ISLAND, PANAMA 
+ 
+Pedro G. Méndez-Carvajal1,2,3, Samuel Valdés-Díaz² 
+¹Fundación Pro-Conservación de los Primates Panameños (FCPP) 
+0816-05855, Panamá, República de Panamá  
+²Sociedad Panameña de Biología, San Francisco, Calle 71, Chalet 15, Panamá  
+3Department of Anthropology, Durham University, Durham, UK, South Road, DH1 
+3EL 
+E-mail: mendezp@fcprimatespanama.org 
+ 
+ 
+ABSTRACT 
+Preliminary data of primate feeding behaviour on the continental island of Coiba was 
+collected as a baseline study of feeding behaviour in Cebus imitator at coastal sites. 
+Coiba Island is located on the South Pacific side of Panama, in the Chiriquí Gulf. It 
+is a continental island and the biggest in the Mesoamerican region of the Pacific, it 
+has an area of 503 km². This is a preliminary survey to identify basic feeding 
+behaviour that could be measured in the future as a part of our ethogram to study C. 
+imitator, as part of our long -term project on Coiba Island. We identified four feeding 
+skills by C. imitator outside the forest :  Hammering shells or skilled  pounding, 
+removing rocks, eating mangrove fruits, and pounding Cocos nucifera on an anvil. 
+Using anvils seemed to be the most effective method to obtain food spending 51% of 
+the time eating using this technique and only 28% moving to find a coconut, 18% 
+invested in pounding the fruit, and just 3% on keeping vigil. Spending time outside 
+the coast of a continental island  seemed to be a benefical technique for C. imitator to 
+survive. Further studies will be conducted by Fundaci ón Pro -Conservación de los 
+Primates Panameños (FCPP) to understand the predation -feeding-competition theory 
+and its implications for foraging techniques by C. imitator in an island habitat. 
+ 
+ 
+KEYWORDS 
+Anvils, behaviour, Cebus imitator, Coiba Island, feeding, Panama  
+ 
+ 
+
+PDF PAGE 2
+6                  Méndez-Carvajal, P .G. & Valdés-Díaz, S. 
+USO DE YUNQUES Y OTROS COMPORTAMIENTOS DE 
+ALIMENTACION OBSERV ADOS EN CEBUS IMITATOR, ISLA 
+COIBA, PANAMA 
+ 
+ 
+RESUMEN 
+Se colectó datos preliminares de comportamiento de alimentación en la isla 
+continental de Coiba como un estudio base de comportamiento alimentario de Cebus 
+imitator para las áreas costeras. Isla Coiba se encuentra en el lado Sur Pac ífico de 
+Panamá, en el Golfo de Chiriquí. Es una isla continental y la más grande en la región 
+Mesoamericana del Pac ífico, con un área de 503 km ². Esta es una evaluación 
+preliminar para identificar comportamientos de búsqueda de alimentos por C. 
+imitator para un futuro etograma, como parte  de nuestro proyecto de largo plazo en 
+Isla Coiba. Identificamos cuatro técnicas utilizadas por C. imitator fuera del bosque: 
+Martillando conchas, removiendo rocas, comiendo frutas de mangle, y rompiendo 
+Cocos nucifera usando un yunque de piedra. El uso de  un yunque de piedra pareció 
+ser la forma más efectiva de conseguir comida con un 51% del tiempo comiendo, 
+28% moviéndose para buscar el coco, 18% estrellando el coco en el yunque, y un 3% 
+de vigilancia. Invirtiendo tiempo en la zona costera continental pa rece ser una técnica 
+beneficiosa en la subsistencia de C. imitator . Se realizará mayores estudios por la 
+Fundación Pro-Conservación de los Primates Panameños (FCPP) para comprender la 
+teoría relacionada a depredaci ón-alimentación-competencia y sus aplicaci ones en 
+técnicas de forrageo de C. imitator en hábitat de isla.  
+ 
+ 
+PALABRAS CLA VES 
+Alimentación, Comportamiento , Cebus imitator , Isla Coiba, Panamá, 
+Yunques 
+ 
+ 
+INTRODUCTION 
+Physical cognition is a complex process where the individual relates 
+space between two objects and performs an action to obtain a final 
+result (Fragaszy et al., 2004; Bird and Emery, 2009). Once thought to 
+be primarily associated with Homo sapiens , physica l cognition and 
+tool use has been documented in great apes in a more primitive stage, 
+and also in Neotropical primates, including Cebus spp. (Boinsky et al., 
+2000; O’Malley & Fedigan, 2005; Waga et al., 2006; Freitas & Bicca-
+Marques, 2009). However, there are still differences between making a 
+tool (eg. Pan troglodytes , Pongo pygmaeous ) and using impulsive 
+elements from the field to achieve a result, mostly related
+
+PDF PAGE 3
+Tecnociencia, Vol. 19, N°1  7 
+ 
+with food acquisition (O’Malley & Fedigan, 2005). For Cebus, the use 
+of stones and anv ils for cracking nuts around their home range is 
+considered not as an adaptive, but a cognitive behaviour, possibly 
+related with a cultural learning in familiar groups similar to the 
+behaviour found in P. pygmaeous (O’Malley & Fedigan, 2005). In 
+previous experiments on sensorimotor intelligence, Cebus showed 
+superior intelligence compared with Ateles (6:4) using a Piaget’s 
+model to recognize whether they could be more “experimental and 
+insightful” rather than using tools for fortuitous events of “trial an d 
+error” (Chevalier -Skolnikoff, 1989). Other behaviour showing their 
+capacity for intelligence are: reaching food with a stick, throwing 
+objects at other animals, “hunting in groups”, anting, and learning 
+using crops (Hernández -Camacho & Cooper, 1976; Lo ngino, 1984; 
+Chevalier-Skolnikoff, 1989; Loría & Méndez -Carvajal in prep.). Use 
+of tools has been reported for C. albifrons, C. capucinus, C. olivaceus, 
+Sapajus apella, S. libidinosus and S. xanthosternos  (Westergaard & 
+Suomi, 1994; Fragaszy & Boinsky, 1995; Boinsky et al ., 2000; 
+Rodrigues-Canale et al ., 2009). Cebus imitator  has been recently 
+confirmed to be genetically distinct from C. capucinus (Boubli et al., 
+2012). Here we report our observations on the use of stones to crack 
+nuts by C. imitator, as previously reported for C. capucinus imitator in 
+Costa Rica by O’Malley & Fedigan (2005). 
+ 
+In order to have baseline information for future projects related to C. 
+imitator behaviour in a continental island habitat, we focus these 
+observations to understand: Which are the basic behaviours to collect 
+food by C. imitator in the coastal area of Coiba Island? We would like 
+to understand the relationship among social group, hiera rchy, and food 
+processing behaviour in future projects, these results will help to 
+clearly inform expected behavioural lists and our ethogram. Due to 
+their complete isolation on Coiba Island, we are interested to learn 
+more about the way C. imitator is surviving and whether a predation -
+feeding-competition theory (Wrangham, 1979), could be playing a role 
+in their population dynamics. 
+  
+
+PDF PAGE 4
+8                  Méndez-Carvajal, P .G. & Valdés-Díaz, S. 
+METHODS 
+Study site 
+Coiba Island, located on the South Pacific side of Panama, in the 
+Chiriquí Gulf, is a continental island and the biggest in Mesoamerican 
+region of the Pacific with an area of 503 km² (Méndez-Carvajal, 2012). 
+Coiba is mostly covered in primary tropical rain  forest and two species 
+of non -human primates; Cebus imitator  (626 ind), IUCN -listed 
+Vulnerable, and Alouatta coibensis coibensis  (472 ind), endemic and 
+listed as Endangered by IUCN (Méndez -Carvajal, 2012). FCPP has 
+been monitoring these groups as part of a national long-term project to 
+assess conservation status and population dynamics under permissions 
+No.SE/A-99-10 and SE/A -70-12-16 from the Environmental Ministry 
+of Panama (EMP). Ad -libitum observations were collected by PMC 
+(2009; 2010) and SVD (2015), Indra Candanedo and Zuleika Pinzón as 
+part of a regular surveillance with EMP. The observations were taken 
+during three visits (25 days total) (Table 1), to obtain preliminary data 
+of C. imitator feeding behaviour on the continental island of Coiba. To 
+collect the information, we did observations combined with 
+populations surveys, visited Coiba Island once per month between 
+May and July 2009, with a total effort of 850 survey hrs per 30 -day 
+survey. Walking speed was 0.5 km/h with an approximate 10 min stop  
+each 100 m. We revisited in May and September 2010, and October 
+2015. These surveys were taken from MiAmbiente Scientific Station, 
+Cerro Equis, Playa Rosario, La Falla, and Los Pozos (Méndez -
+Carvajal, 2012). We walk along the coast every morning for 1 km in 
+both directions from those central points from 06:00 to 08:00 hrs., and 
+then for second time between 13:00 to 15:00 hrs.  If group of C. 
+imitator were found, we noted the date, the start and end time of the 
+observations, age and sex (Oppenheimer, 1992). We classified different 
+feeding patterns and when possible identified genus or species of the 
+food eaten by the primate. Primates were filmed and photographed 
+when possible, we filmed from a range of 10 -25 m using a digital 
+camera (Canon EOS 3ti) equipped with a 70-130 mm lens. Information 
+was analysed using the digital clock on the film to obtain information 
+on the time the animals spent on each behaviour. Central Tendency 
+measurements were taken using Excel 2016. Percentages of time spent 
+on each behavio ur were calculated sumarizing all the foraging
+
+PDF PAGE 5
+Tecnociencia, Vol. 19, N°1  9 
+ 
+techniques observed. Even though we had vocalization information we 
+did not consider this useable since recordings were sometimes 
+drowned out by the sea natural sound. 
+ 
+ 
+RESULTS 
+The observations were done in three visits (25 days total), and are just 
+a brief summary of the preliminary data of primate feeding behaviour 
+in a continental island of Coiba. Here we report different activities of 
+feeding behaviour for C. imitator  in a coastal habitat. Using video 
+observations, we measured the amount of time taken to consume food 
+items using each method and evaluated the benefits of each technique 
+(Table 1, 2). These preliminary observations serve as baseline data for 
+more detailed investigations on tool use by Cebus spp., in the future.  
+ 
+Table 1 Comparison of four types of behaviour while eating and foreign by 
+Cebus imitator, Coiba Island, Panama. 
+S: Sample; Eating (n=15); Vigilant (n=23); Moving (7); Pounding (n=27) 
+*Activity of the individuals surrounded; I: Individual activity; G: Group 
+activity 
+ 
+ 
+
+PDF PAGE 6
+10                  Méndez-Carvajal, P .G. & Valdés-Díaz, S. 
+Table 2 Summary of behaviour using anvils technique by C. imitator, Coiba 
+Island, Panama 
+OM: Observer monkey; FM: Focal monkey.  
+ 
+ 
+Feeding on Pelliciera rhizophora 
+The first event was in September 2012, in the mangroves near the 
+entrance of the springs trail called “Pozos Termales” (07°27’13” N and 
+81°43’36” W), a group of five C. imitator were individually husking 
+and eating Pelliciera rhizophora (observed by PMC  and ID by Alicia 
+Ibañez) (Méndez -Carvajal, 2012). This group seemed to prefer 
+foraging at the coast as there are abundant food resources with high 
+quality of nutrients, sometimes easier to detect and obtain compared 
+with the forest. C. imitator  have developed skills to easily open the 
+fruits of P . rhizophora and achieve in three to four bites the opening of 
+Sample 
+# 
+Pounding 
+Coconut  Eating Not 
+visible Vigilant Moving Observing Vocalization Time  
+expended 
+4 
+(OM1) 0 0.75 0.57 0.07 1.05(4) 2.43(8) 0.07(2) 4.37 
+4 (FM) 0.77 (25) 2.80(10) 0 0.07 0 0 0.02 3.66 
+4(OM2) 0 0 0 0.02 0 1 0 2 
+4(OM3) 0 0 0 0 0 1 0 2 
+5(OM1) 0 0 0 0 0.24 0.02 0 0.26 
+5(FM) 0.23 0.24 0 0 0 0 0 0.47 
+5(OM2) 0 0.12 0 0 0.24 0.02 0.02 1.14 
+6(OM1) 0 0 0 0.11 0.07 0.19 0 0.37 
+6(FM) 0.11 0.08 0 0 0 0 0 0.19 
+6(OM2) 0 0 0 0.11 0.07 0.19 0 0.37 
+Totals 1.11 3.24 0.57 0.38 1.67 4.85 0.11 14.83 
+% 10 29 1 3 14 42 1   
+ 
+
+PDF PAGE 7
+Tecnociencia, Vol. 19, N°1  11 
+ 
+the fruit and suck or eat quickly (4 -8 seconds), part of the pulp, 
+although the fruit are then released, this could be depending of the 
+maturity of the fruit. 
+ 
+Six other tool -use techniques including pounding coconut on a stone, 
+searching for arthropods by removing rocks, and hitting gastropods 
+against rocks at the beach were ob served (SVD, Indra Candanedo) in 
+the main entrance mangroves forest near the scientific station of the 
+Coiba National Park managed by the EMP (07°62’65” N and 
+81°72’82”W). Observations were done on October 16, 2015, between 
+09:00 hrs and 12:00 hrs, by film ing a group of eight individuals of C. 
+imitator six different times with distances between 10 to 25 m from the 
+observer. The activities are as follows: 
+ 
+Pounding using Anvil stone for Cocos nucifera 
+Normally executed by an adult ma le surrounded by youngest males 
+and adult females (Observer animal -OM), eventually able to steal 
+some left over from the coconut ( C. nucifera). The activity was done 
+on a flat stone with sharp edges. The stone appeared to be not a natural 
+structure, but rather, part of a piece of concrete left by the penal colony 
+that closed in 2005. The procedures were mostly striking three times, 
+using two hands to hold the fruit, and stopping to eat, revise and leave 
+(Table 1). Eventually six of eight individuals from th e group were 
+paying attention to the one performing the activity ( i.e. the focal 
+animal – FM) and among one to four were located less than 1 m from 
+the FM. The FM always performed this task while sitting or standing 
+over the rock, never from the ground , and accompanied its movements 
+with vigilance in its back and around while eating (Figure 1c, d). When 
+eating, the FM eventually held the fruit with his rear leg. Interactions 
+between the OM and FM were mixed. On some occasions, we 
+observed OM members grabbin g the tail of the FM and in some other 
+occasions OM were sitting next to the FM with perfect tolerance. The 
+later interaction is possibly due to a familiar and/or hierarchical 
+relationship. The activity was performed simultaneously for other 
+young males fr om the same group 20 meters from our first FM. We 
+found husk remnants five meters from the anvil, which suggests the
+
+PDF PAGE 8
+12                  Méndez-Carvajal, P .G. & Valdés-Díaz, S. 
+animals harvest and pile part of the fruit in one place and ended up 
+with the fruit in the anvil. 
+ 
+ 
+Fig. 1  C. imitator feeding behaviour outside the forest :  a) Hammering or 
+skilled pounding,  b) removing rocks and eating, c and d) pounding Cocos 
+nucifera on an anvil (c: Focal Monkey at right; d: Observer monkey at the 
+left). 
+ 
+ 
+DISCUSSION 
+We identified four techniques used as feeding skills by C. imitator 
+outside the forest , and separated them into five categories of 
+behaviour: a) Hammering or skilled pounding, as defined by O’Malley 
+and Fedigan (2005), where the animal repeatedly hammers a gastropod 
+until breaking their shell to eat the content. This technique is different 
+from that reported for S. libidinosus in Caatinga northern Brazil, which 
+uses rocks to open shells (Ferr erira et al., 2010); b) Removing rocks 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+PDF PAGE 9
+Tecnociencia, Vol. 19, N°1  13 
+ 
+and eating. This behaviour was used for arthropods as they do not have 
+shells to remove. C. imitator ingests the prey soon after finding, eating 
+in average of 0.03 sec. (SE±0.03, 0.02 -0.43; n=10), to go for another; 
+c) Eating mangrove fruits, also husking with the mouth and sucking 
+content or biting (Méndez -Carvajal, 2012). All these were considered 
+as an individual activity because each individual of the group perform 
+it by themselves. The last category observed was d) pounding C. 
+nucifera on an anvil. We categorized this as semi -group participation. 
+Although this technique is performed by one individual, at least two or 
+more individuals eventually get part of the leftover food without 
+participating in the activity bu t observing. Participation in cooperative 
+behaviour has been occasionaly reported by Cebus; although more 
+observations are needed to better describe this behaviour (Rose, 1997). 
+Further, hunting in semi -cooperative individuals has been seen in 
+Barro Colorado Island by Méndez-Carvajal (pers. Obs. in 1998), where 
+four Cebus’ individuals attacked and chassed a group of crested guan 
+Penelope purpurascens . Similar accounts of cooperative hunting by 
+this species has been reported in Costa Rica (Fedigan, 1990; Jan son & 
+Boinsky, 1992). 
+ 
+Each of them presented some vigilance while foraging. This could be 
+influenced by observer proximity. It is reported that Cebus primates 
+perform foraging techniques more vigilantly when humans are nearby 
+(Baldwin & Baldwin, 1977). Our observations indicated that vigilance 
+of C. imitator  increased when practicing the foraging techniques 
+removing rocks and using anvils.  Because these behaviours are 
+performed on the ground, the increased vigilance prepared them to 
+escape from possible predators ( H. sapiens; Crocodrylus acutus ). 
+Foraging and being vigilant is a common behaviour for C. imitator in 
+forested areas, especially by individuals that are located at the external 
+side of a group (Robinson, 1981). On Coiba Island there are no reports 
+of Cebus being predated, as there are no reports of felines or eagles, 
+however Boa constrictor and Crocodylus acutus could be mentioned as 
+an eventual predator for coastal foraging. The lack of natural predators 
+on the island could have led the Cebus groups to be smaller than 
+reported elsewhere, and juvenil es may not have learned to be as 
+
+PDF PAGE 10
+14                  Méndez-Carvajal, P .G. & Valdés-Díaz, S. 
+defensive as primates that face natural predators following van -Schaik 
+and van Hooff (1983). This is true if we compare the average group 
+size of C. imitator  on Barro Colorado Island, 17 ind/group (Phillips, 
+1995) with tho se on Coiba Island, 10 ind/group (Méndez -Carvajal, 
+2012). Vigilance was reduced when primates were  in the mangrove’s 
+canopy, which could be related with the stratum used. In this case, 
+primates will relate higher locations from ground as less risky, which is 
+completely understandable for arboreal mammals (Isbell, 1994). As a 
+preliminary result, the most successful technique was the use of stone 
+as an anvil to break coconut, because it allowed C. imitator to obtain 
+more food without walking long distances (t aking into account the 
+amount of nutritional elements in a coconut compared to other 
+resources), expending then less energy, and allowing the participation 
+of other members of the group, with posibilities of repetition. 
+Percentages for the entire activitie s between being: vigilant, moving, 
+eating, pounding and vocalizing suggested that the animals expends 
+3% of the time trying to avoid competition or predation, 28% opening 
+and manipulating the fruit, vocalizing (was not considered as we 
+missed information w hile collecting the sounds), as the main calls 
+were exposed by other members around, however always present; and 
+“eating” with 51% from the entire time observed (Table 1 and 2). For 
+anvils technique, we reported three different observations, and reported 
+benefits not only for the focal individual but also for the observers. 
+Observers (OM) ate 26% of the time, while the focal individuals (FM) 
+ate 96% of the time. Cebus have been reported to change foraging 
+strategies depending on the food available, and is c ommon to practice 
+this behaviour alone if the resources are in a wide section of the forest 
+(Phillips, 1995). 
+ 
+ 
+CONCLUSION 
+Continental coast areas in Coiba island seems to be productive for the 
+Cebus imitator groups as a whole, but we noted that not all individuals 
+look for food in the same way, and apparently few of them know very 
+well how to proceed with anvils in particular. We observed mostly 
+adult males practicing anvils technique, while juveniles or fema les 
+walking to find food hammering and removing stones. Further 
+
+PDF PAGE 11
+Tecnociencia, Vol. 19, N°1  15 
+ 
+observations will be carried on to recognize how these strategies of 
+foraging are influencing the groups of C. imitator on the island. This 
+could be involving sexual differences or hierarchy, but it could be also 
+supporting the predation -feeding-competition theory (Wragham, 
+1979), and its implications for foraging techniques by Cebus (van 
+Schaik & van Hooff,1983).  
+ 
+ 
+AKNOWLEDGEMENTS 
+We would like to thank Ryan Weaver and Timothy Bearder for kindly 
+helping with the English of the manuscript, Alicia Ibañez  for kindly 
+identify the mangrove fruit, to Alejandro Garrido, Indra Candanedo, 
+Zuleika Pinzón, Jorge Garzón for their hel p in the field. Many thanks 
+to Luz Loría Amores, and anonymous reviewers for their comments 
+and improvements to this manuscript. 
+ 
+ 
+REFERENCES 
+Baldwin, J.D. & Baldwin, J.I. 1977. Observations on Cebus capucinus 
+in southwestern Panama. Primates 18(4):937-941. 
+ 
+Bird, C.D. & Emery, N.J. 2009. Insightful problem solving and 
+creative tool modification by captive nontool-using rooks. Proceedings 
+of the National Academy of Sciences 106(25):10370-10375. 
+ 
+Boinsky, S., Quatrone, R.P., & Swartz, H. 2000. Substrate and Tool 
+Use by Brown Capuchins in Suriname: Ecological Contexts and 
+Cognitive Bases. American Anthropologist, 102(4):741-761. 
+ 
+Boubli, J.P., Rylands, A.B., Farias, I.P., Alfaro, M.E. & Alfaro, J.L. 
+2012. Cebus phylogenetic relationships: a preli minary reassessment of 
+the diversity of the untufted capuchin monkeys. American Journal of 
+Primatology 74(4):381-393. 
+ 
+Chevalier-Skolnikoff, S. 1989. Spontaneous tool use and sensorimotor 
+intelligence in Cebus compared with other monkeys and apes. 
+Behavioral and Brain Sciences 12(03):561-588. 
+
+PDF PAGE 12
+16                  Méndez-Carvajal, P .G. & Valdés-Díaz, S. 
+Fedigan, L.M., 1990. Vertebrate predation in Cebus capucinus : meat 
+eating in a neotropical monkey. Folia primatologica 54(3-4):196-205. 
+ 
+Ferreira, R.G., Emidio, R.A., & Jerusalinsky, A. 2010. Three Stones 
+for Three Seeds: Natural Occurrence of Selective Tool Use by 
+Capuchins (Cebus libidinosus) Based on an Analysis of the Weight of 
+Stones Found at Nutting Sites. American Journal of Primatology  
+72:270-275.  
+ 
+Freitas, D.S.D. & Bicca-Marques, J.C. 2009. Object Manipulation in a 
+Captive Group of Capuchin Monkeys ( Cebus nigritus ). Neotropical 
+Primates 16(2):80-81. 
+ 
+Fragaszy, D., & Boinski, S. 1995. Patterns of individual diet choice 
+and efficiency of foraging in wedge -capped capuchin monkeys Cebus 
+olivaceus. Journal of Comparative Psychology 109(4): 339-348. 
+ 
+Fragaszy, D., Izar, P., Visalberghi, E., Ottoni, E.B., & de Oliveira, 
+M.G. 2004. Wild capuchin monkeys (Cebus libidinosus) use anvils and 
+stone pounding tools. American Journal of Primatology  64(4):359-
+366. 
+ 
+Hernández-Camacho, J. & Cooper, R.W. 1976. The nonhuman 
+primates of Colombia. In: Neotropical primates: field studies and 
+conservation, R. W. Thorington, Jr. and P. G. Heltne (eds.), pp.35 -69. 
+National Academy of Sciences, Washington, D. C. 
+ 
+Janson, C.H. & Boinski, S. 1992. Morphological and behavioral 
+adaptations for foraging in generalist primates: the case of the cebines. 
+American Journal of Physical Anthropology 88(4):483-498. 
+ 
+Isbell, L.A. 1994. Predation on primates: ecological patterns  and 
+evolutionary consequences. Evolutionary Anthropology: Issues, News, 
+and Reviews 3(2):61-71. 
+ 
+Longino, J.T. 1984. True anting by the capuchin, Cebus capucinus . 
+Primates 25(2):243-245. 
+ 
+
+PDF PAGE 13
+Tecnociencia, Vol. 19, N°1  17 
+ 
+Méndez-Carvajal, P.G. 2012. Population St udy of Coiba Howler 
+Monkeys (Alouatta coibensis coibensis) and Coiba Capuchin Monkeys 
+(Cebus capucinus imitator ), Coiba Island National Park, Republic of 
+Panama. Journal of Primatology 1:104. 
+ 
+O'Malley, R.C. & Fedigan, L. 2005. Variability in food ‐processing 
+behavior among white ‐faced capuchins ( Cebus capucinus ) in Santa 
+Rosa National Park, Costa Rica. American Journal of Physical 
+Anthropology 128(1):63-73. 
+ 
+Phillips, K.A. 1995. Resource patch size and flexible foraging in 
+white-faced capuchins ( Cebus capuc inus). International Journal of 
+Primatology 16(3):509-519. 
+ 
+Robinson, J.G. 1981. Spatial structure in foraging groups of wedge -
+capped capuchin monkeys Cebus nigrivittatus . Animal Behaviour  
+29(4):1036-1056. 
+ 
+Rodrigues-Canale, G., Guidorizzi, C.E., & Martins-Kierulff, M.C., 
+Rodrigues Gatto, C.A.F. 2009. First Record of Tool Use by Wild 
+Populations of the Yellow -Breasted Capuchin. American Journal of 
+Primatology 71:1-7. 
+ 
+Rose, L.M. 1997. Vertebrate predation and food -sharing in Cebus and 
+Pan. International Journal of Primatology 18(5):727-765. 
+ 
+Waga, I.C., Dacier, A.K., Pinha, P.S., & Tavares, M.C.H. 2006. 
+Spontaneous Tool Use by Wild Capuchin Monkeys (Cebus libidinosus) 
+in the Cerrado. Folia Primatologica 77:337-344 
+ 
+Westergaard, G.C. & Suomi, S.J. 1994 . Hierarchical complexity of 
+combinatorial manipulation in capuchin monkeys ( Cebus apella ). 
+American Journal of Primatology 32(3):171-176. 
+ 
+Wrangham, R. 1979. On the evolution of ape social systems. Social 
+Science Information 18(3):336-368. 
+
+PDF PAGE 14
+18                  Méndez-Carvajal, P .G. & Valdés-Díaz, S. 
+van Schaik, C.P. & van Hooff, J.A.R.A.M. 1983. On the ultimate  
+causes of primate social systems. Behaviour 85(1):91-117. 
+ 
+ 
+ 
+ 
+Recibido  octubre de 2016,  aceptado enero de 2017. 

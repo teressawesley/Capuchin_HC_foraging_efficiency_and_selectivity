@@ -1,0 +1,1413 @@
+PDF PAGE 1
+rsos.royalsocietypublishing.org
+Research
+Cite this article: Barrett BJ, Monteza-Moreno
+CM, Dogandzˇic´ T, Zwyns N, Iba´n˜ez A, Crofoot MC.
+2018 Habitual stone-tool-aided extractive
+foraging in white-faced capuchins,
+Cebus capucinus . R. Soc. open sci. 5: 181002.
+http://dx.doi.org/10.1098/rsos.181002
+Received: 20 June 2018
+Accepted: 25 July 2018
+Subject Category:
+Biology (whole organism)
+Subject Areas:
+behaviour/evolution/ecology
+Keywords:
+tool use, Cebus capucinus , extractive foraging,
+evolutionary anthropology, Coiba, primatology
+Author for correspondence:
+Brendan J. Barrett
+e-mail: bbarrett@orn.mpg.de
+Electronic supplementary material is available
+online at https://dx.doi.org/10.6084/m9.figshare.
+c.4200434
+Habitual stone-tool-aided
+extractive foraging in
+white-faced capuchins,
+Cebus capucinus
+Brendan J. Barrett 1,2,4,5,6 , Claudio M. Monteza-
+Moreno4,5,6,8 , Tamara Dogandzˇic´3,7, Nicolas Zwyns 3,5,
+Alicia Iba´n˜ez9 and Margaret C. Crofoot 4,5,6
+1Cognitive and Cultural Ecology Group, Max Planck Institute for Ornithology, Radolfzell,
+Germany
+2Department of Human Behavior, Ecology, and Culture, and 3Department of Human
+Evolution, Max Planck Institute for Evolutionary Anthropology, Leipzig, Germany
+4Animal Behavior Graduate Group, University of California, Davis, CA, USA
+5Department of Anthropology, University of California, Davis, CA, USA
+6Smithsonian Tropical Research Institute, Balboa, Anco ´n, Panama´, Republic of Panama´
+7Department of Anthropology, University of Pennsylvania, Philadelphia, PA, USA
+8Estacio´n Cientı´fica COIBA-AIP, Ciudad del Saber, Clayton, Panama ´, Republic of Panama´
+9Jadwin Av. 108B, Gamboa, Republic of Panama ´
+BJB, 0000-0002-2725-2385; CMM-M, 0000-0003-2537-2065;
+NZ, 0000-0002-0092-740X
+Habitual reliance on tool use is a marked behavioural difference
+between wild robust (genus Sapajus) and gracile (genus Cebus)
+capuchin monkeys. Despite being well studied and having a
+rich repertoire of social and extractive foraging traditions,
+Cebus sp. rarely use tools and have never been observed
+using stone tools. By contrast, habitual tool use by Sapajus is
+widespread. We review theory and discuss factors which
+might explain these differences in patterns of tool use between
+Cebus and Sapajus. We then report the first case of habitual
+stone tool use in a gracile capuchin: a population of white-
+faced capuchins ( Cebus capucinus imitator ) in Coiba National
+Park, Panama who habitually rely on hammerstone and anvil
+tool use to access structurally protected food items in coastal
+areas including Terminalia catappa seeds, hermit crabs, marine
+snails, terrestrial crabs and other items. This behaviour has
+persisted on one island in Coiba National Park since at least
+2004. From 1 year of camera trapping, we found that stone
+tool use is strongly male-biased. Of the 205 camera trap days
+where tool use was recorded, adult females were never
+observed to use stone tools, although they were frequently
+recorded at the sites and engaged in scrounging behaviour.
+Stone tool use occurs year-round in this population; over half
+& 2018 The Authors. Published by the Royal Society under the terms of the Creative
+Commons Attribution License http:/ /creativecommons.org/licenses/by/4.0/, which permits
+unrestricted use, provided the original author and source are credited.
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 2
+of all identifiable individuals were observed participating. At the most active tool use site, 83.2% of
+days where capuchins were sighted corresponded with tool use. Capuchins inhabiting the Coiba
+archipelago are highly terrestrial, under decreased predation pressure and potentially experience
+resource limitation compared to mainland populations—three conditions considered important for
+the evolution of stone tool use. White-faced capuchin tool use in Coiba National Park thus offers
+unique opportunities to explore the ecological drivers and evolutionary underpinnings of stone
+tool use in a comparative within- and between-species context.
+1. Introduction
+Extractive foraging permits many generalist species to access structurally protected resources. It requires
+both physiological specializations and/or cognitive traits that aid in resource manipulation and
+extraction. Extractive foraging may permit organisms to outcompete species which lack such
+adaptations and may be of great importance in ecologically stressful periods as a fallback foraging
+strategy [1]. It is also important to the ecological success and evolutionary history of many primates.
+Tool use is a taxonomically widespread [2,3] form of extractive foraging which may permit access to
+novel resources, expand diet breadth and may be useful to more efficiently or safely access existing
+resources. Comparative studies of tool use are key to understanding the ecological and social factors
+that drive its evolution within the primate lineage. In primates, the cognitive skills required for tool
+use was probably selected for alongside social and ecological intelligence [4] and generalized problem-
+solving [5] (but see [6] for exceptions to this in other taxa). Once tool use evolves it may create
+interesting eco-evolutionary feedbacks via gene-culture coevolution and/or cultural niche construction
+that are probably important in hominin evolution [7 – 9]. The cultural transmission of toolkits and
+associated behaviours is of central importance to human evolution; it is key to our success as the most
+widely dispersed vertebrate on Earth.
+Comparative studies of stone tool use in non-human primates are of particular interest to
+palaeoanthropologists as it provides a model of the possible tool use behaviours that led to the
+emergence of earliest known stone tool production in hominins. Percussive techniques like those
+observed in non-human primates may have been the precursor to the earliest hominin stone tool
+making around 3 Ma [10 – 14]. Thus, a better understanding of tool use in non-human primates helps
+us to validate and critically evaluate our interpretations of the fossil and archaeological records [15].
+Further, comparative studies of tool use in extant primates allow us to better interpret and understand
+what early lithic technologies looked like, how they may have been used by ancient hominins, as well
+as how site preservation and visibility (e.g. [10]) affect our ability to interpret the fossil record.
+1.1. Differences in tool use between robust and gracile capuchins
+Among capuchin monkeys, habitual reliance on tools, and stone tools in particular, has been considered a
+distinguishing feature of the larger-bodied robust capuchins ( Sapajus) from the smaller gracile capuchins
+(Cebus) since their divergence 6.5 Ma [16]. Stone tool use has been observed in the wild in all well-studied
+robust capuchin species including black-striped capuchins, Sapajus libidinosus [17 – 19]; yellow-breasted
+capuchins, S. xanthosternos [20]; blonde capuchins, S. flavius [21]; black-horned capuchins, S. nigritus
+[22]; and black-capped capuchins, S. apella [23] (based off taxonomic reclassifications [16,24] and
+reviews by Ottoni & Izar [25] and Garber et al . [26]). Other forms of tool use, especially the use of
+sticks to dig and probe, have also been reported in a population of S. libidinosus [27,28] and more
+anecdotally or with single observations in S. apella [29], S. flavius [30] and S. macrocephalus [31].
+Using one liberal definition of tool use adapted from Chevalier-Skolnikof [32] (‘the use of one
+unattached object to effect a change in another’), many of the combinatorial actions that are habitual
+components of the behavioural repertoire of Cebus would qualify as tool use ([33] ch. 7 for a review).
+This includes common foraging behaviours like pounding and scrubbing fruits and animal prey on
+rocks or branches [34 – 37], as well as their use of branches as fulcrums, and breaking sticks in
+aggressive displays [38]. Although there are several reports of Cebus using sticks as clubs, most are
+one-time observations [39]; whether this behaviour is intentional or exploratory is debated [33]. This
+contrasts with Beck’s [40] more commonly accepted definition where three criteria must be satisfied to
+qualify as tool use: the potential tool cannot be part of the animal, must not be attached to the
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+2
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 3
+surrounding environment and must be manipulated to achieve a useful outcome (but see [41] for
+inconsistencies regarding use of this definition).
+Using this more stringent and widely used definition, tool use is rarely observed in gracile capuchins.
+Some social groups of white-faced capuchins, Cebus capucinus imitator , use leaves as sheathes to process
+stinging Automeris caterpillars and Sloanea fruits [35,42]. White-fronted capuchins, C. albifrons have been
+observed to use leaves as sponges for drinking [43] while white-faced capuchins do the same with leaves,
+dried wasp nests and fruits [42]. However, while tools may be helpful for acquiring these resources, they
+are not required. No examples of tool use have been reported in wedge-capped capuchins C. olivaceous or
+many of the recently reclassified [24,44] and less well-studied species (i.e. C. yuracus, C. unicolor,
+C. kaapori, C. versicolor, C. cesarae, C. leucocephalus and C. brunneus ).
+Habitual use of tools, and stone tools in particular, is considered one of the defining behavioural
+differences between Cebus and Sapajus [45]. The near absence of tool use in gracile capuchins is
+puzzling as they are otherwise highly innovative [42] and have a wide array of social [46] and
+foraging traditions [35,47,48] which are socially learned [36,49]. In addition, many physiological and
+social traits which are associated with tool use, including tolerance of close observation by
+conspecifics [34,50], exploratory behaviour [42,51] and dextrous hands [52 – 54] are present in both
+gracile and robust capuchins.
+1.2. Hypotheses explaining the origins and/or maintenance of tool use
+Stone tool use has been observed in only three genera of wild primates: chimpanzees ( Pan troglodytes )
+[55,56], robust capuchins ( Sapajus spp.) [25] and macaques ( Macaca fascicularis ) [57,58]. Within each of
+these groups, however, significant variation in tool use behaviour exists. This variation warrants
+further explanation. There are four commonly evaluated hypotheses to explain the presence and
+absence of tool use in animal populations. Fox et al . [59] synthesized three hypotheses for why
+primates use tools while another was articulated by Rutz et al . [60].
+The necessity hypothesis suggests that ecological need drives stone tool use. The original formulation of
+this hypothesis presupposes that resources are distributed in a manner that favours scramble competition
+(which may be driven by high population densities) and predicts that tool use will be common in
+populations with relatively less favourable energy budgets [59]. The necessity hypothesis primarily
+pertains to the evolutionary origins of tool use, but could also account for its maintenance.
+Subsequent formulations of this hypothesis have focused on an overall reduction in resource
+availability and/or seasonally limited access to food as the causal factor driving tool use innovations
+[61,62]. However, current data on environmental seasonality and resource fluctuations may not reflect
+the historic environmental conditions experienced by species (or populations) when tool use traditions
+emerged. These results must therefore be interpreted with caution.
+The opportunity hypothesis posits that increased availability of, and encounter rates with, tool material
+and appropriate food resources drives tool use [59]. This hypothesis suggests that tool-using populations
+simply live in conditions where they are more likely to encounter materials for tool use and resources
+which require tools for extraction. It does not make any assumptions or predictions about differences
+in resource distributions or foraging efficiency between tool-using and non-tool-using populations.
+The relative profitability hypothesis was originally articulated in studies of tool use in New Caledonian
+crows [60,63]. It suggests that tool-aided foraging behaviours are used when they have a better energetic
+return rate for accessing structurally protected or embedded foods than non-tool-assisted foraging
+techniques. This differs from the necessity hypothesis in that it does not necessarily presuppose any
+differences in resource abundances between tool-using and non-tool-using populations or species [64].
+Further, in contrast with the necessity hypothesis, the relative profitability hypothesis is primarily
+concerned with the maintenance of tool-using behaviours as a function of their increased economic
+utility, rather than their evolutionary origins.
+The limited invention hypothesis [59] is less commonly discussed, as it is difficult (or impossible) to
+empirically test (but see [64]). It states that tool use may be invented rarely, or might be difficult
+to spread and/or maintain, and therefore the patterns of tool use we observe across species and
+populations are driven by neutral evolutionary processes rather than natural selection. This hypothesis
+predicts that instances of tool use might occur in disparate geographical areas where barriers to
+dispersal and cultural transmission exist and that more frequent or complicated tool use will occur
+under conditions where constraints on transmission are relaxed. Barriers to dispersal and cultural
+transmission may be social, cognitive or geographical. Fox et al . [59] argued that the limited invention
+hypothesis is supported when no evidence for the first two can be found. However, it is possible that
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+3
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 4
+the origins of a behaviour might be favoured by selective pressures consistent with the necessity
+hypothesis or historical factors (the environment an animal evolved in) consistent with the
+opportunity hypotheses. Maintenance may be affected by factors consistent with the limited invention
+hypothesis.
+Addressing these four hypotheses is challenging as they are not mutually exclusive. Within-species
+comparisons provide support for all of them ([61,64] for reviews). Within-population support in
+Brazilian populations of S. libidinosus for the opportunity hypothesis has been found for nut cracking
+with stone tools at Fazenda Boa Vista [65] and using stones to dig for invertebrates and tubers at
+Serra da Capivara National Park [66]. Between-species comparisons of chimpanzees and bonobos did
+not find support for the necessity, opportunity or limited invention hypotheses and instead put forth
+that the ancestral ecological conditions in the Pleistocene might explain current behavioural variation
+[64]. Current environmental conditions may not reflect the historic ecological or social conditions that
+favoured the origins of tool use. The spatial scales of resource availability and territory size may
+differentially favour tool use in closely neighbouring populations of the same species, so habitat-wide
+information may not be of use to particular social groups. The temporal scales in which resource
+bottlenecks occur that make tool-aided extractive foraging necessary for population persistence may
+also not be captured on the timescale of a typical research project. For these reasons, it is important to
+be precise regarding if we are addressing the origins/and or maintenance of tool use and endeavour
+to collect data on temporal or spatial scales that are most applicable to our hypotheses.
+Another challenge about addressing these hypotheses is that the spatial and temporal scales at which
+we explore them may exist on different levels of biological organization [67]. Also, these hypotheses
+probably blur the lines between the proximate – ultimate distinction [68]. The opportunity hypothesis,
+when viewed over evolutionary time, is a question about the historic environmental conditions in
+which ancestral populations evolved and whether they were conducive towards tool use. However, it
+is often treated as a hypothesis about proximate mechanisms: is stone tool use more likely to develop
+in social groups or species that are more likely to encounter stone tools in their environment? This
+contrasts with the necessity hypothesis and relative profitability hypothesis which focus on ultimate
+causation, ecological function and fitness outcomes. The limited invention hypothesis, by contrast,
+focuses on the proximate factors which affect the spread of an adaptive tradition which may
+subsequently affect fitness outcomes. This interaction between both levels of biological organization is
+probably important for understanding the distribution of tool use behaviour among primates.
+1.3. Important factors in explaining variation in tool use in capuchins
+Prior work has identified several factors which may explain variation in tool use among extant primates
+and what affects the origins and maintenance of this behaviour [18,59,61,69,70]. These factors include
+resource limitation due to seasonal reductions in food abundance (i.e. tool use as a fallback strategy),
+high abundance of nutritious, embedded foods which require tools to access, low dietary richness,
+availability of stones and anvil sites, increased terrestriality and low predation risk.
+Sufficient abundance of embedded foods and availability of tool-making materials are necessary
+preconditions for stone tool use. They provide a proximate explanation for why stone tool use is
+present (or absent) in a particular group or species. The abundance and nutritional quality of
+resources are also important in addressing the relative profitability hypotheses. Resource limitation,
+low dietary richness, increased terrestriality and low predation risk impact the relative benefits and
+costs of tool use, providing an evolutionary explanation for why tool use arises and persists in some
+cases but not others.
+The distribution of stone tool use among Sapajus populations supports the hypothesis that resource
+limitation and low dietary richness may favour the evolution of this behavioural strategy; tool-using
+Sapajus populations tend to live in drier, more seasonal areas such as the Cerrado and Caatinga of
+Brazil which have less primary productivity, plant richness and fruit abundance compared to
+populations living in the rainier, more productive, species-rich Amazon forest [69]. It has also been
+proposed to be a difference between gracile capuchins in central America and robust capuchins in
+drier regions of Brazil. However, populations of Cebus live in diverse tropical ecosystems including
+seasonal dry forests (where the majority of well-studied populations live), primary and secondary rain
+forests and montane cloud forests. To date, no studies have compared extractive foraging or tool use
+across these ecosystems within Cebus. The hypothesis that organisms will rely on tool use as a fallback
+strategy when easy to process fruits are seasonally limited [1] receives support in robust capuchins
+and chimpanzees [61,71]. However, populations of C. capucinus rely more on extractive foraging
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+4
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 5
+of embedded insects and become more terrestrial when resources are limited at the end of the dry
+season [50,72].
+The relative profitability hypothesis has not been directly compared between populations of tool-
+using and non-tool-using capuchins. If a resource is abundant, easily encountered and of particularly
+high quality, perhaps the costs of learning and using tool use will be compensated for by increased
+nutritional returns. Structurally protected foods which require tool use might be included in the diet if
+other resources in the environment are sufficiently rare or are of low nutritional quality in accordance
+with optimal foraging models [73,74]. Additionally, resource abundance and quality is likely to
+interact with dietary richness, and an increased reliance on tool use might be favoured when there are
+a limited set of food options available. However, any hypothesis about foraging optimality in
+primates might be better informed by social foraging models [75]. Tool use often generates producer –
+scrounger dynamics, which also affects the probability that a foraging behaviour will be culturally
+transmitted [76]. If age or sex differences in the efficiency or proclivity to use stone tools exist, we
+might predict different reliance on tool use across age and sex classes and potential indirect impacts
+of social behaviour.
+Reduced dietary richness might also explain the difference between tool-using and non-tool-using
+populations of Sapajus and Cebus. Groups which live in areas with fewer potential diet items, such as
+islands or low-quality habitats, may be forced to innovate and invest in potentially costly behavioural
+experimentation to make the best of a bad situation. It is also possible that differences in tool use rates
+might be influenced by ranging patterns. Gracile capuchins have larger home ranges than robust
+capuchins, on average (reviewed in [45,77]), and thus might be able to access a more diverse set of
+food items that do not require tool use compared to robust capuchins. However, it is also possible
+that groups of robust capuchins are just more capable of extracting resources out of a smaller area due
+to morphological specializations such as thicker enamel and larger molars [16].
+Stones are needed for stone tools to be used. High availability of the necessary raw materials in the
+environment increases the probability that an individual will interact with them and innovate stone tool
+use. The importance of such opportunities for innovation is supported by within- Sapajus variation in
+stone tool use. Populations of Sapajus (and Cebus) living in the alluvial floodplains of the Amazon, for
+example, have less access to stones than populations living in rockier, drier habitats, and do not use
+stone tools [69]. However, while the availability of raw materials may drive some within-genus or
+within-species variation, it is unlikely to explain broader taxonomic differences in stone tool use;
+within any Cebus or Sapajus species’ range there exists considerable geological variation.
+Increased terrestriality might explain the presence of stone tool use [70,78] consistent with the
+opportunity hypothesis. Individuals are more likely to encounter and wield stone tools on the ground
+than in the canopy. However, both C. capucinus and C. albiforns [79] can be exceptionally terrestrial,
+sometimes in response to seasonal fluctuations in fruit availability [72], yet, no previously studied
+populations of Cebus appear to use tools of any kind with any great frequency.
+Decreased predation risk may lead arboreal species to become more terrestrial (Monteza-Moreno et al.
+[80]), thus, making them more likely to invent or use stone tools on the forest floor. However, the absence
+of predators might also affect ecological competition between conspecifics and heterospecifics with niche
+overlap. Increased within- and between-species competition may affect both population density and
+ranging behaviours of a candidate tool-using species and the abundance of heterospecifics with niche
+overlap, creating feedback loops which negatively affect species richness and abundance which may
+further favour the evolution of tool use. Reduced predation risk may also directly affect the probability
+of stone tool use by creating safe conditions where animals can afford exploratory behaviour,
+potentially leading to the innovation of tool use [60,81]. Stone tool use, in particular, may also directly
+attract predators; it is a loud, conspicuous activity that often occurs in predictable areas where
+resources are clustered, making tool-using individuals easy targets for predators. Stone tool use also
+requires concentration, thus decreasing an organism’s ability to be vigilant. Differences in predation
+risk may explain both within- and between-species variability in tool use.
+2. Study site
+Coiba National Park in the Gulf of Chiriqu ı´ of Panama is an archipelago encompassing nine larger
+islands and more than 100 islets. The main island, Coiba, lies 23 km off Panama’s Pacific coast and
+has been geographically isolated from the mainland for 12 000 – 18 000 years [82]. Coiba National Park
+has significant ecological variation: moist and wet forest account for 60% of its habitat types [83], and
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+5
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 6
+the park also includes mangroves and swamp forests. Coiba National Park receives 3500 mm of rain per
+year which primarily falls during a marked wet season (May – December). Coiba National Park (CNP)
+contains one of the largest remaining parcels of Pacific Central American forest; 75% of the park
+consists of mature forest, due to the island of Coiba’s historic (until 2004) role as a penal colony [84].
+Prior to the penal era which began in 1919, the archipelago (including the islands which contain
+capuchin monkeys) was utilized and inhabited by indigenous people who probably arrived from the
+Azuero Peninsula as early as 250 CE and by subsequent groups from modern-day Chiriqu ı´ and Cocle´
+[85]. Europeans first arrived in Coiba in 1551; subsequent genocide, disease and enslavement by
+Spanish colonists eliminated indigenous populations on the island by the end of the sixteenth century
+[82]. During penal colony times, up to 1000 prisoners and their guards lived in 20 prison camps,
+mostly along the east coast of Coiba, and including one in the northern coast of Jicaro ´ n. Currently,
+only two islands in CNP have any constant human occupation including a research station on
+Rancherı´a and a police station and national park visitors centre on the northeast portion of Coiba. The
+other islands, including Jicaro ´ n, have no recent long-term human settlement; human – wildlife
+interactions are rare and mostly restricted to occasional interactions with local fishermen and tourists
+along the coast.
+Coiba National Park is a UNESCO world heritage site and is a hotspot for marine and terrestrial plant
+and animal endemism [83,86 – 90], much of which is understudied. This includes five endemic species
+and subspecies of terrestrial mammals: the Coiban agouti Dasyprocta coibae , Coiba Island or
+Rothschilds’ white-tail deer Odocoileus virginianus rothschildi , Coiba Island howler monkey Alouatta
+palliata coibensis or Alouatta coibensis , black-eared opossum Didelphis marsupialis battyi and potentially a
+rodent of the genus Zygodontomys [91].
+Three of the largest islands in Coiba National Park, Coiba (50 314 ha), Jicaro´ n (2002 ha) and Rancher ı´a
+(222 ha) support populations of capuchin monkeys ( C. capucinus imitator ) (electronic supplementary
+material, figure S1). Observations from a 12-day survey in 1974 estimated capuchin group sizes on
+Coiba to be similar to mainland populations at Barro Colorado Island [84]. Later estimates [92] show
+similar group sizes with a mean of 10.75 individuals (range 5 – 16) and suggest that capuchins on
+Coiba Island occur at low densities. However, an increased sampling effort, different surveying
+methodologies (such as randomization, camera trapping and mark-recapture analysis) and recent
+advances in analytical approaches might yield a different estimate. Longitudinal studies in Costa Rica
+show larger maximum annual group size with much variance (mean ¼ 23.20, s.d. ¼ 9.26, range ¼ 5 – 40,
+estimated from 20 years of data in fig. 7.1 in [93]). Our qualitative impression on Jicaro ´ n shows group
+sizes up to an estimated 20 individuals and at potentially high population densities. However, more
+systematic data collection, increased sampling effort and nuanced analysis is needed to make reliable
+comparisons of group size and population density, so current estimates should be considered tentative.
+Capuchins living on the islands within the Coiban archipelago provide a natural laboratory for
+examining hypotheses about the evolutionary drivers of tool use. Populations are geographically
+isolated by the ocean, strongly limiting genetic flow and cultural transmission. Additionally, the three
+islands differ in the number of potential food items available to capuchins, following well-established
+patterns of species richness varying as a function of distance from the mainland and island area [94].
+Plant richness on Coiba is less than what is observed in similar forests on the Panamanian mainland
+[95]. Transect data (Iba´n˜ ez et al. [96]) show that Coiba, the largest island, located in the middle of the
+archipelago, is home to 1001 plant species. Jicaro ´ n (the most distant island) and Rancher ı´a, by
+contrast, host similarly depauperate plant communities (261 and 262 species, respectively), despite a
+nearly 10-fold difference in size [97]. Smaller islands are also more likely to suffer from ecological
+perturbations due to edge effects. These two factors combined with the highly terrestrial behaviour of
+capuchins in Coiba National Park (which may increase encounter rates with material for stone tool
+use) due to an absence of terrestrial predators on the islands [84] provides ample opportunity (and
+decreases potential costs) for capuchins to use stone tools.
+3. Methods
+3.1. Coastal surveys
+In 2004, A. Iba´n˜ ez first observed capuchins using stone tools to crack open the endocarps of Terminalia
+catappa—a coastal tree from Asia which has been nativized in the Neotropics and is known commonly in
+Spanish as almendro de playa and in English as sea almonds . Following up on this initial report, a
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+6
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 7
+documentary field crew captured this nut-cracking behaviour on film in 2013 (Paul Stewart and Huw
+Cordey 2017, personal communication). To further document and determine the extent of this unique
+behavioural variant, we conducted field surveys from March 2017 to March 2018. B. Barrett and
+C. Monteza-Moreno surveyed the coasts of Jicaro ´ n, Coiba and Rancher ı´a by boat to identify T. catappa
+groves. We then surveyed these islands, including the entirety of the coasts of Jicaro ´ n and Rancher ı´a
+at least twice, on foot to look for evidence of tool use, including broken endocarps, hammerstones
+and anvils, cracked crab and bivalve shells and coconuts. We also surveyed approximately 8 km of the
+coast of Coiba with rocky intertidal zones and/or T. catappa groves.
+3.2. Camera trapping effort
+To assess potential tool use sites, we deployed unbaited photo (Hyperfire HC600) and video (Ultrafire
+XR6) camera traps (Reconyx, Inc, WI, USA) between 25 March 2017 and 26 March 2018. Photo-
+trapping is advantageous for recording localized tool use for unhabituated primates in remote areas
+[98]. Photo camera traps were set to take a series of 10 images per trigger event with no delay
+between triggers, allowing us to document behavioural sequences. Video camera traps captured
+sequences consisting of one photo followed by 30 s of film per trigger. We deployed cameras at 35
+sites on the islands of Coiba (four sites, 532 trap-nights), Jicaro ´ n (30 sites, 3466 trap-nights) and
+Rancherı´a (one site, 148 trap-nights) (figure 1). At four sites (two Coiba, one Rancher ı´a, one Jicaro´ n)
+where we found almendros and capuchins but few rocks, we set up experimental anvils and
+hammerstones to see if capuchins would use them.
+3.3. Weighing and scanning tools
+Graphic documentation in the field consisted of geo-located digital pictures of sites and tools, three-
+dimensional models of sites using geo-referenced images (Agisoft Photoscan), hand-made and digital
+mapping and situational sketches. The use of this set of standardized archaeological methods
+facilitates comparison with archaeological sites (and any others when the same protocols are used).
+Using a digital scale, we weighed a subset of the hammerstones ( N ¼ 60) used in the behavioural
+sequences captured by our camera traps or observed during coastal surveys (i.e. stones which were
+piled on broken Terminalia endocarps, resting on coastal driftwood). Broken hammers were refitted on
+site before being weighted. A set of photographs of several of these tools were taken with a goal to
+create three-dimensional models according to protocols established by Porter et al . [99].
+date (YYYYMMDD)
+camera station
+2017040120170501 2017060120170701 20170801 2017090120171001 2017110120171201 20180101 2018020120180301
+Coiba
+Jicaron
+Rancheria
+Cebus–23–01
+Cebus–01–01
+Cebus–02–01
+Cebus–02–02
+Cebus–03–01
+Cebus–03–02
+Cebus–04–01
+Cebus–05–01
+Cebus–06–01
+Cebus–07–01
+Cebus–07–02
+Cebus–08–01
+Cebus–09–01
+Cebus–09–02
+Cebus–10–01
+Cebus–11–01
+Cebus–12–01
+Cebus–03–03
+Cebus–13–01
+Cebus–14–01
+Cebus–15–01
+Cebus–16–01
+Cebus–17–01
+Cebus–17–02
+Cebus–17–03
+Cebus–18–01
+Cebus–19–01
+Cebus–20–01
+Cebus–21–01
+Cebus–03–04
+Cebus–07–03
+Cebus–15–02
+Cebus–15–03
+Cebus–16–02
+Cebus–22–01
+Figure 1. Visualization of camera trap sampling effort. Rows are camera trap locations. Smaller lines indicate length of deployment,
+thick lines indicate period of deployment when camera was filming and focused on tool use site (i.e. was not moved by animals,
+had working batteries, was not stolen or vandalized). Diamond points occur at each day where stone tool use was recorded. Colours
+indicate island in Coiba National Park.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+7
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 8
+3.4. Statistics
+To estimate the size of stone tools and monthly rates of tool use across camera stations, we used
+generalized linear models (GLM) and generalized linear mixed effect models (GLMM) fit using the
+map2stan function in the rethinking package (v. 1.59) [100] in R (v. 3.43) [101]. map2stan is a front-
+end which utilizes rSTAN (v. 2.17.2), a Hamiltonian MCMC sampling engine [102]. To estimate mean
+stone tool size, we fit a Gamma GLM using a log link as stone tool weights are positive, non-normal
+and lower-bound by zero. To estimate monthly tool use rates, we used an aggregated binomial
+GLMM with a logit link. To analyse stone tool use rates, we analysed a subset of camera trap data
+where stone tool use was observed at least once. Our outcome was the number of days per month
+where tool use was observed at each camera station and the number of trials was the number of days
+per month where a camera recorded a capuchin at least once. We estimated varying intercepts for
+each camera station ( N ¼ 7), camera station deployment ( N ¼ 13) and unique month ( N ¼ 12). All
+data, model and graphing code for this paper can be found at this manuscript’s corresponding
+GitHub repository. These annual rates are a coarse, preliminary measure of stone tool use in this
+population and future analyses will account for inter-individual and monthly variation in tool use
+rate at more consistently sampled tool use sites.
+4. Findings
+4.1. Habitual reliance on stone-tool-aided extractive foraging in white-faced capuchins
+We found that capuchins on Jicaro´ n in Coiba National Park habitually use stone tools to open a variety of
+food resources including T. catappa endocarps (figure 2; electronic supplementary material, video S1),
+hermit crabs (figure 4 c; electronic supplementary material, video S1) and halloween crabs ( Gecarcinus
+quadratus) (figure 4 b,d ). Coconuts ( Cocos nucifera ) (electronic supplementary material, figure S3) and
+marine snails are also processed with a hammerstone and anvil, although we observe it much less
+frequently. At the most active tool use site, 83.2% of days where capuchins were observed
+corresponded with tool use (figure 3). Middens of T. catappa shells, coconut husks and tool shards are
+readily apparent at tool use sites (figures 4 b,5c). Coconuts are commonly eaten by capuchins but they
+(a)
+(c) (d)
+(b)
+Figure 2. (a) A juvenile male capuchin uses a hammerstone to crack open a T. catappa endocarp on a stone anvil. ( b) An adult male
+after cracking open a T. catappa endocarp on a wooden anvil. ( c) Juvenile male capuchin observing an older juvenile processing
+T. catappa endocarps with a hammerstone. ( d ) Juvenile male about to process T. catappa—note prehensile tail used for support.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+8
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 9
+are almost always opened using only a stone or wooden anvil, as has been described on Coiba Island [37]
+and is widespread across Jicaro´ n. At the tool use site, juveniles primarily use stones to pound coconut
+flesh from husk shards after they have been opened—using a hammerstone, so far, appears uncommon.
+Temporary tool use occupations are also commonly observed in the intertidal and are regularly
+wiped out by daily changes in the tide (figure 5 a). Small- and medium-sized occupations are located
+(a)
+(c) (d)
+(b)
+Figure 4. Wooden ( a,c) and stone anvils ( b,d) used by capuchins to process structurally protected foods. Note accumulation of
+processed materials including old endocarps, coconut husks and shells in ( a,b). ( c) Hermit crab exoskeleton and shell remains
+processed with a stone tool on dead tree branch. ( b,d ) Stone hammer on stone anvil with T. catappa endocarps and
+halloween crab remains. The leaf stuck under the hammer in ( d) indicates that the food was processed shortly before
+discovery. Percussion impacts can be observed on the crab limb.
+0 0.2 0.4 0.6 0.8 1.0
+0
+2
+4
+6
+8
+monthly proportion of days where tool use was observed
+posterior density
+Figure 3. Tool use sites differed greatly in their observed usage. On average, tool use was observed at each camera site on 45.3% of
+days where capuchins were observed. Cameras at the most active tool use sites (orange curve on far right) recorded tool use on 83.2% of
+the days where capuchins were observed. Curves show posterior predictions of probability of observing tool use on each day conditional
+on observing a capuchin across all months. Colours correspond to camera stations. Points on X-axis are raw proportions.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+9
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 10
+within dry stream beds (figure 5 b) and larger accumulations of processed food lie on higher ground
+(figure 5 c). This situation suggests that the joint effect of the tide and seasonal activity of the stream
+impact site formation processes and thereby, may affect site visibility. Further, during coastal surveys,
+we observed stones piled on broken clam shells at the edge of the intertidal zone, consistent with
+capuchins using stone tools to exploit this rich marine resource (electronic supplementary material,
+figure S2). In some instances, the stones were spaced in a regular pattern, at distances similar to the
+inter-individual distances observed in foraging capuchins. Destruction of cameras by vandals and
+harsh marine conditions prevented us from confirming this behaviour.
+In contrast with Jicaro´ n, our initial coastal surveys and camera trapping failed to return evidence of stone
+tool use by capuchins on the islands of Coiba or Rancherı´a (figure 1). This occurs despite the presence of the
+necessary lithic materials and structurally embedded foods on all three islands. Halloween crabs, hermit
+crabs, marine snails, coconuts and T. catappa occur on all islands. Abundances of T. catappa trees are
+currently being estimated, but preliminary observation suggests that they are relatively rarer on
+Rancherı´a. Groves of similar (or higher) densities occur on sections of Coiba and Rancher ı´a where we
+have not observed stone tool use. Future studies will address the relative abundances within and
+between islands of the other two primary processed food items—halloween crabs and hermit crabs. We
+did not observe tool use at any of the artificial anvil sites we set up on the islands (figure 1).
+4.2. Description of stone tools
+Capuchin tool use primarily consisted of pounding food items using a hammerstone. Preliminary
+observations indicate that the pounding technique is direct percussion with a hard hammer ( sensu
+[103], figure 2; electronic supplementary material, video S1). Food items were placed on stationary
+anvils of mineral or organic material (figures 3 and 4). Mineral anvils included rocky outcroppings
+and bedrock along stream banks, in the forest interior and in the intertidal zone (figure 5). In cases
+where stones were used as anvils, this technique could have produced a rebound force. Large fallen
+trees and logs in the forest and washed up in the intertidal zone were also used for pounding, as
+were the bases of trees and tree branches. In some cases, hammerstones were transported 2 – 3 m up
+into the canopy. When used as a support for pounding, wood is less likely to produce a rebound
+force, suggesting a use of wood as a stand-on surface to increase the accuracy of the strike or easy
+collection of the food item.
+Capuchins primarily used cobbles collected from streams as hammerstones (figure 6). In some cases,
+stones from the marine intertidal and eroded hillsides were also used to process food items. A sample of
+the tools randomly collected on trips in July 2017, January 2018 and March 2018 from 60 tool use sites
+used by capuchins on Jicaro ´ n varied greatly in mass (mean ¼ 740.7 g, s.d. 402.7, range 172 – 2256 g, n
+60; figure 7). Capuchins used large stones—one weighing more than 2 kg—to process T. catappa ,
+adopting a two-handed grip with a bipedal stance, and often using their semi-prehensile tails for
+support and leverage. By contrast, smaller items such as hermit crabs and snails were cracked with a
+two- or one-handed grip in a crouching position.
+Based on our photographic evidence and surveys, both hammerstones (electronic supplementary
+material, figure S4) and food items were sometimes transported to the tool use sites (electronic
+supplementary material, video S1). Terminalia catappa endocarps, for example, were often collected
+multiply underneath T. catappa trees at the shoreline and transported to anvil sites deeper in the
+forest. In this population, the use of stone tools is heavily male-biased. Over the course of 1 year, we
+(a) (c)(b)
+Figure 5. (a) Elusive tool use occupation in the intertidal zone that is regularly destroyed by daily tidal changes. (b) Medium-sized tool
+use occupation along stream bank that is destroyed less regularly by seasonal floods. ( c) Large tool use occupation lying on higher
+ground away from streams and shore. Accumulation of tools and processed food shows potential for archaeological excavation.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+10
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 11
+did not observe a single adult female use stone tools despite them commonly engaging in scrounging
+behaviour in the vicinity. Tool use in this population also generates interest and close-range
+observation from conspecifics, providing opportunities for social learning (figure 2 c; electronic
+supplementary material, video S1).
+5. Discussion
+This is the first description of habitual stone tool use in gracile capuchin monkeys, adding Cebus to the list
+of primate genera with populations who habitually use stone tools in the wild ( Sapajus, Macaca, Pan). Tool
+use by capuchins on Jicaro´ n shares key features with the patterns of behaviour described in long-tailed
+macaque populations in Thailand: stone tool use occurs solely on islands and is focused on coastal
+resources [104]. Another similarity to long-tailed macaques is that multiple hammering techniques are
+used to process particular types of prey [105]; however, the observed behavioural diversity appears to
+be less in these capuchins than macaques. At first glance, it appears that capuchins use stone tools
+more for plant materials than marine invertebrates. However, the absence of direct observation in an
+(a)
+(b)
+Figure 6. Examples of hammerstones from Jicaro ´n sites used for nut-cracking weighing ( a) 989 g and ( b) 1202 g.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+11
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 12
+unhabituated population and the challenges of placing camera traps in the intertidal zone (where
+mounting points are rare and destruction by tides and potentially dangerous narcotics traffickers is
+common) currently limit our ability to fully understand the scope and frequency of tool use for
+marine invertebrates without direct observation.
+The patterns of tool use observed in capuchins on Jicaro ´ n also share many similarities with
+nut-cracking behaviour in Sapajus. Individuals habitually re-used tools and favoured a small number
+of repeatedly visited tool use sites to which they transported tools and materials for processing. The
+accumulation of debris at these tool use sites and the comparatively dry climate on Jicaro ´ n offers
+potential for preservation and archaeological excavation.
+Gracile capuchin tool use is also similar to chimpanzees in that capuchins transport both processing
+material and stone tools to particular anvil sites that are re-used over time. However, tool use also
+appears more sporadically in space. This population of Cebus, several populations of long-tailed
+macaques in Thailand [104,106], and some populations of Sapajus [107] target one of the same
+species—T. catappa . This provides a unique opportunity to directly compare tool use behaviour,
+quantify differences in foraging efficiency, material choice and the social behaviours surrounding tool
+use for an identical resource across three primate species in the wild.
+Stone tool use appears to have some potential seasonality—the lowest rates of tool use occurred in the
+transition periods between wet and dry season (figure 8). This pattern differs from what has been
+observed with extractive foraging behaviours in Cebus in neotropical dry forests [50,72] where
+extractive foraging increases in the transition periods between seasons. More rigorous analysis of both
+behavioural and ecological data in a comparable manner is needed to verify this observation.
+Similar to robust capuchins [17,28,108,109], but unlike in chimpanzees [110,111], we observe a male
+sex-bias in tool use (in macaques the bias differs depending on the type of tool use and food processed
+[112]). Despite this species having the largest degree of sexual dimorphism of any robust or gracile
+capuchin species and being the smallest observed wild primate species to habitually use stone tools
+(adult males weigh 3 – 3.8 kg and adult females weigh 2 – 3 kg [33]), we do not think this sex difference
+is due to differences in body size. Juveniles much smaller than adult females habitually use tools.
+Even if future observations do show adult female capuchins using tools, this difference is startling.
+Potential differences for this behaviour might be differing foraging behaviours among male and
+females—perhaps females are allowed access to better quality resources in fruiting trees and do not
+need to use stone tools to acquire adequate nutrition. Another possibility is that sex differences in
+the visual systems make it easier for dichromatic males to detect camouflaged almendra fruits on the
+forest floor compared to females who are better at detecting contrasting colours [113]. There also may
+0 500 1000 1500 2000
+mean stone tool weight (g)
+Figure 7. Model predictions from a gamma GLM of mean stone tool weight. Dark line is posterior mean estimate, while lighter lines
+are 100 randomly sampled posterior predictions to visualize uncertainty.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+12
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 13
+be sex differences in proclivity for combinatorial actions as has been observed in S. apella [114]. Perhaps
+males are simply more likely to spend time on the ground than females as in other species of New World
+monkeys [115], increasing the odds that they will use tools. High population densities and resource
+limitation on this island might favour a reversal in philopatry from female-biased to male-biased; on a
+resource-limited island with high population densities, we might predict females to be the dispersing
+sex [116]. Thus, adult females in this group who did use tools may have emigrated to another area
+where we did not observe or detect them using tools and adult females we observe in this group are
+natal to non-tool-using groups. The presence of a localized tradition solely in the (typically)
+non-philopatric sex is puzzling, and something we are excited to address in the future.
+5.1. Ecology of stone tool use
+Capuchins in Coiba National Park spend an unusually high percentage of their time travelling and foraging
+on the ground [84], which may be due to the absence of terrestrial predators on these islands (Monteza-
+Moreno et al. [80]). By providing opportunities for capuchins to interact with and manipulate stones, this
+expansion into the terrestrial niche may have facilitated the emergence of this plausible cultural tradition.
+Additionally, the islands of Coiba National Park are particularly prone to climatic variation from El
+Nin˜ o – Southern Oscillation (ENSO) cycles [117], edge effects and climate change. These factors,
+combined with a decrease in dietary richness, might drive foraging innovation in times of resource scarcity.
+It is important to note that stone tool uses on Jicaro´n appears to be limited to particular sections of the
+island. Based on our current observations, it is probably limited to a single group along the coast, despite
+the availability of the necessary resources in other coastal areas. We have yet to find any evidence of stone
+tool use on the coasts of Coiba or Rancherı´a (figure 1), but surveys are still underway. Further, many of the
+resources which capuchins on Jicaro´ n process using stone tools are available to and eaten by other white-
+faced capuchin populations including hermit crabs [118], halloween crabs (B. Barrett 2017, personal
+observation), marine snails and coconuts [37]. Fleshy exocarps of T. catappa are consumed by other
+capuchin groups across Coiba National Park and in Costa Rica [119]—however, capuchins are unable to
+access the nutritious endocarps without tools. This begs the question: why does this variation exist? How
+does between-group and between-island dispersal structure cultural and genetic variation?
+It is possible that there may exist undetected tool-using populations in other areas of Coiba National
+Park. As previously noted, site preservation might have an impact on the visibility of tool use but it is
+unlikely to obliterate all signs of such behaviour. Additionally, the rugged topography and size of the
+0
+0.2
+0.4
+0.6
+0.8
+1.0
+month
+monthly proportion of days where tool use was observed
+Mar 2017 April 2017 May 2017 June 2017 July 2017 Aug 2017 Sept 2017 Oct 2017 Nov 2017 Dec 2017 Jan 2018 Feb 2018 Mar 2018
+Figure 8. Tool use rates appear lowest in the transition months from dry to wet (April and May) and wet to dry (November)
+seasons. Graph shows model predictions of the probability of observing tool use per day for each month conditional on
+observing a capuchin at each camera site. Grey diamonds lie at posterior mean estimate while lines indicate 89% posterior
+credible interval. Each colour is a raw proportion per camera deployment which corresponds with a camera trap station.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+13
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 14
+islands, limited accessibility of many locations by boat or foot and prevalence of cliffs and mangrove
+swamps on long stretches of coast prevent us from safely conducting randomized surveys for tool
+use—particularly on Coiba. Another limitation in identifying tool use on other islands is that our
+camera trapping effort was not proportional to island area or habitat type, as our primary aim in this
+initial round of research was to focus on describing a behaviour in areas and islands where we knew
+tool use was likely to have occurred given logistical and financial constraints. For these reasons, we
+have used targeted sampling and focused on looking for evidence of tool use in areas where we
+would predict it to exist: rocky intertidal zones with access to forest interior, areas where T. catappa is
+common, underneath trees with hard, structurally protected fruits in the forest interior and along
+rocky, seasonally dry stream beds. Further surveys of the forest interiors of Jicaro ´ n and Coiba and
+along the coast of Coiba Island are planned for future expeditions and our uncertainty of absence on
+coastal areas will be quantified relative to sampling effort. We hope to further increase camera
+trapping effort on Coiba and Jicaro ´ n in the future. We can also not rule out that ecological differences
+between Jicaro´ n and populations on other islands and the mainland cannot explain the patterns of
+tool use we observe. Addressing this is a promising future direction, and to achieve this systematic,
+longitudinal data on resource availability and abundance at each site would be needed.
+5.2. Conservation implications
+How isolated populations fare is a major conservation concern, and island systems provide an
+opportunity to explore the impacts of long-term isolation [83] and small population size while
+providing insight into how rapid anthropogenic change may affect threatened mammal populations
+due to species invasions [120] and climate change [121,122]. The capuchins of Coiba National Park are
+an excellent study system to understand how geographical isolation affects both genetic and cultural
+diversity, and the ability of these two interacting inheritance systems to facilitate species’ responses to
+environmental change. Evidence of amelanism for capuchins on the island of Coiba [89] is consistent
+with increased homozygosity due to founder effects or inbreeding. Yet the observed behavioural
+flexibility of capuchins on Jicaro ´ n displayed in this paper and of capuchins on Coiba [37] suggest that
+they are behaviourally adapting to island life—potentially through social learning. Continued
+investigations into the behavioural flexibility of capuchins living in the Coiban archipelago through
+foraging innovation or behavioural and social flexibility will provide insight into the contributions of
+genetic and cultural variability in responding to ecological stress in a primate population.
+One noticeable observation, is that some coastal populations of capuchins in Coiba National Park,
+including the one at the tool use sites, can be exposed to tremendous amounts of anthropogenic
+plastic waste which washes ashore from the Pacific ocean (electronic supplementary material, video
+S1). While primates occasionally appear to search for embedded foods in this debris, as they would
+browse for embedded arthropods in the leaf litter, how anthropogenic marine plastic that washes
+ashore impacts mammalian health and behaviour is a potentially important avenue of inquiry to
+examine in Coiba National Park.
+5.3. Taxonomic status
+Lastly, evaluating the taxonomic status of capuchin monkeys living in Coiba National Park is essential.
+Knowing whether these capuchins are an endemic species or subspecies will be important in affecting
+conservation decisions in an area that is threatened by development and climate change [90]. Coiba is
+home to an endemic subspecies of howler monkey, A. palliata coibensis [123,124], which some consider
+to be its own species, A. coibensis [92,125]. However, no similar genetic or morphological comparisons
+of Coiban archipelago versus mainland capuchin populations have been undertaken to determine
+if the Coiban capuchins are taxonomically unique. Capuchin samples collected in Coiba National
+Park in the early twentieth century were smaller than mainland samples ([126]; pp. 232 – 233), an
+observation consistent with the ‘island rule’—that larger mammals tend to become smaller on islands
+to cope with resource limitation [127,128]. Analysis of the genetic diversity of capuchins living across
+the archipelago and those of the nearby Panamanian mainland will help address taxonomic status
+and permit us to understand if social systems flexibly respond to the ecological pressures associated
+with island living. Conserving behavioural variation of cultural traditions in capuchins is also
+important to inform conservation decisions in Coiba National Park, as culture is an important means
+by which organisms adapt to environmental change [129 – 131]. Panama is also an important
+biogeographic corridor in the evolution of Cebus, yet there is a dearth of Cebus genetic samples from
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+14
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 15
+areas outside of the canal zone. Comparing genetic samples from Coiba National Park to more samples
+across the Panamanian mainland will help clarify whether Pacific capuchins should be considered a
+separate species ( C. imitator ) from their Atlantic congeners ( C. capucinus ) [16,45,132].
+Ethics. This research was conducted under Ministerio de Ambiente, Panama ´, scientific permit no. SC/A-23-17 and
+corresponding renewals and addenda. No animal care and use protocol was required for this study.
+Data accessibility. All corresponding data and code for graphing and analysis can be found here: https:/ /github.com/
+bjbarrett/CoibaCebusTool1.
+Authors’ contributions. B.J.B. conducted fieldwork, participated in the design of the study, analysed the data and drafted
+the manuscript. C.M.M.-M conducted fieldwork, participated in design of the study, and helped draft the manuscript.
+T.D. provided scans of stone tools and helped draft the manuscript. N.Z. conducted fieldwork and helped draft
+the manuscript. A.I. made the initial discovery in the field and helped draft the manuscript. M.C.C. participated in
+the design of the study and helped draft the manuscript. All the authors gave their final approval for publication.
+Competing interests. The authors declare no competing interests.
+Funding. This research was funded by a Smithsonian Tropical Research Institute Short-term Fellowship, a Coss Award
+for International Field Research through UC Davis and an L.S.B. Leakey Foundation grant awarded to B.J.B. as well as
+funds from the Max Planck Institute. It was also supported by a Packard Foundation Fellowship (2016-65130) and
+grant from the National Science Foundation (NSF BCS 1514174) awarded to M.C.C.
+Acknowledgements. Thanks to Owen McMillan and the staff at the Smithsonian Tropical Research Institute for support—
+particularly STRI’s Rancheria field station; Eliezer Vega, Chris Dillis, Pedro Luis Castillo, Zarluis Miguel Mijango and
+Evelyn del Rosario assisted with fieldwork. Thanks to Paul Stewart and Huw Cordey of Silverback films for
+correspondence and footage, and to two reviewers who provided useful feedback on this manuscript.
+References
+1. Marshall AJ, Wrangham RW. 2007 Evolutionary
+consequences of fallback foods. Int. J. Primatol.
+28, 1219. (doi:10.1007/s10764-007-9218-5)
+2. Bentley-Condit VK, Smith E. 2010 Animal tool
+use: current definitions and an updated
+comprehensive catalog. Behaviour 147,
+185 – 32A. (doi:10.1163/
+000579509X12512865686555)
+3. Shumaker RW, Walkup KR, Beck BB. 2011
+Animal tool behavior: the use and manufacture
+of tools by animals . Baltimore, MD: JHU Press.
+4. Reader SM, Hager Y, Laland KN. 2011 The
+evolution of primate general and cultural
+intelligence. Phil. Trans. R. Soc. B 366,
+1017 – 1027. (doi:10.1098/rstb.2010.0342)
+5. Seed A, Byrne R. 2010 Animal tool-use. Curr.
+Biol. 20, R1032 – R1039. (doi:10.1016/j.cub.
+2010.09.042)
+6. Teschke I, Wascher CAF, Scriba MF, von Bayern
+AMP, Huml V, Siemers B, Tebbich S. 2013 Did
+tool-use evolve with enhanced physical
+cognitive abilities? Phil. Trans. R. Soc. B 368,
+20120418. (doi:10.1098/rstb.2012.0418)
+7. Richerson PJ, Boyd R. 2005 Not by genes alone .
+Chicago, IL: University of Chicago Press.
+8. Kacelnik A. 2009 Tools for thought or thoughts
+for tools? Proc. Natl Acad. Sci. USA 106,
+10 071–10 072. (doi:10.1073/pnas.0904735106)
+9. Laland KN, Odling-Smee J, Myles S. 2010 How
+culture shaped the human genome: bringing
+genetics and the human sciences together. Nat.
+Rev. Genet. 11, 137 – 148. (doi:10.1038/
+nrg2734)
+10. Panger MA, Brooks AS, Richmond BG, Wood B.
+2002 Older than the Oldowan? Rethinking the
+emergence of hominin tool use. Evol. Anthropol.
+11, 235 – 245. (doi:10.1002/evan.10094)
+11. Toth N, Schick K. 2009 The Oldowan: the tool
+making of early hominins and chimpanzees
+compared. Annu. Rev. Anthropol. 38, 289 – 305.
+(doi:10.1146/annurev-anthro-091908-164521)
+12. McPherron SP, Alemseged Z, Marean CW, Wynn
+JG, Reed D, Geraads D, Bobe R, Be´arat HA. 2010
+Evidence for stone-tool-assisted consumption of
+animal tissues before 3.39 million years ago at
+Dikika, Ethiopia. Nature 466, 857 – 860. (doi:10.
+1038/nature09248)
+13. Harmand S et al. 2015 3.3-million-year-old
+stone tools from Lomekwi 3, West Turkana,
+Kenya. Nature 521, 310 – 315. (doi:10.1038/
+nature14464)
+14. Arroyo A, de la Torre I. 2016 Assessing the
+function of pounding tools in the early stone
+age: a microscopic approach to the analysis of
+percussive artefacts from beds I and II, Olduvai
+Gorge (Tanzania). J. Archaeol. Sci. 74, 23 – 34.
+(doi:10.1016/j.jas.2016.08.003)
+15. Proffitt T, Luncz LV, Falo ´tico T, Ottoni EB, de la
+Torre I, Haslam M. 2016 Wild monkeys flake
+stone tools. Nature 539, 85 – 88. (doi:10.1038/
+nature20112)
+16. Lynch Alfaro JWL, Silva JdSE, Rylands AB. 2012
+How different are robust and gracile capuchin
+monkeys? An argument for the use of Sapajus
+and Cebus. Am. J. Primatol. 74, 273 – 286.
+(doi:10.1002/ajp.22007)
+17. Ottoni EB, Mannu M. 2001 Semifree-ranging
+tufted capuchins ( Cebus apella ) spontaneously
+use tools to crack open nuts. Int. J. Primatol. 22,
+347 – 358. (doi:10.1023/A:1010747426841)
+18. Fragaszy D, Izar P, Visalberghi E, Ottoni EB, de
+Oliveira MG. 2004 Wild capuchin monkeys
+(Cebus libidinosus ) use anvils and stone
+pounding tools. Am. J. Primatol. 64, 359 – 366.
+(doi:10.1002/ajp.20085)
+19. Mendes FDC, Cardoso RM, Ottoni EB, Izar P,
+Villar DNA, Marquezan RF. 2015 Diversity of
+nutcracking tool sites used by Sapajus
+libidinosus in Brazilian Cerrado. Am. J. Primatol.
+77, 535 – 546. (doi:10.1002/ajp.22373)
+20. Canale GR, Guidorizzi CE, Kierulff MCM, Gatto
+CAFR. 2009 First record of tool use by wild
+populations of the yellow-breasted capuchin
+monkey (Cebus xanthosternos) and new records
+for the bearded capuchin ( Cebus libidinosus ).
+Am. J. Primatol. 71, 366 – 372. (doi:10.1002/ajp.
+20648)
+21. Ferreira RG, Jerusalinsky L, Silva TCF, de Souza
+Fialho M, de Arau´jo Roque A, Fernandes A,
+Arruda F. 2009 On the occurrence of Cebus
+flavius (Schreber 1774) in the Caatinga, and the
+use of semi-arid environments by Cebus species
+in the Brazilian state of Rio Grande do Norte.
+Primates 50, 357 – 362. (doi:10.1007/s10329-
+009-0156-z)
+22. Rocha VJ, Reis N, Sekiama ML. 1998 Uso de
+ferramentas por Cebus apella (Linnaeus)
+(Primates, Cebidae) para obtenc¸a˜o de larvas
+de coleo´ptera que parasitam sementes de
+Syagrus romanzoffianum (Cham.) Glassm.
+(Arecaceae). Revista Brasileira de Zoologia 15,
+945 – 950. (doi:10.1590/S0101-817519980
+00400012)
+23. Boinski S, Quatrone RP, Swartz H. 2000
+Substrate and tool use by brown capuchins in
+Suriname: ecological contexts and cognitive
+bases. Am. Anthropol. 102, 741 – 761. (doi:10.
+1525/aa.2000.102.4.741)
+24. Boubli JP, Rylands AB, Farias IP, Alfaro ME,
+Lynch Alfaro J. 2012 Cebus phylogenetic
+relationships: a preliminary reassessment of the
+diversity of the untufted capuchin monkeys.
+Am. J. Primatol. 74, 381 – 393. (doi:10.1002/ajp.
+21998)
+25. Ottoni EB, Izar P. 2008 Capuchin monkey tool
+use: overview and implications.
+Evol. Anthropol.
+17, 171 – 178. (doi:10.1002/evan.20185)
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+15
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 16
+26. Garber PA, Gomes D, Bicca-Marques J. 2012
+Experimental field study of problem-solving
+using tools in free-ranging capuchins ( Sapajus
+nigritus, formerly Cebus nigritus ).
+Am. J. Primatol. 74, 344 – 358. (doi:10.1002/
+ajp.20957)
+27. Mannu M, Ottoni EB. 2009 The enhanced
+tool-kit of two groups of wild bearded capuchin
+monkeys in the Caatinga: tool making,
+associative use, and secondary tools.
+Am. J. Primatol. 71, 242 – 251. (doi:10.1002/
+ajp.20642)
+28. Falo ´tico T, Ottoni EB. 2014 Sexual bias in probe
+tool manufacture and use by wild bearded
+capuchin monkeys. Behav. Processes 108,
+117 – 122. (doi:10.1016/j.beproc.2014.09.036)
+29. Fernandes ME. 1991 Tool use and predation of
+oysters (Crassostrea rhizophorae) by the tufted
+capuchin, Cebus apella appella, in brackish water
+mangrove swamp. Primates 32, 529 – 531.
+(doi:10.1007/BF02381944)
+30. Souto A, Bione CB, Bastos M, Bezerra BM,
+Fragaszy D, Schiel N. 2011 Critically endangered
+blonde capuchins fish for termites and use new
+techniques to accomplish the task. Biol. Lett. 7,
+532 – 535. (doi:10.1098/rsbl.2011.0034)
+31. Torralvo K, Rabelo RM, Andrade A, Botero-Arias
+R. 2017 Tool use by Amazonian capuchin
+monkeys during predation on caiman nests in a
+high-productivity forest. Primates 58, 279 – 283.
+(doi:10.1007/s10329-017-0603-1)
+32. Chevalier-Skolnikoff S. 1989 Spontaneous tool
+use and sensorimotor intelligence in Cebus
+compared with other monkeys and apes. Behav.
+Brain Sci. 12, 561 – 588. (doi:10.1017/
+S0140525X00057678)
+33. Fragaszy DM, Visalberghi E, Fedigan LM. 2004
+The complete capuchin: the biology of the genus
+Cebus. Cambridge, UK: Cambridge University
+Press.
+34. Oppenheimer JR. 1968 Behavior and ecology of
+the white-faced monkey: Cebus capucinus ,o n
+Barro Colorado Island, C.Z. Urbana: University
+of Illinois.
+35. Panger MA, Perry S, Rose L, Gros-Louis J, Vogel
+E, Mackinnon KC Baker M. 2002 Cross-site
+differences in foraging behavior of white-faced
+capuchins ( Cebus capucinus ). Am. J. Phys.
+Anthropol. 119, 52 – 66. (doi:10.1002/ajpa.
+10103)
+36. Perry S. 2009 Conformism in the food
+processing techniques of white-faced capuchin
+monkeys (Cebus capucinus ). Anim. Cogn. 12,
+705 – 716. (doi:10.1007/s10071-009-0230-3)
+37. Me ´ndez-Carvajal PG, Valde´s-Dı´az S. 2017 Use of
+anvils and other feeding behavior observed in
+Cebus imitator, Coiba Island, Panama.
+Tecnociencia 19, 5 – 18.
+38. Chevalier-Skolnikoff S. 1990 Tool use by wild
+Cebus monkeys at Santa Rosa National Park,
+Costa Rica. Primates 31, 375 – 383. (doi:10.
+1007/BF02381108)
+39. Boinski S. 1988 Use of a club by a wild
+white-faced capuchin ( Cebus capucinus )t o
+attack a venomous snake (Bothrops asper).
+Am. J. Primatol. 14, 177 – 179. (doi:10.1002/
+ajp.1350140208)
+40. Beck BB. 1980 Animal tool behavior . New York,
+NY: Garland STPM Pub.
+41. Hansell M, Ruxton GD. 2008 Setting tool use
+within the context of animal construction
+behaviour. Trends Ecol. Evol. 23, 73 – 78.
+(doi:10.1016/j.tree.2007.10.006)
+42. Perry SE, Barrett BJ, Godoy I. 2017 Older,
+sociable capuchins ( Cebus capucinus ) invent
+more social behaviors, but younger monkeys
+innovate more in other contexts. Proc. Natl
+Acad. Sci. USA 114, 7806 – 7813. (doi:10.1073/
+pnas.1620739114)
+43. Phillips KA. 1998 Tool use in wild capuchin
+monkeys (Cebus albifrons trinitatis ).
+Am. J. Primatol. 46, 259 – 261. (doi:10.1002/
+(SICI)1098-2345(1998)46:3,259::AID-
+AJP6.3.0.CO;2-R)
+44. Lima MG et al. 2017 Capuchin monkey
+biogeography: understanding Sapajus
+Pleistocene range expansion and the current
+sympatry between Cebus and Sapajus.
+J. Biogeogr. 44, 810 – 820. (doi:10.1111/
+jbi.12945)
+45. Lynch Alfaro JW, Izar P, Ferreira RG. 2014
+Capuchin monkey research priorities and urgent
+issues. Am. J. Primatol. 76, 705 – 720. (doi:10.
+1002/ajp.22269)
+46. Perry S et al. 2003 Social conventions in wild
+white-faced Capuchin monkeys: evidence for
+traditions in a neotropical primate. Curr.
+Anthropol. 44, 241 – 268. (doi:10.1086/345825)
+47. Chapman CA, Fedigan LM. 1990 Dietary
+differences between neighboring Cebus
+capucinus groups: local traditions, food
+availability or responses to food profitability?
+Folia Primatol. 54, 177 – 186. (doi:10.1159/
+000156442)
+48. O’Malley RC, Fedigan L. 2005 Variability in
+food-processing behavior among white-faced
+capuchins ( Cebus capucinus ) in Santa Rosa
+National Park, Costa Rica. Am. J. Phys.
+Anthropol. 128, 63 – 73. (doi:10.1002/ajpa.
+20186)
+49. Barrett BJ, McElreath RL, Perry SE. 2017 Pay-off-
+biased social learning underlies the diffusion of
+novel extractive foraging traditions in a wild
+primate. Proc. R. Soc. B 284, 20170358. (doi:10.
+1098/rspb.2017.0358)
+50. Perry S, Ordon ˜ez Jimenez JC. 2006 The effects of
+food size, rarity, and processing complexity on
+white-faced capuchins’ visual attention to
+foraging conspecifics. In Feeding ecology in apes
+and other primates (eds G Hohmann, MM
+Robbins, C Boesch), vol. 48, pp. 203 – 234.
+Cambridge, UK: Cambridge University Press.
+51. Fragaszy D, Visalberghi E. 2004 Socially biased
+learning in monkeys. Anim. Learn. Behav. 32,
+24 – 35. (doi:10.3758/BF03196004)
+52. Torigoe T. 1985 Comparison of object
+manipulation among 74 species of non-human
+primates. Primates 26, 182 – 194. (doi:10.1007/
+BF02382017)
+53. Costello MB, Fragaszy DM. 1988 Prehension in
+Cebus and Saimiri: I. Grip type and hand
+preference. Am. J. Primatol. 15, 235 – 245.
+(doi:10.1002/ajp.1350150306)
+54. Christel MI, Fragaszy D. 2000 Manual function
+in Cebus apella : digital mobility, preshaping,
+and endurance in repetitive grasping.
+Int. J. Primatol. 21, 697 – 719. (doi:10.1023/
+A:1005521522418)
+55. Sugiyama Y, Koman J. 1979 Tool-using
+and-making behavior in wild chimpanzees at
+Bossou, Guinea. Primates 20, 513 – 524. (doi:10.
+1007/BF02373433)
+56. Boesch C, Boesch H. 1990 Tool use and tool
+making in wild chimpanzees. Folia Primatol. 54,
+86 – 99. (doi:10.1159/000156428)
+57. Malaivijitnond S, Lekprayoon C, Tandavanittj N,
+Panha S, Cheewatham C, Hamada Y. 2007
+Stone-tool usage by Thai long-tailed macaques
+(Macaca fascicularis). Am. J. Primatol. 69,
+227 – 233. (doi:10.1002/ajp.20342)
+58. Gumert MD, Kluck M, Malaivijitnond S. 2009
+The physical characteristics and usage patterns
+of stone axe and pounding hammers used by
+long-tailed macaques in the Andaman Sea
+region of Thailand. Am. J. Primatol. 71,
+594 – 608. (doi:10.1002/ajp.20694)
+59. Fox EA, Sitompul AF, Van Schaik CP. 1999
+Intelligent tool use in wild Sumatran
+orangutans. In The mentality of gorillas and
+orangutans (eds ST Parker, RW Mitchell, HL
+Miles), pp. 99 – 116. Cambridge, UK: Cambridge
+University Press.
+60. Rutz C, Bluff LA, Reed N, Troscianko J, Newton
+J, Inger R, Kacelnik A, Bearhop S. 2010 The
+ecological significance of tool use in New
+Caledonian crows. Science 329, 1523 – 1526.
+(doi:10.1126/science.1192053)
+61. Sanz CM, Morgan DB. 2013 Ecological and social
+correlates of chimpanzee tool use. Phil.
+Trans. R. Soc. B 368, 20120416. (doi:10.1098/
+rstb.2012.0416)
+62. Koops K, McGrew WC, Matsuzawa T. 2013
+Ecology of culture: do environmental factors
+influence foraging tool use in wild
+chimpanzees, Pan troglodytes verus ? Anim.
+Behav. 85, 175 – 185. (doi:10.1016/j.anbehav.
+2012.10.022)
+63. Rutz C, St Clair JJ. 2012 The evolutionary origins
+and ecological context of tool use in New
+Caledonian crows. Behav. Processes 89,
+153 – 165. (doi:10.1016/j.beproc.2011.11.005)
+64. Furuichi T, Sanz C, Koops K, Sakamaki T, Ryu H,
+Tokuyama N, Morgan D. 2015 Why do wild
+bonobos not use tools like chimpanzees do?
+Behaviour 152, 425 – 460. (doi:10.1163/
+1568539X-00003226)
+65. Spagnoletti N, Visalberghi E, Verderane MP,
+Ottoni E, Izar P, Fragaszy D. 2012 Stone tool use
+in wild bearded capuchin monkeys, Cebus
+libidinosus. Is it a strategy to overcome food
+scarcity? Anim. Behav. 83, 1285 – 1294. (doi:10.
+1016/j.anbehav.2012.03.002)
+66. Falo ´tico T, Siqueira JO, Ottoni EB. 2017 Digging
+up food: excavation stone tool use by wild
+capuchin monkeys. Sci. Rep. 7, 6278. (doi:10.
+1038/s41598-017-06541-0)
+67. Mayr E. 1961 Cause and effect in biology.
+Science 134, 1501 – 1506. (doi:10.1126/science.
+134.3489.1501)
+68. Laland KN, Sterelny K, Odling-Smee J, Hoppitt
+W, Uller T. 2011 Cause and effect in biology
+revisited: is Mayr’s proximate-ultimate
+dichotomy still useful? Science 334,
+1512 – 1516. (doi:10.1126/science.1210879)
+69. Moura AdA, Lee P. 2004 Capuchin stone tool
+use in Caatinga dry forest. Science 306,
+1909 – 1909. (doi:10.1126/science.1102558)
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+16
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 17
+70. Visalberghi E, Fragaszy DM, Izar P, Ottoni EB.
+2005 Terrestriality and tool use. Science 308,
+951 – 952. (doi:10.1126/science.308.5724.951c)
+71. Yamakoshi G. 1998 Dietary responses to fruit
+scarcity of wild chimpanzees at Bossou, Guinea:
+possible implications for ecological importance
+of tool use. Am. J. Phys. Anthropol. 106,
+283 – 295. (doi:10.1002/(SICI)1096-
+8644(199807)106:3,283::AIDAJPA2.3.0.
+CO;2-O)
+72. Melin AD, Young HC, Mosdossy KN, Fedigan LM.
+2014 Seasonality, extractive foraging and the
+evolution of primate sensorimotor intelligence.
+J. Hum. Evol. 71, 77 – 86. (doi:10.1016/j.jhevol.
+2014.02.009)
+73. Emlen JM. 1966 The role of time and energy in
+food preference. Am. Nat. 100, 611 – 617.
+(doi:10.1086/282455)
+74. MacArthur RH, Pianka ER. 1966 On optimal use
+of a patchy environment. Am. Nat. 100,
+603 – 609. (doi:10.1086/282454)
+75. Giraldeau LA, Caraco T. 2000 Social foraging
+theory. Princeton, NJ: Princeton University Press.
+76. Ottoni EB, Resende BDd, Izar P. 2005 Watching
+the best nutcrackers: what capuchin monkeys
+(Cebus apella ) know about others’ tool-using
+skills. Anim. Cogn. 8, 215 – 219. (doi:10.1007/
+s10071-004-0245-8)
+77. Matthews LJ. 2009 Activity patterns, home
+range size, and intergroup encounters in Cebus
+albifrons support existing models of capuchin
+socioecology. Int. J. Primatol. 30, 709 – 728.
+(doi:10.1007/s10764-009-9370-1)
+78. Meulman EJ, Sanz CM, Visalberghi E, van Schaik
+CP. 2012 The role of terrestriality in promoting
+primate technology. Evol. Anthropol. 21,
+58 – 68. (doi:10.1002/evan.21304)
+79. Defler TR. 1979 On the ecology and behavior of
+Cebus albifrons in eastern Colombia: I. Ecology.
+Primates 20, 475 – 490. (doi:10.1007/
+BF02373430)
+80. Monteza-Moreno et al . (in preparation).
+81. van Schaik CP, Deaner RO, Merrill MY. 1999 The
+conditions for tool use in primates: implications
+for the evolution of material culture. J. Hum.
+Evol. 36, 719 – 741. (doi:10.1006/jhev.1999.
+0304)
+82. Iba ´n˜ez A. 2011 Guı´a bota´nica del Parque
+nacional Coiba. International Cooperative
+Biodiversity Groups: Instituto Smithsonian
+de Investigaciones Tropicals: Secretarı´
+a
+Nacional de C.
+83. Castroviejo S (ed.). 1997 Flora y fauna del
+Parque nacional de Coiba (Panama´): Inventario
+preliminar. Agencia Espan˜ola de Cooperacio´n
+Internacional.
+84. Milton K, Mittermeier RA. 1977 A brief survey of
+the primates of Coiba Island, Panama. Primates
+18, 931 – 936. (doi:10.1007/BF02382942)
+85. Isaza I, Vrba E. 2010 Ocupacio ´n pre-colombina
+de las Islas del Parque Nacional Coiba. Panama:
+Informe final del Proyecto PRB08-003 archivos
+SENACYT.
+86. Iba ´n˜ez C, Pe´rez-Jorda´ J, Juste J, Guille´n A. 1997
+Los mamı´feros terrestres del Parque Nacional
+Coiba (Panama´). In Flora y fauna del Parque
+nacional de Coiba (Panama´): Inventario
+preliminar (ed. S Castroviejo), pp. 469 – 486.
+Agencia Espan˜ola de Cooperacio´n Internacional.
+87. Olson SL. 1997 Avian biogeography in the
+islands of the Pacific Coast of western Panama.
+In Era of Allan R Phillips: A Festschrift
+(ed. RW Dickerman), pp. 69 – 81. Horizon
+Communications.
+88. Zimmer KJ. 1997 Species limits in Cranioleuca
+vulpina.I n Ornithological Monographs No. 48,
+Studies in Neotropical Ornithology Honoring Ted
+Parker, pp. 849 – 864. Chicago, IL: American
+Ornithological Society.
+89. Duquette JF, Uren ˜a L, Ortega J, Cisneros I,
+Moreno R, Flores EE. 2017 Coiban agouti
+(Dasyprocta coibae) density and temporal
+activity on Coiba Island, Veraguas, Panama.
+Mamm. Study 42, 153 – 160. (doi:10.3106/041.
+042.0305)
+90. Steinitz C, Faris R, Flaxman M, Karish K,
+Mellinger AD, Canfield T, Sucre L. 2005 A
+delicate balance: conservation and development
+scenarios for Panama’s Coiba National Park.
+Environment 47, 24 – 39. (doi:10.3200/ENVT.47.
+5.24-43)
+91. Gonza ´lez P, Sawyer YE, Avila M, Armie ´n AG,
+Armie´n B, Cook JA. 2010 Variation in
+cytochrome-b haplotypes suggests a new
+species of Zygodontomys (Rodentia: Cricetidae)
+endemic to Isla Coiba, Panama. Zoologia
+(Curitiba) 27, 660 – 665. (doi:10.1590/S1984-
+46702010000400014)
+92. Me ´ndez-Carvajal P. 2012 Population study of
+Coiba howler monkeys ( Alouatta coibensis
+coibensis) and Coiba capuchin monkeys ( Cebus
+capucinus imitator), Coiba Island National Park,
+Republic of Panama. J. Primatol. 1, 104. (doi:10.
+4172/2167-6801.1000104)
+93. Perry S, Godoy I, Lammers W. 2012 The Lomas
+Barbudal Monkey Project: two decades of
+research on Cebus capucinus.I n Long-term field
+studies of primates , pp. 141 – 163. Berlin,
+Germany: Springer.
+94. MacArthur RH, Wilson EO. 1967 Theory of island
+biogeography, vol. 1. Princeton, NJ: Princeton
+University Press.
+95. Pe ´rez R, Condit R, Aguilar S, Herna ´ndez A,
+Villareal A. 1996 Inventario de la vegetacio ´nd e
+la isla de Coiba, Panama ´: composicio´ny
+florı´stica. Rev. Biol. Trop. 44, 31 – 40.
+96. Ibanez et al. (in preparation).
+97. Iba ´n˜ez A. 2001 Estudio de la composicio ´n
+florı´stica y ecologı´a del bosque tropical de la isla
+de Coiba (Panama´). Tesis de Doctorado,
+Universidad de Salamanca, Espan˜a.
+98. Sanz C, Morgan D, Gulick S. 2004 New insights
+into chimpanzees, tools, and termites from the
+Congo Basin. Am. Nat. 164, 567 – 581. (doi:10.
+1086/424803)
+99. Porter ST, Roussel M, Soressi M. 2016
+A simple photogrammetry rig for the reliable
+creation of 3D artifact models in the field:
+lithic examples from the Early Upper
+Paleolithic sequence of Les Cotte´s (France). Adv.
+Archaeol. Pract. 4, 71 – 86. (doi:10.7183/2326-
+3768.4.1.71)
+100. McElreath R. 2016 rethinking: statistical
+rethinking book package; V. 1.59.
+101. R Core Team. 2016 R: a language and
+environment for statistical computing . Vienna,
+Austria: R Foundation for Statistical Computing.
+See https://www.R-project.org/.
+102. 2016 RStan: the R interface to Stan. V. 2.14.0.
+See http:/ /mc-stan.org/rstan.html.
+103. Inizan ML, Reduron-Ballinger M, Roche H. 1999
+Technology and terminology of knapped stone:
+followed by a multilingual vocabulary Arabic,
+English, French, German, Greek, Italian,
+Portuguese, Spanish, vol. 5 . Meudon, France:
+Cercle de Recherches et d’Etudes Pre ´historiques.
+104. Gumert MD, Malaivijitnond S. 2012 Marine prey
+processed with stone tools by Burmese long-
+tailed macaques ( Macaca fascicularis aurea )i n
+intertidal habitats. Am. J. Phys. Anthropol. 149,
+447 – 457. (doi:10.1002/ajpa.22143)
+105. Tan A, Tan SH, Vyas D, Malaivijitnond S, Gumert
+MD. 2015 There is more than one way to crack
+an oyster: identifying variation in Burmese
+long-tailed macaque ( Macaca fascicularis aurea )
+stone-tool use. PLoS ONE 10, e0124733. (doi:10.
+1371/journal.pone.0124733)
+106. Falo ´tico T, Spagnoletti N, Haslam M, Luncz LV,
+Malaivijitnond S, Gumert M. 2017 Analysis of
+sea almond ( Terminalia catappa) cracking sites
+used by wild Burmese long-tailed macaques
+(Macaca fascicularis aurea). Am. J. Primatol. 79,
+e22629. (doi:10.1002/ajp.22629)
+107. Aguiar LM, Cardoso RM, Back JP, Carneiro EC,
+Suzin A, Ottoni EB. 2014 Tool use in urban
+populations of capuchin monkeys Sapajus spp.
+(Primates: Cebidae). Zoologia (Curitiba) 31,
+516 – 519. (doi:10.1590/S1984-
+46702014000500012)
+108. Moura ACdA, Lee PC. 2010 Wild capuchins show
+male-biased feeding tool use. Int. J. Primatol.
+31, 457 – 470. (doi:10.1007/s10764-010-9406-
+6)
+109. Spagnoletti N, Visalberghi E, Ottoni E, Izar P,
+Fragaszy D. 2011 Stone tool use by adult wild
+bearded capuchin monkeys ( Cebus libidinosus ):
+frequency, efficiency and tool selectivity. J. Hum.
+Evol. 61, 97 – 107. (doi:10.1016/j.jhevol.2011.
+02.010)
+110. Boesch C, Boesch H. 1981 Sex differences in the
+use of natural hammers by wild chimpanzees: a
+preliminary report. J. Hum. Evol. 10, 585 – 593.
+(doi:10.1016/S0047-2484(81)80049-8)
+111. Gruber T, Clay Z, Zuberbu ¨hler K. 2010 A
+comparison of bonobo and chimpanzee tool
+use: evidence for a female bias in the Pan
+lineage. Anim. Behav. 80, 1023 – 1033. (doi:10.
+1016/j.anbehav.2010.09.005)
+112. Gumert MD, Kuan HL, Suchinda M. 2011 Sex
+differences in the stone tool-use behavior of a
+wild population of Burmese long-tailed
+macaques ( Macaca fascicularis aurea ).
+Am. J. Primatol. 73, 1239 – 1249. (doi:10.1002/
+ajp.20996)
+113. Melin AD, Fedigan LM, Hiramatsu C, Sendall CL,
+Kawamura S. 2007 Effects of colour vision
+phenotype on insect capture by a free-ranging
+population of white-faced capuchins, Cebus
+capucinus. Anim. Behav. 73, 205 – 214. (doi:10.
+1016/j.anbehav.2006.07.003)
+114. Boinskil S, Fragaszy D, Ehmkel E, Kauffman L.
+2007 Wild brown capuchins in Suriname exploit
+combinatorial manipulation for multiple
+functions. Conference abstract. In American
+Journal of Physical Anthropology . Wiley-Liss Div
+John Wiley & Sons inc., 111 River St, Hoboken,
+NJ 07030 USA, pp. 77 – 77.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+17
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 
+
+
+PDF PAGE 18
+115. Tabacow FP, Mendes SL, Strier KB. 2009 Spread
+of a terrestrial tradition in an arboreal primate.
+Am. Anthropol. 111, 238 – 249. (doi:10.1111/j.
+1548-1433.2009.01116.x)
+116. Clutton-Brock T, Lukas D. 2012 The evolution of
+social philopatry and dispersal in female
+mammals. Mol. Ecol. 21, 472 – 492. (doi:10.
+1111/j.1365-294X.2011.05232.x)
+117. Wang C, Fiedler PC. 2006 ENSO variability and
+the eastern tropical Pacific: a review. Prog.
+Oceanogr. 69, 239 – 266. (doi:10.1016/j.pocean.
+2006.03.004)
+118. Soley FG, Chaco ´n IS, Soley-Guardia M. 2017
+Extraction of hermit crabs from their shells by
+white-faced capuchin monkeys ( Cebus
+capucinus). Primates 58, 25 – 29. (doi:10.1007/
+s10329-016-0576-5)
+119. Campbell JC. 2013 White-faced capuchins
+(Cebus capucinus ) of Cahuita National Park,
+Costa Rica: human foods and human
+interactions. Master’s thesis, Iowa State
+University, Ames.
+120. Schofield EK. 1989 Effects of introduced plants
+and animals on island vegetation: examples
+from Gala´pagos Archipelago. Conserv. Biol. 3,
+227 – 239. (doi:10.1111/j.1523-1739.1989.
+tb00081.x)
+121. Bergstrom DM, Chown SL. 1999 Life at the
+front: history, ecology and change on Southern
+Ocean islands. Trends Ecol. Evol. 14, 472 – 477.
+(doi:10.1016/S0169-5347(99)01688-2)
+122. Courchamp F, Hoffmann BD, Russell JC, Leclerc
+C, Bellard C. 2014 Climate change, sea-level
+rise, and conservation: keeping island
+biodiversity afloat. Trends Ecol. Evol. 29,
+127 – 130. (doi:10.1016/j.tree.2014.01.001)
+123. Corte ´s-Ortiz L, Rylands AB, Mittermeier RA.
+2015 The taxonomy of howler monkeys:
+integrating old and new knowledge from
+morphological and genetic studies. In
+Howler monkeys: adaptive radiation,
+systematics, and morphology (eds MM
+Kowalewski, PA Garber, L Corte ´s-Ortiz, B
+Urbani, D Youlatos), pp. 55 – 84. Berlin,
+Germany: Springer.
+124. Ellsworth JA, Hoelzer GA. 2006 Genetic evidence
+on the historical biogeography of Central
+American howler monkeys. In Primate
+biogeography: progress and prospect , (eds SM
+Lehman, JG Fleagle), pp. 81 – 103. Berlin,
+Germany: Springer.
+125. Thomas O. 1902 On some mammals from Coiba
+Island, off the west coast of Panama. Novit
+Zoologicae 9, 135 – 137.
+126. Goldman EA. 1920 Mammals of Panama (with
+thirty-nine plates), vol. 69 of Smithsonian
+Miscellaneous Collections. The Smithsonian
+Institution.
+127. Foster JB. 1964 Evolution of mammals on
+islands. Nature 202, 234 – 235. (doi:10.1038/
+202234a0)
+128. Lomolino MV. 1985 Body size of
+mammals on islands: the island rule
+reexamined.
+Am. Nat. 125, 310 – 316. (doi:10.
+1086/284343)
+129. Ryan S. 2006 The role of culture in conservation
+planning for small or endangered populations.
+Conserv. Biol. 20, 1321 – 1324. (doi:10.1111/
+j.1523-1739.2006.00347.x)
+130. Laiolo P, Jovani R. 2007 The emergence of
+animal culture conservation. Trends Ecol. Evol.
+22, 5. (doi:10.1016/j.tree.2006.10.007)
+131. Whitehead H. 2010 Conserving and managing
+animals that learn socially and share cultures.
+Learn. Behav. 38, 329 – 336. (doi:10.3758/LB.38.
+3.329)
+132. Ruiz-Garcı ´a M, Castillo MI. 2016 Genetic
+structure, spatial patterns and historical
+demographic evolution of white-throated
+capuchin ( Cebus capucinus , Cebidae, Primates)
+populations of Colombia and Central America by
+means of DNA microsatellites. In Phylogeny,
+molecular population genetics, evolutionary
+biology and conservation of the neotropical
+primates (eds M Ruiz-Garcı´a, JM Shostell),
+pp. 1– 39. New York, NY: Nova Science
+Publisher Inc.
+rsos.royalsocietypublishing.orgR. Soc. open sci.5: 181002
+18
+ Downloaded from https://royalsocietypublishing.org/ on 28 May 2025 

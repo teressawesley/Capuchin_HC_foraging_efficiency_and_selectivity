@@ -1,0 +1,782 @@
+PDF PAGE 1
+Ecology and Evolution. 2024;14:e11384.	 		 	 | 1 of 10
+https://doi.org/10.1002/ece3.11384
+www.ecolevol.org
+Received:	17	January	2024  |  Revised:	13	March	2024  |  Accepted:	24	April	2024
+DOI: 10.1002/ece3.11384  
+RESEARCH ARTICLE
+callsync: An R package for alignment and analysis of multi- 
+microphone animal recordings 
+Simeon Q. Smeele1,2,3,4  |   Stephen A. Tyndel1,3  |   Barbara C. Klump1,5  |    
+Gustavo Alarcón- Nieto1,3,6  |   Lucy M. Aplin1,7,8
+1Cognitive & Cultural Ecology Research 
+Group,	Max	Planck	Institute	of	Animal	
+Behavior,	Radolfzell, 	Germany
+2Department	of	Human	Behavior,	Ecology	
+and	Culture,	Max	Planck	Institute	for	
+Evolutionary	Anthropology,	Leipzig,	
+Germany
+3Department	of	Biology,	University	of	
+Konstanz, 	Constance, 	Germany
+4Department	of	Ecoscience,	Aarhus	
+University,	Aarhus,	Denmark
+5Department	of	Behavioral	and	Cognitive	
+Biology,	University	of	Vienna,	Vienna,	
+Austria
+6Department	of	Migration,	Max	Planck	
+Institute	of	Animal	Behavior,	Radolfzell,	
+Germany
+7Department	of	Evolutionary	Biology	
+and	Environmental	Studies,	University	of	
+Zurich, 	Zurich, 	Switzerland
+8Division	of	Ecology	and	Evolution,	
+Research	 School	of	Biology,	The	Australian	
+National	University,	Canberra,	Australian	
+Capital	Territory,	Australia
+Correspondence
+Simeon	Q.	Smeele,	Department	of	
+Ecoscience,	Aarhus	University,	Aarhus,	
+Denmark.
+Email:	simeonqs@hotmail.com
+Funding information
+Swiss	State	Secretariat	for	Education,	
+Research	and	Innovation,	Grant/Award	
+Number:	MB22.00056;	Max- 	Planck-	
+Gesellschaft; 	Deutscher 	Akademischer 	
+Austauschdienst
+Abstract
+To	better	 understand	 how	vocalisations	 are	 used	 during	 interactions	 of	multiple	 in-
+dividuals,	 studies	 are	increasingly	 deploying	 on-	board	devices	with	a	microphone	 on	
+each	animal.	The	resulting	 recordings	 are	extremely	 challenging	 to	analyse,	since	mi-
+crophone	clocks	drift	non-	linearly	and	record	the	vocalisations 	of	non-	focal	individu-
+als	as	well	as	noise.	Here	we	address	this	issue	with	callsync,	an	R	package	designed	
+to	align	recordings,	detect	and	assign	vocalisations	to	the	caller,	trace	the	fundamental	
+frequency,	 filter	out	noise	and	perform	 basic	analysis	 on	the	resulting	 clips.	We	pre-
+sent	 a	 case	 study	 where	 the	 pipeline	 is	 used	 on	 a	 dataset	 of	 six	 captive	 cockatiels	
+(Nymphicus hollandicus )	 wearing	 backpack	 microphones.	 Recordings	 initially	 had	 a	
+drift	of	~2 min,	but	were	aligned	to	within	~2 s	with	our	package.	Using	callsync, we 
+detected	and	assigned	2101	calls	across	three	multi-	hour	recording	sessions.	Two	had	
+loud	beep	markers	in	the	background	designed	to	help	the	manual	alignment	process.	
+One	 contained	 no	obvious	 markers,	 in	order	 to	demonstrate	 that	 markers	 were	not	
+necessary	 to	obtain	optimal	alignment.	 We	then	used	a	function	 that	traces	the	fun-
+damental	 frequency	 and	applied	spectrographic	 cross	correlation	 to	show	a	possible	
+analytical	 pipeline	where	vocal	similarity	is	visually	assessed.	The	callsync	package	
+can	be	used	to	go	from	raw	recordings	 to	a	clean	dataset	of	features.	 The	package	is	
+designed	 to	be	modular	 and	allows	users	 to	replace	 functions	 as	they	wish.	We	also	
+discuss	the	challenges	 that	might	be	faced	in	each	step	and	how	the	available	 litera-
+ture	can	provide	alternatives	for	each	step.
+KEYWORDS
+bio	acoustics,	communication	networks,	microphone	alignment,	recording	processing
+TAXONOMY CLASSIFICATION
+Behavioural ecology
+This	is	an	open	access	article	under	the	terms	of	the	Creative	Commons	Attribution	License,	which	permits	use,	distribution	and	reproduction	in	any	medium,	
+provided	the	original	work	is	properly	cited.
+©	2024	The	Author(s).	Ecology and Evolution	published	by	John	Wiley	&	Sons	Ltd.
+Simeon	Q.	Smeele	and	Stephen	A.	Tyndel	are	co- 	first	authors.		
+
+
+PDF PAGE 2
+2 of 10  |    
+SMEELE et  al .
+1  |  INTRODUCTION
+The	study	of	vocal	signals	in	animals	is	a	critical	tool	for	understanding	
+the	evolution	of	vocal	communication 	(Endler,	1993).	Vocalisations 	
+commonly 	occur	in	group	contexts, 	where	they	may	function 	to	sig-
+nal	 movement	 or	 identity,	 and	 mediate	 interactions. 	 However,	 the	
+problem	of	assigning	identity	has	led	most	previous	work	to	focus	on	
+long-	range	calls	or	on	vocalisations 	made	when	alone,	for	example, 	
+territorial	 calls	and	song,	and	to	focus	on	recording	 one	individual	 at	
+a	time.	 Yet	only	 by	studying	 the	 ways	that	 animals	 communicate	 in	
+‘real	time’	can	allow	us	to	untangle	the	complicated	 dynamics	of	how	
+group	 members	 signal	 one	 another	 (Gill	 et	 al.,	 2015).	 For	 example,	
+the	context	 of	how	individuals	 address	 members	 of	their	social	net-
+work	(Cheney	&	Seyfarth,	 2018),	and	the	ensuing	call	and	response-	
+dynamics	(Araya-	Salas	et	al.,	2020),	can	only	be	studied	by	recording	
+multiple 	individuals 	simultaneously. 	These	communication 	networks 	
+can	 help	 us	understand	 how	animals	 coordinate	 call-	response	 with	
+movement	(Demartsev 	et	al.,	2023)	as	well	as	the	function	 of	vocal	
+imitation	 (Dahlin	 et	 al.,	 2014; Knörnschild et al., 2012 ;	 Nousek	
+et al., 2006).
+Recent	innovations	in	recording	technologies	have	allowed	for 	
+a	 dramatic 	 increase 	 of	 fine- 	scale 	 on-	animal 	 bioacoustic 	 data 	 col-
+lection (Gill et al., 2016;	 Sanchez	 et	 al.,	 2021;	 Wild	 et	 al.,	 2022), 
+allowing 	 multiple 	 individuals 	 to	 be	 recorded 	 simultaneously. 	
+However,	 as	 the	 capability	 of	 placing	 small	 recording	 devices	 on	
+animals 	increases, 	so	does	the	need	for	tools 	to	process 	the	result-
+ing	 data	 streams.	 Several	 publicly	 available	 R	packages	 exist	 that	
+measure 	 acoustic 	 parameters 	 from 	 single 	 audio 	 tracks 	 (seewave : 
+Sueur	 et	al.,	2008 ; tuneR :	Ligges	 et	al.,	2022; WarbleR :	A r a y a -	S a l a s	
+&	 Smith- 	Vidaurre, 	 2017),	 but	 to	 our	 knowledge,	 none	 addresses 	
+the	 critical	 issue	 of	microphone	 clock	 drift	 and	 the	 ability	 to	align 	
+and	 process	 multiple	 recordings.	 This	 poses	 a	 serious	 issue	 for	
+those 	studying 	communication 	networks 	of	multiple 	tagged 	indi-
+viduals.	 In	this	 paper,	 we	apply	 a	new	 R	package,	callsync, that 
+aligns 	 multiple 	 misaligned 	 audio 	 files, 	 detects 	 vocalisations, 	 as-
+signs these to the vocalising individual and provides an analytical 
+pipeline	for	the	resulting	synchronised	data.
+The	 primary	 target	 for	use	 of	this	 package	 are	 researchers	 that	
+study	 animal	 communication 	 systems	 within	 groups.	 As	 research -
+ers	 deploy	 multiple 	 microphones 	 that	 record	 simultaneously, 	 the	
+resulting	 clock	 drift	 can	 prove	 to	 be	 a	 barrier	 in	 further	 data	 pro-
+cessing	steps	(Schmid	et	al.,	2010).	To	make	matters 	worse	this	drift	
+is	 often	 non-	linear	 (Anisimov	 et	 al.,	 2014).	 Thus,	 if	 several	 micro-
+phone	 recorders	 are	placed	 on	animals	 (whales:	 Hayes	et	al.,	2000; 
+Miller	 &	Dawson,	 2009;	bats:	 Stidsholt	 et	al.,	2019),	it	is	critical	 for	
+researchers	 to	 be	 able	 to	 line	 up	 all	 tracks	 so	 that	 calls	 can	 be	 as-
+signed	correctly	 to	the	vocalising	individual	(loudest	track).	The	main	
+functionality	 of	callsync	is	to	align	audio	tracks, 	detect 	calls	from	
+each	track,	determine 	which	individual 	(even	ones	in	relatively 	close	
+proximity	 to	 one	 another)	 is	 vocalising	 and	 segment	 them	 (detect	
+start	and	end	of	the	signal	as	in	the	detection	module),	as	well	as	take	
+measurements 	of	the	given	calls	(see	Figure 1).	As	callsync	takes	a	
+modular	approach 	to	aligning, 	detecting 	and	analysing 	audio	tracks, 	
+researchers	 can	choose	to	use	only	the	components	 of	the	package	
+that suit their needs.
+Current	 research	 packages	 that	 implement	 call	 alignment	 strat-
+egies	 are	 either	 used	 in	 Matlab	 (Anisimov	 et	 al.,	 2014;	 Malinka	
+et al., 2020) or C++ (Gill et al., 2015).	However,	these	tools	have	not,	
+up	to	now,	been	adapted	for	the	R	environment,	 a	popular	program-
+ming	 language	 among	 many	 animal	 behaviour	 and	 bioacoustic	 re-
+searchers.	Many	of	these	tools	are	not	documented	publicly	nor	open	
+source,	and	can	require	high	licencing	fees	(i.e.,	Matlab).	While	the	de-
+sign	of	our	package	is	best	suited	to	contexts	where	all	microphones	
+exist	in	the	same	spatial	area,	it	is	the	goal	that	it	can	be	adapted	to	
+other	contexts.	callsync	is	publicly	available	on	CRAN	and	GitHub,	
+is	beginner	friendly	with	strong	documentation 	and	does	not	require	
+extensive	programming	background. 	This	open-	source	tool	will	allow	
+researchers	 to	expand	 the	 study	 of	bioacoustics	 and	 solve	 an	issue	
+that	impedes	detailed	analysis	of	group- 	level	calls.
+2  | GENERATE EXAMPLE: SPRING PEEPER
+We	 downloaded 	 two	 Spring	 Peeper	 (Pseudacris 	 crucifer)	 record-
+ings	 from	 the	 Macaulay	 Library	 at	 the	 Cornell	 Lab	 of	 Ornithology	
+(ML397067	and	ML273028).	Using	these	two	recordings,	 we	gener-
+ated	two	artificial	 audio	tracks,	 one	drifted	 approximately	 18 s	from	
+the	 other.	 Drift	 was	 simulated	 by	 inserting	 0.03 s	 of	 background	
+noise	every	 second	 in	one	of	the	tracks.	 Background	 noise	for	each	
+track	was	the	same,	and	constructed 	by	concatenating 	random	snip-
+pets	 of	 noise	 from	 each	 of	 the	 Macaulay	 Library	 recordings.	 The	
+background	noise	was	then	amplified	by	4 dB.
+Both	 artificial	 tracks	 incorporated	 10	calls	 from	 each	 Macaulay	
+recording. 	 The	 calls	 were	 arranged 	 to	 simulate	 alternating 	 calling	
+behaviour	 between	 the	two	frogs.	 Using	the	tuneR	package	 (Ligges	
+et al., 2022 ),	we	normalised	 the	 calls	 to	simulate	 the	 presence	 of	a	
+focal	 individual,	 setting	 the	focal	 calls	 to	85%	and	background	 calls	
+to	55%	of	their	maximum	amplitude.
+We	then	used	callsync	to	align	the	tracks	 using	2 min	chunks,	
+and showed that all detected calls were assigned to the correct in -
+dividual.	 We	also	showed	that	the	fundamental	 frequency	 could	be	
+correctly	 traced.	For	details	see	the	vignette	 in	the	CRAN	version	of	
+callsync.
+3  | CASE STUDY: COCKATIELS
+We	present	 a	case	 study	 to	show	how	callsync	functions	 can	 be	
+included	in	a	workflow	(see	Figure 1).	We	used	a	dataset	of	domestic	
+cockatiels 	(Nymphicus hollandicus ).	These	birds	are	part	of	an	ongoing	
+study	at	the	Max	Planck	Institute	 of	Animal	Behaviour	 in	Radolfzell,	
+Germany.	 Thirty 	 birds	 were	 housed	 in	 five	 groups	 of	 six	 individu -
+als,	with	each	group	of	six	housed	separately	 in	a	4 × 3 × 2.7 m	aviary	
+facility.	 Each	 bird	 was	 fitted	 with	 a	TS-	systems	 EDIC-	Mini	 E77	 tag	
+inside	 a	sewn	 nylon	 backpack	 fitted	 via	 Teflon	harness	 around	 the	
+wings,	 with	 the	 total	 weight	 of	 all	 components	 under	 7%	 of	 body	
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 3
+    |  3 of 10
+SMEELE et  al .
+weight	 (weight	 range	 of	 birds	 85–120 g).	 Audio	 recordings	 were	
+scheduled	 to	record	for	4 h	per	day.	Each	microphone	 was	automati-
+cally	programmed	 to	turn	on	and	off	daily	at	the	same	time.	For	the	
+purposes	 of	 demonstration,	 three	 full	 recording	 sessions	 (ca.	 4 h)	
+were	 selected 	 for	 processing 	 where	 the	 microphones 	 were	 sched-
+uled	 to	record	 starting	 at	approximately	 sunrise	 (July	 15–16,	2021,	
+and	 December	 8,	 2022).	 Two	of	 the	 recording	 sessions	 (2021)	 in-
+cluded	manually 	played	beeps	in	the	background; 	one	every	hour	at	
+10 kHz,	one	every	10 min	at	0.4 kHz.	This	was	done	to	ensure	that	the	
+alignment	 would	 work	 both	 with	 and	 without	 external	 assistance,	
+as	 some	 circumstances	 for	 research	 might	 allow	 such	 an	 inclusion,	
+while	 others	 may	 prohibit	 it.	 Seven	 days	 after	 deployment, 	 micro-
+phone	 recorders 	 were	 removed	 and	 recordings 	 were	 downloaded 	
+as	.wav	files	directly	 onto	a	computer	from	the	tag,	according	 to	the	
+manufacturer	 protocols.	 Data	 from	 each	 microphone	 were	 placed	
+into	 the	 appropriate	 folder	 (see	 workflow	 instructions)	 and	 pro-
+cessed	in	accordance	with	our	package	workflow.
+3.1  |  Installation and set- up
+The	 package	 call	 be	 installed	 from	 CRAN	 running	 install.
+packages('callsync')	o r	a 	d e v e l o p m e n t a l	v e r s i o n	c a n	b e	i n-
+stalled	from	GitHub	( h t t p s : / /	g i t h u b .	c o m /	s i m e o	n q s /	c a l l s y n c):
+install.packages('devtools')
+library(devtools)
+devtools::install_github('simeonqs/callsync')
+While	all	underlying	 code	and	functions	 from	the	CRAN	 reposi-
+tory	can	be	found	in	the	aforementioned	 GitHub	repository,	we	have	
+created	 a	 separate	 repository	 from	 which	 readers	 can	 follow	 the	
+code	 from	 the	 case	 study:	 h t t p s : / /	g i t h u b .	c o m /	s i m e o	n q s /	c a l l s	y n c _	
+a n _ R _	p a c k a	g e _	f o r _	a l i g n	m e n t _	a n d _	a n a l y	s i s _	o f _	m u l t i	-		m i c r o	p h o n e _	
+animal_ 	recor	dings	.	 All	 required	 packages	 are	 also	 automatically	
+installed	 and	loaded	 for	the	case	study	 when	running	 the	00_set_
+up.R	script	from	this	repository.
+3.2  |  Alignment of raw recordings
+The	general	 goal	of	the	alignment	 step	 is	to	shift	 unaligned	 record-
+ings	 to	 a	 degree	 that	 will	 allow	 vocalisations	 to	 be	 processed	 fur-
+ther.	 While	 researchers' 	 requirements 	 on	 alignment 	 precision	 will	
+vary,	the	output	of	this	function	 should	allow	researchers	 to	be	able	
+to	 identify	 that	 vocalisations	 picked	 up	 across	 all	 microphones	 are	
+identified	 as	the	same	call	on	every	 microphone.	 It	should	 be	noted	
+that	recordings	are	still	not	perfectly	 aligned,	since	clock-	drift	occurs	
+within	the	chunks.
+The	raw	recordings	 consisted	 of	three	wav	files	of	ca.	4 h	for	six	
+cockatiels	 (i.e.,	18	files	total).	The	backpack	 microphones	 have	inter-
+nal	 clocks	 that	 sync	 with	 the	 computer	 clock	 when	 connected	 via	
+USB	 and	 automatically	 turn	 recordings	 on	and	 off.	 However,	these	
+clocks	 drift	 in	time	 both	 during	 the	 off	 period,	 creating	 start	 times	
+that	differ	up	to	a	few	minutes,	and	also	during	the	recording	period,	
+causing	 additional	 variable	 drift	 up	 to	 a	 minute	 in	 4 h	 of	 recording	
+for	 the	 microphone	 model	 we	 used.	 The	 function	 align	 can	 be	
+used	as	a	first	step	to	align	the	audio	recordings. 	To	accurately 	align	
+these	tracks,	 the	full	audio	files	were	automatically	 split	into	15-	min	
+chunks	 of	recording	 to	ensure	 that	 drift	 was	 reduced	 to	mere	 sec-
+onds.	 This	value	can	be	adjusted	 depending	 on	the	amount	 of	drift.	
+The	 function	 selects	 one	 recording	 (focal	 recording)	 and	 aligns	 all	
+the other recordings relative to the selected recording using cross 
+correlation 	on	the	energy 	content	(summed	absolute	amplitude) 	per	
+time	 bin	 (option	 step_size),	 in	 our	 case	 0.5 s	 was	 used.	 This	 value	
+can	 also	 be	 adjusted,	 lower	 values	 allow	 for	 greater	 precision	 but	
+higher	 computational	 load.	 The	 call	 detection	 and	 assignment	 step	
+(see	below)	includes	fine	alignment	and	we	therefore	accepted	a	po-
+tential	 error	 of	0.5 s.	 There	 is	also	 an	option	 to	store	 a	log	 file	 that	
+records	the	offset	for	each	chunk.
+align(chunk_size = 15,                          # how long should the chunks be in minutes  
+      step_size = 0.5,                          # bin size for summing in seconds  
+      path_recordings = 'ANALYSIS/DATA',        # where raw data is stored  
+      path_chunks = 'ANALYSIS/RESULTS/chunks',  # where to store the chunks  
+      keys_rec = c('_\\(', '\\)_'),             # how to recognise the recording in the path  
+      keys_id = c('ASWMUX', '.wav'),            # how to recognise the individual/microphone in the path  
+      blank = 15,                               # how many minutes should be discarded before/after  
+                                                # detection  
+      wing = 10,                                # how much extra should be loaded for alignment in  
+                                                # minutes  
+      save_pdf = TRUE,                          # should a pdf be saved  
+      save_log = TRUE)                          # should a csv file with alignment times be saved
+For	cross	correlation,	 the	function	align	loads	the	chunks	 with	
+additional	 minutes	 before	 and	 after	 (option	wing) to ensure that 
+overlap	 can	 be	found.	 The	cross	 correlation	 is	performed	 using	 the	
+function 	simple.cc,	which	takes	two	vectors 	(the	binned	absolute 	
+amplitude	 of	the	two	recordings)	 and	calculates	 the	absolute	 differ-
+ence while sliding the two vectors over each other. It returns the po -
+sition	of	minimum	summed	difference,	or	in	other	words,	the	position	
+of	maximal	overlap.	This	position	is	then	used	to	align	the	recordings	
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 4
+4 of 10  |    
+SMEELE et  al .
+relative	 to	 the	 first	 recording	 and	 save	 chunks	 that	 are	 maximally	
+aligned.	 Note	 that	 due	 to	 drift	 during	 the	 recording,	 the	 start	 and	
+end	 times	 might	 still	 be	 seconds	 off;	 it	 is	 the	 overall	 alignment	 of	
+the	 chunks	 that	 is	 optimised.	 The	 function	 also	 allows	 the	 user	 to	
+create	a	pdf	document	 with	waveforms	of	each	individual	 recording	
+and	a	single	page	per	chunk	(Figure 2),	to	visually	 verify	 if	alignment	
+was	successful.	 For	our	dataset	 all	chunks	 but	one	aligned	 correctly	
+without	a	filter.	If	this	is	not	the	case	the	option	ffilter_from can 
+be	set	to	apply	 a	high-	pass	filter	 to	improve	 alignment.	 Mis-	aligned	
+chunks	 can	 also	 be	rerun	 individually	 (option	chunk_seq) to avoid 
+re-	running	 the	 entire	 dataset.	 This	 was	 done	 for	 the	 case	 study	 as	
+well	(recording	session	from	16	July	2021,	start	time	15 min).
+3.3  |  Call detection and assignment
+The	next	step	is	to	detect	calls	in	each	set	of	chunks	and	assign	them	
+to	the	correct	individual.	 The	detect.and.assign	function 	wrap-
+per	loads	the	chunks	using	the	function	load.wave where it option-
+ally	applies	a	high-	pass	filter	to	reduce	the	amount	of	low-	frequency	
+noise.	To	detect	 calls,	detect.and.assign	first	 calls	the	function	
+call.detect.multiple,	which	 is	used	to	detect	 multiple	 calls	 in	
+an	R	wave	object.	 It	first	 applies	 the	env	function	 from	the	seewave 
+(Sueur	 et	 al.,	 2008)	 package	 to	 create	 a	 smooth	 Hilbert	 amplitude	
+envelope. It then detects all the points on the envelope which are 
+above	a	certain	 threshold	 relative	 to	the	maximum	 of	the	envelope.	
+After	removing	detections 	that	are	shorter 	than	a	set	minimum	dura-
+tion (option min_dur)	 or	longer	 than	 a	set	 maximum	 (option	max_
+dur)	it	returns	all	the	start	and	end	times	as	a	data	frame.
+Because	 the	microphones	 on	focal	 individuals	 are	very	 likely	 to	
+record	the	calls	of	the	non-	focal	individuals 	as	well,	we	implemented 	
+a	step	 that	 assigns	 the	detected	 calls	 to	the	individual	 emitting	 the	
+sound,	 based	 on	amplitude.	 For	this,	detect.and.assign	 subse-
+quently	 calls	 the	 function	 call.assign, which runs through all 
+the	 detections	 in	 a	 given	 chunk	 for	 a	 given	 individual	 (i.e.,	 output	
+of	call.detect.multiple) and runs the call.detect	 function 	
+to	 more	 precisely	 determine	 the	 start	 and	 end	 time	 of	 the	 call.	 It	
+then	 ensures	 that	 minor	 temporal	 drift	 after	 the	align	 function 	
+is	 corrected	 by	 rerunning	 the	simple.cc	f u n c t i o n	p a i r w i s e	b e-
+tween	 the	 focal	 recording	 and	 all	 others.	 After	 alignment	 it	 calcu-
+lates	the	summed	 absolute	 energy	 content	on	all	recordings	 for	the	
+time	frame	when	the	call	was	detected	 and	compares	 the	recording 	
+where	the	detection 	was	made	to	all	other	recordings. 	If	the	loudest 	
+recording 	is	louder	by	a	set	percentage 	(this	value	can	be	adjustable 	
+according to the researchers needs) than the second loudest record -
+ing,	 the	detection	 is	saved	as	a	separate	 wav	file.	 If	not,	 this	means	
+it's	not	possible 	to	determine 	the	focal 	individual 	and	the	detection 	
+is	discarded	 (there	 is	an	option	 to	save	all	detections	 before	 the	as-
+signment 	step).	The	function 	also	allows	the	user	to	create	a	pdf	file	
+with all the detections (see Figure  3	for	a	short	example)	to	manually	
+inspect the results.
+detect.and.assign(path_chunks = 'ANALYSIS/RESULTS/chunks', # where to read the chunks  
+                  path_calls = 'ANALYSIS/RESULTS/calls',   # where to store the calls  
+                  ffilter_from = 1100,                     # from where to filter in Hz  
+                  threshold = 0.18,                        # fraction of maximum of envelope for  
+                                                           # detection  
+                  msmooth = c(1000, 95),                   # smoothening argument for `env`  
+                  min_dur = 0.1,                           # minimum duration in seconds for acceptance  
+                  max_dur = 0.3,                           # maximum duration in seconds for acceptance  
+                  step_size = 1/50,                        # bin size for summing in seconds  
+                  wing = 10,                               # how many extra seconds to load for  
+                                                           # alignment  
+                  save_files = TRUE,                       # should the files be stored in path_calls  
+                  save_extra = 0.05)                       # save 0.05 seconds before and after  
+                                                           # detection
+FIGURE 1 Flowchart	from	the	callsync 	package.	(1)	The	
+alignment 	module	can	be	used	to	align	multiple	microphones	
+that	have	non-	linear	temporal	drift.	(2)	The	detection 	module	can	
+be	used	to	detect	vocalisations	in	each	recording.	Filters	can	be	
+applied	to	remove	false	positives	in	the	detection	module.	(3)	The	
+assignment 	module	can	be	used	to	assign	a	vocalisation	to	the	
+focal	individual,	making	sure	that	vocalisations	from	conspecifics	
+are	excluded	from	the	focal	recording.	(4)	The	tracing 	module	
+can	be	used	to	trace	and	analyse	the	fundamental	frequency	for	
+each	vocalisation.	(5)	The	final	analysis 	module	can	be	used	to	run	
+spectrographic	cross- 	correlation	and	create	a	feature	vector	to	
+compare	across	recordings.
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 5
+    |  5 of 10
+SMEELE et  al .
+For	 the	 12-	h-	long	 cockatiel	 dataset,	 the	 function	 detected	 and	
+assigned	4409	events,	2101	of	which	were	retained 	as	vocalisations 	
+(see	next	 step).	The	removed	events	were	primarily	 noise	and	noisy	
+calls	(e.g.,	overlapping	calls	and	calls	with	echo).	To	estimate	the	accu-
+racy	of	the	function 	we	manually	detected	and	assigned	IDs	for	300	
+calls	in	three	chunks	(chosen	due	to	high	vocal	activity),	ran	the	same	
+filtering	 step	 as	callsync	functions 	described 	earlier 	to	get	rid 	of	
+100	noisy	examples, 	and	compared	the	performance 	of	the	detect.
+and.assign	function 	 to	 manually	 labelled	 data.	 The	 ground	 truth	
+was	performed 	using	the	function 	calc.perf.	This	function 	simply	
+determines 	whether	the	detected	calls	(and	subsequent	labelled	IDs)	
+of	two	datasets	match.	If	sufficient 	temporal	overlap	exists	between	
+the	 two	 datasets,	 they	 are	determined	 to	match.	 The	 false	 positive	
+rate was < 4%,	 with	 noise	 (two	 detections)	 or	 noisy	 calls	 (four	 de-
+tections)	being	responsible;	 and	the	true	positive	rate	was	81%.	The	
+remaining	19%	(false	negatives)	were	mostly	calls	that	were	too	quiet	
+to	be	picked	up	by	our	chosen	amplitude	threshold.
+3.4  |  Tracing
+To	analyse	the	calls,	the	chunks	were	loaded	and	the	function	call.
+detect	was	run	to	determine	the	start	and	end	times	of	the	call.	The	
+wave	objects	 were	then	resized	to	only	include	the	call	(new_wave). 
+To	 trace	 the	 fundamental	 frequency	 we	 applied	 the	trace.fund 
+function	 to	the	resized	wave	objects.	 This	function	 detects	 the	fun-
+damental	 frequency	 in	a	sliding	window	based	on	the	spectrum	 and	
+a	relative	threshold.	We	ran	the	latter	step	in	parallel	using	the	func-
+tion mclapply	from	the	base	R	package	parallel (see Figure  4a	for	an	
+example).
+traces = mclapply(new_waves, function(new_wave)  # apply the function to each new_wave  
+  trace.fund(wave = new_wave,                    # use the new_wave  
+             spar = 0.3,                         # smoothing argument for the `smooth.spline` function  
+             freq_lim = c(1.2, 3.5),             # only consider trace between 1.2 and 3.5 Hz   
+             thr = 0.15,                         # threshold for detection, fraction of max of spectrum  
+             hop = 5,                            # skip five samples per step  
+             noise_factor = 1.5),                # only accept if trace is 1.5 times greater than noise  
+  mc.cores = 4)                                  # run on four threads, has to be 1 on Windows
+Since	 the	 call	 detection	 step	 also	 picks	 up	 on	 a	 lot	 of	 noise 	
+(birds	 scratching,	 flying,	 walking	 around)	 as	 well	 as	 calls,	 we	 ran	
+a	 final	 step	 to	 filter	 the	 measurements	 and	 traces	 before	 these 	
+were saved.
+measurements = measure.trace.multiple(traces = traces,             # object containing traces  
+                                      new_waves = new_waves,       # object containing adjusted waves  
+                                      waves = waves,               # object containing waves  
+                                      detections = detections,     # object containing detections  
+                                      path_pdf = path_pdf_traces)  # where to store pdf  
+keep = measurements$prop_missing_trace < 0.1 &                     # max 10% missing points  
+  measurements$signal_to_noise > 6 &                               # signal to noise at least 6  
+  measurements$band_hz > 400 &                                     # bandwidth at least 400 Hz  
+measurements = measurements[keep,]                                 # keep only these measurements  
+traces = traces[keep]                                              # and these traces
+3.5  |  Analysis
+A	frequently	 used	method	to	compare	calls	is	to	measure	their	simi-
+larity	 using	 spectrographic 	 cross	 correlation	 (SPCC)	 (Cortopassi	 &	
+Bradbury,	2000),	where	 two	 spectrograms	 are	 slid	 over	each	 other	
+and	the	pixelwise	difference	 is	computed	for	each	step.	At	the	point	
+where	 the	 signals	 maximally	 overlap	 one	 will	 find	 the	 minimal	 dif-
+ference.	 This	 score	 is	 then	 used	 as	 a	 measure	 of	 acoustic	 distance	
+between	 two	calls.	The	function	run.spcc	runs	SPCC	and	includes 	
+several	methods	 to	reduce	noise	in	the	spectrogram	 before	running	
+cross-	correlation	 (for	 an	 example	 see	 Figure 4b).	 To	 visualise	 the	
+resulting	 feature	 vector	 from	 running	 SPCC	 on	 the	 cockatiel	 calls	
+we	 used	 uniform	 manifold	 approximation	 and	 projection	 (UMAP)	
+(Konopka,	2022)	which	projects	the	results	in	two-	dimensional	space.	
+Calls	 cluster	 very	 strongly	 by	 the	 two	 separate	 recording	 groups	
+(2021	and	2022),	giving	some	evidence	of	different	vocal	signatures	
+(see Figure 5).	This	is	a	very	simple	analysis,	and	we	only	included	it	to	
+illustrate	a	potential	use	of	the	results	from	the	previous	steps.
+4  | DISCUSSION
+Here	 we	 detail	 our	 R	 package	 callsync,	 designed	 to	 take	 raw	
+microphone 	 recordings 	 collected 	 simultaneously 	 from	 multiple 	
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 6
+6 of 10  |    
+SMEELE et  al .
+individuals 	and	align,	extract 	and	analyse	their	calls.	We	present	call-
+sync	performance	 on	a	computer-	generated	 dataset	of	10 min	of	re-
+cording	from	two	frogs	and	a	case	study	of	12 h	of	natural	recordings	
+from	 two	 times	 six	 communally	 housed	 captive	 cockatiels.	 Each	 of	
+the	modular	components 	(alignment, 	detection, 	assignment, 	tracing	
+and	analysis)	successfully	 achieved	the	stated	goals	in	both	systems.	
+In	the	computer	generated	dataset,	no	errors	were	made.	In	the	case	
+study,	misaligned	 audio	tracks	were	accurately	 aligned	in	a	first	step	
+(see Figure 2),	calls	 were	 correctly	 identified	 in	the	 aligned	 record-
+ings (see Figure  3),	the	individual	 making	 the	call	 was	selected	 (see	
+Figure 3),	and	 downstream	 data	 analysis	 was	 performed	 (Figures 4 
+and 5). callsync	can	perform	 alignment	 even	on	inter-	microphone	
+drift	 that	 constitutes	 minutes	 as	 well	 as	 handle	 unpredictable	 and	
+non-	linear	drift	patterns	on	different	microphones.
+With	tracks 	aligned	to	a	few	seconds	and	only	six	false	positives 	
+in	the	 case	 study,	 we	are	 confident	 that	callsync	is	a	robust	 and	
+FIGURE 2 Example	of	the	alignment	output.	Olive- 	coloured	lines	represent	the	summed	absolute	amplitude	per	bin	( = 0.5 s).	Recordings	
+are	aligned	relative	to	the	first	recording	(which	starts	at	0).	Note	that	recordings	2–5	initially	started	~ 2 min	earlier	(purple	arrow)	but	are	
+now	aligned.	The	title	displays	the	start	time	of	the	chunk	in	the	raw	recording.
+FIGURE 3 Example	of	the	detection	output.	Black	lines	are	the	waveforms.	Olive- 	coloured	dashed	lines	with	shaded	areas	in	between	
+are	the	detected	calls.	Note	that	only	the	loudest	version	of	each	call	is	selected.	The	first	call	is	also	loud	in	the	first	channel	(top- 	row)	
+but	contains	less	energy	throughout	the	whole	call	(channel	four	is	loud	for	a	longer	duration).	Animals	with	individual	specific	sounds	
+(scratching,	etc.)	are	seen	clearly	on	only	single	microphones.
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 7
+    |  7 of 10
+SMEELE et  al .
+useful	tool	for	bioacoustics	 research.	 Additionally,	one	false	positive	
+was	 actually	 a	 true	 positive;	 in	 this	 case	 because	 of	 a	 tiny	 differ-
+ence	in	start 	and	end	time	between 	the	ground	truth	and	automatic 	
+detection,	 which	 led	 the	 ground	 truth	 to	 be	 filtered	 out,	 but	 the	
+automatic	 detection	 to	 stay.	 Overall,	 the	 true	 positive	 rate	 of	 our	
+results	 was	 81%,	 meaning	 that	 only	 19%	of	 the	 manually	 selected	
+calls	 for	 ground	 truthing	 were	 not	 detected	 by	 the	call.detect 
+function.	 Where	call	rate	across	call	types	 is	important,	 researchers	
+can	set	the	threshold 	very	low	and	manually 	remove	false	positives. 	
+Alternatively,	a	deep	neural	network	can	be	used	to	sort	signals	from	
+noise (Bergler et al., 2022 ).
+A	 further	 possible	 challenge	 with	 the	call.detect	 function 	
+could	be	that	certain	 call	types	are	never	easily	distinguishable	 from	
+background	 noise.	In	these	situations,	call.detect	is	likely	to	pick	
+up	 a	 significant	 amount	 of	 background	 noise	 in	 addition	 to	 calls.	
+Function	 parameters	 can	 be	 adapted	 and	 should	 function	 on	 most	
+call-	types,	 as	 can	 post-	processing	 thresholding.	 For	 example,	 ma-
+chine learning approaches (Bergler et  al., 2022; Cohen et al., 2022 ; 
+Stowell	 et	 al.,	 2019)	 or	 image	 recognition	 tools	 (Smith-	Vidaurre	
+et al., 2020 ;	 Valletta	 et	 al.,	 2017)	 can	 be	 later	 applied	 to	 separate	
+additionally 	 detected 	 noise	 in	 particular 	 circumstances 	 where	 an	
+amplitude	 based	 thresholding	 approach	 is	 insufficient.	 As	 well,	 in	
+specific	 cases	 (e.g.,	 low	 amplitude	 calls),	 once	 the	 align	 function	 is	
+performed, 	the	entire	call.detect	function	 can	 be	swapped	 out	
+for	 deep	 learning	 call	 detection	 algorithms	 such	 as	 ANIMAL-	SPOT	
+(Bergler et al., 2022 ) or other signal processing approaches (e.g., see -
+wave	package	Sueur	et	al.	2008 ).
+The	 microphones 	 used 	 in	 this 	 case 	 study 	 were 	 implemented 	
+in	 a	 captive	 setting	 where	 all	 calls	 were	 within	 hearing	 range	 of	
+each 	other 	and	each 	microphone. 	Thus, 	all	microphones 	contained 	
+a	 partially	 shared	 noisescape.	 Despite	 their	 proximity	 to	 one	 an-
+other,	 it	 should	 be	 noted	 that	 each	 microphone	 still	 contained 	
+unique	 vocal	 attributes,	 such	 as	 wing	 beats	 and	 scratching,	 and	
+yet	the	major 	alignment 	step 	still 	aligned 	all	chunks 	correctly. 	This	
+was	 the	 case	 both	 in	 recordings	 with	 beep	 markers	 and	 without. 	
+It	 is	 possible	 that	 researchers	 find	 that	 the	 noise	 differences	 be-
+tween	 microphones	 are	 too	 high	 for	 the	 first	 alignment	 step	 to	
+perform	 adequately.	 This	 would	 be	 particularly	 salient	 in	 field 	
+settings 	where 	individuals 	within 	fission- 	fusion 	groups 	find 	them -
+selves 	in	the	proximity 	of	other 	group 	members 	only 	some 	of	the	
+time	 (Balsby	 &	 Bradbury,	 2009 ;	 Buhrman- 	Deever	 et	 al.,	 2008 ; 
+Furmankiewicz	 et	 al.,	 2011),	 or	 in	 situations	 where	 animals	 con-
+stantly 	move	(i.e., 	flying) 	or	do	independent 	behaviours 	that 	other 	
+group	 members	 do	 not	 (e.g.,	 preening)	 (Demartsev	 et	 al.,	 2023). 
+Researchers will have to assess their own dataset and test this 
+package 	to	determine 	whether 	the	first 	step 	will 	perform 	well 	on	
+their	 dataset.	 If	 it	 does	 not,	callsync	is 	a	modular 	package 	and 	
+other	 approaches,	 such	 as	 deep	 learning	 (O'shea	 &	 West,	 2016) 
+can	 be	 used	 instead	 of	 the	 first	 align	 function,	 while	 still	 using 	
+other 	 components 	 of	 the	 pipeline. 	 Alternatively, 	 beep 	 markers 	
+FIGURE 4 (a)	Spectrogram	of	a	cockatiel	call	with	start	and	end	(black	dashed	lines)	and	the	fundamental	frequency	trace	(green	solid	
+line).	(b)	Noise	reduced	spectrogram	where	darker	colours	indicate	higher	intensity.
+FIGURE 5 Call	distribution	in	uniform	manifold	approximation	
+and	projection	space.	Dots	represent	calls	and	are	coloured	by	year.
+Dimension 1
+Dimension 2
+−6 −3 036
+−6 −3 03 6
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 8
+8 of 10  |    
+SMEELE et  al .
+audible	 on	 all	 microphones	 could	 be	 implemented	 to	 assist	 with	
+alignment.	 Of	 course,	 the	 tones	 would	 need	 to	 be	 audible	 on	 all	
+microphones.
+Assigning 	 a	 focal	 bird	 may	 be	 more	 difficult 	 if	 individuals 	 tend	
+to	be	in	very	 close	 proximity	 to	other	 group	 members.	 If	the	group	
+members	 spend	 time	 too	 close	 to	 one	 another	 (in	 our	 case	 less	
+than	 5–10 cm,	the	 distance	 between	 the	 backpack	 and	 head	 of	the	
+vocalising 	 individual) 	 (Boughman 	 &	 Wilkinson, 	 1998; Kloepper & 
+Kinniry, 2018),	it	will	become	more	difficult 	to	distinguish 	the	vocal-
+ising	individual	 from	other	surrounding	 individuals.	 In	the	context	of	
+this	 case	 study,	 it	was	 sufficient	 to	only	 select	 a	vocalising	 individ-
+ual	 when	 the	 second	 loudest	 call	 was	 at	 least	 5%	quieter	 than	 the	
+focal	call.	This	threshold	can	be	adapted	if	needed,	or	the	assignment	
+part	can	be	removed	entirely	 if	so	chosen.	 More	generally,	the	issue	
+of	variation	 in	 spatial	 proximity	 could	 be	 solved	 by	including	 other	
+on-	board	 or	 group-	level	 tools,	 such	 as	 accelerometers	 (Anisimov	
+et al., 2014; Gill et al., 2015 ),	 or	 proximity	 tags	 (Wild	 et	 al.,	 2022). 
+This	 adds	 extra	 weight	 and	 cost	 to	on-	board	 devices,	 and	 so	if	not	
+possible,	 the	 other	 analytical	 tools	 could	 be	 considered	 to	 distin-
+guish	 the	 focal	 calling	 birds.	 The	 specific	 tool	 will	 depend	 heavily	
+on	 use-	cases,	 but	 include	 using	 discriminant 	 analysis	 (McIlraith 	 &	
+Card, 1997)	or	cepstral	 coefficients	 (Lee	et	al.,	2006) to predict the 
+ID	of	the	caller.
+Lastly,	both	fundamental 	frequency 	tracing 	and	SPCC	work	well	
+in	certain	 contexts.	 For	example,	 automatic	 fundamental	 frequency	
+traces	work	best	for	tonal	calls	while	SPCC	works	best	when	the	sig-
+nal	to	noise	 ratio	 is	sufficiently	 low	(Cortopassi	 &	Bradbury,	 2000). 
+However,	 if	 these	 criteria	 are	 not	 met,	 several	 other	 tools	 can	 be	
+used	 to	 manually	 trace	 fundamental	 frequency	 instead,	 such	 as	
+Luscinia	 (Lachlan 	 et	 al.,	 2018)	 or	 manual	 tracing	 (Araya-	Salas	 &	
+Smith-	Vidaurre, 	 2017).	 While	 it	 is	 important	 to	 consider	 all	 possi-
+ble	 limitations	 of	callsync	it	 should	 also	 be	 noted	 that	 there	 are	
+few	tools	that	exist	that	perform	this	much-	needed	task.	Indeed,	the	
+fine-	scale	alignment 	step	of	callsync	allows	for	call	and	response	
+dynamics	to	be	measured	regardless	of	how	close	the	calls	are	to	one	
+another.	While	this	paper	 has	thus	far	only	addressed	 on-	board	 mi-
+crophones, 	other	systems 	that	implement 	passive	acoustic 	monitor-
+ing	systems	 (Thode	 et	al.,	2006)	and	microphone	 arrays	 (Blumstein	
+et al., 2011)	should	 also	find	 benefit	 within	 this	package	 depending	
+on	 the	 set-	up	 and	 degree	 of	 drift.	 Possible	 future	 research	 oppor-
+tunities	 include	 trying	 to	 incorporate	 machine	 learning	 and	 noise	
+reduction	 techniques	 so	that	the	major	alignment	 can	perform	 in	all	
+contexts.
+5  | CONCLUSION
+This	open-	source	package	is	publicly	available	on	GitHub	and	CRAN. 	
+We	welcome	all	continued	suggestions 	and	believe	that	our	package	
+will	result	in	an	increase 	in	the	scope	of	bioacoustic 	research. 	Our	
+package 	provides 	functions 	that	allow	alignment, 	detection, 	assign-
+ment,	tracing 	and	analysis 	of	calls	in	a	multi-	recorder 	setting 	where	
+all	 microphones 	 are	 within	 acoustic 	 distance. 	 The	 package 	 can	 be	
+used	to	generate	 a	fully	 automated	 pipeline	 from	raw	recordings	 to	
+the	 final	 feature	 vectors.	 We	show	 that	 such	 a	pipeline	 works	 well	
+on	a	captive	dataset	with	4-	h-	long	recordings 	from	backpack 	micro-
+phones 	on	six	cockatiels 	which	experience 	non-	linear	time	drif t	up	to	
+several	minutes. 	Each	module	can	also	be	replaced 	with	alternatives 	
+and	 can	 be	 further	 developed.	 This	 package	 is,	 to	 our	 knowledge, 	
+the	 first	 R	package	 that	 performs	 this	 task.	 We	hope	 this	 package	
+expands	 the	 amount	 of	 data	 researchers	 can	 process	 and	 contrib -
+utes	to	understanding	the	dynamics	of	animal	communication.
+AUTHOR CONTRIBUTIONS
+Simeon Q. Smeele: 	Conceptualization 	(equal);	data	curation	(equal);	
+formal	analysis	(lead);	investigation 	(equal);	methodology 	(lead);	pro-
+ject	administration 	(lead);	software 	(lead);	validation	(equal);	visuali-
+zation	 (lead);	 writing	 –	 original	 draft	 (supporting);	 writing	 –	 review	
+and	 editing	 (equal).	 Stephen A. Tyndel: 	 Conceptualization 	 (equal);	
+data	 curation	 (equal);	 formal	 analysis	 (supporting);	 investigation 	
+(equal);	 methodology 	 (equal);	 project	 administration 	 (supporting); 	
+software 	 (supporting); 	 validation	 (equal);	 visualization 	 (supporting); 	
+writing	 –	 original	 draft	 (lead);	 writing	 –	 review	 and	 editing	 (equal).	
+Barbara C. Klump: 	 Conceptualization 	 (supporting); 	 supervision 	
+(equal);	writing	–	review	and	editing	(equal).	Gustavo Alarcón-  Nieto: 
+Investigation	 (equal);	 writing	 –	 review	 and	 editing	 (equal).	 Lucy M. 
+Aplin:	 Conceptualization 	 (supporting); 	 investigation 	 (supporting); 	
+resources	 (lead);	 supervision	 (equal);	 writing	 –	 review	 and	 editing	
+(equal).
+ACKNOWLEDGEMENTS
+We	thank	Dr.	Ariana	Strandburg- 	Peshkin	for	early	feedback.	SQS	and	
+SAT	received	 funding	 from	 the	 International	 Max	 Planck	 Research	
+School	 for	 Organismal	 Biology	 and	 the	 International	 Max	 Planck	
+Research	School	for	Quantitative	 Behaviour,	Ecology	and	Evolution.	
+SAT	received	additional	 funding	from	a	DAAD	PhD	fellowship.	 LMA	
+was	 funded	 by	 a	 Max	 Planck	 Group	 Leader	 Fellowship	 from	 the	
+Max	 Planck	 Society,	 and	 is	 currently	 supported	 by	 the	 Swiss	 State	
+Secretariat	 for	 Education,	 Research	 and	 Innovation	 (SERI)	 under	
+contract	 number	 MB22.00056.	 Open	 Access	 funding	 enabled	 and	
+organized	by	Projekt	DEAL.
+CONFLICT OF INTEREST STATEMENT
+The	authors	declare	no	conflicts	of	interest.
+OPEN RESEARCH BADGES
+This	 article	 has	 earned	 Open	 Data	 and	 Open	 Materials	 badges.	
+Data	 and	 materials	 are	 available	 at	 h t t p s : / /	g i t h u b .	c o m /	s i m e o	n q s /	
+c a l l s	y n c _	a n _ R _	p a c k a	g e _	f o r _	a l i g n	m e n t _	a n d _	a n a l y	s i s _	o f _	m u l t i	-		m i c r o	
+phone_ 	animal_ 	recor	dings	 and (h t t p s : / /	d o i .	o r g /	1 0 .	1 7 6 1 7 /	3 .	3 X H T J A).
+DATA AVAILABILITY STATEMENT
+All	 code	 associated	 with	 this	 paper	 is	 publicly	 available	 on	 GitHub	
+(h t t p s : / /	g i t h u b .	c o m /	s i m e o	n q s /	c a l l s	y n c _	a n _ R _	p a c k a	g e _	f o r _	a l i g n	
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 9
+    |  9 of 10
+SMEELE et  al .
+m e n t _	a n d _	a n a l y	s i s _	o f _	m u l t i	-		m i c r o	p h o n e _	a n i m a l _	r e c o r	d i n g s	).	 All	
+data	 and	 code	 are	 also	 publicly	 available	 on	 Edmond	 (ht tps:// doi. 
+o r g /	1 0 .	1 7 6 1 7 /	3 .	3 X H T J A).	 The	callsync	 package	 can	 be	 installed	
+from	 CRAN	 and	 a	developmental	 version	 can	 be	 found	 on	 GitHub	
+(h t t p s : / /	g i t h u b .	c o m /	s i m e o	n q s /	c a l l s y n c).
+ORCID
+Simeon Q. Smeele  https:/ / orcid.org/0000-0003- 1001 -6615 
+Stephen A. Tyndel  https:/ / orcid.org/0000-0001 -9989-0557 
+Barbara C. Klump  https:/ / orcid.org/0000-0003-3919-452X 
+Gustavo Alarcón- Nieto  https:/ / orcid.org/0000-0003-4076-3750 
+Lucy M. Aplin  https:/ / orcid.org/0000-0001 -5367 -826X     
+REFERENCES
+Anisimov,	 V.	 N.,	 Herbst,	 J.	 A.,	 Abramchuk,	 A.	 N.,	 Latanov,	 A.	 V.,	
+Hahnloser,	 R.	 H.	 R.,	 &	 Vyssotski,	 A.	 L.	 (2014).	 Reconstruction	 of	
+vocal	 interactions	 in	 a	 group	 of	 small	 songbirds.	 Nature Methods , 
+11(11),	1135–1137.
+Araya-	Salas,	 M.,	 Andrés	 Hernández- 	Pinsón,	 H.,	 Rojas,	 N.,	 &	 Chaverri,	
+G.	(2020).	 Ontogeny	 of	an	interactive	 call-	and-	response	 system	 in	
+Spix's	disc-	winged	bats.	Animal Behaviour , 166,	233–245.
+Araya-	Salas,	 M.,	 &	Smith-	Vidaurre,	 G.	 (2017).	 warbleR:	 An	r	package	 to	
+streamline 	 analysis 	 of	 animal	 acoustic 	 signals. 	 Methods in Ecology 
+and Evolution, 8(2),	184–191.
+Balsby,	 T.	 J.	 S.,	 &	 Bradbury,	 J.	 W.	 (2009).	 Vocal	 matching	 by	 orange- 	
+fronted 	conures 	(Aratinga canicularis ). Behavioural Processes , 82(2), 
+133–139.
+Bergler, 	C., 	Smeele, 	S.	Q.,	Tyndel, 	S.	A., 	Barnhill, 	A., 	Ortiz, 	S.	T.,	Kalan, 	
+A.	 K.,	 Cheng,	 R.	 X.,	 Brinkløv,	 S.,	 Osiecka,	 A.	 N.,	 Tougaard,	 J.,	
+Jakobsen,	 F.,	 Wahlberg,	 M.,	 Nöth,	 E.,	 Maier,	 A.,	 &	 Klump,	 B.	 C.	
+(2022). 	 ANIMAL -	SPOT	 enables 	 animal- 	independent 	 signal 	 de-
+tection	 and	 classification	 using	 deep	 learning.	 Scientific Reports , 
+12(1),	1–16.
+Blumstein,	 D.	T.,	Mennill,	 D.	J.,	 Clemins,	 P.,	Girod,	 L.,	 Yao,	K.,	 Patricelli,	
+G.,	Deppe,	J.	L.,	Krakauer,	A.	H.,	Clark,	C.,	Cortopassi,	 K.	A.,	Hanser,	
+S.	F.,	McCowan,	 B.,	Ali,	A.	M.,	&	Kirschel,	 A.	N.	G.	(2011).	Acoustic	
+monitoring 	 in	 terrestrial 	 environments 	 using	 microphone 	 arrays:	
+Applications, 	technological 	considerations 	and	prospectus. 	Journal 
+of Applied Ecology , 48(3),	758–767.
+Boughman,	 J.	 W.,	 &	 Wilkinson,	 G.	 S.	 (1998).	 Greater	 spear-	nosed	 bats	
+discriminate 	group	mates	by	vocalizations. 	Animal Behaviour , 55(6), 
+1717–1732.
+Buhrman- 	Deever,	S.	C.,	Hobson,	E.	A.,	&	Hobson,	A.	D.	(2008).	Individual	
+recognition	 and	 selective	 response	 to	 contact	 calls	 in	 foraging	
+brown-	throated 	conures, 	Aratinga pertinax . Animal Behaviour , 76(5), 
+1715–1725.
+Cheney,	 D.	L.,	 &	Seyfarth,	 R.	 M.	 (2018).	 Flexible	 usage	 and	 social	 func-
+tion	in	primate	vocalizations.	 Proceedings of the National Academy of 
+Sciences of the United States of America , 115(9),	1974–1979.
+Cohen,	 Y.,	Nicholson,	 D.	A.,	 Sanchioni,	 A.,	 Mallaber,	 E.	K.,	Skidanova,	 V.,	
+&	Gardner,	 T.	J.	 (2022).	 Automated	 annotation	 of	birdsong	 with	 a	
+neural	network	that	segments	spectrograms.	eLife , 11, e63853.
+Cortopassi, 	K.	A.,	&	Bradbury, 	J.	W.	(2000). 	The	comparison 	of	harmoni -
+cally	rich	sounds	using	spectrographic 	cross-	correlation 	and	princi-
+pal coordinates analysis. Bioacoustics , 11(2),	89–127.
+Dahlin,	C.	R.,	Young,	A.	M.,	Cordier,	B.,	Mundry,	R.,	&	Wright,	T.	F.	(2014).	
+A	test	of	multiple	 hypotheses	 for	the	function	 of	call	sharing	 in	fe-
+male	 budgerigars, 	 Melopsittacus undulatus . Behavioral Ecology and 
+Sociobiology , 68(1),	145–161.
+Demartsev,	 V.,	 Gersick,	 A.	 S.,	 Jensen,	 F.	H.,	 Thomas,	 M.,	 Roch,	 M.	 A.,	
+Manser,	 M.	 B.,	 &	 Strandburg- 	Peshkin,	 A.	 (2023).	 Signalling	 in	
+groups:	 New	 tools	 for	 the	 integration	 of	 animal	 communication	
+and	 collective 	 movement. 	Methods in Ecology and Evolution , 14(8), 
+1852–1863.
+Endler,	 J.	 A.	 (1993).	Some	 general	 comments	 on	 the	 evolution	 and	 de-
+sign	of	animal	communication	 systems.	Philosophical Transactions of 
+the Royal Society of London, Series B: Biological Sciences , 340(1292), 
+215–225.
+Furmankiewicz,	 J.,	Ruczyński,	 I.,	Urban,	R.,	&	Jones,	G.	(2011).	Social	calls	
+provide	 tree-	dwelling	 bats	 with	 information	 about	 the	 location	 of	
+conspecifics	at	roosts.	Ethology , 117(6),	480–489.
+Gill,	 L.	 F.,	D'Amelio,	 P.	B.,	 Adreani,	 N.	 M.,	 Sagunsky,	 H.,	 Gahr,	 M.	 C.,	 &	
+Ter	Maat,	A.	(2016).	A	minimum-	impact,	 flexible	 tool	to	study	vocal	
+communication 	of	small	animals	with	precise	individual- 	level	reso-
+lution. Methods in Ecology and Evolution , 7(11),	1349–1358.
+Gill,	 L.	 F.,	 Goymann,	 W.,	 Ter	 Maat,	 A.,	 &	 Gahr,	 M.	 (2015).	 Patterns	 of	
+call	 communication	 between	 group-	housed	 zebra	 finches	 change	
+during	the	breeding	cycle.	eLife , 4, e07770.
+Hayes,	 S.	 A.,	 Mellinger,	 D.	 K.,	 Croll,	 D.	 A.,	 Costa,	 D.	 P.,	&	 Borsani,	 J.	 F.	
+(2000).	 An	 inexpensive	 passive	 acoustic	 system	 for	 recording	 and	
+localizing 	wild	animal	sounds. 	The Journal of the Acoustical Society of 
+America, 107(6),	3552–3555.
+Kloepper,	 L.	 N.,	 &	 Kinniry,	 M.	 (2018).	 Recording	 animal	 vocalizations	
+from	 a	 UAV:	 Bat	 echolocation	 during	 roost	 re-	entry.	 Scientific 
+Reports , 8(1),	1–6.
+Knörnschild,	 M.,	 Nagy,	 M.,	 Metz,	 M.,	 Mayer,	 F.,	 &	 von	 Helversen,	 O.	
+(2012).	 Learned	 vocal	 group	 signatures	 in	 the	 polygynous	 bat	
+Saccopteryx bilineata . Animal Behaviour , 84(4),	761–769.
+Konopka,	T.	(2022).	Umap: Uniform manifold approximation and projection . 
+h t t p s : / /	C R A N .	R -		p r o j e	c t .	o r g /	p a c k a	g e=	umap
+Lachlan,	 R.	 F.,	 Ratmann,	 O.,	 &	 Nowicki,	 S.	 (2018).	 Cultural	 confor-
+mity	 generates 	 extremely 	 stable 	 traditions 	 in	 bird	 song.	 Nature 
+Communications , 9(1),	1–9.
+Lee,	 C.-	H.,	 Lee,	 Y.-	K.,	 &	 Huang,	 R.-	Z.	 (2006).	 Automatic	 recognition	
+of	 bird	 songs	 using	 cepstral	 coefficients.	 Journal of Information 
+Technology and Applications , 1(1),	17–23.
+Ligges, 	U.,	Krey,	S.,	Mersmann, 	O.,	Schnackenberg, 	S.,	Guénard, 	G.,	Ellis,	
+D.	P.	W.,	Preusser,	A.,	Thieler,	A.,	Mielke,	J.,	Weihs,	C.,	Ripley,	B.	D.,	
+&	Heymann,	M.	(2022).	Package ‘tuneR’.
+Malinka,	 C.	 E.,	 Atkins,	 J.,	 Johnson,	 M.	 P.,	 Tønnesen,	 P.,	 Dunn,	 C.	 A.,	
+Claridge,	 D.	E.,	Aguilar,	 N.,	Soto,	D.,	&	Madsen,	 P.	T.	(2020).	 An	au-
+tonomous 	hydrophone 	array	to	study	the	acoustic 	ecology 	of	deep-	
+water toothed whales. Deep Sea Research Part I: Oceanographic 
+Research Papers , 158, 103233.
+McIlraith,	 A.	 L.,	 &	 Card,	 H.	 C.	 (1997).	Birdsong	 recognition	 using	 back-
+propagation 	and	multivariate 	statistics. 	IEEE Transactions on Signal 
+Processing , 45(11),	2740–2748.
+Miller,	 B.,	 &	 Dawson,	 S.	 (2009).	 A	 large-	aperture	 low-	cost	 hydrophone	
+array	 for	 tracking	 whales	 from	 small	 boats.	 The Journal of the 
+Acoustical Society of America , 126(5),	2248–2256.
+Nousek, 	A.	E.,	Slater,	P.	J.	B.,	Wang,	C.,	&	Miller,	P.	J.	O.	(2006).	The	influ-
+ence	of	social	 affiliation	 on	individual	 vocal	 signatures	 of	northern	
+resident	killer	whales	(Orcinus orca ). Biology Letters , 2(4),	481–484.
+O'shea, 	T.	J.,	&	West,	N.	(2016).	Radio	machine 	learning 	dataset 	genera -
+tion with gnu radio. Proceedings of the GNU Radio Conference , 1, 1.
+Sanchez,	 B.,	 Francisco,	 J.,	 Hossain,	 M.	 R.,	 English,	 N.	 B.,	 &	Moore,	 S.	 T.	
+(2021).	 Bioacoustic	 classification	 of	 avian	 calls	 from	 raw	 sound	
+waveforms	 with	 an	 open-	source	 deep	 learning	 architecture.	
+Scientific Reports , 11(1),	1–12.
+Schmid,	 T.,	 Shea,	 R.,	 Charbiwala,	 Z.,	 Friedman,	 J.,	 Srivastava,	 M.	 B.,	 &	
+Cho,	Y.	H.	(2010).	On	the	interaction 	of	clocks,	power,	and	synchro -
+nization 	in	duty-	cycled	embedded 	sensor	nodes. 	ACM Transactions 
+on Sensor Networks (TOSN) , 7(3),	1–19.
+Smith-	Vidaurre, 	G.,	Araya-	Salas,	M.,	&	Wright,	T.	F.	(2020).	Individual 	sig-
+natures	outweigh 	social	group	identity 	in	contact 	calls	of	a	commu-
+nally nesting parrot. Behavioral Ecology , 31(2),	448–458.
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License
+
+
+PDF PAGE 10
+10 of 10  |    
+SMEELE et  al .
+Stidsholt,	 L.,	 Johnson,	 M.,	 Beedholm,	 K.,	 Jakobsen,	 L.,	 Kugler,	 K.,	
+Brinkløv, 	S.,	Salles, 	A., 	Moss, 	C.	F.,	&	Madsen, 	P.	T.	(2019).	A	2.6- 	g	
+sound	 and	 movement	 tag	 for	studying	 the	 acoustic	 scene	 and	 ki-
+nematics	 of	 echolocating	 bats.	 Methods in Ecology and Evolution , 
+10(1),	48–58.
+Stowell,	 D.,	Wood,	 M.	D.,	Pamuła,	 H.,	 Stylianou,	 Y.,	&	Glotin,	 H.	(2019).	
+Automatic	 acoustic	 detection	 of	 birds	 through	 deep	 learning:	
+The	 first	 bird	 audio	 detection	 challenge.	 Methods in Ecology and 
+Evolution, 10(3),	368–380.
+Sueur,	J.,	Aubin,	T.,	&	Simonis,	C.	(2008).	Seewave,	a	free	modular	tool	for	
+sound analysis and synthesis. Bioacoustics , 18(2),	213–226.
+Thode,	 A.	M.,	Gerstoft,	 P.,	Burgess,	 W.	C.,	Sabra,	 K.	G.,	Melania	 Guerra,	
+M.,	Stokes,	D.,	Noad,	M.,	&	Cato,	D.	H.	(2006).	A	portable	 matched-	
+field	 processing 	 system	 using	 passive	 acoustic 	 time	 synchroniza -
+tion. IEEE Journal of Oceanic Engineering , 31(3),	696–710.
+Valletta,	 J.	 J.,	 Torney,	C.,	 Kings,	 M.,	 Thornton,	 A.,	 &	Madden,	 J.	 (2017).	
+Applications	 of	 machine	 learning	 in	 animal	 behaviour	 studies.	
+Animal Behaviour , 124,	203–220.
+Wild,	 T.	 A.,	 Wikelski,	 M.,	 Tyndel,	 S.,	 Alarcón- 	Nieto,	 G.,	 Klump,	 B.	 C.,	
+Aplin,	 L.	 M.,	 Meboldt,	 M.,	 &	 Williams,	 H.	 J.	 (2022).	 Internet	 on	
+animals:	 Wi-	fi-	enabled	 devices	 provide	 a	 solution	 for	 big	 data 	
+transmission 	in	biologging. 	Methods in Ecology and Evolution , 14, 
+87–10 2 .
+How to cite this article: Smeele,	S.	Q.,	Tyndel,	S.	A.,	Klump, 	
+B.	C.,	Alarcón- 	Nieto,	G.,	&	Aplin,	L.	M.	(2024).	callsync:	An	R 	
+package	for	alignment	and	analysis	of	multi- 	microphone 	
+animal	recordings. 	Ecology and Evolution, 14, e11384. ht tps://
+doi.org/10.1002/ece3.11384
+ 20457758, 2024, 5, Downloaded from https://onlinelibrary.wiley.com/doi/10.1002/ece3.11384, Wiley Online Library on [12/05/2026]. See the Terms and Conditions (https://onlinelibrary.wiley.com/terms-and-conditions) on Wiley Online Library for rules of use; OA articles are governed by the applicable Creative Commons License

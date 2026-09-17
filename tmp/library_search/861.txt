@@ -1,0 +1,2829 @@
+PDF PAGE 1
+royalsocietypublishing.org/journal/rsbl
+Review
+Cite this article: Gavriilidi I, De Meester G,
+Van Damme R, Baeckens S. 2022 How to
+behave when marooned: the behavioural
+component of the island syndrome remains
+underexplored. Biol. Lett. 18: 20220030.
+https://doi.org/10.1098/rsbl.2022.0030
+Received: 19 January 2022
+Accepted: 25 March 2022
+Subject Areas:
+behaviour, evolution, ecology
+Keywords:
+animal behaviour, behavioural syndrome,
+cognition, island evolution, personality
+Author for correspondence:
+Ioanna Gavriilidi
+e-mail: ioanna.gavriilidi@uantwerp.be
+Animal behaviour
+How to behave when marooned: the
+behavioural component of the island
+syndrome remains underexplored
+Ioanna Gavriilidi 1,3, Gilles De Meester 1, Raoul Van Damme 1 and
+Simon Baeckens 1,2
+1Functional Morphology Lab, Department of Biology, University of Antwerp, Wilrijk, Belgium
+2Evolution and Optics of Nanostructures Lab, Department of Biology, Ghent University, Ghent, Belgium
+3Section of Zoology and Marine Biology, Department of Biology, National and Kapodistrian University of Athens,
+Greece
+IG, 0000-0003-1035-1931; SB, 0000-0003-2189-9548
+Animals on islands typically depart from their mainland relatives in assorted
+aspects of their biology. Because they seem to occur in concert, and to some
+extent evolve convergently in disparate taxa, these changes are referred to as
+the ‘island syndrome ’. While morphological, physiological and life-history
+components of the island syndrome have received considerable attention,
+much less is known about how insularity affects behaviour. In this paper,
+we argue why changes in personality traits and cognitive abilities can be
+expected to form part of the island syndrome. We provide an overview of
+studies that have compared personality traits and cognitive abilities between
+island and mainland populations, or among islands. Overall, the pickings
+are remarkably slim. There is evidence that animals on islands tend to be
+bolder than on the mainland, but effects on other personality traits go
+either way. The evidence for effects of insularity on cognitive abilities or
+style is highly circumstantial and very mixed. Finally , we consider the eco-
+logical drivers that may induce such changes, and the mechanisms
+through which they might occur. We conclude that our knowledge of the be-
+havioural and cognitive responses to island environments remains limited,
+and we encourage behavioural biologists to make more use of these ‘natural
+laboratories for evolution ’.
+1. Introduction
+Animals and plants inhabiting islands tend to deviate from their mainland rela-
+tives in multiple aspects of their morphology , physiology , behaviour and life
+history; a pattern referred to as the ‘island syndrome’ [1–3]. A large body of lit-
+erature on a variety of animal taxa documents how island populations stand
+out in body size and shape, colouration, locomotor abilities, diet, niche
+width, fecundity and lifespan, for instance (reviews in [2 –7]). Curiously , far
+fewer studies have examined behavioural adaptations in island dwellers.
+Apart from the often documented phenomenon of ‘island tameness’ (i.e. insular
+prey species often fail to recognize or respond adequately to predators; [8,9])
+and peculiarities of island birdsongs [10 –12], whether and how insularity
+affects other behavioural aspects of animals has received far less attention.
+This is unfortunate, because behaviour is such an important part of the
+phenotype, and because many of the drivers of morphological, physiological
+and life-history evolution on islands are also likely to impinge on behavioural
+characteristics [13].
+© 2022 The Authors. Published by the Royal Society under the terms of the Creative Commons Attribution
+License http:/ /creativecommons.org/licenses/by/4.0/, which permits unrestricted use, provided the original
+author and source are credited.
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 2
+The island environment differs in many aspects from that
+of the mainland. Islands typically accommodate fewer species
+than mainland habitats of the same surface area [4,5,14]. The
+dearth of competitors, and especially of large predators, insti-
+gates ‘ecological release’ [15–17] which allows many insular
+prey species to reach much higher densities than on the main-
+land [18 –20]. On the other hand, for many animals, dietary
+resources are often considered to be poor or more variable
+on islands compared to the mainland ([21 –24], but see [25]).
+These environmental changes (i.e. poor or variable dietary
+resources, reduced predation pressure and interspecific com-
+petition, and increased intraspecific competition) are deemed
+responsible for many elements of the island syndrome
+described, although the mechanisms through which they
+exert their effects on animal phenotypes often remain elusive.
+Another line of research highlights the importance of environ-
+mental unpredictability on islands, and particularly on small
+islets, for the emergence of island syndromes [26,27]. We
+expect that the particularities of insular environments will like-
+wise prompt adaptations in the behaviour of island dwellers.
+In this paper, we review the empirical evidence for a behav-
+ioural component of the island syndrome, focusing on two
+interrelated [28] behavioural domains: animal personality
+and cognition. We also consider the mechanisms and
+ecological drivers that could produce such changes.
+Animal personality research has revealed, at least to some
+extent, repeatable and heritable inter-individual variation
+[29,30] in the way that animals behave in response to various
+external stimuli. Individual animals thus belong to one of
+several possible and coexisting ‘behavioural types ’—groups
+that will respond in a distinctive, predictable way to chal-
+lenges, even under different contexts. More specifically ,
+individuals differ consistently in ‘personality traits ’ such as
+boldness, aggression, activity , exploration and sociability
+(reviewed in [31]). Often, these personality traits intercorre-
+late, giving rise to a ‘behavioural syndrome ’ [32]. Because
+island and mainland habitats differ in the opportunities
+and challenges they offer to their inhabitants, we can expect
+changes in the relative frequency of behavioural types or in
+the way that personality traits interconnect.
+Cognition is the collective of neural processes responsible
+for the acquisition, retention and use of information [33] and,
+as such, a key determinant of fitness in vertebrate animals
+(e.g. [34 –37]). Individuals differ in their cognitive abilities,
+but also in cognitive styles (e.g. learning speed versus accu-
+racy [32]). Relatively little is known about the repeatability
+of cognitive testing in time, or across context [38]; or about
+how different cognitive scores interrelate [39]. In humans,
+scores on different cognitive tests tend to correlate positively ,
+lending credibility to the concept of ‘general intelligence’ (the
+so-called ‘g-factor’ [40,41]). Similar covariation has been
+described for a handful of other mammals (e.g. [42]) and
+birds (e.g. [43]), but overall the evidence for a g-factor
+remains scarce [39,44]. Again, given how islands deviate
+from mainland habitats, different levels, types or sets of cog-
+nitive skills may be favoured in both types of environments.
+2. The current evidence for a behavioural
+component to the island syndrome
+Table 1 reviews the evidence that animals from islands differ
+from their mainland counterparts in aspects of their
+personality and cognition. Overall, few studies have
+thoroughly investigated the effect of insularity on personal-
+ity. Careful analyses of animal temperament should
+consider whether individual behavioural scores (that are
+believed to reflect aspects of personality) are repeatable
+over time and over different contexts and whether and how
+these aspects covary to produce behavioural syndromes
+[32]. Inquiries into the evolution of insular personality will
+also require information on the heritability of such scores.
+Few of the studies in table 1 fulfil these conditions. Below
+we review behavioural studies that either measure personal-
+ity traits (i.e. test for repeatability [105]) or behavioural
+changes (i.e. do not test for repeatability) that could indicate
+differences in personality.
+(a) Boldness
+Boldness, i.e. risk-taking behaviour in the presence of a pred-
+ator threat, is expected to change in a way that matches
+predation risk on islands. The few studies focusing on the
+effect of insularity on boldness have found island common
+frogs ( Rana temporaria ) [62] and house mice ( Mus musculus
+domesticus) [63] to be bolder than their mainland counterparts.
+Perhaps inspired by early (mostly anecdotal) accounts of
+island tameness (e.g. [8,106,107]), most studies investigating
+the effect of insularity on animal behaviour have focused on
+vigilance and risk-taking, common proxies for boldness. The
+vast majority of these studies (table 1) confirmed that island
+animals, especially those living on remote, predator-poor
+islands, tend to be less vigilant than their relatives inhabiting
+the mainland or less remote, predator-ridden islands [9,108].
+Reindeer ( Rangifer tarandus ) on Norwegian Edgeøya [47],
+bull-headed shrikes ( Lanius bucephalus ) on Japanese Nansei
+islands [48] and whiptail lizards ( Aspidoscelis hyperythra)o n
+islands in the Gulf of California [51] are exceptions, but their
+relative shyness is attributed to unusually high densities of
+predators (polar bears, rats and human collectors, respect-
+ively) in their habitat. However, it should be noted that most
+of these studies rely on field observations of the flight initiation
+distance (FID), a proxy of boldness that is not without difficul-
+ties. FID is known to depend on a variety of factors related to
+the internal status of the animal (e.g. satiation [109]; reproduc-
+tive status [110]; body condition [111]), and its environment
+(e.g. temperature [112]; substrate type [113]; levels of human
+exposure [114]; social context [115]; distance to safety
+[116])—all of which may differ consistently between island
+and mainland sites. In addition, FID measures boldness as
+an animal’s response in a single context (a human approach-
+ing), without testing whether inter-individual variation is
+consistent and repeatable across time and context (i.e. person-
+ality sensu stricto [31]). Therefore, future studies should test the
+boldness of island and mainland conspecifics in multiple, con-
+trolled contexts. This could be done for instance by observing
+the animals ’ behaviour (e.g. avoidance and inspection of
+predator models, startles, latency to resume feeding) when
+confronted with varied threat stimuli (e.g. predator cues,
+loud noise and novel objects) (see [31] for a review of tech-
+niques; and [60 –63] for examples in island –mainland
+comparison).
+Increased boldness on islands is typically attributed to
+reduced predation pressure, although quantitative or even
+qualitative estimates thereof are seldom presented. The
+(often implicit) rationale is that bold behaviour is less
+2royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 3
+Table 1. Studies that have compared behavioural, personality or cognitive (including brain morphology studies) traits between island and mainland, or amon g-island populations/species. The ‘driver’ and ‘mechanism’ are those suggested
+(but not necessarily demonstrated) by the authors. FID stands for ﬂight initiation distance. The ‘type of analysis ’ also indicates whether the study includes repeated within-individual measurements (personality variation). References to
+these studies were found by feeding the Web of Science and Google Scholar search machines with a combination of behavioural keywords (e.g. ‘personality’, ‘cognition’, ‘bold*’, ‘aggression’, ‘explorati*’) with terms referring to island
+environments (e.g. island, insular*, archipel*). We also carefully checked the reference lists of all papers for additional sources.
+study species trait island mainland driver mechanism type of analysis reference
+personality
+eastern chipmunk ( Tamias
+striatus)
+island chipmunks are less
+vigilant, but both island
+and mainland specimens
+adjust vigilance to
+microhabitat structure
+Beaver Island,
+Michigan, USA
+two sites on
+mainland
+Michigan, USA
+lower predation pressure
+on island (checked with
+camera traps)
+unknown ﬁeld experiments;
+personality variation
+measured
+[45]
+14 species of macropodid
+marsupials
+animals on islands are less
+wary and allocate more
+time to foraging
+satellite islands of
+Australia
+Australia predation pressure acknowledges possibilities
+of plasticity and
+selection
+ﬁeld observations;
+comparative analysis
+[46]
+reindeer (Rangifer
+tarandus)
+island reindeer are more
+vigilant on the island, but
+response distances are the
+same
+Edgeøya, Norway four sites on
+Spitsbergen,
+Norway
+possibly higher predation
+(by polar bears) on
+island
+response distance believed
+to be ‘hard-wired’
+ﬁeld observations [47]
+bull-headed shrike ( Lanius
+bucephalus)
+longer FID in island shrikes Kikaijima, Minami-
+daitojima and
+Nakanoshima
+Islands, Japan
+three sites on main
+Japanse Islands
+risk of predation (by rats)
+higher on islands
+genetic change, plasticity
+and dispersal-related
+selection are considered
+ﬁeld observations [48]
+11 species of Falkland
+Island birds
+FID is lower on island than
+on mainland
+Falkland Islands mainland Argentina absence of terrestrial
+predators
+probably innate,
+evolutionarily acquired,
+but habituation also
+deemed possible
+ﬁeld observations;
+comparative analysis
+[49]
+California quail ( Callipepla
+californica)
+FID is similar on mainland
+and island, but starting
+distance is smaller on
+islands
+Santa Catalina Island,
+USA
+California, USA some predators lacking on
+island
+assumed genetic
+(antipredator genes)
+ﬁeld observations [50]
+(Continued.)3royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 4
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+orange-throated whiptail
+(Aspidoscelis hyperythra)
+island lizards are more
+difﬁcult to catch than
+mainland lizards
+seven Gulf of
+California islands
+Baja California predation pressure, human
+collection for pet trade
+reasoned to be genetically
+based, implying rapid
+evolution of
+antipredator behaviour
+ﬁeld observations [51]
+Galápagos marine iguana
+(Amblyrhynchus cristatus)
+lizards on predator-free islet
+have shorter FIDs;
+although FID increases
+with experience, it
+remains insufﬁcient to
+avoid predation
+Caamaño Islet,
+Galápagos, Ecuador
+St Cruz and San
+Cristobal Island,
+Galápagos,
+Ecuador
+predation pressure release from predation
+narrowed the reaction
+norm for FID
+ﬁeld observations [52]
+spiny-tailed iguana
+(Ctenosaura hemilopha)
+island lizards behave less
+wary and have shorter
+FIDs than mainland
+lizards
+Cerralvo Island, Gulf
+of California
+Mexico low predation pressure on
+the island
+no hints ﬁeld observations [53]
+lava lizards (eight
+populations of three
+Tropidurus spp.)
+lizards on islands with
+introduced cats have
+higher FID
+eight islands of the
+Galapagos
+no mainland
+population
+presence of exotic
+predators (cats)
+could be inherited, or
+learned
+ﬁeld observations;
+comparative analysis
+[54]
+Ibiza wall lizard ( Podarcis
+pityusensis)
+FID and distance ﬂed is
+greater on islets with
+higher predation pressure
+seven islets around
+Ibiza and
+Formentera, Spain
+no mainland
+population
+predation pressure as
+estimated by number
+and kind of predators,
+incl. humans
+unknown, both phenotypic
+plasticity and
+evolutionary processes
+deemed possible
+ﬁeld observations;
+comparative analysis
+[55]
+Lilford’s wall lizard
+(Podarcis lilfordi)
+FID, distance ﬂed, hiding
+time and probability to
+enter refuge are lower on
+islet with less predators
+islets of Rei and
+Aire, Menorca,
+Spain
+no mainland
+population
+predation pressure natural selection ﬁeld observations [56]
+Italian wall lizard ( Podarcis
+siculus)
+FID is shorter on island with
+lower predation pressure
+comparison between
+two islands in the
+Adriatic Sea
+no mainland
+population
+predation pressure, through
+number of predators
+and habitat structure
+unknown ﬁeld observations [57]
+(Continued.)4royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 5
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+66 lizard species FID decreases as distance to
+mainland increases
+islands in the Atlantic
+and Paciﬁc Oceans;
+Caribbean and
+Mediterranean Seas
+ﬁve continents predation pressure is lower
+on islands; reduced food
+availability may shorten
+FID to save energy
+probably genetic changes,
+but tameness might be
+learned every
+generation
+ﬁeld observations;
+comparative analysis
+[9]
+Aegean wall lizard
+(Podarcis erhardii)
+lizards from islets have
+shorter FID and act bolder
+than lizards from main
+island
+four satellite islands
+of Naxos, Greece
+18 populations on
+Naxos, Greece
+cat predation phenotypic plasticity;
+which is also
+maintained on islets
+ﬁeld observations;
+laboratory experiments
+[58]
+38 populations of Aegean
+wall lizard ( Podarcis
+erhardii)
+lizards from smaller and
+more isolated islets have
+shorter FIDs
+37 Cycladic islands,
+Greece
+mainland Greece predation natural selection ﬁeld observations [59]
+Lilford’s wall lizard
+(Podarcis lilfordi)
+FID and distance ﬂed is not
+correlated with predation
+pressure
+nine islets around
+Menorca and
+Mallorca, Spain
+no mainland
+population
+predation pressure as
+estimated by number
+and kind of predators,
+incl. humans
+unknown, both phenotypic
+plasticity and
+evolutionary processes
+deemed possible
+ﬁeld observations;
+comparative analysis
+[55]
+Dalmatian wall lizard
+(Podarcis melisellensis)
+islet lizards are bolder, less
+wary but not less
+neophobic than island
+lizards
+three small islets out
+of the coast of Vis,
+Croatia
+Vis, Croatia food availability, predation
+pressure smaller on
+islets
+selection, plasticity or
+non-random gene ﬂ
+ow
+are suggested
+ﬁeld experiments [60]
+northern quolls ( Dasyurus
+hallucatus)
+animals on island behave
+less wary than mainland
+animals
+Astell Island, a
+satellite island of
+Australia
+Australia absence of predation on
+island
+natural selection laboratory experiments [61]
+common frog ( Rana
+temporaria)
+enhanced boldness and
+exploration in island
+tadpoles and froglets
+four islands in the
+Gulf of Bothnia,
+Sweden
+Sweden dispersal propensity;
+unstable conditions on
+islands (pond drying);
+reduced predation on
+islands
+founder effects caused by
+environmental ﬁltering
+or differential natural
+selection
+laboratory experiments
+with wild-caught
+specimen; personality
+variation and
+behavioural syndrome
+measured
+[62]
+(Continued.)5royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 6
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+house mice ( Mus musculus
+domesticus)
+enhanced boldness and
+exploration on island
+Gough Island, Tristan
+da Cunha
+Maryland, USA novel food source (sea
+birds), loss of predatory
+danger, removal of
+human commensals,
+variable food availability
+genetic change common garden
+experiment with
+F1-offspring
+[63]
+61 species of parrots
+(Psittacidae)
+island species explore novel
+objects faster and longer
+than mainland species;
+island species are not less
+neophobic than mainland
+species
+several, not speci ﬁed several sites, not
+speciﬁed
+reduced predation pressure
+and higher risk of food
+shortage on islands
+assumed genetic comparative analysis;
+behavioural syndrome
+across species tested,
+but not at the
+individual level, or
+between island and
+mainland species
+[64]
+island scrub jay
+(Aphelocoma insularis )
+versus California scrub jay
+(A. californica )
+island birds were more
+explorative than mainland
+birds
+Santa Cruz Island,
+California, USA
+mainland California,
+USA
+reduced predation, more
+frequent food shortage
+on island
+unknown ﬁeld observations/
+experiments
+[65]
+brown anole ( Anolis sagrei) lizards on islands with
+introduced predators are
+less explorative
+eight small islands in
+the Caribbean, on
+four of which
+predatory lizards
+were introduced
+no mainland
+population
+presence of introduced
+predators (lizards)
+natural selection ﬁtness gradient analysis;
+personality variation
+measured
+[66]
+red-backed vole ( Myodes
+gapperi)
+island voles are less
+aggressive than mainland
+voles; no difference in
+exploration
+10 islands in the
+Winnipeg River,
+Ontario, Canada
+six sites on
+mainland Ontario
+relaxed predation, higher
+population density
+dispersal-related,
+ecological and
+evolutionary
+mechanisms all
+considered
+laboratory experiment;
+comparative analysis
+[67]
+deer mouse ( Peromyscus
+maniculatus)
+wild-caught island mice are
+less aggressive, but
+difference disappears in
+subsequent generations
+Saturna Island,
+Pender Island,
+Canada
+British Columbia,
+Canada
+population density thought
+to reduce aggressiveness
+phenotypic plasticity laboratory experiment
+with wild-caught
+specimen and their
+offspring; crossings
+[68]
+(Continued.) 6royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 7
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+deer mouse ( Peromyscus
+maniculatus)
+island mice do not show
+aggressive behaviour
+towards juveniles; some
+mainland mice behave
+aggressively towards non-
+kin
+Saturna Island,
+Canada
+British Columbia,
+Canada
+reduced intraspeciﬁc
+competition due to high
+food supply on island
+unknown laboratory test on P
+(interact with F1)
+[69]
+common shrew ( Sorex
+araneus)
+island and mainland shrews
+equally aggressive
+four islands in the
+Baltic Sea
+two sites on
+mainland Finland
+island specimens often
+inbred
+laboratory experiments
+with ﬁeld-caught
+individuals
+[70]
+Skyros wall lizard ( Podarcis
+gaigeae)
+islet lizards more likely to
+attack juveniles and
+behave more aggressively
+to other adults
+islet Diavates, Skyros
+archipelago, Greece
+Skyros main island,
+Greece
+food scarcity and high
+population size prompt
+for cannibalism
+Unknown laboratory experiments
+with ﬁeld-caught
+individuals
+[71]
+Italian wall lizard ( Podarcis
+siculus)
+island lizards are more
+aggressive than lizards on
+the mainland
+Licosa Island, Italy one mainland site
+(Punta Licosa),
+Italy
+possibly low or ﬂuctuating
+population density on
+island
+unknown ﬁeld observations;
+laboratory experiments
+[26]
+tiger snake ( Notechis
+scutatus)
+adult snakes from predator-
+rich sites have more
+vigorous responses when
+handled, but neonatal
+behaviour is unrelated to
+predator species richness
+eight islands around
+Australia
+three sites, on
+mainland
+Australia and
+Tasmania
+predation pressure, through
+number and type of
+predators
+ontogenetic plasticity;
+experience, or
+genetically coded
+adjustment of
+behaviour to
+ontogenetically variable
+traits
+observations on freshly
+caught individuals
+[72,73]
+common garter snake
+(Thamnophis sirtalis )
+adult but not neonate
+snakes from the mainland
+behave more aggressively
+towards experimentor
+than island snakes
+Beaver Archipelago,
+USA
+Michigan, USA fewer predators on island both innate and
+environmental
+inﬂuences
+laboratory behavioural
+observations
+[74]
+(Continued.)7royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 8
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+Paciﬁc rattlesnake ( Crotalus
+oreganus)
+island snakes behave more
+aggressively towards
+humans
+Santa Catalina Island,
+USA
+mainland California,
+USA
+island has fewer avian
+predators but perhaps
+more (introduced)
+mammalian predators
+unknown ﬁeld observations [75]
+chuckwalla species
+(Sauromalus spp.)
+island endemics are more
+sociable, less aggressive
+than mainland species
+San Esteban Island
+and Angel Island,
+California, USA
+mainland California,
+USA
+dearth of predators,
+competitors, niche
+expansion, high but
+ﬂuctuating food supply,
+high density on island
+unknown ﬁeld observations [76]
+house mice ( Mus musculus
+domesticus)
+island mice do not show
+aggressive, defensive or
+cautious behaviour
+towards conspeciﬁcs
+Isle of May, UK Nottinghamshire, UK interaction between
+resource distribution,
+habitat structure and
+predation risk
+unknown laboratory experiments
+on recently caught
+specimens
+[77]
+yellow-faced grass quit
+(Tiaris olivacea)
+island birds are more
+territorial than mainland
+birds, which occur more
+often in ﬂocks
+Jamaica Costa Rica island density is lower unknown ﬁeld observations [78]
+European earwig ( Forﬁcula
+auricularia)
+island populations with high
+densities have larger
+proportion of macrolabic
+(ﬁghter) morphs
+35 British islands 11 mainland Britain
+sites
+population density intraspeci ﬁc competition laboratory experiments [79]
+human ( Homo sapiens ) islanders exhibit greater
+animosity towards
+strangers and keep
+greater social distance
+Croatian Islands mainland Croatia dangers associated with
+infectious disease
+questionnaire [80]
+(Continued.) 8royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 9
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+human ( Homo sapiens ) islanders had higher levels
+of consciousness,
+emotional stability and
+lower levels of
+extraversion and
+openness; no difference in
+agreeableness
+Giglio, Ponza and
+Ventotene, and
+seven Aeolian
+islands, Italy
+three sites on
+mainland Italy
+island is harsh, restricted
+environment with
+limited social
+environment
+assumed adaptive
+(changes in same
+direction); elimination
+of well less adapted
+through mortality,
+assortative mating or
+emigration
+questionnaire [81 –83]
+meadow vole ( Microtus
+pennsylvanicus) versus
+beach vole ( M. breweri)
+island species is more
+sociable
+Muskeget Island,
+Massachusetts, USA
+mainland
+Massachusetts,
+USA
+differential dispersal of
+intolerant specimens
+ﬁeld observations [84]
+46 species of birds birds on islands tend to
+ﬂock less than birds on
+the mainland
+22 different islands 22 mainland sites to
+match islands
+predation pressure random drift or active
+selection are suggested
+comparative analysis [85]
+long-tailed macaque
+(Macaca fascularis)
+smaller group sizes on island Simeulue, Indonesia Sumatra, Indonesia felid predation unknown ﬁeld observations [86]
+tammar wallaby ( Macropus
+eugenii)
+time allocation is dependent
+on group size on
+mainland and islands
+with reduced number of
+predators, but not on
+predator-free island
+Garden Island,
+Kangaroo Island,
+Australia; Kawau
+Island, New
+Zealand
+Western Australia absence of predators maintained by natural
+selection, but ‘priming
+agents’ may be
+required to develop
+antipredator behaviour
+ﬁeld observations [46]
+oriental ﬁre-bellied toad
+(Bombina orientalis )
+island toads have lower
+levels of activity
+Jeju Island, South
+Korea
+two sites on
+mainland South
+Korea
+predation is higher on
+island
+local selection, founder
+effects also considered
+possible
+laboratory observations [87]
+clouded anole ( Anolis
+nebulosus)
+island anoles are more active San Agustín, Mexico mainland Mexico less variable environmental
+conditions on island
+may allow better
+thermoregulation; higher
+predation on mainland
+ﬁeld observations [88]
+(Continued.)9royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 10
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+cognition
+Minatogawa man ( Homo
+sapiens) versus modern
+Japanese and Pleistocene/
+Holocene H. sapiens
+Pleistocene island dwellers
+had relatively small
+endocrania
+Okinawa Island, Japan mainland Japan undernutrition phenotypic plasticity;
+genetic adaptation
+comparative analysis of
+brain size
+[89]
+Human ( Homo ﬂoresiensis
+versus Homo erectus)
+relative brain size is lower in
+island species
+Flores, Indonesia biotic interactions and
+resource use
+natural selection for
+smaller brains (in
+addition to selection for
+smaller body size)
+quantitative genetic
+modelling
+[90]
+mouse and dwarf lemurs
+(Cheirogaleidae)
+disproportional reduction in
+brain size in this island
+clade
+Madagascar unpredictable food
+availability
+natural selection comparative analysis of
+brain size
+[91]
+Malagasy dwarf hippo
+(Hippopotamus lemerlei ,
+H. madagascariensis )
+versus hippopotamus ( H.
+amphibius)
+relative brain size is lower in
+island species
+Madagascar mainland Africa poor dietary resources on
+islands
+natural selection for
+smaller brains (in
+addition to selection for
+smaller body size)
+ontogenetic modelling [92]
+Siculo-Maltese dwarf
+elephant ( Palaeoloxodon
+falconeri) versus
+P. antiquus
+relative brain size is lower in
+island species
+Malta mainland Africa poor dietary resources on
+islands
+natural selection for
+smaller brains (in
+addition to selection for
+smaller body size)
+ontogenetic modelling [92]
+Siculo-Maltese dwarf
+elephant ( Palaeoloxodon
+falconeri) versus
+P. antiquus
+dwarfed insular species has
+a high encephalization
+quotient
+Sicily, Italy mainland Europe need to maintain the
+minimal functional
+volume of the brain
+when the size of the
+skull was drastically
+reduced
+allometric analysis [93]
+(Continued.)10royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 11
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+Balearic Islands cave goat
+(Myotragus spp.)
+compared to 54 spp. of
+extant bovids
+insular species have small
+brain and sense organs
+relative to body size
+Balearic Islands, Spain mainland Africa absence of predators;
+overpopulation; limited
+energy availability
+natural selection for
+smaller brains (in
+addition to selection for
+smaller body size).
+scaling analysis [94]
+Cretan deer ( Candiacervus),
+compared to extant deer
+(Cervidae)
+insular dwarf deer have
+normal relative brain size
+Crete, Greece dearth of predators on
+islands
+comparative analysis of
+brain size
+[95]
+Sardinian dhole
+(Cynotherium sardous ),
+compared to two spp. of
+extant dog spp. (Canidae)
+insular dwarf canid has
+normal relative brain size
+Sardinia, Italy comparative analysis of
+brain size
+[96]
+Minorcan giant rabbit
+(Nuralagus rex),
+compared to extant
+rabbit species (Leporidae)
+Late Neogene insular giant
+had relatively small brain;
+especially sense-
+dependent areas are small
+Minorca, Balearic
+Islands, Spain
+absence of predators;
+limited energy
+availability
+comparative analysis of
+brain size
+[97]
+426 mammalian species no effect of insularity on
+relative brain size
+islands worldwide mainland sites
+throughout the
+world
+poor dietary resources on
+islands
+natural selection for
+smaller brains
+comparative analysis of
+brain size
+[98]
+dodo ( Raphus cucullatus)
+compared to nine spp. of
+pigeons (Columbiformes)
+endocranial volume not
+smaller than expected
+from pigeon allometry
+Mauritius allometric analysis [99]
+Rodrigues Island giant owl
+(Otus murivorus),
+compared to 10 extant
+spp. of owls (Strigidae)
+reduction of brain volume in
+extinct island endemic
+Rodrigues, Mauritius diverse absence of predators,
+reduction of interspeci ﬁc
+competition
+brain expansion cannot
+follow pace of body
+size increase
+(evolutionary pace
+dissociation)
+comparative analysis of
+brain size
+[100]
+Haast’se a g l e(Harpagornis
+moorei), compared to 35
+spp. of eagles
+(Accipitridae)
+island endemic had low
+endocranial volume for its
+body mass
+New Zealand diverse absence of predators,
+competitors on island
+mismatch between neural
+and somatic growth
+comparative analysis of
+brain size
+[101]
+(Continued.) 11royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 12
+penalized in predator-poor environments and might even be
+favoured for its paybacks in a non-predatory context
+[117,118]. It should be noted that while many (oceanic)
+islands are indeed devoid of predators, others hold thriving
+predator populations (e.g. [119–121]). Bold anti-predatory be-
+haviour could also evolve as a behavioural mechanism to
+deter some of these predators (see [122] for a curious example
+in New Zealand parrots). Future research on this topic should
+be careful to match-up behavioural traits of island animals
+and the predators they were exposed to through evolutionary
+time.
+The mechanisms through which the differences in vigi-
+lance and boldness arise remain unclear. Most authors
+consider both phenotypic plasticity (learning) and genetic
+adaptation, usually with a slight preference for the former.
+In a rare study tackling the question directly , Stratton et al .
+[63] found that differences in boldness between Gough
+Island and mainland US mice ( Mus musculus ) persisted in
+the F1 generation, offering support for genetic change [63].
+(b) Explorativeness
+We found only seven studies that investigated the effect of
+insularity on animal explorativeness (i.e. behavioural
+response to novelty), and these produced mixed results
+(table 1). Common frogs ( Rana temporaria ) on Bothnian
+islands [62] and giant house mice ( M. musculus ) on Gough
+Island [63] are more explorative than their conspecifics on
+the mainland; survival of brown anoles ( Anolis sagrei ) that
+were more inquisitive was lower on islets with predators
+than on predator-free islets [66], and among parrots (Psittaci-
+dae) [64] island species tend to be more neophilic and
+explorative. A study on the exploratory and neophilic behav-
+iour of scrub jays ( Aphelocoma coerulescens) [65] concords with
+these results. Most studies indicate that predation relaxation
+and unpredictable resource availability may be drivers of
+increased explorativeness on islands [123]. The mechanisms
+of change in explorativeness on the islands are less clear.
+Lapiedra et al . [66] provided evidence that the behavioural
+changes in brown anole ( A. sagrei ) populations following
+the introduction of a predator were due to natural selection
+[66]. Brodin et al . [62] argued how dispersal-related environ-
+mental filtering could be responsible for the higher
+explorativeness in island common frogs and tadpoles [62].
+By contrast, deer mice ( Peromyscus maniculatus ) on islands
+in the Canadian Winnipeg River tended to be less explorative
+than mainland conspecifics, possibly reflecting differences
+between inland and oceanic island systems [67]. Camperio
+Ciani et al . showed that human inhabitants of the Egadi
+islands are less open to new experiences than their compa-
+triots in mainland Italy , an observation they attribute to
+disproportionally high emigration of individuals with neo-
+philic personalities [81,82]. They even identified a genetic
+polymorphism that could be associated with this ‘personality
+gene flow ’ phenomenon [83].
+(c) Aggression
+The empirical evidence on changes in aggression towards
+(but not necessarily limited to) conspecifics go either way.
+Reduced antagonism in island populations, as the result of
+high densities that make the monopolization of resources
+ineffective [124], was reported in five studies on a few
+rodent species ( P. maniculatus [68,69], Myodes gapperi [67]
+Table 1. (Continued.)
+study species trait island mainland driver mechanism type of analysis reference
+40 crow and raven species
+(Corvus)
+brain size does not predict
+ability to colonize islands
+islands worldwide mainland sites
+throughout the
+world
+islands are challenging
+environments,
+promoting enhanced
+cognition
+comparative analysis of
+brain size
+[102]
+1900+ species of birds insular species have larger
+brains
+diverse diverse high environmental
+unpredictability across
+years
+natural selection; high
+phenotypic plasticity
+may inhibit evolutionary
+change in some clades
+comparative analysis of
+brain size
+[103]
+Deer mouse ( Peromyscus
+maniculatus)
+insular mice displayed
+shorter latencies to solve
+a Morris water-maze task
+Moresby Island,
+Canada
+British Columbia,
+Canada
+differences in swimming
+abilities (rather than
+cognitive skills) between
+populations
+unknown laboratory observations [104]
+12royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 13
+and M. musculus [77]) and birds [11]. Interestingly , Baier &
+Hoekstra [68] found that the difference faded in the
+F1 generation, indicating an important role for phenotypic
+plasticity [68]. In reptiles, the results are less congruent. In
+tiger snakes ( Notechis scutatus ) [72,73] and common garter
+snakes ( Thamnophis sirtalis ) [74], adults (but not laboratory-
+raised juveniles) fit the pattern of reduced aggression on
+islands, suggesting that insular conditions induce a plastic
+response of soothing in these animals as well. However, Paci-
+fic rattlesnakes ( Crotalus oreganus) from Santa Catalina Island
+behave more aggressively than mainland conspecifics; per-
+haps because of the high number of (recently introduced)
+terrestrial predators on the island [75]. Skyros wall lizards
+(Podarcis geigeae ) on smaller islets attack conspecifics fre-
+quently , probably because food shortage forces them into
+cannibalism [71].
+(d) Sociability
+The effects of insularity on sociability (i.e. the quality of being
+social) have hardly been studied. Older papers report that
+meadow voles ( Microtus breweri) [84] and chuckwallas ( Saur-
+omalus spp.) [76] living on islands tend to be more sociable,
+than closely related species on the mainland. By contrast,
+yellow-faced grass quits ( Tiaris olivacea) [78] and birds in gen-
+eral [85] are seen in flocks more often on the mainland than
+islands. Long-tailed macaque ( Macaca fascicularis) group size
+tends to be larger on the mainland [86]. However, whether
+changes in group size actually reflect differences in sociability
+(a personality trait), requires further behavioural testing. Pre-
+dation risk, population density , food availability and habitat
+structure are among the ecological factors suspected to
+influence sociality (i.e. the tendency to associate with other
+individuals) [85,86,125,126], but the mechanisms remain
+utterly unexplored. Work on humans suggests that islanders
+have lower levels of extraversion and openness, and exhibit
+greater animosity towards strangers, keeping for instance
+greater interpersonal distance [80 –82].
+(e) Activity
+We found very little information on differences in the level of
+activity (an animals ’ tendency to engage in physically
+demanding behaviours) displayed by island and mainland
+animals. Clouded anole lizards ( Anolis nebulosus ) are more
+active on islands [88], while insular oriental fire-bellied
+toads ( Bombina orientalis ) exhibit lower activity levels com-
+pared to mainland conspecifics [87]. Predation pressure,
+population density , resource availability and thermal con-
+ditions are considered to shape activity [87,88,127]. We did
+not find any studies concerning the mechanisms of activity
+level changes. Therefore, the dearth of information precludes
+any form of generalization. This is a pity , because there is
+currently great interest in the causes and consequences of
+variation in the amount of activity that animals display
+(see [128]), and mainland –island comparisons might have
+provided a nice insight into the matter.
+(f ) Cognition (with brain size as surrogate)
+Studies on a variety of mammals and birds report a reduction
+in brain size on islands. However, interpretation and general-
+ization of these results is problematic. First, most of these
+studies have been performed on fossil species and are
+therefore fraught with practical difficulties concerning the
+estimation of brain size and body size (see e.g. the disparate
+results for the Siculo-Maltese dwarf elephant ( Palaeoloxodon)
+[92,93]). Second, no evidence for insular brain size reduction
+was found for other species, such as the Cretan deer ( Candia-
+cervus spp.) [95], the Sardinian dhole ( Cynotherium sardous )
+[96], or even the long-thought-dim dodo ( Raphus cucullatus )
+[99]. Third, recent comparative studies on extant mammals
+[98] and crows and ravens [102] found no effect of insularity
+on relative brain size. A meta-analysis of over 1900 species of
+birds even suggests a tendency towards larger brains in insu-
+lar species. The authors argue that island species require
+larger brains to cope with the difficulties of having to exploit
+novel dietary resources and deal with high environmental
+stochasticity [103]. Fourth, and most importantly , it has
+become increasingly clear that brain size must be considered
+a shaky proxy for cognitive capacity (e.g. [129,130]).
+(g) Cognition (with behaviour as surrogate)
+More direct evidence comes from a few studies that have
+compared aspects of cognitive capacity between island and
+mainland populations. Deer mice ( P. maniculatus) from Mor-
+seby Island solved a water-maze task faster than conspecifics
+from mainland British Columbia, but this was attributed to
+differences in swimming rather than cognitive skills [104].
+White-faced capuchins ( Cebus capucinus ) from a single
+island in Coiba National Park, Panama, engage in innovative
+tool use, a behaviour never observed in mainland conspeci-
+fics [131]. Tool use is also remarkably often reported in
+island birds (e.g. New Caledonian crows ( Corvus monedu-
+loides) [132], Hawaiian crows ( Corvus hawaiiensis ) [133],
+woodpecker finches ( Cactospiza pallida ) [134], Goffin ’s cocka-
+toos ( Cacatua goffini ) [135]), but no one seems to have
+checked for a general association between tool use and insu-
+larity. On the whole, the number of studies examining the
+evolutionary fate of cognition and behavioural flexibility on
+islands is very limited.
+3. Routes towards insular behaviour
+Below we review the multiple mechanisms that could pro-
+duce such changes (also see figure 1). Because these routes
+are rarely documented in island –mainland comparisons,
+some of our examples come from other study systems. How-
+ever, we try to explain why we think particular drivers and
+pathways seem likely to be especially relevant in an insular
+context.
+(a) Phenotypic changes
+Personality traits can change within the lifetime of an individ-
+ual, under the influence of environmental conditions
+experienced during (sometimes remarkably short) time win-
+dows during development [144 –146]. For instance, smaller
+fathead minnows ( Pimephales promelas ) behave more boldly
+than larger conspecifics when raised in low-risk environ-
+ments, but not when raised under high-perceived risk [147].
+Jumping spiders ( Marpissa muscosa ) raised in socially
+enriched environments (i.e. raised in conspecific groups)
+demonstrated higher exploration later in life [148]. Hence,
+key components of insular environments such as reduced
+predation risk and increased population density could
+13royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 14
+instigate changes in personality , even without genetic
+differentiation.
+Cognitive capacity is notoriously plastic. In humans and
+traditional animal models, such as rats, pigs and guinea
+pigs, both intrauterine [149] and postnatal [150] undernutri-
+tion impedes neuronal and cognitive development. Effects
+have been observed in brain architecture, and on cognitive
+capacities such as spatial and reversal learning, memory
+and novelty seeking [149,150]. On the flip side, favourable
+developmental conditions are known to induce a ‘silver
+spoon’ effect, with positive effects on cognitive capacity.
+For instance, blue tits raised on taurine-enriched diets
+demonstrated improved memory and learning skills [151].
+Islands tend to be relatively poor in dietary resources [21 –
+24], and this may directly and negatively impact cognitive
+capacity. However, due to ecological release and niche enlar-
+gement, islands may sometimes provide more food per unit
+effort (e.g. [152]) and thus might constitute ‘silver spoon ’
+environments that boost cognitive development. Changes in
+foraging behaviour that accompany niche expansion may
+reverberate in personality [137] and cognitive [138] traits.
+Island dwellers may also experience different social contexts
+during ontogeny than their mainland relatives, as a conse-
+quence of high population density. In group-living animals,
+such as Australian magpies ( Cracticus tibicen ), growing up
+in a rich social environment boosts performance in a variety
+of cognitive tasks [37,153].
+(b) Genetic changes
+Alternatively , since both personality and cognition traits
+display heritable variation [32,154], any evolutionary
+mechanism influencing allele frequencies may cause differ-
+ences between island and mainland populations.
+Genetic differences may arise by chance: through a foun-
+der effect (if allele frequencies of the colonizing propagule
+happen to differ from that of the mainland source popu-
+lation), or when random drift haphazardly alters the
+genetic constitution of the newly established island popu-
+lation [155,156]. Raffard et al . [157] found that the
+differentiation in boldness among 13 populations of a fresh-
+water fish (the European minnow , Phoxinus phoxinus ) could
+be attributed to random drift [157]. Other studies mention
+genetic drift as a potential cause of among-population vari-
+ation in personality or cognitive traits, although often as a
+less glorious alternative to natural selection (e.g. [158]).
+In the early stages after colonization, populations on ocea-
+nic islands may be prone to inbreeding [159], which typically
+results in increased homozygosity and decreased body con-
+dition [160,161]. If personality is condition-dependent (which
+seems plausible [162], but remains debated [141]), inbreeding
+may result in non-adaptive changes in average personality
+traits. In accordance, Verweij et al. [163] found negative associ-
+ations between the level of inbreeding and personality traits
+such as novelty seeking and persistence in Finnish and Austra-
+lian citizens [163]. In a rare study of the effects of inbreeding on
+animal personality , Müller & Ju škauskas [164] found that
+inbred individuals of the leaf beetles ( Phaedon cochleariae )
+behaved more boldly than outbred conspecifics [164]. Evi-
+dence that human cognitive abilities may suffer from
+inbreeding depression comes from genealogical studies on
+consanguineous marriages (e.g. [165]), including those of
+royal lineages (e.g. [166]). These traditional studies have
+recently been substantiated by genome-wide association
+low surface areageographical isolation stochasticity
+low species diversity
+competitive releasepredation relaxation low food availability
+density compensation
+niche expansion
+dietary generalization
+increased
+digestive
+efficiency
+reduced brain size
+and
+neurogenesis
+cognitive performance
+and
+cognitive style
+boldness exploration aggression sociability activity
+personality/behavioural syndromes
+high inbreeding morphology
+physiology
+life history
+low body condition
+dispersal filter
+(8)
+(8) (7)
+(7)
+(7)
+(6)
+(1) (1)
+(2) (2) (3)
+(2)(4)
+(4)(5)
+(4)
+(4)
+(1)
+(9)
+Figure 1. Putative relationships between island conditions, personality and cognition. Arrows with (1) represent ‘traditional’ pathways leading to the island syn-
+drome. Pathway (2) echoes the ETH [136], predicting lower cognitive capacity in island populations. By contrast, (3) depicts the possibility that th e unpredictable
+nature of the island environment selects for behavioural flexibility, requiring high cognitive capacity [123]. Route (4) represents a possible con nection between niche
+expansion, dietary specialization, and aspects of personality and cognition (as proposed by [137,138]). Arrows with (5) indicate that high densiti es could lead to
+reduced territoriality and changes in how animals interact behaviourally (e.g. [77]). Arrow (6) summarizes the multiple connections between ‘traditional’ elements of
+the island syndrome and personality, e.g. through pleiotropic effects [139] or correlated selection (e.g. pace of life syndrome [140]). Pathway (7) concerns non-
+adaptive consequences of inbreeding on personality and cognition (e.g. [141]). Route (8) describes a possible role for selection on dispersal-rela ted personality traits
+(e.g. [142]). Finally, the arrows labelled (9) summarize ideas on how personality and cognition might interact (e.g. [143]).
+14royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 15
+studies describing negative associations between levels of
+inbreeding (homozygosity) and human intelligence [167 –
+170], demonstrating that effects on cognition are not restricted
+to recent inbreeding events. Studies on the effect of inbreeding
+on animal cognitive capacity are extremely rare [171], but
+inbred lines of rats tend to exhibit cognitive deficits compared
+to outbred lines (e.g. [172]). In fruit flies ( Drosophila melanoga-
+ster), Nepoux et al . [171] found a negative effect of severe
+inbreeding on aversive learning [171].
+Differences in personality or cognitive traits between
+island and mainland populations could also arise through
+pleiotropic effects, i.e. when alleles that are selected because
+of their effect on unrelated morphological, physiological or
+life-history traits also happen to shape behaviour [139,173 –
+175]. More concrete evidence for such piggyback riding of be-
+havioural genes comes from artificial selection studies, in
+which selection for one trait has (often unexpected) effects
+on other characteristics. For instance, selection for high volun-
+tary wheel-running activity in mice resulted in reduced
+aggressiveness towards conspecifics [176]. Selection for
+wheat digestibility in broiler chickens affected the birds ’ neo-
+phobia, sociability and explorativeness [177]. In Drosophila,
+selection for both nutritional stress resistance [178] and long-
+evity [179] came at the cost of reduced learning ability. These
+studies have not worked with island populations, but high
+locomotory activity , increased digestive abilities, nutritional
+stress and longer lifespans have all been associated with insu-
+lar conditions (e.g. [88,180,181]). As an example of how
+pleiotropic effects might come about at the molecular level,
+consider how the vertebrate melanocortin system affects a
+variety of traits, including colouration, immunity , energy
+expenditure and stress resistance, but also aggression and
+sexual activity [139]. In principle, altered background-match-
+ing requirements on islands might select for darker
+colouration by increasing the activity of melanocortin recep-
+tors, which would collaterally increase aggressiveness and
+sexual activity. Pleiotropic effects have been invoked to
+explain the multifaceted changes in island lizards [26],
+although in this study , the behavioural components (aggres-
+siveness, voraciousness) were deemed the targets of
+selection, and the changes in colour a happy by-product.
+Perhaps the most intuitive path towards genetic differen-
+tiation in personality or cognition between island and
+mainland populations is through natural selection. As recog-
+nized by studies of dispersal reduction ([182 –184], but see
+[185,186]), island dwellers are likely to have been exposed to
+at least two successive bouts of selection during their
+evolutionary history: on their route to the island, and sub-
+sequently , when confronted with the new environment. The
+nature and even the direction of selection during these two
+stages may diverge strongly [187]. Trait values that facilitate
+dispersal to and colonization of islands may diverge from
+(or even oppose) those that benefit fitness once the population
+is established [188]. Which of the two selection bouts will be
+most reflected in the island population, will then depend on
+the time since colonization, and the plastic and/or evolution-
+ary malleability of the trait concerned. Recent studies have
+documented instances of very rapid dispersal reduction in
+some insect and plant taxa (e.g. [185,189]), but there are also
+cases where dispersal capacity does not or only very slowly
+decreased post-colonization [190,191].
+Dispersal barriers may act as a filter for or isolate island
+dwellers of certain personality and cognitive phenotypes.
+There is now ample evidence for personality-dependent
+dispersal (reviewed in [142,192]). Aggressiveness may
+influence dispersal either way. Antagonistic individuals
+may coerce more peaceful conspecifics to disperse [193,194],
+or move away themselves [195,196]. The relationship between
+sociality and dispersal tendency seems also taxon-specific
+(compare [197] with [198]) or density-dependent [199]. The
+relationship between dispersion and cognition has received
+little attention [200,201]. In theory , both positive and negative
+relationships could evolve: well-developed cognitive skills
+may help dispersers survive the perilous route towards
+new horizons; but individuals that invest heavily in cognition
+may be reluctant to disperse into unknown territories (e.g.
+[202]). Comparative research on wide a variety of animals
+suggests that cognitive abilities are a determinant of invasion
+success (reviewed in [203]), but these studies typically
+emphasize the role of cognition in coping with new
+challenges encountered in the invaded territories, rather
+than with the dispersal event itself.
+Once arrived on an island, animals are likely to face-
+selective pressures that diverge from those experienced on
+the mainland in multiple aspects (see above §2), prompting
+adaptive, genetic changes in their personality and cognitive
+traits. Although studies on how personality traits evolve in
+response to environmental changes remain relatively rare
+[31], there is now evidence that changes in ecological factors
+such as food availability (e.g. [204]), predation pressure (e.g.
+[205]), parasite load (e.g. [206]) and habitat structure (e.g.
+[207]), all known to occur on islands, may drive personality
+evolution. In addition, personality traits seem a likely target
+of sexual selection (see [208,209] for an overview of ideas),
+whose strength and direction may vary among islands (e.g.
+[210–212]). Proof for the evolvability of personality comes
+from studies of the fitness gradient in wild populations,
+from artificial selection studies, and from analyses comparing
+populations or species (reviewed in [31,213]).
+Probably because it is deemed key to the evolution of our
+o w ns p e c i e s ,t h e o r i e so nw h ya n dw h e nn a t u r a ls e l e c t i o np r o -
+motes high cognitive abilities abound (see e.g. [138] for a
+review). They can be pushed into two major schools. The
+‘Social Intelligence Hypothesis’ postulates that cognition has
+evolved to meet the challenges of a complex social life, to be
+able to read the intentions of peers and manipulate their behav-
+iour [214,215]. The ‘Ecological Intelligence Hypothesis’ (EIH)
+states that other, non-social aspects of the environment have
+steered cognitive evolution: challenges associated with locating
+or manipulating food, finding shelter or avoiding predation, for
+instance [216]. Refining EIH, the widely cited ‘Cognitive Buffer
+Hypothesis’ [217] emphasizes the role of environmental varia-
+bility and argues that cognition evolved as a means to buffer
+individuals against stochastic fluctuations in, for instance,
+food availability [123 ,218]. Instead, the ‘Expensive Tissue
+Hypothesis’ (ETH) [136] argues how low or variable resource
+availability could select for reduced investment in costly brain
+tissue (and more performant gutt i s s u e ) ,w h i c hm i g h tc o m ea t
+the expense of cognitive ability. Artificial selection studies,
+selection gradient studies and comparative analyses have con-
+firmed that cognition is indeed malleable through natural
+selection (see [138,219,220] for reviews). Interestingly , recent
+comparative genomic techniques found evidence for positive
+selection on genes associated with brain development in mul-
+tiple lineages (e.g. dolphins: [221]; paper wasps: [222];
+capuchin monkeys: [223], including our own [169,224]).
+15royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 16
+In short, insularization can affect personality and cogni-
+tion for multiple reasons and through several pathways.
+4. Challenges, opportunities and avenues for
+behavioural research on islands
+If changes in personality and cognitive skills following insu-
+larization seem likely and important, then why have they not
+been studied more often? Clearly , behavioural traits tend to
+be highly plastic, do not fossilize well and are difficult to
+compare among species, all of which complicates evolution-
+ary studies. However, these problems are not specific to
+island populations, and the recent spurt in animal cognition
+and personality research proves that they can be overcome.
+Actually , we believe that island –mainland or among-island
+comparisons constitute a very promising avenue for studying
+the micro-evolution of behaviour, just as they did for other
+traits and for the same reason: because they offer the oppor-
+tunity to study recurrent phenotypic changes in relatively
+simple environments [5].
+A possible explanation for the dearth of work on cogni-
+tion and personality performed on insular systems could be
+a mismatch in study organisms. Studies of animal personality
+and cognition have traditionally used primates, other
+mammals, birds and fish as models [225,226] —species that
+are often not very abundant on islands —especially not on
+smaller, oceanic islands. Recently , however, techniques for
+measuring personality and cognitive capacity have been
+tailored to and successfully applied in other taxa, such as rep-
+tiles [227] and insects [228], that can be sampled in large
+numbers on even the smallest islands. With the right study
+organisms, it should be logistically possible to study how
+insularity affects personality and cognition.
+Clearly , a number of quality criteria must be met. By defi-
+nition, personality scores should be repeatable in time and
+across contexts, but this has rarely been assessed in island
+populations. Along the same line, cognitive scores should
+be carefully tested for repeatability within individuals,
+and consistency among individuals and across contexts.
+This requires recapturing the same individuals in sufficient
+numbers, which can be a major challenge in fast-moving
+Table 2. Outstanding questions on the evolution of personality and cognition on islands.
+The master data
+Do island populations exhibit repeatable inter-individual differences in the way they behaviourally interact with their environment, and are thes e
+differences consistent across contexts?
+Do populations (or communities) on islands exhibit the same range and relative frequencies of behavioural types as populations on the mainland, or on
+other islands?
+Do animal populations on islands differ in cognitive skills from their counterparts on the mainland, or on other islands?
+The mechanisms of change
+What is the role of non-adaptive evolution (e.g. inbreeding, genetic drift, pleiotropy) in creating differences in cognition and personality betwe en island
+and mainland populations?
+What is the role of dispersal ﬁltering in creating differences in cognition and personality between island and mainland populations? How long does this
+effect linger?
+What is the role of phenotypic plasticity versus genetic adaptation in creating differences in cognition and personality between island and mainlan d
+populations?
+The drivers of change
+What is the effect of predator release on islands on personality traits? Are these effects general, or speci ﬁc to a predatory context?
+Does predator release on islands affect prey cognitive capacity? (How fast) do prey species lose their ability to recognize predators, to respond in
+adequate ways? Are these effects general, or speci ﬁc to a predatory context?
+How does reduced interspeci ﬁc competition (and the possible resulting niche shift) on islands affect personality traits? Are these effects general, or
+speciﬁc to an interspeci ﬁc context?
+How do high population densities on islands affect personality?
+How does low-resource availability or predictability affect personality traits, and cognitive capacity?
+Covariation with other characteristics
+Do changes in morphology (e.g. body size, shape and colour), physiology (e.g. brain size and digestive performance) or diet (type or breadth) observe d
+in island populations concur with changes in personal or cognitive capacity? Are these changes adaptive or constrained?
+Do changes in life history of the pace of life (fast to slow) on islands affect personality and cognition?
+Generality and relevance
+Are the magnitude and the direction of changes in personality and cognitive traits on islands consistent over taxonomic groups and island
+environments? If not, which factors are responsible?
+How do personality and cognitive characteristics of island populations affect their vulnerability to alien species? How readily can island animals adjust
+personality and cognitive traits to cope with new challenges?
+16royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 17
+animals. Obtaining robust behavioural measurements, prefer-
+ably in a number of populations and species, is a necessary
+first step to establish whether there is, effectively , a
+behavioural component to the island syndrome.
+Equipped with robust data on personality traits and cog-
+nitive abilities, hypotheses on how insularity incites changes
+in personality or cognition can then be put to the test
+(table 2). Several ideas on this matter can be formulated,
+but remain largely untested. For instance, inbreeding
+depression engenders individuals with maladaptive, under
+certain ecological contexts, personalities [141,161]. Predation
+intensity is considered a prime factor determining the relative
+fitness of different personalities (e.g. [205,229]), and an
+important driver of cognitive evolution (e.g. [230,231]). At
+least in some taxa, high population densities are expected
+to decrease aggressiveness and increase sociality in island
+dwellers (e.g. [232]), and in combination with low-resource
+availability , may constrain brain development and thus cog-
+nitive abilities [136]. By contrast, the unpredictable nature
+of island environments has been hypothesized to select for
+behavioural flexibility and, hence, superior cognitive abilities
+[103]. Inbreeding, predation relaxation, high population den-
+sities, increased intraspecific competition and environmental
+stochasticity are all examples of phenomena associated with,
+but not limited to, island environments. Therefore, studies on
+the behaviour of island dwellers will be of great value to our
+understanding of the evolution of personality and cognition,
+in general.
+A logical next step would be to assess whether and how
+personality traits and cognitive traits covary among
+themselves, and with the morphological, physiological and
+life-history traits traditionally implicated in the ‘island syn-
+drome’. This would allow testing outstanding hypotheses
+on how personality differences are maintained over time
+[233], on the existence and consistency of cognitive syn-
+dromes and styles [44,234], on the role of behaviour in the
+pace-of-life theory [140], and on behavioural consequences
+of correlational selection on physiological or morphological
+traits (e.g. [235 –237]).
+The above questions primarily relate to the eventual out-
+come of evolutionary trajectories, but islands also offer
+unique opportunities to learn about the nature of the trajec-
+tories themselves. By studying populations of varying age
+(colonization history), one could assess the importance of
+adaptive landscapes [238], genetic covariance matrices [239]
+and the prevalence of ‘evolutionary paths of least resistance ’
+[240] in the evolution of behaviour. Such analyses could also
+reveal reversals in the direction of evolution, e.g. when dis-
+tinct phenotypes facilitate dispersal and settlement [183].
+Finally , studying islands with different colonization histories
+could reveal information on the rate at which behavioural
+changes occur. Such knowledge is of fundamental biological
+interest, but in addition may be valuable in the context of the
+conservation of island and other isolated populations.
+Data accessibility.
+This article has no additional data.
+Authors’ contributions. I.G.: conceptualization, investigation, writing —
+original draft and writing —review and editing; G.D.M.: investigation
+and writing —review and editing; R.V.D.: conceptualization, investi-
+gation, writing—original draft and writing —review and editing; S.B.:
+conceptualization, investigation and writing—review and editing.
+All authors gave final approval for publication and agreed to be
+held accountable for the work performed therein.
+Conflict of interest declaration. Simon Baeckens is on the editorial board of
+Biology Letters .
+Funding. Financial support was given by the University of Antwerp
+(I.G., R.V.D.) and the Research Foundation-Flanders (FWO) (I.G.:
+1105122N; G.D.M.: 1144118N; S.B.: 12I8822N).
+Acknowledgements. We thank Kevin C. Burns and six anonymous reviewers
+for their helpful comments on an earlier version of the manuscript.
+References
+1. Adler GH, Levins R. 1994 The island syndrome in
+rodent populations. Q. Rev. Biol. 69, 473 –490.
+(doi:10.1007/bf00329044)
+2. Baeckens S, Van Damme R. 2020 The island
+syndrome. Curr. Biol. 30, 338 –339. (doi:10.1016/j.
+cub.2020.03.029)
+3. Burns KC. 2019 Evolution in isolation: the search for
+an island syndrome in plants . Cambridge, UK:
+Cambridge University Press.
+4. Whittaker RJ, Fernández-Palacios JM. 2006 Island
+biogeography; ecology, evolution and conservation .
+Oxford, UK: Oxford University Press.
+5. Losos JB, Ricklefs RE. 2009 Adaptation and
+diversification on islands. Nature 457, 830 –836.
+(doi:10.1038/nature07893)
+6. Covas R. 2012 Evolution of reproductive life histories
+in island birds worldwide. Proc. R. Soc. B 279,
+1531–1537. (doi:10.1098/rspb.2011.1785)
+7. Doutrelant C, Paquet M, Renoult JP, Grégoire A,
+Crochet PA, Covas R. 2016 Worldwide patterns of
+bird colouration on islands. Ecol. Lett. 19, 537–545.
+(doi:10.1111/ele.12588)
+8. Darwin C. 1839 Journal of researches into the
+geology and natural history of the various countries
+visited by H. M. S. Beagle, under the command of
+captain Fitzroy, R. N. from 1832 –1836. London, UK:
+Henry Colburn.
+9. Cooper Jr WE, Pyron RA, Garland Jr T. 2014 Island
+tameness: living on islands reduces flight initiation
+distance. Proc. R. Soc. B 281, 20133019. (doi:10.
+1098/rspb.2013.3019)
+10. Robert A, Melo M, Lengagne T, Julien S, Gomez D,
+Doutrelant C. 2021 Patterns of bird song evolution
+on islands support the character release hypothesis
+in tropical but not in temperate latitudes. J. Evol.
+Biol. 34, 1580 –1591. (doi:10.1111/jeb.13928)
+11. Morinay J, Cardoso GC, Doutrelant C, Covas R. 2013
+The evolution of birdsong on islands. Ecol. Evol. 3,
+5127–5140. (doi:10.1002/ece3.864)
+12. Reudink MW, Pageau C, Fisher M, Mount N, Buckler
+N, Otter KA, Briskie JV. 2021 Evolution of song and
+color in island birds. Wilson J. Ornithol. 133,1 –10.
+(doi:10.1676/19-00084)
+13. Montiglio PO, Dammhahn M, Dubuc Messier G,
+Réale D. 2018 The pace-of-life syndrome revisited:
+the role of ecological conditions and natural history
+on the slow –fast continuum. Behav. Ecol. Sociobiol.
+72,1 –
+9. (doi:10.1007/s00265-018-2526-2)
+14. MacArthur RH, Wilson EO. 1967 The theory of island
+biogeography.P r i n c e t o n ,N J :P r i n c e t o nU n i v e r s i t yP r e s s .
+15. Lack D. 1969 The number of bird species on islands.
+Bird Study 16, 193 –209. (doi:10.1080/
+00063656909476244)
+16. Cox GW, Ricklefs RE. 1977 Species diversity,
+ecological release, and community structuring in
+Caribbean land bird faunas. Oikos 28, 113 –122.
+(doi.org/10.2307/3543330)
+17. Herrmann NC, Stroud JT, Losos JB. 2021 The
+evolution of ‘ecological release ’ into the 21st
+century. Trends Ecol. Evol. 36, 206–215. (doi.org/10.
+1016/j.tree.2020.10.019)
+18. MacArthur RH, Diamond JM, Karr JR. 1972 Density
+compensation in island faunas. Ecology 53,
+330–342. (doi:10.2307/1934090)
+19. Case TJ, Gilpin ME, Diamond JM. 1979
+Overexploitation, interference competition, and
+excess density compensation in insular faunas. Am.
+Nat. 113, 843 –854. (doi:10.1086/283440)
+20. Buckley LB, Jetz W. 2007 Insularity and the
+determinants of lizard population density. Ecol.
+Lett. 10, 481–489. (doi:10.1111/j.1461-0248.2007.
+01042.x)
+17royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 18
+21. Janzen D. 1973 Sweep samples of tropical foliage
+insects: description of study sites, with data on
+species abundances and size distributions. Ecology
+54, 659 –686. (doi:10.2307/1935358)
+22. Blanco G, Laiolo P, Fargallo JA. 2014 Linking
+environmental stress, feeding-shifts and the ‘island
+syndrome’: a nutritional challenge hypothesis. Popul.
+Ecol. 56, 203–216. (doi:10.1007/s10144-013-0404-3)
+23. Andrews RM. 1979 Evolution of life histories: a
+comparison of Anolis lizards from matched island
+and mainland habitats. Brevoria 454,1 –51. (doi:10.
+1111/j.1365-2699.2010.02466.x)
+24. Olesen JM, Valido A. 2003 Lizards as pollinators and
+seed dispersers: an island phenomenon. Trends Ecol.
+Evol. 18, 177 –181. (doi:10.1016/s0169-
+5347(03)00004-1)
+25. Sale MG, Arnould JPY. 2013 Inflated population
+density of island antechinus: a case of
+allochthonous marine inputs leading to increased
+food availability? Aust. J. Zool. 60, 343 –351.
+(doi:10.1071/ZO12073)
+26. Raia P, Guarino FM, Turano M, Polese G, Rippa D,
+Carotenuto F, Monti DM, Cardi M, Fulgione D. 2010
+The blue lizard spandrel and the island syndrome.
+BMC Evol. Biol. 10, 289. (doi:10.1186/1471-2148-
+10-289)
+27. Monti DM, Raia P, Vroonen J, Maselli V, Van Damme
+R, Fulgione D. 2013 Physiological change in an
+insular lizard population confirms the reversed
+island syndrome. Biol. J. Linn. Soc. 108, 144 –150.
+(doi:10.1111/j.1095-8312.2012.02019.x)
+28. Dougherty Liam R, Guillette Lauren M.. 2018
+Linking personality and cognition: a meta-analysis.
+Philosophical Transactions of the Royal Society B:
+Biological Sciences 373(1756), 20170282. (http://
+dx.doi.org/10.1098/rstb.2017.0282)
+29. Dochtermann NA, Schwab T, Sih A. 2015 The
+contribution of additive genetic variation to
+personality variation: heritability of personality.
+Proc. R. Soc. B 282, 20142201. (doi:10.1098/rspb.
+2014.2201)
+30. Dochtermann NA, Schwab T, Anderson Berdal M,
+Dalos J, Royauté R. 2019 The heritability of
+behavior: a meta-analysis. J. Hered. 110, 403 –410.
+(doi:10.1093/jhered/esz023)
+31. Réale D, Reader SM, Sol D, McDougall PT,
+Dingemanse NJ. 2007 Integrating animal
+temperament within ecology and evolution. Biol.
+Rev. 82, 291 –318. (doi:10.1111/j.1469-185x.2007.
+00010.x)
+32. Sih A, Bell AM, Johnson JC, Ziemba RE. 2004
+Behavioral syndromes: an integrative overview.
+Q. Rev. Biol. 79, 241 –277. (doi:10.1086/422893)
+33. Dukas R. 2004 Evolutionary biology of animal
+cognition. Annu. Rev. Ecol. Evol. Syst. 35, 347 –374.
+(doi:10.1146/annurev.ecolsys.35.112202.130152)
+34. Huebner F, Fichtel C, Kappeler PM. 2018 Linking
+cognition with fitness in a wild primate: fitness
+correlates of problem-solving performance and
+spatial learning ability. Phil. Trans. R. Soc. B 373,
+20170295. (doi:10.1098/rstb.2017.0295)
+35. Branch CL, Pitera AM, Kozlovsky DY, Bridge ES,
+Pravosudov VV. 2019 Smart is the new sexy: female
+mountain chickadees increase reproductive
+investment when mated to males with better
+spatial cognition. Ecol. Lett. 22, 897 –903. (doi:10.
+1111/ele.13249)
+36. Sonnenberg BR, Branch CL, Pitera AM, Bridge E,
+Pravosudov VV. 2019 Natural selection and spatial
+cognition in wild food-caching mountain
+chickadees. Curr. Biol. 29, 670 –676. (doi:10.1016/j.
+cub.2019.01.006)
+37. Ashton BJ, Ridley AR, Edwards EK, Thornton A. 2018
+Cognitive performance is linked to group size and
+affects fitness in Australian magpies. Nature 554,
+364–367. (doi:10.1038/nature25503)
+38. Cauchoix M et al. 2018 The repeatability
+of cognitive performance: a meta-analysis.
+Proc. R. Soc. B 373, 20170281. (doi:10.1098/
+rstb.2017.0281)
+39. Griffin AS, Guillette LM, Healy SD. 2015 Cognition
+and personality: an analysis of an emerging field.
+Trends Ecol. Evol. 30, 207 –214. (doi:10.1016/j.tree.
+2015.01.012)
+40. Spearman C. 1904 General intelligence, objectively
+determined and measured. Am. J. Psychol. 15,
+201–292. (doi:10.1037/11491-006)
+41. Warne RT, Burningham C. 2019 Spearman ’s g found
+in 31 non-Western nations: strong evidence that g is
+a universal phenomenon. Psych. Bull. 145,
+237–272. (doi:10.31234/osf.io/uv673)
+42. Galsworthy MJ, Paya-Cano JL, Liu L, Monleón S,
+Gregoryan G, Fernandes C, Schalkwyk LC, Plomin R.
+2005 Assessing reliability, heritability and general
+cognitive ability in a battery of cognitive tasks for
+laboratory mice. Behav. Genet. 35, 675 –692.
+(doi:10.1007/s10519-005-3423-9)
+43. Shaw RC, Boogert NJ, Clayton NS, Burns KC. 2015
+Wild psychometrics: evidence for ‘general’ cognitive
+performance in wild New Zealand robins, Petroica
+longipes. Anim. Behav. 109, 101–111. (doi:10.1016/
+j.anbehav.2015.08.001)
+44. Poirier MA, Kozlovsky DY, Morand-Ferron J, Careau
+V. 2020 How general is cognitive ability in non-
+human animals? A meta-analytical and multi-level
+reanalysis approach. Proc. R. Soc. B 287, 20201853.
+(doi:10.1098/rspb.2020.1853)
+45. McWaters SR, Pangle WM. 2021 Heads up! Variation
+in the vigilance of foraging chipmunks in response
+to experimental manipulation of perceived risk.
+Ethology 127, 309 –320. (doi:10.1111/eth.13128)
+46. Blumstein DT, Daniel JC, Springett BP. 2004 A test of
+the multi-predator hypothesis: rapid loss of antipredator
+behavior after 130 years of isolation.Ethology 110,
+919–934. (doi:10.1111/j.1439-0310.2004.01033.x)
+47. Reimers E, Lund S, Ergon T. 2011 Vigilance and
+fright behaviour in the insular Svalbard reindeer.
+Can. J. Zool. 89, 753 –764. (doi:10.1139/z11-040)
+48. Hamao S, Torikai H, Yoshikawa M, Yamamoto Y,
+Ijichi T. 2020 Risk-taking behavior of bull-headed
+shrikes that recently colonized islands. Curr. Zool.
+67, 177 –182. (doi:10.1093/cz/zoaa036)
+49. Humphrey PS, Livezey BC, Siegel-Causey D. 1987
+Tameness of birds of the Falkland Islands: an index
+and preliminary results. Bird Behav. 7,6 7 –72.
+(doi:10.3727/015613887791918114)
+50. Rasheed AA, Hambley K, Chan G, de la Rosa CA,
+Larison B, Blumstein DT. 2017 Persistence of
+antipredator behavior in an island population of
+California quail. Ethology 124, 155 –160. (doi:10.
+1111/eth.12716)
+51. Delibes MC, Blázques MC, Soriano E, Revilla E,
+Godoy JA. 2011 High antipredatory efficiency of
+insular lizards: a warning signal of excessive
+specimen collection? PLoS ONE 6, e29312. (doi:10.
+1371/journal.pone.0029312)
+52. Rödl T, Berger S, Romero LM, Wikelski M. 2007
+Tameness and stress physiology in a predator-naive
+island species confronted with novel predation
+threat. Proc. R. Soc. B 274, 577–582. (doi:10.1098/
+rspb.2006.3755)
+53. Blázquez MC, Rodríguez-Estrella R, Delibes M. 1997
+Escape behavior and predation risk of mainland and
+island spiny-tailed iguanas ( Ctenosaura hemilopha).
+Ethology 103, 990 –998. (doi:10.1111/j.1439-0310.
+1997.tb00141.x)
+54. Stone PA, Snell HL, Snell HM. 1994 Behavioral
+diversity as biological diversity: introduced cats and
+lava lizard wariness. Conserv. Biol. 8, 569 –573.
+(doi:10.1046/j.1523-1739.1994.08020569.x)
+55. Cooper Jr WE, Pérez-Mellado V. 2012 Historical
+influence of predation pressure on escape by
+Podarcis lizards in the Balearic Islands. Biol. J. Linn.
+Soc. 107, 254 –268. (doi:10.1111/j.1095-8312.2012.
+01933.x)
+56. Cooper Jr WE, Hawlena D, Pérez-Mellado V. 2009
+Islet tameness: escape behavior and refuge use in
+populations of the Balearic lizard ( Podarcis lilfordi)
+exposed to differing predation pressure. Can. J. Zool.
+87, 912 –919. (doi:10.1139/z09-077)
+57. Vervust B, Grbac I, Van Damme R. 2007 Differences
+in morphology, performance and behaviour
+between recently diverged populations of Podarcis
+sicula mirror differences in predation pressure. Oikos
+116, 1343 –1352. (doi:10.1111/j.0030-1299.2007.
+15989.x)
+58. Li BB, Belasen A, Pafilis P, Bednekoff P,
+Foufopoulos J. 2014 Effects of feral cats on the
+evolution of anti-predator behaviours in island
+reptiles: insights from an ancient introduction.
+Proc. R. Soc. B 281, 20140339. (doi:10.1098/rspb.
+2014.0339)
+59. Brock KM, Bednekoff PA, Pafilis P, Foufopoulos J.
+2015 Evolution of antipredator behavior in an island
+lizard species, Podarcis erhardii (Reptilia:
+Lacertidae): the sum of all fears? Evolution 69,
+216–231. (doi:10.1111/evo.12555)
+60. De Meester G, Lambreghts Y, Briesen B, Smeuninx T,
+Tadić Z, Van Damme R. 2018 Hunt or hide: how
+insularity and urbanization affect foraging decisions
+in lizards. Ethology 124, 227–235. (doi:10.1111/eth.
+12722)
+61. Jolly CJ, Webb JK, Phillips BL. 2018 The perils of
+paradise: an endangered species conserved on an
+island loses antipredator behaviours within 13
+generations. Biol. Lett. 14, 20180222. (doi:10.1098/
+rsbl.2018.0222)
+62. Brodin T, Lind MI, Wiberg MK, Johansson F. 2013
+Personality trait differences between mainland and
+18royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 19
+island populations in the common frog ( Rana
+temporaria). Behav. Ecol. Sociobiol. 67, 135 –143.
+(doi:10.1007/s00265-012-1433-1)
+63. Stratton JA, Nolte MJ, Payseur BA. 2021 Evolution of
+boldness and exploratory behavior in giant mice
+from Gough Island. Behav. Ecol. Sociobiol. 75, 65.
+(doi:10.1101/2020.09.10.292185)
+64. Mettke-Hofmann C, Winkler H, Leisler B. 2002 The
+significance of ecological factors for exploration and
+neophobia in parrots. Ethology 108, 249 –272.
+(doi:10.1046/j.1439-0310.2002.00773.x)
+65. Haemig PD. 1988 A comparative experimental study
+of exploratory behaviour in Santa Cruz Island and
+mainland California scrub jays Aphelocoma
+coerulescens. Bird Behav. 8,3 8 –42. (doi:10.3727/
+015613888791871296)
+66. Lapiedra O, Schoener TW, Leal M, Losos JB, Kolbe
+JJ. 2018 Predator-driven natural selection on risk-
+taking behavior in anole lizards. Science 360,
+1017–1020. (doi:10.1126/science.aap9289)
+67. Juette T, Garant D, Jameson JW, Réale D. 2020 The
+island syndrome hypothesis is only partially validated
+in two rodent species in an inland –island system.
+Oikos 129,1 7 3 9–1751. (doi:10.1111/oik.07249)
+68. Baier F, Hoekstra HE. 2019 The genetics of
+morphological and behavioural island traits in deer
+mice. Proc. R. Soc. B 286, 20191697. (doi:10.1101/
+443432)
+69. Halpin ZT. 1981 Adult –young interactions in island
+and mainland populations of the deer mouse
+Peromyscus maniculatus. Oecologia 51, 419 –425.
+(doi:10.1007/bf00540916)
+70. Välimäki K, Hinten G, Hanski I. 2007 Inbreeding and
+competitive ability in the common shrew ( Sorex
+araneus). Behav. Ecol. Sociobiol. 61, 997 –1005.
+(doi:10.1007/s00265-006-0332-8)
+71. Cooper Jr WE, Dimopoulos I, Pafilis P. 2014 Sex,
+age, and population density affect aggressive
+behaviors in island lizards promoting cannibalism.
+Ethology 121, 260 –269. (doi:10.1111/eth.12335)
+72. Bonnet X, Aubret F, Lourdais O, Ladyman M,
+Bradshaw SD, Maumelat S. 2005 Do ‘quiet’ places
+make animals placid? Island versus mainland tiger
+snakes. Ethology
+111, 573 –592. (doi:10.1111/j.
+1439-0310.2005.01070.x)
+73. Aubret F, Michniewicz RJ, Shine R. 2011 Correlated
+geographic variation in predation risk and
+antipredator behaviour within a wide-ranging snake
+species (Notechis scutatus, Elapidae). Austral. Ecol. 36,
+446–452. (doi:10.1111/j.1442-9993.2010.02171.x)
+74. Placyck Jr JS. 2012 The role of innate and
+environmental influences in shaping antipredator
+behavior of mainland and insular garter snakes
+(Thamnophis sirtalis). J. Ethol. 30, 101–108. (doi:10.
+1007/s10164-011-0302-0)
+75. Person CE, Fox GA, King J, Gren ECK, Briggs E, Hayes
+WK. 2006 Paradoxical exception to island tameness:
+increased defensiveness in an insular population of
+rattlesnakes. Toxicon 119, 375 –376. (doi:10.1016/j.
+toxicon.2016.06.038)
+76. Case TJ. 1982 Ecology and evolution of the insular
+gigantic chuckawallas, Sauromalus hispidus and
+Sauromalus varius .I n Iguanas of the world. Their
+behavior, ecology and conservation (eds GM
+Burghardt, AS Rand). Park Ridge, NJ: Noyes Publ.
+77. Gray S, Hurst J. 1998 Competitive behaviour in an
+island population of house mice, Mus domesticus .
+Anim. Behav. 56, 1291 –1299. (doi:10.1006/anbe.
+1998.0890)
+78. Pulliam HR. 1973 Comparative feeding ecology of a
+tropical grassland finch ( Tiaris olivacea). Ecology 54,
+284–299. (doi:10.2307/1934337)
+79. Tomkins J, Brown G. 2004 Population density drives
+the local evolution of a threshold dimorphism.
+Nature 431, 1099 –1103. (doi:10.1038/
+nature02918)
+80. Hromatko I, Grus A, Kol đeraj G. 2021 Do islanders
+have a more reactive behavioral immune system?
+Social cognitions and preferred interpersonal
+distances during the COVID-19 pandemic. Front.
+Psychol. 12, 2021.647586. (doi:10.3389/fpsyg.2021.
+647586)
+81. Camperio Ciani AS, Capiluppi C. 2011 Gene flow by
+selective emigration as a possible cause for
+personality differences between small islands and
+mainland populations. Eur. J. Pers. 25,5 3 –64.
+(doi:10.1002/per.774)
+82. Camperio Ciani AS, Capiluppi C, Veronese A, Sartori G.
+2007 The adaptive value of personality differences
+revealed by small island population dynamics.
+Eur. J. Pers. 21,3 –
+22. (doi:10.1002/per.595)
+83. Camperio Ciani AS, Edelman S, Ebstein RP. 2013 The
+dopamine D4 receptor (DRD4) exon 3 VNTR
+contributes to adaptive personality differences in an
+Italian small island population. Eur. J. Pers. 27,
+593–604. (doi:10.1002/per.1917)
+84. Reich LM, Tamarin RH. 1980 Trap use as an
+indicator of social behavior in mainland and island
+voles. Acta Theriol. 25, 295 –307. (doi:10.4098/at.
+arch.80-26)
+85. Beauchamp G. 2004 Reduced flocking by birds on
+islands with relaxed predation. Proc. R. Soc. B 271,
+1039–1042. (doi:10.1098/rspb.2004.2703)
+86. van Schaik CP, van Noordwijk MA. 1985
+Evolutionary effect of the absence of felids on the
+social organization of the macaques on the Island of
+Simeulue ( Macaca fascicularis fusca , Miller 1903).
+Folia Primatol. 44, 138 –147. (doi:10.1159/
+000156208)
+87. Kang C, Sherratt TN, Kim YE, Shin Y, Moon J, Song
+U, Kang JY, Kim K, Jang Y. 2017 Differential
+predation drives the geographical divergence in
+multiple traits in aposematic frogs. Behav. Ecol. 28,
+1122–1130. (doi:10.1093/beheco/arx076)
+88. Siliceo-Cantero HH, García A. 2015 Actividad y uso
+del hábitat de una población insular y una
+continental de lagartijas Anolis nebulosus
+(Squamata: Polychrotidae) en un ambiente
+estacional. Rev. Mex. Biodiv. 86, 406 –411. (doi:10.
+1016/j.rmb.2015.04.011)
+89. Kubo D, Kono RT. 2011 Endocranial restoration and
+volume estimation of the Minatogawa IV cranium
+using micro-CT and 3D printer systems. Anthropol.
+Sci. 119, 201 –209. (doi:10.1537/ase.110228)
+90. Diniz-Filho JAF, Raia P. 2017 Island rule,
+quantitative genetics and brain –body size evolution
+in Homo floresiensis. Proc. R. Soc. B 284, 20171065.
+(doi:10.1098/rspb.2017.1065)
+91. Masters JC, Genin F, Silvestro D, Lister AM, DelPero
+M. 2014 The red island and the seven dwarfs: body
+size reduction in Cheirogaleidae. J. Biogeogr. 41,
+1833–1847. (doi:10.1111/jbi.12327)
+92. Weston EM, Lister AM. 2009 Insular dwarfism in
+hippos and a model for brain size reduction in
+Homo floresiensis. Nature 459,8 5–88. (doi:10.1038/
+nature07922)
+93. Larramendi A, Palombo MR. 2015 Body size, biology
+and encephalization quotient of Palaeoloxodon ex
+gr.
+P. falconeri from Spinagallo cave (Hyblean
+Plateau, Sicily). Hystrix 26,1 –8. (doi:10.4404/
+hystrix-26.2-11478)
+94. Köhler M, Moya-Soya S. 2004 Reduction of brain
+and sense organs in the fossil insular bovid
+Myotragus. Brain Behav. Evol. 63, 125–140. (doi:10.
+1159/000076239)
+95. Palombo MR, Köhler M, Moya Sola S, Giovinazzo C.
+2008 Brain versus body mass in endemic ruminant
+artiodactyls: a case studied of Myotragus balearicus
+and smallest Candiacervus species from
+Mediterranean Islands. Q. Internat. 182, 160 –183.
+(doi:10.1016/j.quaint.2007.08.037)
+96. Palombo MR, Giovanazzo C. 2004 Brain weight
+versus body mass in late Pleistocene Cynotherium
+sardous Studiati, 1847 from Dragonara Cave (north-
+western Sardinia). Giornate Paleontol. 4, 44.
+97. Quintana J, Köhler M, Moya-Sola S. 2011 Nuralagus
+rex, gen. et sp. nov., an endemic insular giant
+rabbit from the Neogene of Minorca (Balearic
+Islands, Spain). J. Vertebr. Paleontol. 31, 231 –240.
+(doi:10.1080/02724634.2011.550367)
+98. Castiglione S, Serio C, Piccolo M, Mondanaro A,
+Melchionna M, Di Febbraro M, Sansalone G, Wroe S,
+Raia P. 2021 The influence of domestication,
+insularity and sociality on the tempo and mode of
+brain size evolution in mammals. Biol. J. Linn. Soc.
+132, 221 –231. (doi:10.1093/biolinnean/blaa186)
+99. Gold MEL, Bourdon E, Norell MA. 2016 The first
+endocast of the extinct dodo ( Raphus cucullatus )
+and an anatomical comparison amongst close
+relatives (Aves, Columbiformes). Zool. J. Linn. Soc.
+177, 950 –963. (doi:10.1111/zoj.12388)
+100. Duhamel A, Hume JP, Guenser P, Salaviale C, Louchart
+A. 2020 Cranial evolution in the extinct Rodrigues
+Island owl Otus murivorus (Strigidae), associated with
+unexpected ecological adaptations.Sci. Rep. 10,
+14019. (doi:10.1038/s41598-020-69868-1)
+101. Scofield RP, Ashwell KWS. 2020 Rapid somatic
+expansion causes the brain to lag behind: the case
+of the brain and behavior of New Zealand ’s Haast’s
+eagle ( Harpagornis moorei ). J. Vertebr. Paleontol.
+29, 637 –649. (doi:10.1671/039.029.0325)
+102. Jønsson KA, Fabre PH, Irestedt M. 2013 Brains,
+tools, innovation and biogeography in crows and
+ravens. BMC Evol. Biol.
+12, 72. (doi:10.1186/1471-
+2148-12-72)
+103. Sayol F, Downing PA, Iwaniuk AN, Maspons J, Sol D.
+2018 Predictable evolution towards larger brains in
+birds colonizing oceanic islands. Nat. Comm. 9,
+2820. (doi:10.1038/s41467-018-05280-8)
+19royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 20
+104. Galea LAM, Kavaliers M, Ossenkopp KP, Innes D,
+Hargreaves EL. 1994 Sexually dimorphic spatial
+learning varies seasonally in two populations of
+deer mice. Brain Res. 635,1 8 –26. (doi:10.1016/
+0006-8993(94)91419-2)
+105. Dingemanse NJ, Wright J. 2020 Criteria for
+acceptable studies of animal personality and
+behavioural syndromes. Ethology 126, 865 –869.
+(doi:10.1111/eth.13082)
+106. Etheridge R. 1889 The general zoology of Lord
+Howe Island; containing also an account of the
+collections made by the Australian Museum
+Collecting Party, Aug –Sept 1887. Austral. Mus.
+Mem. 2,1 –42. (doi:10.3853/j.0067-1967.2.
+1889.479)
+107. Rothschildt W, Hartert E. 1899 A review of the
+ornithology of the Galapagos islands. With notes on
+the Webster-Harris expedition. Novitates Zool. 6,
+85–205.
+108. Blumstein DT. 2002 Moving to suburbia:
+ontogenetic and evolutionary consequences of life
+on predator-free islands. J. Biogeogr. 29, 685 –692.
+(doi:10.1046/j.1365-2699.2002.00717.x)
+109. Zuberogoitia I, Martínez JE, Margalida A,
+Gómez I, Azkona A, Martínez JA. 2010
+Reduced food availability induces behavioural
+changes in Griffon vulture Gyps fulvus .
+Ornis Fenn. 87,5 2 –60.
+110. Bauwens D, Thoen C. 1981 Escape tactics and
+vulnerability to predation associated with
+reproduction in the lizard Lacerta vivipara. J. Anim.
+Ecol. 50, 733 –743. (doi:10.2307/4133)
+111. Seltmann MW, Öst M, Jaatinen K, Atkinson S,
+Mashburn K, Hollmén T. 2012 Stress responsiveness,
+age and body condition interactively affect flight
+initiation distance in breeding female eiders. Anim.
+Behav. 84, 889 –896. (doi:10.1016/j.anbehav.2012.
+07.012)
+112. Rocha C, Bergallo H. 1990 Thermal biology and
+flight distance of Tropidurus oreadicus (Sauria,
+Iguanidae) in an area of Amazonian Brazil. Ethol.
+Ecol. Evol. 2, 263 –268. (doi:10.1080/08927014.
+1990.9525411)
+113. Capizzi D, Luiselli L, Viguoli L. 2007 Flight initiation
+distance in relation to substratum type, sex,
+reproductive status and tail condition in two
+lacertids with contrasting habits. Amphibia-Reptilia
+28, 403 –407. (doi:10.1163/156853807781374827)
+114. Engelhardt SC, Weladii RB. 2011 Effects of levels of
+human exposure on flight initiation distance and
+distance to refuge in foraging eastern gray squirrels
+(Sciurus carolinensis ). Can. J. Zool. 89, 823 –830.
+(doi:10.1139/z11-054)
+115. Cooper Jr WE. 2009 Flight initiation distance during
+social activity in lizards ( Sceloporus virgatus). Behav.
+Ecol. Sociobiol. 63, 1765 –1771. (doi:10.1007/
+s00265-009-0799-1)
+116. Dill LM, Houtman R. 1989 The influence of distance
+to refuge on flight initiation distance in the gray
+squirrel ( Sciurus carolinensis ). Can. J. Zool. 67,
+233–235. (doi:10.1139/z89-033)
+117. Wilson DS, Clark AB, Coleman K, Dearstyne T. 1994
+Shyness and boldness in humans and other
+animals. Trends Ecol. Evol. 9, 442 –446. (doi:10.
+1016/0169-5347(94)90134-1)
+118. Dingemanse NJ, Reale D. 2005 Natural selection and
+animal personality. Behaviour 142, 1159 –1184.
+(doi:10.1163/156853905774539445)
+119. Polis GA, Hurd SD. 1995 Extraordinarily high spider
+densities on islands: flow of energy from the marine
+to terrestrial food webs and the absence of
+predation. Proc. Natl Acad. Sci. USA 92, 4382–4386.
+(doi:10.2307/2367331)
+120. Novosolov M, Rodda GH, Feldman A, Kadison AE,
+Dor R, Meiri S. 2016 Power in numbers. Drivers of
+high population density in insular lizards. Global
+Ecol. Biogeogr. 25,8 7–95. (doi:10.1111/geb.12390)
+121. Bliard L, Paquet M, Robert A, Dufour P, Renoult JP,
+Grégoire A, Crochet PA, Covas R, Doutrelant C. 2020
+Examining the link between relaxed predation and
+bird colouration on islands. Biol. Lett. 16, 20200002.
+(doi:10.1098/rsbl.2020.0002)
+122. Burns KC. 2021 An anecdotal observation of anti-
+predatory tool use in a New Zealand parrot.
+Behaviour 1,1 –7. (doi:10.1163/1568539X-bja10137)
+123. Mettke-Hofmann C. 2014 Cognitive ecology:
+ecological factors, life-styles, and cognition. Wiley
+Interdiscip. Rev. Cogn. Sci. 5, 345 –360. (doi:10.
+1002/wcs.1289)
+124. Stamps JA, Buechner M. 1985 The territorial
+defense hypothesis and the ecology of insular
+vertebrates. Quart. Rev. Biol. 60, 155 –181. (doi:10.
+1086/414314)
+125. He P, Maldonado-Chaparro AA, Farine DR. 2019 The
+role of habitat configuration in shaping social
+structure: a gap in studies of animal social
+complexity. Behav. Ecol. Sociobiol. 73,1 –14.
+(doi:10.1007/s00265-018-2602-7)
+126. Erlandsson R, Hasselgren M, Norén K, Macdonald D,
+Angerbjörn A. 2022 Resources and predation: drivers
+of sociality in a cyclic mesopredator. Oecologia 198,
+381–392. (doi:10.1007/s00442-022-05107-w)
+127. Gliwicz J, D ąbrowski MJ. 2008 Ecological factors
+affecting the diel activity of voles in a multi-species
+community. In Annales zoologici fennici , vol. 45,
+pp. 242 –247. Finnish Zoological and Botanical
+Publishing Board, Helsinki, Finland.
+128. Killen SS, Calsbeek R, Williams TD. 2017 The
+ecology of exercise: mechanisms underlying
+individual variation in behavior, activity, and
+performance. Integr. Comp. Biol. 57, 185 –194.
+(doi:10.1093/icb/icx083)
+129. Healy SD, Rowe C. 2007 A critique of comparative
+studies on brain size. Proc. R. Soc. B 274, 453–464.
+(doi:10.1098/rspb.2006.3748)
+130. Font E, García-Roa R, Pincheira-Donoso D, Carazo P.
+2019 Rethinking the effects of body size on the
+study of brain size evolution. Brain Behav. Evol. 93,
+182–195. (doi:10.1159/000501161)
+131. Barrett BJ, Monteza-Moreno CM, Dogand žić T,
+Zwyns N, Ibáñez A, Crofoot MC. 2018 Habitual
+stone-tool-aided extractive foraging in white-faced
+capuchins, Cebus capucinus . R. Soc. Open Sci. 5,
+181002. (doi:10.1101/351619)
+132. Rutz C, St Clair JJH. 2012 The evolutionary origins
+and ecological context of tool use in New
+Caledonian crows. Behav. Process. 89, 153 –165.
+(doi:10.1016/j.beproc.2011.11.005)
+133. Rutz C et al. 2016 Discovery of species-wide tool use
+in the Hawaiian crow. Nature 537, 403 –407.
+(doi:10.1038/nature19103)
+134. Tebbich S, Sterelny K, Teschke I. 2010 The tale of
+the finch: adaptive radiation and behavioural
+flexibility. Phil. Trans. R. Soc. B 365, 1099 –1109.
+(doi:10.1098/rstb.2009.0291)
+135. Auersperg AMI, Szabo B, von Bayern AMP, Kacelnik
+A. 2012 Spontaneous innovation in tool
+manufacture and use in a Goffin ’s cockatoo. Curr.
+Biol. 22, R903
+–R904. (doi:10.1016/j.cub.2012.09.
+002)
+136. Aiello LC, Wheeler P. 1995 The expensive-tissue
+hypothesis: the brain and the digestive system in
+human and primate evolution. Curr. Anthropol. 36,
+199–221. (doi:10.1086/204350)
+137. Toscano BJ, Gownaris NJ, Heerhartz SM, Monaco CJ.
+2016 Personality, foraging behavior and
+specialization: integrating behavioral and food web
+ecology at the individual level. Oecologia 182,
+55–69. (doi:10.1007/s00442-016-3648-8)
+138. Henke-von der Malsburg J, Kappeler PM, Fichtel C.
+2020 Linking ecology and cognition: does ecological
+specialisation predict cognitive test performance?
+Behav. Ecol. Sociobiol. 74, 154. (doi:10.1007/
+s00265-020-02923-z)
+139. Ducrest AL, Keller L, Roulin A. 2008 Pleiotropy in
+the melanocortin system, colouration and
+behavioural syndromes. Trends Ecol. Evol. 23,
+502–510. (doi:10.1016/j.tree.2008.06.001)
+140. Wolf M, Van Doorn GS, Leimar O, Weissing FJ. 2007
+Life-history trade-offs favour the evolution of
+animal personalities. Nature 447, 581–584. (doi:10.
+1038/nature05835)
+141. Herdegen-Radwan M. 2019 Does inbreeding affect
+personality traits? Ecol. Evol. 9, 10 929 –10 937.
+(doi:10.1002/ece3.5487)
+142. Cote J, Clobert J, Brodin T, Fogarty S, Sih A. 2010
+Personality-dependent dispersal: characterization,
+ontogeny and consequences for spatially structured
+populations. Phil. Trans. R. Soc. B 365, 4065–4076.
+(doi:10.1098/rstb.2010.0176)
+143. Sih A, Del Giudice M. 2012 Linking behavioural
+syndromes and cognition: a behavioural ecology
+perspective. Phil. Trans. R. Soc. B 367, 2762 –2772.
+(doi:10.1098/rstb.2012.0216)
+144. Snell-Rood EC. 2013 An overview of the
+evolutionary causes and consequences of
+behavioural plasticity. Anim. Behav. 85, 1004–1011.
+(doi:10.1016/j.anbehav.2012.12.031)
+145. Cabrera D, Nilsson JR, Griffen BD. 2021 The
+development of animal personality across ontogeny:
+a cross-species review. Anim. Behav. 173, 137–144.
+(doi:10.1016/j.anbehav.2021.01.003)
+146. Kotrschal A, Taborsky B. 2010 Environmental
+change enhances cognitive abilities in fish.
+PLoS Biol. 8, e1000351. (doi:10.1371/journal.
+pbio.1000351)
+147. Meuthen D, Ferrari MCO, Lane T, Chivers DP. 2019
+Plasticity of boldness: high perceived risk eliminates
+a relationship between boldness and body size in
+20royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 21
+fathead minnows. Anim. Behav. 147,2 5 –32.
+(doi:10.1016/j.anbehav.2018.11.003)
+148. Liedtke J, Redekop D, Schneider JM, Schuett W.
+2015 Early environmental conditions shape
+personality types in a jumping spider. Front. Ecol.
+Evol. 3, 134. (doi:10.3389/fevo.2015.00134)
+149. Hunter DS, Hazel SJ, Kind KL, Owens JA, Pitcher JB,
+Gatford KL. 2016 Programming the brain: common
+outcomes and gaps in knowledge from animal
+studies of IUGR. Physiol. Behav. 164, 233 –248.
+(doi:10.1016/j.physbeh.2016.06.005)
+150. Laus MF, Duarte Manhas Ferreira Vales L, Braga Costa
+TM, Sousa Almeida S. 2011 Early postnatal protein-
+calorie malnutrition and cognition: a review of human
+and animal studies. Int. J. Environm. Res. Publ. Health
+8, 590–612. (doi:10.3390/ijerph8020590)
+151. Arnold KE, Ramsay SL, Donaldson C, Adam A. 2007
+Parental prey selection affects risk-taking behaviour
+and spatial learning in avian offspring. Proc. R. Soc.
+B 274, 2563 –2569. (doi:10.1098/rspb.2007.0687)
+152. Blondel J, Aronson J. 1999 Biology and wildlife of
+the Mediterranean region . Oxford, UK: Oxford
+University Press.
+153. Ashton BJ, Thorton A, Ridley AR. 2018 An
+intraspecific appraisal of the social intelligence
+hypothesis. Phil. Trans. R. Soc. B 373, 20170288.
+(doi:10.1098/rstb.2017.0288)
+154. Croston R, Branch CL, Kozlovsky DY, Dukas R,
+Pravosudov VV. 2015 Heritability and the evolution
+of cognitive traits. Behav. Ecol. 26, 1447 –1459.
+(doi:10.1093/beheco/arv088)
+155. Mayr E. 1942 Systematics and the origin of species .
+New York, NY: Columbia University Press.
+156. Frankham R. 1997 Do island populations have less
+genetic variation than mainland populations?
+Heredity 78, 311 –327. (doi:10.1038/hdy.1997.46)
+157. Raffard A, Cucherousset J, Prunier JG, Loot G,
+Santoul F, Blanchet S. 2018 Variability of functional
+traits and their syndromes in a freshwater fish
+species ( Phoxinus phoxinus ): the role of adaptive
+and nonadaptive processes. Ecol. Evol. 9,
+2833–2846. (doi:10.1002/ece3.4961)
+158. Gruber J, Brown G, Whiting MJ, Shine R. 2018
+Behavioural divergence during biological invasions:
+a study of cane toads ( Rhinella marina )f r o m
+contrasting environments in Hawai ’i. R. Open Sci. 5,
+180197. (doi:10.1098/rsos.180197)
+159. Frankham R. 1998 Inbreeding and extinction: island
+populations. Conserv. Biol. 12, 665
+–675. (doi:10.
+1111/j.1523-1739.1998.96456.x)
+160. Charlesworth D. 2003 Effects of inbreeding on the
+genetic diversity of populations. Phil. Trans. R. Soc.
+Lond. B 358, 1051 –1070. (doi:10.1098/rstb.2003.
+1296)
+161. Charlesworth D, Willis JH. 2009 The genetics of
+inbreeding depression. Nat. Rev. Gen. 10, 783–796.
+(doi:10.1038/nrg2664)
+162. Sih A, Mathot KJ, Moiron M, Montiglio PO, Wolf M,
+Dingemanse NJ. 2015 Animal personality and
+state–behaviour feedbacks: a review and guide for
+empiricists. Trends Ecol. Evol. 30,5 0 –60. (doi:10.
+1016/j.tree.2014.11.004)
+163. Verweij KJH et al. 2012 Maintenance of genetic
+variation in human personality: testing evolutionary
+models by estimating heritability due to common
+causal variants and investigating the effect of
+distant inbreeding. Evolution 66, 3238 –3251.
+(doi:10.1111/j.1558-5646.2012.01679.x)
+164. Müller T, Ju škauskas A. 2018 Inbreeding affects
+personality and fitness of a leaf beetle. Anim. Behav.
+138,2 9 –37. (doi:10.1016/j.anbehav.2018.02.002)
+165. Morton NE. 1978 Effect of inbreeding on mental
+retardation. Proc. Natl Acad. Sci. USA 75,
+3906–3908. (doi:10.1073/pnas.75.8.3906)
+166. Alvarez G, Ceballos FC, Quintero C. 2009 The role of
+inbreeding in the extinction of a European royal
+dynasty. PLoS ONE 4, e5174. (doi:10.1371/journal.
+pone.0005174)
+167. Howrigan DP et al. 2016 Genome-wide autozygosity is
+associated with lower general cognitive ability. Mol.
+Psychiatry 21,8 3 7–843. (doi:10.1038/mp.2015.120)
+168. Gandin I et al. 2015 Excess of runs of homozygosity
+is associated with severe cognitive impairment in
+intellectual disability. Genet. Med. 17, 396 –399.
+(doi:10.1038/gim.2014.118)
+169. Joshi PK et al. 2015 Directional dominance on
+stature and cognition in diverse human populations.
+Nature 523, 459 –462. (doi:10.1038/nature14618)
+170. Kornilov SA, Tan M, Aljughaiman A, Naumova OY,
+Grigorenko EL. 2019 Genome-wide homozygosity
+mapping reveals genes associated with cognitive
+ability in children from Saudi Arabia. Front. Genet.
+10, 888. (doi:10.3389/fgene.2019.00888)
+171. Nepoux V, Haag CR, Kawecki TJ. 2010 Effects of
+inbreeding on aversive learning in Drosophila.
+J. Evol. Biol. 23, 2333 –2345. (doi:10.1111/j.1420-
+9101.2010.02094.x)
+172. Harker KT, Whishaw IQ. 2002 Place and matching-to-
+place spatial learning affected by rat inbreeding
+(Dark–Agouti, Fischer 344) and albinism (Wistar,
+Sprague–Dawley) but not domestication (wild rat vs.
+Long–Evans, Fischer–Norway). Behav. Brain Res.
+134,4 6 7–477. (doi:10.1016/s0166-4328(02)00083-9)
+173. Biro PA, Stamps JA. 2008 Are animal personality
+traits linked to life-history productivity? Trends Ecol.
+Evol. 23, 361 –368. (doi:10.1016/j.tree.2008.04.003)
+174. Réale D, Garant D, Humphries MM, Bergeron P,
+Careau V, Montiglio PO. 2010 Personality and the
+emergence of the pace-of-life syndrome concept at
+the population level. Phil. Trans. R. Soc. B 365,
+4051–4063. (doi:10.1098/rstb.2010.0208)
+175. Royauté R, Hedrick A, Dochtermann NA. 2020
+Behavioural syndromes shape evolutionary
+trajectories via conserved genetic architecture.
+Proc. R. Soc. B 287, 20200183. (doi:10.1098/rspb.
+2020.0183)
+176. Klomberg KF, Garland Jr T, Swallow JG, Carter PA.
+2002 Dominance, plasma testosterone levels, and
+testis size in house mice artificially selected for high
+activity levels. Physiol. Behav. 77,2 7 –38. (doi:10.
+1016/s0031-9384(02)00767-9)
+177. Pelhaitre A, Mignon-Grasteau S, Bertin A. 2012
+Selection for wheat digestibility affects emotionality
+and feeding behaviours in broiler chicks. Appl. Anim.
+Behav. Sci. 139, 114 –122. (doi:10.1016/j.applanim.
+2012.03.007)
+178. Kolss M, Kawecki TJ. 2012 Reduced learning ability
+as a consequence of evolutionary adaptation to
+nutritional stress in Drosophila melanogaster. Ecol.
+Entomol. 33, 583 –588. (doi:10.1111/j.1365-2311.
+2008.01007.x)
+179. Burger JM, Kolss M, Pont J, Kawecki TJ. 2008
+Learning ability and longevity: a symmetrical
+evolutionary trade-off in Drosophila. Evolution 62,
+1294–1304. (doi:10.1111/j.1558-5646.2008.00376.x)
+180. Sagonas K, Pafilis P, Valakos E. 2015 Effects of
+insularity on digestion: living on islands induces
+shifts in physiological and morphological traits in
+island reptiles. Sci. Nat. 102,1 –7. (doi:10.1007/
+s00114-015-1301-8)
+181. Wasser DE, Sherman PW. 2010 Avian longevities
+and their interpretation under evolutionary theories
+of senescence. J. Zool. 280, 103–155. (doi:10.1111/
+j.1469-7998.2009.00671.x)
+182. Cody ML, Overton JM. 1996 Short-term evolution of
+reduced dispersal in island plant populations.
+J. Ecol. 84,5 3 –61. (doi:10.2307/2261699)
+183. Freedman MG, Dingle H, Strauss SY, Ramírez SR.
+2020 Two centuries of monarch butterfly collections
+reveal contrasting effects of range expansion and
+migration loss on wing traits. Proc. Natl Acad. Sci.
+USA 117, 28 887 –28 893. (doi:10.1073/pnas.
+2001283117)
+184. Simberloff D, Wilson EO. 1969 Experimental
+zoogeography of islands: the colonization of empty
+islands. Ecology 50, 278 –296. (doi:10.2307/
+1934856)
+185. García-Verdugo C, Mairal M, Monroy P, Sajeva M,
+Caujapé-Castells J. 2017 The loss of dispersal on
+islands hypothesis revisited: implementing
+phylogeography to investigate evolution of dispersal
+traits in Periploca (Apocynaceae). J. Biogeogr. 44,
+2595–2606. (doi:10.1111/jbi.13050)
+186. Burns KC. 2019 Time to abandon the loss of
+dispersal ability hypothesis in island plants: a
+comment on Garcia-Verdugo, Mairal, Monroy,
+Sajeva and Caujape-Castells (2017). J. Biogeogr. 45,
+1219–1222. (doi:10.1111/jbi.13223)
+187. Chapple DG, Simmonds SM, Wong BB. 2012 Can
+behavioral and personality traits influence the
+success of unintentional species introductions?
+Trends Ecol. Evol. 27,5 7 –64. (doi:10.1016/j.tree.
+2011.09.010)
+188. Price TD, Sol D. 2008 Introduction: genetics of
+colonizing species. Am. Nat. 172,S 1 –S3. (doi:10.
+1086/588639)
+189. Foster BJ, McCulloch GA, Vogel MF, Ingram T,
+Waters JM. 2021 Anthropogenic evolution in an
+insect wing polymorphism following widespread
+deforestation. Biol. Lett. 17, 20210069. (doi:10.
+1098/rsbl.2021.0069)
+190. McCulloch GA, Guhlin J, Dutoit L, Harrop TW,
+Dearden PK, Waters JM. 2021 Genomic signatures of
+parallel alpine adaptation in recently evolved
+flightless insects. Mol. Ecol. 30, 6677–6686. (doi:10.
+1111/mec.16204)
+21royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 22
+191. Donald D. 1985 The wing length of Sweltsa
+revelstoka (Plecoptera, Chloroperlidae). Can.
+Entomol. 117, 233–239. (doi:10.4039/Ent117233-2)
+192. Wey TW, Spiegel O, Montiglio PO, Mabry KE. 2015
+Natal dispersal in a social landscape: considering
+individual behavioral phenotypes and social
+environment in dispersal ecology. Curr. Zool. 61,
+543–556. (doi:10.1093/czoolo/61.3.543)
+193. Schradin C, Lamprecht J. 2002 Causes of female
+emigration in the group-living cichlid fish
+Neolamprologus multifasciatus. Ethology 108,
+237–248. (doi:10.1046/j.1439-0310.2002.00775.x)
+194. Qu J, Chen Q, Zhang Y. 2017 Behaviour and
+reproductive fitness of postdispersal in plateau pikas
+(Ochotona curzoniae) on the Tibetan Plateau. Mamm.
+Res. 63,1 5 1–159. (doi:10.1007/s13364-017-0344-y)
+195. Trefilov A, Berard J, Krawczak M, Schmidtke J. 2000
+Natal dispersal in rhesus macaques is related to
+serotonin transporter gene promoter variation.
+Behav. Genet. 30, 295 –301. (doi:10.1023/
+a:1026597300525)
+196. Michelangeli M, Smith CR, Wong BBM, Chapple DG.
+2017 Aggression mediates dispersal tendency in an
+invasive lizard. Anim. Behav. 133,2 9 –34. (doi:10.
+1016/j.anbehav.2017.08.027)
+197. Hoset KS, Ferchaud AL, Dufour F, Mersch D, Cote J,
+Le Galliard JF. 2011 Natal dispersal correlates with
+behavioral traits that are not consistent across early
+life stages. Behav. Ecol. 22, 176–183. (doi:10.1093/
+beheco/arq188)
+198. Blumstein DT, Wey TW, Tang K. 2009 A test of the
+social cohesion hypothesis: interactive female
+marmots remain at home. Proc. R. Soc. B 276,
+3007–3012. (doi:10.1098/rspb.2009.0703)
+199. Cote J, Clobert J. 2007 Social personalities influence
+natal dispersal in a lizard. Proc. R. Soc. B 274,
+383–390. (doi:10.1098/rspb.2006.3734)
+200. Liedtke J, Fromhage L. 2021 The joint evolution of
+learning and dispersal maintains intraspecific
+diversity in metapopulations. Oikos 130, 808 –818.
+(doi:10.1111/oik.08208)
+201. Maille A, Schradin C. 2016 Survival is linked with
+reaction time and spatial memory in African striped
+mice. Biol. Lett. 12, 20160346. (doi:10.1098/rsbl.
+2016.0346)
+202. Vincze O. 2016 Light enough to travel or wise
+enough to stay? Brain size evolution and migratory
+behavior in birds.
+Evolution 70, 2123–2133. (doi:10.
+1111/evo.13012)
+203. Szabo B, Damas-Moreira I, Whiting MJ. 2020 Can
+cognitive ability give invasive species the means to
+succeed? A review of the evidence. Front. Ecol. Evol.
+8, 187. (doi:10.3389/fevo.2020.00187)
+204. Dingemanse NJ, Both C, Drent PJ, Tinbergen JM.
+2004 Fitness consequences of avian personalities in
+a fluctuating environment. Proc. R. Soc. B 271,
+847–852. (doi:10.1098/rspb.2004.2680)
+205. Bell AM, Sih A. 2007 Exposure to predation
+generates personality in threespined sticklebacks
+(Gasterosteus aculeatus). Ecol. Lett. 10, 828 –834.
+(doi:10.1111/j.1461-0248.2007.01081.x)
+206. Garamszegi LZ, Zagalska-Neubauer M, Canal D,
+Markó G, Szász E, Zseb ők S, Szöll ősi E, Herczeg G,
+Török J. 2015 Malaria parasites, immune challenge,
+MHC variability, and predator avoidance in a
+passerine bird. Behav. Ecol. 26, 1292–1302. (doi:10.
+1093/beheco/arv077)
+207. Keiser CN, Ingley SJ, Toscano BJ, Scharf I, Pruitt JN.
+2018 Habitat complexity dampens selection on prey
+activity level. Ethology 124,2 5 –32. (doi:10.1111/
+eth.12700)
+208. Schuett W, Tregenza T, Dall SRX. 2010 Sexual
+selection and animal personality. Biol. Rev. 85,
+217–246. (doi:10.1111/j.1469-185x.2009.00101.x)
+209. Munson AA, Jones C, Schraft H, Sih A. 2020 You’re just
+my type: mate choice and behavioral types.Trends Ecol.
+Evol. 35, 823–833. (doi:10.1016/j.tree.2020.04.010)
+210. Anaya-Meraz ZA, Escobedo-Galván AH. 2020 Insular
+effect on sexual size dimorphism in the clouded anole
+Anolis nebulosus: when Rensch meets Van Valen. Curr.
+Zool. 66, 589–591. (doi:10.1093/cz/zoaa034)
+211. Roulin A, Salamin N. 2010 Insularity and the evolution
+of melanism, sexual dichromatism and body size in
+the worldwide-distributed barn owl. J. Evol. Biol. 23,
+925–934. (doi:10.1111/j.1420-9101.2010.01961.x)
+212. Griffith SC. 2000 High fidelity on islands: a
+comparative study of extrapair paternity in passerine
+birds. Behav. Ecol. 11, 265 –273. (doi:10.1093/
+beheco/11.3.265)
+213. Moiron M, Laskowski KL, Niemelä PT. 2020
+Individual differences in behaviour explain variation
+in survival: a meta-analysis. Ecol. Lett. 23, 399–408.
+(doi:10.1111/ele.13438)
+214. Humphrey N. 1976 The social function of intellect.
+In Growing points in ethology (eds PPG Bateson, RA
+Hinde), pp. 303 –317. Cambridge, UK: Cambridge
+University Press.
+215. Ashton BJ, Kennedy P, Radford AN. 2020
+Interactions with conspecific outsiders as drivers of
+cognitive evolution. Nat. Commun. 11,1 –9. (doi:10.
+1038/s41467-020-18780-3)
+216. Parker ST, Gibson KR. 1977 Object manipulation,
+tool use and sensorimotor intelligence as feeding
+adaptations in Cebus monkeys and great apes.
+J. Hum. Evol. 6, 623 –641. (doi:10.1016/s0047-
+2484(77)80135-8)
+217. Sol D. 2009 Revisiting the cognitive buffer
+hypothesis for the evolution of large brains. Biol.
+Lett. 5, 130 –133. (doi:10.1098/rsbl.2008.0621)
+218. Allman JM. 2000 Evolving brains. New York, NY:
+Scientific American Library, Freeman and Company
+New York.
+219. van Horik J, Emery NJ. 2011 Evolution of cognition.
+Wiley Interdiscip. Rev. Cogn. Sci. 2, 621 –633.
+(doi:10.1002/wcs.144)
+220. Rochais C, Rymer T, Pillay N. 2022 Challenges in
+linking cognition and survival: a review. Front. Ecol.
+Evol. 10, 729546. (doi:10.3389/fevo.2022.729546)
+221. McGowen MR, Grossman LI, Wildman DE. 2012
+Dolphin genome provides evidence for adaptive
+evolution of nervous system genes and a molecular
+rate slowdown. Proc. R. Soc. B 279, 3643 –3651.
+(doi:10.1098/rspb.2012.0869)
+222. Miller SE, Legan AW, Henshaw MT, Ostevik KL,
+Samuk K, Uy FM, Sheehan MJ. 2020 Evolutionary
+dynamics of recent selection on cognitive abilities.
+Proc. Natl Acad. Sci. USA 117, 3045 –3052. (doi:10.
+1073/pnas.1918592117)
+223. Orkin JD et al. 2021 The genomics of ecological
+flexibility, large brains, and long lives in capuchin
+monkeys revealed with fecalFACS. Proc. Natl Acad.
+Sci. USA 118, e2010632118. (doi:10.1101/366112)
+224. Evans PD, Gilbert SL, Mekel-Bobrov N, Vallender EJ,
+Anderson JR, Vaez-Azizi LM, Tishkoff SA, Hudson
+RR, Lahn BT. 2005 Microcephalin, a gene regulating
+brain size, continues to evolve adaptively in
+humans. Science 309, 1717 –1720. (doi:10.1126/
+science.1113722)
+225. Agrillo C, Bisazza A. 2018 Understanding the origin
+of number sense: a review of fish studies. Phil.
+Trans. R. Soc. B
+373, 20160511. (doi:10.1098/rstb.
+2016.0511)
+226. Shettleworth SJ. 2009 The evolution of comparative
+cognition: is the snark still a boojum? Behav.
+Process. 80, 210 –217. (doi:10.1016/j.beproc.2008.
+09.001)
+227. De Meester G, Baeckens S. 2021 Reinstating reptiles:
+from clueless creatures to esteemed models of
+cognitive biology. Behaviour 158, 1057 –1076.
+(doi:10.1163/1568539X-00003718)
+228. Perry CJ, Barron AB, Chittka L. 2017 The frontiers of
+insect cognition. Curr. Opin. Behav. Sci. 16,
+111–118. (doi:10.1016/j.cobeha.2017.05.011)
+229. Mitchell DJ, Beckmann C, Biro PA. 2020 Predation as
+a driver of behavioural variation and trait integration:
+effects on personality, plasticity, and predictability.
+EcoEvoRxiv. August 17. (doi:10.32942/osf.io/jwd3c)
+230. Brown C, Braithwaite V A. 2005 Effects of predation
+pressure on the cognitive ability of the poeciliid
+Brachyraphis episcopi. Behav. Ecol. 16, 482 –487.
+(doi:10.1093/beheco/ari016)
+231. Jaatinen K, Møller A, Öst M. 2019 Annual variation
+in predation risk is related to the direction of
+selection for brain size in the wild. Sci. Rep. 9,
+11847. (doi:10.1038/s41598-019-48153-w)
+232. Mortelliti A, Brehm AM. 2020 Environmental
+heterogeneity and population density affect the
+functional diversity of personality traits in small
+mammal populations. Proc. R. Soc. B 287,
+20201713. (doi:10.1098/rspb.2020.1713)
+233. Wolf M, Weissing FJ. 2010 An explanatory framework
+for adaptive personality differences. Phil. Trans. R.
+Soc. B 365,3 9 5 9–3968. (doi:10.1098/rstb.2010.0215)
+234. Liedtke J, Fromhage L. 2019 Modelling the
+evolution of cognitive styles. BMC Evol. Biol. 19,
+234. (doi:10.1186/s12862-019-1565-2)
+235. Careau V, Garland Jr T. 2012 Performance,
+personality, and energetics: correlation, causation,
+and mechanism. Physiol. Biochem. Zool. 85,
+543–571. (doi:10.1086/666970)
+236. Roulin A, Ducrest AL. 2010 Association between
+melanism, physiology and behaviour: a role for the
+melanocortin system. Eur. J. Pharmacol. 660,
+226–233. (doi:10.1016/j.ejphar.2011.01.036)
+237. Goulet CT, Michelangeli M, Chung M, Riley JL, Wong
+B, Thompson MB, Chapple DG. 2018 Evaluating
+cognition and thermal physiology as components of
+the pace-of-life syndrome. Evol. Ecol. 32, 469 –488.
+(doi:10.1007/s10682-018-9948-1)
+22royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026
+
+PDF PAGE 23
+238. Arnold SJ, Pfrender ME, Jones AG. 2001 The
+adaptive landscape as a conceptual bridge
+between micro- and macroevolution. In
+Microevolution rate, pattern, process. Contemporary
+issues in genetics and evolution , vol 8 (eds AP
+Hendry, MT Kinnison). Dordrecht, The Netherlands:
+Springer.
+239. Arnold SJ, Bürger R, Hohenlohe PA, Ajie BC,
+Jones AG. 2008 Understanding the evolution
+and stability of the G-matrix. Evolution 62,
+2451–2461. (doi:10.1111/j.1558-5646.2008.
+00472.x)
+240. Schluter D. 1996 Adaptive radiation along genetic
+lines of least resistance. Evolution 50, 1766 –1774.
+(doi:10.1111/j.1558-5646.1996.tb03563.x)
+23royalsocietypublishing.org/journal/rsblBiol. Lett.18: 20220030
+Downloaded from royalsocietypublishing.​org/​rsbl/​article-pdf/​doi/​10.​1098/​rsbl.​2022.​0030/​440960/​rsbl.​2022.​0030.​pdf
+by guest
+on 21 August 2026

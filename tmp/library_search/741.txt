@@ -1,0 +1,1342 @@
+PDF PAGE 1
+Bearded capuchin monkeys’ and a human’s efﬁciency at cracking palm nuts
+with stone tools: ﬁeld experiments
+D. Fragaszy a, *, T. Pickering a, Q. Liu a, P. Izar b,1, E. Ottoni b,1, E. Visalberghi c, 2
+a Department of Psychology, University of Georgia
+b Department of Experimental Psychology, Institute of Psychology, University of Sa ˜o Paulo
+c Istituto di Scienze e Tecnologie della Cognizione, Consiglio Nazionale delle Ricerche, Rome
+article info
+Article history:
+Received 22 May 2009
+Initial acceptance 3 August 2009
+Final acceptance 8 October 2009
+Available online 24 December 2009
+MS. number: A09-00338R
+Keywords:
+anvil
+body weight
+capuchin
+Cebus libidinosus
+efﬁciency
+hammer stone
+human
+nut cracking
+palm nut
+tool use
+Wild bearded capuchins, Cebus libidinosus , in Fazenda Boa Vista, Brazil crack tough palm nuts using
+hammer stones. We analysed the contribution of intrinsic factors (body weight, behaviour), size of the
+nuts and the anvil surface (ﬂat or pit) to the efﬁciency of cracking. We provided capuchins with local
+palm nuts and a single hammer stone at an anvil. From video we scored the capuchins’ position and
+actions with the nut prior to each strike, and outcomes of each strike. The most efﬁcient capuchin
+opened 15 nuts per 100 strikes (6.6 strikes per nut). The least efﬁcient capuchin that succeeded in
+opening a nut opened 1.32 nuts per 100 strikes (more than 75 strikes per nut). Body weight and diameter
+of the nut best predicted whether a capuchin would crack a nut on a given strike. All the capuchins
+consistently placed nuts into pits. To provide an independent analysis of the effect of placing the nut into
+a pit, we ﬁlmed an adult human cracking nuts on the same anvil using the same stone. The human
+displaced the nut on proportionally fewer strikes when he placed it into a pit rather than on a ﬂat surface.
+Thus the capuchins placed the nut in a more effective location on the anvil to crack it. Nut cracking as
+practised by bearded capuchins is a striking example of a plastic behaviour where costs and beneﬁts vary
+enormously across individuals, and where efﬁciency requires years to attain.
+/C2112009 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+Wild bearded capuchins, Cebus libidinosus, crack palm nuts
+using a hammer stone and anvil ( Fragaszy et al. 2004a; Waga et al.
+2006). Bearded capuchins in several other areas of the species’
+range show this behaviour as well ( Ottoni & Izar 2008 ). In addition
+to using percussive tools, wild bearded capuchins use probing and
+scraping tools (Ottoni & Izar 2008; Mannu & Ottoni 2009 ). We now
+recognize that bearded capuchins, like chimpanzees (e.g. Sugiyama
+& Koman 1979; Kortlandt 1986; Kortlandt & Holzhaus 1987; Boesch
+& Achermann-Boesch 2000; Sanz & Morgan 2007 ) routinely use
+tools in foraging.
+This phenomenon raises interesting questions about the costs
+and beneﬁts of using tools in foraging by nonhuman animals. It has
+been suggested that using tools broadens a population’s dietary
+niche by making available resources otherwise unavailable with
+anatomical equipment and that it enables more effective harvesting
+of limited resources, both of which can be especially important
+during periods of food scarcity (e.g. Beck 1980; Yamakoshi 1998;
+Boesch & Achermann-Boesch 2000; Moura & Lee 2004 ). In contrast,
+little attention has been devoted to the costs to nonhuman animals
+of using tools, and we lack at present models to predict the variable
+occurrence of tool use across species, individuals, time and space
+(Haslam et al. 2009 ). The broad framework of optimal foraging
+theory (Stephens & Krebs 1986; Altmann 1998), variations of which
+conceptualize costs of behaviour in different currencies (e.g. time,
+risk of predation or injury, energy), can be used to model the
+occurrence of tool use, as well as other behaviours, from a cost–
+beneﬁt perspective (S. Boinski & D. Fragaszy, unpublished data).
+Here, we approach the topic of the costs of using tools to crack
+nuts by wild bearded capuchin monkeys (hereafter, capuchins). We
+adopt ‘strike’ as the smallest unit of activity that can affect cost of
+the tool-using event, and assume that factors that affect the
+number of strikes needed to crack a nut affect the cost of the
+activity in the short term. We deﬁne efﬁciency in terms of
+* Correspondence: D. Fragaszy, Department of Psychology, University of Georgia,
+Athens, GA 30602, U.S.A.
+E-mail addresses: dfragaszy@gmail.com, doree@uga.edu (D. Fragaszy).
+1 P. Izar and E. Ottoni are at the Department of Experimental Psychology, Institute
+of Psychology, University of Sa˜ o Paulo, Avenida Prof. Mello Moraes 1721, Sa˜ o Paulo,
+SP 05508-030, Brazil.
+2 E. Visalberghi is at the Laboratory of Comparative Cognition, ISTC, via Aldro-
+vandi 16 B, Rome 00197, Italy.
+Contents lists available at ScienceDirect
+Animal Behaviour
+journal homepage: www.elsevier.com/locate/anbehav
+0003-3472/$38.00 /C2112009 The Association for the Study of Animal Behaviour. Published by Elsevier Ltd. All rights reserved.
+doi:10.1016/j.anbehav.2009.1 1.004
+Animal Behaviour 79 (2010) 321–332
+
+PDF PAGE 2
+the number of strikes used to crack a nut. We were interested in
+assessing the efﬁciency with which capuchins crack nuts and the
+effect of particular behavioural and physical parameters (of the
+capuchin, the nut, and the anvil) on efﬁciency.
+At the EthoCebus research site in Fazenda Boa Vista, Brazil,
+capuchins use hammer stones that range up to 2.5 kg, and average
+1.1 kg in weight ( Visalberghi et al. 2007 ). The weight of larger
+hammer stones corresponds to a signiﬁcant proportion of the
+capuchins’ body weight (range 1.9–4.4 kg for adults in our group, as
+we report below). Anvils are boulders or fallen logs, or occasionally
+the crotch or bough of a large tree. The capuchins use anvils
+habitually, forming pits in the anvils’ upper surface from repeated
+striking in the same place (Visalberghi et al. 2007). Liu et al. (2009a)
+describe the bimanual, bipedal action that capuchins use to crack
+the nuts. The average striking cycle involves raising the hammer
+stone vertically 33 cm, and pulling it downward to produce work
+(4.2 J) upon striking the nut. Multiple strikes are typically required
+to crack a whole palm nut, and sometimes a capuchin fails to open
+the nut. Overall, cracking nuts is strenuous, noisy and time-
+consuming. It generates costs in energy used and in time spent, risk
+of injury and risk of predation from being on the ground and
+producing a loud and easily localized sound. In accord with optimal
+foraging theory ( Stephens & Krebs 1986 ), individuals should strive
+to minimize these costs. Two effective ways to minimize costs are
+to minimize the number of strikes used to open the nuts and to
+minimize the loss of nuts and stones from inaccurate strikes and
+poor control of the stone (which can result in the nut and/or the
+stone falling off the anvil).
+In the ﬁrst experiment (experiment 1) reported here, we
+examine predictions about how speciﬁc intrinsic and extrinsic
+variables affect an individual capuchin’s efﬁciency at cracking nuts.
+We were particularly interested in the relation between body mass
+(measured as weight) and efﬁciency, reasoning that individuals
+with larger mass can add more energy to the stone in the down-
+ward direction than can animals of lesser mass. Liu et al. (2009a)
+reported that two females, whose body weight was estimated to be
+1.5–2 kg less than the two adult males with whom they were
+compared, produced less work on the stone than the males. Body
+weight is also likely to correlate with muscle strength and thus the
+ability of a capuchin to lift a stone and to control it while striking
+the nut. Second, body weight is closely correlated with body length;
+individuals with longer bodies can lift a stone higher, increasing its
+kinetic energy even if they do not add additional energy to the
+stone on its downward trajectory. For all of these reasons, longer/
+heavier animals are predicted to be more efﬁcient at cracking nuts
+than shorter/lighter individuals.
+We also expected that the capuchin’s behaviour would affect the
+efﬁciency of cracking. We made two predictions about the relation
+between cracking behaviours and the outcome of cracking
+attempts, based upon our observations of how the capuchins crack
+nuts at our site. First, we predicted the nut would fall off the anvil
+less often when capuchins placed the nut in a pit rather than on
+a ﬂat section because the pit blocks lateral displacement of the nut.
+Second, we predicted that the consistency of an individual’s use of
+a particular body position relative to the anvil during cracking
+would correlate with efﬁciency, reasoning that adopting a consis-
+tent position allows reﬁnement of action in a familiar circumstance.
+We also evaluated whether a particular body position relative to
+the anvil or the placement of the nut on a ﬂat or pitted surface were
+associated with greater efﬁciency.
+Physical properties of the nut should also affect the outcome of
+a cracking attempt. For example, the integrity of the nut shell
+affects its resistance to cracking. In this study, we presented the
+capuchins with one species of nut (tentatively identiﬁed as
+Orbignya sp.; Visalberghi et al. 2008 ) locally called piaçava (or
+piassava). The piaçava nuts cracked by the capuchins at Fazenda
+Boa Vista contain two to six kernels in separate chambers ( Visal-
+berghi et al. 2008 ). Thus, after the nut is cracked, one or more
+kernels can be removed and eaten, but there are usually additional
+chambers left to open, and capuchins often strike these partially
+opened nuts (hereafter, partial nuts) to open the remaining
+chambers. We expected that capuchins would crack partial nuts
+with fewer strikes than whole nuts, and we were interested in
+documenting the magnitude of the difference in efﬁciency when
+cracking whole and partial nuts.
+The size and shape of the nut may also be expected to affect the
+number of strikes needed to crack it.Visalberghi et al. (2008)reported
+that the piaçava nuts’ resistance to cracking increases with the weight
+and diameter of the nut. Thus we predicted that larger nuts would
+require more strikes to open them. Furthermore, we reasoned that the
+curvature of the nut at the point where the stone strikes it could affect
+the transfer of force from the stone to the nut because the force is
+dispersed across a larger area on a ﬂatter surface. Thus, ﬂatter nuts
+could be harder to crack than rounder nuts of the same diameter.
+We obtained an independent measure of how placement of the
+nut on the anvil affected efﬁciency and displacement of the nut
+after striking by having an adult male human participate in
+a parallel
+experiment (experiment 2). By limiting the person to
+many of the same constraints as the capuchins and providing the
+nuts from the same collection and the same hammer stone and
+anvil, we were able to use the person’s data to interpret the
+capuchins’ data. Measuring a person’s performance when he
+positioned the nut on different surfaces of the same anvil permitted
+independent evaluation of the effect of using pits and ﬂat surfaces
+on the outcomes of striking the nuts.
+In summary, we determined how use of different features of the
+anvils, shape and size of the nuts and capuchin’s body weight affected
+the number of strikes a capuchin used to open a nut. We also evalu-
+ated other outcomes of striking that affect the cost of the activity
+(whether the stone fell off the anvil; whether the nut was displaced),
+and we compared a person’s efﬁciency when cracking nuts in the
+same circumstances. Jointly, these elements of the study allowed
+a broad evaluation of the factors inﬂuencing capuchins’ efﬁciency at
+cracking nuts and the costs to the capuchins for inefﬁcient actions.
+EXPERIMENT 1: CAPUCHINS’ EFFICIENCY AT CRACKING NUTS
+Methods
+Site description
+The EthoCebus ﬁeld site is located at Fazenda Boa Vista, privately
+owned land, in Piauı ´ , Brazil (9
+/C14 390S, 45 /C14 250W), at approximately
+420 m above sea level. Fazenda Boa Vista is an area of Cerrado/
+Caatinga (open woodland) ecotone (Oliveira & Marquis 2002 ). This
+region has low-nutrient sandy soils and highly seasonal and
+interannually variable precipitation, 800–1600 mm, the vast
+majority coming in the summer months of November–April (Oli-
+veira & Marquis 2002). Fragaszy et al. (2004a) and Visalberghi et al.
+(2007) reported that anvil stones and logs and palms with fronds
+and fruiting stalks emerging from the ground are abundant in this
+area. Hard stones suitable for cracking these tough palm nuts are
+present, although stones large enough and hard enough to crack
+nuts (300 g or more) are rare (Visalberghi et al. 2008 ).
+This study was conducted from early July to early August 2007.
+The experiment took place in a forested area that contained
+multiple stone anvils and a log anvil in close proximity. There were
+ground palms in and around the local vicinity of the experimental
+area, as in the region generally. The experimental protocol was
+approved by the animal research committee (IACUC) at the
+University of Georgia.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332322
+
+PDF PAGE 3
+Subjects
+Eleven members (seven males and four females) of one group of
+bearded capuchins, Cebus libidinosus (N ¼ 17) participated in the
+experiment. Table 1 presents a list of all members of the group and
+their body weight; Table 2 lists individual capuchins that partici-
+pated in the experiment, together with data on their age, sex and
+body weight. We assigned females of unknown age to adult status
+on the basis of reproductive status. We assigned males of unknown
+age to adult status on the basis of behaviour, size and appearance.
+Smaller males that did not participate in courtship (N ¼ 2) were
+classed as young adults.
+Palm nuts
+A local resident identiﬁed and collected the 210 palm nuts used
+in this study. Table 3 presents descriptive data on the piaçava nuts
+(Orbignya sp.; previously identiﬁed as Attalea; e.g. Fragaszy et al.
+2004a) used in this study. These nuts were locally abundant,
+although nuts of other species of palms were available to the
+capuchins in their home range at this time. We elected to use
+piaçava nuts as these are, according to our measurements, the most
+resistant to cracking of the nut species the capuchins commonly
+crack (Visalberghi et al. 2008). All the collected nuts had hard intact
+shells and contained fully formed kernels. The mesocarp was
+removed from the nuts after collection if necessary (most nuts
+already lacked the mesocarp, which is frequently eaten by other
+animals such as cows, goats and armadillos). This exposed the
+tough woody capsule enclosing the endosperms (hereafter, the
+kernels). Piaçava nuts can have two to six kernels, each fully
+enclosed by the woody capsule. The nuts were weighed to the
+nearest gram using an electronic scale (Polder /C212, Polder Inc., Port
+Chester, NY, U.S.A.). We measured each nut’s length (mm), widest
+diameter (mm) and second diameter (mm) using calipers; the
+second diameter measurement was taken 90 degrees from where
+the widest diameter measurement was taken (as described in
+Visalberghi et al. 2008). A ﬂatness index was calculated for each nut
+by dividing the smaller diameter by the widest diameter. Thus
+a ﬂatness of 1.00 would indicate that the nut was perfectly round.
+Each nut was assigned a number written along its side in indelible
+ink so that it could be identiﬁed from a distance. Weight data were
+lacking for 29 of the 210 nuts collected for the study. The Pearson
+correlation between weight and widest diameter for 181 nuts was
+þ0.87 (see also Visalberghi et al. 2008 ). As the two properties are
+highly positively correlated, in all analyses involving nut size, we
+used widest diameter, for which we had data for all of the collected
+nuts.
+During the course of testing, capuchins attempted to crack 189
+whole nuts. We could identify the number label for 89 of these. We
+could not identify the remaining 100 nuts and hereafter refer to
+these as unknown nuts. Unknown nuts were visibly indistin-
+guishable from identiﬁed nuts (lacking the mesocarp, etc.), except
+we could not read an identiﬁcation mark. These nuts were likely to
+have come from our experimental supply because alternative
+sources of whole nuts were rare in that place at that time. If the ﬁrst
+capuchin to attempt to crack a given nut failed, the nut potentially
+could be ‘reused’ by a second or subsequent capuchin. We kept
+track when this occurred for identiﬁed nuts.
+Capuchins’ weights
+Over the same time period in which we collected the nut-
+cracking data, we measured the capuchins’ individual body
+weights. This was done by mounting an electronic scale on a tree
+using a metal stand (see Fig. 1 for picture of set-up). The stand
+consisted of a vertical portion (73 /C2 18 cm) that was strapped
+against a tree trunk. The horizontal platform (57 /C2 45 cm; 92 cm
+above the ground) on the stand was covered with grey/brown
+outdoor carpet. The scale (Cardinal Detecto 50 kg model, sensitivity
+to 1 g; 30 /C2 35 /C2 5 cm) was bolted to the stand. A removable metal
+collar (33 /C2 29 cm)
+ attached to the distal portion of the platform
+and a metal bowl (25 cm diameter, 16 cm deep) rested in the collar
+at a distance of 7 cm from the scale. The rim of the bowl was the
+same height as the platform. We provisioned the bowl with water
+and kernels of corn. The weight of an object on the scale was dis-
+played on a digital screen attached to the scale via a 280 cm long
+cable.
+The experimenter sat a few metres from the scale, viewing the
+digital display, and recording the displayed weight when one
+animal was stationary and fully supported by the scale as the
+capuchins freely visited the provisioned bowl. We collected several
+weights per capuchin and report the average.
+Anvil
+We collected all behavioural data as the capuchins cracked nuts
+on one log anvil (1 m long, 12 cm high and 12 cm wide; see Fig. 2). A
+tree bordering the log anvil on the west side afforded easy arboreal
+access. This anvil was used frequently by all animals in the study
+group and it afforded good visibility for direct observation and
+ﬁlming. We designated ﬁve surface areas on the anvil on which the
+capuchins could place a palm nut. Moving from the eastern anvil
+side along its long axis to the western side (where the anvil abuts
+the tree), surface A was ﬂat; surface B was a pit 1.9 cm in depth,
+followed by small ﬂat surface C, a 1.5 cm wide area between the two
+pits. The closest pit to the tree was surface D. This pit was 1.0 cm in
+depth and was bordered by the ﬁnal ﬂat surface E on the farthest
+west position (closest to the tree). The ﬂat surfaces A, C and E
+sloped 5–10 degrees towards the southern side of the anvil.
+Hammer stone
+At the start of each day’s testing, we placed one hammer stone
+(1.465 kg) near the anvil. We weighed the stone using the same
+scale that we used to weigh the nuts. The stone was a roughly
+ellipsoid quartzite cobble. This stone was used spontaneously and
+often by all the capuchins that participated in this experiment prior
+to the experiment, even when they could choose a lighter stone.
+The stone was among the several stones, both lighter and heavier,
+normally found at the cracking site. We removed all other stones
+prior to testing and returned them each day at the end of testing.
+Procedure
+This experimental site has been provisioned daily (or periodi-
+cally less often) by the landowner with bananas, nuts and/or dry
+Table 1
+Age, sex and weight of all capuchins in the study group
+Individual Age Sex Weight (kg)
+Chica˜ o Adult Male 4.4
+Mansinho Adult Male 3.5
+Dengoso Adult Male 3.3
+Dita Adult Female 2.0
+Piaçava Adult Female 1.9
+ChuChu Adult Female 2.2
+Dende Adult Female 1.9
+Teninha Adult Female 2.2
+Chiquinha Adult Female 2.4
+Jatoba´ Young adult Male 2.7
+Teimoso Young adult Male 2.7
+Tucum Juvenile (30 months) Male 1.8
+Caboclo Juvenile (30 months) ? 1.7
+Pico Juvenile (20 months) ? 1.2
+Tomate Infant (7 months) ? 0.8
+Catu Infant (5 months) ? 0.6
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332 323
+
+PDF PAGE 4
+corn and water since 2000. The capuchins came to the area on an
+almost daily basis. The capuchins were thus habituated to close
+human presence, and we were able to observe them consistently at
+the provisioning site. We could easily identify every individual in
+the group. We used a tripod-mounted mini DV camera (Canon /C212
+GL2; Canon USA Inc., Lake Success, NY, U.S.A.) positioned at an
+oblique angle 8 m from the anvil to ﬁlm all episodes of cracking. The
+ﬁeld of view included the capuchin and anvil, and we could
+distinguish the designated surface areas of the anvil from the video.
+To begin a test session, we threw one of the previously measured
+and marked nuts towards the anvil, and we threw additional single
+nuts as needed as the session proceeded. We ﬁlmed each episode of
+cracking from the time the capuchin approached the anvil until it
+left the anvil. An experimenter audibly identiﬁed each capuchin
+and narrated events to aid in future scoring from video. The number
+of the nut the capuchin was striking was identiﬁed with the aid of
+binoculars. Capuchins cracked on a voluntary basis and all indi-
+viduals were recorded as often as they participated.
+Behavioural coding
+We collected behavioural data from video playback. We noted
+every episode of cracking, identifying the capuchin, the nut number
+(if possible to identify), and whether the nut was whole or partial.
+Per strike, we noted the capuchin’s position relative to the anvil, the
+nut position on the surface of the anvil, whether the nut cracked in
+that strike, and if it did not crack, the outcome of the strike with
+respect to displacement of the nut.
+We used a clock-face rubric, with the western end of the log (by
+the tree) designated as the 12 position, to record the capuchin’s
+position relative to the anvil when it began each striking motion.
+We pooled clock positions 2–4 into ‘position 3’ and clock positions
+8–10 into ‘position 9’, producing eight possible positions. Figure 3
+illustrates an adult female in position 9 ( Fig. 3a) and an adult male
+in position 12 (Fig. 3 b). No capuchin ever used position 3. The
+capuchins used the following seven positions: position 1: right foot
+on anvil, left foot on ground; position 5: left foot on anvil, right foot
+on ground, facing west; position 6: both feet on anvil facing west;
+position 7: right foot on anvil, left foot on ground facing west;
+position 9: both feet on ground facing north; position 1 1: left foot
+on anvil, right foot on ground, facing east; position 12: both feet on
+anvil, facing east.
+If the nut did not crack on a given strike, we coded the outcome
+of the strike with respect to displacement as follows.
+Table 2
+Efﬁciency, rank in efﬁciency and characteristics of the subject and the sample of nuts cracked by that subject
+Individual Sex/age class * Efﬁciency rank Weight (kg) Efﬁciency y with Number of
+Whole nuts Partial nuts Whole nuts Partial nuts Strikes
+Mansinho A/M 1 3.5 15.20 32.78 32 22 225
+Chica˜ o A/M 2 4.4 13.20 30.80 27 9 140
+Dengoso A/M 3 3.3 9.12 29.20 37 27 374
+Dita A/F 4 2.0 7.04 28.57 14 10 106
+Tucum J/M 5 1.8 5.00 15.12 10 15 146
+Piaçava A/F 6 1.9 3.31 25.50 9 16 169
+Teimoso Y/M 7 2.7 3.09 18.90 11 10 150
+Chuchu A/F 8 2.2 1.88 22.20 27 11 282
+Jatoba´ Y/M 9 2.70 1.32 30.00 22 3 162
+Dende A/F 10 1.94 6.30 0 7 63
+Caboclo J/M 11 1.70 5.00 0 6 40
+Human A/M NA 78 16.10 42.40 81 28 497
+* A ¼ adult; Y ¼ young; J ¼ juvenile; M ¼ male; F ¼ female.
+y Efﬁciency ¼ number of nuts opened per 100 strikes.
+Table 3
+Nut properties: number measured, weight, length, widest diameter and ﬂatness
+N Minimum Maximum Mean SD
+Weight (g) 181 14 80 45.55 13.52
+Length (mm) 210 40 87 60.26 7.43
+Widest diameter (mm) 210 27 59 40.97 5.28
+Flatness
+* 210 0.64 1 0.89 0.07
+* Flatness ¼ second diameter measure divided by the widest diameter.
+Figure 1. Capuchins’ weights were obtained using a mounted scale. The scale was
+mounted 1 m above the ground with water and food provisioned at the distal end. An
+experimenter, seated a few metres away, recorded the weight showing on the digital
+display when one capuchin was fully supported by the scale. Photo: T. Pickering.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332324
+
+PDF PAGE 5
+(1) Fall: the nut fell within 1 m of the anvil. The capuchin had to
+pick it up to continue cracking, but did not necessarily have to move
+from its position.
+(2) Fly: the nut ﬂew >1 m from the anvil. The capuchin had to
+leave its position in order to retrieve and continue cracking the
+same nut.
+(3) Catch: the capuchin caught the nut as it bounced or rolled,
+before it fell to the ground.
+(4) Reposition: the capuchin picked up the nut although it had
+not been displaced, replacing it immediately on the anvil or
+inspecting it and then replacing it. The nut could be placed in its
+previous location or another location on the anvil.
+(5) Nothing: no nut displacement occurred and the capuchin did
+not reposition the nut.
+We also noted whether the capuchin let the stone slip to the
+ground after a strike and therefore whether it had to lift the stone to
+the surface of the anvil again before the next strike. We called this
+variable ‘stone fall’. Stone fall could happen only when the capuchin
+stood on the anvil while striking (i.e. positions 6 and 12). Normally
+a capuchin standing in positions 6 or 12 let the stone rest on the
+surface of the anvil between strikes, and in this way it lifted the
+stone from the surface of the anvil at the next strike. If the stone fell
+to the ground while the capuchin stood on the anvil, the capuchin
+had to lift it to the surface of the anvil before lifting it in the next
+strike, which added to the cost of the strike.
+Stone lift height and body length measurements
+From independently acquired video samples collected while the
+monkeys cracked nuts at the same anvil, we calculated body length
+(lower leg þ upper leg þ torso) for nine of the 1 1 capuchins using
+standard two-dimensional measurement techniques (see Liu et al.
+2009a for methodological details). These videos were collected in
+the same time period as we conducted the experiment. The capu-
+chins were ﬁlmed while cracking nuts outside of the experimental
+sessions using a stone that weighed 1.42 kg (97% of the weight of
+the stone used during the present study). We selected one to six
+representative cracking episodes per individual, in accord with
+their availability in the video corpus. From among these episodes,
+we determined the single strike at which the stone reached its
+maximum height. For this strike, we calculated the stone’s height
+above the anvil, and the length of the capuchin’s body. We used
+these data to evaluate the relation between the absolute and
+proportional height the capuchins lifted the stone and their efﬁ-
+ciency rank, reasoning that more efﬁcient capuchins would lift the
+stone absolutely higher than would less efﬁcient capuchins, and
+that more efﬁcient capuchins would raise the stone to a propor-
+tionally greater height relative to body length than would less
+efﬁcient capuchins.
+Data analysis
+Data were collated by individual. Efﬁciency was calculated per
+individual as the number of strikes on whole nuts divided by the
+number of whole nuts cracked, and expressed as the number of
+whole nuts cracked per 100 strikes. A second efﬁciency score was
+calculated per individual in the same manner, using the number of
+strikes on partial nuts. We used paired t tests to compare efﬁciency
+between partial and whole nuts and Pearson correlations to
+Figure 2. A view of the anvil showing two pits (D and B) and the adjacent ﬂat surfaces
+(A, C, E). Photo: T. Pickering.
+Figure 3. Illustration of (a) an adult female and (b) an adult male bearded capuchin striking a piaçava nut with a hammer stone on the log anvil. The female is standing in position 9
+and the male is standing in position 12. A piaçava nut is clearly visible on the anvil in (a). Photos: E. Visalberghi.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332 325
+
+PDF PAGE 6
+evaluate relations among individuals’ efﬁciencies on whole nuts
+and body weight. For the paired t test, we report Hedge’s unbiased
+d as a measure of effect size, together with conﬁdence interval (CI)
+for the Hedge’s d.
+We conducted a logistic regression analysis (with SPSS v. 16)
+using the ﬁnal strike per nut as the unit of analysis, and cracked or
+not cracked as the binary outcome variable. The nine capuchins
+that cracked whole nuts contributed data to this analysis. We
+selected cracking episodes with whole nuts, using only the episode
+from the ﬁrst capuchin that attempted to crack any particular nut
+(as some nuts were attempted by more than one capuchin). The
+data set included strikes on 69 whole nuts, 40 of which were
+cracked.
+This analysis used the likelihood ratio test of signiﬁcance. The
+likelihood ratio test compares the goodness of ﬁt of the model
+including a given predictor to the model omitting that predictor
+(Cohen et al. 2003 ). Predictor variables included the body weight of
+the capuchin striking the nut, the capuchin’s position on the anvil
+at this (last) strike, the location of the nut on the anvil surface, the
+diameter of the nut, the ﬂatness index of the nut, and the number of
+the last strike. Body weight, nut diameter, ﬂatness index and
+number of strikes were centred in the analysis. We report Nagel-
+kerke R
+2 as a measure of the null deviance accounted for by the set
+of predictors, where the maximum value is 1.0. The Nagelkerke R2
+provides a logistic analogy to R2 (used in ordinary least squares
+regression). The Nagelkerke measure varies from 0 to 1, as does R2
+in ordinary least squares regression. The Hosmer–Lemeshow
+goodness-of-ﬁt test was used to conﬁrm that the model’s estimates
+ﬁt the data at an acceptable level; P > 0.05 for this test indicates
+acceptable ﬁt of the model to the data.
+Results
+Capuchins’ body weight and body length
+The weight and body length of each capuchin is shown in Table
+1. The largest capuchin, an adult male, weighed 4.4 kg. The adult
+females were much smaller, ranging from 1.9 to 2.2 kg. Adult males
+averaged 3.7 kg ( N ¼ 3) and adult females, 2.1 kg (N ¼ 6). The
+animal with the smallest body weight in the group that cracked
+nuts was a juvenile, 30 months old (Caboclo, 1.7 kg). Body length for
+adult animals that cracked nuts ranged from 0.347 to 0.408 m (see
+Table 4).
+Nut sizes and weights
+Nuts weighed an average /C6 SD of 46 /C6 13.5 g and had
+a mean /C6 SD length of 60 /C6 7.4 mm, a mean /C6 SD widest diameter
+of 41.0 /C6 5.3 mm and a mean /C6 SD ﬂatness index of 0.89 /C6 0.07.
+Maximum and minimum values for these variables are given in
+Table 3 . Nut weight and nut length were strongly correlated
+(Pearson correlation: r
+17 9¼þ 0.62), as were nut weight and widest
+diameter (r87 ¼þ 0.87).
+Nut-cracking efﬁciency
+The data set consisted of 1857 strikes on 189 whole nuts and 136
+partial nuts. Individual efﬁciencies (expressed as the number of
+nuts cracked per 100 strikes) for whole and partial nuts are pre-
+sented in Table 2. This table also presents the number of nuts for
+each category that each capuchin attempted to open. Since there
+was a high correlation (Pearson correlation: r
+7 ¼þ 0.85, P < 0.01)
+between efﬁciencies with nuts of known size and unknown nuts,
+we pooled data for known and unknown nuts in our analyses.
+Efﬁciency scores to crack whole nuts ranged from 1.32 to 15.20
+(see Table 2 ). That is, capuchins cracked 1–15 nuts per hundred
+strikes, or expressed another way, individual capuchins used on
+average 6.6 to 75.8 strikes to crack one whole nut. Some capuchins
+often failed to crack a particular nut and abandoned it to try
+another. The greatest number of consecutive strikes used to open
+a single nut was 57 (made by an adult female). Efﬁciency on partial
+nuts ranged from 5.0 to 32.8 (5–33 partial nuts cracked per 100
+strikes). All nine capuchins that cracked whole nuts used fewer
+strikes to crack partial nuts than they did to crack whole nuts
+(paired t test: t
+8 ¼ 1 1.50,P < 0.001; Hedge’s d ¼ 1.38, 95% CI ¼ 0.26,
+2.50). Individuals’ efﬁciency at cracking whole nuts correlated
+moderately with their efﬁciency at cracking partial nuts (Pearson
+correlation: r
+7 ¼þ 0.59, P < 0.10). Two capuchins (one juvenile and
+one older adult female) attempted to crack partial nuts but not
+whole nuts. These two capuchins held the lowest efﬁciency scores
+on partial nuts of all subjects (see Table 2).
+Effect of body weight on efﬁciency
+The capuchins’ weights were signiﬁcantly positively correlated
+(Pearson correlation: r
+7 ¼þ 0.75, P < 0.05) with their efﬁciencies at
+cracking whole nuts (see Fig. 4 ). The smallest capuchin to crack
+a whole nut weighed 1.8 kg. The correlation between body weight
+and efﬁciency at cracking partial nuts was also signiﬁcant
+(r9 ¼þ 0.66, P < 0.05).
+Relations among maximum height of lift, trunk length and efﬁciency
+Table 4 illustrates each capuchin’s trunk length, the maximum
+height above the anvil to which it lifted the stone, and its rank order
+for these two variables and for efﬁciency. All the capuchins lifted
+the stone a greater height than the length of their trunk. The
+Table 4
+Rank of the maximum height to which each capuchin lifted the stone, together with
+the length of its trunk, the ratio of its trunk length to the height to which it lifted the
+stone, and the rank of its overall efﬁciency
+*
+Subject Rank,
+highest
+lift
+Stone
+height
+(cm)
+Trunk
+length
+(cm)
+Stone height/
+trunk length
+Efﬁciency y
+Mansinho 1 65 40 1.64 1
+Dengoso 2 52 37 1.42 3
+Chica˜ o 3 49 41 1.21 2
+Dita 4.5 44 37 1.18 4
+Chu Chu 4.5 44 35 1.25 7
+Jatoba´ 6 43 37 1.16 8
+Piaçava 7.5 42 35 1.21 6
+Tucum 7.5 42 36 1.17 5
+Caboclo 9 40 35 1.14 9
+Average 46.8 37.0 1.26
+* These data were available for a subset of the capuchins that cracked nuts.
+y Rank order of efﬁciency on whole nuts among this subset of individuals.
+16
+Efficiency with whole nuts
+14
+12
+10
+8
+6
+4
+2
+0
+1.5 2 2.5 3 3.5
+Wei
+ght (kg)
+4 4.5 5
+Figure 4. Capuchin’s efﬁciency at cracking nuts, measured as the number of nuts
+cracked per 100 strikes, plotted by weight. Line of best ﬁt is shown.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332326
+
+PDF PAGE 7
+maximum absolute height to which the capuchin lifted the stone
+was signiﬁcantly positively correlated with efﬁciency (Pearson
+correlation: r6 ¼þ 0.83, P < 0.05) and nearly as strongly correlated
+with the proportion of the individual’s trunk length (r 6 ¼þ 0.68,
+P ¼ 0.06). That is, more efﬁcient capuchins raised the stone higher
+and tended to raise the stone a greater proportion of their trunk
+length. Figure 3 b shows the adult male Mansinho, the most efﬁ-
+cient capuchin, lifting a stone well above his head.
+Outcomes of striking: displacements, catches, repositions
+and stone falls
+Per capuchin, on average, the nut was displaced following 34% of
+strikes (range 1 1–68). On 16% of these events, the capuchins caught
+the nut before it fell off the anvil (range 0–59% of strikes per
+capuchin). On 67% of those strikes when it was displaced, it fell
+within 1 m; on the other 33% the nut ﬂew more than 1 m from the
+anvil. When the capuchins stood at positions 6 or 12, the stone fell
+off the anvil on 3.5% of strikes on average (range 0–16.4% of strikes
+per capuchin taken from these positions). The probability that the
+nut would be displaced after it was struck was modestly negatively
+correlated with the efﬁciency of the capuchin striking the nut
+(Pearson correlation: r
+7 ¼/C0 0.557, P ¼ 0.12).
+Use of different parts of the anvil surface and body position
+Table 5 presents the data for the proportion of strikes that each
+capuchin made with the nut in one of the two pits, its bias to use
+a particular position on the anvil, and which position it preferred
+for both whole and partial nuts. The majority of the capuchins (5 of
+9) exclusively used one or both of the anvil pit surfaces while
+cracking whole nuts. The other four individuals struck a whole nut
+at least once while it was on a ﬂat surface, but these individuals still
+used pits on at least 79% of their strikes. In contrast, ﬁve of 1 1
+capuchins used ﬂat surfaces for the majority of their strikes on
+partial nuts. All nine capuchins that cracked whole nuts used ﬂat
+surfaces more often with partial nuts than with whole nuts (bino-
+mial test: k ¼ 0, N ¼ 9, P ¼ 0.002; average of 43% of strikes on a ﬂat
+surface, partial nuts, versus 4% of strikes on a ﬂat surface, whole
+nuts). Overall, the odds ratio for cracking a partial nut versus
+a whole nut on a ﬂat surface was 38.2.
+Each individual used one of the three positions (6, 9 and 12) on
+greater than 50% of strikes on whole nuts. In these positions both
+feet were placed at the same level. The capuchins maintained their
+preference for a given position and the same magnitude of pref-
+erence for that position when they cracked partial nuts and whole
+nuts (average use of one position on partial nuts ¼ 69%, whole
+nuts ¼ 73%). Four capuchins were more consistent in the use of one
+position when cracking whole nuts than when cracking partial
+nuts, and ﬁve capuchins were more consistent when cracking
+partial nuts than when cracking whole nuts. The magnitude of an
+individual’s preference for one position was not signiﬁcantly
+correlated with its efﬁciency (Pearson correlation: r
+7 ¼/C0 0.256,
+P ¼ 0.505).
+Relation between body position with respect to the anvil
+and outcome of the strike
+The position that the capuchin assumed while cracking affected
+the proportion of strikes resulting in displacement of the nut (see
+Table 6). Position 9 (facing the anvil, standing on the ground) and
+position 6 (on one end of the log) were associated with a higher
+percentage of displacements (totalling 30% and 27% of all strikes for
+positions 9 and 6, respectively, compared to 19% for position 12; see
+Table 6).
+Although a preference for a speciﬁc position affected the rate of
+displacement, position preference was not associated with efﬁ-
+ciency. The mean efﬁciency rank (out of 1 1) for capuchins prefer-
+ring position 6 was 4.7 (N ¼ 3); for position 9, 7.4 ( N ¼ 5), and for
+position 12, 5.0 ( N ¼ 3). Dengoso and Mansinho each cracked more
+than 20 nuts and had equivalent efﬁciencies for nuts cracked
+entirely in positions 9 and 6. Dengoso’s efﬁciency scores were 12.5
+for position 6 and 1 1.8 for position 9; Mansinho’s scores were 17.2
+and 16.7 for the same comparison.
+Regression models of the likelihood of cracking a nut
+Two factors were identiﬁed in the stepwise logistic regression as
+signiﬁcantly improving the ﬁt of the model: body weight
+(
+b1 ¼ 1.023, P ¼ 0.009) and the diameter of the nut ( b1 ¼/C0 0.177,
+P ¼ 0.007). The odds ratio for diameter of the nut was 0.838, and for
+weight, 2.782, with Nagelkerke R2 ¼ 0.234. The Hosmer–Lemeshow
+goodness-of-ﬁt test ( c7
+2 ¼ 10.994, P ¼ 0.139) indicated that the
+model ﬁt the data at an acceptable level. Increasing body weight
+improved the likelihood of cracking the nut; increasing diameter of
+the nut decreased the likelihood. Flatness index, placement of the
+nut on the anvil (into a pit or on a ﬂat surface), and consistency of
+the capuchin’s position relative to the anvil did not signiﬁcantly
+affect the likelihood of cracking the nut.
+EXPERIMENT 2: EFFECT OF NUT POSITIONING
+Methods
+In this experiment we evaluated whether nut positioning (in
+a pit versus on a ﬂat surface) inﬂuenced nut-cracking efﬁciency and
+the probability of displacing the nut by striking it. We worked with
+a human participant so that we could generate a sufﬁcient number
+of cases where the nut was placed on a ﬂat surface for statistical
+Table 5
+Capuchins’ preferences to use a pitted surface on the anvil and to use one position
+relative to the anvil, and their preferred body position for whole and for partial nuts
+Subject Whole nuts Partial nuts
+% Strikes
+in pit
+% Strikes
+from one
+position
+Preferred
+position
+% Strikes
+in pit
+% Strikes
+from one
+position
+Preferred
+position
+Mansinho 100 85 6 61 88 6
+Chica˜ o 93 63 9 15 69 9
+Dengoso 100 58 6 75 51 6
+Dita 79 54 12 43 63 12
+Tucum 95 67 12 71 78 12
+Piaçava 99 93 12 45 53 12
+Teimoso 100 59 9 68 77 9
+Chuchu 100 87 9 42 75 9
+Jatoba´ 100 88 9 90 70 9
+Dende 52 51 6
+Caboclo 12 42 9
+Capuchins are ordered by rank in efﬁciency on whole nuts, as in Table 2.
+Table 6
+Displacement of whole nuts as a function of the capuchins’ position with respect to
+the anvil, and the capuchins’ actions after each strike
+Position 6 Position 12 Position 9
+Number of strikes 428 218 606
+% Catches 1.7 4.6 6.9
+% Falls 21.6 13.4 18.1
+% Flies 3.9 1.0 5.0
+Sum % Displacements 27.2 19.0 30.0
+% Repositions 42.1 38.1 39.3
+% Nothing 30.7 42.9 30.7
+Sum 100.0 100.0 100.0
+In positions 6 and 12 the capuchin was standing on the anvil, and in position 9 the
+capuchin was standing on the ground perpendicular to the anvil.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332 327
+
+PDF PAGE 8
+analysis. The experiment was conducted at the same site and in the
+same time frame as experiment 1, and made use of the same
+hammer stone, anvil and nuts. The experiment proceeded in four
+phases, each conducted on a different day. In phase 1, the person
+cracked 20 nuts. He was free to choose the anvil surface (ﬂat or pit).
+In phase 2, the person cracked 40 nuts, alternating between ﬂat and
+pit surfaces (one surface type per nut). In phase 3, the person
+cracked 21 nuts, and as in phase 1, he was free to choose the surface
+position. In phases 1 and 3, where the person could choose the
+surface, he usually cracked each nut using a single surface type. In
+phase 4, the person cracked 28 partial nuts, and he was free to
+choose the surface position.
+Participant
+One physically ﬁt adult male (20 years, 185 cm, 78 kg) partici-
+pated in the experiment. He wore gloves (Ironclad /C212utility work
+gloves, Ironclad Inc., El Segundo, CA, U.S.A.) while cracking. The
+participant had seen the capuchins cracking nuts and he had
+previously cracked about ﬁve of these palm nuts with a stone
+before participating in this experiment. Before he began, we
+explained that we were interested in comparing outcomes of
+cracking nuts in pits and on ﬂat surfaces, but we did not indicate
+what those outcomes might be.
+Procedure
+The person cracked nuts in a seated position using position 9
+(facing the long axis of the anvil), at a self-selected distance from
+the anvil (see Fig. 5). He held the stone bimanually at the long axis,
+as the capuchins held it. An experimenter held a stick horizontally
+45 cm above the anvil, which marked the limit above which the
+person was not to raise the hammer stone (approximately the
+height to which the capuchins lifted the hammer stone). All trials
+were videotaped in the same manner as in experiment 1. From
+playback we coded the same behaviours for the person as for the
+capuchins, except body position relative to the anvil and maximum
+lift height, because these variables were ﬁxed. The protocol for this
+experiment was approved by the University of Georgia Institutional
+Review Board.
+Analysis
+We calculated efﬁciency for the person in the same manner as
+for the capuchins. Using Welch’s t tests (an adaptation of Student’s t
+test intended for use with two samples having possibly unequal
+variances; Welch 1947), we compared the number of strikes that
+the person used to open whole nuts placed on a ﬂat surface of the
+anvil and placed in a pit, and we made the same comparison for
+partial nuts. To evaluate whether the person’s efﬁciency per nut
+was affected in the same direction as the capuchins’ efﬁciencies by
+the size or ﬂatness of the nut, we calculated the Pearson correlation
+between each of these variables and the number of strikes to crack
+the nut and the proportion of strikes in which the nuts was
+displaced. We used two-tailed alpha ¼ 0.05 for determinations of
+signiﬁcance.
+Results
+The person cracked 81whole nuts and 28 partial nuts in 563
+strikes. His efﬁciency was 16.1 for whole nuts and 42.4 for partial
+nuts. Across phases 1–3, in which he cracked only whole nuts, his
+efﬁciency scores were consistent (range 15.2–1 7.2). He cracked
+three whole nuts and six partial nuts on a combination of surfaces,
+and he cracked all others fully on a ﬂat surface or on a pit surface.
+For whole nuts, his efﬁciency was 16.3 on pit surfaces ( N ¼ 57) and
+16.8 on ﬂat surfaces ( N ¼ 22) ( t
+77 ¼/C0 0.396, P ¼ 0.77). For partial
+nuts, his efﬁciency was 56.3 when the nut was on the ﬂat surface
+(N ¼ 9), and 52.0 when the nut was in a pit ( N ¼ 13). As for whole
+nuts, this difference was not signiﬁcant ( t20 ¼/C0 0.396, P ¼ 0.70).
+Table 7 presents the ﬁndings for the displacement of whole nuts
+following a strike by the person when he placed the nut in a pit
+versus on a ﬂat surface. He displaced whole nuts proportionally
+more often when he struck them on a ﬂat surface than when he
+struck them in a pit (27% versus 3%, respectively). This distribution
+was signiﬁcantly different than expected ( c1
+2 ¼ 61.4, N ¼ 497 ,
+P < 0.001), and the odds ratio was 10.3. When the person struck
+a partial nut, he displaced it on just eight strikes out of 66 (12% of
+strikes). Six cases (75% of displacements) occurred when he struck
+the partial nut on a ﬂat surface.
+The diameter of the nut was positively correlated with the
+number of strikes that the person required to crack it (Pearson
+correlation: r78 ¼þ 0.263, P ¼ 0.018) and the proportion of
+displacements that resulted ( r78 ¼þ 0.230, P ¼ 0.04). The correla-
+tions between ﬂatness index and the proportion of strikes on which
+Figure 5. A young man cracked piaçava nuts using the same hammer stone (in his
+hands) and log anvil as the capuchins. He sat on a small log and cracked open palm
+nuts in varying anvil surface positions. Photo: E. Visalberghi.
+Table 7
+Displacement of whole nuts when struck by a person as a function of their place-
+ment in a pit or ﬂat surface
+Variable Flat Pit
+Number of nuts 22 57
+Number of strikes 125 372
+% Strikes (out of 497) 25.15 74.85
+Number of falls 17
+* 7
+% Strikes that were falls 13.60 1.88
+Number of ﬂies 17 6
+% Strikes that were ﬂies 13.60 1.61
+* Includes two catches.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332328
+
+PDF PAGE 9
+the nut was displaced were much smaller and not signiﬁcant
+(r78 ¼/C0 0.159 and r78 ¼þ 0.048, respectively).
+DISCUSSION
+Wild bearded capuchins crack nuts that are extremely resistant
+to cracking ( Visalberghi et al. 2008 ), striking them repeatedly with
+a heavy stone from a bipedal posture (Liu et al. 2009a). We consider
+this a costly foraging activity in terms of energy expenditure, time
+and risk. Here we show that individual capuchins in the same
+group, encountering the same conditions, vary in efﬁciency
+(expressed as the number of nuts opened per 100 strikes) over
+more than a 10-fold range, from 1 to 15 nuts opened per 100 strikes.
+Thus this behaviour provides an opportunity to evaluate costs and
+beneﬁts of using a tool in foraging across a wide scale of individual
+variation. We found that features of the nut, the anvil and the
+capuchin affect efﬁciency in nut cracking (considered in terms of
+the number of strikes) and in the probability that the nut will be
+displaced after it has been struck. Two unique features of our study
+are that we obtained individual weights of the capuchins, allowing
+us to investigate the contribution of body mass, and we evaluated
+a human cracking nuts on the same anvil as the capuchins,
+providing an independent evaluation of the inﬂuence of placement
+on efﬁciency and displacement of the nut after striking, and the
+relationship between the ﬂatness and the diameter of the nut and
+these variables. Together, these data allow us to begin to under-
+stand the factors that make a nut easier or more difﬁcult to crack,
+and two aspects of cost (the number of strikes and the probability
+of displacing the nut by striking it) of cracking nuts for individual
+capuchins.
+Body Weights
+Before addressing efﬁciency at cracking nuts and factors
+affecting it, we comment on our experiences weighing the capu-
+chins and their body weights. To our knowledge, we present the
+ﬁrst data for wild capuchins weighed by voluntary participation
+(rather than following capture). Altmann & Alberts (1987) pio-
+neered voluntary weighing with wild baboons, using a balance
+scale set on the ground where the baboons would stand on it as
+they descended from their sleeping trees. Goodall (1986; also see
+Pusey et al. 2005 ) had earlier pioneered using a suspension scale
+with a climbing rope to weigh wild chimpanzees. Battery-powered
+digital balance scales make this procedure easier, so long as the
+digital read out is visible from a distance at which the capuchins
+tolerate a human observer. We used a digital display attached to
+a tree-mounted scale via a 5 m cable, provided by the manufacturer
+as standard equipment with the scale, for this purpose. Providing
+a desirable, nonportable resource (water in the case of our capu-
+chins) proved a sufﬁcient incentive for the capuchins to stand on
+the scale. The capuchins needed just a few days to habituate to the
+scale, and all monkeys in the group, even subordinate individuals,
+used the scale site. Perhaps placement of the scale 1 m above the
+ground contributed to their quick habituation. We obtained
+multiple weights per individual over the course of several days.
+Thus this method proved practical with our group. We hope that
+others can adapt this method for use at other sites and with other
+species. Given that body weight and changes in body weight over
+time are important indexes of health and growth, obtaining these
+data directly from wild populations is extremely useful. Live-trap-
+ping procedures, in which the animals walk into a trap to collect
+something and are then tagged/weighed and otherwise measured,
+is effective for some species (e.g. Callithrix jacchus; Arau´ jo et al.
+2000), and bypasses the need for real-time monitoring, but we did
+not want to risk the capuchins avoiding the place where an
+individual was previously trapped. Furthermore, we did not expect
+that we could reliably capture all animals in the group with this
+method, and we wanted a procedure that we could repeat at
+intervals, to develop a longitudinal record.
+The body weights of adults in our group were more sexually
+dimorphic than we expected on the basis of published literature
+(reviewed in Fragaszy et al. 2004b). Average weight of adult females
+in our group (2.1 kg, N ¼ 6) was 57% that of adult males (3.7 kg,
+N ¼ 3). The average of male and female average weights (2.9 kg)
+indicates this population is slightly heavier, by this index, than
+C. olivaceus and C. apella, for which Ford & Davis (1992) reported
+2.7 kg, and substantially lighter than C. capucinus (3.3 kg), with
+C. albifrons much lighter than all these species (2.1 kg). Additional
+data t
+o increase our sample size will be welcomed.
+Variables Impacting the Capuchins’ Efﬁciency
+The weight of a capuchin was the single best predictor of its
+efﬁciency. Adult males weighed more than adult females and
+juveniles. Adult males, which weighed 3.5 kg or more, were far
+more efﬁcient than females and juveniles. However, adult females
+and 3-year-old juveniles differed in weight by only a few hundred
+grams, and efﬁciencies for these capuchins clustered together, at
+between one and seven nuts opened per 100 strikes. In this
+group, weight was not a strong predictor of efﬁciency. For
+example, two subadult males weighing 2.7 kg each were ranked 7
+and 9 in efﬁciency, out of 1 1 capuchins, bracketing an adult
+female that weighed 2.2 kg, and below two other adult females
+that weighed 1.9 and 2.0 kg. Thus, it is important to identify the
+contribution of other factors, in addition to weight, to efﬁciency.
+Future studies will evaluate how aspects of the capuchins’
+behaviour, such as control of the stone’s downward trajectory or
+the extent to which the capuchin can add force to the downward
+trajectory, inﬂuence efﬁciency.
+Our predictions that differences in efﬁciency would correlate
+with how the capuchins positioned themselves at the anvil and
+how they positioned the nut on the anvil were partially conﬁrmed.
+Capuchins consistently placed whole nuts into a pit on the anvil
+before striking them. Use of a pit reduced the human’s probability
+of displacing a whole nut by striking it. Thus, it can be argued that,
+by placing a nut into a pit, the capuchins reduce the probability of
+displacing the nut by striking it. Displacing the nut constitutes
+a cost, as the capuchin loses time retrieving it, may not ﬁnd it, and
+may lose access to the hammer stone and to the anvil by leaving
+them to search for the lost nut. Minimizing displacement of the nut
+is one strategy to reduce the cost of nut cracking. All capuchins in
+this study adopted this strategy. Whether the person struck the nut
+in the pit or on the ﬂat surface did not affect his efﬁciency, sug-
+gesting that the capuchins’ choice of using the pit rather than the
+ﬂat surface reﬂects aversion to the higher probability of displacing
+the nut, rather than expectations about efﬁciency.
+The capuchins’ individual preferences for where they stood in
+relation to the anvil when cracking (facing the long axis of the log
+while standing on the ground, or standing on either end of the log)
+did not affect efﬁciency, as long as they consistently used a position
+with both feet at the same level (that is, positions 6, 9 and 12, in our
+clock-face rubric, where 6 and 12 are standing at one of the two
+ends of the log). There was more variation across and within
+individuals in this aspect of behaviour than in others that we
+measured, and position seems a good candidate to examine as an
+index of skill development. Standing with the two feet at different
+heights (that is, positions 1, 5, 7 and 1 1 in our clock-face rubric)
+requires asymmetric work to maintain postural stability, and may
+decrease postural stability during lifting and striking, and/or reduce
+the ability to add force in downswing.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332 329
+
+PDF PAGE 10
+How often the nut was displaced after it was struck, or was
+caught after it was displaced, and how often the stone fell off the
+anvil after a strike (this last variable was coded only if the capuchin
+was standing on the anvil; i.e. in position 6 or 12) did not vary in
+accord with individual efﬁciency. Nor did the ﬂatness of the nut
+affect the number of strikes that a capuchin used to open a given
+nut. However, the diameter of the nut was identiﬁed in regression
+analyses as affecting the number of strikes used to crack a nut;
+larger diameters decreased the probability that a nut would crack
+on a given strike (i.e. increased the number of strikes used to open
+a nut). This ﬁnding is in accord with the ﬁnding that piaçava nuts
+with greater weight (signiﬁcantly positively correlated with diam-
+eter in this study) are more resistant to cracking under constant
+load than nuts of the same species with lower weight ( Visalberghi
+et al. 2008 ). The human’s performance cracking the same nuts on
+the same anvil provides convergent evidence that diameter of the
+nuts affects resistance to cracking but ﬂatness does not. Diameter of
+the nut negatively affected the person’s efﬁciency in the same
+direction as it affected the capuchins’, and also positively affected
+the probability that the nut would be displaced when the person
+struck it. Flatness of the nut did not affect either of these outcomes.
+Thus capuchins seeking to reduce the costs of cracking nuts should
+select smaller nuts, but the shape of the nut is not important.
+Capuchins at our site crack several species of nuts, and we know
+that the species vary in their resistance to cracking ( Visalberghi
+et al. 2008 ). Of the four species tested by Visalberghi et al. (2008) ,
+the nuts we used in this study are the most resistant to cracking
+(peak force at failure ¼ 1 1.50 kN, range 7–1 7), in part because they
+have an internal woody capsule around each kernel that makes
+them particularly resistant to failure. To keep this value in
+perspective, Visalberghi et al. (2008) reported that peak force at
+failure for walnuts is 0.37 kN, and for macadamia nuts, 2.2 kN, and
+Panda oleosa , the hardest nuts that wild chimpanzees crack, have
+a peak force at failure of 9.57 to 12.22 kN.
+Peak force at failure under constant load increases with weight
+in piaçava nuts, which as we have shown here is highly positively
+correlated with diameter, and other species of nuts follow this
+pattern ( Visalberghi et al. 2008 ). However, it is possible that
+resistance of the nuts varies if the shell becomes more brittle as it
+dries, and force required for failure may also vary as a function of
+the mechanical properties of the hammer stone and anvil (their
+stiffness, for example). We do not yet know how mechanical
+properties of nuts, stones and anvils vary, nor how these variations
+affect efﬁciency; we are currently collecting such data. At this time
+we merely point out that we expect variation in efﬁciency at
+cracking nuts even if the capuchin’s body weight and the diameter
+of the nut are unchanged, as a function of variation in the resistance
+of the nuts to cracking and variation in the mechanical properties of
+other components in the system (i.e. the stone and the anvil).
+Efﬁciency must be regarded as a characteristic of the combination
+of capuchin’s mass and behaviour as well as the nut, anvil and
+hammer, not the capuchin alone.
+Sources of Individual Variation in Efﬁciency
+One factor that accounted for some variability across individuals
+in efﬁciency of nut cracking was how high they lifted the stone. To
+a great degree this variable was affected by the size and strength of
+the individual capuchins, which was reﬂected in the strong positive
+correlation between body weight and efﬁciency. Efﬁciency is also
+likely to be dependent on the capuchin’s control of the stone and
+the angle of its impact on the nut. Kinematic studies are needed to
+examine individual patterns in these aspects of cracking, as well as
+on the work performed on the stone (Liu et al. 2009a). Linking these
+aspects of cracking to efﬁciency and to choice of actions and
+materials under varying conditions (such as when choosing among
+stones, using stones of different weight or cracking nuts of different
+hardness) and across individuals offers rich opportunities to
+examine how the capuchins perceive the problem of cracking nuts,
+and where acquired skill enters into the picture.
+Unfortunately our small sample size does not support statistical
+analysis of individual differences in efﬁciency along lines of age, sex
+or social status. Although we do not think it likely that dominance
+status determined efﬁciency in this study, it probably inﬂuenced
+individuals’ participation in the study. For example, during the
+experiment, subordinate individuals usually cracked elsewhere, on
+the margins of the group, rather than at the experimental anvil.
+However, outside of experimental sessions, subordinate individuals
+used the experimental anvil and the experimental stone, indicating
+that it was the immediate social context that affected their use of
+these materials during experimental sessions. With respect to age,
+animals younger than 3 years were not active participants in this
+experiment. Longitudinal studies suggest that young capuchins do
+not crack nuts effectively, even smaller nuts using smaller stones
+than we used in this study, until they are more than 2 years old
+(Resende et al. 2008; Liu et al. 2009b ).
+Effect of Flat and Pit Surfaces on a Human’s Efﬁciency
+at Cracking Nuts
+A human
+cracking the same species of nuts using the same stone
+and anvil showed similar patterns as did the capuchins with
+respect to the association between the diameter of the nut and the
+number of strikes needed to open the nut, and with respect to
+the large difference in efﬁciency with whole versus partial nuts. The
+human used more strikes to crack larger nuts than smaller nuts,
+and more strikes to crack whole nuts than partial nuts. Thus, we can
+use the person’s data to evaluate the effects of properties of the nut
+and the anvil surface on the capuchins’ efﬁciency.
+The human participant cracked whole nuts equally efﬁciently
+using ﬂat and pit surfaces, and he did the same for partial nuts.
+However, when he struck whole nuts placed on a ﬂat surface, he
+was signiﬁcantly more likely to displace them than if he placed
+them in a pit (there were too few cases in which a partial nut was
+displaced after it was struck to evaluate this contingency statisti-
+cally). Thus, the capuchins’ strong preference for placing whole
+nuts into a pit can be interpreted as a reasonable strategy to reduce
+the probability of displacing the nut. For comparison, capuchins
+struck whole nuts on ﬂat surfaces just 27 times; the nuts were
+displaced on 52% of these strikes. When capuchins struck whole
+nuts placed in a pit, the nuts were displaced on 31% of strikes.
+Choice and Variation in Efﬁciency
+In our study the capuchins were constrained to use one hammer
+stone, one anvil, and the nuts we provided. We know from this
+study that choice of nut matters for efﬁciency, and from other data
+we know that the capuchins prefer nuts that are easy to crack,
+unlike the whole piaçava nuts used in this study, with which they
+have lower efﬁciency at cracking ( Spagnoletti 2009 ; D. Fragaszy,
+R. Greenberg, E. Visalberghi & Q. Liu, unpublished data).
+We also know from other studies that the capuchins prefer
+anvils (and their associated pits) associated with higher efﬁciency
+(Q. Liu & D. Fragaszy, unpublished data). Finally, we know that
+capuchins prefer heavy to light hammer stones, even when the
+difference in weight of the stones is a few hundred grams, and the
+ratio of the weight difference is 1.3:1 ( Visalberghi et al. 2009 ;
+D. Fragaszy, R. Greenberg, E. Visalberghi & Q. Liu, unpublished data).
+Although we have not yet determined the effect of the weight of the
+stone on efﬁciency of cracking, it seems safe to assume that using
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332330
+
+PDF PAGE 11
+a heavier stone decreases the number of strikes needed to crack
+a nut. Thus it seems that the capuchins are attentive to the costs of
+nut cracking, and their choices of all the elements involved (nut,
+stone, anvil surface) are directed towards reducing the number of
+strikes. Our results also indicate that the capuchin’s body weight is
+an important component in efﬁciency, and of course the individual
+cannot modify this for the purpose of cracking nuts. But, as Chalk
+et al. (2008) and Wright et al. (2009) showed, the capuchins at our
+study site eat foods with a wide range of hardnesses. Thus they
+need not always crack foods as resistant to cracking as piaçava nuts.
+Spagnoletti (2009) notes that adult males crack a larger proportion
+of palm nuts than other resistant food items, compared to adult
+females and juveniles. Further work is needed to determine
+whether sexes and ages differ overall in their propensity to crack
+foods of different resistance, but we expect that males are more
+likely to attempt to crack highly resistant foods than are females
+and juveniles. At other sites, capuchins crack much smaller items
+than the nuts we presented, using smaller stones ( Ottoni & Mannu
+2001; Mannu & Ottoni 2009; Canale et al. 2009). No doubt the
+threshold body weight for effective percussive tool use (cracking)
+varies in accord with properties of the food item. We consider it
+likely that capuchins that were not very efﬁcient at cracking whole
+nuts according to the measures we used in this study are more
+efﬁcient at using stones as tools with food items that are less
+resistant than whole piaçava nuts. Partially cracked piaçava nuts
+meet this requirement, as we have seen.
+Implications for Acquisition of Nut Cracking
+Experiencing low efﬁciency does not seem to deter young
+capuchins from attempting to crack whole nuts. But, there are other
+circumstances in which young/small capuchins do experience better
+efﬁciency, namely, when they attempt to crack partial nuts. Because
+individuals frequently abandon or lose a section of a whole nut that
+they have cracked, another capuchin may ﬁnd a partial nut and try to
+crack it open. We suggest that the presence of partially cracked nuts
+provided by the activity of others supports the juveniles’ abiding
+interest in practicing nut cracking. Physical traces left at the anvil
+(shells, stones, remains of nuts) also support juveniles’ interest in the
+cracking site. In this sense, capuchins modify the environment
+through their behaviour by leaving persistent artefacts that inﬂu-
+ence the behaviour of conspeciﬁcs, an outcome called niche
+construction (Odling-Smee et al. 2003). Persistent artefacts, coupled
+with frequent social supports for manipulative activity that are tied
+more closely in time to the adults’ activity (enhancement, facilita-
+tion; Fragaszy & Visalberghi 2004; Gunst et al. 2008; da Silva 2008 ),
+explains why young capuchins persist at cracking many food items,
+including nuts, for years before succeeding routinely. In this sense,
+nut cracking is likely to be a tradition: social context aids its acqui-
+sition (Fragaszy & Perry 2003; da Silva 2008 ).
+A similar system of combined immediate and temporally per-
+sisting effects of conspeciﬁcs’ activity appears to inﬂuence young
+brown capuchins’ ( C. apella ) attempts to locate beetle larvae
+inhabiting tough bamboo canes ( Gunst et al. 2008 ). Adults’ actions
+opening bamboo canes to ﬁnd beetle larvae enhanced infants and
+juveniles’ interest in exploring these places and practising opening
+bamboo canes for years before the juveniles could locate larvae
+themselves. Physical traces of the adults’ activity in the bamboo
+attracted infants and juveniles long after the adults left the area.
+Thus, as in nut cracking, physical traces of adults’ activity provide
+infants and juveniles with opportunities to experience part or all of
+a difﬁcult foraging sequence in an easier version.
+In current ecological theory, the costs and beneﬁts of activities
+are measured at the level of the individual consumer (Stephens &
+Krebs 1986 ). Yet, this study and others suggest that the niche
+construction outcomes that result from the physical traces of
+activity, including loss of nuts through displacements, impact the
+ecology of capuchin groups in important ways. Similar processes
+may be at work in other highly social genera in which socially
+biased learning contributes substantively to the acquisition of
+locally important behaviours, and in which enduring physical
+traces are common outcomes of activity (e.g. New Caledonian
+crows using forked trees to launch candle nuts onto a suitable stone
+surface to crack them; Hunt et al. 2002 ).
+In closing, we suggest that nut cracking as practised by bearded
+capuchins is a striking example of behavioural plasticity; a behav-
+ioural example of the ‘two-legged goat effect’, in West-Eberhard’s
+(2003) phrase alluding to a well-known case of a goat born with no
+front legs that walked bipedally. In populations where nut cracking
+is a tradition, as is likely at our study site, we may look for
+accommodation to this behaviour in many aspects of morphology
+(associated with lifting and striking with heavy stones) and
+behaviour
+(e.g. bipedal stance and locomotion; exploratory actions;
+attraction to physical traces) to understand the epigenetic process
+that leads to its reliable appearance.
+Acknowledgments
+Our research protocol complied with all institutional guidelines
+for the ethical participation of humans and nonhuman animals in
+research. It was approved by the Institutional Animal Care and Use
+Committee (no. A2007-10178) and by the Institutional Review
+Board (no. 2006-10469-1) at the University of Georgia. We thank
+Stephen Fragaszy for participating as our cooperative human
+model, Barth and Kristin Wright for commenting on the manu-
+script, Jean-Baptiste Leca and Shane Furhman for assistance with
+statistical analysis and Lindsey Eisenberg for data collection of
+stone lift heights. This work was supported by grants from the
+National Geographic Society, the National Science Foundation (BCS
+350235), the National Council for Scientiﬁc and Technological
+Development (Conselho Nacional de Desenvolvimento Cientı´ ﬁco e
+Tecnolo´ gico, or CNPq) of Brazil, the National Research Council
+(Consiglio Nacionale delle Ricerche, or CNR) of Italy, and the
+European project IM-CleVeR (FP7-ICT-IP-231722).
+References
+Altmann, J. & Alberts, S. 1987. Body mass and growth rates in a wild primate
+population. Oecologia, 72, 15–20.
+Altmann, S. A. 1998. Foraging for Survival: Yearling Baboons in Africa . Chicago:
+University of Chicago Press.
+Arau´ jo, A., Arruda, M., Alencar, A., Albuquerque, F., Nascimento, M. &
+Yamamoto, M. 2000. Body weight of wild and captive common marmosets
+(Callithrix jacchus ). International Journal of Primatology , 21, 317–324.
+Beck, B. 1980. Animal Tool Behavior: the Use and Manufacture of Tools by Animals .
+New York: Garland STPM Press.
+Boesch, C. & Achermann-Boesch, H. 2000. The Chimpanzees of the Taı ¨ Forest.
+Oxford: Oxford University Press.
+Canale, G. R., Guidorizzi, C. E., Kierulff, M. C. M. & Gatto, C. A. F. R. 2009. First
+record of tool use by wild populations of the yellow-breasted capuchin monkey
+(Cebus xanthosternos ) and new records for the bearded capuchin ( Cebus libid-
+inosus). American Journal of Primatology , 71, 366–372.
+Chalk, J., Wright, B., Lucas, P., Verderane, M., Fragaszy, D., Visalberghi, E., Izar, P.
+& Ottoni, E. 2008. The mechanical properties of foods processed by Cebus
+libidinosus at Boa Vista, Brazil. American Journal of Physical Anthropology,
+Supplement, 46,7 7 .
+Cohen, P., Cohen, J., West, S. & Aiken, L. 2003. Applied Multiple Regression/Corre-
+lation for the Behavioral Sciences , 3rd edn. Mahwah, New Jersey: L. Erlbaum.
+Ford, S. & Davis, L. 1992. Systematics and body size: implications for feeding
+adaptations in New World capuchins. American Journal of Physical Anthropology ,
+88, 415–468.
+Fragaszy, D. M. & Perry, S. 2003. Towards a biology of traditions. In: Traditions
+in Nonhuman Animals: Models and Evidence (Ed. by D. M. Fragaszy & S. Perry),
+pp. 1–32. Cambridge: Cambridge University Press.
+Fragaszy, D. M. & Visalberghi, E. 2004. Socially biased learning in capuchins.
+Learning & Behaviour , 32, 24–35.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332 331
+
+PDF PAGE 12
+Fragaszy, D. M., Izar, P., Visalberghi, E., Ottoni, E. B. & de Oliveira, M. G. 2004a.
+Wild capuchin monkeys (Cebus libidinosus) use anvils and stone pounding tools.
+American Journal of Primatology , 64, 359–366.
+Fragaszy, D. M., Visalberghi, E. & Fedigan, L. M. 2004b. The Complete Capuchin: the
+Biology of the Genus Cebus . New York: Cambridge University Press.
+Goodall, J. 1986. In the Shadow of Man . Cambridge, Massachusetts: Harvard
+University Press.
+Gunst, N., Boinski, S. & Fragaszy, D. 2008. Acquisition of foraging competence in
+wild brown capuchins ( Cebus apella), with special reference to conspeciﬁcs’
+foraging artefacts as an indirect social inﬂuence. Behaviour, 45, 195–229.
+Haslam, M., Hernandez-Aguilar, A., Ling, V., Calvalho, S., de la Torre, I.,
+DeStefano, A., Du, A., Hardy, B., Harris, J., Marchant, L., Matsuzawa, T.,
+McGrew, W., Mercader, J., Mora, R., Petraglia, M., Roche, H., Visalberghi, E. &
+Warren, R. 2009. Primate archaeology. Nature, 460, 339–344.
+Hunt, G. R., Sakuma, F. & Shibata, Y. 2002. New Caledonian crows drop candle-
+nuts onto rock from communally-used forks on branches. Emu, 102, 283–290.
+Kortlandt, A. 1986. The use of tools by wild-living chimpanzees and earliest
+hominids. Journal of Human Evolution , 15, 77–132.
+Kortlandt, A. & Holzhaus, E. 1987. New data on the use of stone tools by chim-
+panzees in Guinea and Liberia. Primates, 28, 473–496.
+Liu, Q., Simpson, K., Izar, P., Ottoni, E., Visalberghi, E. & Fragaszy, D. 2009a.
+Kinematics and energetics of nut-cracking in wild capuchin monkeys ( Cebus
+libidinosus) in Piauı ´ , Brazil. American Journal of Physical Anthropology , 138,
+210–220.
+Liu, Q., Salvatori, A. M., Fragaszy, D., Izar, P., Ottoni, E. & Visalberghi, E. 2009b.
+Longitudinal case study of nut-cracking in a juvenile bearded capuchin monkey
+(Cebus libidinosus ): stand for success. American Journal of Primatology, Supple-
+ment, 71,1 0 0 .
+Mannu, M. & Ottoni, E. 2009. The enhanced tool-kit of two groups of wild bearded
+capuchin monkeys in the Caatinga: tool making, associative use, and secondary
+tools. American Journal of Physical Anthropology , 71, 242–251.
+Moura, A. C. A. & Lee, P. C. 2004. Capuchin stone tool use in Caatinga dry forest.
+Science, 306, 1909.
+Odling-Smee, F. J., Laland, K. N. & Feldman, M. W. 2003. Niche Construction: the
+Neglected Process in Evolution. Monographs in Population Biology 37 . Princeton,
+New Jersey: Princeton University Press.
+Oliveira, P. S. & Marquis, R. J. 2002. The
+ Cerrados of Brazil: Ecology and Natural
+History of a Neotropical Savanna. New York: Columbia University Press.
+Ottoni, E. & Izar, P. 2008. Capuchin monkey tool use: overview and implications.
+Evoutionary Anthropology, 17, 171–1 78.
+Ottoni, E. & Mannu, M. 2001. Semi-free ranging tufted capuchins ( Cebus apella)
+spontaneously use tools to crack open nuts. International Journal of Primatology ,
+22, 347–358.
+Pusey, A., Oehlert, G., Williams, J. & Goodall, J. 2005. Inﬂuence of ecological and
+social factors on body mass of wild chimpanzees. International Journal of
+Primatology, 26, 3–31.
+Resende, B., Ottoni, E. B. & Fragaszy, D. 2008. Ontogeny of manipulative behavior
+and nut-cracking in young capuchin monkeys ( Cebus apella): a perception-
+action perspective. Developmental Science , 11, 828–840.
+Sanz, C. & Morgan, D. 2007. Chimpanzee tool technology in the Goualougo
+Triangle, Republic of Congo. Journal of Human Evolution , 52, 420–433.
+da Silva, E. D. R. 2008. Escolha de alvos coespecı ´ ﬁcos na observaça ˜ o do uso de
+ferramentas por macacos-prego ( Cebus libidinosus ) selvagens. M.Sc. thesis,
+University of Sa˜ o Paulo.
+Spagnoletti, N. 2009. Tool use in a wild population of Cebus libidinosus in Piauı´ ,
+Brazil. Ph.D. thesis, University of Rome.
+Stephens, J. & Krebs, D. 1986. Foraging Theory . Princeton, New Jersey: Princeton
+University Press.
+Sugiyama, Y. & Koman, J. 1979. Tool-using and -making behaviour in wild chim-
+panzees at Bossou, Guinea. Primates, 20, 513–524.
+Visalberghi, E., Fragaszy, D., Ottoni, E. B., Izar, P., Oliveira, P. S. & Andrade, F. R. D.
+2007. Characteristics of hammer stones and anvils used by wild bearded
+capuchin monkeys (Cebus libidinosus) to crack open palm nuts. American Journal
+of Physical Anthropology , 132, 426–444.
+Visalberghi, E., Sabbatini, G., Spagnoletti, N., Andrade, F., Ottoni, E., Izar, P. &
+Fragaszy, D. 2008. Physical properties of palm fruits processed with tools by
+wild bearded capuchins ( Cebus libidinosus). American Journal of Primatology , 70,
+884–891.
+Visalberghi, E., Addessi, E., Truppa, V., Spagnoletti, N., Ottoni, E., Izar, P. &
+Fragaszy, D. 2009. Selection of effective stone tools by wild bearded capuchin
+monkeys. Current Biology, 19, 2 13–217.
+Waga, I. C., Dacier, A. K., Pinha, P. S. & Tavares, M. C. H. 2006. Spontaneous tool use
+by wild capuchin monkeys ( Cebus libidinosus ) in the cerrado. Folia Primatolog-
+ica, 77, 337–344.
+Welch, B. L. 1947. The generalization of ‘student’s’ problem when several different
+population variances are involved. Biometrika, 34, 28–35.
+West-Eberhard, M. J. 2003. Developmental Plasticity and Evolution . New York:
+Oxford University Press.
+Wright, B., Wright, K., Chalk, J., Verderane, M., Fragaszy, D., Visalberghi, E.,
+Izar, P., Ottoni, E., Constantino, P. & Vinyard, C. 2009. Fallback foraging as
+a way of life: using dietary toughness to compare the fallback signal among
+capuchins and implications for interpreting morphological variation. American
+Journal of Physical Anthropology , 140, 687–699.
+Yamakoshi, G. 1998. Dietary responses to fruit scarcity of wild chimpanzees at
+Bossou, Guinea: possible implications for ecological importance of tool use.
+American Journal of Physical Anthropology , 106, 283–295.
+D. Fragaszy et al. / Animal Behaviour 79 (2010) 321–332332
