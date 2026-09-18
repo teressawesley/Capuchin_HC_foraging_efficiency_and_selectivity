@@ -116,9 +116,14 @@ normalizePath("thesis_package_references.bib")
 
 # mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech.rds")
 
+# Preserve integrated-efficiency predictions from the processing-time model
+# processing_efficiency_draws <- integrated_efficiency_draws
+# saveRDS(processing_efficiency_draws, file = "generated_data/processing_efficiency_draws.rds")
+# 
+# processing_efficiency_draws <- readRDS("generated_data/processing_efficiency_draws.rds")
+
 # To use handling time instead...
 # mjoint_suc_dur_tech <- readRDS("fitted_models/mjoint_suc_dur_tech_handle_time.rds")
-
 
 # Joint Bernoulli-Gamma model -------------------------------------------------------------
 ## Info and setup -------------------------------------------------------------
@@ -872,7 +877,7 @@ plot_success_variance_violin <- ggplot(success_variance_draws,
     #   "points and intervals show medians and 66%/95% credible intervals"),
     x = paste0("Predicted variability in outcomes\n",
       "(0 = most consistent; 0.25 = most variable)"),
-    y = "Main processing techinque") +
+    y = NULL) +
   theme_classic(base_size = 14) +
   theme(plot.title.position = "plot",
     plot.caption.position = "plot",
@@ -1119,7 +1124,7 @@ succuss_duration_halfeye <- ggplot(successful_duration_draws_long, aes(x = succe
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
   labs(#title = "Efficiency (Success Duration)",
-       x = "Expected successful-attempt processing duration (seconds)",
+       x = "Expected successful-attempt processing duration for success (seconds)",
        y = "Main processing technique",
        fill = NULL) +
   theme_minimal(base_size = 14) +
@@ -1187,7 +1192,7 @@ success_halfeye <- ggplot(success_draws_long, aes(x = probability_success, y = r
   stat_halfeye(.width = c(0.66, 0.95),
                point_interval = median_qi,
                alpha = 0.8) +
-  scale_x_continuous(limits = c(0, 1), breaks = seq(0, 1, by = 0.1), labels = scales::label_number(accuracy = 0.1)) +
+  scale_x_continuous(limits = c(0, 1), breaks = seq(0, 1, by = 0.2), labels = scales::label_number(accuracy = 0.1)) +
   scale_y_discrete(labels = setNames(str_to_sentence(techs$technique), techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
   labs(# title = "Efficacy (Probability of Success)",
@@ -1286,6 +1291,8 @@ ggplot(all_summary_plot, aes(x = main_technique, y = probability_success, fill =
 
 ### ! Halfeye - Integrated Efficiency -------------------------------------------------------------
 
+# handling_efficiency_draws <- integrated_efficiency_draws
+
 ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, y = reorder(main_technique, seconds_per_success, FUN = median),
                              fill = main_technique)) +
   stat_halfeye(.width = c(0.66, 0.95),
@@ -1305,7 +1312,6 @@ ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, y = reorder(mai
 
 
 # On true log scale
-
 integrated_efficiency_halfeye <- ggplot(
   integrated_efficiency_draws,
   aes(x = log10(seconds_per_success), #log transforms data 
@@ -1319,13 +1325,74 @@ integrated_efficiency_halfeye <- ggplot(
       str_to_sentence(techs$technique),
       techs$abb_technique)) +
   scale_fill_manual(values = technique_colors, drop = FALSE) +
-  labs(x = "Integrated expected time per success (log10(seconds))",
+  labs(x = "Integrated efficiency (expected time per success (log(seconds)))",
     y = "Main processing technique",
     fill = NULL) +
   theme_minimal(base_size = 14) +
   theme(legend.position = "none")
 
 integrated_efficiency_halfeye
+
+
+# Plot for comparing handling time results to processing tim 
+
+# Shared technique order: lowest handling-time median at the bottom
+efficiency_technique_order <- handling_efficiency_draws %>%
+  group_by(main_technique) %>% summarise(median_time = median(seconds_per_success),
+    .groups = "drop") %>% arrange(median_time) %>%
+  pull(main_technique) %>% as.character()
+
+integrated_efficiency_comparison <- ggplot() +
+  # Handling time: filled distributions, medians, and credible intervals
+  stat_halfeye(data = handling_efficiency_draws,
+    aes(x = log10(seconds_per_success),
+      y = factor(main_technique,
+        levels = c(
+          "stone_pound",
+          "bite_pull",
+          "man_hands",
+          "bite_shell",
+          "hit_surface")),
+      fill = main_technique),
+    .width = c(0.66, 0.95),
+    point_interval = median_qi,
+    alpha = 0.8,
+    normalize = "groups",
+    scale = 0.9) +
+  # Processing time: dashed outlines only
+  ggdist::stat_slab(
+    data = processing_efficiency_draws,
+    aes(x = log10(seconds_per_success),
+        y = factor(
+          main_technique,
+          levels = c(
+            "stone_pound",
+            "bite_pull",
+            "man_hands",
+            "bite_shell",
+            "hit_surface")),
+      colour = main_technique,
+      fill = main_technique),
+    alpha = 0.15,
+    linetype = "dashed",
+    linewidth = 0.8,
+    normalize = "groups",
+    scale = 0.9) +
+  scale_x_continuous(breaks = scales::breaks_width(1)) +
+  scale_y_discrete(labels = c(
+      hit_surface = "Hit/pound on surface",
+      bite_pull   = "Bite and pull with teeth",
+      man_hands   = "Manipulate with hands",
+      bite_shell  = "Bite shell",
+      stone_pound = "Pound with hammerstone")) +
+  scale_fill_manual(values = technique_colors, drop = FALSE) +
+  scale_colour_manual(values = technique_colors, drop = FALSE) +
+  labs(x = "Integrated efficiency - \nexpected time per success (log(seconds))", y = NULL) +
+  theme_minimal(base_size = 14) +
+  theme(legend.position = "none", axis.title.x = element_text(size = 12))
+
+integrated_efficiency_comparison
+
 
 
 ### Overlapping technique integrated efficiency posterior-density with rug -------------------------------------------------------------
@@ -1351,6 +1418,56 @@ ggplot(integrated_efficiency_draws, aes(x = seconds_per_success, colour = main_t
                                     fill = NA),
         axis.text.y = element_blank(),
         axis.ticks.y = element_blank())
+
+
+### ! Grid of 4 Halfeye plots -------------------------
+
+# Wrap long axis titles for the narrow panels
+combined_efficiency_plot <- (
+  ((succuss_duration_halfeye +
+       labs(x = "Expected successful-attempt\nprocessing duration (seconds)")) |
+      (failure_duration_halfeye +
+         labs(x = "Expected failed-attempt\nprocessing duration (seconds)"))) /
+    ((success_halfeye +
+         labs(x = "Expected probability\nof success")) |
+        (integrated_efficiency_halfeye +
+           labs(x = "Integrated efficiency -\nexpected time per success(log(seconds))")))) +
+  patchwork::plot_layout(
+    widths = c(1, 1),
+    heights = c(1, 1)) +
+  patchwork::plot_annotation(tag_levels = "A")
+
+# Apply consistent formatting across panels
+combined_efficiency_plot <- combined_efficiency_plot &
+  theme(text = element_text(size = 9),
+    axis.title.x = element_text(
+      size = 9,
+      margin = margin(t = 6)),
+    axis.title.y = element_blank(),
+    axis.text.x = element_text(size = 8),
+    axis.text.y = element_text(size = 8),
+    plot.tag = element_text(
+      face = "bold",
+      size = 12),
+    legend.position = "none",
+    plot.margin = margin(6, 6, 6, 6))
+
+combined_efficiency_plot
+
+combined_efficiency_plot <- combined_efficiency_plot &
+  scale_y_discrete(labels = c(
+      "hit_surface" = "Hit",
+      "bite_pull" = "Bite & pull",
+      "man_hands" = "Hands",
+      "bite_shell" = "Bite shell",
+      "stone_pound" = "Stone"))
+
+combined_efficiency_plot
+
+# Export at the intended physical size
+ggsave(filename = "combined_efficiency_portrait.png", plot = combined_efficiency_plot,
+  width = 16, height = 23, units = "cm", dpi = 600, bg = "white", path = "plots_tables")
+
 
 
 ### Ellipse plots - individual variation -------------------------------------------------------------
@@ -1477,7 +1594,8 @@ plot_indv_success_duration <- ggplot(indv_tech_plot_data, aes(x = successful_dur
   stat_ellipse(aes(group = main_technique, linetype = "50%"), type = "norm", level = 0.50, linewidth = 0.9) +
   # One posterior median point per individual and technique
   geom_point(size = 1.8, alpha = 0.5) +
-  scale_y_continuous(labels = scales::percent, limits = c(0, 1)) +
+  scale_y_continuous(labels = scales::label_number(accuracy = 0.1),
+    breaks = seq(0, 1, by = 0.2), limits = c(0, 1)) +
   scale_colour_manual(values = technique_colors, labels = setNames(
       str_to_sentence(techs$technique), techs$abb_technique), drop = FALSE) +
   scale_linetype_manual(values = c(
@@ -1489,9 +1607,9 @@ plot_indv_success_duration <- ggplot(indv_tech_plot_data, aes(x = successful_dur
     name = "Ellipse level") +
   labs(#title = "Individual Success and Duration Predictions by Technique",
        #subtitle = "Ellipses summarize individual posterior median predictions",
-       x = paste0("Individual predicted successful-attempt processing duration\n",
+       x = paste0("Predicted successful-attempt processing duration\n",
                "(seconds)"),
-       y = "Individual predicted probability of success",
+       y = "Predicted probability of success",
        colour = "Main technique") +
   guides(colour = guide_legend(
       order = 1,
@@ -1546,8 +1664,8 @@ plot_indv_failure_duration <- ggplot(indv_tech_plot_data, aes(x = failed_duratio
   stat_ellipse(aes(group = main_technique, linetype = "50%"), type = "norm", level = 0.50, linewidth = 0.9) +
   # One posterior median point per individual and technique
   geom_point(size = 1.8, alpha = 0.5) +
-  scale_y_continuous(labels = scales::percent,
-    limits = c(0, 1)) +
+  scale_y_continuous(labels = scales::label_number(accuracy = 0.1),
+    breaks = seq(0, 1, by = 0.2), limits = c(0, 1)) +
   scale_colour_manual(values = technique_colors,
     labels = setNames(str_to_sentence(techs$technique), techs$abb_technique),
     drop = FALSE) +
@@ -1558,9 +1676,9 @@ plot_indv_failure_duration <- ggplot(indv_tech_plot_data, aes(x = failed_duratio
     name = "Ellipse level") +
   labs(#title = "Success Probability and Failed-Attempt Duration",
     #subtitle = "Ellipses summarize individual posterior median predictions",
-    x = paste0("Individual predicted failed-attempt processing duration\n",
+    x = paste0("Predicted failed-attempt processing duration\n",
                "(seconds)"),
-    y = "Individual predicted probability of success",
+    y = "Predicted probability of success",
     colour = "Main technique") +
   guides(colour = guide_legend(
     order = 1,
@@ -1593,6 +1711,63 @@ plot_indv_duration_comparison <-
     legend.box.just = "center")
 
 plot_indv_duration_comparison
+
+# Adjusting for thesis
+
+short_technique_labels <- c(
+  hit_surface = "Hit",
+  bite_pull   = "Bite & pull",
+  man_hands   = "Hands",
+  bite_shell  = "Bite shell",
+  stone_pound = "Stone")
+
+plot_indv_success_duration <- plot_indv_success_duration +
+  scale_colour_manual(values = technique_colors, labels = short_technique_labels, drop = FALSE)
+
+plot_indv_failure_duration <- plot_indv_failure_duration +
+  scale_colour_manual(values = technique_colors, labels = short_technique_labels, drop = FALSE)
+
+plot_indv_duration_comparison <- (
+  (plot_indv_success_duration +
+     labs(x = "Predicted successful-attempt\nprocessing duration (seconds)",
+       y = "Predicted probability of success")) |
+    (plot_indv_failure_duration +
+       labs(x = "Predicted failed-attempt\nprocessing duration (seconds)",
+         y = NULL))) +
+  patchwork::plot_layout(
+    widths = c(1, 1),
+    guides = "collect") +
+  patchwork::plot_annotation(tag_levels = "A")
+
+# Consistent formatting for the intended print size
+plot_indv_duration_comparison <- plot_indv_duration_comparison &
+  guides(colour = guide_legend(
+      order = 1,
+      nrow = 1,
+      byrow = TRUE,
+      override.aes = list(linetype = "blank", alpha = 1)),
+    linetype = guide_legend(
+      order = 2,
+      nrow = 1,
+      override.aes = list(colour = "grey25"))) &
+  theme(text = element_text(size = 9),
+    axis.title = element_text(size = 9),
+    axis.title.x = element_text(margin = margin(t = 6)),
+    axis.text = element_text(size = 8),
+    plot.tag = element_text(face = "bold", size = 12),
+    legend.position = "bottom",
+    legend.box = "vertical",
+    legend.box.just = "center",
+    legend.title = element_text(size = 9),
+    legend.text = element_text(size = 8),
+    legend.key.width = grid::unit(0.7, "cm"),
+    legend.key.height = grid::unit(0.05, "cm"),
+    legend.spacing.y = grid::unit(0.01, "cm"),
+    plot.margin = margin(3, 3, 3, 3))
+
+plot_indv_duration_comparison
+
+# Exported at 700 x 450
 
 #### 3D (combining Prob. success vs Success duration vs Failure duration) -------------------------------------------------------------
 
