@@ -79,6 +79,8 @@ sex_colours <- c(
 
 # m_success_age <- readRDS("fitted_models/m_success_age.rds")
 
+# m_duration_age <- readRDS("fitted_models/m_duration_age.rds")
+
 # Age effect on... --------------------------------------------------------------
 ## ...success probability --------------------------------------------------------------------
 
@@ -1194,7 +1196,62 @@ duration_age_grouped_barplot <- ggplot(duration_age_success_summary,
 
 duration_age_grouped_barplot
 
+# Adjusted for thesis - 
+duration_age_grouped_barplot <- ggplot(duration_age_success_summary,
+  aes(x = age, y = estimate, fill = age, colour = age, group = success_class)) +
+  geom_col(aes(alpha = success_class),
+    position = position_dodge(width = 0.75),
+    width = 0.60,
+    colour = NA) +
+  geom_errorbar(aes(ymin = lower_95, ymax = upper_95),
+    position = position_dodge(width = 0.75),
+    width = 0.16,
+    linewidth = 0.55) +
+  scale_fill_manual(values = age_colours) +
+  scale_colour_manual(values = age_colours_dark) +
+  scale_alpha_manual(values = c(Successful = 0.9, Unsuccessful = 0.45),
+    breaks = c("Successful", "Unsuccessful")) +
+  scale_x_discrete(limits = c("juvenile", "subadult", "adult"),
+    labels = c(juvenile = "Juvenile",
+      subadult = "Subadult",
+      adult = "Adult"),
+    expand = expansion(add = 0.55)) +
+  scale_y_continuous(breaks = seq(0, 40, by = 10),
+    labels = scales::label_number(accuracy = 1),
+    expand = expansion(mult = c(0, 0.03))) +
+  coord_cartesian(ylim = c(0, 40)) +
+  labs(x = NULL,
+    y = "Predicted duration (seconds)",
+    alpha = "Sequence outcome") +
+  guides(fill = "none",
+    colour = "none",
+    alpha = guide_legend(
+      override.aes = list(fill = "grey45", colour = NA))) +
+  theme_minimal(base_size = 12, base_family = "sans") +
+  theme(panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_line(
+      colour = "grey92",
+      linewidth = 0.4),
+    axis.text.x = element_text(
+      size = 12,
+      colour = "grey20",
+      margin = margin(t = 8)),
+    axis.text.y = element_text(
+      size = 10,
+      colour = "grey40"),
+    axis.title.y = element_text(
+      size = 11,
+      margin = margin(r = 12)),
+    legend.position = "top",
+    legend.title = element_text(size = 11),
+    legend.text = element_text(size = 10),
+    plot.background = element_rect(
+      fill = "white",
+      colour = NA),
+    plot.margin = margin(14, 18, 12, 12))
 
+duration_age_grouped_barplot
 
 # Sex effect.... -----------------------------------------------------------------
 ## ...success probability --------------------------------------------------------------------
@@ -1766,7 +1823,72 @@ duration_sex_outcome_plot <- ggplot(
 duration_sex_outcome_plot
 
 
+## !Thesis - Success and failure duration per sex - Bar plot --------------------
 
+# Darker versions of your existing sex colours for error bars
+sex_colours_dark <- vapply(sex_colours, function(colour) {
+  rgb_values <- grDevices::col2rgb(colour) / 255
+  grDevices::rgb(red = rgb_values[1] * 0.7,
+    green = rgb_values[2] * 0.7,
+    blue = rgb_values[3] * 0.7)}, character(1))
+
+duration_sex_success_summary <- duration_sex_success_summary %>%
+  mutate(sex = factor(sex, levels = c("male", "female")),
+    success_class = factor(success_class, levels = c("Successful", "Unsuccessful")))
+
+duration_sex_outcome_plot <- ggplot(duration_sex_success_summary,
+  aes(x = sex, y = estimate, fill = sex, colour = sex, group = success_class)) +
+  geom_col(aes(alpha = success_class),
+    position = position_dodge(width = 0.75),
+    width = 0.60,
+    colour = NA) +
+  geom_errorbar(aes(ymin = lower_95, ymax = upper_95),
+    position = position_dodge(width = 0.75),
+    width = 0.16,
+    linewidth = 0.55) +
+  scale_fill_manual(values = sex_colours) +
+  scale_colour_manual(values = sex_colours_dark) +
+  scale_alpha_manual(values = c(Successful = 0.9, Unsuccessful = 0.45),
+    breaks = c("Successful", "Unsuccessful")) +
+  scale_x_discrete(limits = c("male", "female"),
+    labels = c(male = "Male", female = "Female"),
+    expand = expansion(add = 0.55)) +
+  scale_y_continuous(breaks = seq(0, 40, by = 10),
+    labels = scales::label_number(accuracy = 1),
+    expand = expansion(mult = c(0, 0.03))) +
+  coord_cartesian(ylim = c(0, 40)) +
+  labs(x = NULL,
+    y = "Estimated duration (seconds)",
+    alpha = "Sequence outcome") +
+  guides(fill = "none",
+    colour = "none",
+    alpha = guide_legend(
+      override.aes = list(fill = "grey45", colour = NA))) +
+  theme_minimal(base_size = 12, base_family = "sans") +
+  theme(panel.grid.major.x = element_blank(),
+    panel.grid.minor = element_blank(),
+    panel.grid.major.y = element_line(
+      colour = "grey92",
+      linewidth = 0.4),
+    axis.text.x = element_text(
+      size = 12,
+      colour = "grey20",
+      margin = margin(t = 8)),
+    axis.text.y = element_text(
+      size = 10,
+      colour = "grey40"),
+    axis.title.y = element_text(
+      size = 11,
+      margin = margin(r = 12)),
+    legend.position = "top",
+    legend.title = element_text(size = 11),
+    legend.text = element_text(size = 10),
+    plot.background = element_rect(
+      fill = "white",
+      colour = NA),
+    plot.margin = margin(14, 18, 12, 12))
+
+duration_sex_outcome_plot
 
 
 

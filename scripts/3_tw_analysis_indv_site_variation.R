@@ -983,13 +983,37 @@ plot_technique_individual <- ggplot(technique_individual_summary, aes(x = .epred
   facet_grid(arena_site ~ .category,
     scales = "free_y",
     space = "free_y",
-    labeller = labeller(.category = as_labeller(technique_labels))) +
+    labeller = labeller(
+      .category = as_labeller(c(
+        stone_pound = "Stone",
+        bite_pull   = "Bite & pull",
+        bite_shell  = "Bite shell",
+        hit_surface = "Hit",
+        man_hands   = "Hands")))) +
   scale_x_continuous(breaks = c(0, 0.5, 1),
     labels = c("0.0", "0.5", "1.0"),
     limits = c(0, 1)) +
-  scale_colour_manual(values = age_sex_colours,
-    na.value = "grey60") +
-  labs(x = "Individual estimated probability of technique use",
+  scale_colour_manual(
+    values = age_sex_colours,
+    breaks = c("adult female",
+      "subadult female",
+      "adult male",
+      "subadult male",
+      "juvenile male",
+      "non-adult",
+      "juvenile"),
+    labels = c(
+      "Adult female",
+      "Subadult female",
+      "Adult male",
+      "Subadult male",
+      "Juvenile male",
+      "Non-adult",
+      "Juvenile"),
+    na.value = "grey60",
+    guide = guide_legend(nrow = 2, byrow = TRUE)
+  ) +
+  labs(x = "Individual predicted probability of technique use",
     y = "Individual",
     colour = "Age/sex class",
     #title = "Individual probabilities of using each main technique",
@@ -1001,9 +1025,12 @@ plot_technique_individual <- ggplot(technique_individual_summary, aes(x = .epred
   theme(
     panel.spacing = grid::unit(1, "lines"),
     strip.text = element_text(face = "bold"),
-    panel.grid.major.y = element_blank(),
-    legend.position = "right" )
+    panel.grid.major.y = element_line(
+      colour = "grey90", linewidth = 0.3),
+    legend.position = "top" )
 plot_technique_individual
+
+# Export at 650x750
 
 
 #! ...by age/sex class -------------------------------------------------------------
@@ -1466,31 +1493,50 @@ success_individual_order <- success_individual_summary %>%
 success_individual_summary <- success_individual_summary %>%
   mutate(video_unique_subject = factor(video_unique_subject, levels = rev(success_individual_order)))
 
-
-plot_success_individual <- ggplot(success_individual_summary, aes(x = .epred, y = video_unique_subject, xmin = .lower, xmax = .upper, colour = age_sex)) +
+plot_success_individual <- ggplot(success_individual_summary,
+  aes(x = .epred, y = video_unique_subject, xmin = .lower, xmax = .upper, colour = age_sex)) +
   geom_pointrange(linewidth = 0.7) +
   facet_wrap( ~ arena_site,
     scales = "free_y",
     ncol = 1) +
-  scale_x_continuous(labels = scales::percent,
+  scale_x_continuous(
+    breaks = c(0, 0.5, 1),
+    labels = c("0.0", "0.5", "1.0"),
     limits = c(0, 1)) +
-  scale_colour_manual(values = age_sex_colours,
-    na.value = "grey60") +
-  labs(x = "Estimated probability of success",
+  scale_colour_manual(
+    values = age_sex_colours,
+    breaks = c(
+      "adult female",
+      "subadult female",
+      "adult male",
+      "subadult male",
+      "juvenile male",
+      "non-adult",
+      "juvenile"),
+    labels = c(
+      "Adult female",
+      "Subadult female",
+      "Adult male",
+      "Subadult male",
+      "Juvenile male",
+      "Nonadult",
+      "Juvenile"),
+    na.value = "grey60",
+    guide = guide_legend(nrow = 2, byrow = TRUE)) +
+  labs(x = "Individual predicted probability of success",
     y = "Individual",
-    colour = "Age/sex class",
-    title = "Individual probabilities of success",
-    subtitle = paste(
-      "Points are posterior medians;",
-      "intervals are 95% credible intervals")) +
+    colour = "Age/sex class") +
   theme_minimal(base_size = 12) +
   theme(strip.text = element_text(face = "bold"),
-    panel.grid.major.y = element_blank(),
-    legend.position = "right")
+    panel.spacing = grid::unit(1, "lines"),
+    panel.grid.major.y = element_line(
+      colour = "grey90",
+      linewidth = 0.3),
+    legend.position = "top")
 
 plot_success_individual
 
-
+# Export 650x800
 
 #! ...by age/sex class -------------------------------------------------------------
 
