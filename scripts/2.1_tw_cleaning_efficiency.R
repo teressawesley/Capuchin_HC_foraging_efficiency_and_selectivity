@@ -1235,5 +1235,5 @@ seq_all_min <- all_sec_to_min(seq_all_s)
 # 
 # write_csv(seq_all_min,
 #   "generated_data/eff_seq_all_min.csv")
-
+# 
 

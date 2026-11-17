@@ -21,12 +21,14 @@ library(readxl)
 # load csv files with aggregated BORIS output
 TPP <- read.csv("raw_data/2PP/2026-HC-2PPSTREAM-A-B__ALL.csv") # Teressa's csv with all 2PP site coded by TW
 COCO <- read.csv("raw_data/COCO/2026-HC-COCO-A-B__ALL.csv") # Teressa's csv with all COCO site coded by TW
-BBC <- read.csv("raw_data/BBC/2026-HC-BBC-A-B__ALL.csv") # Teressa's csv with all COCO site coded UP TO JULY 23 coded by TW
+BBC <- read.csv("raw_data/BBC/2026-HC-BBC-A-B__ALL.csv") # Teressa's csv with all BBC site 
+DISC <- read.csv("raw_data/DISC/2026-HC-DISC-A-B__ALL.csv") # Teressa's csv with all DISC site 
 
 # tidy names using the janitor package
 TPP <- clean_names(TPP)
 COCO <- clean_names(COCO)
 BBC <- clean_names(BBC)
+DISC <- clean_names(DISC)
 
 # bind all datasets together (after making sure they have the same number and order of columns)
 # All were exported from same BORIS version, so they should match up; use code below to check
@@ -34,7 +36,7 @@ BBC <- clean_names(BBC)
 # old_cols <- names(COCO)[!names(COCO) %in% names(TPP)]
 
 # bind them all together
-arenas <- rbind(TPP, COCO, BBC)
+arenas <- rbind(TPP, COCO, BBC, DISC)
 # sort so that observations from the same video are clustered together and it's chronological
 arenas <- arenas[order(arenas$observation_id),]
 
@@ -48,7 +50,7 @@ arenas <- arenas %>%
   mutate(
     observation_date = str_extract(
       observation_id,
-      "(?<=__)\\d{4}-\\d{2}-\\d{2}_\\d{2}-\\d{2}-\\d{2}"
+      "(?<=__)\\d{4}-\\d{2}-\\d{2}_+\\d{2}-\\d{2}-\\d{2}"
     ),
     observation_date = str_replace(observation_date, "_", " "),
     observation_date = str_replace(
